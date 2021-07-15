@@ -639,6 +639,31 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "CIBC chooses Microsoft Azure as its primary cloud platform"
+    excerpt: "The Canadian Imperial Bank of Commerce (CIBC) has formalized a multi-year relationship with Microsoft to designate Microsoft Azure as its primary cloud platform. The relationship speaks to accepting the secure hyperscale cloud for all workloads ..."
+    publishedDateTime: 2021-07-12T17:54:00Z
+    webUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826"
+    ampWebUrl: "https://www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/cibc-chooses-microsoft-azure-as-its-primary-cloud-platform/118826?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 57
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/07/GettyImages-1254895286-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
+  - title: "Computer Vision in Microsoft Azure"
+    excerpt: "In Microsoft Azure, the Computer Vision cognitive service uses pre-trained models to analyze images, enabling software developers to easily build applications'see\" the world and make sense of it."
+    publishedDateTime: 2021-07-13T14:54:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/computer-vision-in-microsoft-azure-0_BBWz15fDEeu46w60Xgbpdw"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 57
   - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
     excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
     publishedDateTime: 2021-01-27T17:15:00Z

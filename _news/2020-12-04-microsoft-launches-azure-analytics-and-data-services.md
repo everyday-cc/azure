@@ -694,6 +694,15 @@ related:
         width: 800
         height: 622
         isCached: true
+  - title: "Introduction to Microsoft Azure Cloud Services"
+    excerpt: "Whether you're just beginning to work with the cloud or you already have cloud experience and are new to Microsoft Azure, this course provides you with everything you need to get started."
+    publishedDateTime: 2021-07-13T14:54:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/introduction-to-microsoft-azure-cloud-services-0_3F6VL2JKEeuj5A4IE9yi4Q"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 57
   - title: "Microsoft Bumping Up SLA Support for Azure Active Directory B2C Service"
     excerpt: "Microsoft had lots to say this month about its Azure Active Directory service. Organizations can look forward to a coming new B2C service-level agreement (SLA). They're also getting deprecated support in the Azure Kubernetes Service."
     publishedDateTime: 2021-02-25T15:40:00Z

@@ -693,6 +693,15 @@ related:
         width: 800
         height: 622
         isCached: true
+  - title: "Introduction to Microsoft Azure Cloud Services"
+    excerpt: "Whether you're just beginning to work with the cloud or you already have cloud experience and are new to Microsoft Azure, this course provides you with everything you need to get started."
+    publishedDateTime: 2021-07-13T14:54:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/introduction-to-microsoft-azure-cloud-services-0_3F6VL2JKEeuj5A4IE9yi4Q"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 57
   - title: "Microsoft launches Azure analytics and data services"
     excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
     publishedDateTime: 2020-12-03T16:08:00Z
@@ -1739,6 +1748,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "uUfazGGG+j35shQafkgS81Oqk2dGDdNO7aKEdSs79ebSZSBsoNWw5WYEWDrCVRBoi7W5SaLTmjgk4XpFpehpPQiQLa2QvdLNq7Fhjc0OFjY5p1IUNkIgX+faVhq9VAMngxsvmiwH4b/JDYJB2huJSlupBulIiAcK3ty8ZH8fjMvhmgpv1jwSVNUz+bXJL7ePE3itTsmrdbec2WcMhoVQ4hzLhWlLcPFzinTMD2KDd/E3eY/7D/xjOPZo+5aNF3ZWMr8GYA0j4YcDoTHrG8zH1W82a2Rr7tqUDE/XWTZWAvpj874bhb0tKVxHz+bcv1HXcg6HT3MBIgiGOXUEwfMc4TAYR7Cfe/8GXRoUkttfCM8=;1WZAuX9pqhjwy+lcH+TcoQ=="
+secured: "Ht+elRVhyE+Rm6Z3b+zjQPn/qi+5n5cdYK31baQ+D+8tXe1NQakEK7aQAgQzad2Xz8DCqrQeCwOlAjCLwgbEa4UAFABxkuK6DQ9ngnbIHGerub7A4f7gp2ZU2toZNdncVNvXdM2bPUSUX9qibzp7QnYNqzNToyyT9RSEiSfCqt5RiRgSnmdVZPIevoksR8NoiTMsUul52+J0VbkSQ7ZSV9IbJFIZvRB0WestnvtBT/Y6VbKFOQGEW/2fAIbA8qRAyaW26X+9e6ktfBdduz+n+eGAfFFirDqusb5iynBrEJuqXswkPG9/kWblQsMX9IcXQMWCyJHR8T0wFxr7NG4t/iB0Whi+E68N7DizLsbduFdjCQtSQvHaTVKbQcXc9/RKxY2HBB5lNlAgPOeldkPt5+b8AAPoo5k1UeQ6IF7MDTULFT0o7127GKgEFxJQNf4TbLj99srvHH0tlQBNBMkMa/xROrYkOfiuouH9igJZTEZAOQxmfgiZrhDan0Jo64bd+aEpLAgtRUY1mfP2dObPuw==;1i1xCWe8zSQsTxoVubXSAA=="
 ---
 

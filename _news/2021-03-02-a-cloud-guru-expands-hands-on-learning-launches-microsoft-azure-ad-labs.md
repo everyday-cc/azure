@@ -687,6 +687,15 @@ related:
         width: 800
         height: 622
         isCached: true
+  - title: "Introduction to Microsoft Azure Cloud Services"
+    excerpt: "Whether you're just beginning to work with the cloud or you already have cloud experience and are new to Microsoft Azure, this course provides you with everything you need to get started."
+    publishedDateTime: 2021-07-13T14:54:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/introduction-to-microsoft-azure-cloud-services-0_3F6VL2JKEeuj5A4IE9yi4Q"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 57
   - title: "Microsoft launches Azure analytics and data services"
     excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
     publishedDateTime: 2020-12-03T16:08:00Z

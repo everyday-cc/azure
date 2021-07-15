@@ -37,20 +37,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
-    excerpt: "D2iQ, a leading independent Kubernetes platform, today announced the availability of the D2iQ Kubernetes Platform (DKP), including D2iQ Kommander, D2iQ Konvoy, and D2iQ Kaptain, in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-07-12T13:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/d2iq-now-available-in-the-microsoft-azure-marketplace-1030597288"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Microsoft Cloud PC details leaked before its 2021 release"
     excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
     publishedDateTime: 2020-11-05T08:52:00Z
@@ -82,6 +68,20 @@ related:
       - url: "https://images.zawya.com/pr/images/2021/BerendJanvanMaanenCEOInTWO_2021_07_06.jpg"
         width: 450
         height: 578
+        isCached: true
+  - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
+    excerpt: "\"We are pleased and proud to make the D2iQ Kubernetes Platform (DKP), with its components Kommander, Konvoy, and Kaptain, available to our customers in the Microsoft Azure Marketplace,\" said Tobi ..."
+    publishedDateTime: 2021-07-12T13:06:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/d2iq-now-available-in-the-microsoft-azure-marketplace-301331501.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1156495/D2IQ_Logo.jpg?p=facebook"
+        width: 2161
+        height: 1130
         isCached: true
   - title: "TIBCO Recognized as a Finalist in the 2021 Microsoft Azure Partner of the Year Awards"
     excerpt: "\"Our continued focus on developing technologies that deliver a cloud-first experience aligns perfectly to our close collaboration with Microsoft and the Azure cloud computing platform,\" said Tony Beller,"
