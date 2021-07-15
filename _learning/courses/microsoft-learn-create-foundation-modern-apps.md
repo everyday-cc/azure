@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT49M
 ratings:
-  count: 18
-  average: 4.888889
+  count: 24
+  average: 4.7083335
 heat: 50
 
 provider:
@@ -29,6 +29,12 @@ topics:
   - Storage
   - DevOps
 
-secured: "G2gRs7I+It2bV9uGuB6Xw8TJ1qhIN/htJ9NRANn5BB32+ill87tOZzx5tXdEsOuXbEXxhCmVbDDWPMszOBf3g5IrGkBL1HwoeU3OswiQtm0n7YsbiQsQMqU4HpHyHM1tD95kh0OmAhqgvG1DptSpMseujjAiqfDfh7FWeAJ+IO1Yp/IYPbWih4JVCCmVm1St/wxhIqvnDegJzDffXLvBbPX5Iv8AGJ37JuhVe+wioG0zOFzZf1g1+qNSCbV6LFKgbbBTcwIg+d/UzUDZ+6LJUjYU0wQIJ7ekMTSlyGMfMjft2xY0+5JfgB40+NW+Ot1TGDNb9IGO7bcDcHF5EgSM1v7AD9qrIL4SWXepHF9XUPIv74YMEdD2HNwAJ9RtmZDMZjU8ZGIZm8ZqPOk/+sG3bYT1QHvpyEmnCwPgWEqJmOQ=;tMhYmEI5l1koQOd0NGgkpA=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/create-foundation-modern-apps-social.png
+    width: 641
+    height: 321
+    isCached: true
+
+secured: "4yqyGB07etbSi7Bhn6LBmwWWbL45BJKvjjvqQuM/e7YQ3RNJAqVOCjASl+kH3WQHi0PenpHmNf9aGadAM7rPpeXKt4wF/2vhJfRaxUKBBTLqQ/1LDPJSRbhu1UhTEIow7+Ff6ENmIHNKj5FWAQhPs9nNMzQZwJ1/xQNBW/yeeoxTQE9l18PS2xTgJvo5vrikrehERWdCk1MSiXgPRQu16G/9vqKl6P4M8nxbXrWmqIgQ5tBdla9nLRZZ3mYxYeFCHtl+DNvd/o8jEyAKix/21lkcepVhBLZSPiw8JghmBJ8uqFOcsSATWULsZVcR321nF8bO+Vbqxuu1QLMwTEe7ffjiFfC+PpHxnyekOLLvsi6WiDF7LEL4RO8ZQIBlStQEHv5yGPXNK3jbOaVFIL/XpoPf5vMEbc6eOAWt9YbhspI=;NKw0f7CpnkNSVM1TGOPEew=="
 ---
 

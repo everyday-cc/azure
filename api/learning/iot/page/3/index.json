@@ -4,50 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-iot-funtions-iot.md",
-      "title": "Introduction to Azure Functions for IoT",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-iot-funtions-iot/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 297,
-        "average": 4.7474747
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-functions-iot-edge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-azure-digital-twins.md",
       "title": "Introduction to Azure Digital Twins",
       "excerpt": "This module provides an overview of Azure Digital Twins and describes Microsoft tools, services, and infrastructure. This knowledge can help bring digital twins to life for your organization and customers.",
@@ -55,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-digital-twins/",
       "length": "PT44M",
       "ratings": {
-        "count": 92,
-        "average": 4.7826085
+        "count": 94,
+        "average": 4.787234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -98,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-logic-apps-using-arm-templates/",
       "length": "PT45M",
       "ratings": {
-        "count": 577,
-        "average": 4.660312
+        "count": 581,
+        "average": 4.660929
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -144,8 +100,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-connectors/",
       "length": "PT40M",
       "ratings": {
-        "count": 588,
-        "average": 4.5833335
+        "count": 591,
+        "average": 4.5854483
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -189,8 +145,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-central-apps-with-rest-api/",
       "length": "PT45M",
       "ratings": {
-        "count": 188,
-        "average": 4.489362
+        "count": 191,
+        "average": 4.4921465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -232,8 +188,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-iot-hub-with-metrics-alerts/",
       "length": "PT53M",
       "ratings": {
-        "count": 293,
-        "average": 4.65529
+        "count": 298,
+        "average": 4.6610737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -275,8 +231,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 213,
-        "average": 4.633803
+        "count": 214,
+        "average": 4.6308413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -310,7 +266,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/object-detection-iot-edge-live-video-analytics/",
       "length": "PT27M",
       "ratings": {
-        "count": 2,
+        "count": 3,
         "average": 5.0
       },
       "provider": {
@@ -424,8 +380,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/",
       "length": "PT56M",
       "ratings": {
-        "count": 339,
-        "average": 4.6873155
+        "count": 342,
+        "average": 4.6900587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -492,6 +448,50 @@
       "topics": [
         "Azure",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-run-cognitive-services-iot-edge.md",
+      "title": "Run Cognitive Services on IoT Edge",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-run-cognitive-services-iot-edge/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-cognitive-services-iot-edge/",
+      "length": "PT1H4M",
+      "ratings": {
+        "count": 233,
+        "average": 4.7467813
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/run-cognitive-services-on-iot-edge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "AI"
       ]
     },
     {
@@ -585,6 +585,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-set-up-iot-edge-gateway.md",
+      "title": "Set up an IoT Edge Gateway",
+      "excerpt": "This module is theoretical and will walk you through how an IoT Edge device can be used as a gateway.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-set-up-iot-edge-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-iot-edge-gateway/",
+      "length": "PT1H40M",
+      "ratings": {
+        "count": 330,
+        "average": 4.5636363
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/set-up-iot-edge-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-set-up-mixed-reality-azure-digital-twins-unity.md",
       "title": "Set up a mixed reality project for Azure Digital Twins in Unity",
       "excerpt": "Get step-by-step guidance on how to set up and configure a mixed reality project in Unity for HoloLens 2. Learn about the Azure Digital Twins and SignalR services and common use cases for the Azure platform in Mixed Reality.",
@@ -592,8 +635,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-mixed-reality-azure-digital-twins-unity/",
       "length": "PT34M",
       "ratings": {
-        "count": 20,
-        "average": 4.85
+        "count": 23,
+        "average": 4.869565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -640,8 +683,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/",
       "length": "PT46M",
       "ratings": {
-        "count": 230,
-        "average": 4.630435
+        "count": 234,
+        "average": 4.6239314
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -767,8 +810,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
       "length": "PT8M",
       "ratings": {
-        "count": 391,
-        "average": 4.7289004
+        "count": 393,
+        "average": 4.73028
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -811,8 +854,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
       "length": "PT42M",
       "ratings": {
-        "count": 472,
-        "average": 4.7478814
+        "count": 476,
+        "average": 4.745798
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -855,8 +898,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
       "length": "PT27M",
       "ratings": {
-        "count": 659,
-        "average": 4.748103
+        "count": 662,
+        "average": 4.7492447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -899,8 +942,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
       "length": "PT14M",
       "ratings": {
-        "count": 366,
-        "average": 4.73224
+        "count": 369,
+        "average": 4.731707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -943,8 +986,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
       "length": "PT26M",
       "ratings": {
-        "count": 380,
-        "average": 4.75
+        "count": 381,
+        "average": 4.750656
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -979,8 +1022,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/",
       "length": "PT57M",
       "ratings": {
-        "count": 340,
-        "average": 4.7294116
+        "count": 344,
+        "average": 4.726744
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1023,8 +1066,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/",
       "length": "PT18M",
       "ratings": {
-        "count": 415,
-        "average": 4.73253
+        "count": 418,
+        "average": 4.7320576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1057,6 +1100,50 @@
         "Azure",
         "IoT",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-train-package-azure-ml-module-iot-edge.md",
+      "title": "Train and package an Azure machine learning module for deployment to IoT Edge device",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-train-package-azure-ml-module-iot-edge/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 356,
+        "average": 4.6123595
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/train-and-package-an-azure-machine-learning-module-for-deployment-to-iot-edge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "AI"
       ]
     },
     {
@@ -1178,81 +1265,6 @@
       "heat": 50,
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-void-detection-edge-devices-lva.md",
-      "title": "Void detection on Edge devices with Live Video Analytics using own images and video",
-      "excerpt": "This module helps learner to deploy void detection solution using Live Video Analytics and Custom Vision",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-void-detection-edge-devices-lva/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/void-detection-edge-devices-live-video-analytics/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 2,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-friday-windows-10-iot-and-azure-iot-device-management-enhancements.md",
-      "title": "Azure Friday | Windows 10 IoT and Azure IoT Device Management Enhancements",
-      "excerpt": "David Campbell joins Scott Hanselman to discuss Windows 10 IoT and how it enhances Azure IoT Device Management (DM) capabilities on Windows IoT, simplifying DM and aligning Azure DM with other Windows DM solutions.  For more information, see:   Windows 10 IoT Azure DM Blog post - https://blogs.windows.com/buildingapps/2017/10/05/windows-10-iot-enables-complete-iot-lifecycle/",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-friday-windows-10-iot-and-azure-iot-device-management-enhancements/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-friday-windows-10-iot-and-azure-iot-device-management-enhancements/",
-      "originalUrl": "https://youtube.com/watch?v=8cdQuZE5JsA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8cdQuZE5JsA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M3S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-12-13T11:56:53-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8cdQuZE5JsA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Azure",

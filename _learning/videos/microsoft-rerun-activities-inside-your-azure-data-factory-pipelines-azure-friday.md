@@ -4,7 +4,7 @@ excerpt: "Data integration is complex with many moving parts. It helps organizat
 originalUrl: https://youtube.com/watch?v=raql6x5AAlc
 type: video
 price: Free
-length: PT6M13S
+length: PT6M12S
 publishedDateTime: 2019-04-24T23:00:42Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XoR+AADkLUQWpmjK573MVnsmjK6SOr6gev2sUonvRaqaykxkCktLqIAeSyCfQb5y1gtaMzFWxSjepELJ8e9HBoATTfZkyC5BjSStFo5R4ND8+c100W6RIXBp9V7ASabYElVVFfHKk5NtMyYXEIKOABlE3l2iHIm5MlVHtbbKFrY+5bQ9Mga7V2orQW5s0u+Yr3vZl2JBYKWkFxAHzNbCwBIm5Mi6NKnfHf3d8nJaxS8k/+CY1PBkUcwNlCEouGcjCnGYJpgpGHf/6LcH36Jp3dsMKPoDxLFiSRlTC0EIFHDmspULEa5wdkjY26bOHvsy4gTevDX1rJtEo/gAYZidMCK4KEABhQ2sESh+1AG4PGZ5Y5CkDJ3qpw/9O0UmqgroryWd+sB9ToumIKrWUt7dfwUkCEZjsaBpV3mhY2gjZlc=;UgxfTcXbWquNu9C3cJcqog=="
+secured: "hABTFkLF4Ew0/By1aUPfv5Xf/r96+UeUY2HSk48GKfBKOvv3kHmiKvQzjLsIi7qsrkALdqYQ9MCUeDP8FjdsUy0YuE5fDf/DYr62bPPFo11BJgvFxLmL2cFuAzuJkFa+tMCSmblutK9Rfq1gz+H6kRUmsfd+1e1979LqOiiP7kuBsnlkbHybp/W0cIS1vffOvEnRaYfJLYmQ3ZV4PoY7zAWMZV/oOH/QZSWB9AUCRy35tPF8TrC9fAZHtB2Dm2k1tA0WoHmgNrDA6O796GhZvWemyYVP4doPdubf3qdg6M4FoRJDrwbghOVuqFlbSF6p+q1btdNOJ7VTlxCQG2xNaxrzU0W0W3h7YvdyQqJi89TqAOnrvC4AfnmKfOfpkJwmTFdVM/BU87BG/E2557FjWpCuh8V4wI8XTAuQD1ACXyE=;GLWu5Gyn81qNJC43Bzi5lg=="
 ---
 

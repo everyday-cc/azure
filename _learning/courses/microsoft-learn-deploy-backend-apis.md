@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT43M
 ratings:
-  count: 17
-  average: 4.5882354
-heat: 51
+  count: 18
+  average: 4.388889
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,12 @@ topics:
   - Blockchain
   - Integration
 
-secured: "fK5S82a0Cj18PYzDNsLaMXl02k0ySwFO5QwcTBTrdGfzUfC9iLejsxg3uvexr/SX58ePSQ2mt4B7LSD1P36vNvl1gO1FqnSIkhgEIsaCCN+W3PvcIOGgFEA4GmVaTqUBBkpC6IaOElLtaFxTjCRtgQRZEo/3aWtkog5nS32JRgzzNQhgnCjJ6gYVa/5Uz1WJ90Ph5k6LM/gbDzsNWapnsTqrGQzLw44nXEIbd4oyOdxcCu4Vv5SbHaZOPS7RJx0qLZdicO4k7OPdeRnR/Um/SOHIA/JSVnrk141V6tsaFfICLN/gR4Hhm4aPJbXTqE4MqKsw2XWsojKnb5Phm5x/uiKjaLLuV/YMsB2X29eU0Cfq1VKLtbJho0BWME91q2giIJ9KnQ929HkUUZ2mm2bZUdzHojNY0VvnDkbE4tdIO+w=;l4PadaCz/X609TQgVT+uSQ=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/deploy-backend-apis-social.png
+    width: 641
+    height: 321
+    isCached: true
+
+secured: "YR5k54H/VlWoqXpJ/YogZwn3h78CznHAQ8wdSGTMkG8OwT/DLURucqqS6UIXY1g5Gt805U3d24hECG2Ukr3RvJYs4WRt05K+UFpKz2WdclFZJm+U1ogfWTGrrnPH5rRK8PF8gZre5Q7+3jlLEAVzcRx1aYEHXuBZ7dTl/VkqwLwR93/bWGaOdm9gglp0Mf4M2wEcqWIE6qwou1cDNsyfpQt5aIH35Q4xb/kgzP48unU3GOURxiSkWwjDdFxqryCgs8wVkRwadswqflrvwCUqlMsavYtmv7SIN1DjhCj38yiCGMzKQIFbdvPDAjVvLjz7mwsipt7J8m+xt6syrFjDw+sIjHTySHrJrQVIgXu7VZApz4JPprbBZ33titHTk12xGjCEi8B9N8oeYEnegvnQKT0gUBmgR3GQq0Hpkr5f89o=;uKYZkCfrIoaOAtj38y3WcQ=="
 ---
 

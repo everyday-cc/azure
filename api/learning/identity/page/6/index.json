@@ -4,6 +4,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-exchange-online-protection.md",
+      "title": "Examine Exchange Online Protection",
+      "excerpt": "Examine Exchange Online Protection",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-exchange-online-protection/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-exchange-online-protection/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 13,
+        "average": 4.6923075
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-identity-synchronization.md",
+      "title": "Explore identity synchronization",
+      "excerpt": "Explore identity synchronization",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-identity-synchronization/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-identity-synchronization/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 13,
+        "average": 4.6153846
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-ad-intro-identity-synchronization-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-microsoft-365-threat-intelligence.md",
       "title": "Explore threat intelligence in Microsoft 365",
       "excerpt": "Explore threat intelligence in Microsoft 365",
@@ -11,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-365-threat-intelligence/",
       "length": "PT49M",
       "ratings": {
-        "count": 8,
-        "average": 4.75
+        "count": 9,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-defender-for-office-365/",
       "length": "PT27M",
       "ratings": {
-        "count": 12,
-        "average": 4.9166665
+        "count": 14,
+        "average": 4.928571
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,7 +183,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-secure-score/",
       "length": "PT24M",
       "ratings": {
-        "count": 5,
+        "count": 7,
         "average": 5.0
       },
       "provider": {
@@ -140,7 +226,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-store-for-business/",
       "length": "PT30M",
       "ratings": {
-        "count": 4,
+        "count": 6,
         "average": 5.0
       },
       "provider": {
@@ -183,7 +269,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-mobile-device-management/",
       "length": "PT32M",
       "ratings": {
-        "count": 5,
+        "count": 6,
         "average": 5.0
       },
       "provider": {
@@ -227,7 +313,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-privileged-identity-management/",
       "length": "PT31M",
       "ratings": {
-        "count": 4,
+        "count": 7,
         "average": 5.0
       },
       "provider": {
@@ -270,7 +356,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-security-solutions-microsoft-365/",
       "length": "PT36M",
       "ratings": {
-        "count": 6,
+        "count": 7,
         "average": 5.0
       },
       "provider": {
@@ -314,7 +400,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-threat-vectors-data-breaches/",
       "length": "PT45M",
       "ratings": {
-        "count": 6,
+        "count": 8,
         "average": 5.0
       },
       "provider": {
@@ -357,8 +443,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/leverage-fasttrack-partner-services-to-support-microsoft-365/",
       "length": "PT18M",
       "ratings": {
-        "count": 12,
-        "average": 4.6666665
+        "count": 13,
+        "average": 4.6923075
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -380,49 +466,6 @@
         {
           "url": "https://docs.microsoft.com/learn/achievements/leverage-fasttrack-and-partner-services-to-support-microsoft-365-social.png",
           "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-m365-threat-safeguard.md",
-      "title": "Safeguard your environment with Azure Advanced Threat Protection",
-      "excerpt": "Learn about the Azure Advanced Threat Protection component of Microsoft Threat Protection.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-threat-safeguard/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 2334,
-        "average": 4.8316197
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/safeguard-your-environment-with-microsoft-azure-advanced-threat-protection-social.png",
-          "width": 642,
           "height": 321,
           "isCached": true
         }
@@ -479,49 +522,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-azure-ad-identity-protection.md",
-      "title": "Manage Azure AD Identity Protection",
-      "excerpt": "Manage Azure AD Identity Protection",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-azure-ad-identity-protection/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 445,
-        "average": 4.811236
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-device-compliance.md",
       "title": "Manage device compliance",
       "excerpt": "Manage device compliance",
@@ -529,7 +529,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-compliance/",
       "length": "PT27M",
       "ratings": {
-        "count": 5,
+        "count": 6,
         "average": 5.0
       },
       "provider": {
@@ -572,8 +572,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-groups-microsoft-365/",
       "length": "PT21M",
       "ratings": {
-        "count": 18,
-        "average": 4.7777777
+        "count": 19,
+        "average": 4.7894735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -658,8 +658,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-safe-attachments/",
       "length": "PT30M",
       "ratings": {
-        "count": 9,
-        "average": 4.7777777
+        "count": 11,
+        "average": 4.818182
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -701,8 +701,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-safe-links/",
       "length": "PT30M",
       "ratings": {
-        "count": 13,
-        "average": 4.6153846
+        "count": 15,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -744,8 +744,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-synchronized-identities/",
       "length": "PT31M",
       "ratings": {
-        "count": 12,
-        "average": 4.8333335
+        "count": 13,
+        "average": 4.8461537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -780,6 +780,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-manage-tenant-health-services-microsoft-365.md",
+      "title": "Manage tenant health and services in Microsoft 365",
+      "excerpt": "Manage tenant health and services in Microsoft 365",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-tenant-health-services-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-tenant-health-services-microsoft-365/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 22,
+        "average": 4.7272725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-user-accounts-licenses-microsoft-365.md",
       "title": "Manage user accounts and licenses in Microsoft 365",
       "excerpt": "Manage user accounts and licenses in Microsoft 365",
@@ -787,8 +830,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-accounts-licenses-microsoft-365/",
       "length": "PT28M",
       "ratings": {
-        "count": 22,
-        "average": 4.5454545
+        "count": 23,
+        "average": 4.5652175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -823,49 +866,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-user-authentication.md",
-      "title": "Manage user authentication",
-      "excerpt": "Manage user authentication",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-user-authentication/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 290,
-        "average": 4.817241
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-monitor-maintain-azure-active-directory.md",
       "title": "Monitor and maintain Azure Active Directory",
       "excerpt": "Monitor and maintain Azure Active Directory",
@@ -873,8 +873,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
       "length": "PT37M",
       "ratings": {
-        "count": 237,
-        "average": 4.810127
+        "count": 239,
+        "average": 4.8117156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -916,8 +916,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
       "length": "PT24M",
       "ratings": {
-        "count": 186,
-        "average": 4.8172045
+        "count": 191,
+        "average": 4.8219895
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -960,8 +960,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-for-azure-ad-connect-implementation/",
       "length": "PT30M",
       "ratings": {
-        "count": 13,
-        "average": 4.5384617
+        "count": 15,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1003,7 +1003,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-for-mobile-application-management/",
       "length": "PT37M",
       "ratings": {
-        "count": 5,
+        "count": 7,
         "average": 5.0
       },
       "provider": {
@@ -1039,49 +1039,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
-      "title": "Plan, implement, and administer conditional access",
-      "excerpt": "Plan, implement, and administer conditional access",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 69,
-        "average": 4.8405795
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-plan-implement-entitlement-management.md",
       "title": "Plan and implement entitlement management",
       "excerpt": "Plan and implement entitlement management",
@@ -1089,8 +1046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-entitlement-management/",
       "length": "PT49M",
       "ratings": {
-        "count": 181,
-        "average": 4.8066297
+        "count": 184,
+        "average": 4.804348
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1132,8 +1089,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
       "length": "PT44M",
       "ratings": {
-        "count": 181,
-        "average": 4.773481
+        "count": 183,
+        "average": 4.775956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1175,8 +1132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-privileged-access/",
       "length": "PT59M",
       "ratings": {
-        "count": 179,
-        "average": 4.8268156
+        "count": 181,
+        "average": 4.828729
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1218,8 +1175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-hybrid-requirements-for-your-microsoft-365-deployment/",
       "length": "PT39M",
       "ratings": {
-        "count": 16,
-        "average": 5.0
+        "count": 18,
+        "average": 4.9444447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1261,8 +1218,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-identity-authentication-solution-for-microsoft-365/",
       "length": "PT59M",
       "ratings": {
-        "count": 19,
-        "average": 4.894737
+        "count": 21,
+        "average": 4.857143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1294,6 +1251,50 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-plan-your-migration-to-microsoft-365.md",
+      "title": "Plan your migration to Microsoft 365",
+      "excerpt": "Plan your migration to Microsoft 365",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-your-migration-to-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-migration-to-microsoft-365/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 25,
+        "average": 4.88
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Migration"
       ]
     }
   ],

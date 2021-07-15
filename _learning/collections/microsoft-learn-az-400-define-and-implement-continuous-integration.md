@@ -4,7 +4,7 @@ excerpt: "Create automated pipelines that continuously build, test, and deploy y
 type: collection
 price: Free
 length: PT11H40M
-heat: 61
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -26,7 +26,6 @@ items:
   - courses/microsoft-learn-create-multi-stage-pipeline
   - courses/microsoft-learn-run-functional-tests-azure-pipelines
   - courses/microsoft-learn-run-non-functional-tests-azure-pipelines
-  - courses/microsoft-learn-configure-infrastructure-azure-pipelines
   - courses/microsoft-learn-protect-vm-settings-with-dsc
   - courses/microsoft-learn-github-actions-ci
 

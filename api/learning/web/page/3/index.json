@@ -4,15 +4,15 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
-      "title": "Protect your APIs on Azure API Management",
-      "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
-      "length": "PT43M",
+      "path": "_learning/courses/microsoft-learn-models-data.md",
+      "title": "Work with models and data in Django",
+      "excerpt": "Explore models and data in Django. Learn about the object-relational mapper, create your own models, and set up a database.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-models-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django-models-data/",
+      "length": "PT20M",
       "ratings": {
-        "count": 1116,
-        "average": 4.7464156
+        "count": 32,
+        "average": 4.90625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -43,7 +43,51 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Integration",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-java-azure.md",
+      "title": "Monitoring Java applications on Azure",
+      "excerpt": "Learn how to use monitoring for your Java applications on Azure",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-java-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-java-azure/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
         "Web"
       ]
     },
@@ -55,8 +99,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-web-app-with-maven-plugin-for-azure-app-service/",
       "length": "PT54M",
       "ratings": {
-        "count": 31,
-        "average": 4.677419
+        "count": 32,
+        "average": 4.6875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -99,8 +143,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-publish-webapp-app-service-vs-code/",
       "length": "PT26M",
       "ratings": {
-        "count": 37,
-        "average": 4.810811
+        "count": 38,
+        "average": 4.8157897
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -129,50 +173,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
-      "title": "Publish and manage your APIs with Azure API Management",
-      "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 110,
-        "average": 4.7545457
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet.md",
       "title": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
       "excerpt": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
@@ -180,8 +180,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api-dotnet/",
       "length": "PT38M",
       "ratings": {
-        "count": 175,
-        "average": 4.8
+        "count": 179,
+        "average": 4.804469
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -218,6 +218,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api.md",
+      "title": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps",
+      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps. Use Visual Studio Code to create and run the web app locally.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 488,
+        "average": 4.7069674
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-publish-static-web-app-api-preview-url.md",
       "title": "Publish an API to Azure Static Web Apps",
       "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
@@ -225,8 +269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-api-preview-url/",
       "length": "PT27M",
       "ratings": {
-        "count": 91,
-        "average": 4.6923075
+        "count": 94,
+        "average": 4.7021275
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -270,8 +314,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 21,
-        "average": 4.6666665
+        "count": 27,
+        "average": 4.5925927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -362,8 +406,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/",
       "length": "PT46M",
       "ratings": {
-        "count": 230,
-        "average": 4.630435
+        "count": 234,
+        "average": 4.6239314
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -407,8 +451,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/",
       "length": "PT41M",
       "ratings": {
-        "count": 147,
-        "average": 4.7687073
+        "count": 149,
+        "average": 4.771812
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -496,8 +540,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django-views-templates/",
       "length": "PT38M",
       "ratings": {
-        "count": 21,
-        "average": 4.7619047
+        "count": 23,
+        "average": 4.7826085
       },
       "provider": {
         "name": "Microsoft Learn",

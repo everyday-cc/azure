@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT44M
 ratings:
-  count: 13
-  average: 4.923077
-heat: 52
+  count: 15
+  average: 4.9333334
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,12 @@ topics:
   - Mobile
   - DevOps
 
-secured: "BTYlyVGHorluk8Z1uULxI/v3bkbrdTEeHQNT8ZSt63jyOlMSSQwxYFRLvZYpfcujo9+55ij3Aeyak3/PpmHiwP+pNB6vcM+QOex7qELJ+gs9wKhGeAY0SJ7CE2+v+TWrrqhWUnoXAA1J5OJHTWEa1/IcNBRaY27wc2/cDNeVScO/r2PF4pkqkxawknAXZbGnJi86XeavaroFwXGoGTIqs5ueoZpb3hgeVDouaAuYu45wlLlU0v0LTLcrXDl3TmtA4r3hdfYo+C7J+DGLgfWfTI+Xpl+64ueK7dxeWuWh6/DXt9vE25lKbOMpvEfFh4lBthe0NRTRzFLxMz78O7KxvnsrvTZXso9iF4x1xWBC7C+zNqlwD25+b3w62flJ0pLwWt1xhXvZehwwFq+TTdBB31BB4vU44TqmOBt0Vdom/f0=;UUBPJd9cTKLPnz1afcA7Jw=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/automate-deployments-github-actions-azure-social.png
+    width: 641
+    height: 321
+    isCached: true
+
+secured: "ZlnzmcKC/dSnXCld1cBQEbFyI6Tqyyvk+J3ioThKOAyAWn7n+ua+Ay1hqj8azwjafyfGbQlGvmrpxjMAb0KJnJv6SgGu8XdCGDWbeI8Ji9x4V4+dNHsXIPgILw0SCJQukVyslFvrPNuSthbC92F4Hvp7RNR4nQ8cnkgB5pmo+Dt4S7ftzyYeMGbwwgF69wkO3GZGgY9byrU3U4K/qLyTtsPafUL2/0oAhji8N7TJmQ2cJZm0yaVkRDBx54CglT/hzPaz98TPmKw7u8AW7S4DyDzAgeHZsD2YVxD9OFEyaM+ozT3sGuMW6E4+NnnCqlcBBJs7PlUbTODZ+OfPJ2g2/Jbc1Ke874GDu64/f5SJJ6j9sKM2zrlsulDJMqc+joJHF5FanMOcHgMgYDGUp7ZWCcZcsUknbrS5r2jb55ywdc8=;496j3TB/uLHz+V5YKUHHqw=="
 ---
 

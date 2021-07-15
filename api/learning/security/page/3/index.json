@@ -4,57 +4,10 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
-      "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
-      "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 32,
-        "average": 4.53125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms.md",
       "title": "Audit the security of Windows Server IaaS Virtual Machines",
       "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
       "length": "PT45M",
       "ratings": {
@@ -66,7 +19,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -99,7 +52,7 @@
       "path": "_learning/courses/microsoft-learn-azure-sentinel-deploy-connect.md",
       "title": "Deploy Azure Sentinel and connect data sources",
       "excerpt": "Learn how to deploy Azure Sentinel and connect the services you want to monitor. Then you can use Azure and AI to provide analysis of security alerts.",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-azure-sentinel-deploy-connect/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-sentinel-deploy-connect/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sentinel-deploy-configure/",
       "length": "PT50M",
       "ratings": {
@@ -111,7 +64,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -142,19 +95,19 @@
       "path": "_learning/courses/microsoft-learn-build-multi-table-statements-kql.md",
       "title": "Build multi-table statements using KQL",
       "excerpt": "Build multi-table statements using KQL",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-build-multi-table-statements-kql/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-multi-table-statements-kql/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-multi-table-statements-kusto-query-language/",
       "length": "PT21M",
       "ratings": {
-        "count": 203,
-        "average": 4.773399
+        "count": 204,
+        "average": 4.77451
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -185,7 +138,7 @@
       "path": "_learning/courses/microsoft-learn-cmu-cloud-security.md",
       "title": "Cloud security",
       "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Keeping your cloud secure means more than just adding permissions to resources. Learn about what cloud security means, including threats, cryptography, and regulation.",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-cmu-cloud-security/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cmu-cloud-security/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-security/",
       "length": "PT59M",
       "ratings": {
@@ -197,7 +150,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -225,53 +178,10 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
-      "title": "Configure security policies to manage data",
-      "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 2408,
-        "average": 4.6179404
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-connect-azure-assets-to-azure-defender.md",
       "title": "Connect Azure assets to Azure Defender",
       "excerpt": "Connect Azure assets to Azure Defender",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-connect-azure-assets-to-azure-defender/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-azure-assets-to-azure-defender/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-azure-assets-to-azure-defender/",
       "length": "PT35M",
       "ratings": {
@@ -283,7 +193,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -314,19 +224,19 @@
       "path": "_learning/courses/microsoft-learn-connect-common-event-format-cef-logs-to-azure-sentinel.md",
       "title": "Connect Common Event Format logs to Azure Sentinel",
       "excerpt": "Connect Common Event Format logs to Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-connect-common-event-format-cef-logs-to-azure-sentinel/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-common-event-format-cef-logs-to-azure-sentinel/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-common-event-format-logs-to-azure-sentinel/",
       "length": "PT20M",
       "ratings": {
-        "count": 45,
-        "average": 4.866667
+        "count": 46,
+        "average": 4.869565
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -357,19 +267,19 @@
       "path": "_learning/courses/microsoft-learn-connect-data-to-azure-sentinel-with-data-connectors.md",
       "title": "Connect data to Azure Sentinel using data connectors",
       "excerpt": "Connect data to Azure Sentinel using data connectors",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-connect-data-to-azure-sentinel-with-data-connectors/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-data-to-azure-sentinel-with-data-connectors/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-data-to-azure-sentinel-with-data-connectors/",
       "length": "PT22M",
       "ratings": {
-        "count": 51,
-        "average": 4.8431373
+        "count": 52,
+        "average": 4.8461537
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -400,19 +310,19 @@
       "path": "_learning/courses/microsoft-learn-connect-microsoft-defender-365-to-azure-sentinel.md",
       "title": "Connect Microsoft 365 Defender to Azure Sentinel",
       "excerpt": "Connect Microsoft 365 Defender to Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-connect-microsoft-defender-365-to-azure-sentinel/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-microsoft-defender-365-to-azure-sentinel/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-microsoft-defender-365-to-azure-sentinel/",
       "length": "PT28M",
       "ratings": {
-        "count": 38,
-        "average": 4.7894735
+        "count": 39,
+        "average": 4.794872
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -443,19 +353,19 @@
       "path": "_learning/courses/microsoft-learn-connect-microsoft-services-to-azure-sentinel.md",
       "title": "Connect Microsoft services to Azure Sentinel",
       "excerpt": "Connect Microsoft services to Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-connect-microsoft-services-to-azure-sentinel/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-microsoft-services-to-azure-sentinel/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-microsoft-services-to-azure-sentinel/",
       "length": "PT23M",
       "ratings": {
-        "count": 47,
-        "average": 4.87234
+        "count": 48,
+        "average": 4.875
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -486,7 +396,7 @@
       "path": "_learning/courses/microsoft-learn-connect-non-azure-machines-to-azure-defender.md",
       "title": "Connect non-Azure resources to Azure Defender",
       "excerpt": "Connect non-Azure resources to Azure Defender",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-connect-non-azure-machines-to-azure-defender/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-non-azure-machines-to-azure-defender/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-non-azure-machines-to-azure-defender/",
       "length": "PT44M",
       "ratings": {
@@ -498,7 +408,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -529,19 +439,19 @@
       "path": "_learning/courses/microsoft-learn-connect-syslog-data-sources-to-azure-sentinel.md",
       "title": "Connect syslog data sources to Azure Sentinel",
       "excerpt": "Connect syslog data sources to Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-connect-syslog-data-sources-to-azure-sentinel/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-syslog-data-sources-to-azure-sentinel/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-syslog-data-sources-to-azure-sentinel/",
       "length": "PT28M",
       "ratings": {
-        "count": 42,
-        "average": 4.6190476
+        "count": 43,
+        "average": 4.627907
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -572,19 +482,19 @@
       "path": "_learning/courses/microsoft-learn-connect-threat-indicators-to-azure-sentinel.md",
       "title": "Connect threat indicators to Azure Sentinel",
       "excerpt": "Connect threat indicators to Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-connect-threat-indicators-to-azure-sentinel/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-threat-indicators-to-azure-sentinel/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-threat-indicators-to-azure-sentinel/",
       "length": "PT23M",
       "ratings": {
-        "count": 53,
-        "average": 4.8867927
+        "count": 56,
+        "average": 4.857143
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -615,7 +525,7 @@
       "path": "_learning/courses/microsoft-learn-connect-windows-hosts-to-azure-sentinel.md",
       "title": "Connect Windows hosts to Azure Sentinel",
       "excerpt": "Connect Windows hosts to Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-connect-windows-hosts-to-azure-sentinel/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-windows-hosts-to-azure-sentinel/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-windows-hosts-to-azure-sentinel/",
       "length": "PT20M",
       "ratings": {
@@ -627,7 +537,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -658,19 +568,19 @@
       "path": "_learning/courses/microsoft-learn-construct-kql-statements.md",
       "title": "Construct KQL statements for Azure Sentinel",
       "excerpt": "Construct KQL statements for Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-construct-kql-statements/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-construct-kql-statements/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/construct-kusto-query-language-statements/",
       "length": "PT36M",
       "ratings": {
-        "count": 258,
-        "average": 4.786822
+        "count": 260,
+        "average": 4.7884617
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -701,19 +611,19 @@
       "path": "_learning/courses/microsoft-learn-create-manage-azure-sentinel-workspaces.md",
       "title": "Create and manage Azure Sentinel workspaces",
       "excerpt": "Create and manage Azure Sentinel workspaces",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-create-manage-azure-sentinel-workspaces/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-azure-sentinel-workspaces/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-azure-sentinel-workspaces/",
       "length": "PT31M",
       "ratings": {
-        "count": 268,
-        "average": 4.776119
+        "count": 271,
+        "average": 4.778598
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -741,10 +651,55 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-describe-platform-architecture-security-data-protection-azure-databricks.md",
+      "title": "Describe platform architecture, security, and data protection in Azure Databricks",
+      "excerpt": "Describe platform architecture, security, and data protection in Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-platform-architecture-security-data-protection-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-platform-architecture-security-data-protection-azure-databricks/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 214,
+        "average": 4.6074767
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-platform-architecture-security-data-protection-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-for-security.md",
       "title": "Design for security in Azure",
       "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-design-for-security/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-for-security/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-security-in-azure/",
       "length": "62 mins",
       "provider": {
@@ -752,7 +707,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -788,22 +743,69 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-examine-zero-trust-approach-to-security-microsoft-365.md",
-      "title": "Explore the Zero Trust approach to security in Microsoft 365",
-      "excerpt": "Explore the Zero Trust approach to security in Microsoft 365",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-examine-zero-trust-approach-to-security-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-zero-trust-approach-to-security-microsoft-365/",
-      "length": "PT30M",
+      "path": "_learning/courses/microsoft-learn-encrypt-sector-data.md",
+      "title": "Encrypt public sector data in Azure",
+      "excerpt": "Overview of the options available for managing encryption keys and encrypting data throughout its lifecycle, with special attention to public sector.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-encrypt-sector-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/encrypt-sector-data/",
+      "length": "PT26M",
       "ratings": {
-        "count": 9,
-        "average": 4.7777777
+        "count": 13,
+        "average": 4.8461537
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Networking",
+        "Identity",
+        "Storage",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-examine-zero-trust-approach-to-security-microsoft-365.md",
+      "title": "Explore the Zero Trust approach to security in Microsoft 365",
+      "excerpt": "Explore the Zero Trust approach to security in Microsoft 365",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-examine-zero-trust-approach-to-security-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-zero-trust-approach-to-security-microsoft-365/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 12,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -835,19 +837,19 @@
       "path": "_learning/courses/microsoft-learn-explore-devops-continuous-security-operations.md",
       "title": "Explore DevOps Continuous Security and Continuous Operations",
       "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Security and Continuous Operations.",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-explore-devops-continuous-security-operations/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-devops-continuous-security-operations/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 1109,
-        "average": 4.723174
+        "count": 1112,
+        "average": 4.723921
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -871,19 +873,19 @@
       "path": "_learning/courses/microsoft-learn-explore-reporting-microsoft-365-security-services.md",
       "title": "Explore reporting in the Microsoft 365 security services",
       "excerpt": "Explore reporting in the Microsoft 365 security services",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-explore-reporting-microsoft-365-security-services/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-reporting-microsoft-365-security-services/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-reporting-microsoft-365-security-services/",
       "length": "PT37M",
       "ratings": {
-        "count": 10,
-        "average": 4.8
+        "count": 12,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -915,11 +917,11 @@
       "path": "_learning/courses/microsoft-learn-explore-security-dashboard.md",
       "title": "Explore the Security Dashboard",
       "excerpt": "Explore the Security Dashboard",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-explore-security-dashboard/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-security-dashboard/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-security-dashboard/",
       "length": "PT34M",
       "ratings": {
-        "count": 7,
+        "count": 9,
         "average": 5.0
       },
       "provider": {
@@ -927,7 +929,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -959,19 +961,19 @@
       "path": "_learning/courses/microsoft-learn-hunt-threats-sentinel.md",
       "title": "Threat hunting with Azure Sentinel",
       "excerpt": "Threat hunting with Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-hunt-threats-sentinel/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-hunt-threats-sentinel/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hunt-threats-sentinel/",
       "length": "PT1H5M",
       "ratings": {
-        "count": 113,
-        "average": 4.7522125
+        "count": 115,
+        "average": 4.7565217
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1002,11 +1004,11 @@
       "path": "_learning/courses/microsoft-learn-implement-microsoft-cloud-application-security.md",
       "title": "Implement Microsoft Cloud Application Security",
       "excerpt": "Implement Microsoft Cloud Application Security",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-implement-microsoft-cloud-application-security/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-microsoft-cloud-application-security/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-microsoft-cloud-application-security/",
       "length": "PT34M",
       "ratings": {
-        "count": 14,
+        "count": 17,
         "average": 5.0
       },
       "provider": {
@@ -1014,7 +1016,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1046,7 +1048,7 @@
       "path": "_learning/courses/microsoft-learn-implement-windows-server-iaas-vm-network-security.md",
       "title": "Implement Windows Server IaaS VM network security",
       "excerpt": "Implement Windows Server IaaS VM network security",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-implement-windows-server-iaas-vm-network-security/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-windows-server-iaas-vm-network-security/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-network-security/",
       "length": "PT1H9M",
       "ratings": {
@@ -1058,7 +1060,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1091,19 +1093,19 @@
       "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
       "title": "Security incident management in Azure Sentinel",
       "excerpt": "Security incident management in Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-incident-management-sentinel/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
       "length": "PT1H5M",
       "ratings": {
-        "count": 125,
-        "average": 4.776
+        "count": 127,
+        "average": 4.7795277
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1134,11 +1136,11 @@
       "path": "_learning/courses/microsoft-learn-introduction-to-security-solutions-microsoft-365.md",
       "title": "Explore security solutions in Microsoft 365",
       "excerpt": "Explore security solutions in Microsoft 365",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-introduction-to-security-solutions-microsoft-365/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-security-solutions-microsoft-365/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-security-solutions-microsoft-365/",
       "length": "PT36M",
       "ratings": {
-        "count": 6,
+        "count": 7,
         "average": 5.0
       },
       "provider": {
@@ -1146,7 +1148,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1178,19 +1180,19 @@
       "path": "_learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight.md",
       "title": "Manage enterprise security in HDInsight",
       "excerpt": "Manage enterprise security in HDInsight",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-manage-enterprise-security-in-hdinsight/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-enterprise-security-hdinsight/",
       "length": "PT37M",
       "ratings": {
-        "count": 78,
-        "average": 4.6538463
+        "count": 84,
+        "average": 4.642857
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1222,19 +1224,19 @@
       "path": "_learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks.md",
       "title": "Hunt for threats using notebooks in Azure Sentinel",
       "excerpt": "Hunt for threats using notebooks in Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-threat-hunting-sentinel-with-notebooks/",
       "length": "PT31M",
       "ratings": {
-        "count": 58,
-        "average": 4.862069
+        "count": 59,
+        "average": 4.8644066
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1265,19 +1267,19 @@
       "path": "_learning/courses/microsoft-learn-query-data-sentinel.md",
       "title": "Query, visualize, and monitor data in Azure Sentinel",
       "excerpt": "Describe how to query, visualize, and monitor data in Azure Sentinel.",
-      "sourceUrl": "https://everyday-cc.github.io/azureing/courses/microsoft-learn-query-data-sentinel/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-data-sentinel/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-data-sentinel/",
       "length": "PT48M",
       "ratings": {
-        "count": 119,
-        "average": 4.714286
+        "count": 121,
+        "average": 4.7024794
       },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/azureages/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false

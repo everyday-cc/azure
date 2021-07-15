@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT26M
 ratings:
-  count: 37
-  average: 4.810811
+  count: 38
+  average: 4.8157897
 heat: 50
 
 provider:
@@ -27,6 +27,6 @@ topics:
   - Web
   - Developer tools
 
-secured: "MHGfHSQWMlBATw1fw7xpSbTvKSWm/V66Hkal1/mc4TS9LjSugaL4yMODp4QD8dXUP3YpX/TSvD5+/BL6h1iSXZQXLT45TGahfMAQcxzp//MeR2xrEKVfXpnSXWCj6RFWGhqkVQzwx3qWoV8wQMPBrYTLW7luhYPWBEgY4ktxRlDa3Bnldq/W95LeXpltuHcqsMbe+nntaZeGwmOoM0gnyScyrj+D7EyyVR0RJr3zuyVVBGouda3WorpiVcLK3Ew6icpv2Bs+RUBn+xcUijH/TXP9FiwtPj4PfpXLn19xvkOKErCYwvY5sbQnb9tr35wooDxBJ6DEWSBPvUfOH9FtgLmmuMOncVIbpSLqrErW+IbXuUq8m3fJE6ZLz2J6cbqI5JMSHZodjAeTGi2ZtfkppN+2V8PTq7G0jQlhc2XApIY=;TS7j72fmiRL8TIAnPZNGeQ=="
+secured: "oJNDiSrGBJeFUNNjPmDBnCLu4WCtsx34qPs+/U/D+vPYSUJ/nNIFGLbYy/2nz4rkvnJM3S06doyFjaiuKyv2/qR1NghSakyo2bpmrmCSrzAk+7VXjX7q4A8z0vOFi3Hm8bnHtTN/QBIn5hbZvhVzRDHsym11rayq8KzfzyoxRb6iaUyUUwDpKBYPwHO+r8sZ/o6lytlouklElIEvF5CqJA4u4+TdqpCAT356xmxJytBnTTanoZIvAPa/vo/SaAEwOO1iSkhhP7Ffvgte4wgAoTJRl6n3OKbZxJYMpAeCcf5xtLl++0RO8cyg1IPRWr1Its9ygxUDysMHudF20S0sMXIIvNjKGTg7y+njgZXtirTFI1XjEZM3H6AkDn6TpFY36WgodHbcPdNdREK/rrBG1zA4X8GuKNwV7wwc39Ibss0=;lEVZ9ni/agSXXc/NDgqnjQ=="
 ---
 

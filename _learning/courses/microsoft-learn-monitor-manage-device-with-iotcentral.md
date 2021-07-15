@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H7M
 ratings:
-  count: 213
-  average: 4.633803
+  count: 214
+  average: 4.6308413
 heat: 50
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - IoT
 
-secured: "c+BJQ4D8V0d/BNKCbF9wyXMl5ljvDfJqr9hUByMu6/GgaT8rDVJ+pmnsp61/enGOqAgEg1/6REqWrucaerMpszvqYtCDNrvuKMye9bcNW050Ej99P2YPaGvrqKPQfeZwn0PMfvHE3gR5lZLTOxhNP8NQDACCLPvmjAzs0H+xaI/XbWoFFtt4NTKmoNFC2RFMik9fb9sVhJ4t46Z5b0rv/xsvOAWBi4cTwGEKIOGxcxSWVRvKhaWFmpSgaj38Alf7n5NfQ4+G75/oIyswB2Vq05QBsGypRlv8lHMPdA4sO7N4xFmj+9vDBp7XKCkYQOjdgSFCvCsbi4uUPt1ElGK1Ky8CWERRlvHdzAe6Gi/sPulMA85q0kP2YmbkAM4AfOi1AJI9Cnb4LjFLpxZly312PShzvsHLWAArDfpk0EOJ1P4=;GWNhIlZZQJ5NcNanuQ2IJw=="
+secured: "0afnz8meyUNg/SWqvNAF5XLy3pKOtgLU3T2pDrK9RwBj85HrE0q1ZfPIUtDrE+irS1XS5EfEq96KFRZJfcsu/m0rBs3fsk/BEPs36mxMcrKG3t2FxbvNDZOoql0iQknFhQBHBgv8lEzKii3F9z3c5sYkVyhhgyblNJVIIozfdXSUNVLUiyuwsnSklkkspsS7fKv471Wnzj+zanSKeUFfM3HwFVlgI+2iEIAaeirJIQ4HDokvaJJBtHKFrDZZYDjuLDQKHwFCwrI88wr97MtRN4XNLtQXQxIyJliP67L/uxHaLbbGDxEA/cnEQ2y64DjZsDP/cX/E/GOZudmdhlJAqQmSurwWOFguKJ99L/p/F/hMTKRbqDyyxkaumayobtL8BOEPwkm62pd3LVYVQHJ1/j47YECqV8ggxVTGYYSu+jY=;cKCrkoU7B6G1P18/zGvGqQ=="
 ---
 

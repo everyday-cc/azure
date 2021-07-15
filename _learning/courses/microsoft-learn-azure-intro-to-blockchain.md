@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT34M
 ratings:
-  count: 394
-  average: 4.8045683
+  count: 404
+  average: 4.8069305
 heat: 51
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Blockchain
 
-secured: "WcYf5AUoVhQhmBaoFA+ocWegspGbHXTEIsRfsFJgamjfaOVMrMvt3GlV93u70SNX+voSBrydPCs4xJe1QE+Qj+sovJ8P64T4bSeAScSSNO88YQsSYPvveNKmXrMu4qWUh+hNMezISOoyqW6Gft4xjAcxUcTQ/5pIAHMSHJ2OgoPni/4bJ6/HdVguN6AF22rkjXMNkVV1j5+f1azoQbaBmjXowzt7/0Aee8vqZiUbGGXAIXIBDuVB2/RaBzRN2A71JwKCVtSEogXrVtf8iHxYo08kwP/yYaoIMkLb2K3liiGoPzr2YsicFjeqY6CGLQ0qdaNOUZS8LoELwYhASjcm0T/sJWkGMHq2RveMDnBJg0bAEcKVRKbetDtKglL6o7iLMBwZNdsaf2HWqLmFyLs6l4B9Kl0Qdy4KY4WzzruD1Cc=;5exL0s6sCWod1FFc5RJDkw=="
+secured: "jiDCUKYqbt65V151JStqyM7iQZ1c4dztASZAu3PKFyFqRJkf+D/MmnNYCF48AL2aGx2WVixm2kFloYKCNv82E2xH22b+nPsbF0xjPpCg2ha3hRsO4STvPt3+aAzwvRnjiUJSea42ltc1svTCt67gy/SkFZB0TYCcgVQk8n/TcgGP3E4AsguBx5394anesfjmL8xMhNFzj+j9luzaqzTXH29nibdaL+LM0DxkkcdN6qvmct72+TTqDV2Gq5SsiZ5HsczaUq5+wB/aM142dH/kr7B8xuAF35bBxXdo9kgmqqL3LPuZJAu6w63/e1uXGdzAt8Hez1zlB9zKFarO7StjDqOGphlOdqQjdXbQZbVLh7sot6jmBfo2IM4H1f/9sU6w1O5IsMg1cya5P39a1zt86NECxab6MYbZPhSA3xFEMmw=;QkByjveLgaA7MSvuohUh/A=="
 ---
 
