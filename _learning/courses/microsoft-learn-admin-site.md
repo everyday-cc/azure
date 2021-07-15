@@ -1,0 +1,37 @@
+---
+title: "Work with the Django admin site"
+excerpt: "Learn how to set up the built-in Django admin site and configure users for the site."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/django-admin-site/
+type: course
+price: Free
+length: PT38M
+ratings:
+  count: 38
+  average: 4.9210525
+heat: 50
+
+provider:
+  name: Microsoft Learn
+  domain: microsoft.com
+  images:
+    - url: /assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+levels:
+  - Intermediate
+
+topics:
+  - Azure
+  - Compute
+  - Web
+
+images:
+  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+    width: 640
+    height: 320
+    isCached: true
+
+secured: "IR94tR82AcOhLIIFUM7I5QkbpDqXnVmmiuyLb+OVxlG/QmF6QX36Fxy31J77o9eqtgnMMWPGh9p2d6bBFfzvnlpr/o1q6lKkkNwkvZRYAmXuGiqFYkRPTGy0lgWiE5t9mTjdaPt6Ki9hUg1W7AbNZDmW4Li87l9cl4F7PuQn2J5ArP1ycQ0IsdnQUhZuBw84PNG3ohOTdbD7imFkj/Orvch5wcUACi+EEJ/lp1ftMYum1VzK4Uj55VaZOhlUmwf9gzrgZiPbct/kw2LfGX6wuBrZTH/JKtm8GTKtviq/fBQ+AoKGXuwUX6cNZZppKhIHS9zdE8Q40prvWEVdzxmjAOVtjSIerZh6BMfrMSKODAfcSPPY281aBw1xYp5mTZceu6J5g/skCyfMksYxFi9laXrSq1Xo3saoVt/GGsyBrWg=;QqKLCoO2Wly9LS4PKJF4SQ=="
+---
+

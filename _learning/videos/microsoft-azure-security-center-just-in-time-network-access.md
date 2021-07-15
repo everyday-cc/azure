@@ -1,0 +1,33 @@
+---
+title: "Azure Security Center – Just-in-Time Network Access"
+excerpt: "Cloud hosted VM’s are prime targets for RDP and SSH brute force attacks because management ports are typically left in an open state. With Just in Time network access, you can put any of your ports, not just management ports, into a default deny state until a user requires access. Once access is requested,"
+originalUrl: https://youtube.com/watch?v=UOQb2FcdQnU
+type: video
+price: Free
+length: PT9M26S
+publishedDateTime: 2018-03-12T20:21:28Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UOQb2FcdQnU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+  - Security
+
+images:
+  - url: https://i.ytimg.com/vi/UOQb2FcdQnU/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "HF7iDOCrDasGypSNntOU+Kh16NM13kVY+6h3AvfnjWUMqoL/T//5xRAC5+UcMH/CU+rMzMu+0x0YUx8gMtljz1aKvl99II5vdEAx60y9qfN78ILdiGcjTZF74IjJimnIyoFBy309hOoHAfI+SBQrJEJB4UwHMu4Mu7CIIhaIYuEtv8iaYr70/mIa7XWWmyZuhdtQUFLqYf8pAlpepK7ExJfXbKRJNM36DcpHKjXb3Jua1qbKbp1cHOEncgViLHtCZJFCXoG3ZozdTF2FbtKHPsJQbiEjwhf2MELUV7UWm6ny+1MJMgvxbWX266q7k2NeR8RGrW6VLzrzunhjpG+9w5lkukUqDTHInTSzpLJZE7GP+syt7aI4GBjAVNmLbZptPr7b9Qo1T1mfWyRhVzzz9aP5vTnTAVQObhHLdG86ivE=;dXmEYThZMQK/GhJQ6+lRBw=="
+---
+

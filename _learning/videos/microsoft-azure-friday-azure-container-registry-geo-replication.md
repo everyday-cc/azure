@@ -1,0 +1,33 @@
+---
+title: "Azure Friday | Azure Container Registry Geo-replication"
+excerpt: "Steve Lasker joins Donovan Brown to explain Azure Container Registry (ACR) Geo-replication. With ACR, you can now manage your global Azure footprint as one resource, enabling network-close deployments of your Docker containers. With regionalized WebHooks, you can deploy regions as your images arrive."
+originalUrl: https://youtube.com/watch?v=NcB1Ji-DciI
+type: video
+price: Free
+length: PT13M8S
+publishedDateTime: 2017-10-30T14:52:34Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NcB1Ji-DciI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+  - Containers
+
+images:
+  - url: https://i.ytimg.com/vi/NcB1Ji-DciI/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "K549quHZeDoLeOSEeg4EoOIHJNvMCwAqUFUrcljcOScCz0AFKUdzYiCLPYNyUKFd+/fyLFet7e7XzFJbIFaXf5biN+D4arc64E/jbZ9870VicVu+zEqOGqZz+Y4oULjXbva7sJQOssqOqW3jitlZ2QLXrv2CNo9hpngSNiNcP53tLo25s5dyzI09FXqrCAt0U7SiHgAiiZWLMFAoo4MpZziy66XhY/Fo/W4D8FBv2o67if/p8sSWoP7Nql8JqOOR0uKzC87K+yVMe8Lk7fRFEFcJGO+lQ7Mq/lr5Ho4DrdlfHDpa24GLHhsya4762nxGXRx3bNmzrA9CkNIrhNLzTp1OowR34g/FXaK8L+8X4oSgJLXIMdaVU8rz6LtY4W1s3amH47GccAkm9T9gRqroSx1Yrr/QtFIByz9EhFM+EYY=;sO2AGavS+gMtS2DC5Zry9g=="
+---
+

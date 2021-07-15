@@ -1,0 +1,33 @@
+---
+title: "What is DevOps? | One Dev Question: Abel Wang"
+excerpt: "In the One Dev Question series, Cloud Developer Advocate Abel Wang explains how Azure DevOps provides developer services to support teams to plan work, collaborate on code development, and build and deploy applications. In this video, Abel explains the concepts of DevOps in general.    Get more information"
+originalUrl: https://youtube.com/watch?v=tqBFyJffkiY
+type: video
+price: Free
+length: PT1M
+publishedDateTime: 2019-06-10T15:01:41Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tqBFyJffkiY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+  - DevOps
+
+images:
+  - url: https://i.ytimg.com/vi/tqBFyJffkiY/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "YvZj286cljIBTE9qLkM6NTZOhulcdxgz81kXDmEJbHBrQPBL2wiNTXceYuVG54Nxh2Pj9RvucXNGtsXgE+etroro5O+Eq2NS500SoNLi+Nqpvc5muBMCbP6tvsTY3L8HLwH96gZdl+QZAQAIb2QU6buzka+/Ekbv8zc4SMcIijlMChsBv3EEBTlIvttjnXL3YG/Es/gIEEYKR/JetyN9l5K3ELjgopneEFcRb/T6E+Y7Bfv8UQrdyZPyuW75aaUueZHrM/ck31l0K817kEpkbJK+ZdaOqwf3uIpY818Q0VzhCoXaMTulHrmWFGSTMRQf9PB6x9Stf6d3RDv65vq7bE/fd7w2ES7F5UCOZJVvU2aBfkvp8IfzxRFi93NtHN5JnXz2gV3CauUBocsDrxvr0uduWfJHH4vqqHiNw1KIA3E=;VP7Tx6cFdX7pZ9fE4ekg8w=="
+---
+

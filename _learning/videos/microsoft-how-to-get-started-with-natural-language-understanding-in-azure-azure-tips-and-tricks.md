@@ -1,0 +1,32 @@
+---
+title: "How to get started with Natural Language Understanding in Azure | Azure Tips and Tricks"
+excerpt: "In this edition of Azure Tips and Tricks, learn how to get started with Natural Language Understanding in Microsoft Azure.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft"
+originalUrl: https://youtube.com/watch?v=2iwHmaoi0wU
+type: video
+price: Free
+length: PT5M4S
+publishedDateTime: 2021-06-01T15:00:17Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2iwHmaoi0wU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+images:
+  - url: https://i.ytimg.com/vi/2iwHmaoi0wU/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "vHdTohjbn8ZpHsyUAqw4zfnLBSEAn4qLrpGC5ruTA6z2tQe139wxxzTQI6+eZ0F9j+UrgcGPNELm3tYxCZ9tRZ+NKH5LsXhvVIb/qgJNnkDoDlr0jI8mDkAzDTBVcLL0Ng4NULf0K7HaA7Lrw6mmj/DK3nd1xtjppTtUh045gd6xXNsnyKy0jiq+RoXN+hUfdZtN6qdZpC3k/YcVXXWP0oAhSusbAHXa9vYvCoaB2XTh198AUBA4ATZyK9T0gysNt6MYUiTk1fvBQoWr10hfgWHOPr4kLADsHPaXWPwdfkehVWGhsoc2Bjm92ANKS/5XaM8gALpBqTYxZRHb8LTzzvqT/hEYRLpFwv6cwrJlB+WqP83nCo91A0fpyboXRJZcE6l2I74PSfTYOybxLUZGlcbsWgUXInl0ryyvUk5P2YE=;1Pk3m2N2nNfqjJ2wzWNChQ=="
+---
+

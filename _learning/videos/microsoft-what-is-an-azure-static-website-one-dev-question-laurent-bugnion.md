@@ -1,0 +1,32 @@
+---
+title: "What is an Azure static website? | One Dev Question: Laurent Bugnion"
+excerpt: "In the One Dev Question series, Cloud Developer Advocate Laurent Bugnion explains various development features of Azure. In this video, Laurent explains what an Azure static website is.   You should also check Azure Static Web Apps, our newest offering to host static web content: https://docs.microsoft.com/en-us/azure/static-web-apps/"
+originalUrl: https://youtube.com/watch?v=e4QXzznGRNg
+type: video
+price: Free
+length: PT1M58S
+publishedDateTime: 2019-04-29T14:59:38Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e4QXzznGRNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+images:
+  - url: https://i.ytimg.com/vi/e4QXzznGRNg/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "S26m1IPb2/f1rv4KGby1UsBBv6cIGTnuvTViTi1Ppct5MgBOqd4PVoRqaRMygGvt1yWwrGyNMvcf97MZCoMWq/AI4O8BKS5d6/1gkXzx9hElrRkX2YpfPb90OmOdevD9sC7UHfCWmocHc0DjXAuiWH3c1Ha38hcImgNEbKprzzJolRSe6HwEzgq1Lzbn9rw3vkFRpqyZO6K9qEBEefaJTMFjyKxPMRl2rJMsAb0Pm+DBPwa7ieGEIGZL2McKutbnXfUhr0GKLgCdrwSHEFbYrbl8xFRS3SXYCrB0ycojOCRrRhIdYDoPNAev70JtOIkwcFOVytd0FnQKNfUZ3pX6dh7n097WL3uZxc1mgaNLmTgratJD7rKHjSNIarKsFbFnDBWZSsASDslczDTjZbAf1rPrOMeDxRTVQK+Yyw49F+8=;X5xWryJWCjGcmWRwUE7emA=="
+---
+

@@ -1,0 +1,191 @@
+---
+title: "Azure Tips and Tricks"
+excerpt: ""
+type: collection
+heat: 62
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+items:
+  - videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks
+  - videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-neural-text-to-speech-in-azure-azure-tips-and-tricks
+  - videos/microsoft-how-to-be-productive-with-github-codespaces-azure-tips-and-tricks
+  - videos/microsoft-how-to-create-custom-handlers-for-azure-functions-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-natural-language-understanding-in-azure-azure-tips-and-tricks
+  - videos/microsoft-how-to-migrate-your-mysql-database-to-the-cloud-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-health-bot-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-digital-twins-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-metrics-advisor-azure-tips-and-tricks
+  - videos/microsoft-how-to-develop-apps-with-microsoft-azure-database-for-postgresql-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-container-registry-for-deploying-net-core-apps-azure-tips-and-tricks
+  - videos/microsoft-how-to-run-logic-apps-in-a-docker-container-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-blob-versioning-in-azure-storage-azure-tips-and-tricks
+  - videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud-azure-tips-and-tricks
+  - videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks
+  - videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks
+  - videos/microsoft-how-to-create-faster-and-smarter-apps-with-net-5-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks
+  - videos/microsoft-how-to-automatically-manage-azure-blobs-lifecycles-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-the-vs-code-logic-apps-extension-to-create-stateless-workflows-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-github-actions-from-azure-app-service-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-communication-services-part-1-of-2-azure-tips-and-tricks
+  - videos/microsoft-how-to-run-c-notebooks-with-azure-cosmos-db-azure-tips-and-tricks
+  - videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks
+  - videos/microsoft-how-to-work-with-azure-cosmos-db-with-powershell-azure-tips-and-tricks
+  - videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks
+  - videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks
+  - videos/microsoft-5-things-you-didnt-know-about-azure-cognitive-services-azure-tips-and-tricks
+  - videos/microsoft-5-things-you-didnt-know-about-azure-sql-database-azure-tips-and-tricks
+  - videos/microsoft-5-things-you-didnt-know-about-azure-app-service-azure-tips-and-tricks
+  - videos/microsoft-how-to-secure-a-blazor-application-with-azure-active-directory-azure-tips-and-tricks
+  - videos/microsoft-how-to-add-azure-feature-flags-to-angular-projects-azure-tips-and-tricks
+  - videos/microsoft-how-to-configure-advanced-threat-protection-in-azure-sql-database-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-a-graphql-on-azure-azure-tips-and-tricks
+  - videos/microsoft-blazor-and-azure-functions-for-serverless-websites-azure-tips-and-tricks
+  - videos/microsoft-a-lap-around-the-new-azure-vm-extension-azure-tips-and-tricks
+  - videos/microsoft-creating-a-private-chat-room-with-jitsi-on-microsoft-azure-vm-azure-tips-and-tricks
+  - videos/microsoft-a-lap-around-azure-kung-fu-toolkit-azure-tips-and-tricks
+  - videos/microsoft-getting-started-with-azure-static-web-apps-azure-tips-and-tricks
+  - videos/microsoft-how-developers-and-teams-can-learn-to-work-remotely-azure-tips-and-tricks
+  - videos/microsoft-learn-how-to-get-started-with-azure-static-web-apps-azure-tips-and-tricks
+  - videos/microsoft-learn-how-to-get-started-with-windows-powertoys-azure-tips-and-tricks
+  - videos/microsoft-get-started-with-windows-package-manager-winget-azure-tips-and-tricks
+  - videos/microsoft-a-lap-around-windows-terminal-10-azure-tips-and-tricks
+  - videos/microsoft-learn-5-tips-to-reduce-cost-with-azure-virtual-machines-azure-tips-and-tricks
+  - videos/microsoft-how-to-perform-serverless-operations-with-azure-devops-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-functions-on-kubernetes-with-keda-part-2-of-2
+  - videos/microsoft-how-to-use-azure-functions-on-kubernetes-with-keda-part-1-of-2-azure-tips-and-tricks
+  - videos/microsoft-top-10-azure-resources-that-you-can-use-today-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-image-builder-azure-tips-and-tricks
+  - videos/microsoft-azure-security-best-practices-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-functions-and-secure-configuration-with-azure-key-vault-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-quickstart-center-azure-tips-and-tricks
+  - videos/microsoft-how-to-edit-and-debug-code-in-real-time-with-visual-studio-code-live-share-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-the-whiteboard-within-your-visual-studio-live-share-experience-azure-tips-and-tricks
+  - videos/microsoft-how-to-easily-manage-github-gists-from-within-visual-studio-code-azure-tips-and-tricks
+  - videos/microsoft-create-a-guided-tour-of-your-codebase-using-codetour-extension-for-vs-code-azure-tips-and-tricks
+  - videos/microsoft-azure-certifications-for-developers-azure-tips-and-tricks
+  - videos/microsoft-exploring-microsoft-power-virtual-agents-based-off-microsoft-bot-framework-azure-tips-and-tricks
+  - videos/microsoft-how-to-reduce-cost-with-azure-virtual-machines-azure-tips-and-tricks
+  - videos/microsoft-how-to-approach-cost-savings-and-billing-apis-for-azure-resources-azure-tips-and-tricks
+  - videos/microsoft-how-to-keep-azure-subscriptions-clean-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-the-bot-framework-composer-tool-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-spring-cloud-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-kubernetes-service-diagnostics-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-functions-premium-plan-to-avoid-cold-start-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-app-service-managed-certificates-azure-tips-and-tricks
+  - videos/microsoft-how-to-write-queries-and-create-dashboards-using-azure-resource-graph-azure-tips-and-tricks
+  - videos/microsoft-how-to-make-the-most-out-of-the-azure-cli-interactive-mode-azure-tips-and-tricks
+  - videos/microsoft-how-can-i-get-started-with-azure-private-link-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-waf-to-protect-your-web-applications-with-azure-front-door-azure-tips-and-tricks
+  - videos/microsoft-tips-for-keeping-your-azure-subscriptions-clean-azure-tips-and-tricks
+  - videos/microsoft-top-5-vs-code-extensions-for-azure-developers-azure-tips-and-tricks
+  - videos/microsoft-how-to-create-custom-bindings-for-azure-functions-azure-tips-and-tricks
+  - videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-powershell-in-azure-data-studio-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-signalr-service-and-event-grid-walkthrough-azure-tips-and-tricks
+  - videos/microsoft-what-is-azure-sentinel-and-why-you-should-care-azure-tips-and-tricks
+  - videos/microsoft-how-to-make-your-data-searchable-with-azure-search-and-ai-azure-tips-and-tricks
+  - videos/microsoft-securing-traffic-between-pods-using-policies-in-azure-kubernetes-service-azure-tips-and-tricks
+  - videos/microsoft-how-to-set-up-an-azure-pipeline-with-node-js-azure-tips-and-tricks
+  - videos/microsoft-how-to-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-availability-zones-for-your-kubernetes-cluster-in-azure-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-github-actions-for-azure-azure-tips-and-tricks
+  - videos/microsoft-how-to-assess-and-migrate-web-apps-to-azure-with-azure-migrate-azure-tips-and-tricks
+  - videos/microsoft-use-azure-dev-spaces-to-collaborate-with-a-team-on-kubernetes-part-3-azure-tips-and-tricks
+  - videos/microsoft-build-multi-service-applications-on-kubernetes-with-azure-dev-spaces-part-2-azure-tips-and-tricks
+  - videos/microsoft-get-started-with-net-core-on-kubernetes-with-azure-dev-spaces-part-1-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-serial-console-to-set-up-kdump-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-inline-javascript-code-snippets-in-azure-logic-apps-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-serial-console-with-virtual-machine-scale-sets-azure-tips-and-tricks
+  - videos/microsoft-how-to-share-your-azure-blob-storage-securely-with-azure-data-share-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-serial-console-to-fix-a-broken-fstab-file-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-app-configuration-for-your-aspnet-core-app-azure-tips-and-tricks
+  - videos/microsoft-how-to-access-grub-on-ubuntu-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-blazor-and-c-to-host-a-static-website-in-azure-storage-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-grub-and-the-azure-serial-console-on-a-linux-virtual-machine-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-pre-built-azure-vms-azure-tips-and-tricks
+  - videos/microsoft-how-to-enable-and-disable-the-azure-serial-console-azure-tips-and-tricks
+  - videos/microsoft-how-to-deploy-azure-functions-with-visual-studio-code-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-the-azure-serial-console-on-a-linux-virtual-machine-azure-tips-and-tricks
+  - videos/microsoft-how-to-debug-azure-functions-with-visual-studio-code-azure-tips-and-tricks
+  - videos/microsoft-how-to-build-and-deploy-your-first-app-with-azure-sdk-for-java-azure-tips-and-tricks
+  - videos/microsoft-how-to-work-with-the-azure-billing-and-cost-management-api-azure-tips-and-tricks
+  - videos/microsoft-how-to-deploy-aspnet-application-to-docker-hub-and-azure-azure-tips-and-tricks
+  - videos/microsoft-how-to-build-and-run-a-mean-based-application-in-azure-azure-tips-and-tricks
+  - videos/microsoft-how-to-work-with-azure-blueprints-azure-tips-and-tricks
+  - videos/microsoft-how-to-create-host-and-share-packages-with-azure-artifacts-azure-tips-and-tricks
+  - videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks
+  - videos/microsoft-how-to-work-with-azure-cosmos-db-and-the-javascript-sdk-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-machine-learning-service-azure-tips-and-tricks
+  - videos/microsoft-machine-learning-with-mlnet-and-azure-functions-part-2-azure-tips-and-tricks
+  - videos/microsoft-machine-learning-with-mlnet-and-azure-functions-part-1-azure-tips-and-tricks
+  - videos/microsoft-how-to-build-your-own-azure-cli-extensions-azure-tips-and-tricks
+  - videos/microsoft-how-to-take-advantage-of-azure-cli-extensions-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-powershell-core-on-linux-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-api-management-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-resource-manager-azure-tips-and-tricks
+  - videos/microsoft-how-to-test-azure-functions-azure-tips-and-tricks
+  - videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-automation-with-powershell-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks
+  - videos/microsoft-quick-tour-of-azure-devops-starter-using-nodejs-and-aks-part-2-azure-tips-and-tricks
+  - videos/microsoft-quick-tour-of-azure-devops-starter-using-nodejs-and-aks-part-1-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-front-door-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-the-azure-virtual-machines-serial-console-azure-tips-and-tricks
+  - videos/microsoft-how-to-create-an-azure-functions-project-with-visual-studio-code-azure-tips-and-tricks
+  - videos/microsoft-how-to-add-the-azure-cloud-shell-to-visual-studio-code-azure-tips-and-tricks
+  - videos/microsoft-how-to-push-a-container-image-to-a-docker-repo-azure-tips-and-tricks
+  - videos/microsoft-how-to-create-a-container-image-with-docker-azure-tips-and-tricks
+  - videos/microsoft-how-to-add-logic-to-your-testing-in-production-sites-with-powershell-azure-tips-and-tricks
+  - videos/microsoft-how-to-run-an-app-inside-a-container-image-with-docker-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-docker-and-azure-azure-tips-and-tricks
+  - videos/microsoft-how-to-edit-an-existing-api-connection-with-azure-logic-apps-azure-tips-and-tricks
+  - videos/microsoft-how-to-quickly-roll-back-versions-of-azure-logic-apps-azure-tips-and-tricks
+  - videos/microsoft-how-to-create-a-http-trigger-with-azure-logic-apps-azure-tips-and-tricks
+  - videos/microsoft-how-to-easily-work-with-json-with-azure-logic-apps-azure-tips-and-tricks
+  - videos/microsoft-how-to-renew-or-revoke-azure-functions-keys-azure-tips-and-tricks
+  - videos/microsoft-how-to-work-with-the-azure-functions-file-system-azure-tips-and-tricks
+  - videos/microsoft-how-to-work-with-the-azure-cli-using-macos-azure-tips-and-tricks
+  - videos/microsoft-how-to-prevent-changes-to-resources-in-azure-app-services-azure-tips-and-tricks
+  - videos/microsoft-how-to-clone-web-apps-using-azure-app-services-azure-tips-and-tricks
+  - videos/microsoft-how-to-configure-a-backup-for-your-azure-app-service-azure-tips-and-tricks
+  - videos/microsoft-how-to-work-with-app-settings-in-azure-app-services-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-deployment-slots-for-web-applications-azure-tips-and-tricks
+  - videos/microsoft-how-to-work-with-extensions-in-azure-app-service-azure-tips-and-tricks
+  - videos/microsoft-how-to-work-with-files-in-azure-app-service-azure-tips-and-tricks
+  - videos/microsoft-how-to-deploy-an-azure-web-app-using-only-the-cli-tool-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-tags-to-quickly-organize-azure-resources-azure-tips-and-tricks
+  - videos/microsoft-learn-about-the-underlying-software-in-azure-cloud-shell-azure-tips-and-tricks
+  - videos/microsoft-how-to-generate-ssh-public-key-to-log-into-linux-vm-azure-tips-and-tricks
+  - videos/microsoft-how-the-azure-cloud-shell-uses-storage-azure-tips-and-tricks
+  - videos/microsoft-how-to-start-restart-stop-or-delete-multiple-vms-azure-tips-and-tricks
+  - videos/microsoft-how-to-access-cloud-shell-from-within-microsoft-docs-azure-tips-and-tricks
+  - videos/microsoft-how-to-quickly-connect-to-a-linux-vm-with-ssh-azure-tips-and-tricks
+  - videos/microsoft-how-to-quickly-connect-to-windows-vms-using-rdp-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-the-table-parameter-in-the-azure-cli-azure-tips-and-tricks
+  - videos/microsoft-how-to-pin-charts-to-your-azure-dashboard-azure-tips-and-tricks
+  - videos/microsoft-how-to-customize-tiles-in-your-azure-dashboard-azure-tips-and-tricks
+  - videos/microsoft-how-to-quickly-change-themes-in-the-azure-portal-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-keyboard-shortcuts-in-the-azure-portal-azure-tips-and-tricks
+
+topics:
+  - Azure
+
+images:
+  - url: https://i.ytimg.com/vi/fP2rrDhqCv4/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "qrjkpF8+Dk1FnG4nUYUlHVpAtQ01ESbSSnbab6hEukLu/2Wn/DmYRhO+TxREO5OgukduWLEOPkdsF1tSlvWZwqnPK32w19qc7LcwYF+TB+HPuT8Wl3jprJ3MS1yAq8VNLgbKAwWCB1TlucerMfN4fnHNRJE9JGaouN5AcTlgosW3nGf+eFCNHKJ8t3e9ArIU9AfKuIkPDaZgmKsqqo7+BrCWlnWDGYLyENv1m9x2DuINLwMmtmDI/+fZ2Df3yGUrhxGFrF8kmdqGMqpekUj6UhAOO4z5HG7H2eXwhM8uHAbUfAq6kaImSi4D9tyWbX6Ones8lT+HZzJQNA90BWeYgSEw2krmvVrAz3GuDAC5vtI=;eyhArfv+CNI8mAtk2PT0xA=="
+---
+

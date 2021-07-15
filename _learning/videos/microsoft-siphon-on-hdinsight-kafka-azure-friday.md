@@ -1,0 +1,33 @@
+---
+title: "Siphon on HDInsight Kafka | Azure Friday"
+excerpt: "Thomas Alex joins Lara Rubbelke to discuss how Microsoft uses Apache Kafka for HDInsight to power Siphon, a data ingestion service for internal use. Apache Kafka for HDInsight is an enterprise-grade, open-source, streaming ingestion service. Microsoft created Siphon as a highly available and reliable"
+originalUrl: https://youtube.com/watch?v=6tXiqQd12Kg
+type: video
+price: Free
+length: PT10M59S
+publishedDateTime: 2018-08-14T21:01:35Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6tXiqQd12Kg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+  - Analytics
+
+images:
+  - url: https://i.ytimg.com/vi/6tXiqQd12Kg/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "mYQNg4Tx5PMDznzFIQ+Y3keZIREXNa6o2C/bOQI2Irytnr/PFLlYZd9urJb/RD7QK1jcEZ5IZGFhP6awzNAlgvpHpB1luK2ps2KgdOCl8AfHyV4+EHOCISwXdMvxzOPXGct0lIjB3yLGs0+IeY37shEFA8wJOznahRvSkcrZ2OEYwo8v8VymmsMj/gkj5/4t1aevIUmHySOMlU1Gau5nfMUvNad12dy73uA4kZdsQ9Fyaqw0SyJ8Bs6nfXH5KL3vZ5YPgHQ3zainCyEnKfkN5i0SeCqvclC9oX9YSMlBKOCtmgHQmgPHTsn5MlVNqrcfu8CWM625YIhtQ5jifwS2RhGTwCqluizhIpWBARCrKZsf0mgQqgzrrDVQHdGNxTrSQ4HaDtccZHyPgIMBVYVgIVqmb6gwpshPA64JGl1YOt4=;HjUObgbWdYhUFQYwW0GNSQ=="
+---
+
