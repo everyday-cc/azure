@@ -4,12 +4,12 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure.md",
-      "title": "Secure your cloud applications in Azure",
-      "excerpt": "Learn how to secure your Azure apps and associated data with encryption, certificates, and policy.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/",
-      "length": "PT5H36M",
+      "path": "_learning/collections/microsoft-learn-connect-your-services-together.md",
+      "title": "Connect your services together",
+      "excerpt": "Use Azure to create website front-ends, back-end services, and triggered functions that compute-on-demand and can also communicate with each other.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-connect-your-services-together/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-connect-your-services-together/",
+      "length": "PT3H31M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -24,20 +24,19 @@
       },
       "levels": [
         "Beginner",
-        "Intermediate",
-        "Advanced"
+        "Intermediate"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
-          "title": "Microsoft Azure Well-Architected Framework - Security",
-          "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-well-architected-security/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
-          "length": "PT1H2M",
+          "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
+          "title": "Choose a messaging model in Azure to loosely connect your services",
+          "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
+          "length": "PT45M",
           "ratings": {
-            "count": 4835,
-            "average": 4.7604966
+            "count": 4377,
+            "average": 4.6234865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,36 +51,29 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
+          "heat": 54,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Identity",
-            "Security"
+            "Integration",
+            "IoT",
+            "Analytics"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
-          "title": "Top 5 security items to consider before pushing to production",
-          "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
-          "length": "PT45M",
+          "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
+          "title": "Implement message-based communication workflows with Azure Service Bus",
+          "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-message-workflows-with-service-bus/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
+          "length": "PT54M",
           "ratings": {
-            "count": 8056,
-            "average": 4.6768866
+            "count": 3010,
+            "average": 4.6511626
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -104,19 +96,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Security"
+            "Integration"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-create-security-baselines.md",
-          "title": "Create security baselines",
-          "excerpt": "Create security baselines",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-security-baselines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
-          "length": "PT60M",
+          "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
+          "title": "Communicate between applications with Azure Queue storage",
+          "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
+          "length": "PT56M",
           "ratings": {
-            "count": 3438,
-            "average": 4.677138
+            "count": 2555,
+            "average": 4.6031313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -131,35 +123,27 @@
             ]
           },
           "levels": [
-            "Beginner"
+            "Intermediate"
           ],
           "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Security"
+            "Storage"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
-          "title": "Manage secrets in your server apps with Azure Key Vault",
-          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
-          "length": "PT46M",
+          "path": "_learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs.md",
+          "title": "Enable reliable messaging for Big Data applications using Azure Event Hubs",
+          "excerpt": "Learn to use Azure Event Hubs to reliably process high-volume data streams to enable you to code applications to send and receive messages through the hub.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
+          "length": "PT56M",
           "ratings": {
-            "count": 2004,
-            "average": 4.5918164
+            "count": 2815,
+            "average": 4.480284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -176,38 +160,27 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 53,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Security",
-            "Compute",
-            "Web"
+            "Analytics"
           ]
         }
       ],
-      "size": 6,
+      "size": 5,
       "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
-        "Security",
-        "Identity",
         "Integration",
-        "Web"
+        "IoT",
+        "Analytics",
+        "Storage"
       ]
     },
     {
@@ -241,8 +214,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 7566,
-            "average": 4.7231035
+            "count": 7568,
+            "average": 4.7230444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1307,8 +1280,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 1054,
-            "average": 4.549336
+            "count": 1055,
+            "average": 4.549763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1936,8 +1909,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 10000,
-            "average": 4.6986
+            "count": 10001,
+            "average": 4.6986303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1978,8 +1951,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6535,
-            "average": 4.737567
+            "count": 6536,
+            "average": 4.737607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2064,8 +2037,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1380,
-            "average": 4.7050724
+            "count": 1381,
+            "average": 4.705286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2146,8 +2119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12862,
-            "average": 4.7668324
+            "count": 12865,
+            "average": 4.7668867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2364,8 +2337,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 1054,
-            "average": 4.549336
+            "count": 1055,
+            "average": 4.549763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4476,8 +4449,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18149,
-            "average": 4.73139
+            "count": 18151,
+            "average": 4.7314196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4902,8 +4875,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 2040,
-            "average": 4.766667
+            "count": 2041,
+            "average": 4.766781
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5112,8 +5085,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 2211,
-            "average": 4.7304387
+            "count": 2212,
+            "average": 4.7301083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5148,8 +5121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3626,
-            "average": 4.6949806
+            "count": 3627,
+            "average": 4.695065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5218,8 +5191,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
           "length": "PT18M",
           "ratings": {
-            "count": 1751,
-            "average": 4.741862
+            "count": 1752,
+            "average": 4.7414384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5287,8 +5260,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 2040,
-            "average": 4.766667
+            "count": 2041,
+            "average": 4.766781
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5942,8 +5915,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1964,
-            "average": 4.5020366
+            "count": 1965,
+            "average": 4.501781
           },
           "provider": {
             "name": "Microsoft Learn",

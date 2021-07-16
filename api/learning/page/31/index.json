@@ -4,98 +4,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-3d-scene-mixed-reality-unity.md",
-      "title": "Build a 3D Scene for mixed reality in Unity",
-      "excerpt": "Learn how to create a 3D Scene in Unity using the Microsoft Maps SDK or static terrain. Get familiar with mixed reality scene design, the Unity interface, and deploying your Unity project to a HoloLens 2.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-3d-scene-mixed-reality-unity/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-3d-scene-mixed-reality-unity/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 19,
-        "average": 4.9473686
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-3d-scene-mixed-reality-unity-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "IoT",
-        "Integration",
-        "Analytics",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
-      "title": "Build Serverless APIs with Azure Functions",
-      "excerpt": "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 281,
-        "average": 4.6903915
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-azure-digital-twins-graph-for-chocolate-factory.md",
       "title": "Build an Azure Digital Twins graph for a chocolate factory production line",
       "excerpt": "This module covers the first steps in building an Azure Digital Twins solution. The units cover making an instance of Azure Digital Twins, and learning about, creating, and visualizing, DTDL models. You will create, validate, graph, and query, models for a chocolate factory production line.",
@@ -103,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-digital-twins-graph-for-chocolate-factory/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 63,
-        "average": 4.4761906
+        "count": 64,
+        "average": 4.484375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -516,6 +424,48 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-web-api-nodejs-express.md",
+      "title": "Build a web API with Node.js and Express",
+      "excerpt": "Use Express for Node.js to build RESTful APIs. Create and configure middleware to add things like logging and authentication/authorization. Use JavaScript/TypeScript with Express to create a Node.js web server with Visual Studio Code.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-web-api-nodejs-express/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-web-api-nodejs-express/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 251,
+        "average": 4.741036
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-web-api-nodejs-express-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -1247,6 +1197,50 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-strategy.md",
+      "title": "Prepare for successful cloud adoption with a well-defined strategy",
+      "excerpt": "Success in cloud adoption is predicated by a clear strategy that helps the team understand executive direction and regularly measure progress. This module will help capture the cloud adoption strategy needed to drive your success.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-strategy/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-strategy/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 19,
+        "average": 4.7894735
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-strategy-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
       ]
     }
   ],

@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 80973,
-            "average": 4.793672
+            "count": 80996,
+            "average": 4.793681
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 28402,
-            "average": 4.7898035
+            "count": 28416,
+            "average": 4.7898717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18149,
-            "average": 4.73139
+            "count": 18151,
+            "average": 4.7314196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 19087,
-            "average": 4.7654424
+            "count": 19096,
+            "average": 4.7653437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -253,8 +253,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 80973,
-            "average": 4.793672
+            "count": 80996,
+            "average": 4.793681
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -295,8 +295,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 48701,
-            "average": 4.8193054
+            "count": 48714,
+            "average": 4.819292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -339,8 +339,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 28402,
-            "average": 4.7898035
+            "count": 28416,
+            "average": 4.7898717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -426,8 +426,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 19087,
-            "average": 4.7654424
+            "count": 19096,
+            "average": 4.7653437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -471,8 +471,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 15054,
-            "average": 4.6353793
+            "count": 15058,
+            "average": 4.635476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -514,8 +514,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 13268,
-            "average": 4.7709527
+            "count": 13271,
+            "average": 4.7710047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -557,8 +557,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18149,
-            "average": 4.73139
+            "count": 18151,
+            "average": 4.7314196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -687,8 +687,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 142469,
-            "average": 4.702953
+            "count": 142470,
+            "average": 4.702948
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -797,13 +797,14 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-azure-friday.md",
-      "title": "Azure Friday",
-      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-azure-friday/",
+      "path": "_learning/collections/microsoft-learn-secure-your-cloud-data.md",
+      "title": "Secure your cloud data",
+      "excerpt": "This learning path helps you leverage the built-in Azure services for securing app data, ensuring that only authorized services and clients have access.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-secure-your-cloud-data/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-secure-your-cloud-data/",
+      "length": "PT5H38M",
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -814,18 +815,24 @@
           }
         ]
       },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
       "topItems": [
         {
-          "path": "_learning/videos/microsoft-azure-cosmos-db-cache-serverless-mongodb-and-managed-apache-cassandra-azure-friday.md",
-          "title": "Azure Cosmos DB cache, serverless MongoDB and Managed Apache Cassandra | Azure Friday",
-          "excerpt": "Kirill Gavrylyuk and friends join Scott Hanselman to discuss Azure Cosmos DB updates: integrated cache, serverless for MongoDB API, and Managed Instance for Apache Cassandra with dual write proxy.  ⏩ 0:00 – Opening ⏩ 1:33 – Integrated cache with Tim Sander ⏩ 17:36 – Serverless for MongoDB API with Gahl",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-cosmos-db-cache-serverless-mongodb-and-managed-apache-cassandra-azure-friday/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-cosmos-db-cache-serverless-mongodb-and-managed-apache-cassandra-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=27SN1eyVn5k",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/27SN1eyVn5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT39M25S",
+          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
+          "title": "Protect against security threats on Azure",
+          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 12865,
+            "average": 4.7668867
+          },
           "provider": {
-            "name": "Microsoft",
+            "name": "Microsoft Learn",
             "domain": "microsoft.com",
             "images": [
               {
@@ -836,36 +843,39 @@
               }
             ]
           },
-          "publishedDateTime": "2021-07-09T01:16:47-07:00",
-          "heat": 95,
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 83,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/27SN1eyVn5k/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
+              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "video",
+          "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Serverless",
-            "Databases"
+            "Security"
           ]
         },
         {
-          "path": "_learning/videos/microsoft-new-ways-to-get-started-with-azure-database-for-postgresql-azure-friday.md",
-          "title": "New ways to get started with Azure Database for PostgreSQL | Azure Friday",
-          "excerpt": "Claire Giordano joins Scott Hanselman to show how the new Free account for Flexible Server & the new Basic tier for Hyperscale (Citus) in Azure Database for PostgreSQL makes it easier and cheaper to get started with Postgres on Azure.  ⏩ 0:00 – Introduction ⏩ 1:15 – What you might not know about Postgres",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-new-ways-to-get-started-with-azure-database-for-postgresql-azure-friday/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-new-ways-to-get-started-with-azure-database-for-postgresql-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=YPXhi6WaDZI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YPXhi6WaDZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT20M48S",
+          "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
+          "title": "Top 5 security items to consider before pushing to production",
+          "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 8056,
+            "average": 4.6768866
+          },
           "provider": {
-            "name": "Microsoft",
+            "name": "Microsoft Learn",
             "domain": "microsoft.com",
             "images": [
               {
@@ -876,35 +886,31 @@
               }
             ]
           },
-          "publishedDateTime": "2021-07-02T07:16:12-07:00",
-          "heat": 84,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/YPXhi6WaDZI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
+          "levels": [
+            "Intermediate"
           ],
+          "heat": 133,
           "content": "\r\n",
-          "type": "video",
+          "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases"
+            "Security"
           ]
         },
         {
-          "path": "_learning/videos/microsoft-an-introduction-to-the-microsoft-identity-platform-azure-friday.md",
-          "title": "An introduction to the Microsoft identity platform | Azure Friday",
-          "excerpt": "Christos Matskas joins Scott Hanselman to show how the Microsoft identity platform enables you to add identity authentication and authorization to your solution in a few easy steps.  0:00 – Introduction 3:19 – Overview of the Microsoft identity platform 10:50 – Demo: ASP.NET Core Web App with AAD authentication",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-an-introduction-to-the-microsoft-identity-platform-azure-friday/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-an-introduction-to-the-microsoft-identity-platform-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=sn9HWh-rg9o",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sn9HWh-rg9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT18M19S",
+          "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
+          "title": "Configure security policies to manage data",
+          "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 2420,
+            "average": 4.6181817
+          },
           "provider": {
-            "name": "Microsoft",
+            "name": "Microsoft Learn",
             "domain": "microsoft.com",
             "images": [
               {
@@ -915,35 +921,39 @@
               }
             ]
           },
-          "publishedDateTime": "2021-06-24T19:55:59-07:00",
-          "heat": 62,
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/sn9HWh-rg9o/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "video",
+          "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Identity"
+            "Security"
           ]
         },
         {
-          "path": "_learning/videos/microsoft-better-azure-content-programs-services-through-applied-data-science-azure-friday.md",
-          "title": "Better Azure content, programs & services through applied data science | Azure Friday",
-          "excerpt": "Lisa Cohen joins Scott Hanselman to explain how Microsoft uses data science to help Azure customers.  Learn about content, programs, and services to guide you on your cloud journey while getting a glimpse behind the scenes into how data drives product investments.  0:00 – Opening 0:25 – Introduction",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-better-azure-content-programs-services-through-applied-data-science-azure-friday/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-better-azure-content-programs-services-through-applied-data-science-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=Qll-wtjIobU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qll-wtjIobU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT12M12S",
+          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
+          "title": "Secure your Azure Storage account",
+          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 10990,
+            "average": 4.6820745
+          },
           "provider": {
-            "name": "Microsoft",
+            "name": "Microsoft Learn",
             "domain": "microsoft.com",
             "images": [
               {
@@ -954,38 +964,46 @@
               }
             ]
           },
-          "publishedDateTime": "2021-06-18T01:13:32-07:00",
-          "heat": 50,
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 59,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/Qll-wtjIobU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "video",
+          "type": "course",
           "price": "Free",
           "topics": [
-            "Azure"
+            "Azure",
+            "Storage"
           ]
         }
       ],
-      "size": 265,
-      "heat": 100,
+      "size": 7,
+      "heat": 99,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/27SN1eyVn5k/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "collection",
+      "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Security",
+        "Storage",
+        "Databases",
+        "Analytics"
       ]
     },
     {
@@ -1019,8 +1037,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 11218,
-            "average": 4.789356
+            "count": 11224,
+            "average": 4.789469
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1062,8 +1080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 12282,
-            "average": 4.7812247
+            "count": 12286,
+            "average": 4.781214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1105,8 +1123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 8417,
-            "average": 4.7825828
+            "count": 8421,
+            "average": 4.782686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1152,8 +1170,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 9261,
-            "average": 4.728971
+            "count": 9265,
+            "average": 4.729088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1245,8 +1263,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12862,
-            "average": 4.7668324
+            "count": 12865,
+            "average": 4.7668867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1288,8 +1306,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3282,
-            "average": 4.758379
+            "count": 3285,
+            "average": 4.757991
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1445,8 +1463,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 18656,
-            "average": 4.764097
+            "count": 18664,
+            "average": 4.7640376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1530,8 +1548,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12862,
-            "average": 4.7668324
+            "count": 12865,
+            "average": 4.7668867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1573,8 +1591,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 9256,
-            "average": 4.785004
+            "count": 9260,
+            "average": 4.7849894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1615,8 +1633,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 8638,
-            "average": 4.804816
+            "count": 8639,
+            "average": 4.804723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1743,8 +1761,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3282,
-            "average": 4.758379
+            "count": 3285,
+            "average": 4.757991
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1786,8 +1804,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 21244,
-            "average": 4.707635
+            "count": 21247,
+            "average": 4.7076764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1938,8 +1956,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 48701,
-            "average": 4.8193054
+            "count": 48714,
+            "average": 4.819292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2024,8 +2042,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 21244,
-            "average": 4.707635
+            "count": 21247,
+            "average": 4.7076764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2059,8 +2077,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 10900,
-            "average": 4.703303
+            "count": 10901,
+            "average": 4.703238
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2136,8 +2154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3282,
-            "average": 4.758379
+            "count": 3285,
+            "average": 4.757991
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2179,8 +2197,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 21244,
-            "average": 4.707635
+            "count": 21247,
+            "average": 4.7076764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2331,8 +2349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12862,
-            "average": 4.7668324
+            "count": 12865,
+            "average": 4.7668867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2374,8 +2392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 9256,
-            "average": 4.785004
+            "count": 9260,
+            "average": 4.7849894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2458,8 +2476,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 6297,
-            "average": 4.854375
+            "count": 6300,
+            "average": 4.854127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2500,8 +2518,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
           "length": "PT17M",
           "ratings": {
-            "count": 5028,
-            "average": 4.8365154
+            "count": 5030,
+            "average": 4.8365808
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2667,8 +2685,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 8638,
-            "average": 4.804816
+            "count": 8639,
+            "average": 4.804723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2709,8 +2727,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/",
           "length": "PT27M",
           "ratings": {
-            "count": 9363,
-            "average": 4.7975006
+            "count": 9366,
+            "average": 4.7975655
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2834,8 +2852,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3282,
-            "average": 4.758379
+            "count": 3285,
+            "average": 4.757991
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2883,6 +2901,198 @@
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-azure-friday.md",
+      "title": "Azure Friday",
+      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-azure-friday/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-azure-cosmos-db-cache-serverless-mongodb-and-managed-apache-cassandra-azure-friday.md",
+          "title": "Azure Cosmos DB cache, serverless MongoDB and Managed Apache Cassandra | Azure Friday",
+          "excerpt": "Kirill Gavrylyuk and friends join Scott Hanselman to discuss Azure Cosmos DB updates: integrated cache, serverless for MongoDB API, and Managed Instance for Apache Cassandra with dual write proxy.  ⏩ 0:00 – Opening ⏩ 1:33 – Integrated cache with Tim Sander ⏩ 17:36 – Serverless for MongoDB API with Gahl",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-cosmos-db-cache-serverless-mongodb-and-managed-apache-cassandra-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-cosmos-db-cache-serverless-mongodb-and-managed-apache-cassandra-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=27SN1eyVn5k",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/27SN1eyVn5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT39M25S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-09T01:16:47-07:00",
+          "heat": 95,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/27SN1eyVn5k/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Serverless",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-new-ways-to-get-started-with-azure-database-for-postgresql-azure-friday.md",
+          "title": "New ways to get started with Azure Database for PostgreSQL | Azure Friday",
+          "excerpt": "Claire Giordano joins Scott Hanselman to show how the new Free account for Flexible Server & the new Basic tier for Hyperscale (Citus) in Azure Database for PostgreSQL makes it easier and cheaper to get started with Postgres on Azure.  ⏩ 0:00 – Introduction ⏩ 1:15 – What you might not know about Postgres",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-new-ways-to-get-started-with-azure-database-for-postgresql-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-new-ways-to-get-started-with-azure-database-for-postgresql-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=YPXhi6WaDZI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YPXhi6WaDZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT20M48S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-02T07:16:12-07:00",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/YPXhi6WaDZI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-an-introduction-to-the-microsoft-identity-platform-azure-friday.md",
+          "title": "An introduction to the Microsoft identity platform | Azure Friday",
+          "excerpt": "Christos Matskas joins Scott Hanselman to show how the Microsoft identity platform enables you to add identity authentication and authorization to your solution in a few easy steps.  0:00 – Introduction 3:19 – Overview of the Microsoft identity platform 10:50 – Demo: ASP.NET Core Web App with AAD authentication",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-an-introduction-to-the-microsoft-identity-platform-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-an-introduction-to-the-microsoft-identity-platform-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=sn9HWh-rg9o",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sn9HWh-rg9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT18M19S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-06-24T19:55:59-07:00",
+          "heat": 62,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/sn9HWh-rg9o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-better-azure-content-programs-services-through-applied-data-science-azure-friday.md",
+          "title": "Better Azure content, programs & services through applied data science | Azure Friday",
+          "excerpt": "Lisa Cohen joins Scott Hanselman to explain how Microsoft uses data science to help Azure customers.  Learn about content, programs, and services to guide you on your cloud journey while getting a glimpse behind the scenes into how data drives product investments.  0:00 – Opening 0:25 – Introduction",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-better-azure-content-programs-services-through-applied-data-science-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-better-azure-content-programs-services-through-applied-data-science-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=Qll-wtjIobU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qll-wtjIobU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT12M12S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-06-18T01:13:32-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Qll-wtjIobU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 265,
+      "heat": 74,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/27SN1eyVn5k/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
       "topics": [
         "Azure"
       ]
@@ -2953,8 +3163,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3282,
-            "average": 4.758379
+            "count": 3285,
+            "average": 4.757991
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3129,8 +3339,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12862,
-            "average": 4.7668324
+            "count": 12865,
+            "average": 4.7668867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3172,8 +3382,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 142469,
-            "average": 4.702953
+            "count": 142470,
+            "average": 4.702948
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3336,8 +3546,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 7832,
-            "average": 4.804775
+            "count": 7838,
+            "average": 4.804797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3379,8 +3589,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3282,
-            "average": 4.758379
+            "count": 3285,
+            "average": 4.757991
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3422,8 +3632,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 8047,
-            "average": 4.7508388
+            "count": 8048,
+            "average": 4.7507453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3508,8 +3718,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 958,
-            "average": 4.6889353
+            "count": 959,
+            "average": 4.6892595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3550,8 +3760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9602,
-            "average": 4.667361
+            "count": 9603,
+            "average": 4.6673956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3708,8 +3918,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 15844,
-            "average": 4.697993
+            "count": 15845,
+            "average": 4.698012
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3946,8 +4156,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
           "length": "PT24M",
           "ratings": {
-            "count": 3837,
-            "average": 4.7492833
+            "count": 3838,
+            "average": 4.7493486
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4033,8 +4243,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10988,
-            "average": 4.682017
+            "count": 10990,
+            "average": 4.6820745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4156,8 +4366,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
           "length": "PT24M",
           "ratings": {
-            "count": 3837,
-            "average": 4.7492833
+            "count": 3838,
+            "average": 4.7493486
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4243,8 +4453,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10988,
-            "average": 4.682017
+            "count": 10990,
+            "average": 4.6820745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4300,216 +4510,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-secure-your-cloud-data.md",
-      "title": "Secure your cloud data",
-      "excerpt": "This learning path helps you leverage the built-in Azure services for securing app data, ensuring that only authorized services and clients have access.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-secure-your-cloud-data/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-secure-your-cloud-data/",
-      "length": "PT5H38M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
-          "title": "Protect against security threats on Azure",
-          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
-          "length": "PT23M",
-          "ratings": {
-            "count": 12862,
-            "average": 4.7668324
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 83,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
-          "title": "Top 5 security items to consider before pushing to production",
-          "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 8056,
-            "average": 4.6768866
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
-          "title": "Configure security policies to manage data",
-          "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 2420,
-            "average": 4.6181817
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
-          "title": "Secure your Azure Storage account",
-          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 10988,
-            "average": 4.682017
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security",
-        "Storage",
-        "Databases",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-store-data-in-azure.md",
       "title": "Store data in Azure",
       "excerpt": "This learning path gets you started with the basics of storage management in Azure, Storage Account creation, and choices for data storage.",
@@ -4540,8 +4540,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 15844,
-            "average": 4.697993
+            "count": 15845,
+            "average": 4.698012
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4656,8 +4656,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10988,
-            "average": 4.682017
+            "count": 10990,
+            "average": 4.6820745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4742,8 +4742,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 21244,
-            "average": 4.707635
+            "count": 21247,
+            "average": 4.7076764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4777,8 +4777,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 10900,
-            "average": 4.703303
+            "count": 10901,
+            "average": 4.703238
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5023,8 +5023,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 9331,
-            "average": 4.6721683
+            "count": 9332,
+            "average": 4.672203
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5152,8 +5152,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 10900,
-            "average": 4.703303
+            "count": 10901,
+            "average": 4.703238
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 19087,
-            "average": 4.7654424
+            "count": 19096,
+            "average": 4.7653437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -79,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 15054,
-            "average": 4.6353793
+            "count": 15058,
+            "average": 4.635476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 13268,
-            "average": 4.7709527
+            "count": 13271,
+            "average": 4.7710047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18149,
-            "average": 4.73139
+            "count": 18151,
+            "average": 4.7314196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -230,52 +230,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
-      "title": "Explore Azure database and analytics services",
-      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 18149,
-        "average": 4.73139
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 94,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Analytics",
-        "AI",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-secure-your-cloud-data.md",
       "title": "Secure your cloud data",
       "excerpt": "This learning path helps you leverage the built-in Azure services for securing app data, ensuring that only authorized services and clients have access.",
@@ -307,8 +261,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12862,
-            "average": 4.7668324
+            "count": 12865,
+            "average": 4.7668867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -368,7 +322,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 133,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -428,8 +382,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 10988,
-            "average": 4.682017
+            "count": 10990,
+            "average": 4.6820745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -465,7 +419,7 @@
         }
       ],
       "size": 7,
-      "heat": 70,
+      "heat": 99,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
@@ -483,6 +437,52 @@
         "Storage",
         "Databases",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
+      "title": "Explore Azure database and analytics services",
+      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 18151,
+        "average": 4.7314196
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 94,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Analytics",
+        "AI",
+        "Storage"
       ]
     },
     {
@@ -516,8 +516,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9602,
-            "average": 4.667361
+            "count": 9603,
+            "average": 4.6673956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -553,8 +553,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1964,
-            "average": 4.5020366
+            "count": 1965,
+            "average": 4.501781
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -695,8 +695,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 4607,
-        "average": 4.833731
+        "count": 4608,
+        "average": 4.8337674
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -941,8 +941,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 1054,
-            "average": 4.549336
+            "count": 1055,
+            "average": 4.549763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1375,8 +1375,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 1054,
-            "average": 4.549336
+            "count": 1055,
+            "average": 4.549763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1594,8 +1594,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18149,
-            "average": 4.73139
+            "count": 18151,
+            "average": 4.7314196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2473,8 +2473,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-digital-twins/",
           "length": "PT44M",
           "ratings": {
-            "count": 94,
-            "average": 4.787234
+            "count": 95,
+            "average": 4.7894735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2516,8 +2516,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-digital-twins-graph-for-chocolate-factory/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 63,
-            "average": 4.4761906
+            "count": 64,
+            "average": 4.484375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2559,8 +2559,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ingest-data-into-azure-digital-twins/",
           "length": "PT36M",
           "ratings": {
-            "count": 44,
-            "average": 4.340909
+            "count": 45,
+            "average": 4.3555555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3119,8 +3119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
           "length": "PT26M",
           "ratings": {
-            "count": 310,
-            "average": 4.790323
+            "count": 311,
+            "average": 4.7909966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3765,8 +3765,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 2452,
-            "average": 4.7920065
+            "count": 2453,
+            "average": 4.7920914
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3911,8 +3911,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 1704,
-        "average": 4.758216
+        "count": 1705,
+        "average": 4.758358
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4143,8 +4143,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 1054,
-        "average": 4.549336
+        "count": 1055,
+        "average": 4.549763
       },
       "provider": {
         "name": "Microsoft Learn",
