@@ -8,7 +8,7 @@ length: PT19M
 ratings:
   count: 126
   average: 4.7380953
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "c/lCSAO0K/42/i0WhFSqQcT9yoXUvBv/rHFyXIf8ZHUmGTd9TrM1CvixJ5gQ9BusPPwb6DSWwShYfEqE4tL/vnUuMiI7hw1Avn99egPJjPsfIn9p3swbov7zMKP5yuV2+fCPGC/PBiMkNVJXTTHAVebqWOccf7xiSPA8w31Z9re2RzLbB+jgVIyA/XVg75tY3zg3BiWaDw9w1DRC/XJpXTEkrDXC7drxD4bgwSX7a3t+tutt66GA4yr22DdWjPqny0A35hZZSqcI6QN7VA+UX22bWAz1FvzX10h4mswZpAT/eLVaH9oImXcU+25xHwWJssMKMPQhuq+LRQDMWVpNehZgVdvtUCPZrVPWZxC8Iyd4ebBUCIVxekYyqTn3H7r7lHf471cGg1uKvNgiUOj031YxSaUYtsNjsxzrOVLLHK0=;+9cf0gK8/uAXvoOAAP0Z5Q=="
+secured: "xC5d7vjYdA24pMeNaWvtt5UGzl2IeGhkxhzSTBAzy9EE0w+dFENy90XF7kl2w6op6Lr2LpcbRC6+xIqz0Q3ZzV4IdQrL73G3SRexrZizRMiuubgHXPsk6D64vBHD73akuNJVr4slLZGdR7taJLdHHpaUv4KJBOKf4zs0AfApaWbUwF7bqa8T9q6pIzJ3avU/o/IsiSBh+NhZ8vVUJbG3rg82xpT6NZ+2h1mIqoy/cnrHzkyPZh17L49LAGI/Oiu5VJWkySCUBluxycheAlwyDQ6koBsdN//J/FGDL6C/NmFoKROilwlPPacu1GW47Xc5//WYa/z01Oi5y/vEkTtpvhDFmwXSCQEy6Lu7aNrk5aW3pU09aKxuUq/wXEJ0AyC34/KVXNY1XdvRfuALG9T9JiwY+7Rideu+ta3xbKn6EnM=;jltkov6hbMdLIC3UWiCdFQ=="
 ---
 
