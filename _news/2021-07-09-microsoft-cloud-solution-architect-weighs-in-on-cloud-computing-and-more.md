@@ -1,21 +1,27 @@
 ---
 category: news
-title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
-excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure. OAG customers can now take ..."
-publishedDateTime: 2021-06-28T12:47:00Z
-originalUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
-webUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
+title: "Microsoft cloud solution architect weighs in on cloud computing and more"
+excerpt: "Hybrid cloud solutions are hot right now, with many businesses recognizing the benefits of both on-premises and cloud architecture enterprises, especially in tandem. Approaching on-prem and cloud services,"
+publishedDateTime: 2021-07-08T22:27:00Z
+originalUrl: "https://siliconangle.com/2021/07/08/microsoft-cloud-solution-architect-weighs-cloud-computing-mwc21/"
+webUrl: "https://siliconangle.com/2021/07/08/microsoft-cloud-solution-architect-weighs-cloud-computing-mwc21/"
 type: article
-quality: 10
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Finanztreff
-  domain: finanztreff.de
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/John-Savill-Mobile-World-Congress-2021.jpg"
+    width: 1425
+    height: 813
+    isCached: true
 
 related:
   - title: "Microsoft Cloud PC interface leaked, but nobody noticed"
@@ -91,20 +97,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
-  - title: "Microsoft cloud solution architect weighs in on cloud computing and more"
-    excerpt: "Hybrid cloud solutions are hot right now, with many businesses recognizing the benefits of both on-premises and cloud architecture enterprises, especially in tandem. Approaching on-prem and cloud services,"
-    publishedDateTime: 2021-07-08T22:27:00Z
-    webUrl: "https://siliconangle.com/2021/07/08/microsoft-cloud-solution-architect-weighs-cloud-computing-mwc21/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 21
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/John-Savill-Mobile-World-Congress-2021.jpg"
-        width: 1425
-        height: 813
-        isCached: true
   - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
     excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
     publishedDateTime: 2021-07-01T13:15:00Z
@@ -114,6 +106,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 14
+  - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
+    excerpt: "OAG, a leading provider of air travel data and insights, today announced the availability of its Flight Info API in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure. OAG customers can now take ..."
+    publishedDateTime: 2021-06-28T12:47:00Z
+    webUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
+    type: article
+    provider:
+      name: Finanztreff
+      domain: finanztreff.de
+    quality: 10
   - title: "RIB Schneider Group merges 5 units to form new Microsoft cloud service provider"
     excerpt: "RIB Schneider has announced the merger of five subsidiary organisations, namely ICS Support, Intech, Levtech Consulting, RIB Cloud and SaaSplaza. Effective 01 July, these organisations will form a new,"
     publishedDateTime: 2021-07-06T12:59:00Z
@@ -124,6 +125,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "J8CcfP7LVFxFngupeTe0Ge3+Ewk+GRlzQvSPpvfuEKrUWWRP2b/4Y6yPyf0VG+zUbE2pSB9dhXs+DmVcsiEBVrPWk9E3EiSkwu/8P5CiOcDmG3NNLL05bN3XAfg23vj0RojTsVudZdNHIfwnLlPw3KkBEjKQTpju3tRgPqmwwymlsPiEQMj0BgbOFOdQGz5oPRmdZhN+c66VZwYk/emA5kBtIO1RCIMVWSB0FWizUhZj5Wguw+QcpPqFxVCCDKobWQoeR3of2TSIWDUn3Q/aD1eUocAUvUE0tOZfu+ObQN+GjVwV3TY/e8mBbSFE2TXU3ZbUMkPwJCIEUNZy2hJEA+xboRxyDJb5br5fdfdsoz8=;sfpEoq22yDkbVpY9HHYawQ=="
+secured: "MB3pw7UERYt690x7AK3PDKk0Z+2QtBJSX64fSZrKgLBezueKTyxlqeXUepbWgMJjKJB4RLNz+kI2M8H1tmLs+nje9adTGIDzCwr6IGcDeZugq43YpytDeVeC4g6hokAwAowD+zRnapFUi2dylK7mAanCQjeOrjAkYrovCSxyIlmRMK3taEVhxM500ys+7Wrd731nSpZggpDJRyns4RzKpDBy/nDkKU8Z+9iWlHAEKYjEojkQv7bqN1QpKVaStwo02hxpk09NFhd8yXr9FgC1icpU4Lstqd3Gr4If1ACrkG7pw/zY2Tf4MN43eTOc/xaJF+7bS/kSE6fioVR19OBeXZCBVPHLsWscmm4DKjUDjEc=;VEN/t26NM8KqlGWM0PUBWA=="
 ---
 
