@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
+  - title: "Azure VMware Solution now generally available in the Australia Southeast region"
+    excerpt: "Azure VMware Solution has expanded availability to Australia Southeast. With this release Australia Southeast is now the second region within the Australian sovereign area to become available (joining Australia East). "
+    publishedDateTime: 2021-07-16T19:48:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-australia-southeast-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
 
 secured: "zRgwS95HJ9qzNV/1pFdjVjB1ERDmjTcxqzDriEEV4yYymjFai4i6U5JVIM/orSU59NQoM6WwMyk47vWQj/3RMrv14qs+9lE6czBcWzToBXTKTk7Ax2w9q60aNaIkIL2/1Hln8d/RD1WukmZ9kW8CJwx1QzuFUc47mFiKM4cEOFgE7JcwNxQENymT5v0GtpFYa7qf464qdRGtbpPtSaC2xlrIrBZ9J8iPhS8kmrya2b/KEUBhaM6qviTnSZGkyKoAQxQyDxjegadg37+nD3qnTlgutZovC/1AD37XNulHgaF2AtYkHehiuGS+4IeSXMbRF2v1MZTX8uMbB3/t0L6KiU0HciihdOLrb/eIhvMEGr0=;pl9QGylImUUfag8YIJe2nw=="
 ---

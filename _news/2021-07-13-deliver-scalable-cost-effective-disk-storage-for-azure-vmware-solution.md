@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/deliver-scalable-costeffective-di
 webUrl: "https://azure.microsoft.com/blog/deliver-scalable-costeffective-disk-storage-for-azure-vmware-solution/"
 type: article
 quality: 88
-heat: 108
+heat: 128
 published: true
 
 provider:
@@ -34,6 +34,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure VMware Solution now generally available in the Australia Southeast region"
+    excerpt: "Azure VMware Solution has expanded availability to Australia Southeast. With this release Australia Southeast is now the second region within the Australian sovereign area to become available (joining Australia East). "
+    publishedDateTime: 2021-07-16T19:48:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-australia-southeast-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
 
 secured: "VgPMoNHRonpoDwttnqfoCj3D70N7h7XblRQPTSlq7FAmCbWDS3S73ewZUAidkZy370jPETLff3k4JrLbxU3rmuks9BA/u6pntQhUVNduIj5MHETvE3dVFDVBFhIment6Jc54C9sblml58OOHGbxmGz3cZGXvZK1ZKsSdkogSOmz5duW/1Ecl+qOnSo0m0XkmZ1pG3mj6gOfTZXyPIDf34O5waXT2VkPOeyVwdoYg9gJqi9QDl/uibUItAGstS3u4mn39P37bY00vLtGu0gLWqqU77r4H9dBsEOZ0mKQKstFytp/YNWcMOwrk2zIb+yiql7HnnqCrnFolh4Z1N508SCtzRyFqRNgiqlnRdIdJiCw=;JpOML1kSYtvYyTcEX+wQRQ=="
 ---
