@@ -24,7 +24,7 @@ items:
   - courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines
   - courses/microsoft-learn-secure-your-azure-virtual-machine-disks
   - courses/microsoft-learn-keep-your-virtual-machines-updated
-  - courses/microsoft-learn-build-azure-vm-templates
+  - courses/microsoft-learn-create-resource-manager-template-vs-code
   - courses/microsoft-learn-deploy-vms-from-vhd-templates
   - courses/microsoft-learn-build-app-with-scale-sets
   - courses/microsoft-learn-protect-vm-settings-with-dsc

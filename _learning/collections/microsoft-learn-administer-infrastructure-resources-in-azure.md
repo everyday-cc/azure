@@ -24,7 +24,7 @@ items:
   - courses/microsoft-learn-manage-vms-with-azure-cli
   - courses/microsoft-learn-keep-your-virtual-machines-updated
   - courses/microsoft-learn-configure-the-network-for-your-virtual-machines
-  - courses/microsoft-learn-build-azure-vm-templates
+  - courses/microsoft-learn-create-resource-manager-template-vs-code
   - courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines
   - courses/microsoft-learn-caching-and-performance-azure-storage-and-disks
   - courses/microsoft-learn-secure-your-azure-virtual-machine-disks

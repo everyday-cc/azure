@@ -21,7 +21,7 @@ items:
   - courses/microsoft-learn-azure-compute-fundamentals
   - courses/microsoft-learn-manage-vms-with-azure-cli
   - courses/microsoft-learn-choose-compute-provisioning
-  - courses/microsoft-learn-build-azure-vm-templates
+  - courses/microsoft-learn-create-resource-manager-template-vs-code
   - courses/microsoft-learn-deploy-vms-from-vhd-templates
   - courses/microsoft-learn-build-app-with-scale-sets
   - courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes
