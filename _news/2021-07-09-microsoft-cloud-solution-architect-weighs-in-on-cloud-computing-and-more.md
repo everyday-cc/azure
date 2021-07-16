@@ -40,6 +40,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Microsoft Inspire: The Microsoft Azure Stack and Microsoft 365"
+    excerpt: "The company also announced the availability of the Microsoft Azure Stack at Inspire today. Azure Stack is the company’s solution to expanding Azure on-premises. “Our partners are excited about ..."
+    publishedDateTime: 2021-07-10T00:00:00Z
+    webUrl: "https://sdtimes.com/microsoft-inspire-microsoft-azure-stack-microsoft-365/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 77
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2017/07/1011068-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Cloud PC details leaked before its 2021 release"
     excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
     publishedDateTime: 2020-11-05T08:52:00Z
@@ -125,6 +139,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "MB3pw7UERYt690x7AK3PDKk0Z+2QtBJSX64fSZrKgLBezueKTyxlqeXUepbWgMJjKJB4RLNz+kI2M8H1tmLs+nje9adTGIDzCwr6IGcDeZugq43YpytDeVeC4g6hokAwAowD+zRnapFUi2dylK7mAanCQjeOrjAkYrovCSxyIlmRMK3taEVhxM500ys+7Wrd731nSpZggpDJRyns4RzKpDBy/nDkKU8Z+9iWlHAEKYjEojkQv7bqN1QpKVaStwo02hxpk09NFhd8yXr9FgC1icpU4Lstqd3Gr4If1ACrkG7pw/zY2Tf4MN43eTOc/xaJF+7bS/kSE6fioVR19OBeXZCBVPHLsWscmm4DKjUDjEc=;VEN/t26NM8KqlGWM0PUBWA=="
+secured: "Bthf3I8/o7Uu+J6VgKiXmHue6jCqbVnvtYNrzpGzCdase0zKsbH0EOuJ9+mTvYLajqdyFDbp+lVR27EU0T+froPXPgV0lo+0/rNkG7nIUKDybP+lfIg2yeppE0vS/2vRZ++WSd18zxZkMa4ZrbwRJyBiliOENnmxLEfiRQSeqWCjQe4zZJm8rU96dtsqG30OSdTZLWVTKk7ibJhc4YHvl1aV7SiAxPDCqf9HqRz4haLV4tuBKZRu91jpmo3sAVBXvoHuXUstO+T+0LLazhlV8uMKf5/Gi2EaFnECCxk56EFh+q3saJq9yX+bAtCeIoBKe4zzg6d3d6WZEjXwupOCkAPLtiKi4dwAnLoCLKJP1hmUa6lOK/g2E1xVmHP36jp3QB0AqKFRLdGozvQsANbUAYAvgrUyTQV6ZDR+a8Rrsl6lfWb92dO6PtN9AKnXq7g2+rB2q78MbV7pOYcoNJ2NjcfWGtmGA7FCqPhFdQe//Ds++yCN850K6lS+SRBKoWQQLh0q2caO/s6JCkx4+OAh/g==;3PsQx4KLHHpAiatXRuuGfw=="
 ---
 

@@ -40,6 +40,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Microsoft Inspire: The Microsoft Azure Stack and Microsoft 365"
+    excerpt: "The company also announced the availability of the Microsoft Azure Stack at Inspire today. Azure Stack is the company’s solution to expanding Azure on-premises. “Our partners are excited about ..."
+    publishedDateTime: 2021-07-10T00:00:00Z
+    webUrl: "https://sdtimes.com/microsoft-inspire-microsoft-azure-stack-microsoft-365/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 77
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2017/07/1011068-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Cloud PC details leaked before its 2021 release"
     excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
     publishedDateTime: 2020-11-05T08:52:00Z
@@ -125,6 +139,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "ETb0pQ+XY12mCKZJbiFQXecQE5tf2BU3RKFCV0+eB/d7rtafnrDOFk3OfH1USKiV3g6/+P0o+4P41cbkqt6bA2wThX2WVW9Lx3EnmBcuRD4k6CquU05YmPhVS392Jp6CFFdMAoOpXJ1LXzydajyQrmpb90agjHRjt4mWvpKp/V7YQVxJwCW+nxEsY2HVZtgoYG2lj8IJDAQnJQf0/+oP7lc024OCj9+lasFIxiSYKtaaWDpMBByV4SsgAILjrAdBdzUkCu2vxoYWefXwW8EGQtt84JoBcQr3NgPBazfHFnJKm3bc1p1RyxUYAn5lobBD/TrXyoW2sleJf3E7/SY8Bk0E3SnkBiNCk/RV5jVOTVI=;BMZoBLXwInLiOthAbZFrpw=="
+secured: "fEZehuQKDwnpXoZwrJ7HLSH5ypL8WIOL4MBf4oWTFqV9NRMXb0UXIl/OoVDpPvpiroowKwlyKrKY7bXk1koC/woEaa8qi3GZ5yuxwzYl+Lh5IQsqYpnXolLkcaym34qToaQ7tZgJhNAdnzLLPbY3bCu170Xjlhy+VT1/cpZaeZCtZsLqgQZR+bNHbvhe9QteWrK+OIUexLPSiv3yYeo8GLBPRZITmwbXsIZIVJc5CPc5sgXMSxqF7M+7VgUrbUz69X4IFEpdbuv9OaOJtVKI5OpzlxP1j+pj/7fpzpNbeJQ8VtlA+wDLMvuZo/kwryMlWRIEzH4+o+9HVosyXb5/L5EP6ZZHknvyj4nt0kBvrus=;UdyNSSK7j8SZ5RLhKhRzqg=="
 ---
 

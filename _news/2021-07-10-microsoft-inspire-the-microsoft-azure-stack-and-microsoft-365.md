@@ -1,28 +1,30 @@
 ---
 category: news
-title: "RIB Schneider Group announces new Microsoft Cloud Service Provider"
-excerpt: "The merger has resulted in a global team of technology experts, hundreds of Microsoft certifications and over 10 Gold competencies across various Microsoft technology streams"
-publishedDateTime: 2021-07-06T12:25:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/RIB_Schneider_Group_announces_new_Microsoft_Cloud_Service_Provider-ZAWYA20210706111856/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/RIB_Schneider_Group_announces_new_Microsoft_Cloud_Service_Provider-ZAWYA20210706111856/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
+title: "Microsoft Inspire: The Microsoft Azure Stack and Microsoft 365"
+excerpt: "The company also announced the availability of the Microsoft Azure Stack at Inspire today. Azure Stack is the company’s solution to expanding Azure on-premises. “Our partners are excited about ..."
+publishedDateTime: 2021-07-10T00:00:00Z
+originalUrl: "https://sdtimes.com/microsoft-inspire-microsoft-azure-stack-microsoft-365/"
+webUrl: "https://sdtimes.com/microsoft-inspire-microsoft-azure-stack-microsoft-365/"
 type: article
-quality: 42
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: SD Times
+  domain: sdtimes.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/sdtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.zawya.com/pr/images/2021/BerendJanvanMaanenCEOInTWO_2021_07_06.jpg"
-    width: 450
-    height: 578
+  - url: "https://sdtimes.com/wp-content/uploads/2017/07/1011068-1024x768.jpg"
+    width: 1024
+    height: 768
     isCached: true
 
 related:
@@ -42,20 +44,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Microsoft Inspire: The Microsoft Azure Stack and Microsoft 365"
-    excerpt: "The company also announced the availability of the Microsoft Azure Stack at Inspire today. Azure Stack is the company’s solution to expanding Azure on-premises. “Our partners are excited about ..."
-    publishedDateTime: 2021-07-10T00:00:00Z
-    webUrl: "https://sdtimes.com/microsoft-inspire-microsoft-azure-stack-microsoft-365/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 77
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2017/07/1011068-1024x768.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft Cloud PC details leaked before its 2021 release"
     excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
     publishedDateTime: 2020-11-05T08:52:00Z
@@ -71,6 +59,22 @@ related:
       - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/11/Microsoft-Cloud-PC.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "RIB Schneider Group announces new Microsoft Cloud Service Provider"
+    excerpt: "The merger has resulted in a global team of technology experts, hundreds of Microsoft certifications and over 10 Gold competencies across various Microsoft technology streams"
+    publishedDateTime: 2021-07-06T12:25:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/RIB_Schneider_Group_announces_new_Microsoft_Cloud_Service_Provider-ZAWYA20210706111856/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210706111856/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 42
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/BerendJanvanMaanenCEOInTWO_2021_07_06.jpg"
+        width: 450
+        height: 578
         isCached: true
   - title: "D2iQ Now Available in the Microsoft Azure Marketplace"
     excerpt: "\"We are pleased and proud to make the D2iQ Kubernetes Platform (DKP), with its components Kommander, Konvoy, and Kaptain, available to our customers in the Microsoft Azure Marketplace,\" said Tobi ..."
@@ -139,6 +143,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "g+mtq/Rfkk9ihm2fERrS+furBeCj+jtxgPW4PFCyVX4AMvNMft9XHdkPGzAdSQRFw1wvuvFlU7ERz1cPKHRrAXsVBL6IVg7ZrW4vkqmZPdP7uevA3guMbjaHmv+DcgJhQcuOEJKLN+NzcwP4UWcpTvpj+N1W4BhV13AnJc/njcAFOOdwfY9WrzbhZitXAsb+pcxB9i/ozR1xqPI/Dgc9SNsK/XR1BxJcWc+2TD7syYYXxJCGXHCgLap4/7rDS5zpIVkbg5icVEaD0lgDO7b0PkWqg0YTYARuaeimV+netWYLvOhfe8Owl/cYRIeqgaUS2r9wKKwRXgcVoWixqr9lMJA4ih0e3CwDbaZGnqJ/NV0xa9Nj8UM990y2/oIfKAAhhlDNZR3w5ViAR2SG9C4AF+JCjjzxoRVbBH7HGyZkWATdTFSw1GPNHGYJsLNbDW84FwBzZ8qaptPpkuH6dH8xmM41R2E6hI2QgKwndKTnxVInwIKvqJhmh5gV+O2LUpMpeb8W7iVD4OlZJyLjJKi3YQ==;p9Ppv7M0XlC506+p6MlDuA=="
+secured: "XOG3xkr7qn1K+OPeRvObiwmCOG4uRIZFWoPhnlS//gKAe04I3F+tUPsr+Zfez9f04w8cUb5ihcF1oqpZLjwM27BMJ1zknh/Bxhyv3EYnm7VKzWWTqUy3uFx5AsRUsW6HVF9NrqXv5MZLzEs7aOg8N1mnO40wce3B7Mwa8UFIfKKOEw5K2GOE4oVoe11NdyfvaaiRj1HEJt1x5BntsA4Qs64aZaRTYylyDCwxXoJaCbY07/XEf7LVXP9xX62GVtmgZI5LNHp0x1GcbdulWqR+wvPnZxdU6fHYKGV4DECVZ3eHEBDA/9hXN00MRny61jxy5QMTN186osfAvYh+RYqRHo8utOrb3nOLddsQajQtfR0=;xuVbwCjrUxNN2ERlStH7kw=="
 ---
 

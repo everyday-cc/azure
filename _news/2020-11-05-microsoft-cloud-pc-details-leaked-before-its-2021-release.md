@@ -42,6 +42,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Microsoft Inspire: The Microsoft Azure Stack and Microsoft 365"
+    excerpt: "The company also announced the availability of the Microsoft Azure Stack at Inspire today. Azure Stack is the company’s solution to expanding Azure on-premises. “Our partners are excited about ..."
+    publishedDateTime: 2021-07-10T00:00:00Z
+    webUrl: "https://sdtimes.com/microsoft-inspire-microsoft-azure-stack-microsoft-365/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 77
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2017/07/1011068-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "RIB Schneider Group announces new Microsoft Cloud Service Provider"
     excerpt: "The merger has resulted in a global team of technology experts, hundreds of Microsoft certifications and over 10 Gold competencies across various Microsoft technology streams"
     publishedDateTime: 2021-07-06T12:25:00Z
