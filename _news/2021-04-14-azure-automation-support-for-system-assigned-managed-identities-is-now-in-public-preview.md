@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-system-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-system-assigned-managed-identities/"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure Automation support for User Assigned Managed Identities is now in public preview"
+    excerpt: "Use user-assigned identities for Azure Automation runbook jobs. "
+    publishedDateTime: 2021-07-16T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-user-assigned-identities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
 
 secured: "UDQTLSizORV3PcAx+OxyRQvFLn5Q770nUmpXpjbvrG/qjnJEc+da1/YFFywfnivZ4vDyz7WB4B51dQ4FnB7zIMMYDpfsG7UH5VWZt4YuECF2pbU/+d07D2y1tpttF8UvhRyLDIQp1TkeFXrAK1nkr93I/EC175zVRPUdoYqKWPqF11cNAI7AH0mr27+queC5BymbuInXIyVaK4tqbcgs4gIOM0KJVPgUzmGuHQaBwz/1aNLj5ELHIva1SXBqSUcHYUHtmF7sidDwJ6kgps2Nll7uf6exc7ugTdPmR/k6QV1GgSFGBDMsTemUBptIZYnhgDU3s+lyMDEd7IwOI5/KzILN4zpJGw4CcqOaFNpdxcs=;29jpuL1Tvc9ZO7o6tiRAQA=="
 ---

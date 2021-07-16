@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Data Lake Storage static website now in preview"
-excerpt: "Static website for Azure Data Lake Storage is now in preview. Directly host static content from Azure Data Lake Storage, and view that content from a browser by using the public URL of that website.  "
-publishedDateTime: 2020-06-30T20:00:35Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/static-website-for-azure-data-lake-storage-now-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/static-website-for-azure-data-lake-storage-now-in-public-preview/"
+title: "Azure AD Privileged Identity Management (PIM) integration with Azure Lighthouse is now in public preview"
+excerpt: "Enable just-enough and just-in-time controls in cross-tenant management with Azure AD PIM integration, now in public preview."
+publishedDateTime: 2021-07-06T16:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-privileged-identity-management-pim-integration-with-azure-lighthouse-is-now-in-public-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-privileged-identity-management-pim-integration-with-azure-lighthouse-is-now-in-public-preview/"
 type: article
 quality: 84
 heat: -1
@@ -20,7 +20,8 @@ provider:
 
 topics:
   - Azure
-  - Storage
+  - Identity
+  - Integration
 
 related:
   - title: "Soft delete for blobs capability for Azure Data Lake Storage is now in limited public preview"
@@ -41,10 +42,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure AD Privileged Identity Management (PIM) integration with Azure Lighthouse is now in public preview"
-    excerpt: "Enable just-enough and just-in-time controls in cross-tenant management with Azure AD PIM integration, now in public preview."
-    publishedDateTime: 2021-07-06T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-privileged-identity-management-pim-integration-with-azure-lighthouse-is-now-in-public-preview/"
+  - title: "Azure Data Lake Storage static website now in preview"
+    excerpt: "Static website for Azure Data Lake Storage is now in preview. Directly host static content from Azure Data Lake Storage, and view that content from a browser by using the public URL of that website.  "
+    publishedDateTime: 2020-06-30T20:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/static-website-for-azure-data-lake-storage-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft
@@ -78,6 +79,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "zybHtx2QX+2/fi4sUPvu5o3wVa1po2Iv3oLyn4QFXmPbzWy82x4BWwEyKBfn1H5+cu3dVjS5jQGYqU0e5Y2RgqzDslcCqoY+vjUl8tnKzsKtrkzh3e//aJSEJ4k7wXgwUcMvJn6qF/GSxrRZx4CrlqHFH5rOT2vUCB2yMfGJqlQfGpQcqfx3nzb2DNlZQDiBpdv+gPw9sDR9h68o3OQoEFvVbNr5vkKYu9PCwRAvONhIrI74ZIED/hd4k3AjirpBY2U9uBmg19oCyPK0hMdUjHRAG8VNOUXsyb33v3KjxIoehUrvpGHW8PFXRsNRz++JgAgWq2obKtL5aS43gnHZaUR8y/gILbyr9qbTNLbjwZOSrRfTrqRhSBKf9kGJ2Tr6;Vazr++8b317TazEuMg+eng=="
+secured: "+qLkCi6p7k+nCv1aDtprlWXcxnhwt0bORkyC1mmLY1Qt1tF1RnHWt9yWPv3NL6h7sayQxpMIufe/IYPYBKtxlWU4raI3CEXc4uupVgC9G5ZfRIoFhsY7GhIyAu0wF7QXpJa2ozVrGGJH/KweGf/ETHeBr0uLGrXa6knTZLfqMcuWwuewqQfAq69xJO84/jWS6ZtMlthkBMQJLxa6+4MNc7mHTdfxN6cBgJgt9O2Br819DCuV3e37o9ATMrMSlsffQbblog7d+MoZu5r/IxPUnBBm8yORn0raLTm5P90hKyXsfldIwZHrRcCc7ca5a/kvkdVB2NGSHDy83AotNtxZgHMLxtTV+AU2MspOFcEM5EQ=;/uNWDArOO5+BcLQfRYiVxQ=="
 ---
 

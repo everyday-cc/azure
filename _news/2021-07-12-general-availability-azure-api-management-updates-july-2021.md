@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-upd
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-july-2021/"
 type: article
 quality: 104
-heat: 524
+heat: 544
 published: true
 
 provider:
@@ -200,6 +200,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
+  - title: "General availability: Transition to Cloud Services (extended support) with new migration tool"
+    excerpt: "Accelerate your transition to Cloud Services (extended support) in Azure Resource Manager (ARM) using the new tool that provides a seamless and fully orchestrated migration of your Cloud Services (classic) deployments. "
+    publishedDateTime: 2021-07-07T17:00:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
   - title: "General availability: HPC Cache for NVME-based Storage, Storage Target Management, and HIPAA Compliance"
     excerpt: "The latest release of HPC Cache adds support for high throughput VMs as well as enhancements to storage target operations. "
     publishedDateTime: 2021-07-12T15:37:42Z

@@ -208,6 +208,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
+  - title: "General availability: Transition to Cloud Services (extended support) with new migration tool"
+    excerpt: "Accelerate your transition to Cloud Services (extended support) in Azure Resource Manager (ARM) using the new tool that provides a seamless and fully orchestrated migration of your Cloud Services (classic) deployments. "
+    publishedDateTime: 2021-07-07T17:00:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
   - title: "Azure API Management update—July 2020"
     excerpt: "A regular Azure API Management service update was started on July 8, 2020. It includes new features, bug fixes, and improvements."
     publishedDateTime: 2020-07-16T00:00:31Z

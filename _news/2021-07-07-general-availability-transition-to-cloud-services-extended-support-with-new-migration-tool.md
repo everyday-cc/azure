@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure SQL enabled by Azure Arc generally available on July 30, 2021"
-excerpt: "Bring cloud data management to data workloads on-premises, at the edge, and in multicloud environments. "
-publishedDateTime: 2021-07-14T16:00:33Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-enabled-by-azure-arc-generally-available-on-july-30-2021/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-enabled-by-azure-arc-generally-available-on-july-30-2021/"
+title: "General availability: Transition to Cloud Services (extended support) with new migration tool"
+excerpt: "Accelerate your transition to Cloud Services (extended support) in Azure Resource Manager (ARM) using the new tool that provides a seamless and fully orchestrated migration of your Cloud Services (classic) deployments. "
+publishedDateTime: 2021-07-07T17:00:55Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration-ga/"
+webUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration-ga/"
 type: article
-quality: 84
+quality: 58
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Databases
+  - Migration
 
 related:
   - title: "General availability: Azure API Management updates - July 2021"
@@ -104,6 +104,15 @@ related:
     excerpt: "With this update, we've added a new set of policies which can be used to restrict the scope and lifespan of your organization’s Azure DevOps personal access tokens. "
     publishedDateTime: 2021-06-24T17:00:03Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-updates-for-june-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure SQL enabled by Azure Arc generally available on July 30, 2021"
+    excerpt: "Bring cloud data management to data workloads on-premises, at the edge, and in multicloud environments. "
+    publishedDateTime: 2021-07-14T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-enabled-by-azure-arc-generally-available-on-july-30-2021/"
     type: article
     provider:
       name: Microsoft
@@ -199,15 +208,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
-  - title: "General availability: Transition to Cloud Services (extended support) with new migration tool"
-    excerpt: "Accelerate your transition to Cloud Services (extended support) in Azure Resource Manager (ARM) using the new tool that provides a seamless and fully orchestrated migration of your Cloud Services (classic) deployments. "
-    publishedDateTime: 2021-07-07T17:00:55Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration-ga/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 58
   - title: "General availability: HPC Cache for NVME-based Storage, Storage Target Management, and HIPAA Compliance"
     excerpt: "The latest release of HPC Cache adds support for high throughput VMs as well as enhancements to storage target operations. "
     publishedDateTime: 2021-07-12T15:37:42Z
@@ -232,6 +232,6 @@ related:
         height: 752
         isCached: true
 
-secured: "/Jy5O++G0iITkN7UbxBNBjqudx+TxvlcTBdTnotGAra6Le375Ppy0RttNaBfAfg6mmxGPPJ6dNJ6D8uMlX6jWGJygkogP2DzYDfGuG9bRTsyS5WB34EWHhDZD/p2rFp+03Gijz2jFhcxU0s9YVf1F4sIV3NEKqLpxxImOg/W1PQzv9iGvJH8jFw5vVQosyeLkV9DU9IeRmgq/CaBK9+9WcEI3qIR55d+nXUWvsvuB4vdl8SW9KlHkMJbIlw33mce6gKUgv9dTtK7+zKZ+ZBEc6VL+8gZJyQiDCsWBa8ipsb44ReFQil9gp3nTxSOMpxvpToyT39JZpBetKDMQG3wPS0f/uC+QkIbNgrECdrFpQw=;0SMmBdHNt4PHogAJ4y1I/A=="
+secured: "3KZJV1y4nZqH1KJPOHpGS/zsslxfELC5X4Y+VB65BMYpBykOLc3sc0U/6Jh3WpYD/Bvmh5Yb6mRNUDg8+SXGq15MT9l8gCsLFPT8iXhOQ1+L1UoIemduTApCONum5trrPIlEobgIgxuw1U+zdzJqm/UhvvZknv2FpWGtvgS5POdw1l0g/Mujwf580Fv8idi167TATsr3ALUz4oLhgTFWPE91aOO8/W1xhkwfdzWK/FDvPojIkoC6OJMjmTVRWx/xIrYmFSyWJ3rxUCCMQHj3yUourzmsuykc6tVrui4GlCZhMOLVxSSJyX+3CspSQaAu7JX3S7P64XUdwro59U19pXo5X/j4NchO4t6kuMHtrC4=;hmAUs0/+g5ys4459XoHCyA=="
 ---
 
