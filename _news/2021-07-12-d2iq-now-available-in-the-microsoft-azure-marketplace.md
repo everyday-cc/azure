@@ -83,20 +83,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
-  - title: "TIBCO Recognized as a Finalist in the 2021 Microsoft Azure Partner of the Year Awards"
-    excerpt: "\"Our continued focus on developing technologies that deliver a cloud-first experience aligns perfectly to our close collaboration with Microsoft and the Azure cloud computing platform,\" said Tony Beller,"
-    publishedDateTime: 2021-07-13T00:00:00Z
-    webUrl: "https://www.pressreleasepoint.com/tibco-recognized-finalist-2021-microsoft-azure-partner-year-awards"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 30
-    images:
-      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
     excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
     publishedDateTime: 2021-07-01T13:15:00Z
@@ -125,6 +111,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "2j5OCJ047Wgyd6mEe2R/52xZ5gkfYxpJ1+lyNYKHQXaKFw3X4Te1YjtBiDtQkNdoEPuvFfTgqlTkuqZsjFcR2tREglScozWIRBsCpkbaQtzSRCJ4hj7T3sNojPa7nZrB/TEsBL0I148qQScCbQBjXW1p6eH9hN5FLI7gwcMdBPmZid+n/e08EAtfcTrLKse+BQmt+ke/HLcQr+dsM8D3tk5JyLOf9oigMrjioVcCIWsDetv8kSvaWtV4PY4Ot/mniJNXLZKZN8/VPt5ZKt3ZDt4I0GDNpRWzACXtenP4iuviEA28Ht7MDId+2VZH36yfgaqucSqzLA6TAOOHi3rUUS37y22c4ww31GerVQPIue0=;2pt0zSo40ZixTy+nCgTCvQ=="
+secured: "6Y0bPSvIrKpfIJ5FKL8vYj8fKi3azJJULGW1HZmcnl7p+L0WDPY3EHYWYfRM86yEfekk+j519HYKz4t1zNHkNrIxGGgOzpsgBfZxuaN/7G0qOg7W1yBQkrzFbPzjZdWMYYD8Yc7q5lYeKZLt63RdebYYOZcgr9YvnjXtYDYbzW8hSWxmWbyVA8Y7paizlXk8om9rUK2vjQ34Jv2vkjhOUGiHP467l6hMkNLqjrjP6vSAO79ZIgLIoyWa5Og/pe38jr87/BCXZo2NS/eWqJ1mnnpAt4da2UVK8KyueCFo8LD2lLz7ll8XSkjzeY/oQyaZUF232rBA3mq52G9F8/C70AcoHgNPTvHQ27ZxlsFwnhs=;HLk6Q8tkaT9nKnzaYumJAA=="
 ---
 
