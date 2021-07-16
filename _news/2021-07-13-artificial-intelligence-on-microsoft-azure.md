@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
-excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
-publishedDateTime: 2021-01-05T05:34:00Z
-originalUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
-webUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
+title: "Artificial Intelligence on Microsoft Azure"
+excerpt: "Whether you're just beginning to work with Artificial Intelligence (AI) or you already have AI experience and are new to Microsoft Azure, this course provides you with everything you need to get ..."
+publishedDateTime: 2021-07-13T14:54:00Z
+originalUrl: "https://www.usnews.com/education/skillbuilder/artificial-intelligence-on-microsoft-azure-0_mr4rapL8Eeup_AoS2h03mQ"
+webUrl: "https://www.usnews.com/education/skillbuilder/artificial-intelligence-on-microsoft-azure-0_mr4rapL8Eeup_AoS2h03mQ"
 type: article
-quality: 37
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
   - AI
-
-images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
-    width: 768
-    height: 401
-    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -255,15 +249,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
-  - title: "Artificial Intelligence on Microsoft Azure"
-    excerpt: "Whether you're just beginning to work with Artificial Intelligence (AI) or you already have AI experience and are new to Microsoft Azure, this course provides you with everything you need to get ..."
-    publishedDateTime: 2021-07-13T14:54:00Z
-    webUrl: "https://www.usnews.com/education/skillbuilder/artificial-intelligence-on-microsoft-azure-0_mr4rapL8Eeup_AoS2h03mQ"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 74
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
     excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
     publishedDateTime: 2021-01-21T15:50:00Z
@@ -408,6 +393,20 @@ related:
       - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
+    excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
+    publishedDateTime: 2021-01-05T05:34:00Z
+    webUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
+        width: 768
+        height: 401
         isCached: true
   - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
     excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
@@ -693,6 +692,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "cFtBWaEYW1OETux8tpY0VHFDrWzhgReO5wR5/FOvQL6TW2fYMAeTeMVU5jZc1d/hQWHPLY+MpRuO0zz0NkgVNMMF3IJ1ZrXaTJWiAQAAl3t9Z2Oj/hGWMlSaNBvf9kmY5I054Hd04uO7XyfgbtmfibCntp6wN7snaXZwo7TlTT7uV8NKg44oMv0BD6j1bx2WBaiXDA2SykaWwJilkEbH4G2J1BiJ+A/7B8ICnC2wJhwvfop4+5fHq8ELYWrUmlcMEcToh+bHN2kgi2eyYjFMY5yJvkOs3XR22P6xLUhqKHboCYCEm/boCBxXZH5zz5KXL3NZW6fO0BCo61Q9B5+BBcJNkQYn02FQYsAxftRaG5uGivpts9S2FbvKq5CZe/+908SJrDz3hmPjRQQO7wcNBOfcucjcLRuhiTcn3cYBilaMR1e/+Ip+IoVGB27T1TZzc0B4IpUsm1gEWsXLFWGJHS2KqZa8iBxJ4r6CQjtIeojCsxB2hej2XNrEcC9ikM9Xvhq3JIU5+l+ZaJ2BYz8DPw==;KRYwUNMttIHqkY8g2iqMSA=="
+secured: "82qHBs5/F3abU8Q+CZdqmsPJg26ixDlMi+aSycrvloS6dYUbhHY2HP3T7v0SRAfCAladMar44ZtBwJF8MZZoTg5B8LgsSKbh+oaweKOHDkE7H+61eB/NPZHDq5tvbkSNi/Li0oVHvZLiQOSdC1I5BbAkvDCYB5xIasIdhrnQ3j7Ugbh8qM2XtnvevJ7f/oMI7sq9mSxyJrRzBTmJzQv1qzsQmV9ZbV7aWftipZ7YzbZLEpKeUlSNRwNcBXKkHiu+eoz/CH8pDg62j2CyHnPjPsUMM2UsyR/7bNAff8W10GEvJQ8CgzjAe82Q4C3hunSMjNGKRWnehqSdlaJAXQKlOQiRR8iFU9GKPXDnUBS0vWU=;S84uVUCM8/XVSJlO0eKceQ=="
 ---
 

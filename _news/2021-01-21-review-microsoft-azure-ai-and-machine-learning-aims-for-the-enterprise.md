@@ -251,6 +251,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
+  - title: "Artificial Intelligence on Microsoft Azure"
+    excerpt: "Whether you're just beginning to work with Artificial Intelligence (AI) or you already have AI experience and are new to Microsoft Azure, this course provides you with everything you need to get ..."
+    publishedDateTime: 2021-07-13T14:54:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/artificial-intelligence-on-microsoft-azure-0_mr4rapL8Eeup_AoS2h03mQ"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 74
   - title: "Get 6 Microsoft Azure courses valued at $199 each for under $35"
     excerpt: "It's not often that you come across six fully-loaded Microsoft Azure prep courses bundled at a deep discount. For those looking to get ready for the Azure certification, these courses—now ..."
     publishedDateTime: 2021-01-11T08:00:00Z

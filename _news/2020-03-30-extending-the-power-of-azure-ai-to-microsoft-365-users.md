@@ -242,6 +242,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
+  - title: "Artificial Intelligence on Microsoft Azure"
+    excerpt: "Whether you're just beginning to work with Artificial Intelligence (AI) or you already have AI experience and are new to Microsoft Azure, this course provides you with everything you need to get ..."
+    publishedDateTime: 2021-07-13T14:54:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/artificial-intelligence-on-microsoft-azure-0_mr4rapL8Eeup_AoS2h03mQ"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 74
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
     excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
     publishedDateTime: 2021-01-21T15:50:00Z
