@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Microsoft Cloud services were down for some users"
-excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
-publishedDateTime: 2021-04-03T08:52:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
-webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+title: "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace"
+excerpt: "Microsoft Azure customers worldwide now gain access to IN-D Identity Verification with Aadhaar Data Masking to take advantage of the scalability, reliability, and agility of Azure to drive ..."
+publishedDateTime: 2021-07-15T12:00:00Z
+originalUrl: "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html"
+webUrl: "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html"
 type: article
-quality: 82
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - Azure
+  - Identity
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
-    width: 1123
-    height: 792
+  - url: "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg"
+    width: 1892
+    height: 683
     isCached: true
 
 related:
@@ -77,6 +72,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
         width: 1786
         height: 1119
+        isCached: true
+  - title: "Microsoft Cloud services were down for some users"
+    excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
+    publishedDateTime: 2021-04-03T08:52:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
+        width: 1123
+        height: 792
         isCached: true
   - title: "Microsoft Azure is adding AI services to its basic user tools. If you want to know Azure, this can get you started"
     excerpt: "Complete Microsoft Azure Certification Prep Bundle explores how to build and manage a complete Azure cloud network and earn key Azure credentials in the process. Artificial intelligence. For most, tho"
@@ -195,20 +206,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to IN-D Identity Verification with Aadhaar Data Masking to take advantage of the scalability, reliability, and agility of Azure to drive ..."
-    publishedDateTime: 2021-07-15T12:00:00Z
-    webUrl: "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 52
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg"
-        width: 1892
-        height: 683
         isCached: true
   - title: "Onfido Partners with Microsoft on Azure Active Directory Verifiable Credentials"
     excerpt: "Onfido, an identity verification and authentication company, has been selected by Microsoft to enable fast and secure identity verification and onboarding for its Azure Active Directory (Azure AD) verifiable credentials. Azure AD verifiable credentials ..."
@@ -528,6 +525,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "xTLL4+1rgxdFbEbGl0OZ+tPtVVwRaH6itjd/b28IG5AeUlnZcM2zXTopIJAmM69O9kJ9F2UetMDH2+dngASpO1YGdJjw7O3UNR/cBVkLvDdTX5TDXV+nVAYVG5CHEg4+jVW+4Y8RYowqGx2w86cRqUlh7+qF1KzaBwIAzEabLxyt2BSvA3E65rqgDyl2jqvUIh6wajpTSBXybs1xecJAnpiQ9dXWBqIYu5iauDllZB5br3h3BPGyAgXRfwvA/GCT4P3AisrQC3ZRRfaPeN0FFTGndljLhcNEAx3A1tG4/7IjCuqAeNQM//bW653HFKk8+nPcywiS1J9GmJ84lWV/GmYmg+rA4Y+nL2f7jPhUdQA=;dJBIJ4GDOMec3lD5IcMvew=="
+secured: "waJOOK6jbYENplQvPSpjBJFSWsfxszeQSAVLh/+iy+JYzvvCsCs5ymbEm+nmE1FWt2sMyZwnIKzDmjw/EsFpyDz8q1zSkP+jKwykDmQr2jjCEmTZKRZZoSidDsmod07MRbcWJocQLsRMGEcqlSfnkN/7zoSu6Hh0U3yMP2hCeSICrr5KIl9XZtXYFGAOJOU1hjAE2RLIVIUvJvSLcW/EROzDBjaCB0lpQH+Nh1lJSjxeZ7ma6q9hQdyD8NGzp7z0o+MYlpNQyHYLUu9gHFYuN/3Z+wSQmo0IR64Jpo/WwsN3/tRhppSOiTCsNpPMqKC77xUc6HWI8aWEKhcOVOapW62RYJbUPsihHzRB+yqJ1EQ=;2FXPG+0rLYBOKQ2drFMJXQ=="
 ---
 

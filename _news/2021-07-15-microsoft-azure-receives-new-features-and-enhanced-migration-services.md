@@ -1,34 +1,26 @@
 ---
 category: news
 title: "Microsoft Azure receives new features and enhanced migration services"
-excerpt: "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program."
-publishedDateTime: 2021-07-14T22:00:00Z
-originalUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/"
-webUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/"
-ampWebUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At Inspire 2021, Microsoft announced a host of enhanced products across Azure, including the ..."
+publishedDateTime: 2021-07-15T05:02:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-azure-receives-new-features-and-enhanced-migration-services-10332323"
+webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-azure-receives-new-features-and-enhanced-migration-services-10332323"
 type: article
-quality: 114
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
   - Migration
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -1753,6 +1745,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "RfBWxD9XGcM4UirVxViKZ6YANi9G1bYL2ZDSQQiEKjycPbTIJynrkN8NRCgcP7uIkEU8EFoPuK0Pt9Az0WhT1FwhM7nFK1VFD/AFVb8onRH7iDRCmUwgodBi7XbJyXivWDwwBPHIm+gKq3iF3poeDerZ27SX8ctwraEwIn8gqky47M5/vavFwej6AC8fGd+c8wcV+AU2Kj7++tN497kvxM9eAOU816sbTYSF77eoETAcehKhWVqyuW8+fHaQpf70lSCJ2DR2YOlhU9LW7S1ZF5VrRJmlcScWpcHB9vmQescM1okCby/KWIgybcb1GU0NjYISm8ae3tdiAZMAqd5jWRjSF+FUmM1jgOEhW3w8E35ICK1CuWasUZc1RnvqtAIugMdBr75ZhakdXUelh3iy/PL/byQoG3mII82ICwgzmZS7iSGZUZB5i2nbaRlVV5xCvl4Kpr+qgZfEQ202qFyZmD1AEqqYHKb8DSwOyZyhcNXvsUIeF+kiJ6bnv/e9gWeRu8GLZenE0wXvNo0f7eopFw==;le82oKTToCxo9e06IhKdwg=="
+secured: "1VrcLiGKw59ySCMpRHp0rHIPYNQg8mQacCWRlknvjjEclWjqd5jzjOwrEen5ZkAvbBHpzf6ZvtVOhym5VXOKs0GhsbIhosnLeba0tnOJheA15dZPwwq8y/TQPO8FZ+D7papsc3+fMnoUo7jkZaa3IZedRmTXgNF2YXr3bhyczlHZeSa0IRyDC+OHW5YHYSiH+ztwaS5GgC2paPZ9Qs3s3d5733kgLBQwB0TyGX0+mB/BCFHnzmEAn28SA6C+Lf9RKq6vmeDF7i4PiKQKTENWY+NVHI00wFcipd06jISC4V92HRF3+8s6dIUhLPUICRCrZwMI2BJqc5SMs0eMalnBkpvDFPs1h5YVimcfQzxXKi0=;7FRRJeixtpbjzBGxbssjvQ=="
 ---
 

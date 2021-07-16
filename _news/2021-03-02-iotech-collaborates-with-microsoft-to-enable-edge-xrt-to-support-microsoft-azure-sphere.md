@@ -76,22 +76,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Microsoft Azure receives new features and enhanced migration services"
-    excerpt: "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program."
-    publishedDateTime: 2021-07-14T22:00:00Z
-    webUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/"
-    ampWebUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 114
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft unveils Azure Percept, a family of edge devices optimized for AI"
     excerpt: "During Microsoft Ignite 2021, Microsoft announced Azure Percept, a family of edge devices optimized for AI workloads."
     publishedDateTime: 2021-03-02T14:01:00Z
@@ -569,6 +553,15 @@ related:
         width: 728
         height: 380
         isCached: true
+  - title: "Microsoft Azure receives new features and enhanced migration services"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At Inspire 2021, Microsoft announced a host of enhanced products across Azure, including the ..."
+    publishedDateTime: 2021-07-15T05:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-azure-receives-new-features-and-enhanced-migration-services-10332323"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
   - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
     excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
     publishedDateTime: 2021-03-09T08:14:00Z
