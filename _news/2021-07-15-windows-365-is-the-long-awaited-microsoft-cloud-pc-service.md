@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Microsoft cloud solution architect weighs in on cloud computing and more"
-excerpt: "Hybrid cloud solutions are hot right now, with many businesses recognizing the benefits of both on-premises and cloud architecture enterprises, especially in tandem. Approaching on-prem and cloud services,"
-publishedDateTime: 2021-07-08T22:27:00Z
-originalUrl: "https://siliconangle.com/2021/07/08/microsoft-cloud-solution-architect-weighs-cloud-computing-mwc21/"
-webUrl: "https://siliconangle.com/2021/07/08/microsoft-cloud-solution-architect-weighs-cloud-computing-mwc21/"
+title: "Windows 365 is the long-awaited Microsoft Cloud PC service"
+excerpt: "Built on top of AVD, it offers Windows PCs in the cloud that can be provisioned from the same Microsoft Endpoint Manager dashboard organizations use to manage physical devices and VMs, with no ..."
+publishedDateTime: 2021-07-15T06:50:00Z
+originalUrl: "https://www.techrepublic.com/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+webUrl: "https://www.techrepublic.com/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
 type: article
-quality: 21
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/John-Savill-Mobile-World-Congress-2021.jpg"
-    width: 1425
-    height: 813
+  - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/14/0d0814e6-1260-4e39-bda7-2d20fe68970a/resize/1200x/d8869d67ea83362cff8b91ce2fe939bc/windows-365-will-offer-windows-10-and-11-from-the-cloud-embargo-until-july-14-8am-pt.jpg"
+    width: 1200
+    height: 750
     isCached: true
 
 related:
@@ -39,22 +45,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/G4rLNNFyBQ7njva59Ny7wU-480-80.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Windows 365 is the long-awaited Microsoft Cloud PC service"
-    excerpt: "Built on top of AVD, it offers Windows PCs in the cloud that can be provisioned from the same Microsoft Endpoint Manager dashboard organizations use to manage physical devices and VMs, with no ..."
-    publishedDateTime: 2021-07-15T06:50:00Z
-    webUrl: "https://www.techrepublic.com/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 82
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/14/0d0814e6-1260-4e39-bda7-2d20fe68970a/resize/1200x/d8869d67ea83362cff8b91ce2fe939bc/windows-365-will-offer-windows-10-and-11-from-the-cloud-embargo-until-july-14-8am-pt.jpg"
-        width: 1200
-        height: 750
         isCached: true
   - title: "Microsoft Inspire: The Microsoft Azure Stack and Microsoft 365"
     excerpt: "The company also announced the availability of the Microsoft Azure Stack at Inspire today. Azure Stack is the company’s solution to expanding Azure on-premises. “Our partners are excited about ..."
@@ -127,6 +117,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
+  - title: "Microsoft cloud solution architect weighs in on cloud computing and more"
+    excerpt: "Hybrid cloud solutions are hot right now, with many businesses recognizing the benefits of both on-premises and cloud architecture enterprises, especially in tandem. Approaching on-prem and cloud services,"
+    publishedDateTime: 2021-07-08T22:27:00Z
+    webUrl: "https://siliconangle.com/2021/07/08/microsoft-cloud-solution-architect-weighs-cloud-computing-mwc21/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 21
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/John-Savill-Mobile-World-Congress-2021.jpg"
+        width: 1425
+        height: 813
+        isCached: true
   - title: "Microsoft, SES demo Azure Cloud for remote missions via secure GovSat service"
     excerpt: "Microsoft and SES have demonstrated the use of Azure Cloud for remote missions using the secure MilSatCom connectivity. The demonstration also involved GovSat, public-private JV between the Luxembourg government and SES,"
     publishedDateTime: 2021-07-01T13:15:00Z
@@ -155,6 +159,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "Bthf3I8/o7Uu+J6VgKiXmHue6jCqbVnvtYNrzpGzCdase0zKsbH0EOuJ9+mTvYLajqdyFDbp+lVR27EU0T+froPXPgV0lo+0/rNkG7nIUKDybP+lfIg2yeppE0vS/2vRZ++WSd18zxZkMa4ZrbwRJyBiliOENnmxLEfiRQSeqWCjQe4zZJm8rU96dtsqG30OSdTZLWVTKk7ibJhc4YHvl1aV7SiAxPDCqf9HqRz4haLV4tuBKZRu91jpmo3sAVBXvoHuXUstO+T+0LLazhlV8uMKf5/Gi2EaFnECCxk56EFh+q3saJq9yX+bAtCeIoBKe4zzg6d3d6WZEjXwupOCkAPLtiKi4dwAnLoCLKJP1hmUa6lOK/g2E1xVmHP36jp3QB0AqKFRLdGozvQsANbUAYAvgrUyTQV6ZDR+a8Rrsl6lfWb92dO6PtN9AKnXq7g2+rB2q78MbV7pOYcoNJ2NjcfWGtmGA7FCqPhFdQe//Ds++yCN850K6lS+SRBKoWQQLh0q2caO/s6JCkx4+OAh/g==;3PsQx4KLHHpAiatXRuuGfw=="
+secured: "KvHGFS+jniHMRsI+oa91YzW5FxHO8djFyQjB6b73flJAQJ7o2DHrArs6D9aOp9fAYuEKIBB/TjFILvoJeCwVGDfaR8p2GSXIbvEhyoyEs1vGNtwawY9NbiqRIumgsWfie5X8zNRkPki26GiI8PmT5kXdeShak35U1vLXbHl7EHArgD6so/vA+atnAKcuVAvYIO6GHhovjMUWMmeIVUfMdxKnim63B9RGCZ24MlGnd3NEZ3cAdPl+QFKqs3QicdCWNn905Ks9vpEh4KZYHNV2SbuziMlsrHQxyt3J+gGD0p+eL6FH96dtYUy2qPB9UPiqB80SgS/dl/yB1bDWbkh0lUwd7O0SYBLliMbDGa9dNzA=;EDxkiHzqnB4Cl98XlKlpTw=="
 ---
 

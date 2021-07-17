@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Cornerstone.IT Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Cornerstone.IT Remote Desktop Pro to take advantage of the scalability, reliability, and agility of Azure to drive application development ..."
-publishedDateTime: 2021-07-13T12:45:00Z
-originalUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
-webUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
+excerpt: "Microsoft Azure customers worldwide now gain access to Cornerstone.IT Remote Desktop Pro to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. New York, NY, United States ..."
+publishedDateTime: 2021-07-13T14:31:00Z
+originalUrl: "https://ipsnews.net/business/2021/07/13/cornerstone-it-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://ipsnews.net/business/2021/07/13/cornerstone-it-now-available-in-the-microsoft-azure-marketplace/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Law
-  domain: law.com
+  name: Inter Press Service
+  domain: ipsnews.net
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
-    width: 256
-    height: 256
+  - url: "https://icrowdnewswire.com/wp-content/uploads/2021/06/4395-logo-cornerstone.it_300x300_whitebg-biggergraphic.png"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -219,6 +219,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "XQDlRzx/w5iDvPPquyIJA52lM+wcBqsE3zDpMHKkI6IiPKjqQUmodFwMlmzOtvKWAAK2Amy7QHEThIpEqO6hVTy3sp68Y0/DJZlZ8nme9HD41Yh6rsOO2CwRhixFifTSB8hkbtGOmKmIFRBSTxpDHgxBhk5CrVI9UAOqvwa9j07409301xdLdmx8FvkP5o8KIlesXyeYRJTBgmDbldv1cqIG8Dy013trbh4nca/9sh0kV58lPkxJTvadGcfiMjxvqEqXFhYYb9DYFhkby654E3uluYMAhsQApejfjohFnhEJh9MphmVpDDsAi8KT39eojwK126ohZL7AZvDxRGU7CFDuPOtUDQzb6LKRKBZ3lZo=;NDBlpXOPdFAZwdXi173Abg=="
+secured: "3HPx/5ru2ugLkvzkNEisjcthjZ+hRz73oU43UlwDvSekqRccWD2pkd7OJKGMBt9OIBVHuJE9pQHtMBVlvwm0bUia/2F/di6Qt5j6dlpUwNhiaVY0rApwwPEC0W2Vsj8SI4qKP/UssMOCLR6mit5u/nPs5a9acKDPG9cNfrUINifzJM3QpjW43JXI72kIIFpPb+vHeKXlH4dH2M2pO30JN//8gzRpKx1HbYK2Og3LHW1opcNziHXammkkbb5kC5QnhEhNZMLKHg5wTiojpCpv77k8+JvAvudxtQMtmpAeVQa361u2eNpS40bZhWprKH8FCa8k4mZSUNnOvwUDNI+KQnyh0QehmF8tXoUSzBeOrmY=;ZksiCBwOcIjbWnmTh3ydTQ=="
 ---
 

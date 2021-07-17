@@ -44,6 +44,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Windows 365 is the long-awaited Microsoft Cloud PC service"
+    excerpt: "Built on top of AVD, it offers Windows PCs in the cloud that can be provisioned from the same Microsoft Endpoint Manager dashboard organizations use to manage physical devices and VMs, with no ..."
+    publishedDateTime: 2021-07-15T06:50:00Z
+    webUrl: "https://www.techrepublic.com/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 82
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/14/0d0814e6-1260-4e39-bda7-2d20fe68970a/resize/1200x/d8869d67ea83362cff8b91ce2fe939bc/windows-365-will-offer-windows-10-and-11-from-the-cloud-embargo-until-july-14-8am-pt.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Microsoft Cloud PC details leaked before its 2021 release"
     excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
     publishedDateTime: 2020-11-05T08:52:00Z

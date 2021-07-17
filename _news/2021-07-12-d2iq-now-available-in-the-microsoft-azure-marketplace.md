@@ -40,6 +40,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Windows 365 is the long-awaited Microsoft Cloud PC service"
+    excerpt: "Built on top of AVD, it offers Windows PCs in the cloud that can be provisioned from the same Microsoft Endpoint Manager dashboard organizations use to manage physical devices and VMs, with no ..."
+    publishedDateTime: 2021-07-15T06:50:00Z
+    webUrl: "https://www.techrepublic.com/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 82
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/14/0d0814e6-1260-4e39-bda7-2d20fe68970a/resize/1200x/d8869d67ea83362cff8b91ce2fe939bc/windows-365-will-offer-windows-10-and-11-from-the-cloud-embargo-until-july-14-8am-pt.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Microsoft Inspire: The Microsoft Azure Stack and Microsoft 365"
     excerpt: "The company also announced the availability of the Microsoft Azure Stack at Inspire today. Azure Stack is the company’s solution to expanding Azure on-premises. “Our partners are excited about ..."
     publishedDateTime: 2021-07-10T00:00:00Z
@@ -139,6 +155,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "6ZYajJEYt6Mpw7IZgt21gf/3ACW1GuAj9ili6mZUCdsUBI6nIaEkjeh4WACXhSP7/nnxiU7b8DZu5tdrpYnqKg7L5suMawaW5D1FuC7YJjgWLvVWvmwnaS8bOHClonqSGQcu6NblmYMZB2qnYrR+Xs1mjHd1a+YwH8sBMpgjNm+yisLcL5SR2ZJFnmXwXqettIxiXkGsb+m2cReadUUNsmX7OFpFypE+8b1I/gAdUtf9SqtYfIFTkQz4NYbBSi032G90kw5nUyOniWrLgXt+OrKe6VnuHLI8P/jCaMxvmR3C/6CCEA7yiYTFBh0K2JGvBi/edBfv9IOva5DTuAlGER9tVbggDhpyj1toAvuidnk=;4do3/0D6nov3s/DEk1qWcg=="
+secured: "NW46bFeuDQe1PjPMNixpV5AGWAkQ/MIrUvNlDCBBi26q6CGtAGsNBS7nJvX4+7MLkRi3jmqW1wepbdvwsR/wwULSbHZ5IveZoHlYc7VbXUYEKKZV1LPrhll6A3Ld3RbRZwLOhsbDM+GS2eHMiudQFCKpa4z2/ETRbpSBlv6NoFipW342J08/MY15NGpERRg8pJj9x++dmdk56+gCrQ38kvDVuM3/HSLTYsGJ1fqQdi2F0MWE55LWidLpzJ+H+BMv3aWbkY7Rkx6JEgLGAJNrIEWTf2a+lQuz70m6eHAeES6lhFR2PTwtSEK4upMBRWA6oQtpBqK+a/Be+6KfcuMivMk9nM7HgoKprTLz3pfEE+Y=;C9+b+BEZKo53VlAQQlb4PQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-pc-interface-leak
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-pc-interface-leaked-but-nobody-noticed"
 type: article
 quality: 82
-heat: 262
+heat: 282
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Windows 365 is the long-awaited Microsoft Cloud PC service"
+    excerpt: "Built on top of AVD, it offers Windows PCs in the cloud that can be provisioned from the same Microsoft Endpoint Manager dashboard organizations use to manage physical devices and VMs, with no ..."
+    publishedDateTime: 2021-07-15T06:50:00Z
+    webUrl: "https://www.techrepublic.com/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-365-is-the-long-awaited-microsoft-cloud-pc-service/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 82
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/14/0d0814e6-1260-4e39-bda7-2d20fe68970a/resize/1200x/d8869d67ea83362cff8b91ce2fe939bc/windows-365-will-offer-windows-10-and-11-from-the-cloud-embargo-until-july-14-8am-pt.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Microsoft Inspire: The Microsoft Azure Stack and Microsoft 365"
     excerpt: "The company also announced the availability of the Microsoft Azure Stack at Inspire today. Azure Stack is the company’s solution to expanding Azure on-premises. “Our partners are excited about ..."
     publishedDateTime: 2021-07-10T00:00:00Z
