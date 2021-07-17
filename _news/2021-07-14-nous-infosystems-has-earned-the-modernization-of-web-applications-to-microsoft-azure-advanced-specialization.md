@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's"
-publishedDateTime: 2021-07-14T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_f89689a2-d586-58f0-a10f-3b471b3aadc4.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_f89689a2-d586-58f0-a10f-3b471b3aadc4.html"
+excerpt: "PLEASANTON, Calif., July 14, 2021 /PRNewswire/ -- Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a ..."
+publishedDateTime: 2021-07-14T16:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301333356.html"
+webUrl: "https://www.prnewswire.com/news-releases/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301333356.html"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/76/9768ad98-489f-5a94-a5f7-64301a90718b/60ef0b0f2cb0a.image.jpg?resize=1200%2C600"
-    width: 1200
-    height: 600
+  - url: "https://mma.prnewswire.com/media/1191552/Nous_Infosystems_Logo.jpg?p=facebook"
+    width: 1498
+    height: 785
     isCached: true
 
 related:
@@ -84,6 +84,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "WQpEBzquvj+W8gACBYtJiRXe5dIIzXiyk2S2lejBMbDxafc6arsA8cGHjZZmL7SO4hBBp628UZ9+RwlBm4xmytn5BUHpNbHoY4Lhi7fMTNLOQ48S6Owd6cbeR0BQcR6jeUJlSMglNOxDRn9kKs9qUhESzSjSZNNH/bNyRLkFuu96qIy60rhU/1BAZ/cwJMTKJX0TZ8sbonLp1r4oBEdKKN8HZLCW9iX2QDZ3130tHiw8n6u7H9TdZBJh4hMD3PTHi6NZQMy0VuQeCu3zh96JOFF+fCYxXw3uvf16LwDUyC0s6CoeoRWR1fX/zQ5+WCPVQSV+o6AoHrEvCppu9B7SlvH0AOvbjhkCg8kTd9YC9o4=;gvUAa9rb00xkpENPp6LZ9A=="
+secured: "PX1QXPGLl2m+h3VntNcm0jsf/D+xCJlttYtgz5meXerp/7SIXEmveItOdhs5MPlYKy9Y0RhqkkFsCAmQHBWq+esFwrFPHX1IqX5jgUcPkj31ucM3kRAyUbkwppB5gF7A+3F5/AXzfs/2O/SyHfsWf3lUlOnjikBmEk0MkkhCzUcl2Pj3E8TeJ5uWZs26lCEAmwDHN6iBNd2EUfyyS9XCczRVFvhWvjW+eeu6OD1/f4M4K4hAMM7EHvhEQvLF1i6p6kmyeeACBhyqI9POfgTdLDhTR5HqMjgZZh77BHad5m0gBCZ702adh+uM7tGjM8TFwPjYk3ma1kgPi91ceT4EXLs+UkOeO63VO82XRgHxyYQ=;Lj/+I7S0HrxjZ1YNzGd10A=="
 ---
 
