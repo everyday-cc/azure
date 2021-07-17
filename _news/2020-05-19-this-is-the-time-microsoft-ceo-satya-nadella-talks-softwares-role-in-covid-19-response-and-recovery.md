@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-sat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/amp/"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 86
+published: true
 
 provider:
   name: Forbes
@@ -28,6 +28,24 @@ images:
     height: 675
     isCached: true
     title: "‘This Is The Time’: Microsoft CEO Satya Nadella Talks Software’s Role In COVID-19 Response And Recovery"
+
+related:
+  - title: "Microsoft Inspire 2021: Satya Nadella’s Microsoft Cloud Keynote"
+    excerpt: "Did you miss the Microsoft Cloud keynote this year? Have no fear! Click here for a full rundown of the most important highlights."
+    publishedDateTime: 2021-07-16T03:09:00Z
+    webUrl: "https://www.avepoint.com/blog/office-365/microsoft-cloud-inspire/"
+    ampWebUrl: "https://www.avepoint.com/blog/office-365/microsoft-cloud-inspire/?amp"
+    cdnAmpWebUrl: "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/office-365/microsoft-cloud-inspire/?amp"
+    type: article
+    provider:
+      name: AvePoint
+      domain: avepoint.com
+    quality: 42
+    images:
+      - url: "https://www.avepoint.com/blog/wp-content/uploads/2021/07/global-communication-network-concept-picture-id1092964846.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "o2wWnJoeI/mXOiIkDiTgMlztLi5otIHSIB49/R4iUL3GwIO6G6vlRj21OlpQLT/OMGo2OSFQPQ9zE/ghul8FOsmdRUsrJFT2BTJmjiYNewasDcHr4ND5r5e/UKNlgejJc3zKXIJEJJOxwedcqs6wQ6yA7P1lN/zaKdR4uds32vebEL6OL0J2Hhtnld6lqYHiA6qNHopBHszjhv4VshAqtvT6c1hC1FKhHNjqkyudKraWN/f3nrfWa56Qdp8OHTQ8zyBxtxp+ElWCA+vK3uZYSacvnm4PHu34+qSUgO19JyHNlq4D5W6nKq0KBephCoTJ;o/sqq1BbmalPHHyFXzoxGw=="
 ---
