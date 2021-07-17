@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-07-15T15:39:00Z
+    webUrl: "https://iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/"
+    ampWebUrl: "https://iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/amp/"
+    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/amp/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 55
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/asset-management-tracking-location-containers.jpg"
+        width: 800
+        height: 360
+        isCached: true
   - title: "TeraGo Expands its Microsoft Portfolio with Managed Azure and Disaster Recovery Solutions"
     excerpt: "CNW/ - TeraGo Inc. (\" TeraGo \" or the \" Company \") (TSX: TGO) (  ), announced today that it has expanded its Microsoft product portfolio with the addition of Microsoft 365, Managed Microsoft Azure, and Managed Disaster Recovery."
     publishedDateTime: 2021-07-13T13:23:00Z
@@ -33,20 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-    excerpt: "Along with the IDMC pod launching on Microsoft Azure Germany, an additional IDMC pod is now available on Azure Southeast Asia, further expanding the reach of Informatica's cloud data management ..."
-    publishedDateTime: 2021-07-13T07:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/informatica-expands-cloud-footprint-on-microsoft-azure-germany-889342108.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1047
-        isCached: true
   - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
     excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customers VANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX ..."
     publishedDateTime: 2021-07-13T17:00:00Z
@@ -56,6 +58,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "TIBCO Recognized as a Finalist in the 2021 Microsoft Azure Partner of the Year Awards"
+    excerpt: "\"Our continued focus on developing technologies that deliver a cloud-first experience aligns perfectly to our close collaboration with Microsoft and the Azure cloud computing platform,\" said Tony Beller,"
+    publishedDateTime: 2021-07-13T12:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tibco-recognized-as-finalist-the-2021-microsoft-azure-/2021/07/13/9407556.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "6MKPKBP0VAR17xNKn51yRxJCyHtnCk6HizUNVWvEBER+lwlRIHFxpXTw/RGXJE69EsvmiIMXFmSv4zJXafcmm6mGVuOqWjUHO/uFcQpPFlngdSwqyH3nLr5GNgr+Yj2jo4SXanNYvMQP17E3476QDqs7jd9MeB3EY78SR2ak5uRvE5FptaPW26zfvKhEt2ADgQ9q2Ax7UZmk08L1U3xKl2Obhazl7vWCBdVMppLmqWq95YN5InH/PkuH1ybhs1ozIddu27sxtagliFWWkssuA1ZEWmqOMXKJebSkVF/gV8UQfUcBpqzS8/sImWX9cm5QOXPE2sa2I9BX5NpDMk1uOCeRRwv4v01nb4Xg8nsm8xez1ngY5jHYubogMdd8L3A3E+VIDlHvS6WvQUpQQ2v8iVNQZgpf75JF7hUk/5G+bGqOPTaP1hTUIgP0WxeVFIv/6CzBCNSeeaF2U7JcuBeWAEwAlu8S7mWHuquW5vV5HvW48/UfPdsH+mN/p904IwdTgnz7+SE+adJqyX99UV0sWA==;ZQttx1rRXbGMy/tG7HyexA=="
 ---

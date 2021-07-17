@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/terago-expands-its
 webUrl: "https://markets.businessinsider.com/news/stocks/terago-expands-its-microsoft-portfolio-with-managed-azure-and-disaster-recovery-solutions-1030601302"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,21 @@ topics:
   - Azure
 
 related:
-  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-    excerpt: "Along with the IDMC pod launching on Microsoft Azure Germany, an additional IDMC pod is now available on Azure Southeast Asia, further expanding the reach of Informatica's cloud data management ..."
-    publishedDateTime: 2021-07-13T07:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/informatica-expands-cloud-footprint-on-microsoft-azure-germany-889342108.html"
+  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-07-15T15:39:00Z
+    webUrl: "https://iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/"
+    ampWebUrl: "https://iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/amp/"
+    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 55
     images:
-      - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1047
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/asset-management-tracking-location-containers.jpg"
+        width: 800
+        height: 360
         isCached: true
   - title: "11 Top Azure Announcements From Microsoft Inspire 2021"
     excerpt: "A Microsoft Cloud for Sustainability, new Azure Kubernetes Service smart defaults and an Azure Synapse partner center that will connect customers to partner solutions were among the top cloud computing announcements at Microsoft Inspire 2021."
@@ -59,6 +61,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 15
+  - title: "TIBCO Recognized as a Finalist in the 2021 Microsoft Azure Partner of the Year Awards"
+    excerpt: "\"Our continued focus on developing technologies that deliver a cloud-first experience aligns perfectly to our close collaboration with Microsoft and the Azure cloud computing platform,\" said Tony Beller,"
+    publishedDateTime: 2021-07-13T12:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tibco-recognized-as-finalist-the-2021-microsoft-azure-/2021/07/13/9407556.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "7tr5TX9zIHncc9vDgu+RrApeTpQ3oc1hwPFzFuikDksF2elwV1lYYPWFDjvWbi/AaLKDtNJm2ikHcPsFm3ncS3pl6MRsCxIQdYWLsx95KsmeXPvvoAcQncECv/CDeS7fWRi8UeCnxYmLqp7/LG/IO4yXtiBFVV36kCLgobXVL1vrL19AQaSNQs9m4mHMUbXbECwEsV0MGL8+U9p0CJR7vK7bTmy2sCQy4O50IGWnXSXM2q48mPcC67T2oZ7TqOP4oEH2n1Dt4zkSCFpsFmpGavP9O8IG8YTIAz5qg7i1pU15IaAJtOTc++/rNuGuaEyybfbrlLiVSej/fWD7LGhAFg3U/FeO1hUS1MjpxWxLotU=;jpE/4tVpPbN3Rde29QXk3A=="
 ---
