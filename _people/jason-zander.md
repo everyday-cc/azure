@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: jlzander
   url: https://twitter.com/jlzander
-  followers: 7616
+  followers: 7617
 
 linkedin:
   url: https://www.linkedin.com/in/jason-zander-62780637/
