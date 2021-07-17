@@ -4,6 +4,94 @@
   "page": 35,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server.md",
+      "title": "Describe performance-related maintenance tasks in SQL Server",
+      "excerpt": "Implement tasks for both IaaS and PaaS to maintain indexes, and statistics. Explore the automatic tuning features of Azure SQL Database.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-related-maintenance-tasks-sql-server/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 575,
+        "average": 4.7791305
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-performance-related-maintenance-tasks-in-sqlserver-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-platform-architecture-security-data-protection-azure-databricks.md",
+      "title": "Describe platform architecture, security, and data protection in Azure Databricks",
+      "excerpt": "Describe platform architecture, security, and data protection in Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-platform-architecture-security-data-protection-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-platform-architecture-security-data-protection-azure-databricks/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 215,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-platform-architecture-security-data-protection-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-describe-sql-server-query-plans.md",
       "title": "Describe SQL Server query plans",
       "excerpt": "Read and understand various forms of execution plans. Compare estimated vs actual plans. Learn how and why plans are generated.",
@@ -1228,85 +1316,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
-      "title": "Distribute your data globally with Azure Cosmos DB",
-      "excerpt": "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 1910,
-        "average": 4.6287956
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-enable-external-access-with-b2c.md",
-      "title": "Enable secure access to apps for external users with Azure AD B2C",
-      "excerpt": "Use Azure AD B2C as the full-featured identity system for your application, and ensure that users are required to sign in securely by using multi-factor authentication.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-enable-external-access-with-b2c/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-external-access-with-b2c/",
-      "length": "PT16M",
-      "ratings": {
-        "count": 110,
-        "average": 4.6545453
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/enable-external-access-with-b2c-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

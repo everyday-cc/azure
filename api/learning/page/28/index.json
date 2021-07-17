@@ -4,6 +4,101 @@
   "page": 28,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
+      "title": "Implement logging in a .NET Framework ASP.NET web application",
+      "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 40,
+        "average": 4.65
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile",
+        "Management Tools",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aspnet-session.md",
+      "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
+      "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-session/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-session/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 40,
+        "average": 4.675
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms.md",
       "title": "Audit the security of Windows Server IaaS Virtual Machines",
       "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
@@ -1184,83 +1279,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-bicep-conditions-loops.md",
-      "title": "Build flexible Bicep templates by using conditions and loops",
-      "excerpt": "Build advanced Bicep templates by using conditions to conditionally deploy resources and using loops to deploy multiple instances of resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-bicep-conditions-loops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-flexible-bicep-templates-conditions-loops/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 15,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/bicep/bicep-conditions-loops-social.png",
-          "width": 1280,
-          "height": 640,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-blockchain-create-ui-decentralized-apps.md",
-      "title": "Create a user interface with decentralized apps",
-      "excerpt": "Learn about decentralized apps and how to build your own.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-blockchain-create-ui-decentralized-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/blockchain-create-ui-decentralized-apps/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 55,
-        "average": 4.8727274
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

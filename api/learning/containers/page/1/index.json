@@ -4,49 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-microservices-apigateway-aspnet-core.md",
-      "title": "Understand API Gateways in a cloud-native ASP.NET Core microservices app",
-      "excerpt": "This module guides you through implementing BFF in an ASP.NET Core microservices app.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-microservices-apigateway-aspnet-core/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-apigateway-aspnet-core/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -77,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 19191,
-            "average": 4.765359
+            "count": 19193,
+            "average": 4.7653832
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 15110,
-            "average": 4.6348114
+            "count": 15115,
+            "average": 4.6346016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 13316,
-            "average": 4.7712526
+            "count": 13319,
+            "average": 4.7712293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -208,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18218,
-            "average": 4.7313647
+            "count": 18222,
+            "average": 4.7313685
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -280,8 +237,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 19191,
-        "average": 4.765359
+        "count": 19193,
+        "average": 4.7653832
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -348,8 +305,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3316,
-            "average": 4.759047
+            "count": 3319,
+            "average": 4.759265
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -391,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 21282,
-            "average": 4.7080164
+            "count": 21284,
+            "average": 4.7080436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -543,8 +500,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3316,
-            "average": 4.759047
+            "count": 3319,
+            "average": 4.759265
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -586,8 +543,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 21282,
-            "average": 4.7080164
+            "count": 21284,
+            "average": 4.7080436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1191,8 +1148,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43517,
-            "average": 4.719535
+            "count": 43518,
+            "average": 4.7195415
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3492,6 +3449,49 @@
       ],
       "content": "\r\n",
       "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-app-package-management-using-helm.md",
+      "title": "Application and package management using Helm",
+      "excerpt": "Helm is an application package manager for Kubernetes that you use to standardize and simplify the deployment of cloud-native applications on Kubernetes. Here you'll see how to install third-party packages called Helm charts and how to create and install Helm charts for the workloads your teams develop.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-app-package-management-using-helm/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 328,
+        "average": 4.7164636
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/app-package-management-using-helm-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
