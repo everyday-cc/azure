@@ -4,48 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-go-variables-functions-packages.md",
-      "title": "Understand how to use packages, variables, and functions",
-      "excerpt": "Learn about the basic data types in Go and about how to declare variables, write functions, and use packages.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-go-variables-functions-packages/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-variables-functions-packages/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 252,
-        "average": 4.8531747
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/go-variables-functions-packages-social.png",
-          "width": 640,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-identify-faces-with-computer-vision.md",
       "title": "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services",
       "excerpt": "Learn how to use the Computer Vision API in Azure to identify facial details in pictures",
@@ -132,8 +90,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 4060,
-        "average": 4.7672415
+        "count": 4061,
+        "average": 4.7672987
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -506,8 +464,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-machine-learning/",
       "length": "PT52M",
       "ratings": {
-        "count": 10,
-        "average": 4.7
+        "count": 11,
+        "average": 4.7272725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1047,8 +1005,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
       "length": "PT28M",
       "ratings": {
-        "count": 5688,
-        "average": 4.7014766
+        "count": 5689,
+        "average": 4.7015295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1230,6 +1188,49 @@
       "topics": [
         "Azure",
         "Management Tools",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
+      "title": "Secure your application by using OpenID Connect and Azure AD",
+      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 2703,
+        "average": 4.6762857
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Identity"
       ]
     }
