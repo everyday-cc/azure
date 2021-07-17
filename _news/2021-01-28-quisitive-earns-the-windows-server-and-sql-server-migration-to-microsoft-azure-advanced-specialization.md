@@ -56,19 +56,14 @@ related:
         height: 233
         isCached: true
   - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "PLEASANTON, Calif., July 14, 2021 /PRNewswire/ -- Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a ..."
-    publishedDateTime: 2021-07-14T16:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301333356.html"
+    excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
+    publishedDateTime: 2021-07-14T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607629"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1191552/Nous_Infosystems_Logo.jpg?p=facebook"
-        width: 1498
-        height: 785
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
     publishedDateTime: 2021-01-29T14:36:00Z

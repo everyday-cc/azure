@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "PLEASANTON, Calif., July 14, 2021 /PRNewswire/ -- Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a ..."
-publishedDateTime: 2021-07-14T16:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301333356.html"
-webUrl: "https://www.prnewswire.com/news-releases/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-301333356.html"
+excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
+publishedDateTime: 2021-07-14T16:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607629"
+webUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607629"
 type: article
-quality: 18
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1191552/Nous_Infosystems_Logo.jpg?p=facebook"
-    width: 1498
-    height: 785
-    isCached: true
 
 related:
   - title: "Quisitive Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
@@ -84,6 +82,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "PX1QXPGLl2m+h3VntNcm0jsf/D+xCJlttYtgz5meXerp/7SIXEmveItOdhs5MPlYKy9Y0RhqkkFsCAmQHBWq+esFwrFPHX1IqX5jgUcPkj31ucM3kRAyUbkwppB5gF7A+3F5/AXzfs/2O/SyHfsWf3lUlOnjikBmEk0MkkhCzUcl2Pj3E8TeJ5uWZs26lCEAmwDHN6iBNd2EUfyyS9XCczRVFvhWvjW+eeu6OD1/f4M4K4hAMM7EHvhEQvLF1i6p6kmyeeACBhyqI9POfgTdLDhTR5HqMjgZZh77BHad5m0gBCZ702adh+uM7tGjM8TFwPjYk3ma1kgPi91ceT4EXLs+UkOeO63VO82XRgHxyYQ=;Lj/+I7S0HrxjZ1YNzGd10A=="
+secured: "peqYy1PxBKjghCCecCN3iygc/2XN/e718cLqbaL2pFNdeZOxi/dhydukThF4WF2N6vyRGkvstuhD5vHa6vJ7HJq5SQNcvfql4QqXmgMiiCL0AlH7mszJNSkzQThBjsaAPt5kzZsg7HUcwOEV2Q03a7cK8htnQ8rg4tAaiD0ibqHOAVKO79dkelUIlj+E73NdPNdjG90jXCUFP7WZEfY9tlSuk2nXISG7hCBMPEopZFqUmSzECrCzOXPYDmSeO+kYPXFm9EuBbYO0MfEYZrG/8dgi3QxJTieV5Hn5IQTtXTuxPt5eoif4478iGU/3Q6LpTqVNvbmOr4O1LEBThdwumqfAFXFg3HlGj1LDOZK62wm7O9LzCnjoxISbRaV1NC+3zWZA0iOZNrEXyKjVAgyaIv6mCNRFbLFgCI3WFXFvZD/dWL0+1qkGlJMzPTRr5wj8ih5n8ltS4F8lOP+ez/xQ/CUrPxUTV7MV3RQh+SDaLeRtYL9UUtQ9BmNI+LazSRxiQ8tcOlORV1C4ZRfBMRnCvw==;qj8JgU+jioKhAOgVtsNIew=="
 ---
 
