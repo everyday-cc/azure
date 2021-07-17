@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
-publishedDateTime: 2021-07-14T16:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607629"
-webUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607629"
+excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's"
+publishedDateTime: 2021-07-14T16:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_f89689a2-d586-58f0-a10f-3b471b3aadc4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_f89689a2-d586-58f0-a10f-3b471b3aadc4.html"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/76/9768ad98-489f-5a94-a5f7-64301a90718b/60ef0b0f2cb0a.image.jpg?resize=1200%2C600"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Quisitive Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
@@ -82,6 +84,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "z1S+xGc1zP/IeLm6oJQ3SIc3fIeLzbK6QSJRHHTPW/kjfX0KpdJfX5Qd9liaQOoBTNHcXRpHdBIb48yUojwFAjtAhxAMy1Zhr3n3KeyPJtm2kHNHVYBufFRJJxOqre0J574VSP//3cgu5P5NVpLZHFG7BOWkTIQbVh7EQRauydKRfAI5A6ONMyo0zPhg/gu5SEpB8LH89x9FOq8IHun+DUWBJTq0qTEQSV6rP8Ip4J+rlbBTG4YBPOL2pcHSdsjJ+/rSDVFwDI5IGlrg1yThdJWAzGJwuCgLsN7ONJpqPfzga/NQ8/PqFi4vJmqNvTnBGMdqPsexut5wkoJMzoLY5HWAydHFvfJawlqxFvP4SBrlNv5Ur1EyV3ikcPkEShfwQfy1JGCkTJkPbx8kIPb8u0Btl+VO7movYjPkPhpAT+YWFXsquvx0FwmWr+f00IFxrAs6mwQBeSTxhopwUq0MKACIyNN775+M7H7FIqr/AkP/WS/TweE/S6xDx95iHAMpm0Z1yHbglbkAE+D4ecwLPA==;zpgzzB2m3r8GOXcdKRnqyA=="
+secured: "WQpEBzquvj+W8gACBYtJiRXe5dIIzXiyk2S2lejBMbDxafc6arsA8cGHjZZmL7SO4hBBp628UZ9+RwlBm4xmytn5BUHpNbHoY4Lhi7fMTNLOQ48S6Owd6cbeR0BQcR6jeUJlSMglNOxDRn9kKs9qUhESzSjSZNNH/bNyRLkFuu96qIy60rhU/1BAZ/cwJMTKJX0TZ8sbonLp1r4oBEdKKN8HZLCW9iX2QDZ3130tHiw8n6u7H9TdZBJh4hMD3PTHi6NZQMy0VuQeCu3zh96JOFF+fCYxXw3uvf16LwDUyC0s6CoeoRWR1fX/zQ5+WCPVQSV+o6AoHrEvCppu9B7SlvH0AOvbjhkCg8kTd9YC9o4=;gvUAa9rb00xkpENPp6LZ9A=="
 ---
 

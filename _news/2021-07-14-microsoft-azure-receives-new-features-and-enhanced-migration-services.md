@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
-excerpt: "Microsoft has announced Microsoft Azure Percept, consisting of its Percept Vision camera module and Percept Audio smart mic. They'll form the foundation for intelligent devices built by partners."
-publishedDateTime: 2021-03-02T14:00:00Z
-originalUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.html"
-webUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.html"
-ampWebUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
-cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
+title: "Microsoft Azure receives new features and enhanced migration services"
+excerpt: "Watch now! Today at its Inspire conference, Microsoft launched a number of updates across Azure, including the Azure Migration and Modernization Program (AMMP). An evolution of the Azure Migration ..."
+publishedDateTime: 2021-07-14T15:03:00Z
+originalUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/"
+webUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/"
+ampWebUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
 type: article
-quality: 89
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: PC World
-  domain: pcworld.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/pcworld.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+  - Migration
 
 images:
-  - url: "https://images.idgesg.net/images/article/2021/03/ai-devkit-shot-2_under-embargo-until-march-2-at-6am-pt-100879175-large.jpg"
+  - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
     width: 1200
-    height: 422
+    height: 600
     isCached: true
 
 related:
@@ -77,22 +78,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Microsoft Azure receives new features and enhanced migration services"
-    excerpt: "Watch now! Today at its Inspire conference, Microsoft launched a number of updates across Azure, including the Azure Migration and Modernization Program (AMMP). An evolution of the Azure Migration ..."
-    publishedDateTime: 2021-07-14T15:03:00Z
-    webUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/"
-    ampWebUrl: "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 114
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft unveils Azure Percept, a family of edge devices optimized for AI"
     excerpt: "During Microsoft Ignite 2021, Microsoft announced Azure Percept, a family of edge devices optimized for AI workloads."
@@ -360,6 +345,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-952061110.jpg?w=1024"
         width: 1024
         height: 697
+        isCached: true
+  - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
+    excerpt: "Microsoft has announced Microsoft Azure Percept, consisting of its Percept Vision camera module and Percept Audio smart mic. They'll form the foundation for intelligent devices built by partners."
+    publishedDateTime: 2021-03-02T14:00:00Z
+    webUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.html"
+    ampWebUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/03/ai-devkit-shot-2_under-embargo-until-march-2-at-6am-pt-100879175-large.jpg"
+        width: 1200
+        height: 422
         isCached: true
   - title: "Azure Arc - Extending Microsoft Cloud Services To Data Center And Mainstream Cloud Platforms"
     excerpt: "Announced in November 2019 at the Ignite conference, Azure Arc has become the cornerstone of Microsoft’s hybrid and multi-cloud strategy. With Arc, customers can bring existing infrastructure ..."
@@ -1761,6 +1762,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "FiTpA/e3wX6Dzf03ozildBbLcyr9yTmylNNXV3if9v4ijYe3kThUSAGFZH/I9WgEQDpMQjSXh908ZeuDpIwiiuLj4AH4lLe2uJvjqZxCpSAi3+7jHKwc8YYcJDJ9rP9im2EnMNBSJOUPRdtABjxwlT6uU3us0lOZKZpKB4dw4R9aRExa7ZGdYIt9LqLtotOqMtXgdfygK8FLi/Irfps6pRR/e9YP3GLcFYLXaTyPWUrtGDL+CDWb0d16x2PPeYWwU+jNP50CNnaVNMKf2qNB5F1SCt8S/MjHuWqqfKnby60552eJ/XMikfMlTgl8cZWpoY8feHQQ8JwzCbTkE8Az+0J6XW9oelr15Tgn1Gnlaig=;bYIBwTCYmlsJtVcmKYaobg=="
+secured: "rYjUPaqlyO1XvTQY32c2avcVGwX5Oirud3tw5SCrGX0XudbDuEk/PS+UC6QOU/ZXHvxb5Hk9LQZT7ASYLK2ybIOYVC2szX2CNwGM5defecMqXnQOnX5T9+OhaCFtMDIGE485wIWBj3Wx2EIU8cCPgDfetigNWxHLpxFYzfc7iaLYfu2nt74gxLOMd3xRge1jemR4DnIqvn8jAom+A/6B80hAv2SycYuBWQhu82iX8E1+wn7KUBWeKvqFbxkMB45xR4FbvGI9FBxC5fxm2CdQbI5nRSqrq5NaoOlZNj7aZsMzEsOvhiil1Uj1ENSk+ELq75ILywUPfXmKYcRGyGjKrhBTRXNeesO9bSMuu918Fe4=;AyxO/hHR/f3uc8/aF/p7Hw=="
 ---
 
