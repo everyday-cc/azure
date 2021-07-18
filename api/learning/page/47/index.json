@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
       "length": "PT44M",
       "ratings": {
-        "count": 2331,
-        "average": 4.5349636
+        "count": 2332,
+        "average": 4.535163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -806,49 +806,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
-      "title": "Train a machine learning model with Azure Machine Learning",
-      "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 136,
-        "average": 4.5808825
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-train-machine-learning-model.md",
       "title": "Train a machine learning model",
       "excerpt": "Train a machine learning model",
@@ -1280,6 +1237,48 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-troubleshoot-tightly-coupled-hpc-apps.md",
+      "title": "Troubleshoot tightly coupled HPC applications on HBv2, HC, and HB series virtual machines",
+      "excerpt": "Troubleshoot underperforming tightly coupled HPC applications and runtime failures.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-troubleshoot-tightly-coupled-hpc-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-tightly-coupled-hpc-apps/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 6,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

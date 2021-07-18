@@ -4,6 +4,42 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
+      "title": "Create an Azure Storage account",
+      "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 9359,
+        "average": 4.781921
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-for-the-data-engineer.md",
       "title": "Azure for the Data Engineer",
       "excerpt": "This learning path guides data engineers through the evolving benefits your organization gains with Azure cloud data platform technologies.",
@@ -34,8 +70,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 7076,
-            "average": 4.7073207
+            "count": 7077,
+            "average": 4.7073617
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -217,8 +253,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 6612,
-        "average": 4.6371746
+        "count": 6613,
+        "average": 4.63723
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -261,8 +297,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
       "length": "PT24M",
       "ratings": {
-        "count": 1941,
-        "average": 4.7300363
+        "count": 1942,
+        "average": 4.730175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -436,8 +472,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 3338,
-        "average": 4.653385
+        "count": 3339,
+        "average": 4.653489
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -529,8 +565,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 4065,
-        "average": 4.5468636
+        "count": 4066,
+        "average": 4.546975
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -829,8 +865,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2816,
-            "average": 4.4804688
+            "count": 2817,
+            "average": 4.480298
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1217,8 +1253,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
       "length": "PT46M",
       "ratings": {
-        "count": 1574,
-        "average": 4.8030496
+        "count": 1575,
+        "average": 4.8031745
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1260,8 +1296,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/",
       "length": "PT51M",
       "ratings": {
-        "count": 2908,
-        "average": 4.650963
+        "count": 2909,
+        "average": 4.651083
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2105,49 +2141,6 @@
         "Management Tools",
         "Storage",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-accelerate-storage-with-hpc-cache.md",
-      "title": "Accelerate high performance computing storage with Azure HPC Cache",
-      "excerpt": "Accelerate NFS storage for HPC workloads using Azure HPC Cache.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-accelerate-storage-with-hpc-cache/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/accelerate-storage-with-hpc-cache/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 4,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/accelerate-storage-with-hpc-cache-social.png",
-          "width": 1280,
-          "height": 640,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

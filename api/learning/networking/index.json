@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
-      "title": "Design a geographically distributed application",
-      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-load-balancing-https-traffic-azure.md",
+      "title": "Load balance HTTP(S) traffic in Azure",
+      "excerpt": "You will learn how to design load balancer solutions for HTTP(S) traffic and how to implement Azure Application gateway and Azure Front Door.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-load-balancing-https-traffic-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balancing-https-traffic-azure/",
+      "length": "PT1H6M",
       "ratings": {
-        "count": 1030,
-        "average": 4.7009706
+        "count": 1,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,18 +27,23 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Intermediate"
       ],
-      "heat": 132,
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases"
+        "Networking"
       ]
     },
     {
@@ -72,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 19227,
-            "average": 4.765434
+            "count": 19235,
+            "average": 4.7654796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -117,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 15132,
-            "average": 4.6347475
+            "count": 15133,
+            "average": 4.634772
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -160,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 13342,
-            "average": 4.7713985
+            "count": 13344,
+            "average": 4.771433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -203,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18241,
-            "average": 4.7312646
+            "count": 18245,
+            "average": 4.7313237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -298,8 +303,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3331,
-            "average": 4.758331
+            "count": 3336,
+            "average": 4.758693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -493,8 +498,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3331,
-            "average": 4.758331
+            "count": 3336,
+            "average": 4.758693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -665,8 +670,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 15132,
-        "average": 4.6347475
+        "count": 15133,
+        "average": 4.634772
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -861,8 +866,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5610,
-            "average": 4.7588234
+            "count": 5611,
+            "average": 4.7588663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1025,8 +1030,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5610,
-            "average": 4.7588234
+            "count": 5611,
+            "average": 4.7588663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1234,8 +1239,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5610,
-            "average": 4.7588234
+            "count": 5611,
+            "average": 4.7588663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1366,8 +1371,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 9300,
-            "average": 4.7850537
+            "count": 9303,
+            "average": 4.785123
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2128,8 +2133,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 7441,
-            "average": 4.6898265
+            "count": 7442,
+            "average": 4.6898685
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2786,8 +2791,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 5610,
-        "average": 4.7588234
+        "count": 5611,
+        "average": 4.7588663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3131,6 +3136,44 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
+      "title": "Design a geographically distributed application",
+      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 1030,
+        "average": 4.7009706
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
       "title": "Design a hybrid network architecture on Azure",
       "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
@@ -3224,8 +3267,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 4062,
-        "average": 4.767356
+        "count": 4063,
+        "average": 4.767413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3246,49 +3289,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/improve-app-scalability-resiliency-with-load-balancer-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure.md",
-      "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
-      "excerpt": "Learn how to investigate and diagnose problems in your Azure virtual networks by using Network Watcher and other tools.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 4238,
-        "average": 4.6269464
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-azure-network-infrastructure-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

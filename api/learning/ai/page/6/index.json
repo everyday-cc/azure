@@ -4,6 +4,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-personalizer.md",
+      "title": "Introduction to Personalizer",
+      "excerpt": "Discover the Personalizer service that is part of the Azure Decision services offerings.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-personalizer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-personalizer/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 43,
+        "average": 4.883721
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-speech-to-text.md",
       "title": "Introduction to Speech-to-text",
       "excerpt": "Speech-to-text enables the real-time transcription of audio streams into text in more than 90 languages and dialects. Speech-to-text service can be tailored to your voice or vocabulary to build custom recognition models, further enhancing accuracy.",
@@ -140,8 +183,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-classical-machine-learning/",
       "length": "PT52M",
       "ratings": {
-        "count": 5,
-        "average": 4.8
+        "count": 6,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -704,8 +747,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 764,
-        "average": 4.7840314
+        "count": 765,
+        "average": 4.7843137
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -870,8 +913,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1466,
-        "average": 4.6568894
+        "count": 1467,
+        "average": 4.6571236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1235,49 +1278,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/start-ml-lifecycle-mlops-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
-      "title": "Train a machine learning model with Azure Machine Learning",
-      "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 136,
-        "average": 4.5808825
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
