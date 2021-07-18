@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-    excerpt: "Along with the IDMC pod launching on Microsoft Azure Germany, an additional IDMC pod is now available on Azure Southeast Asia, further expanding the reach of Informatica's cloud data management ..."
-    publishedDateTime: 2021-07-13T07:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/informatica-expands-cloud-footprint-on-microsoft-azure-germany-889342108.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1047
-        isCached: true
   - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
     excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."
     publishedDateTime: 2020-09-19T00:43:00Z
@@ -56,6 +42,15 @@ related:
         width: 300
         height: 270
         isCached: true
+  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
+    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
+    publishedDateTime: 2021-07-13T07:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "R1HSS7pjbQDxxdlTuq5dliX1/noy3JvvOAVg5O4mueO/VhZM0s/xNIqE1Yk4rxG1Qsx8vgUK4/gVWeHlxT3SK4zXBCgbEXmRLbJKODcxGAPj4PwTSfzWJ/etnoIzzHCuR5nfiXJCoYwvFAhZUUkJgaM3IqWEHZE+uZ0taU+4byNErEa8GVPIwZmWudebrFx+Osgn+iKuAzWbTk+r+cX6a9lAKxO+8thV/CArDymqE6YC0cMRxZw1UuozZfberbYBMz58l032+V00TWPz1rAxuRm1pdSM399UZeAES2bUbCZiy/p0h3wFS6ZSkJqs2sk+3aMcb/j8cd2ViqG7DjWxQnNnm2qtOvWOAWqOT2k/Mkw=;U3gA3tyyAAplYItshwmyIg=="
 ---

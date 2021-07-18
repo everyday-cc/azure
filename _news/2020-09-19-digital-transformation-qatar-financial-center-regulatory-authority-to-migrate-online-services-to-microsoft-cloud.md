@@ -43,19 +43,14 @@ related:
         height: 300
         isCached: true
   - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-    excerpt: "Along with the IDMC pod launching on Microsoft Azure Germany, an additional IDMC pod is now available on Azure Southeast Asia, further expanding the reach of Informatica's cloud data management ..."
-    publishedDateTime: 2021-07-13T07:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/informatica-expands-cloud-footprint-on-microsoft-azure-germany-889342108.html"
+    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
+    publishedDateTime: 2021-07-13T07:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1047
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "ZFfAGJJe0ygZMUHgglWCmb5JBR4CKacBk+bs+MX6PYTx4y97pHh3L85lR+Nj1WXppg8TT53WqP+73cnfI7ILpHqGAURCH8s4G42q0HDZstrW8bXezSU5To2yaP/GM/gEqZRi2ZubZb+K/8kOVgSv3bLaEmhl09MEC+39fnGlszHG28kA4H2xIRHyUlIcrmpMofp0SG1J1VcLqvgEogPKG+3XzqyiZPFd+YqIKcPmFHJYu+tnm8tn4LmpdaA3/qq8PcZ0IZ5K/3QkPka9L1iqmx5xoaYl+wmVpD1nsOR84w75cXta0nYAXerU5J4q2+4m7V5wF4YgaZNeY2qBuP1JdMcS+SHwsbl0WZJPRobEGq0ZbQQznCaGp0EVDKaH5JNXtdVJ0AJi/NK5dGFClw9hQiiBIK669I9HE2sUxwP8jiUgVw7RuIEh7VPnH7HMtl8r6wYYHGgIFFNinRR4VPkkzHMSqrPUq0Jjj5giNp8T9feO5hh0ueGRRKRAhVBvacunu8FfO433kGjYkHvH8cUJlQ==;2dUij2K3CQp7v56a/jWAlw=="
 ---

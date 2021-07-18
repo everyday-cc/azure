@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
-excerpt: "Along with the IDMC pod launching on Microsoft Azure Germany, an additional IDMC pod is now available on Azure Southeast Asia, further expanding the reach of Informatica's cloud data management ..."
-publishedDateTime: 2021-07-13T07:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/informatica-expands-cloud-footprint-on-microsoft-azure-germany-889342108.html"
-webUrl: "https://www.prnewswire.com/news-releases/informatica-expands-cloud-footprint-on-microsoft-azure-germany-889342108.html"
+excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
+publishedDateTime: 2021-07-13T07:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1047
-    isCached: true
 
 related:
   - title: "Digital Transformation: Microsoft Azure Cloud Platform to be Used by Canadian Imperial Bank of Commerce"
@@ -57,6 +51,6 @@ related:
         height: 270
         isCached: true
 
-secured: "bZqpFiBL7R6vnFSxraJpp9g51SVs/41BjsZFlGC/25iMIzeGdl0YdfR9ZBtXhx65KGBCpR+cSZhsa4TuFEcc2o0wIJF9XV/uQ+bk965yYTgyTgYr/1Sycm8Bpsd6DnSVMVjgGBBlghB1KO/vlOV455HLoQWGbWpihQd1VJnmwvGtB+ticZd7beTQweYRi5Bz+8VBkEmyxGxOI3Dn6fUz1n1bKZqnAoK16MwEsDI/94Lvo6pkdhGJLcOxggISPnRyekU6y1nlf2KEJKO+7JZ1xZll8fLwUT/XIZrL5xeT8TRGXxADX1TqdA2d3/1j6Pciw8vYhF1iEQgBDOnGL4yimrphvthHJnE3Y6dmVqRU0A4=;Hok6F6TPnG3YLHSEAGg2Ng=="
+secured: "3VeT4mdo42KtAIRGy8YNM9HoHaTTTiL9Dx7T7K+pCat646UICVvh64CoDSSr9h9X9hRZLq+GrcROwo40JUih2s11U+r8bsLa3yoeTtsT9YTd1TNj5asDYrgBkOIm+bxjE4XTGwyq2AtzFl0U092DpObr5q1jUFtEkjUXKILtVriQJdLxoEU8ZgP5gQ+3hjJPSCVzHbonlCDCrCYF95G+N1dKGh1pfVoURrrjyS+Hja0U0hHUg6OlCZOomGHpS5Jo7Xr9wyPsIHXgudnSrhPIHy2zLxFUidOBZMJdp6wVbjbkUscmCJy9lSbawGxbowT+yRa0yUGYVacRgGkff94n9E0DkoVx42nbOndLFFlO6CYCXWXLEK+2T6MpqkZCWw2FiNWDnlQXKPuV3L0Cs0PeooDLhaMvOoOWUXRcOsmo/6vLTgY6XkQbBn9YOR5CnCJ5bYFQ8YktlPLBXRlehNyV4JkO9JBoNW2EjzpKVIHp9buZ8BNXhJ0NMKnymhwpVlVtINzFyuuZ9EcSLN/qTm0ELg==;h002yHLthfJTPQfZ7XNShg=="
 ---
 
