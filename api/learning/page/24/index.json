@@ -4,6 +4,50 @@
   "page": 24,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-aks-cluster-upgrades-patches.md",
+      "title": "Apply cluster upgrades and security patches with Azure Kubernetes Service",
+      "excerpt": "Apply the latest version upgrades and patches to your Azure Kubernetes Service clusters.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-cluster-upgrades-patches/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-cluster-upgrades-patches/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
       "title": "Deploy a containerized application on Azure Kubernetes Service",
       "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
@@ -1226,49 +1270,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-automate-model-selection-with-azure-automl.md",
-      "title": "Automate machine learning model selection with Azure Machine Learning",
-      "excerpt": "Learn how to use automated machine learning in Azure Machine Learning to find the best model for your data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-model-selection-with-azure-automl/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azure-automl/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 1409,
-        "average": 4.668559
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/automate-model-selection-with-azure-automl-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

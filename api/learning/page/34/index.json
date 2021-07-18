@@ -4,6 +4,92 @@
   "page": 34,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-solutions-for-external-access.md",
+      "title": "Explore solutions for external access",
+      "excerpt": "Explore solutions for external access",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-solutions-for-external-access/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-solutions-for-external-access/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 5,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-active-directory-external-access-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-expose-hybrid-services-with-azure-relay.md",
+      "title": "Expose hybrid services securely with Azure Relay",
+      "excerpt": "Securely expose services that run in your on-premises network to clients in the cloud, without having to open a port on your firewall or make intrusive changes to your corporate network infrastructure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-expose-hybrid-services-with-azure-relay/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/expose-hybrid-services-with-azure-relay/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 433,
+        "average": 4.644342
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/expose-hybrid-services-with-azure-relay-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-extend-resource-manager-template-deployment-scripts.md",
       "title": "Extend ARM templates by using deployment scripts",
       "excerpt": "Learn how to add custom steps to your Azure Resource Manager (ARM) templates by using deployment scripts.",
@@ -1156,84 +1242,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-identity-permissions-consent.md",
-      "title": "Permissions and Consent Framework",
-      "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-identity-permissions-consent/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 195,
-        "average": 4.728205
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/identity-permissions-consent-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-identity-secure-custom-api.md",
-      "title": "Secure custom APIs with Microsoft Identity",
-      "excerpt": "Learn how to secure a web API with Microsoft identity and how to call it from another application.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-identity-secure-custom-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
-      "length": "PT1H23M",
-      "ratings": {
-        "count": 175,
-        "average": 4.7314286
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

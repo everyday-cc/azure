@@ -4,6 +4,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-configure-and-manage-azure-key-vault.md",
+      "title": "Configure and manage secrets in Azure Key Vault",
+      "excerpt": "Configure and manage secrets in Azure Key Vault",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-and-manage-azure-key-vault/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 2517,
+        "average": 4.6344857
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
       "title": "Configure the network for your virtual machines",
       "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 8936,
-        "average": 4.660027
+        "count": 8937,
+        "average": 4.659953
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -90,8 +133,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 3796,
-        "average": 4.694415
+        "count": 3797,
+        "average": 4.6944957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -134,8 +177,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 1803,
-        "average": 4.7615085
+        "count": 1804,
+        "average": 4.761641
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -990,8 +1033,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
           "length": "PT41M",
           "ratings": {
-            "count": 1450,
-            "average": 4.8110347
+            "count": 1452,
+            "average": 4.8112946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1410,41 +1453,6 @@
       "topics": [
         "Azure",
         "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
-      "title": "Build and store container images with Azure Container Registry",
-      "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 3056,
-        "average": 4.643652
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],

@@ -4,6 +4,92 @@
   "page": 31,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deploy-java-ee-app-to-app-service.md",
+      "title": "Deploy a Java EE (Jakarta EE) application to Azure",
+      "excerpt": "Deploy a Java EE (Jakarta EE) application to JBoss EAP on Azure App Service and bind it to an Azure Database for MySQL.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-java-ee-app-to-app-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-ee-app-to-jboss-app-service/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 33,
+        "average": 4.787879
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql.md",
+      "title": "Create and deploy a data-driven Spring Boot Java application to Azure App Service with Spring Initializr and Maven",
+      "excerpt": "Create a Spring Boot application, connect it to a MySQL database and then deploy to Azure App Service.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-spring-boot-app-service-mysql/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 56,
+        "average": 4.696429
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-kubernetes.md",
       "title": "Automate multi-container Kubernetes deployments with Azure Pipelines",
       "excerpt": "Implement a CI/CD pipeline for multiple containers to Kubernetes.",
@@ -1236,97 +1322,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-implement-network-monitoring.md",
-      "title": "Design and implement network monitoring",
-      "excerpt": "You will learn to design and implement network monitoring solutions such as Azure Monitor and Network watcher.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-network-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-monitoring/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-implement-network-security-monitoring.md",
-      "title": "Design and implement network security",
-      "excerpt": "You will learn to design and implement network security solutions such as Azure DDoS, Azure Firewall, Network Security Groups, and Web Application Firewall.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-network-security-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-security-monitoring/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking",
-        "Security"
       ]
     }
   ],

@@ -4,6 +4,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-export-data-with-azure-import-export.md",
+      "title": "Export large amounts of data from Azure by using Azure Import/Export",
+      "excerpt": "Learn how and when to use Azure Import/Export to copy large amounts of data from Azure",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-export-data-with-azure-import-export/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 1921,
+        "average": 4.7803226
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/export-data-with-azure-import-export-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
       "title": "Introduction to Azure Sentinel",
       "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
@@ -80,8 +123,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
       "length": "PT42M",
       "ratings": {
-        "count": 3622,
-        "average": 4.6728325
+        "count": 3623,
+        "average": 4.672923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -623,8 +666,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 226,
-            "average": 4.858407
+            "count": 227,
+            "average": 4.8590307
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -794,8 +837,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 226,
-            "average": 4.858407
+            "count": 227,
+            "average": 4.8590307
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -899,8 +942,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 6714,
-        "average": 4.738904
+        "count": 6715,
+        "average": 4.7389426
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -986,8 +1029,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 1712,
-        "average": 4.7581778
+        "count": 1713,
+        "average": 4.758319
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1108,8 +1151,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 378,
-        "average": 4.796296
+        "count": 379,
+        "average": 4.791557
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1381,8 +1424,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 4380,
-        "average": 4.622603
+        "count": 4381,
+        "average": 4.622461
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1451,49 +1494,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-and-manage-azure-key-vault.md",
-      "title": "Configure and manage secrets in Azure Key Vault",
-      "excerpt": "Configure and manage secrets in Azure Key Vault",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-and-manage-azure-key-vault/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 2517,
-        "average": 4.6344857
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

@@ -4,220 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-understand-data-science-for-machine-learning.md",
-      "title": "Understand data science for machine learning",
-      "excerpt": "Machine learning is enables data scientists make predictions about objects, people, and the future. This learning path is a high-level introduction to machine learning for people with little or no knowledge of computer science or statistics.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-understand-data-science-for-machine-learning/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-understand-data-science-for-machine-learning/",
-      "length": "PT7H25M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-to-machine-learning.md",
-          "title": "Introduction to machine learning",
-          "excerpt": "A high-level overview of machine learning for people with little or no knowledge of computer science and statistics. You’ll be introduced to some essential concepts, explore data, and interactively go through the machine learning life-cycle - using Python to train, save, and use a machine learning model like we would in the real world.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-machine-learning/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-machine-learning/",
-          "length": "PT52M",
-          "ratings": {
-            "count": 15,
-            "average": 4.8
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-to-classical-machine-learning.md",
-          "title": "Build classical machine learning models with supervised learning",
-          "excerpt": "Supervised learning is a form of machine learning where an algorithm learns from examples of data. We progressively paint a picture of how supervised learning automatically generates a model that can make predictions about the real world. We also touch on how these models are tested, and difficulties that can arise when training them.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-classical-machine-learning/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-classical-machine-learning/",
-          "length": "PT52M",
-          "ratings": {
-            "count": 4,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-to-data-for-machine-learning.md",
-          "title": "Introduction to data for machine learning",
-          "excerpt": "The power of machine learning models comes from the data that is used to train them. Through content and exercises, we explore how to understand your data, how to encode it so that the computer can interpret it properly, how to clean it of errors, and tips that will help you create models that perform well.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-data-for-machine-learning/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-for-machine-learning/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 3,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-understand-regression-machine-learning.md",
-          "title": "Train and understand regression models in machine learning",
-          "excerpt": "Regression is arguably the most widely used machine learning technique, commonly underlying scientific discoveries, business planning, and stock market analytics. This learning material takes a dive into some common regression analyses, both simple and more complex, and provides some insight on how to assess model performance.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-understand-regression-machine-learning/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-regression-machine-learning/",
-          "length": "PT52M",
-          "ratings": {
-            "count": 5,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db.md",
       "title": "Work with NoSQL data in Azure Cosmos DB",
       "excerpt": "In this learning path, find out how to customize NoSQL data storage and distribution with the Azure portal, Cosmos DB extension, and Cosmos DB .NET Core SDK.",
@@ -461,8 +247,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
       "length": "PT20M",
       "ratings": {
-        "count": 577,
-        "average": 4.850953
+        "count": 578,
+        "average": 4.851211
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -504,8 +290,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 11000,
-        "average": 4.682
+        "count": 11001,
+        "average": 4.682029
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4540,8 +4326,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5641,
-            "average": 4.667967
+            "count": 5642,
+            "average": 4.667848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4657,8 +4443,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 4091,
-            "average": 4.6037645
+            "count": 4092,
+            "average": 4.6033726
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4721,8 +4507,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 4856,
-        "average": 4.7607083
+        "count": 4857,
+        "average": 4.7607574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -5243,6 +5029,221 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-ai-business-school-for-education.md",
+      "title": "AI business school for education",
+      "excerpt": "Learn to develop an AI strategy to create value in government, including artificial intelligence and machine learning technologies, culture, and responsible AI.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-ai-business-school-for-education/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-ai-business-school-for-education/",
+      "length": "PT9H42M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+          "title": "Define an AI strategy to create business value",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 3063,
+            "average": 4.704538
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-education.md",
+          "title": "Define an AI strategy to create value in education",
+          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in education that creates value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-ai-strategy-in-education/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 683,
+            "average": 4.7672033
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-education-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
+          "title": "Understand the importance of building an AI-ready culture",
+          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 1300,
+            "average": 4.747692
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+          "title": "Discover how to foster an AI-ready culture in finance",
+          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 49,
+            "average": 4.755102
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],
