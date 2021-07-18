@@ -1,32 +1,45 @@
 ---
 category: news
-title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
-excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-publishedDateTime: 2021-07-15T15:39:00Z
-originalUrl: "https://iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/"
-webUrl: "https://iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/"
-ampWebUrl: "https://iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/amp/"
-cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/amp/"
+title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
+excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
+publishedDateTime: 2021-07-16T19:30:00Z
+originalUrl: "https://www.executivegov.com/2021/07/microsoft-partners-with-u-s-army-engineers-to-use-azure-cloud/"
+webUrl: "https://www.executivegov.com/2021/07/microsoft-partners-with-u-s-army-engineers-to-use-azure-cloud/"
 type: article
-quality: 55
-heat: 155
-published: true
+quality: 27
+heat: -1
+published: false
 
 provider:
-  name: IOT Business News
-  domain: iotbusinessnews.com
+  name: Executive Gov
+  domain: executivegov.com
 
 topics:
   - Azure
-  - IoT
 
 images:
-  - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/asset-management-tracking-location-containers.jpg"
-    width: 800
-    height: 360
+  - url: "https://executivegov-media.s3.amazonaws.com/2021/07/16/4c/da/ed/bd/2f/15/c5/04/microsoft_20210625.png"
+    width: 272
+    height: 270
     isCached: true
 
 related:
+  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-07-15T15:39:00Z
+    webUrl: "https://iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/"
+    ampWebUrl: "https://iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/amp/"
+    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/amp/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 55
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/asset-management-tracking-location-containers.jpg"
+        width: 800
+        height: 360
+        isCached: true
   - title: "TeraGo Expands its Microsoft Portfolio with Managed Azure and Disaster Recovery Solutions"
     excerpt: "CNW/ - TeraGo Inc. (\" TeraGo \" or the \" Company \") (TSX: TGO) (  ), announced today that it has expanded its Microsoft product portfolio with the addition of Microsoft 365, Managed Microsoft Azure, and Managed Disaster Recovery."
     publishedDateTime: 2021-07-13T13:23:00Z
@@ -50,20 +63,6 @@ related:
         width: 1500
         height: 1123
         isCached: true
-  - title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
-    excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
-    publishedDateTime: 2021-07-16T19:30:00Z
-    webUrl: "https://www.executivegov.com/2021/07/microsoft-partners-with-u-s-army-engineers-to-use-azure-cloud/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 27
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/07/16/4c/da/ed/bd/2f/15/c5/04/microsoft_20210625.png"
-        width: 272
-        height: 270
-        isCached: true
   - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
     excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customers VANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX ..."
     publishedDateTime: 2021-07-13T17:00:00Z
@@ -83,6 +82,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "mwT9l/5EasV8sPLybg5dD91z8xOsljtt2a6XjEMpBOhflgL03JRDUQN21zjZdT25Sz/BFvJhuX7/ZB/0cEObn79qRXC5vEKKu/QCBZh5T/em16gmMBfi+Xthz8Xih4/hydlMuppDqorMIiuwpA7Du4BtNgfT2tabM2Eqk+ror7xRhs9aH4ybm2mNO6p61ONsNWST9c7bkyXm6BwlNEoN6waW3Ki82jkx3CyaGJBbaBoKDiZNlMW1t1wVPCMHjQvsr3EtQl5hAoE1v4UoQ7apJ/tnsvd+vFHttQwPEjzoMSyPlEOSpywIIOrmN5/VgEVi17JBrsod7anCrp2H1Ol2dT/VPhxPyvUFExuvk8PLkWIjPw3af7rXI7Z8HoRECuvw/CWXzcNwwey+upB/4lQ2V00ZOcW9st37NALCsENFoCa+7ECp0Tc950sH8TDWvOlLIeN/q3wqdFnN9snfVtcVQcSTw3sDjTn++Q7HCrZ7iZnPvjpOYqRz7LV3aOX5uMln9hOQgut0V+S5rUKilSHSDg==;5vDnHIBpvRcRmqV9u8nQhg=="
+secured: "+vmjwswV3dOHK9h/9j7/iieUubuiNjGL1i0ju0lXgH1SnyzhgHwhtfsrOKyl0uYqbXy2QDBxdVtqXaJIsbK/vJ68Ejph1QsUE3nzC1l+6fhSHd5g1Nyy3TTJnJYsqZ5mzkAK6d+Y56NbiHUXGaWF/pioHP5kJZiqjhLDAfcmKJZnUFcQo45Gbo72idMmy1PIvYnWFqWpGQ3KkBkGQ10GczPtLCHzA4E2vQUE0LfQ57pzo7QKjhREjY1XydfQmLJBvNftzlzL+qRlPW5H177w9Uaml40vns6hAztG+K1mfnDi9p2Ie0F+AyUues0BvvfgfVmDUJv6ByXU+7Ak8ImKVDw6xhMENkypR+bcLoyvhVQ=;+wi3o+I2iR5zCALZi1xI4Q=="
 ---
 
