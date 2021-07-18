@@ -77,6 +77,15 @@ related:
       name: Business Wire
       domain: businesswireindia.com
     quality: 16
+  - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "Another remarkable achievement for Nous Infosystems. This specialization reflects Nous' depth of expertise in the modernization of applications to"
+    publishedDateTime: 2021-07-18T07:00:00Z
+    webUrl: "https://www.pr.com/press-release/840819"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "0Qj8IGuRncv9iucY2f8cqD855GvVLCRSOPXzC9HBl74OC+95efJoyfR4CLhvzvKXZwRp4jtyOLbJKPFf5IDlszbjrs3ZDZKIeTNfw/4jgeei9O6PoKiMRN5X4EqlJOrCbOiFiSm94OnjvHAYIufE1f0eJwwlfhYSzLhzjD8X9M0L/xrjBBgmtkmCKZqcFuSylZrxR0Mnay5I+5roIfRA6yiXGV1YcfkffFOlji0D4vZxDnZ+WjVe+Wki8veTOYHY7VmPylsWOuiHQYP3Uo5cYlLlW9qUGkpHGufyzR8G9rftmjirny2wMroqQ2mMzV8YX226xteoihUNMiOPXAe7TX4Wae9laIuW6wW4PQUIBuc=;+gAId8GdaZPhbrl0qV2QjA=="
 ---

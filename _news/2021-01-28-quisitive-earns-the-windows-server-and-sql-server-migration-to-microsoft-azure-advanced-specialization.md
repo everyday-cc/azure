@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/quisitive-earns-the-win
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
 type: article
 quality: 78
-heat: 178
+heat: 198
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
+  - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "Another remarkable achievement for Nous Infosystems. This specialization reflects Nous' depth of expertise in the modernization of applications to"
+    publishedDateTime: 2021-07-18T07:00:00Z
+    webUrl: "https://www.pr.com/press-release/840819"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "Y8Hvd3c4vsyMO6l4baahuf1YVYOWOjMNfS956Ui6xxc5hyosBRBdyXjIFljwMTaNSbtMfyS5MOBvW2DFiKYPN9h2HEDG9pyFgRC3gTHtpPCgt3tWW02IauwrrGHrkS6pZPv0DuXEygAtJ9/3KMRs//JybM3dMqLowydpIPD2fw6duA5vYZbBEf57+e5aXKelMTFlvCRUC9dH2zv3GySlEgiMlcafCCkvl94BoXnb8p9CEk+M1WHJcugblprcxxNlsUfbtCxvrIn2MBb6qWrCN/90UB447ZgjK5X6BgACeMLS6ssjoWyqZ6FwZkfRlh4IhvRwHOypAwDTUSG2wGNabRVr8bWCTDU5VawfeMqASbk=;QeOJ3TH01HYqRXq+2kd02Q=="
 ---

@@ -81,6 +81,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
+  - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "Another remarkable achievement for Nous Infosystems. This specialization reflects Nous' depth of expertise in the modernization of applications to"
+    publishedDateTime: 2021-07-18T07:00:00Z
+    webUrl: "https://www.pr.com/press-release/840819"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "DF42b/0XX5FiKQyWdSxdp3rJL+lpSBaFel8hCj04WfPfuVsWwPhgisJqIQm3gfGEaJpDYMujnvNeMtBD38GwjNUG10GLDcKXUyDZiSaqmNOa/27+UHdKuYxOIV9H4hHu7Hjmd9YcWPoFjQIVtCb6nX5ZJLssTPMlYT7Ec4O72+UuCiPHM9ksosSIBjxySqumt/D9DeqCLrf7HyQF4sszyOTLIqRgudzWsQ3j/ExMHddHZFtk9VbMR/iCdCwpsBXKRKvDG1EY/oB4jtcnjuuUK5aiLm0gu4CQRmpSJFe6RqdopRk+i8DWUKrueAb+X4SiikIHHbyTN86kS2gc1dULZw==;72Co4ydV8wRJCXpiLqGm6A=="
 ---
