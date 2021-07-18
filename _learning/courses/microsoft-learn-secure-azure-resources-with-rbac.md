@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT37M
 ratings:
-  count: 7442
-  average: 4.6898685
+  count: 7443
+  average: 4.6897755
 heat: 54
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Identity
 
-secured: "N9LYvGvlt8377ma8fhmVbRoa0KUxWw8Xv3o6kjwUrq5KdYLAs66ITXj/koafIOJpn6lAxz2I4ZNtWuwgwZFWma1+TI/j8mC/KAghIYKIgmVWSa5RAeiXWW8ptWk3e0kDsHZMgtIHYpkIyjGIYWCucbxdoVj2fUdor7dPRFNRxtGVRMXxBREltUNCKY4twfel0Q1cdatFFnk+Jd2wVH2hdr3pt9s9jhFVykZq2VqGxJdHbNplL81mX1w5z8Vy7pJz7ShoJb7uHDl7hLa6GAPTnzaQtCpawjQ/Cko2g1Zss6X0c8H0OeHVBdXy4bap2PVq+Mu4bC8uKvjme6NWFY+JhLB2HAZDBgK4oZaYv9Cripu/1Kcv/HnVMbhaT6i8w2O45NxtWKhxzUwIB0MgcCOa0/ngbIf1i+MtnmQotZVYRS4=;Eh00S1YDLI96ZtGxSYIlGQ=="
+secured: "sD++c1s5mjvnddgBS2E1BbCqbFtk/luC8k1esDCYClDOWLdRsb9+13oU4aCwI9mtVs0qz7LRmV6Wy3KIIDDhpg9M4L9U8IV/mOwVkNNTpH8C05NDzsH1pzkhifBgre+8+E32Vh6t/JXW5yyugP4WnKhFMt6j9hcuV5ZWiOVpn2MRef87EAdYnblTD9nExJA7MaCpDKjlQqeQnmk7rl0VgrqOKbfqpyPVRx9LL3soD4m3zMDgAHDIqhVbG+MIBP+7rnut7wocnEId18f83nWmKErjmxG6bPi30d3Jzzx9A6J9nO0LuZ+4767K0+xGmgMyK9AaCH275nvez7QhbtVvOhmXIedNnGRgwNGUsCTSQWecDwvSkxtrvPKnKmzMlELX5jD5+zj/AeKykCPIgB4oLjRuk60XMQLwpeQDlNAEC0U=;2koBoY3WpPnEfs9ilDzscA=="
 ---
 
