@@ -1,38 +1,34 @@
 ---
 category: news
-title: "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
-excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced"
-publishedDateTime: 2021-05-18T16:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210518005654/en/Insight-Recognized-Again-as-a-Microsoft-Security-2020-Winner-for-Microsoft-Azure-Security-Deployment-Partner-of-the-Year"
-webUrl: "https://www.businesswire.com/news/home/20210518005654/en/Insight-Recognized-Again-as-a-Microsoft-Security-2020-Winner-for-Microsoft-Azure-Security-Deployment-Partner-of-the-Year"
+title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
+excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it"
+publishedDateTime: 2021-07-09T16:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments-2021-07-09"
+webUrl: "https://www.marketwatch.com/press-release/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments-2021-07-09"
 type: article
-quality: 9
-heat: -1
-published: false
+quality: 75
+heat: 315
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Security
+  - Migration
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
-  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
-    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it"
-    publishedDateTime: 2021-07-09T16:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments-2021-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Accelerate your Azure migration and modernization journey with expanded programs and offers"
     excerpt: "In the past year, organizations increasingly turned to the cloud to survive potential business disruptions. At Microsoft, we partnered with businesses of all sizes, to help them take advantage of the scalability, remote work enablement, and cost efficiencies of migrating to the cloud. Today at Microsoft"
     publishedDateTime: 2021-07-15T08:00:42Z
@@ -159,7 +155,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 10
+  - title: "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
+    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced"
+    publishedDateTime: 2021-05-18T16:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210518005654/en/Insight-Recognized-Again-as-a-Microsoft-Security-2020-Winner-for-Microsoft-Azure-Security-Deployment-Partner-of-the-Year"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
 
-secured: "Nlcc+XgvF3WKLu1E7SOh+p5pBxEzK+X4/VPzinsCUd8+4/8TDq8F6Pa79AaH2QvZzH3ZeKdH8UZIy9G5LVSd1kgIq38YJsLpkwKlRB1WHl7CqMxb35GTD4HyZoQmf+19DJSSvUC/i6KnRqT0RLqE1hwVvHOxhghP1tM/BHvPfwocNQY38DN86mMmnZzVvWuRo3n1S9izwFHISrbIfP5Na0Ouobk/ygQLsqC5CT6NpBMsHHb8l/GsN5scrMUDWfgWSo1/Oi0FYViTG6832tU1T+3FBlMjF6q2NFTxQLqSita9ujHnmsxVnyiQFBv+HRGd2+ND3+p8Wq6PWDkaAxx8Ln0aR3XsdCVvmJ+wnNmDueA=;w/NLApbrrQeABUbYLziDbg=="
+secured: "ZJLJqx58/KKwem6LDGVEtMPo/gzvINjJXc7CuDz8iyLJK841V2xWAoan71Ap7LXtiaEwdu4lD38HyTapOx6uKJElrUjXWyv+EpUEbd3b/oJvZcLI/iqF0D+9JbpG7VQmhvMjkk1NKOaFntWjdFS5LBQKxbRz15wPSuKx65JK4uyXnSLJIEMe8JsTreVe6kvGUwbrMtNX3/bX2hHCrODzfqEO6xx6+k8VB5bNvWZ9DRmSMtfZeZH95KQ1M9HQZXrG7cOHjZGGUXORcCCQGE2521p804K0I3X1cUXsWdNl5SczMwXDYSAkPbz4gCDG+aLRR44jdrrFZs3GRHO+P3C/TANrOGDpqpNDZf2XVG3hmww=;XOQon5O9V2xFtpoUybNZqg=="
 ---
 

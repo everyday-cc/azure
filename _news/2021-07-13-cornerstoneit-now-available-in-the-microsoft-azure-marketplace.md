@@ -24,201 +24,142 @@ images:
     isCached: true
 
 related:
-  - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
-    publishedDateTime: 2020-06-10T23:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+  - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
+    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global provider of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced it"
+    publishedDateTime: 2021-07-09T16:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments-2021-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Accelerate your Azure migration and modernization journey with expanded programs and offers"
+    excerpt: "In the past year, organizations increasingly turned to the cloud to survive potential business disruptions. At Microsoft, we partnered with businesses of all sizes, to help them take advantage of the scalability, remote work enablement, and cost efficiencies of migrating to the cloud. Today at Microsoft"
+    publishedDateTime: 2021-07-15T08:00:42Z
+    webUrl: "https://azure.microsoft.com/blog/accelerate-your-azure-migration-and-modernization-journey-with-expended-programs-and-offers/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
+  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-07-15T15:39:00Z
+    webUrl: "https://iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/"
+    ampWebUrl: "https://iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/amp/"
+    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/07/13/85084-sierra-wireless-partners-with-microsoft-to-enable-advanced-asset-tracking-capabilities-via-azure-iot-central/amp/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 55
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/asset-management-tracking-location-containers.jpg"
+        width: 800
+        height: 360
+        isCached: true
+  - title: "TeraGo Expands its Microsoft Portfolio with Managed Azure and Disaster Recovery Solutions"
+    excerpt: "CNW/ - TeraGo Inc. (\" TeraGo \" or the \" Company \") (TSX: TGO) (  ), announced today that it has expanded its Microsoft product portfolio with the addition of Microsoft 365, Managed Microsoft Azure, and Managed Disaster Recovery."
+    publishedDateTime: 2021-07-13T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/terago-expands-its-microsoft-portfolio-with-managed-azure-and-disaster-recovery-solutions-1030601302"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 73
-  - title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
-    excerpt: "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-06-25T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
-    excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
-    publishedDateTime: 2020-04-28T14:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ipification-secure-mobile-authentication-now-available-to-microsoft-azure-active-directory-b2c-customers-2020-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
-    excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
-    publishedDateTime: 2020-06-09T12:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200609005152/en/KlariVis-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
-    images:
-      - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
-    excerpt: "Azure Key Vault is Microsoft's hardware security module (HSM) tool for securely storing and accessing keys, passwords, or certificates. Firmware and software running on an IoT or Industrial IoT ..."
-    publishedDateTime: 2020-06-16T11:47:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/primekey-releases-signserver-cloud-in-the-microsoft-azure-marketplace-301077438.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1190637/Alex_Gregory.jpg?p=facebook"
-        width: 1000
-        height: 523
-        isCached: true
-  - title: "Datametica now available in the Microsoft Azure Marketplace"
-    excerpt: "Datametica today announced Pelican's availability on the Microsoft Azure Marketplace. Datametica's customers can now take advantage of"
-    publishedDateTime: 2021-05-12T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/datametica-now-available-in-the-microsoft-azure-marketplace-301289535.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Microsoft Azure Data VP Rohan Kumar: ‘It's Not Just About The Innovation Piece’"
-    excerpt: "Amid the coronavirus pandemic, discussions about the cloud and digital transformation have turned a lot more toward value creation and total cost of ownership, Kumar says."
-    publishedDateTime: 2020-06-10T16:02:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-azure-data-vp-rohan-kumar-it-s-not-just-about-the-innovation-piece-"
+    quality: 48
+  - title: "11 Top Azure Announcements From Microsoft Inspire 2021"
+    excerpt: "A Microsoft Cloud for Sustainability, new Azure Kubernetes Service smart defaults and an Azure Synapse partner center that will connect customers to partner solutions were among the top cloud computing announcements at Microsoft Inspire 2021."
+    publishedDateTime: 2021-07-14T15:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/11-top-azure-announcements-from-microsoft-inspire-2021"
     type: article
     provider:
       name: CRN
       domain: crn.com
-    quality: 33
+    quality: 37
     images:
-      - url: "https://www.crn.com/resources/025e-0f9e7f014024-ea501a6b983f-1000/rohan_kumar.jpg"
-        width: 499
-        height: 499
+      - url: "https://www.crn.com/resources/0269-125c74ee81ff-25ae23038fad-1000/microsoft-azure-sign-2.jpg"
+        width: 1500
+        height: 1123
         isCached: true
-  - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
-    excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
-    publishedDateTime: 2020-06-16T07:20:00Z
-    webUrl: "https://www.dailyrecordnews.com/ap_news/business/infiniteio-announces-integration-with-microsoft-azure-to-reduce-cloud-latency-and-storage-costs/article_71a8cb32-ed69-5f9a-8ecc-772948e664a8.html"
+  - title: "TIBCO Recognised as a Finalist in the 2021 Microsoft Azure Partner of the Year Awards"
+    excerpt: "TIBCO has been named a finalist in the 2021 Microsoft Partner of the Year Awards for Microsoft Azure Cloud-Native App Development. As a Microsoft gold certified ISV and leader in cloud API-led integration and analytics,"
+    publishedDateTime: 2021-07-15T11:50:00Z
+    webUrl: "https://financialit.net/news/apis/tibco-recognised-finalist-2021-microsoft-azure-partner-year-awards"
     type: article
     provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
-    quality: 25
+      name: Financial IT
+      domain: financialit.net
+    quality: 30
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
-        width: 1200
-        height: 630
+      - url: "https://financialit.net/sites/default/files/tibco-logo_9_0.jpg"
+        width: 2262
+        height: 1313
         isCached: true
-  - title: "Claro Enterprise Solutions Designated as a Microsoft Azure ExpressRoute Partner for Miami Peering Location"
-    excerpt: "Claro Enterprise Solutions, a leading technology services company, today announced that it has been named a Microsoft Azure"
-    publishedDateTime: 2020-06-16T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/claro-enterprise-solutions-designated-as-a-microsoft-azure-expressroute-partner-for-miami-peering-location-301077568.html"
+  - title: "Microsoft Partners With U.S. Army Engineers To Use Azure Cloud For Extreme Weather Modeling"
+    excerpt: "Microsoft announced on Wednesday that the company has signed a cooperative research and development agreement (CRADA) with U.S. Army engineers use the company’s Azure Government cloud for a system that models extreme weather around coasts."
+    publishedDateTime: 2021-07-16T19:30:00Z
+    webUrl: "https://www.executivegov.com/2021/07/microsoft-partners-with-u-s-army-engineers-to-use-azure-cloud/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 27
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/07/16/4c/da/ed/bd/2f/15/c5/04/microsoft_20210625.png"
+        width: 272
+        height: 270
         isCached: true
-  - title: "Collaborative Drug Discovery Joins the Microsoft Cloud Storage Partner Program"
-    excerpt: "PRNewswire/ -- Collaborative Drug Discovery (CDD), provider of the CDD Vault web-based research informatics platform, announced that it has officially"
-    publishedDateTime: 2020-06-09T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/collaborative-drug-discovery-joins-the-microsoft-cloud-storage-partner-program-301072297.html"
+  - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
+    excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
+    publishedDateTime: 2021-07-13T07:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1177967/Collaborative_Drug_Discovery_Logo.jpg?p=facebook"
-        width: 2498
-        height: 1309
-        isCached: true
-  - title: "Kudelski Security Launches Additional Services for the Microsoft Modern Workplace"
-    excerpt: "cloud-first cybersecurity portfolio that supports digital transformation initiatives of global enterprises using private and public cloud services. In addition to providing a dedicated Microsoft focus, Kudelski Security offers clients a combination of proprietary, native cloud security monitoring capabilities as well as teams of experienced ..."
-    publishedDateTime: 2020-06-03T15:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kudelski-security-launches-additional-services-for-the-microsoft-modern-workplace-301069384.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/494975/Kudelski_Security_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Richardson RFPD Now Offers Microsoft Azure Services"
-    excerpt: "GENEVA, Ill.--(BUSINESS WIRE)--Richardson RFPD, Inc., an Arrow Electronics company, announced today that it has joined the Microsoft Cloud Solution Provider program and is now offering Microsoft ..."
-    publishedDateTime: 2020-06-10T14:11:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200610005093/en/Richardson-RFPD-Offers-Microsoft-Azure-Services"
+  - title: "Pensa Systems Now Available on Microsoft Azure"
+    excerpt: "Pensa Systems, a leading innovator in the automated use of computer vision and artificial intelligence for retail in-store data and analytics, announced today that its advanced shelf intelligence data offering has become a Microsoft Preferred Solution and is now available on Microsoft Azure."
+    publishedDateTime: 2021-07-13T11:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/13/9407404.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "Sierra Wireless Partners with Microsoft to Enable Advanced Asset Tracking Capabilities via Azure IoT Central"
+    excerpt: "Sierra Wireless’ Acculink managed IoT solution integrated with Microsoft Azure IoT Central brings simplicity, extra functionality and capabilities for customers VANCOUVER, British Columbia--(BUSINESS WIRE)--Sierra Wireless (NASDAQ: SWIR) (TSX ..."
+    publishedDateTime: 2021-07-13T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210713005336/en/Sierra-Wireless-Partners-with-Microsoft-to-Enable-Advanced-Asset-Tracking-Capabilities-via-Azure-IoT-Central"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 17
-  - title: "Datametica now available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Pelican to take advantage of the scalability, reliability and agility of Azure to shape business strategies - Pelican empowers customers to ..."
-    publishedDateTime: 2021-05-13T09:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52862512-datametica-now-available-in-the-microsoft-azure-marketplace-008.htm"
+    quality: 15
+  - title: "TIBCO Recognized as a Finalist in the 2021 Microsoft Azure Partner of the Year Awards"
+    excerpt: "\"Our continued focus on developing technologies that deliver a cloud-first experience aligns perfectly to our close collaboration with Microsoft and the Azure cloud computing platform,\" said Tony Beller,"
+    publishedDateTime: 2021-07-13T12:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tibco-recognized-as-finalist-the-2021-microsoft-azure-/2021/07/13/9407556.htm"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 17
-  - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
-    excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
-    publishedDateTime: 2020-06-06T19:22:00Z
-    webUrl: "https://www.openpr.com/news/2068878/cloud-based-database-market-major-technology-giants-in-buzz"
-    ampWebUrl: "https://www.openpr.com/amp/2068878/cloud-based-database-market-major-technology-giants-in-buzz"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2068878/cloud-based-database-market-major-technology-giants-in-buzz"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+  - title: "Insight Recognized Again as a Microsoft Security 20/20 Winner for Microsoft Azure Security Deployment Partner of the Year"
+    excerpt: "Insight Enterprises (NASDAQ: NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes, today announced"
+    publishedDateTime: 2021-05-18T16:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210518005654/en/Insight-Recognized-Again-as-a-Microsoft-Security-2020-Winner-for-Microsoft-Azure-Security-Deployment-Partner-of-the-Year"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
-  - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
-    excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
-    publishedDateTime: 2020-06-03T13:12:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/paraboleai-announces-the-launch-of-train-3-0--the-automated-machine-teaching-platform-on-the-microsoft-azure-marketplace-301069421.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/963377/Parabole_ai_Logo.jpg?p=facebook"
-        width: 2697
-        height: 1414
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
 
-secured: "OcQzWuJdmEBaie3PEXq9pvlEnOGzzjsadL3CfPHleu9oL4cxl04myyKhjODbz8vQR9qc8MJbj6TT8pAdXvZ4/hnPlRONrGJqwhsdYZX+W7AxbvzLMzsFV4EXZuaazBLdABcwmiwR3wjTmDGGUJNi8dTsoHOc0ZbL8GfnHFfACsfFLUBS4ApQPQ9kounQenDmsETE1oyTgudzgFNuJihayLvdSy9RJq2GYKQMC3+gqqJ0b4fseVkK+vYvOJmIxUw1/45ScPE73eUh+j40SLRB+sktJXj0KB836pCwx2N00SLrOzw3zMGEBe/Bu2kSdIKPWJjrYALaNS/wVsz6rELXHAVcDbuTBdo76YqAv9spIEk=;RyWiDIYkjl2hSg95IINGgw=="
+secured: "iTw4q1pHut/CWvne9/IAzyC5NHM3Lsu5h20dOJ20M4iGWYi/mqQm0ZHfFjCWX2ZwR1No6ShkTBx63kGwSaNWFhhmpeVUqKqYGe8RLpLOhwNKzPY7l768ONIw/rbSZLe9dMHjKe+2oPPMbBCtWhc7d6sj6aAkavi3xyOO29fqUUi91HJiHiUauy3G3OcaozJQJ/B5Qg7QsHum53bgFWsKVuljcy9QP3CdCYt0h5yoTRWo/YELPCPaeZ4mHVeqLC+q98J7c+t0Mb10fpjwB7sGwlsQ5LpDKaN1dNZpkM37dd7+1sij/8hyhRZIKsvxTO/Q7aIO1z5ZXSRAcMP/hU4Ao2n2dTlvFtnJc8XwOKusPnc=;v+kiFoxbRUGphxZXQX2utg=="
 ---
 
