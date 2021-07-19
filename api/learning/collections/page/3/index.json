@@ -233,8 +233,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12954,
-            "average": 4.767176
+            "count": 12956,
+            "average": 4.767212
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -580,8 +580,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-modern-data-warehouse-using-azure-synapse-analytics/",
           "length": "PT56M",
           "ratings": {
-            "count": 181,
-            "average": 4.475138
+            "count": 182,
+            "average": 4.4725275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1008,8 +1008,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
           "length": "PT29M",
           "ratings": {
-            "count": 403,
-            "average": 4.833747
+            "count": 404,
+            "average": 4.831683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1060,6 +1060,198 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-azure-tips-and-tricks.md",
+      "title": "Azure Tips and Tricks",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-azure-tips-and-tricks/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-azure-tips-and-tricks/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks.md",
+          "title": "How to build serverless APIs with Azure Functions | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to build serverless APIs with Azure Functions.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://aka.ms/att/free",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=_9moXcR2Suo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_9moXcR2Suo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M21S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-06T08:00:44-07:00",
+          "heat": 83,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/_9moXcR2Suo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Serverless"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks.md",
+          "title": "How to perform opinion mining with Azure Cognitive Services | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to perform opinion mining with Microsoft Azure Cognitive Services.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=fP2rrDhqCv4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fP2rrDhqCv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M59S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-06-29T08:00:06-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/fP2rrDhqCv4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks.md",
+          "title": "How to deploy Azure Cognitive Services in containers | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to deploy Microsoft Azure Cognitive Services in containers.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=XLQLNazid4I",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XLQLNazid4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M28S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-06-22T08:00:01-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/XLQLNazid4I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-get-started-with-neural-text-to-speech-in-azure-azure-tips-and-tricks.md",
+          "title": "How to get started with neural text to speech in Azure | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to get started with Neural Text to Speech in Microsoft Azure.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-get-started-with-neural-text-to-speech-in-azure-azure-tips-and-tricks/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-get-started-with-neural-text-to-speech-in-azure-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=dl0amatX5zs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dl0amatX5zs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M24S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-06-15T08:01:18-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/dl0amatX5zs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 163,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_9moXcR2Suo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -1136,8 +1328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 2090,
-            "average": 4.6923447
+            "count": 2091,
+            "average": 4.691535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1577,8 +1769,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 6140,
-            "average": 4.7465796
+            "count": 6142,
+            "average": 4.746662
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2053,8 +2245,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2560,
-            "average": 4.6035156
+            "count": 2561,
+            "average": 4.60328
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2310,7 +2502,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2422,8 +2614,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
           "length": "PT43M",
           "ratings": {
-            "count": 379,
-            "average": 4.596306
+            "count": 380,
+            "average": 4.5973682
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3493,8 +3685,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2972,
-            "average": 4.644347
+            "count": 2973,
+            "average": 4.6441307
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4984,7 +5176,7 @@
             ]
           },
           "publishedDateTime": "2020-06-30T08:05:33-07:00",
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/OzqpxeD3fG0/maxresdefault.jpg",
@@ -5060,7 +5252,7 @@
             ]
           },
           "publishedDateTime": "2020-06-25T08:03:44-07:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/I1mefHptRgo/maxresdefault.jpg",
@@ -5284,198 +5476,6 @@
       "topics": [
         "Azure",
         "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-azure-tips-and-tricks.md",
-      "title": "Azure Tips and Tricks",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-azure-tips-and-tricks/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks.md",
-          "title": "How to build serverless APIs with Azure Functions | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to build serverless APIs with Azure Functions.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://aka.ms/att/free",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=_9moXcR2Suo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_9moXcR2Suo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M21S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-06T08:00:44-07:00",
-          "heat": 82,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/_9moXcR2Suo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Serverless"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks.md",
-          "title": "How to perform opinion mining with Azure Cognitive Services | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to perform opinion mining with Microsoft Azure Cognitive Services.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=fP2rrDhqCv4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fP2rrDhqCv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT2M59S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-29T08:00:06-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/fP2rrDhqCv4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks.md",
-          "title": "How to deploy Azure Cognitive Services in containers | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to deploy Microsoft Azure Cognitive Services in containers.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=XLQLNazid4I",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XLQLNazid4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT2M28S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-22T08:00:01-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/XLQLNazid4I/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-get-started-with-neural-text-to-speech-in-azure-azure-tips-and-tricks.md",
-          "title": "How to get started with neural text to speech in Azure | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to get started with Neural Text to Speech in Microsoft Azure.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-get-started-with-neural-text-to-speech-in-azure-azure-tips-and-tricks/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-get-started-with-neural-text-to-speech-in-azure-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=dl0amatX5zs",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dl0amatX5zs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M24S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-15T08:01:18-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/dl0amatX5zs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 163,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_9moXcR2Suo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -5721,8 +5721,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3065,
-            "average": 4.704731
+            "count": 3066,
+            "average": 4.7048273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5807,8 +5807,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1300,
-            "average": 4.747692
+            "count": 1301,
+            "average": 4.747886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5936,8 +5936,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3065,
-            "average": 4.704731
+            "count": 3066,
+            "average": 4.7048273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6022,8 +6022,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1300,
-            "average": 4.747692
+            "count": 1301,
+            "average": 4.747886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6151,8 +6151,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3065,
-            "average": 4.704731
+            "count": 3066,
+            "average": 4.7048273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6237,8 +6237,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1300,
-            "average": 4.747692
+            "count": 1301,
+            "average": 4.747886
           },
           "provider": {
             "name": "Microsoft Learn",
