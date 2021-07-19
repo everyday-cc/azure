@@ -3,8 +3,8 @@ category: news
 title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
 excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
 publishedDateTime: 2021-07-14T16:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607629"
-webUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607629"
+originalUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607637"
+webUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607637"
 type: article
 quality: 38
 heat: -1
@@ -91,6 +91,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "peqYy1PxBKjghCCecCN3iygc/2XN/e718cLqbaL2pFNdeZOxi/dhydukThF4WF2N6vyRGkvstuhD5vHa6vJ7HJq5SQNcvfql4QqXmgMiiCL0AlH7mszJNSkzQThBjsaAPt5kzZsg7HUcwOEV2Q03a7cK8htnQ8rg4tAaiD0ibqHOAVKO79dkelUIlj+E73NdPNdjG90jXCUFP7WZEfY9tlSuk2nXISG7hCBMPEopZFqUmSzECrCzOXPYDmSeO+kYPXFm9EuBbYO0MfEYZrG/8dgi3QxJTieV5Hn5IQTtXTuxPt5eoif4478iGU/3Q6LpTqVNvbmOr4O1LEBThdwumqfAFXFg3HlGj1LDOZK62wm7O9LzCnjoxISbRaV1NC+3zWZA0iOZNrEXyKjVAgyaIv6mCNRFbLFgCI3WFXFvZD/dWL0+1qkGlJMzPTRr5wj8ih5n8ltS4F8lOP+ez/xQ/CUrPxUTV7MV3RQh+SDaLeRtYL9UUtQ9BmNI+LazSRxiQ8tcOlORV1C4ZRfBMRnCvw==;qj8JgU+jioKhAOgVtsNIew=="
+secured: "1fhD13E73NwV7jWP1Q5WHsVfs6fLC5QQ8sJDv0NZhw3MtAmSosMJXD+xVrOFh4yqm2kmF8q049JnVRfD8GiHVDFdT1Gia0FJXHbVrHWyXyVjxXpnGT5eN6/ZwcEhBtVbWZWDitlNRoOvzw/jtgNnqv3lA6fo0LJfJ3VVXpENvkaB/KBYgTJIvbkxNSfQ46HFfD9IIRMZ5kmUIAY/fFzroc5mLX0ze3WZOsXR9gchcuxtkAvsyM9/VfYDwYuWujs4yIuJlQ1q8sUMQ+jwh+QSFFvQjs5RFKHR8S+YruOBfGToEavRve4cDgeUGkUzHuccg8iI6xJsSnKxwSIb8/SckmSbQEExhRxc+nS9dCxCYI4i1G7S4POHVGExdBmlyA3hj16Tp+e83WfJGUDVtlhfknewxXTqm+mQvEHX0chx2/p16CE3kUXHPx1PPdQq2mC2rBCRq/P2Al2WAvUV7hnoYeRbqMKzGqOG1xFRrWGLH0rK47TUw8XBgQS8gXLdubWRRQAcBmzklvrtK1I+CmUdZw==;VCYgZsQkDh4ioPpAVAW1AQ=="
 ---
 
