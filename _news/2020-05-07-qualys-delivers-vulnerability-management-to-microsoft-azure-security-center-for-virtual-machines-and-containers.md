@@ -88,6 +88,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
+  - title: "Announcing the Azure Firewall Premium general availability"
+    excerpt: "Utilize next-generation firewall capabilities in Azure Firewall Premium"
+    publishedDateTime: 2021-07-19T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-the-azure-firewall-premium-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
     excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
     publishedDateTime: 2020-09-09T11:11:00Z

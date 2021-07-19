@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
-excerpt: "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets"
-publishedDateTime: 2020-05-11T12:00:03Z
-originalUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
-webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
+title: "Announcing the Azure Firewall Premium general availability"
+excerpt: "Utilize next-generation firewall capabilities in Azure Firewall Premium"
+publishedDateTime: 2021-07-19T16:00:18Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/announcing-the-azure-firewall-premium-general-availability/"
+webUrl: "https://azure.microsoft.com/en-us/updates/announcing-the-azure-firewall-premium-general-availability/"
 type: article
-quality: 100
+quality: 67
 heat: -1
 published: false
 
@@ -20,14 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Compute
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/985df91e-de4d-4c27-a28b-f3ec9be164e3.jpg"
-    width: 1024
-    height: 696
-    isCached: true
-    title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
 
 related:
   - title: "Announcing the general availability of Azure Spot Virtual Machines"
@@ -43,6 +35,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
         width: 800
         height: 468
+        isCached: true
+  - title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
+    excerpt: "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets"
+    publishedDateTime: 2020-05-11T12:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/985df91e-de4d-4c27-a28b-f3ec9be164e3.jpg"
+        width: 1024
+        height: 696
         isCached: true
   - title: "Azure Pipelines announces the general availability of scale-set agents"
     excerpt: "In the last two months, we improved the reliability in performing various scale-set operations. We have updated the guidance on how to improve the performance of provisioning new virtual machines."
@@ -80,15 +86,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
-  - title: "Announcing the Azure Firewall Premium general availability"
-    excerpt: "Utilize next-generation firewall capabilities in Azure Firewall Premium"
-    publishedDateTime: 2021-07-19T16:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-the-azure-firewall-premium-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
     excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
     publishedDateTime: 2020-09-09T11:11:00Z
@@ -164,6 +161,6 @@ related:
       domain: microsoft.com
     quality: 4
 
-secured: "0kDdOo7wulBLSvALPTIwAklZB42okir3ArQNYMfj5qB0nwuAM6h6K4NgsCkVJpC1kRpL47pBZZ8PCtDKSm4tbb0Z2ZlWKXGCuJIG9RBPxK373aGf24jMZ8LupmCT+TrXNq/0eZCbMS0F17fSvhp14+qLouZVEmByecnNYCvSqVYa9qATQQeQv5mjTq4WfETrVj/55p5KT/SAuaRwiHc2DZUnWWPHlgrNU05MM+5ESXlEHcXjql2IVv5xhNSgNzTEFh3URc6CyQIWpEE43mMPMScAxtj52G38QdNcdhfIiZVBNn9QVGrAv+HFMXzI1HfwzUDlnTo7y7CW+n/L7wNXwIwuONmFMXXFZ7XB4beDTPY=;Ij6qG/4c7+XfbdJRU57muA=="
+secured: "NlXZ115vVfWOTrzmsVzD+rkqo/zOqrSXLWga6gmej4WhzvxW8He1CskG98zZKoBm/6d82c1NW+VNgByTu24ZKmbTBRUPYA7PcY9i4qxiYQDZrr7B4ifbLfdpucFW28M04dAob9PvEqAaDt8YRL83dhSTLAgQcPUAxqOJlWMeqiL54kaLPKurFJaWqUlHV7SdkYN6B80oFZJvZMp/vnIztnK3YVIZbLdic/tP7pTUbI7MJViq2LbjQRCgZPxL3UG06bxj5I0RPhrqDeuvSwFQhZIhKK87q0rRKwhnftqYQ2tMmUvtK6MXEVoAtqJ5a7QjvUbUV39+yssQs2Qlh8cYZfONnhk9OVgA5JJ5xlC/SzQ=;hHBdmWmu8jy+F7aYf686VQ=="
 ---
 
