@@ -52,7 +52,6 @@ items:
   - videos/microsoft-how-to-use-cost-management-in-the-azure-portal-azure-portal-series
   - videos/microsoft-how-to-apply-budgets-to-subscriptions-using-the-azure-portal-azure-portal-series
   - videos/microsoft-explore-self-help-support-options-azure-portal-series
-  - videos/microsoft-how-to-create-a-storage-account-and-upload-a-blob-azure-portal-series
   - videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series
   - videos/microsoft-how-to-make-the-most-out-of-azure-advisor-azure-portal-series
   - videos/microsoft-how-to-create-an-azure-sql-database-using-all-configuration-options-azure-portal-series
