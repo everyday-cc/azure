@@ -4,6 +4,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-iot-edge-device-to-iot-central.md",
+      "title": "Connect an IoT Edge device to your IoT Central application",
+      "excerpt": "In this module, you'll learn how to connect an IoT Edge device to your IoT Central application",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-iot-edge-device-to-iot-central/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-iot-edge-device-to-iot-central/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 7,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-iot-edge-device-to-iot-central-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-iot-hololens-azure-digital-twins-unity.md",
       "title": "Connect IoT data to HoloLens 2 with Azure Digital Twin and Unity",
       "excerpt": "Stream simulated operational telemetry data from physical assets to Azure Digital Twin and visualize data in Unity and the HoloLens.",
@@ -767,8 +812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 1031,
-        "average": 4.701261
+        "count": 1033,
+        "average": 4.7018394
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1031,8 +1076,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 5213,
-        "average": 4.7314405
+        "count": 5215,
+        "average": 4.7315435
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1279,51 +1324,6 @@
       "topics": [
         "Azure",
         "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-hybrid-file-server-infrastructure.md",
-      "title": "Implement a hybrid file server infrastructure",
-      "excerpt": "In this module, you’ll learn to deploy Azure File Sync, migrate from DFS, and use Storage Migration Services to migrate file servers to Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-hybrid-file-server-infrastructure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-file-server-infrastructure/",
-      "length": "PT1H32M",
-      "ratings": {
-        "count": 38,
-        "average": 4.7105265
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-a-hybrid-file-server-infrastructure-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
         "Compute"
       ]
     }

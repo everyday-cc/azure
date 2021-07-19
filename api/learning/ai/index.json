@@ -4,16 +4,18 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday.md",
-      "title": "Retro Game Translation with Azure Cognitive Services and IoT Edge | Azure Friday",
-      "excerpt": "Paul DeCarlo shows Scott Hanselman how Azure IoT Edge enables you to deploy cloud intelligence locally on edge devices.  By moving certain workloads to the edge of your network, your devices spend less time communicating with the cloud, can react more quickly to local changes, and operate reliably even",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-retro-game-translation-with-azure-cognitive-services-and-iot-edge-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=atga5uMsrYY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/atga5uMsrYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M2S",
+      "path": "_learning/courses/microsoft-learn-build-3d-scene-mixed-reality-unity.md",
+      "title": "Build a 3D Scene for mixed reality in Unity",
+      "excerpt": "Learn how to create a 3D Scene in Unity using the Microsoft Maps SDK or static terrain. Get familiar with mixed reality scene design, the Unity interface, and deploying your Unity project to a HoloLens 2.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-3d-scene-mixed-reality-unity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-3d-scene-mixed-reality-unity/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 19,
+        "average": 4.9473686
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -24,23 +26,29 @@
           }
         ]
       },
-      "publishedDateTime": "2021-05-07T09:56:11-07:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/atga5uMsrYY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/build-3d-scene-mixed-reality-unity-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
         "AI",
-        "IoT"
+        "IoT",
+        "Integration",
+        "Analytics",
+        "Compute",
+        "Serverless"
       ]
     },
     {
@@ -74,8 +82,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 19338,
-            "average": 4.7658496
+            "count": 19345,
+            "average": 4.765831
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 15175,
-            "average": 4.6343327
+            "count": 15180,
+            "average": 4.6343875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +170,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 13392,
-            "average": 4.7717295
+            "count": 13395,
+            "average": 4.7717056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -205,8 +213,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18312,
-            "average": 4.7313786
+            "count": 18318,
+            "average": 4.731248
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -300,8 +308,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 18832,
-            "average": 4.7640185
+            "count": 18837,
+            "average": 4.764028
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -362,8 +370,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 18832,
-        "average": 4.7640185
+        "count": 18837,
+        "average": 4.764028
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -428,8 +436,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 11326,
-            "average": 4.7896876
+            "count": 11328,
+            "average": 4.7897243
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -471,8 +479,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 12391,
-            "average": 4.781454
+            "count": 12394,
+            "average": 4.781507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -514,8 +522,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 8505,
-            "average": 4.7825985
+            "count": 8507,
+            "average": 4.7826495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -561,8 +569,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 9344,
-            "average": 4.729238
+            "count": 9348,
+            "average": 4.729247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -630,8 +638,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 18312,
-        "average": 4.7313786
+        "count": 18318,
+        "average": 4.731248
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -676,8 +684,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 12391,
-        "average": 4.781454
+        "count": 12394,
+        "average": 4.781507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1090,8 +1098,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 1721,
-            "average": 4.758861
+            "count": 1723,
+            "average": 4.759141
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1126,8 +1134,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
           "length": "PT29M",
           "ratings": {
-            "count": 1526,
-            "average": 4.7326345
+            "count": 1527,
+            "average": 4.7328095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1213,8 +1221,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 1814,
-            "average": 4.761301
+            "count": 1815,
+            "average": 4.7614326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1386,8 +1394,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
           "length": "PT39M",
           "ratings": {
-            "count": 1720,
-            "average": 4.6860466
+            "count": 1721,
+            "average": 4.6850667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3950,7 +3958,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/build-3d-scene-mixed-reality-unity-social.png",
@@ -4381,8 +4389,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 868,
-            "average": 4.647465
+            "count": 869,
+            "average": 4.6444187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5028,8 +5036,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 868,
-            "average": 4.647465
+            "count": 869,
+            "average": 4.6444187
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -4,6 +4,48 @@
   "page": 25,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-automate-github-using-github-script.md",
+      "title": "Automate GitHub by using GitHub Script",
+      "excerpt": "Learn to interact with the GitHub API from GitHub Actions by using GitHub Script.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-github-using-github-script/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-github-using-github-script/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 627,
+        "average": 4.803828
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/automate-github-using-github-script-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-automate-iot-devices-management-with-azure-iot-hub.md",
       "title": "Automate IoT devices management with Azure IoT Hub",
       "excerpt": "Automate IoT devices management with Azure IoT Hub",
@@ -1010,8 +1052,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
       "length": "PT54M",
       "ratings": {
-        "count": 1203,
-        "average": 4.751455
+        "count": 1204,
+        "average": 4.7516613
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1210,49 +1252,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-bicep-conditions-loops.md",
-      "title": "Build flexible Bicep templates by using conditions and loops",
-      "excerpt": "Build advanced Bicep templates by using conditions to conditionally deploy resources and using loops to deploy multiple instances of resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-bicep-conditions-loops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-flexible-bicep-templates-conditions-loops/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 15,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/bicep/bicep-conditions-loops-social.png",
-          "width": 1280,
-          "height": 640,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
       ]
     }
   ],
