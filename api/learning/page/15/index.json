@@ -4,6 +4,77 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
+      "title": "Add and size disks in Azure virtual machines",
+      "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 289,
+        "average": 4.7923875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
+      "title": "Deploy a containerized application on Azure Kubernetes Service",
+      "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
+      "length": "PT1H4M",
+      "ratings": {
+        "count": 508,
+        "average": 4.7696853
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-align-requirements-in-azure.md",
       "title": "Align requirements with cloud types and service models in Azure",
       "excerpt": "Discover Azure's three approaches to deploying cloud resources -- public, private, and hybrid -- and learn the difference each makes in your Azure services.",
@@ -11,8 +82,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 8134,
-        "average": 4.7543645
+        "count": 8135,
+        "average": 4.7543945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -174,8 +245,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 357,
-        "average": 4.669468
+        "count": 358,
+        "average": 4.670391
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -846,8 +917,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
       "length": "PT29M",
       "ratings": {
-        "count": 2518,
-        "average": 4.6346307
+        "count": 2519,
+        "average": 4.6347756
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1166,92 +1237,6 @@
         "Azure",
         "AI",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-resource-manager-template-vs-code.md",
-      "title": "Deploy consistent infrastructure in Azure by using Azure Resource Manager (ARM) templates",
-      "excerpt": "Write Azure Resource Manager templates by using Visual Studio Code to deploy your infrastructure to Azure consistently and reliably.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-resource-manager-template-vs-code/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 187,
-        "average": 4.71123
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-azure-resource-manager-template-vs-code-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-security-baselines.md",
-      "title": "Create security baselines",
-      "excerpt": "Create security baselines",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-security-baselines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 3441,
-        "average": 4.677419
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

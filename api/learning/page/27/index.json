@@ -4,6 +4,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-configure-administrative-roles-microsoft-365.md",
+      "title": "Configure administrative roles in Microsoft 365",
+      "excerpt": "Configure administrative roles in Microsoft 365",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-administrative-roles-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-administrative-roles-microsoft-365/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 26,
+        "average": 4.923077
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-application-kubernetes-arc.md",
       "title": "Implement Azure App Service on Kubernetes with Arc",
       "excerpt": "Azure App Service on Kubernetes with Azure Arc enables implementation of Azure application-platform services on customer-managed, Arc-onboarded Kubernetes clusters. Azure App Service is one you can implement.",
@@ -1225,8 +1268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 3797,
-        "average": 4.6944957
+        "count": 3798,
+        "average": 4.6945763
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1259,53 +1302,6 @@
         "Azure",
         "Compute",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-convert-speech-to-text.md",
-      "title": "Transcribe speech in real time with Azure Cognitive Services",
-      "excerpt": "Learn how to transcribe speech and convert it to text through real-time transcription with the Speech Service in Azure Cognitive Services.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-convert-speech-to-text/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
-      "length": "52 mins",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Transcribe speech in real time with Azure Cognitive Services",
-          "isCached": true
-        },
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Transcribe speech in real time with Azure Cognitive Services",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

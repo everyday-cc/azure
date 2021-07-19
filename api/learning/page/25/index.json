@@ -4,6 +4,93 @@
   "page": 25,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
+      "title": "Build Serverless APIs with Azure Functions",
+      "excerpt": "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 281,
+        "average": 4.6903915
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-azure-digital-twins-graph-for-chocolate-factory.md",
+      "title": "Build an Azure Digital Twins graph for a chocolate factory production line",
+      "excerpt": "This module covers the first steps in building an Azure Digital Twins solution. The units cover making an instance of Azure Digital Twins, and learning about, creating, and visualizing, DTDL models. You will create, validate, graph, and query, models for a chocolate factory production line.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-azure-digital-twins-graph-for-chocolate-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-digital-twins-graph-for-chocolate-factory/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 64,
+        "average": 4.484375
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/build-azure-digital-twins-graph-for-chocolate-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-chat-bot-with-azure-portal.md",
       "title": "Build a chat bot with the Azure portal",
       "excerpt": "Create and test a basic chat bot using the Azure portal",
@@ -209,49 +296,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-qna-solution-qna-maker.md",
-      "title": "Build a QnA solution with QnA Maker",
-      "excerpt": "Build a QnA solution with QnA Maker",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-qna-solution-qna-maker/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-qna-solution-qna-maker/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 5,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     },
     {
@@ -1198,41 +1242,6 @@
       "topics": [
         "Azure",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cloud-storage-overview.md",
-      "title": "Cloud storage overview",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn all about data and get an overview of how it's stored, including local and distributed file systems, databases, and object storage.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cloud-storage-overview/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-storage/",
-      "length": "PT2H43M",
-      "ratings": {
-        "count": 75,
-        "average": 4.826667
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

@@ -4,6 +4,86 @@
   "page": 24,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-diagnose-application-startup-errors-with-kudu-console.md",
+      "title": "Diagnose startup errors in your application using Kudu console",
+      "excerpt": "This module explains how to use kudu console to examine the application event log to identify the event that caused the error.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-diagnose-application-startup-errors-with-kudu-console/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-diagnose-application-startup-errors-with-kudu-console/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 26,
+        "average": 4.423077
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-diagnose-application-startup-errors-with-kudu-console-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
+      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
+      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 2203,
+        "average": 4.272356
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Compute",
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-in-action.md",
       "title": "See Azure in action",
       "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
@@ -91,8 +171,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
       "length": "PT28M",
       "ratings": {
-        "count": 1881,
-        "average": 4.7246146
+        "count": 1882,
+        "average": 4.7242293
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1173,93 +1253,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
-      "title": "Build Serverless APIs with Azure Functions",
-      "excerpt": "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 281,
-        "average": 4.6903915
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-azure-digital-twins-graph-for-chocolate-factory.md",
-      "title": "Build an Azure Digital Twins graph for a chocolate factory production line",
-      "excerpt": "This module covers the first steps in building an Azure Digital Twins solution. The units cover making an instance of Azure Digital Twins, and learning about, creating, and visualizing, DTDL models. You will create, validate, graph, and query, models for a chocolate factory production line.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-azure-digital-twins-graph-for-chocolate-factory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-digital-twins-graph-for-chocolate-factory/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 64,
-        "average": 4.484375
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/build-azure-digital-twins-graph-for-chocolate-factory-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],

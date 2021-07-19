@@ -4,6 +4,220 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-explore-computer-vision-in-microsoft-azure.md",
+      "title": "Explore computer vision in Microsoft Azure",
+      "excerpt": "Computer vision is an area of artificial intelligence (AI) in which software systems are designed to perceive the world visually, though cameras, images, and video. There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-explore-computer-vision-in-microsoft-azure/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-explore-computer-vision-in-microsoft-azure/",
+      "length": "PT2H53M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
+          "title": "Analyze images with the Computer Vision service",
+          "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-images-computer-vision/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 2282,
+            "average": 4.687993
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-classify-images-custom-vision.md",
+          "title": "Classify images with the Custom Vision service",
+          "excerpt": "Image classification is a common workload in artificial intelligence (AI) applications. It harnesses the predictive power of machine learning to enable AI systems to identify real-world items based on images.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-classify-images-custom-vision/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 1924,
+            "average": 4.712578
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-detect-objects-images-custom-vision.md",
+          "title": "Detect objects in images with the Custom Vision service",
+          "excerpt": "Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-detect-objects-images-custom-vision/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 1718,
+            "average": 4.685681
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/detect-objects-images-custom-vision-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-detect-analyze-faces.md",
+          "title": "Detect and analyze faces with the Face service",
+          "excerpt": "Face detection, analysis, and recognition is an important capability for artificial intelligence (AI) solutions. The Face cognitive service in Azure makes it easy integrate these capabilities into your applications.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-detect-analyze-faces/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 1703,
+            "average": 4.7064004
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/detect-analyze-faces-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-implement-virtual-machine-host-security-in-azure.md",
       "title": "Implement virtual machine host security in Azure",
       "excerpt": "Learn how to protect and harden your virtual machines in Azure",
@@ -222,8 +436,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 9323,
-        "average": 4.7290573
+        "count": 9325,
+        "average": 4.7291155
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -265,8 +479,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 21302,
-        "average": 4.7081494
+        "count": 21306,
+        "average": 4.7082043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +514,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 8168,
-        "average": 4.7580805
+        "count": 8169,
+        "average": 4.75811
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -336,221 +550,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-architect-network-infrastructure-in-azure.md",
-      "title": "Architect network infrastructure in Azure",
-      "excerpt": "Learn how to architect a secure, flexible, network infrastructure in Azure and connect on-premises networks to your Azure resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-architect-network-infrastructure-in-azure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-architect-network-infrastructure-in-azure/",
-      "length": "PT8H59M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway.md",
-          "title": "Connect your on-premises network to Azure with VPN Gateway",
-          "excerpt": "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 8439,
-            "average": 4.634317
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute.md",
-          "title": "Connect your on-premises network to the Microsoft global network by using ExpressRoute",
-          "excerpt": "Connect your on-premises systems and users to Azure and Office 365 by using ExpressRoute for private, dedicated, and guaranteed throughput connectivity.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 6025,
-            "average": 4.721162
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-expressroute-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 9339,
-            "average": 4.6722345
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
-          "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
-          "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 5612,
-            "average": 4.7589097
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 132,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-104-implement-and-manage-storage-in-azure.md",
       "title": "AZ-104: Implement and manage storage in Azure",
       "excerpt": "Learn how to manage storage in Azure and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -581,8 +580,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 9362,
-            "average": 4.781991
+            "count": 9363,
+            "average": 4.7820144
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -617,8 +616,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
           "length": "PT24M",
           "ratings": {
-            "count": 3852,
-            "average": 4.7502594
+            "count": 3853,
+            "average": 4.7503242
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -704,8 +703,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11005,
-            "average": 4.6821446
+            "count": 11006,
+            "average": 4.6821733
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1415,8 +1414,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 9362,
-            "average": 4.781991
+            "count": 9363,
+            "average": 4.7820144
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1451,8 +1450,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
           "length": "PT24M",
           "ratings": {
-            "count": 3852,
-            "average": 4.7502594
+            "count": 3853,
+            "average": 4.7503242
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1538,8 +1537,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11005,
-            "average": 4.6821446
+            "count": 11006,
+            "average": 4.6821733
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2023,8 +2022,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 15891,
-        "average": 4.6985087
+        "count": 15893,
+        "average": 4.6985464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2059,8 +2058,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 6334,
-        "average": 4.854594
+        "count": 6335,
+        "average": 4.854617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2101,8 +2100,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 8481,
-        "average": 4.7826905
+        "count": 8482,
+        "average": 4.7827163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2171,8 +2170,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 5769,
-            "average": 4.6789737
+            "count": 5770,
+            "average": 4.6790295
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2808,8 +2807,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 6717,
-            "average": 4.7388716
+            "count": 6718,
+            "average": 4.7387614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3938,8 +3937,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
           "length": "PT35M",
           "ratings": {
-            "count": 8134,
-            "average": 4.7543645
+            "count": 8135,
+            "average": 4.7543945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4041,8 +4040,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 8695,
-            "average": 4.8049455
+            "count": 8696,
+            "average": 4.804968
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4215,8 +4214,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 6717,
-            "average": 4.7388716
+            "count": 6718,
+            "average": 4.7387614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4557,8 +4556,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 12936,
-            "average": 4.767007
+            "count": 12941,
+            "average": 4.767097
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4678,8 +4677,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11005,
-            "average": 4.6821446
+            "count": 11006,
+            "average": 4.6821733
           },
           "provider": {
             "name": "Microsoft Learn",

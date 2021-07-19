@@ -4,6 +4,92 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-machine-learning.md",
+      "title": "Introduction to PyTorch",
+      "excerpt": "Learn how to build machine learning models with PyTorch",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-machine-learning-pytorch/",
+      "length": "PT1H30M",
+      "ratings": {
+        "count": 141,
+        "average": 4.737589
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-app-center.md",
+      "title": "Introduction to App Center",
+      "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-app-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 907,
+        "average": 4.6471887
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Mobile"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
       "title": "Secure your identities by using Azure Active Directory",
       "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
@@ -565,8 +651,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 2892,
-        "average": 4.6988244
+        "count": 2893,
+        "average": 4.6989284
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -735,8 +821,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django-models-data/",
       "length": "PT20M",
       "ratings": {
-        "count": 34,
-        "average": 4.9117646
+        "count": 35,
+        "average": 4.9142857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1202,92 +1288,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-resource-manager-template-reuse.md",
-      "title": "Deploy to multiple Azure environments by using ARM templates",
-      "excerpt": "Manage multiple Azure environment deployments of your Azure Resource Manager templates by using functions, variables, tags, and parameter files.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-resource-manager-template-reuse/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 84,
-        "average": 4.7380953
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/modify-azure-resource-manager-template-reuse-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli.md",
-      "title": "Run parallel tasks in Azure Batch with the Azure CLI",
-      "excerpt": "Find out about the Azure Batch capabilities designed to help you efficiently run large-scale parallel and high-performance computing applications in the cloud.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 1540,
-        "average": 4.635065
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/run-parallel-tasks-in-azure-batch-with-the-azure-cli-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],

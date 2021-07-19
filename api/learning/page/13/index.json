@@ -4,6 +4,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-basic-services-identity-types-of-azure-active-directory-azure-ad.md",
+      "title": "Explore the services and identity types of Azure AD",
+      "excerpt": "Explore the services and identity types of Azure AD",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-basic-services-identity-types-of-azure-active-directory-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 357,
+        "average": 4.837535
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-basic-services-identity-types-azure-active-directory-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-initial-configuration-of-azure-active-directory.md",
       "title": "Implement initial configuration of Azure Active Directory",
       "excerpt": "Implement initial configuration of Azure Active Directory",
@@ -132,6 +175,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
+      "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
+      "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 5612,
+        "average": 4.7589097
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
       "title": "Introduction to Docker containers",
       "excerpt": "Introduction to Docker containers",
@@ -139,8 +225,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 5769,
-        "average": 4.6789737
+        "count": 5770,
+        "average": 4.6790295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -174,8 +260,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
       "length": "PT28M",
       "ratings": {
-        "count": 2089,
-        "average": 4.6921973
+        "count": 2090,
+        "average": 4.6923447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1159,84 +1245,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
-      "title": "Core Cloud Services - Manage services with the Azure portal",
-      "excerpt": "Get acquainted with the Azure cloud platform through the Azure portal, where you create and manage all of your Azure resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-tour-azure-portal-features/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
-      "length": "PT1H13M",
-      "ratings": {
-        "count": 323,
-        "average": 4.721362
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-typescript-declare-variable-types.md",
-      "title": "Declare variable types in TypeScript",
-      "excerpt": "Learn about the available types and how to associate them with variables.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-typescript-declare-variable-types/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/typescript-declare-variable-types/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 143,
-        "average": 4.853147
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
