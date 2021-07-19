@@ -22,15 +22,24 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Bastion Standard SKU public preview"
-    excerpt: "Azure Bastion Standard SKU offers key capabilities for enterprises, unblocking critical customer scenarios. "
-    publishedDateTime: 2021-07-12T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-bastion-standard-sku-public-preview/"
+  - title: "Private preview: New telemetry for SAP Application (NetWeaver) in Azure portal"
+    excerpt: "SAP on Azure customers can now view SAP Application telemetry like short dumps, SDF/SMON and STO3 in Azure portal. \n"
+    publishedDateTime: 2021-07-19T15:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-preview-new-telemetry-for-sap-application-netweaver-in-azure-portal/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 80
+  - title: "Public preview: Alerts, Pacemaker cluster (RHEL OS) and data-size for SAP HANA "
+    excerpt: "SAP on Azure customers can now set threshold-based alerts on SAP application, databases and clusters though Azur portal with few clicks. \n"
+    publishedDateTime: 2021-07-19T15:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-alerts-pacemaker-cluster-rhel-os-and-datasize-for-sap-hana/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 48
 
 secured: "15c1Frowf3WR25p47J4mg9UPpvKKRMbcQSWvX/Vd8hX308yrbMN5nFYtBmojfGFpPbDbfmVyk0hHzUJRF037FldNo0ScrnuG30/EMthn6iRYWyIHmsvTm8vEYidfAuJLnmg6duacOkfqF7R7U4ksUNmSga04EPdeb9p/HexUp8/9LCh3Vqeow5PKBmYpyg766qpQocaUYm7TDatCCl5kJE/dJAvkP0UnhkfrUV6T6pZbL1LFTYO+azgoZgjS8ed+/DbVAeCOjhLUd+fcJSdUW39Giu6rq89WWqNsNtajNpW4nu2JQ4eVDMdU0X3IrHKcz/ojq6g6AVv3g9L3qh4rMUzAYU8kFKtWoV8f6pymwLI=;X7aN/6XiJ4ueYJhQAxuYFg=="
 ---
