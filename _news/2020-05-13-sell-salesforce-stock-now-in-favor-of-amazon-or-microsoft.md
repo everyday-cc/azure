@@ -74,6 +74,22 @@ related:
         width: 1240
         height: 828
         isCached: true
+  - title: "Cloud Security in Banking Market Increasing Demand With Leading Players Microsoft Azure, Trend Micro, Salesforce"
+    excerpt: "Latest Study on Industrial Growth of Global Cloud Security in Banking Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the Cloud Security in Banking market The report contains different market predictions related to"
+    publishedDateTime: 2021-07-20T20:27:00Z
+    webUrl: "https://www.openpr.com/news/2333189/cloud-security-in-banking-market-increasing-demand-with-leading"
+    ampWebUrl: "https://www.openpr.com/amp/2333189/cloud-security-in-banking-market-increasing-demand-with-leading"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333189/cloud-security-in-banking-market-increasing-demand-with-leading"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/7/U720891884_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Sell Cloud Stocks Salesforce.com and Workday, Analyst Says"
     excerpt: "Rosenblatt Securities’ Yun Kim sees the potential for slower-than-consensus revenue growth ahead, which he fears could trigger multiple compression for both stocks."
     publishedDateTime: 2020-05-05T14:15:00Z

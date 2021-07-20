@@ -1,39 +1,51 @@
 ---
 category: news
-title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
-excerpt: "Microsoft (NASDAQ:MSFT) recently inked a five-year cloud deal with Coca-Cola (NYSE:KO), in which the beverage maker will standardize its business operations with Microsoft's Azure, Dynamics 365, and Microsoft 365 services."
-publishedDateTime: 2020-05-05T15:23:00Z
-webUrl: "https://www.fool.com/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+title: "Cloud Security in Banking Market Increasing Demand With Leading Players Microsoft Azure, Trend Micro, Salesforce"
+excerpt: "Latest Study on Industrial Growth of Global Cloud Security in Banking Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the Cloud Security in Banking market The report contains different market predictions related to"
+publishedDateTime: 2021-07-20T20:27:00Z
+originalUrl: "https://www.openpr.com/news/2333189/cloud-security-in-banking-market-increasing-demand-with-leading"
+webUrl: "https://www.openpr.com/news/2333189/cloud-security-in-banking-market-increasing-demand-with-leading"
+ampWebUrl: "https://www.openpr.com/amp/2333189/cloud-security-in-banking-market-increasing-demand-with-leading"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333189/cloud-security-in-banking-market-increasing-demand-with-leading"
 type: article
-quality: 82
-heat: 302
-published: true
+quality: 53
+heat: -1
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - Azure
+  - Security
 
 images:
-  - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
-    width: 580
-    height: 378
+  - url: "https://cdn.openpr.com/U/7/U720891884_g.jpg"
+    width: 450
+    height: 300
     isCached: true
-    title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571626%2Fcoca-cola-store-orlando-plate.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
 
 related:
+  - title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
+    excerpt: "Microsoft (NASDAQ:MSFT) recently inked a five-year cloud deal with Coca-Cola (NYSE:KO), in which the beverage maker will standardize its business operations with Microsoft's Azure, Dynamics 365, and Microsoft 365 services."
+    publishedDateTime: 2020-05-05T15:23:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
+        width: 580
+        height: 378
+        isCached: true
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571626%2Fcoca-cola-store-orlando-plate.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
   - title: "Microsoft to invest $1 billion in Poland: statement"
     excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
     publishedDateTime: 2020-05-05T09:03:00Z
@@ -77,22 +89,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "Cloud Security in Banking Market Increasing Demand With Leading Players Microsoft Azure, Trend Micro, Salesforce"
-    excerpt: "Latest Study on Industrial Growth of Global Cloud Security in Banking Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the Cloud Security in Banking market The report contains different market predictions related to"
-    publishedDateTime: 2021-07-20T20:27:00Z
-    webUrl: "https://www.openpr.com/news/2333189/cloud-security-in-banking-market-increasing-demand-with-leading"
-    ampWebUrl: "https://www.openpr.com/amp/2333189/cloud-security-in-banking-market-increasing-demand-with-leading"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2333189/cloud-security-in-banking-market-increasing-demand-with-leading"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
-    images:
-      - url: "https://cdn.openpr.com/U/7/U720891884_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Sell Cloud Stocks Salesforce.com and Workday, Analyst Says"
     excerpt: "Rosenblatt Securities’ Yun Kim sees the potential for slower-than-consensus revenue growth ahead, which he fears could trigger multiple compression for both stocks."
     publishedDateTime: 2020-05-05T14:15:00Z
@@ -192,6 +188,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "SiEKWBivEkJOQ9t8A1rol8s97Xqrdo8M4Z2XxatdF/5i485nWx646fSt7TtR7PINtBvN5kDlIB5oLvH63HyBsezdDl6VZuOvz1kBDKM1Vf4+xuLNc2PYWtmJlag0OWWx4r3tAEioJNSn6QKZwAFcGA3x6OwTWgg0bMpvJPnYA+vU1yLGruZnri+QMg/iQxKQsmZIEjhYLHvh1aVLgZvg7Ao/8BBVzVlpWGkl+wWAPUoQTuajZzio/FTLWk1JuHtdyT9X/UPQHNTdRFy30BuXaLRJ0dxXT/D5DCtptznfyJNNH2xqenSSaQIQjWU9c7BD;fLro0dFYpJmaReUIY3vdgw=="
+secured: "hWQn3o/ExEBQrd6RWIfbVbeVY5xkcB6tIpmiAAKIhel6+8U1bgR0ixxtoU+VVhebaevTNnQcVopwjurI20+rz9E4IbDAEVOsr8GcX4+DDt7R9xKnwZcdlTdyVISFWwBow+ueBdcTKsCnwGS5BaKPsnEiBOQG8rJIBiSz+1uL4KG3gGzEQ+smXeHQiQtX3/6wwWpzenlkLTOGDrec0nqV5XeUu9G2h0vV2ZnqbKMG3CDuhTWyPoQ6QmMxXSN3bPM8wUyqEFSXM02b9BkzX2POWDJUCQZUJzOqLa2Kvm1ETqPvkfLe4G+CXd4BMqIJo2/TIPndROO5QCu8poWvu9yJ/JtAC9A6oUQXboGIgT3lqNs=;JhtixzRv10MAr56N1st3HA=="
 ---
 
