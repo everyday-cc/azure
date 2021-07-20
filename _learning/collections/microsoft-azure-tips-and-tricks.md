@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 60
+heat: 63
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks
   - videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks
   - videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks
   - videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks
@@ -181,7 +182,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/_9moXcR2Suo/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/tmDEu2iytNU/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
