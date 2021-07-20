@@ -4,44 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal.md",
-      "title": "The difference between, ID, access, refresh, and session tokens? | One Dev Question: Hirsch Singhal",
-      "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains the difference between identity, access, refresh, and session tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/access-tokens?WT.mc_id=onedevquestion-c9-AzureIdent",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/",
-      "originalUrl": "https://youtube.com/watch?v=41vmzPdbfXM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/41vmzPdbfXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-29T08:03:22-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/41vmzPdbfXM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday.md",
       "title": "Using Azure Container Registry for building and deploying .NET Core Apps | Azure Friday",
       "excerpt": "You probably know that Azure Container Registry enables you to store and manage container images securely, but did you know it can also be used as a part of your DevOps pipelines? Jeremy Likness shows Scott Hanselman how ACR can manage your images and even build them for you in the cloud.   0:00 – Overview",
@@ -404,8 +366,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2824,
-            "average": 4.479816
+            "count": 2826,
+            "average": 4.4798303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -569,8 +531,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
           "length": "PT39M",
           "ratings": {
-            "count": 2426,
-            "average": 4.618302
+            "count": 2427,
+            "average": 4.617635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1182,8 +1144,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 3613,
-        "average": 4.581788
+        "count": 3615,
+        "average": 4.581466
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1518,8 +1480,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 6306,
-        "average": 4.751348
+        "count": 6307,
+        "average": 4.751387
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1836,6 +1798,48 @@
       "topics": [
         "Azure",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cmu-monitor-cloud-resources.md",
+      "title": "Monitor cloud resources",
+      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Monitoring how your cloud resources are performing is crucial to building reliable cloud applications. This module covers what monitoring is, why you need to do it, and how you can about monitoring your resources.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cmu-monitor-cloud-resources/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 532,
+        "average": 4.5864663
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-monitor-cloud-resources-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

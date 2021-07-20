@@ -4,49 +4,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-add-custom-domain-name-azure-active-directory.md",
-      "title": "Add custom domain name to Azure Active Directory",
-      "excerpt": "Learn how to add custom domain name to Azure Active Directory.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-add-custom-domain-name-azure-active-directory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 2061,
-        "average": 4.7603106
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/add-custom-domain-name-azure-active-directory-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-administer-manage-windows-server-iaas-vm-remotely.md",
       "title": "Administer and manage Windows Server IaaS Virtual Machine remotely",
       "excerpt": "You’ll be able to select and use suitable tools and techniques to remotely manage Windows IaaS VMs, and restrict administrative connections to those VMs.",
@@ -572,8 +529,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 509,
-        "average": 4.7681727
+        "count": 510,
+        "average": 4.7686276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1238,6 +1195,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-app-package-management-using-helm.md",
+      "title": "Application and package management using Helm",
+      "excerpt": "Helm is an application package manager for Kubernetes that you use to standardize and simplify the deployment of cloud-native applications on Kubernetes. Here you'll see how to install third-party packages called Helm charts and how to create and install Helm charts for the workloads your teams develop.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-app-package-management-using-helm/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 328,
+        "average": 4.7164636
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/app-package-management-using-helm-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
       ]
     }
   ],

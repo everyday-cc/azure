@@ -4,50 +4,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-image-recognition-with-azure-iot-edge.md",
-      "title": "Create an image recognition solution with Azure IoT Edge and Azure Cognitive Services",
-      "excerpt": "This is a computer vision solution using Azure IoT Edge",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-image-recognition-with-azure-iot-edge/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-image-recognition-solution-iot-edge-cognitive-services/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/create-image-recognition-solution-iot-edge-cognitive-services-social.png",
-          "width": 1280,
-          "height": 640,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-implement-application-allowlists-with-adaptive-application-control.md",
       "title": "Create and implement application allowlists with adaptive application control",
       "excerpt": "You'll be able to implement Adaptive application controls within your organization to protect your Windows Server IaaS VMs.",
@@ -142,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
       "length": "PT48M",
       "ratings": {
-        "count": 94,
-        "average": 4.7234044
+        "count": 95,
+        "average": 4.694737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -446,8 +402,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 1113,
-        "average": 4.759209
+        "count": 1114,
+        "average": 4.7594256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -652,8 +608,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-saas-offer-commercial-marketplace/",
       "length": "PT34M",
       "ratings": {
-        "count": 44,
-        "average": 4.8636365
+        "count": 45,
+        "average": 4.866667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1076,49 +1032,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-data-classification-and-data-protection.md",
-      "title": "Intro to Microsoft data classification and data protection",
-      "excerpt": "Learners will be able to describe Microsoft Information Protection and Azure Information Protection as well as how to use sensitivity labels to classify and protect data. Learners should also be able to describe technologies such as unified labeling scanners, Cloud App Security, service encryption and Office 365 Message Encryption.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-data-classification-and-data-protection/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-microsoft-data-classification-data-protection/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 25,
-        "average": 4.92
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-debug-nodejs.md",
       "title": "Interactively debug Node.js apps with the built-in and Visual Studio Code debuggers",
       "excerpt": "Learn how to efficiently debug your Node.js app by using Visual Studio Code to fix your bugs quickly. Use the interactive debugger within Visual Studio Code to analyze and fix your JavaScript/TypeScript applications.",
@@ -1282,6 +1195,92 @@
         "Azure",
         "DevOps",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-azure-resources-bicep.md",
+      "title": "Deploy Azure resources by using Bicep templates",
+      "excerpt": "Learn how to create Bicep templates and create reusable infrastructure as code.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-azure-resources-bicep/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-resources-by-using-bicep-templates/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 51,
+        "average": 4.882353
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/bicep/deploy-azure-resources-by-using-bicep-templates-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
+      "title": "Deploy Azure SQL Database",
+      "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 2250,
+        "average": 4.788889
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-azure-sql-database-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

@@ -4,48 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-branch-merge-git.md",
-      "title": "Edit code through branching and merging in Git",
-      "excerpt": "Level up your Git knowledge by learning about how to keep code separate using branches and how to merge them later",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-branch-merge-git/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/branch-merge-git/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 1372,
-        "average": 4.7332363
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/branch-merge-git-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-app-with-scale-sets.md",
       "title": "Build a scalable application with virtual machine scale sets",
       "excerpt": "Enable your application to automatically adjust to changes in load while minimizing costs with virtual machine scale sets.",
@@ -53,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 6804,
-        "average": 4.7313347
+        "count": 6805,
+        "average": 4.731374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -134,8 +92,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/collaborate-with-git/",
       "length": "PT55M",
       "ratings": {
-        "count": 1237,
-        "average": 4.7647533
+        "count": 1238,
+        "average": 4.7649436
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -298,8 +256,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 5385,
-        "average": 4.645311
+        "count": 5386,
+        "average": 4.6453767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +301,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft/",
       "length": "PT31M",
       "ratings": {
-        "count": 627,
-        "average": 4.8118024
+        "count": 628,
+        "average": 4.812102
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -725,8 +683,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 597,
-        "average": 4.6381907
+        "count": 598,
+        "average": 4.638796
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -768,8 +726,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 5617,
-        "average": 4.758946
+        "count": 5618,
+        "average": 4.758989
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1146,8 +1104,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 3412,
-        "average": 4.7813597
+        "count": 3413,
+        "average": 4.780838
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1257,6 +1215,48 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-microsoft-cloud-adoption-framework-for-azure-v1-1.md",
+      "title": "Microsoft Cloud Adoption Framework for Azure",
+      "excerpt": "Learn how to use the Cloud Adoption Framework to develop best practices for cloud adoption in real-world scenarios.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-microsoft-cloud-adoption-framework-for-azure-v1-1/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 2464,
+        "average": 4.7487826
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/microsoft-cloud-adoption-framework-for-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

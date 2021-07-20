@@ -4,92 +4,6 @@
   "page": 33,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-deploy-azure-resources-bicep.md",
-      "title": "Deploy Azure resources by using Bicep templates",
-      "excerpt": "Learn how to create Bicep templates and create reusable infrastructure as code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-azure-resources-bicep/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-resources-by-using-bicep-templates/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 51,
-        "average": 4.882353
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/bicep/deploy-azure-resources-by-using-bicep-templates-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
-      "title": "Deploy Azure SQL Database",
-      "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-azure-sql-database/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 2250,
-        "average": 4.788889
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-azure-sql-database-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-deploy-backend-apis.md",
       "title": "Deploy serverless APIs with Azure Functions, Logic Apps, and Azure SQL Database",
       "excerpt": "In the language of your choice (Node.js, Python, or .NET), learn how to deploy an Azure Function that adds real-time data to an Azure SQL Database and triggers an Azure Logic App for notifications, all with GitHub Actions for CI/CD.",
@@ -1276,8 +1190,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 1062,
-        "average": 4.548964
+        "count": 1064,
+        "average": 4.547932
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1310,6 +1224,92 @@
         "Azure",
         "Analytics",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-basic-security-capabilities-azure.md",
+      "title": "Describe basic security capabilities in Azure",
+      "excerpt": "Describe basic security capabilities in Azure",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-basic-security-capabilities-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 247,
+        "average": 4.866397
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-basic-security-capabilities-in-azure-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies.md",
+      "title": "Describe high availability and disaster recovery strategies",
+      "excerpt": "Plan appropriate HA/DR strategy based on RTO and RPO. Choose best solution for IaaS or PaaS deployments or hybrid workloads.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-high-availability-disaster-recovery-strategies/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 136,
+        "average": 4.7867646
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-high-availability-and-disaster-recovery-strategies-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

@@ -4,92 +4,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-describe-basic-security-capabilities-azure.md",
-      "title": "Describe basic security capabilities in Azure",
-      "excerpt": "Describe basic security capabilities in Azure",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-basic-security-capabilities-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 246,
-        "average": 4.865854
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-basic-security-capabilities-in-azure-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies.md",
-      "title": "Describe high availability and disaster recovery strategies",
-      "excerpt": "Plan appropriate HA/DR strategy based on RTO and RPO. Choose best solution for IaaS or PaaS deployments or hybrid workloads.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-high-availability-disaster-recovery-strategies/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 136,
-        "average": 4.7867646
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-high-availability-and-disaster-recovery-strategies-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-describe-performance-monitoring.md",
       "title": "Describe performance monitoring",
       "excerpt": "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis.",
@@ -270,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-capabilities-of-azure-sentinel/",
       "length": "PT18M",
       "ratings": {
-        "count": 229,
-        "average": 4.8908296
+        "count": 230,
+        "average": 4.8869567
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1315,6 +1229,92 @@
         "Azure",
         "Management Tools",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-discuss-core-azure-architectural-components.md",
+      "title": "Discuss core Azure architectural components",
+      "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-discuss-core-azure-architectural-components/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discuss-core-azure-architectural-components/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Discuss core Azure architectural components",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-discuss-why-cloud-services.md",
+      "title": "Discuss why cloud services",
+      "excerpt": "Interested in the cloud, but aren't sure what it can do for you? Come explore cloud concepts, the benefits of cloud computing in Azure, and learn how Azure can save you time and money.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-discuss-why-cloud-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discuss-why-cloud-services/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/discuss-why-cloud-services-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Discuss why cloud services",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

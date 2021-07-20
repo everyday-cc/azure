@@ -4,92 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-hub-and-spoke-network-architecture.md",
-      "title": "Centralize your core services by using hub and spoke Azure virtual network architecture",
-      "excerpt": "Design a network architecture in Azure that allows for growth and flexibility, secure isolation of critical resources, low administrative overhead, and communication with on-premises network resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-hub-and-spoke-network-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 1760,
-        "average": 4.6795454
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/hub-and-spoke-network-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-identify-threats-with-azure-security-center.md",
-      "title": "Identify security threats with Azure Security Center",
-      "excerpt": "Master securing your Azure workloads with Azure Security Center. In this module, you’ll discover how to detect and respond to threats with Azure Security Center.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-identify-threats-with-azure-security-center/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-threats-with-azure-security-center/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 833,
-        "average": 4.6938777
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/identify-threats-with-azure-security-center-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-identity-secure-custom-api.md",
       "title": "Secure custom APIs with Microsoft Identity",
       "excerpt": "Learn how to secure a web API with Microsoft identity and how to call it from another application.",
@@ -504,8 +418,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
       "length": "PT53M",
       "ratings": {
-        "count": 1342,
-        "average": 4.6453056
+        "count": 1343,
+        "average": 4.64557
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -711,8 +625,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
       "length": "PT26M",
       "ratings": {
-        "count": 319,
-        "average": 4.7899685
+        "count": 320,
+        "average": 4.790625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -833,8 +747,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 3852,
-        "average": 4.654206
+        "count": 3853,
+        "average": 4.654036
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1257,6 +1171,92 @@
         "Azure",
         "DevOps",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-move-data-with-azure-data-box.md",
+      "title": "Move large amounts of data to the cloud by using Azure Data Box family",
+      "excerpt": "Learn how to move large amounts of data to the cloud by using Azure Data Box devices.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-move-data-with-azure-data-box/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 1814,
+        "average": 4.743109
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/move-data-with-azure-data-box-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-optimize-basketball-player-rest-breaks.md",
+      "title": "Create a web app that uses data to make decisions on the basketball court",
+      "excerpt": "Create a web app by using JavaScript, Azure, GitHub, and Visual Studio Code to help the Tune Squad coach use data to make decisions on the basketball court, inspired by SPACE JAM: A NEW LEGACY.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-basketball-player-rest-breaks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-basketball-player-rest-breaks/",
+      "length": "PT1H5M",
+      "ratings": {
+        "count": 425,
+        "average": 4.8211765
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/optimize-basketball-player-rest-breaks-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

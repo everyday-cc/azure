@@ -4,51 +4,6 @@
   "page": 50,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-threat-modeling-secured-environment.md",
-      "title": "Add an application to your Privileged Access Workstation (PAW) securely with threat modeling",
-      "excerpt": "Learn how to threat model a client application for security risks and find ways to reduce or eliminate them before installing it into a secured environment.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-threat-modeling-secured-environment/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-modeling-secured-environment/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-threat-response-sentinel-playbooks.md",
       "title": "Threat response with Azure Sentinel playbooks",
       "excerpt": "Provide an introduction to implementing threat response with Azure Sentinel playbooks.",
@@ -56,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/",
       "length": "PT52M",
       "ratings": {
-        "count": 23,
-        "average": 4.9130435
+        "count": 24,
+        "average": 4.9166665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -570,8 +525,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
       "length": "PT18M",
       "ratings": {
-        "count": 1187,
-        "average": 4.730413
+        "count": 1188,
+        "average": 4.73064
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1255,7 +1210,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-classification-machine-learning/",
       "length": "PT52M",
       "ratings": {
-        "count": 3,
+        "count": 4,
         "average": 5.0
       },
       "provider": {
@@ -1288,6 +1243,49 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-understand-data-warehouse-developer-features-of-azure-synapse-analytics.md",
+      "title": "Understand data warehouse developer features of Azure Synapse Analytics",
+      "excerpt": "Understand data warehouse developer features of Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-understand-data-warehouse-developer-features-of-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-data-warehouse-developer-features-of-azure-synapse-analytics/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 81,
+        "average": 4.4938273
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/understand-data-warehouse-developer-features-of-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],

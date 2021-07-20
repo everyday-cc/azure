@@ -4,92 +4,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-discuss-core-azure-architectural-components.md",
-      "title": "Discuss core Azure architectural components",
-      "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-discuss-core-azure-architectural-components/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discuss-core-azure-architectural-components/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Discuss core Azure architectural components",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-discuss-why-cloud-services.md",
-      "title": "Discuss why cloud services",
-      "excerpt": "Interested in the cloud, but aren't sure what it can do for you? Come explore cloud concepts, the benefits of cloud computing in Azure, and learn how Azure can save you time and money.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-discuss-why-cloud-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discuss-why-cloud-services/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/discuss-why-cloud-services-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Discuss why cloud services",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-distinguish-types-cloud-models.md",
       "title": "Distinguish types of cloud models",
       "excerpt": "There are three different cloud deployment models: Public Cloud, Private Cloud, and Hybrid Cloud. This module will enable you to decide how to work with different types of cloud deployments.",
@@ -446,8 +360,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-operations/",
       "length": "PT44M",
       "ratings": {
-        "count": 422,
-        "average": 4.815166
+        "count": 423,
+        "average": 4.815603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -902,8 +816,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
       "length": "PT30M",
       "ratings": {
-        "count": 345,
-        "average": 4.826087
+        "count": 346,
+        "average": 4.8265896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1274,6 +1188,92 @@
       "topics": [
         "Azure",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-exchange-online.md",
+      "title": "Explore Exchange Online",
+      "excerpt": "Explore Exchange Online",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-exchange-online/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-exchange-online/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 78,
+        "average": 4.794872
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/exchange-online-explore-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr.md",
+      "title": "Explore IaaS and PaaS platform tools for high availability and disaster recovery",
+      "excerpt": "Deploy Windows Server Failover Cluster and AGs in Azure and hybrid environments. Configure temporal tables, geo-replication and auto failover groups.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-iaas-paas-platform-tools-for-high-availability-disaster-recovery/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 115,
+        "average": 4.669565
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-iaas-and-paas-platform-tools-for-ha-dr-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],
