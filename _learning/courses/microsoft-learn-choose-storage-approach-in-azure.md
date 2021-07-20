@@ -8,7 +8,7 @@ length: PT30M
 ratings:
   count: 15912
   average: 4.698781
-heat: 64
+heat: 65
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Storage
   - Databases
 
-secured: "iSDRkfHQyi07h9qDZAwxARRxJJV8kefoQuOcprMyKoz/FtbXYL7IVVodhUlNhXdNEXTJxDr2MptvIpw35rcTZmC4XUXinLeWHaGcZW6eCfSblxrD7OpAiaNbO+83V7eI1Lvy4bjbEPKEdoHAGOnHSRTTKosjJJnOfUhzaEKkBUMEz+H36F96t0F2L1geWRoGYKHuZRV8gyX294EuvWoq+bvl7TgxmCsj9Dv5QWgamp+ka6KdM5LIQU9H2uOFokb3fg6v+jhbDX54xolzxTTD0Lf2864hfGyKax5lqcE7qwiiDWHwvneYgMnUd2nE0C8BKvruLfgCtfRXKngbfhfdG/2v8Y6wqmI6nxH02ZOZhDHScd7osdb/4tafg/9aVsNCFcz2ET7Dv8tX/EdSFCaeBDGS1haG0rfz6ck/llHdd9h7+Tx0zIrdA3KMC/7nxZ8P;YjbZZ+cAGUX3TQQGnUZ8jA=="
+secured: "kj1h0bgOaQxcMgBUsUNmPgZuiRwB93rlzPV3WxKFLrNYetKNcOePzIsyYKpy5c3DrZDYBZ3ecfacPYzuhGJF/NJOwqxF3csSUxLcUShE58JfYh3BtAQ9iUIs+5mN27IU3aVi7DGQOHTVE+QXSZZ4ZuGqQ/HawgG1EQB9n/2eCNA6Go8v1hh9xN2Y7h41ey/6tkgBFwu/ls2SFq5tuQEMyXlyVzrOcx0sSaUmQfVTXOdyGwU+/K21cQSPVrvBh9WqGXg3YrZ/T1YahDZTE/R7by6BR88hx90hcZne1wbnc1OeQuh4AXssohKHYPws1GNz7Tv0xA0R4Dvu5zWox0r/XqM1p7Nd278+7dQbS6diiVuy8I9Y7DKlwYXUgIN9x4briqllU+X60GhfKJ/daNOVTfKb5RNFOmKzXwJ0haI6QkwqNSrXOuhEEf5XMfXJm7tr;ZNqlBPya/9S4xY34J4G4NQ=="
 ---
 

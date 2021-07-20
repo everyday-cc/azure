@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 134,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-modern-os-deployment-and-feature-updates-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/prepare-for-windows-virtual-desktop-social.png",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/deploy-windows-virtual-desktop-social.png",
@@ -263,8 +263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-desktop-deployment-azure-firewall/",
       "length": "PT1H18M",
       "ratings": {
-        "count": 30,
-        "average": 4.9666667
+        "count": 31,
+        "average": 4.967742
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -281,12 +281,54 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-desktop-deployment-azure-firewall-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-business-continuity-disaster-recovery-azure-virtual-desktop.md",
+      "title": "Business Continuity and Disaster Recovery for Azure Virtual Desktop",
+      "excerpt": "Microsoft Azure Virtual Desktop is a cloud service that enables you to provide users with a secure remote desktop from anywhere. By using Azure Virtual Desktop, you can plan appropriate Business Continuity and Disaster Recovery (BCDR) strategies to sustain both unplanned and planned failures and to provide redundancy.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-business-continuity-disaster-recovery-azure-virtual-desktop/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/business-continuity-disaster-recovery-azure-virtual-desktop/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/business-continuity-disaster-recovery-azure-virtual-desktop-social.png",
+          "width": 1280,
+          "height": 640,
           "isCached": true
         }
       ],

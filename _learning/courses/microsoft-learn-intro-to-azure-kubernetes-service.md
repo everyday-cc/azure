@@ -8,7 +8,7 @@ length: PT25M
 ratings:
   count: 4922
   average: 4.645063
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "jCddcqsHhQ4TJBxTwjooPlSyPjVhjp92okNpKe/d7O7IEzPECfbzAlM/flXngloYbvewY76+DIcxi4e3sG/4+dqAR1egRPpZy+IPzFUP6PHndVFX1Ej9MBrIdxbJe5a9+I5LRcnyieRjOAj/sT0c46CzGb4TXIhrLgyQA3kGv+HUAYdoLHXLZtlWBg2myYy4rjABglzFgn3cnmv6Nx8aKGI8RfJHkY4ZjIutAHeevyZQ+ucHkebMoiWkiAURxzMJbtCLxbLureeeBsc/df4LFjtKanod6sH9oaNupDKrSHeJvtNOoiGboZnHCjNQRm+JgnlJAS1bmZ5HeV5I0gqqm4rx3JPXE9yEKZYpcLRhxHjJmBx3qJZcALpCmNjY0BZIgMYJ+emIt3RwuYw+vM5yyrm6dCH7HX5dBKAqTyPiO00=;tkiuL6f178m1sQHWnk+F/g=="
+secured: "Q1jdmR/iix3LaHwMwAcc62KpxogCPVlL9em3KpsbpEE8akcEGCiWurILRHlIElS46GDUmreeSHmrBhXAhlNzjnb4KRSkt7rFeZgkLsBXd+tIzZIbi33sDU6k9rTbWli5x3nvarT4Vx/StELEWNY/DGQXuBfn01QKTg7YQTn5MFqCsU5zvPyRzXr46anwRGlJuzz9X2CM52K3WuEenPTP52zmchKY2QQrq0c7XfEpWi63w8icprUlk0kr10h8gJgxqsBaq5YRfgBaob8/lhxtfVph3Bue+3oJsPKKkFvYXJ7u7PDOEK6laplR6Y+65Tuhe5hYImLF6zCKXQM3U7QpAcBjHTXHqQ2eBfQqUdC+i8Sa3ySCy/p+Qz5N9II3UxM9RtgvUbe503mDgpRzj7XY2ENn9B0Atid/QvCxIbHGXLU=;PmCX0OVDboWFzmWpoMaqow=="
 ---
 

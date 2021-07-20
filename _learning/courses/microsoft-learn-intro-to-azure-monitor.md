@@ -8,7 +8,7 @@ length: PT49M
 ratings:
   count: 25
   average: 4.84
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - DevOps
   - Management Tools
 
-secured: "jKlMMOgPGgybWwdN7QDFTpQcet75xJy2rbyOVzRcGClgXPILnsq0rvfpTVB705nHyO9x+bYjLGwYEqpbWO3OwDSDHNGnhpZ/qFOAhHn4iJknWpzT7h4nKUYHf9Fl0cqhZOygL65ySinwQw4VVKId5LWvD6zfHOuJyDctTwLQbU46+zGBLtENS/JsyVkzDU/MsMeaLz9i+OBkaqGTi+fDDMCaLC7f75Oew49g/jItxpIeILO+04eI3h4UKHBWfox/CJ1X9rf4D0Ls59aQ6Cng6KmO15H5kSCeWT4R5WH8oP897i4cZPpVv3nBstQDMzlwJT/4c6OUkr7jAljfY/RQ4EIRvOnKao6WitsS6yraBGPfRXNJc8nYwgHZYCPslRJ5+8ILQ4+Fv5aDO0lJpntdRqmmAnETCXxuqJNDrL6i4uI=;ZGFTebaPvGZVvakKFE1fLA=="
+secured: "2TTDpSQwJ2kfkn/0DkMXt4nfgJqlBhubT2WbLOtUW/R0762YQyJCQ64qyccVOG8C4/epB3WhG1AwKmePrJnKphovpZqv8NDmIdJxSG3puiwOwaezbwyrKO0I+CHqBOpFmagPbxz3B9OvlFCeceMTDOpcFFukcyU5TYKqBoGMZyMDz3/TT3MCiloGfr9efB72rSqNLSzrrA9uiN6bGlA5IkKT459CQ0EkvyqNHji+ibdBnkvnfXQBkRrH9Zyq2zgACTiWrI5bo8P5fL/HigLiize6PWLDUvNnpq+Tm0zokq9/tFPCqzGXjmEQtU1RELH0WEdjFeZY6EyGXOTZSPP3Y1a21xQdKq2WUU767zTROMvHoXo8DntxSm762lkr5wdiSeiwd7vVx+BH4WtYgsHLYB09xi6vOiTTMW9RcTezrJc=;22yfJPfFN5S9ARP7fZIqSw=="
 ---
 
