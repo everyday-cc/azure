@@ -49,6 +49,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Microsoft Announces the Public Preview of Disk Pool for Azure VMware Solution"
+    excerpt: "Microsoft recently announced the preview of disk pool enabling Azure Disk Storage as a persistent storage option for Azure VMware Solution - a vSAN hyper-converged vSphere cluster. With this persistent storage option,"
+    publishedDateTime: 2021-07-20T11:04:00Z
+    webUrl: "https://www.infoq.com/news/2021/07/diskpool-azure-vmware-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 34
+    images:
+      - url: "https://cdn.infoq.com/statics_s1_20210719065553/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zRgwS95HJ9qzNV/1pFdjVjB1ERDmjTcxqzDriEEV4yYymjFai4i6U5JVIM/orSU59NQoM6WwMyk47vWQj/3RMrv14qs+9lE6czBcWzToBXTKTk7Ax2w9q60aNaIkIL2/1Hln8d/RD1WukmZ9kW8CJwx1QzuFUc47mFiKM4cEOFgE7JcwNxQENymT5v0GtpFYa7qf464qdRGtbpPtSaC2xlrIrBZ9J8iPhS8kmrya2b/KEUBhaM6qviTnSZGkyKoAQxQyDxjegadg37+nD3qnTlgutZovC/1AD37XNulHgaF2AtYkHehiuGS+4IeSXMbRF2v1MZTX8uMbB3/t0L6KiU0HciihdOLrb/eIhvMEGr0=;pl9QGylImUUfag8YIJe2nw=="
 ---

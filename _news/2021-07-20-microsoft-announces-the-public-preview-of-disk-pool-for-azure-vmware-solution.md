@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Azure VMware Solution now generally available in the Australia Southeast region"
-excerpt: "Azure VMware Solution has expanded availability to Australia Southeast. With this release Australia Southeast is now the second region within the Australian sovereign area to become available (joining Australia East). "
-publishedDateTime: 2021-07-16T19:48:07Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-australia-southeast-region/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-australia-southeast-region/"
+title: "Microsoft Announces the Public Preview of Disk Pool for Azure VMware Solution"
+excerpt: "Microsoft recently announced the preview of disk pool enabling Azure Disk Storage as a persistent storage option for Azure VMware Solution - a vSAN hyper-converged vSphere cluster. With this persistent storage option,"
+publishedDateTime: 2021-07-20T11:04:00Z
+originalUrl: "https://www.infoq.com/news/2021/07/diskpool-azure-vmware-preview/"
+webUrl: "https://www.infoq.com/news/2021/07/diskpool-azure-vmware-preview/"
 type: article
-quality: 63
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://cdn.infoq.com/statics_s1_20210719065553/styles/static/images/logo/logo-big.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Deliver scalable, cost-effective Disk Storage for Azure VMware Solution"
@@ -49,21 +51,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Microsoft Announces the Public Preview of Disk Pool for Azure VMware Solution"
-    excerpt: "Microsoft recently announced the preview of disk pool enabling Azure Disk Storage as a persistent storage option for Azure VMware Solution - a vSAN hyper-converged vSphere cluster. With this persistent storage option,"
-    publishedDateTime: 2021-07-20T11:04:00Z
-    webUrl: "https://www.infoq.com/news/2021/07/diskpool-azure-vmware-preview/"
+  - title: "Azure VMware Solution now generally available in the Australia Southeast region"
+    excerpt: "Azure VMware Solution has expanded availability to Australia Southeast. With this release Australia Southeast is now the second region within the Australian sovereign area to become available (joining Australia East). "
+    publishedDateTime: 2021-07-16T19:48:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-australia-southeast-region/"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 34
-    images:
-      - url: "https://cdn.infoq.com/statics_s1_20210719065553/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
 
-secured: "wmWWy22WhlJvacaTkh4SPwVNOY6CXe0UGG3BVsTge3uccUwCVH0rwssy3EuHyDMkZljfAbd5kT7nbXWHQxs0f3DAtCXhYdF3nrg8pb3hI/IEoneE/T0vyqdFvCKOtlcsqu0SeAg4E2MQzqSZ9RlX7+ZX1g9c4gZbGdVMNPDoicy/WD/EWrmopVNcek9F2UEEe/coo83Xniov5lMLF/83Zl72KreG0Nx9QuScFgR3o62AoHQ4UAHgulSvAFY+U7Cjyo4K8j9cR1zTmn/xEaerQwoSBlIoC6sOX2XO738+3FcvczA1zMoUH7oJtOcw7TWwo0ZIATQL4cVPeO21DPSBHJR4FwcPBPMKiSuaXgt4TlA=;KlR00QLCEGzmcdNfRmHvog=="
+secured: "6X3sH9/NbEPWxYh9GhW4pFfxiZZ/cWbB4qlwOUZ1UiE9Au84SyQDV4ymog3ednFOvHRCJRrHMbG9rQh9xYAWPlCqOyy61s9mUy7gxGl2dgD98v4OE0iPci/ocaBi+7P9JP789yjBdjp8TIu3br+xdt5FzDwgsSyimBN2EvUcQXE77AJz9gzwXg1MoCl38X+zvkfUjZ+VVnE5eV5Foc/SBwJFtrI74Laik03+ms9cTzq+VCqG565zhwTAJqwvCHyW46gSfNb7IWFUo1fFQi8NcIXY/IRjEi2CZZe+T5nfKeV5RZDecKFaIk8oNsmi1ycrqnDLnFYWcBq8TzhOfKwQmWfleNB+PICpQsavUmF04bg=;x4yl+4oOpqQ3/JQcdb7XFw=="
 ---
 

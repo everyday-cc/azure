@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/deliver-scalable-costeffective-di
 webUrl: "https://azure.microsoft.com/blog/deliver-scalable-costeffective-disk-storage-for-azure-vmware-solution/"
 type: article
 quality: 88
-heat: 148
+heat: 168
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Microsoft Announces the Public Preview of Disk Pool for Azure VMware Solution"
+    excerpt: "Microsoft recently announced the preview of disk pool enabling Azure Disk Storage as a persistent storage option for Azure VMware Solution - a vSAN hyper-converged vSphere cluster. With this persistent storage option,"
+    publishedDateTime: 2021-07-20T11:04:00Z
+    webUrl: "https://www.infoq.com/news/2021/07/diskpool-azure-vmware-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 34
+    images:
+      - url: "https://cdn.infoq.com/statics_s1_20210719065553/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VgPMoNHRonpoDwttnqfoCj3D70N7h7XblRQPTSlq7FAmCbWDS3S73ewZUAidkZy370jPETLff3k4JrLbxU3rmuks9BA/u6pntQhUVNduIj5MHETvE3dVFDVBFhIment6Jc54C9sblml58OOHGbxmGz3cZGXvZK1ZKsSdkogSOmz5duW/1Ecl+qOnSo0m0XkmZ1pG3mj6gOfTZXyPIDf34O5waXT2VkPOeyVwdoYg9gJqi9QDl/uibUItAGstS3u4mn39P37bY00vLtGu0gLWqqU77r4H9dBsEOZ0mKQKstFytp/YNWcMOwrk2zIb+yiql7HnnqCrnFolh4Z1N508SCtzRyFqRNgiqlnRdIdJiCw=;JpOML1kSYtvYyTcEX+wQRQ=="
 ---
