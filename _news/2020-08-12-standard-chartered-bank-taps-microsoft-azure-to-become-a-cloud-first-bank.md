@@ -1598,6 +1598,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "NIH expands biomedical research in the cloud with Microsoft Azure"
+    excerpt: "To date, researchers have used more than 83 million hours of computational resources to access and analyze more than 115 petabytes of high-value biomedical data in the cloud."
+    publishedDateTime: 2021-07-20T15:02:00Z
+    webUrl: "https://www.nih.gov/news-events/news-releases/nih-expands-biomedical-research-cloud-microsoft-azure"
+    type: article
+    provider:
+      name: National Institutes of Health
+      domain: nih.gov
+    quality: 37
+    images:
+      - url: "https://www.nih.gov/sites/default/files/news-events/news-releases/2021/20210720-cloud.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z

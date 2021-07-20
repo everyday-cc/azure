@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
-excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
-publishedDateTime: 2020-05-19T15:02:00Z
-webUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/"
-ampWebUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
-cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
+title: "NIH expands biomedical research in the cloud with Microsoft Azure"
+excerpt: "To date, researchers have used more than 83 million hours of computational resources to access and analyze more than 115 petabytes of high-value biomedical data in the cloud."
+publishedDateTime: 2021-07-20T15:02:00Z
+originalUrl: "https://www.nih.gov/news-events/news-releases/nih-expands-biomedical-research-cloud-microsoft-azure"
+webUrl: "https://www.nih.gov/news-events/news-releases/nih-expands-biomedical-research-cloud-microsoft-azure"
 type: article
-quality: 34
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: MSPoweruser
-  domain: mspoweruser.com
+  name: National Institutes of Health
+  domain: nih.gov
 
 topics:
   - Azure
 
 images:
-  - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
-    width: 918
-    height: 516
+  - url: "https://www.nih.gov/sites/default/files/news-events/news-releases/2021/20210720-cloud.jpg"
+    width: 1200
+    height: 675
     isCached: true
-    title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1605,20 +1603,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "NIH expands biomedical research in the cloud with Microsoft Azure"
-    excerpt: "To date, researchers have used more than 83 million hours of computational resources to access and analyze more than 115 petabytes of high-value biomedical data in the cloud."
-    publishedDateTime: 2021-07-20T15:02:00Z
-    webUrl: "https://www.nih.gov/news-events/news-releases/nih-expands-biomedical-research-cloud-microsoft-azure"
-    type: article
-    provider:
-      name: National Institutes of Health
-      domain: nih.gov
-    quality: 37
-    images:
-      - url: "https://www.nih.gov/sites/default/files/news-events/news-releases/2021/20210720-cloud.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -1657,6 +1641,22 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/54157/content/Quantum_Computer.jpg"
         width: 708
         height: 471
+        isCached: true
+  - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
+    excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
+    publishedDateTime: 2020-05-19T15:02:00Z
+    webUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/"
+    ampWebUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 34
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
+        width: 918
+        height: 516
         isCached: true
   - title: "Carahsoft Brings Microsoft Azure to Its Public Sector Customers and Partners"
     excerpt: "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced that Microsoft Azure services"
@@ -2192,6 +2192,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "eNO4FoRofTlVmp8QzF8mvD4ATp+B9WvENd5i7Pq8t8CLX5V5AR2J16Caf2S8dPkQWfq+/qzWNXtrYuhTUNx30v6TqjOjwbJST2OqFLyhW12o6cVW0JvQhIzkaV8eK1vNmt+/n2BetuQZKPfk2oPLLgiL4QPOeS1/b07gMFqTYOb3jW3xLacLMk+7+/d4Wca1U7C2V4ifZ8hYQ5wpb1IIlJdf6MMWemG12SjQUp85fWO5wuvtO/QPLc6SKIKi5/mV6rkr2YiLLxxR215O1YOXR82HCc33wcUXaMgUh8mHJdiobemBrTjDYIXxQpcj3VuEJd/kuRXo8cyBw0W2juI6qlQFhabObetYhY663Pdpqrdl3hfen/2ty++Y2t96LVd2QAmpZLjnXzWEjKIfP5lzq0NnXAC7+cqMZh3eD2sy9fuKGBXH18u+LWXsGH7hrx3GpGVtiFzgdTTGYSPepmLTJn/YfiPskwPlWU2MOJCKVAI=;vWyx3lkztHBIHI9441W9wQ=="
+secured: "n7wLlDHo3rIhgD+AioweettOIl+phsLlnEpFBCBJKkq8hFBfhtvxf/0U061AZ/eDuUL2TQCTXqRLEDnvulU18hAWdtB203Rz+Cdm0/SHfTmfCZN/IjMhm+FnUGux86HE0Tz5l1nBsK0XW9pj47i585f2xQMxraQS21my3vahc6HRRXiEjGs8nZ2it8WW4XfwXJ09zAd1b1tSRxgsJRQJIU5/vC7UF2sAlji4QAoWPW79+lTYIMsvBtn1Yt5x8npPrYDj9eTr5fKmZOHNbxa5TFwSwMUI6eiNR+5Ly58pK+x4qCyVk6oZfWsHFlMlik814l4uJzQoTb/eVSi21lbt1MZqt0B51tgdvWbVmcaF/d0=;EH+/NafzQrUmdG2IhAUrcw=="
 ---
 

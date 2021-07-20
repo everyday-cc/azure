@@ -40,6 +40,20 @@ related:
         width: 800
         height: 444
         isCached: true
+  - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
+    excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
+    publishedDateTime: 2021-07-20T15:50:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 22
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Inspire 2021: Microsoft announces a new industry cloud: The Microsoft Cloud for Sustainability"
     excerpt: "Inspire conference, Microsoft is going big on sustainability. The company announced a new cloud offering to help address sustainability needs"
     publishedDateTime: 2021-07-14T15:02:00Z

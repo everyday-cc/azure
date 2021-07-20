@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Inspire 2021: Microsoft announces a new industry cloud: The Microsoft Cloud for Sustainability"
-excerpt: "Inspire conference, Microsoft is going big on sustainability. The company announced a new cloud offering to help address sustainability needs"
-publishedDateTime: 2021-07-14T15:02:00Z
-originalUrl: "https://www.onmsft.com/news/new-microsoft-cloud-for-sustainability-inspire"
-webUrl: "https://www.onmsft.com/news/new-microsoft-cloud-for-sustainability-inspire"
+title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
+excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
+publishedDateTime: 2021-07-20T15:50:00Z
+originalUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
+webUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
 type: article
-quality: 10
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: On MSFT
-  domain: onmsft.com
+  name: IT Business Edge
+  domain: itbusinessedge.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.onmsft.com/wp-content/uploads/2021/06/windowsclouds.jpg"
-    width: 1024
-    height: 768
+  - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -40,20 +40,6 @@ related:
         width: 800
         height: 444
         isCached: true
-  - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
-    excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
-    publishedDateTime: 2021-07-20T15:50:00Z
-    webUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 22
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
     publishedDateTime: 2021-07-20T08:11:00Z
@@ -68,7 +54,21 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "Inspire 2021: Microsoft announces a new industry cloud: The Microsoft Cloud for Sustainability"
+    excerpt: "Inspire conference, Microsoft is going big on sustainability. The company announced a new cloud offering to help address sustainability needs"
+    publishedDateTime: 2021-07-14T15:02:00Z
+    webUrl: "https://www.onmsft.com/news/new-microsoft-cloud-for-sustainability-inspire"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 10
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/06/windowsclouds.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
-secured: "fGoX/x5JzH1wDXHjcLauC1KVPUhQjqIJ0KF3idL+a2gQPn/Unh22DeQVtTFkuqIwlNn9PslcSae3mMVBXlfOuNWvHA5zoLq/EDQyDsbwLy7crzAc1odi4fuMQmd2OEgJLE17uupJBlWI7H/TCbyy5oLutXjlAAp+CqHIA5QqzpYSrAuWKcFSN3kqIY10HLUYH4IZazddSz9VZNsJarxSAXJITbBr85PYHGn5eU2SQoTbcYKS11d7NkpC0uCjkB0gWWP1jgNEGi/HHfCvn9nyxDczJIfraLI5T3xr5MsFxdfFy/fFKUY6ThyI6hbTyjIsH2Z6jslteDogIUqIdOUj5bfy+ECZuR5FVlmlM9jZbLU=;6asSdxTcwyfOkRyWLXEK+w=="
+secured: "hAoYxdL8IsSODsngFZ/uTM2olHzWccSwkP60dCOIqU3sE/Qv8G34ojSXSYnUR6AcxiGqA5Cb9ra/ZbA63VivOAFrArfyowwvbmzVbWGuyQxDFzOWLFNKJyGaS0OvE1s3olbOAF/WQn0hT8Vz8ubqmNGXDBcvzbMPdL0S2/aXsSj4pcWh4ogVIcg3M0VyX4zO8kPjs8NQ1WcRBHtl77/ty/fNCT+jaB6VEWKqx1Gt0Utm8yvjPM/F8wAPsPOvb8HLEpZPSGZd7J4/ezHb1myWjqZCK7NCbBuWtdD1kxgXVH5JWn9Bak/7AmoMN2Tu40Qog7ekvRgys39hssipMSFrAkeBHIZ5Q28EiYWUA+zRXvw=;mV+ilV7ud95+p1bb+Gox9A=="
 ---
 
