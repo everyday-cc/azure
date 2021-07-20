@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
+  - title: "Azure VMware Solution now generally available in the Canada East region"
+    excerpt: "Azure VMware Solution has expanded availability to Canada East. With this release Canada East is now the second region within the Canadian sovereign area to become available (joining Canada Central). "
+    publishedDateTime: 2021-07-19T23:43:44Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-canada-east-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure VMware Solution now generally available in the Australia Southeast region"
     excerpt: "Azure VMware Solution has expanded availability to Australia Southeast. With this release Australia Southeast is now the second region within the Australian sovereign area to become available (joining Australia East). "
     publishedDateTime: 2021-07-16T19:48:07Z

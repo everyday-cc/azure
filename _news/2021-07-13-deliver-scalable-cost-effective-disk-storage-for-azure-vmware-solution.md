@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/deliver-scalable-costeffective-di
 webUrl: "https://azure.microsoft.com/blog/deliver-scalable-costeffective-disk-storage-for-azure-vmware-solution/"
 type: article
 quality: 88
-heat: 128
+heat: 148
 published: true
 
 provider:
@@ -29,6 +29,15 @@ related:
     excerpt: "With disk pool, Azure VMware Solution customers can now access Azure Disk Storage for high-performance, durable block storage. Customer can scale their storage independent of compute and handle their growing data needs more cost-effectively."
     publishedDateTime: 2021-07-13T16:00:16Z
     webUrl: "https://azure.microsoft.com/en-us/updates/disk-pool-for-azure-vmware-solution-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure VMware Solution now generally available in the Canada East region"
+    excerpt: "Azure VMware Solution has expanded availability to Canada East. With this release Canada East is now the second region within the Canadian sovereign area to become available (joining Canada Central). "
+    publishedDateTime: 2021-07-19T23:43:44Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-canada-east-region/"
     type: article
     provider:
       name: Microsoft

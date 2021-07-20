@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure VMware Solution now generally available in the Australia Southeast region"
-excerpt: "Azure VMware Solution has expanded availability to Australia Southeast. With this release Australia Southeast is now the second region within the Australian sovereign area to become available (joining Australia East). "
-publishedDateTime: 2021-07-16T19:48:07Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-australia-southeast-region/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-australia-southeast-region/"
+title: "Azure VMware Solution now generally available in the Canada East region"
+excerpt: "Azure VMware Solution has expanded availability to Canada East. With this release Canada East is now the second region within the Canadian sovereign area to become available (joining Canada Central). "
+publishedDateTime: 2021-07-19T23:43:44Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-canada-east-region/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-canada-east-region/"
 type: article
-quality: 63
+quality: 67
 heat: -1
 published: false
 
@@ -40,16 +40,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure VMware Solution now generally available in the Canada East region"
-    excerpt: "Azure VMware Solution has expanded availability to Canada East. With this release Canada East is now the second region within the Canadian sovereign area to become available (joining Canada Central). "
-    publishedDateTime: 2021-07-19T23:43:44Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-canada-east-region/"
+  - title: "Azure VMware Solution now generally available in the Australia Southeast region"
+    excerpt: "Azure VMware Solution has expanded availability to Australia Southeast. With this release Australia Southeast is now the second region within the Australian sovereign area to become available (joining Australia East). "
+    publishedDateTime: 2021-07-16T19:48:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-australia-southeast-region/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 63
 
-secured: "wmWWy22WhlJvacaTkh4SPwVNOY6CXe0UGG3BVsTge3uccUwCVH0rwssy3EuHyDMkZljfAbd5kT7nbXWHQxs0f3DAtCXhYdF3nrg8pb3hI/IEoneE/T0vyqdFvCKOtlcsqu0SeAg4E2MQzqSZ9RlX7+ZX1g9c4gZbGdVMNPDoicy/WD/EWrmopVNcek9F2UEEe/coo83Xniov5lMLF/83Zl72KreG0Nx9QuScFgR3o62AoHQ4UAHgulSvAFY+U7Cjyo4K8j9cR1zTmn/xEaerQwoSBlIoC6sOX2XO738+3FcvczA1zMoUH7oJtOcw7TWwo0ZIATQL4cVPeO21DPSBHJR4FwcPBPMKiSuaXgt4TlA=;KlR00QLCEGzmcdNfRmHvog=="
+secured: "6v4suh5DamH2MKxQtHy/sl+ylhh0LEaXHMYuYgQTU6zqcdKv+640/+MAxdAndyaMKKjzlRgw/ZgiE/r1pCNg+pfAE4wMdkkHL+GxnVC8lYBEjbch7bAlIASX07FIPEYX+ISjBL3JGTc19uc/rPQ5ibyQm4kp7+9JuTyiug4lm/HnlUXgglHMdUwuorzSZaA6EG/r0oBH1qWjUrXghvUcq7z7uQ325rWYJbo5wgNVwWEysJXWhM5KDX/uWiYNnWUk56uLpKBBCia/9zgtyv6uO9MtDmIh6gd+9f6eNmAzS79/+0/9dK32UQa4xm6hqTRmZ+U8QodZhlRv+8BvolWcgRPadJrx1J2mBlhVKc0G/jM=;3GKFP4/ZJ4fScZ3jx49Uwg=="
 ---
 
