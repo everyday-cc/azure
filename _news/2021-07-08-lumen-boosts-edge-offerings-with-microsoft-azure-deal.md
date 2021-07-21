@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
-excerpt: "Studies compare VMs in online transaction processing and data analytics work Durham, NC, July 07, 2021 --(PR.com)-- Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason ..."
-publishedDateTime: 2021-07-07T08:10:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/r21869826/principled-technologies-releases-two-studies-on-the-benefits-of-new-microsoft-azure-vms-featuring-"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/r21869826/principled-technologies-releases-two-studies-on-the-benefits-of-new-microsoft-azure-vms-featuring-"
-ampWebUrl: "https://www.benzinga.com/amp/content/21869826"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21869826"
+title: "Lumen Boosts Edge Offerings with Microsoft Azure Deal"
+excerpt: "Lumen Technologies announced a strategic partnership today with Microsoft involving Microsoft Azure cloud services. Microsoft Azure capabilities will be extended into Lumen’s edge computing infrastructure and each company will become a preferred partner of the other."
+publishedDateTime: 2021-07-07T21:47:00Z
+originalUrl: "https://www.telecompetitor.com/lumen-boosts-edge-offerings-with-microsoft-azure-deal/"
+webUrl: "https://www.telecompetitor.com/lumen-boosts-edge-offerings-with-microsoft-azure-deal/"
 type: article
-quality: 1
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: OTT
+  domain: telecompetitor.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.telecompetitor.com/images/cloud-computing-330x330.jpg"
+    width: 330
+    height: 330
+    isCached: true
 
 related:
   - title: "Microsoft acquires AT&T networking tech to bolster its Azure for Operators strategy"
@@ -296,20 +300,6 @@ related:
         width: 500
         height: 375
         isCached: true
-  - title: "Lumen Boosts Edge Offerings with Microsoft Azure Deal"
-    excerpt: "Lumen Technologies announced a strategic partnership today with Microsoft involving Microsoft Azure cloud services. Microsoft Azure capabilities will be extended into Lumen’s edge computing infrastructure and each company will become a preferred partner of the other."
-    publishedDateTime: 2021-07-07T21:47:00Z
-    webUrl: "https://www.telecompetitor.com/lumen-boosts-edge-offerings-with-microsoft-azure-deal/"
-    type: article
-    provider:
-      name: OTT
-      domain: telecompetitor.com
-    quality: 37
-    images:
-      - url: "https://www.telecompetitor.com/images/cloud-computing-330x330.jpg"
-        width: 330
-        height: 330
-        isCached: true
   - title: "Moving space into the cloud: Q&A with Microsoft Azure Global’s Tom Keane"
     excerpt: "Tom Keane, corporate vice president for Microsoft Azure Global, speaks with SpaceNews about adopting satellite communications, supporting Earth observation and establishing partnerships."
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -464,7 +454,18 @@ related:
         width: 1365
         height: 768
         isCached: true
+  - title: "Principled Technologies Releases Two Studies on the Benefits of New Microsoft Azure VMs Featuring 3rd Generation Intel Xeon Scalable Processors"
+    excerpt: "Studies compare VMs in online transaction processing and data analytics work Durham, NC, July 07, 2021 --(PR.com)-- Organizations supporting Microsoft Azure workloads for online transaction processing (OLTP) or business analytics databases may have reason ..."
+    publishedDateTime: 2021-07-07T08:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/r21869826/principled-technologies-releases-two-studies-on-the-benefits-of-new-microsoft-azure-vms-featuring-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21869826"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21869826"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
-secured: "N+H4empDsspDE+HncZAJ8j4sIdZYrFyR08VXNuUfYumxadh3Bv/Da0KlCtovd7T8R5PZt4HGOkAaQpCVE8hoCEPqsnf1CI26vDCdtCDa8Y2xyYUSrhf/0ra4Omo05AmR4/q9FV2iWq/KIjbaoXM0CcKSEZeUiY/BW+B+BazrunIzZxKpjsx0pjPTRSTdt/X6288hWSmlXtwf4JcqtW/TbSLtxv+TMkVQ0Ee1vHKFgqcr+ggYW5FBzd9U+vGtFtPRdVejgMWKqZjQOtIG+FTpmMYuS0JeGUgl8YMXe9OLpWf70cCCDCDEGpZ2dZKll4dYocGL8uUCq2FNgM83UAG3Bv3ZUQ55w+SJJ/qP+WvNPx0=;uzdMFjGeeCWUtkA7+tGLzw=="
+secured: "Ks/vyu7aSOoxCwneoYnmvnf71x/+KSKpze/Hwms/KsVXfeYHmx7zVm/hcokvgY88+FxOOH0odA9h2bmMXUzYOPjVEJskwEQL0yw3SJSPV4Uye6S350Wy6VqpR6BxzNj6xoU+WI7t9RUPeaFuLJDnLs83ib3ToV0xEjREzDkUi+vVkIpol35DbnQ258zOM29olmtfwRfuVDrxPG6JlHt94c7lpFBC4Qv8Rwpd8CLp7UeLSH4CoPkIt6s98r9NLcIOsOa7/hNbS6SGMRoIf7ibA49nV9q18fTBqMIqpn4qf14yUqn2IbZ5HSsWXUJ313xZ4RPDBOvltTgJmzgSY0y5iwyNoa2bJeVV0DD4mJrkf3M=;AEwQ+lmf5Dyj28K9/4egRQ=="
 ---
 
