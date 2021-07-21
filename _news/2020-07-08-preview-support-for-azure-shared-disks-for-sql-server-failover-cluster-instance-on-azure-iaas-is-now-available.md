@@ -21,20 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Azure SQL Offers Manual Failover for PaaS Resources"
-    excerpt: "Let’s jump to it. High availability is a crucial component for data professionals, even when operating in a cloud environment such as Azure. Thankfully, Microsoft Azure Platform as a Service (PaaS) is architected in a way that offers high availability ..."
-    publishedDateTime: 2020-09-22T11:53:00Z
-    webUrl: "https://www.sqlservercentral.com/blogs/azure-sql-offers-manual-failover-for-paas-resources-2"
+  - title: "Public preview: Forced failover now available with zone redundant high availability for Azure Database for MySQL - Flexible Server"
+    excerpt: "Flexible Server forced failover capability is now available in all zone redundant regions. "
+    publishedDateTime: 2021-04-28T16:02:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-forced-failover-now-available-with-zone-redundant-ha-for-azure-database-for-mysql-flexible-server/"
     type: article
     provider:
-      name: SQL Server Central
-      domain: sqlservercentral.com
-    quality: 37
-    images:
-      - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/07/sidebar-redgate-university_data-platform.png"
-        width: 320
-        height: 320
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
 
 secured: "EB2iSW2PPF5LTcUlXlGlMp+sS1tPbdpZHZ1MViGeBy8zFqRr+AQByKM8kQdPt9E6pyUddcPjPK/KWdCRSn3nf4yUQtqThXUAJuBLzzoCyY8w8pUPjYQ9EqC7XjA5qXqW0hnY55qK79WqtI++WmyM59XzD5NqZmMrUxVsdPQXRcI8r5R86dUuOr3avBYxqIfwwdtdEa+sWXltGwd9U+l+3Ou/AmCx6hT+Xk23Udp61wevlHNgB4wk5KmVm/eGJkr5H9MxjllsAgMvXUjDM18dXkYoHl+7uH4/W9I68vqFVgRyisMMCkW3hCPzoimP4N7Ldlss4gxv0nRdcPV3FD/Seg==;BpjQ+8Uk/MlNbFHr0G+3eg=="
 ---

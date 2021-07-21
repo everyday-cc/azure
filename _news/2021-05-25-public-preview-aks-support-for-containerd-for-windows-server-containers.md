@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-suppo
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-containerd-for-windows-server-containers/"
 type: article
 quality: 83
-heat: 163
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -23,15 +23,24 @@ topics:
   - Containers
 
 related:
-  - title: "Public preview: Support of Azure Container Registry across Availability Zones"
-    excerpt: "Announcing the public preview support of Azure Container Registry across Availability Zones"
-    publishedDateTime: 2020-12-28T17:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-support-of-azure-container-registry-across-availability-zones/"
+  - title: "Public preview: AKS support for Secrets Store Container Storage Interface "
+    excerpt: "Access your secrets securely via the container's file system."
+    publishedDateTime: 2021-05-04T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-secrets-store-container-storage-interface/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
+    quality: 84
+  - title: "Public preview: Stateful and 1-minute frequency log alerts in Azure Monitor"
+    excerpt: "Log search based alerts can now be automatically resolved, and query can be evaluated every minute for faster time to fire."
+    publishedDateTime: 2021-04-28T16:02:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-stateful-and-1minute-frequency-log-alerts-in-azure-monitor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
   - title: "Preview: AKS support for FIPS compliant nodes "
     excerpt: "Azure Kubernetes Service makes it easier for you to achieve FedRAMP compliance by supporting FIPS compliant nodes "
     publishedDateTime: 2021-05-25T16:00:21Z
@@ -41,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Public preview: Application Insight in South India and West Central US "
+    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in the following list of regions South India West Central US."
+    publishedDateTime: 2021-04-28T23:14:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-norway-west-south-india-and-france-south-and-west-central-us/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Public Preview: Form Recognizer container support "
     excerpt: "Announcing the public preview release of Form Recognizer containers. Form Recognizer is now also available in the following docker containers - Layout, Business Card, ID Document, Receipt, Invoice and Custom containers for you to run locally."
     publishedDateTime: 2021-07-06T18:31:41Z
@@ -50,15 +68,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Support for Windows containers Azure Container Networking Interface on Azure Stack Hub coming soon in private preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/support-for-windows-containers-azure-container-networking-interface-on-azure-stack-hub-coming-soon-in-private-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 0
 
 secured: "0YieelC2s3UL+eKOo+gsSp9GVAsTLO1f6kovsU1qz78fz3HBEbrjCs4vVepxzlmDfhf/+fYexToIlL8Stc3ApzzWP0Z+kpTPvnYrEKiVOfawV0DDEEBiwoiZhIgTbneUwTI78adH0nv8aFBu9fWVTgMeYcPiaeqC90dJ+Bs0ctRYCPW2pk/O9lypGpTbqFMi1ST78i+3GoImMsVbUeNeUtbUXKWnRuP4orWhtfOjD0wjR7v7x9WCYgM5z/EtF593ypvYsgN3eRirWStEiJqsO3FwELLhJWk2SsCRyBy9Opb7+m5Busi5PLDucdomFxmCdWuMeWLlVzz86KXIYEXpinbP0C+iFx3HWNu8us3u6bM=;4G+u7WK6YJK0FukFOXENEw=="
 ---

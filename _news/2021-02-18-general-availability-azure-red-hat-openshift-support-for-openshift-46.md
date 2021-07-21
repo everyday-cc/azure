@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
 type: article
 quality: 67
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - Azure
 
 related:
-  - title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
-    excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
-    publishedDateTime: 2021-04-29T15:40:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
   - title: "General availability: Web Application Firewall for Azure Front Door managed ruleset refresh"
     excerpt: "Use Microsoft_DefaultRuleSet_1.1 to protect your web applications from OWASP top 10 vulnerabilities."
     publishedDateTime: 2021-02-19T18:54:37Z

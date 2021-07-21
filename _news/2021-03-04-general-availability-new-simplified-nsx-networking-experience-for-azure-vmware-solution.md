@@ -555,6 +555,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 42
+  - title: "General availability: Python Functions now support custom telemetry in Application Insights"
+    excerpt: "Azure Monitor is releasing a new PyPI package that expands distributed tracing support in Application Insights for Python Functions."
+    publishedDateTime: 2021-07-21T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-python-functions-now-support-custom-telemetry-in-application-insights/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 42
 
 secured: "yesVVcoaa1JPxijC80piO9tamTLb6z/QnQcNASbIgLe6nbEDqwr1oaYLnK96vSF5Hv+OeMX9p/AeZsTmgeBVzfm1d/bp9ICUqDLNnLlXuRW3wAdigh//jiJKexnw0XL9iam4Y4ZOFeobrzzMpVDonudRBv+aUb71QmoG6+HJcBQJD+4G/zxL9l/Cj2+3UwqDqs0/W3u0/WL87ZmrQB8FxJsxbrN3qm8q2Qz4Q83j2inzO5SESJm6a67AXbMIbEDUwH/S31Vm2/Nl2Gv5h5PgNRE+6KFAhUM3Ws5Y/UyjtdDx9g9qNA79z8ZWchEE2v0Kz7gYj3rbFcTFgBb9iszXOYlpRkGznDwnxX4COu+TWeU=;ooZ7q7SY0rdmOTnT5p9axA=="
 ---

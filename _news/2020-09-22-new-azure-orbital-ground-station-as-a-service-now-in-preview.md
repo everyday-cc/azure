@@ -32,6 +32,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Public preview: Stop/start functionality for Azure Database for MySQL"
+    excerpt: "With the new database stop/start functionality, you can stop the database server when not in use (during non-business hours) and start it when it s back online. "
+    publishedDateTime: 2020-09-22T16:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mysql/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Public preview: Azure App Service Migration Assistant PowerShell-based experience "
+    excerpt: "The PowerShell-based experience for the Azure App Service Migration Assistant is now in public preview."
+    publishedDateTime: 2021-07-21T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-powershellbased-experience/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
   - title: "Preview: Azure Load Balancer now supports cross-region load balancing"
     excerpt: "Azure Load Balancer now supports load balancing across regions based on health and latency."
     publishedDateTime: 2020-09-22T16:00:00Z

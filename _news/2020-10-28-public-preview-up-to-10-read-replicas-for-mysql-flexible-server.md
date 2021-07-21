@@ -22,19 +22,19 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Database for MySQL Flexible Server in preview"
-    excerpt: "Azure Database for MySQL Flexible Server is a new deployment option for Azure Database for MySQL that provides better control and flexibility of database server parameters, more options for high availability, and cost optimization controls."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
+  - title: "Azure Database for MySQL – Flexible Server Auto-grow storage in public preview"
+    excerpt: "With auto-grow storage enabled, your storage automatically grows when storage consumed on the Flexible Server is nearing its provisioned limit."
+    publishedDateTime: 2021-07-21T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-autogrow-storage-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
-  - title: "Public preview: Stop/start functionality for Azure Database for MySQL"
-    excerpt: "With the new database stop/start functionality, you can stop the database server when not in use (during non-business hours) and start it when it s back online. "
-    publishedDateTime: 2020-09-22T16:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mysql/"
+    quality: 112
+  - title: "Azure Database for MySQL Flexible Server in preview"
+    excerpt: "Azure Database for MySQL Flexible Server is a new deployment option for Azure Database for MySQL that provides better control and flexibility of database server parameters, more options for high availability, and cost optimization controls."
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
     type: article
     provider:
       name: Microsoft
@@ -103,6 +103,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
+  - title: "Azure Database for PostgreSQL – Flexible Server (public preview) support for PostgreSQL 13"
+    excerpt: "PostgreSQL 13 for Azure Database for Postgres – Flexible Server includes multiple enhancements now in preview."
+    publishedDateTime: 2021-05-12T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-support-for-postgresql-13/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
   - title: "The public preview of Azure Database for MySQL – Flexible Server is available in two new regions"
     excerpt: "France Central and Brazil South regions are now available deployment options for the public preview of Azure Database for MySQL – Flexible Server."
     publishedDateTime: 2021-04-28T16:01:37Z
@@ -112,15 +121,51 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
-  - title: "Azure Database for MySQL – Single Server: Planned maintenance notifications in general availability"
-    excerpt: "Setup alerts on the Azure portal to be notified about planned deployments with planned maintenance notifications for Azure Database for MySQL – Single Server."
-    publishedDateTime: 2021-06-09T16:00:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-single-server-planned-maintenance-notifications-in-general-availability/"
+  - title: "Azure Database for PostgreSQL – Flexible Server (public preview) supports PostgreSQL minor versions"
+    excerpt: "The latest PostgreSQL minor versions 13.2, 12.6, and 11.11 are now supported by Azure Database for PostgreSQL – Flexible Server (in preview) and include security and bug fixes."
+    publishedDateTime: 2021-05-12T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-supports-postgresql-minor-versions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 85
+  - title: "The public preview of Azure Database for PostgreSQL – Flexible Server now supported in new regions"
+    excerpt: "Provision new Flexible Server deployments in France Central and Brazil South regions for Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure."
+    publishedDateTime: 2021-05-12T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-public-preview-of-azure-database-for-postgresql-flexible-server-now-supported-in-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
+  - title: "Azure Database for PostgreSQL – Flexible Server supports PostgreSQL minor versions (public preview)"
+    excerpt: "Benefit from the latest PostgreSQL minor versions that include many security updates and bug fixes for Azure Database for PostgreSQL – Flexible Server, a managed service running the open-source Postgres database."
+    publishedDateTime: 2021-06-09T16:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-supports-postgresql-minor-versions-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
+  - title: "The public preview of Azure Database for PostgreSQL – Flexible Server now supported in new regions"
+    excerpt: "Provision new Flexible Server deployments in new regions for Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure."
+    publishedDateTime: 2021-07-21T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-public-preview-of-azure-database-for-postgresql-flexible-server-now-supported-in-new-regions-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
+  - title: "Azure Database for PostgreSQL – Flexible Server (public preview) managed PgBouncer in public preview"
+    excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Flexible Server (preview) managed service."
+    publishedDateTime: 2021-04-28T16:00:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Database for MySQL – Flexible Server: Zone redundant high availability now generally available in new regions"
     excerpt: "Azure Database for MySQL - Flexible Server zone redundant high availability is now available in two new regions: UK South and Japan East."
     publishedDateTime: 2021-04-28T16:01:46Z
@@ -130,33 +175,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Public preview: Azure Database for MySQL– Flexible Server: Announcing SSL enforcement and minimum TLS version choice"
-    excerpt: "Now you can choose to enforce encrypted connection or Transport Layer Support version on Azure Database for MySQL - Flexible Server."
-    publishedDateTime: 2021-05-12T16:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-announcing-ssl-enforcement-and-minimum-tls-version-choice/"
+  - title: "Call recording in public preview for Azure Communication Services "
+    excerpt: "Call recording for Azure Communication Services helps to simplify and improve the recording process during calls. "
+    publishedDateTime: 2021-07-14T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/call-recording-in-public-preview-for-azure-communication-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
-  - title: "Public preview: Forced failover now available with zone redundant high availability for Azure Database for MySQL - Flexible Server"
-    excerpt: "Flexible Server forced failover capability is now available in all zone redundant regions. "
-    publishedDateTime: 2021-04-28T16:02:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-forced-failover-now-available-with-zone-redundant-ha-for-azure-database-for-mysql-flexible-server/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "App-consistent backup for Oracle and MySQL DBs in preview"
-    excerpt: "Pre-packaged script based solution to get application consistent snapshots for Oracle and MySQL DBs. Just provide connection information and workload name and leverage the instant restore benefit of Azure VM backups and minimize costs by selectively include/excluding relevant disks."
-    publishedDateTime: 2020-09-22T16:03:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/appconsistent-backup-for-oracle-and-mysql-dbs/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
+    quality: 67
   - title: "Additional IOPS feature for MySQL - Flexible Server in public preview "
     excerpt: "MySQL - Flexible Server supports the provisioning of additional IOPS (preview) so you can provision more IOPS above the complimentary IOPS limit and can increase or decrease the number of IOPS based on workload requirements."
     publishedDateTime: 2021-02-03T17:00:01Z
@@ -175,15 +202,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Azure Database for MySQL is now available in France South"
-    excerpt: ""
-    publishedDateTime: 2020-06-01T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-is-now-available-in-france-south/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Infrastructure double encryption for Azure Database for MySQL is in public preview"
     excerpt: "Infrastructure double encryption adds a second layer of encryption and a different encryption algorithm which gives an additional layer of protection for your data at rest. "
     publishedDateTime: 2020-08-10T16:00:04Z
@@ -193,15 +211,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 11
-  - title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-06-08T16:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-encryption-at-rest-byok-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 3
 
 secured: "59BKmNvt0e7i2qnx5c6NKraWXSDjG432hWz2uoDgHCr7Y1xu36MQjih9F9Pi8iKiqxlZELZ5EG7QkRpEFwNkm/AMkb5MfpA326XhXWck4L8ak7Acr17CFwwiQ6b891uInusx2rxVoaqMpJ6emFj3vI2xrwGlamBhPGNbYKX7J7F5rEj12YcECYC8mE8ub/OK9SddlihPPSe9L9uTuecH/Rm5lDtuFbh6JQ8e45xokA3QhX78UDkr8vV9TZr9VUqEuFaTaRo6VaXBAH5feUrROdwAku4SOfl04dwIQBFBt9yNwrImEZUqEURB5qYg2FJt2Z/D8d3k/8cg10CYI3DoIUoqzAqXegpnPJkNQEfhmcY=;Q/fb/Eaa5ECbxRMr/+W4xw=="
 ---

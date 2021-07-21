@@ -31,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
-    excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
-    publishedDateTime: 2021-04-29T15:40:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asr-cross-continental-dr/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
   - title: "General availability support for Java Message Service (JMS) 2.0 API on Azure Service Bus Premium"
     excerpt: "Use existing applications that leverage JMS 2.0 API to talk to Service Bus without any code changes. Only configuration changes are required."
     publishedDateTime: 2021-02-19T17:00:19Z

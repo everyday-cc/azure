@@ -36,15 +36,6 @@ related:
         width: 424
         height: 511
         isCached: true
-  - title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
-    excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
-    publishedDateTime: 2021-06-22T21:25:46Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
   - title: "General availability: Cross region Restore of SQL/SAP HANA running in Azure VM"
     excerpt: "General availability of Cross Region Restore of SQL/SAP HANA databases running in Azure VM allows to restore data in the secondary region for compliance/audit and outage scenarios."
     publishedDateTime: 2021-06-17T16:54:40Z

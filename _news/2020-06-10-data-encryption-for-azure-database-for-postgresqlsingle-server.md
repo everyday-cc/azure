@@ -39,15 +39,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 94
-  - title: "Azure Database for PostgreSQL – Flexible Server (public preview) support for PostgreSQL 13"
-    excerpt: "PostgreSQL 13 for Azure Database for Postgres – Flexible Server includes multiple enhancements now in preview."
-    publishedDateTime: 2021-05-12T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-support-for-postgresql-13/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
   - title: "Azure Database for PostgreSQL - Flexible Server: Support for Postgres 13 (public preview) "
     excerpt: "Create new Flexible Servers using PostgreSQL 13 version for Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure. "
     publishedDateTime: 2021-06-09T16:00:36Z
@@ -61,24 +52,6 @@ related:
     excerpt: "With logical decoding and wal2json support, unlock change data capture scenarios with Azure Database for PostgreSQL - Single Server. "
     publishedDateTime: 2020-12-09T17:00:18Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-logical-decoding-feature/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 85
-  - title: "Azure Database for PostgreSQL – Flexible Server (public preview) supports PostgreSQL minor versions"
-    excerpt: "The latest PostgreSQL minor versions 13.2, 12.6, and 11.11 are now supported by Azure Database for PostgreSQL – Flexible Server (in preview) and include security and bug fixes."
-    publishedDateTime: 2021-05-12T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-supports-postgresql-minor-versions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 85
-  - title: "Azure Database for PostgreSQL – Flexible Server supports PostgreSQL minor versions (public preview)"
-    excerpt: "Benefit from the latest PostgreSQL minor versions that include many security updates and bug fixes for Azure Database for PostgreSQL – Flexible Server, a managed service running the open-source Postgres database."
-    publishedDateTime: 2021-06-09T16:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-supports-postgresql-minor-versions-public-preview/"
     type: article
     provider:
       name: Microsoft

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-private-en
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-private-endpoint-support-available-in-public-preview/"
 type: article
 quality: 84
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - Migration
 
 related:
-  - title: "Azure Purview now supports Private Endpoints in public preview"
-    excerpt: "Add a layer of security and network isolation to your Purview account."
-    publishedDateTime: 2021-05-13T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/purviewpe/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Digital Twins Explorer available in public preview"
     excerpt: "Visual developer tool for exploring your digital twin is now available as a web application."
     publishedDateTime: 2021-06-02T17:00:06Z

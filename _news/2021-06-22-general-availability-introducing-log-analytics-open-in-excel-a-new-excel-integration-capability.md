@@ -24,56 +24,51 @@ topics:
   - Integration
 
 related:
-  - title: "General availability: Turn your phone into an IoT device with the new IoT Plug and Play mobile app"
-    excerpt: "Use the IoT Plug and Play phone app as an IoT device to get started quickly with IoT Central or IoT Hub."
-    publishedDateTime: 2021-06-24T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/turn-your-phone-into-an-iot-device/"
+  - title: "General availability: Better integration between Azure Monitor and Grafana"
+    excerpt: "Customers using Grafana for visualizing Azure Monitor metrics can now enable additional data sources and have easier authentication using managed identity."
+    publishedDateTime: 2021-07-21T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-better-integration-between-azure-monitor-and-grafana/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 92
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/7ba3c654-273c-41d6-9567-3f9ac29ef1ca.png"
-        width: 424
-        height: 511
-        isCached: true
-  - title: "General availability: Cross region Restore of SQL/SAP HANA running in Azure VM"
-    excerpt: "General availability of Cross Region Restore of SQL/SAP HANA databases running in Azure VM allows to restore data in the secondary region for compliance/audit and outage scenarios."
-    publishedDateTime: 2021-06-17T16:54:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqlsaphana/"
+    quality: 99
+  - title: "General availability: New West US 3 region added to Azure HDInsight"
+    excerpt: "HDInsight is now generally available for West US 3 customers."
+    publishedDateTime: 2021-07-21T17:21:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-west-us-3-and-jio-india-west-regions-added-to-azure-hdinsight/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 63
-  - title: "General availability: Skip X.509 certificate proof of possession for IoT Hub and DPS"
-    excerpt: "To make it easier to get started with X.509 authentication with IoT Hub and Device Provisioning Services (DPS), we're removing the requirement to prove possession of uploaded certificates."
-    publishedDateTime: 2021-07-01T17:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-dps-skip-pop/"
+    quality: 84
+  - title: "General availability: Azure Monitor Agent and Data Collection Rules now support direct proxies and Log Analytics gateway"
+    excerpt: "If you use a proxy server or Log Analytics gateway to communicate to Azure Monitor, you can now start using the new Azure Monitor Agent (AMA) and Data Collection Rules (DCR) in these network configurations."
+    publishedDateTime: 2021-07-21T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-agent-and-data-collection-rules-now-support-direct-proxies-and-log-analytics-gateway/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
-  - title: "General availability: Maintenance control for Virtual Machine Scale Sets OS image upgrades"
-    excerpt: "Take control of OS image upgrades on your virtual machine scale sets by using the new maintenance control feature. Now you can update at the time chosen by you with all the safety checks in place."
-    publishedDateTime: 2021-06-17T16:50:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-maintenance-control-for-vmss-os-image-upgrades/"
+    quality: 76
+  - title: "General availability: Built-in Azure Policy support for Network Watcher Traffic Analytics"
+    excerpt: "Traffic Analytics can now be enabled using Built-in Azure Policy, thus improving your deployment experience. Now organizations can enforce org wide standards and manage traffic monitoring at scale using these policies."
+    publishedDateTime: 2021-07-21T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-builtin-azure-policy-support-for-network-watcher-traffic-analytics/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 59
-  - title: "General availability: Expansion of credit-based disk bursting to Azure Standard SSDs E30 and smaller"
-    excerpt: "Credit-based disk bursting, which allows you to handle unexpected disk traffic and batch jobs smoothly without the need to overprovision your disk, is now available on Azure Standard SSDs E30 and smaller."
-    publishedDateTime: 2021-06-23T16:00:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-expansion-of-creditbased-disk-bursting-to-azure-standard-ssds-e30-and-smaller/"
+    quality: 75
+  - title: "General availability: Public IP information and inter-zone traffic among many new insights in Traffic Analytics"
+    excerpt: "Azure Network Watcher Traffic Analytics solutions is used to monitor network traffic. It now provides WHOIS and Geographic data for all Public IPs interacting with your deployments and further adds DNS domain, threat type & threat description for Malicious IPs. Now, it also supports inter-zone traffic"
+    publishedDateTime: 2021-07-21T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-public-ip-information-and-interzone-traffic-among-many-new-insights-in-traffic-analytics/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 49
 
 secured: "3u36xilY5XPeqnPZk6vFAgOtUhWKZWHkTLhr95ZpAxZuvoF7T6gUNMPP41HJMOLsLTFzocRomu+fPbxQYyVMWXQiRWVyRE222KbDgKVeQFw6Mes9B1k2TEtK4k6uBiD73Whlqh9ZM+y8tLSPo2t9SBK3NCGS3CHk7TmnCBB2CLDtRzGti8cAwP65P79C5e7klTt4D6+ZZf02xcil25TQGdyZ1/w/QhjzTdvV4nD+Fk22yYeL3lbEy2a1Y3hxAEWXGOEr8yf6YaVgC8vqKXtOW1toyP2mlBafyuWNiTWs5Q694l0VN9Vlv893iVXRY70G2Gw+Nm1ISxPX90aCdiHvumBYB4sAwzj7RRjYM8rHaF8=;MwejWojy/8J5//KfltTU0Q=="
 ---
