@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
-excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
-publishedDateTime: 2021-03-16T00:53:00Z
-originalUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
-webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
+title: "Google Cloud’s Looker Gets Microsoft Azure Support, Other New Features"
+excerpt: "Google Cloud has added Microsoft Azure support and other new features to Looker, the cloud computing provider's enterprise platform for business intelligence, data applications and embedded analytics"
+publishedDateTime: 2021-07-21T21:01:00Z
+originalUrl: "https://www.crn.com/news/cloud/google-cloud-s-looker-gets-microsoft-azure-support-other-new-features"
+webUrl: "https://www.crn.com/news/cloud/google-cloud-s-looker-gets-microsoft-azure-support-other-new-features"
 type: article
-quality: 50
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ITWire
-  domain: itwire.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
-  - IoT
 
 images:
-  - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
-    width: 375
-    height: 211
+  - url: "https://www.crn.com/resources/026b-12cfa8080093-b63503b17f11-1000/cloud-mobility-touch400.jpg"
+    width: 1300
+    height: 1300
     isCached: true
 
 related:
@@ -795,6 +794,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
+    excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
+    publishedDateTime: 2021-03-16T00:53:00Z
+    webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 50
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
+        width: 375
+        height: 211
         isCached: true
   - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
     excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
@@ -1604,20 +1617,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Cloud’s Looker Gets Microsoft Azure Support, Other New Features"
-    excerpt: "Google Cloud has added Microsoft Azure support and other new features to Looker, the cloud computing provider's enterprise platform for business intelligence, data applications and embedded analytics"
-    publishedDateTime: 2021-07-21T21:01:00Z
-    webUrl: "https://www.crn.com/news/cloud/google-cloud-s-looker-gets-microsoft-azure-support-other-new-features"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/026b-12cfa8080093-b63503b17f11-1000/cloud-mobility-touch400.jpg"
-        width: 1300
-        height: 1300
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -2207,6 +2206,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "I21jPPJdpeN730crCCReYeMemOfpF9mzbvTjoP4qhPWCdq6I17lFV+RSQtuRRxFjJgha+2v5vPfwCAcuMbvjFC/876sFWFZa4pUYdQjZ+2CY8/a3FHlbxKKBCRFys8cjTu5h1Mf9VDJFbjlV5g1qvOme7HgqFiMKCLBM2sLzmeW5w2rtWgVoeNkgcbe2ZoMeWid0TEE+LoZZGV/Djcft3gQE5WYQHUZFzETyuLH+EIT2W2UmZ7AiXOZkbx+0eCHjDGw8Oh35DHSPRO96VN09u5XA3CfHam/r+loAbHRrJwWbUvodM20PFWWIv88Ju2xCpsrWG+q87ta8xsV25uXk7mcNBc/suYIS06wNbvCzOJk=;dAgNCki3yKaE5Sh2hRn6iQ=="
+secured: "t64NW/MqYGv+ZZEpQbqYv/5GgUwLCBq1qtjGsShf+DMZz9JHlG8oyQNLri75uTVPAteZgozSpFCoUAAvoZbjbAm7IrvWRC5Oh9dBMhptneEUO+jUW2Yyz88P+WesdG1aGdnwjzUaj591kUtzEM/jLf4xWvsD6GcfrEP3ANR/jDqaK6gGlpeZutxKhZ4p4H1vsizd7/fQfPNCcsY6NnVTpHofAgT785BTf7BpdFeHpKMFQhktSh0YEvBAaHAL8UuKU9N1PfZpB2eCI5KCswoBxYy+8+Aq1RIaUXnDNu8Ww9dQesCvgHzllDeJEF48jlNeru1Btn2vLu+JHXM0HXLpVsi1p9H92Vr7NnvOkCnroUA=;oj1TOt5OEaHokH4mZvRKlw=="
 ---
 

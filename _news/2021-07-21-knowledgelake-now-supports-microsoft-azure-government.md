@@ -7,7 +7,7 @@ originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID
 webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,50 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
+    excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
+    publishedDateTime: 2021-07-21T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 70
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft Azure Sentinel vs Darktrace Enterprise Immune System: Who's on top in AI security?"
+    excerpt: "Microsoft uses AI to operate a traditional SIEM, but Darktrace takes a very different approach to threat hunting"
+    publishedDateTime: 2021-07-21T10:37:00Z
+    webUrl: "https://www.computing.co.uk/analysis/4034785/microsoft-vs-darktrace-ai-security"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 60
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/535962a/99c600ff-a243-4757-83a2-08a8bf82b2f8/2/Darktrace-vs-Microsoft-370x229.png"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "AWS Managed Services Market is Booming Worldwide | Microsoft Azure, Stratalux, Cloudnexa"
+    excerpt: "Latest released the research study on Global AWS Managed Services Market offers a detailed overview of the factors influencing the global business scope AWS Managed Services Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2021-07-20T08:24:00Z
+    webUrl: "https://www.openpr.com/news/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
+    ampWebUrl: "https://www.openpr.com/amp/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
+    images:
+      - url: "https://cdn.openpr.com/U/7/U720609320_g.jpg"
+        width: 800
+        height: 444
+        isCached: true
   - title: "KnowledgeLake provides support for Microsoft Azure Government"
     excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
     publishedDateTime: 2021-07-21T16:55:00Z
@@ -38,33 +82,61 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "KnowledgeLake platform now available via Canadian Microsoft Azure Data Centers"
-    excerpt: "KnowledgeLake customers can host instances in Canadian data centers to ensure data sovereignty and improve performance"
-    publishedDateTime: 2021-03-24T13:30:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/KnowledgeLake-platform-now-available-via-Canadian-Microsoft-Azure-Data-Centers-145922.aspx"
+  - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
+    excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
+    publishedDateTime: 2021-07-21T12:34:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 33
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 26
     images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
+      - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
+        width: 884
+        height: 543
         isCached: true
-  - title: "KnowledgeLake Intelligent Document Capture and Processing Platform Now Available via Canadian Microsoft Azure Data Centers"
-    excerpt: "KnowledgeLake, a leading provider of content automation solutions, today announced that the company's cloud-native platform for intelligent document processing is now available via"
-    publishedDateTime: 2021-03-24T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/knowledgelake-intelligent-document-capture-and-processing-platform-now-available-via-canadian-microsoft-azure-data-centers/article_878db978-7b03-5109-8210-a74a54164ff8.html"
+  - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
+    excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
+    publishedDateTime: 2021-07-20T15:50:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 22
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
+    excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
+    publishedDateTime: 2021-07-20T08:11:00Z
+    webUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 14
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok"
+        width: 4432
+        height: 2955
+        isCached: true
+  - title: "Inspire 2021: Microsoft announces a new industry cloud: The Microsoft Cloud for Sustainability"
+    excerpt: "Inspire conference, Microsoft is going big on sustainability. The company announced a new cloud offering to help address sustainability needs"
+    publishedDateTime: 2021-07-14T15:02:00Z
+    webUrl: "https://www.onmsft.com/news/new-microsoft-cloud-for-sustainability-inspire"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 10
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/06/windowsclouds.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "YRfRASNsAExLvz0LEX/iTdkLHzFXkRbaTWI3DRKylPrdLT/Yvh9eTsTDrKeb8jAseiK5TS+YQF8HjiqvkbOW8VG6oYykLcwVwUZ0PwU9kLw1sIKM6uyMcUTv2nNwjK0q/pB7nn5NIOnVFdY38W7R+7WTX4VJF4xtbXsA2I8TfyFn/wYdk+ce3/UzfwGaLMnvDJNPgCyoMB8psglP+x46ILWHVNWcGdZjnfNxLZtJ5W64kBeMt2hTwIgvp5Cr6SaXFefUEtGgRPbj188UbmyWuHn2dRcUV1b34ynrFCO40G7cr3XdehYatTz89O+eyPn+ko/KVvKcU8RwZt+FzmzyKYbKDwFth5wnL8je0ZJDPr8=;bCX7FDxzgbcm3mIIbqGMAA=="

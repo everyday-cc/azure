@@ -1607,6 +1607,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Cloud’s Looker Gets Microsoft Azure Support, Other New Features"
+    excerpt: "Google Cloud has added Microsoft Azure support and other new features to Looker, the cloud computing provider's enterprise platform for business intelligence, data applications and embedded analytics"
+    publishedDateTime: 2021-07-21T21:01:00Z
+    webUrl: "https://www.crn.com/news/cloud/google-cloud-s-looker-gets-microsoft-azure-support-other-new-features"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/026b-12cfa8080093-b63503b17f11-1000/cloud-mobility-touch400.jpg"
+        width: 1300
+        height: 1300
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z

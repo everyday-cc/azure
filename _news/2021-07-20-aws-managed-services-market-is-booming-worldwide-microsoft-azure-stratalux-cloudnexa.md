@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2332462/aws-managed-services-market-is-bo
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,62 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
+    excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
+    publishedDateTime: 2021-07-21T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 70
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft Azure Sentinel vs Darktrace Enterprise Immune System: Who's on top in AI security?"
+    excerpt: "Microsoft uses AI to operate a traditional SIEM, but Darktrace takes a very different approach to threat hunting"
+    publishedDateTime: 2021-07-21T10:37:00Z
+    webUrl: "https://www.computing.co.uk/analysis/4034785/microsoft-vs-darktrace-ai-security"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 60
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/535962a/99c600ff-a243-4757-83a2-08a8bf82b2f8/2/Darktrace-vs-Microsoft-370x229.png"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "KnowledgeLake Now Supports Microsoft Azure Government"
+    excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
+    publishedDateTime: 2021-07-21T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
+  - title: "KnowledgeLake provides support for Microsoft Azure Government"
+    excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
+    publishedDateTime: 2021-07-21T16:55:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/KnowledgeLake-provides-support-for-Microsoft-Azure-Government-148082.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
+        isCached: true
   - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
     excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
     publishedDateTime: 2021-07-21T12:34:00Z

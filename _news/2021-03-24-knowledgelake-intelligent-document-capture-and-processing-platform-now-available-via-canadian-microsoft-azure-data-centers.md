@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "KnowledgeLake Now Supports Microsoft Azure Government"
-    excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
-    publishedDateTime: 2021-07-21T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
-  - title: "KnowledgeLake provides support for Microsoft Azure Government"
-    excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
-    publishedDateTime: 2021-07-21T16:55:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/KnowledgeLake-provides-support-for-Microsoft-Azure-Government-148082.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
-        isCached: true
   - title: "KnowledgeLake platform now available via Canadian Microsoft Azure Data Centers"
     excerpt: "KnowledgeLake customers can host instances in Canadian data centers to ensure data sovereignty and improve performance"
     publishedDateTime: 2021-03-24T13:30:00Z
@@ -66,6 +38,15 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure. The Azure deployment is the latest step in Infobip’s technology collaboration with Microsoft ..."
+    publishedDateTime: 2021-03-29T02:59:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-infobips-communications-paas-now-available-on-microsoft-azure/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 15
 
 secured: "uel0rGYqQSLlNlx/qE5ZxL5s9eIp4roLMZqAQyeZulNhQ6+nv/nz3q6DIr6UvDLOjTUTmASziuYPIn5wTUXl6AEs9XtLvU66y9RwPU0TkZJiuFYQBf/PPtLWRlEkQA5wTbg4NcmnyAgtedgVNYfT7cmoJ24sYg1PGboD6zt5xyv6WkX2dplM41b09HJ7cJHiimhe0qAd0UpV3CeoJLfLEu+Fs/ugrWrn9gOUYTCrdZugU3uxQR1ha+ZBOT1JgTmukCvw9rG5UAL8/mmBIVufon3uN22w7HJGTBhUgdCoDwdmQuTi6DZ9DtXvuGfkEAiLFp2GB8N7VEvV+fUewOyOLY3RGM0qlQlDxALfy5Yndb4=;aUbPQGmeDYsbqhhsMz5WIw=="
 ---

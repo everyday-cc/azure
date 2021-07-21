@@ -1,43 +1,31 @@
 ---
 category: news
-title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
-excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
-publishedDateTime: 2021-07-21T12:34:00Z
-originalUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
-webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
+title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
+excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
+publishedDateTime: 2021-07-21T20:16:00Z
+originalUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
+webUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
 type: article
-quality: 26
-heat: -1
-published: false
+quality: 70
+heat: 230
+published: true
 
 provider:
-  name: FierceBiotech
-  domain: fiercebiotech.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
+  - Security
+  - Identity
 
 images:
-  - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
-    width: 884
-    height: 543
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
-  - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
-    excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
-    publishedDateTime: 2021-07-21T20:16:00Z
-    webUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 70
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Azure Sentinel vs Darktrace Enterprise Immune System: Who's on top in AI security?"
     excerpt: "Microsoft uses AI to operate a traditional SIEM, but Darktrace takes a very different approach to threat hunting"
     publishedDateTime: 2021-07-21T10:37:00Z
@@ -96,6 +84,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
+    excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
+    publishedDateTime: 2021-07-21T12:34:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 26
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
+        width: 884
+        height: 543
+        isCached: true
   - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
     excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
     publishedDateTime: 2021-07-20T15:50:00Z
@@ -139,6 +141,6 @@ related:
         height: 768
         isCached: true
 
-secured: "SHOGLcB2QR2PxHHAQtElD9sOY7aHd4Bk18vz5YCL7Xyy+KaAlvAu72VCT6L5p/n3Mxv4DmvD2PnK5D9Et8OH13KuFnoWXcuFd7sUPoMryM/ccO7VJiXvA/O1cyPI4KX+ThNs8ObZQeeRVpK4ia5nxKazE92U9glh+2jzKmVQGpV913FhpFZEsxVSNcIKh2uvJQbood20aU060xr/4afwdNFxRnRyLdqQ4gfoVXTonFXEt0urifsNU7cif0FijtdhjO8WvOfh0SfaypH9WWinElp3GoQsEl4iHC1hg1S9yuRPtygnCKbx6QunP8yFLKyeOwOjOV1YJlPCJRLMiyJQwmx7Z6ZkjpBEAF5c6rfS2yYX9W/XQYWon06lHIpPZArQcKa6Tmt19lcrwttCSyHI7O1kLloMEkZH+Up87H02Y0Qk8skGXyCNGh4M20QcWqH7Yg6sicG/S1VKYgkB3y67jEcheqS0NPfD+n5G7kW3B8zIyzaEA/sHwq2mgMuuhhni3OxeVmQzJUES6evx3zvJ1g==;5dEFBYOSGitwhgYbtM9Zzg=="
+secured: "lar16TSnJKCmJsAgI9k5MaV7P7am9GrBtPXsjQ3+71LlKRJbf+/Nk0qmoE6zIebStUiZlLSDBOVOSpcUFbXLV+Ee+wbJAsbFBjoaPU0d2N0/1gGFajUd62vmC918sOLJI8TkNa1eLNIXUqhaHJ320fRzoEC9hJv45YnQWsXjyEEIY7W3G9L3oQtWjuSZ/5kBBkqU97i2hEQoRPDkCDU9snXZzQVhBoTxWdz40/FBIt7xzs4RGxvu1AgDtVOp5C5oy6wvVILWIOwzA4iP4kMFymupoGas1MZQwG9rnCbDwgfwFynSGuHJFMB03M0BcSMMaO8Mkrdn42Rztj7JrlyitrjjhxmZo/LwHmFSLO4ieLs=;DokZ0m7Zjo9OS6OskX8WfQ=="
 ---
 
