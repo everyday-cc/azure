@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
-      "title": "Discover sentiment in text with the Text Analytics API",
-      "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
-      "length": "PT48M",
+      "path": "_learning/courses/microsoft-learn-classify-images-custom-vision.md",
+      "title": "Classify images with the Custom Vision service",
+      "excerpt": "Image classification is a common workload in artificial intelligence (AI) applications. It harnesses the predictive power of machine learning to enable AI systems to identify real-world items based on images.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-classify-images-custom-vision/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
+      "length": "PT34M",
       "ratings": {
-        "count": 2052,
-        "average": 4.653996
+        "count": 1933,
+        "average": 4.711847
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,21 +27,23 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 130,
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases",
-        "Management Tools",
-        "Compute",
-        "Serverless",
-        "Storage",
-        "AI",
-        "Analytics"
+        "AI"
       ]
     },
     {
@@ -75,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 19450,
-            "average": 4.7655525
+            "count": 19456,
+            "average": 4.765625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 15241,
-            "average": 4.634998
+            "count": 15242,
+            "average": 4.6350217
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -163,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 13443,
-            "average": 4.7716284
+            "count": 13448,
+            "average": 4.77149
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -206,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18379,
-            "average": 4.731052
+            "count": 18382,
+            "average": 4.731096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -301,8 +303,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 11393,
-            "average": 4.7901344
+            "count": 11398,
+            "average": 4.7901387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -344,8 +346,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 12450,
-            "average": 4.782008
+            "count": 12454,
+            "average": 4.7820783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -387,8 +389,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 8540,
-            "average": 4.782787
+            "count": 8547,
+            "average": 4.7829647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -434,8 +436,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 9375,
-            "average": 4.729493
+            "count": 9377,
+            "average": 4.729551
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -526,8 +528,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 18894,
-            "average": 4.7642107
+            "count": 18895,
+            "average": 4.7642236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -588,8 +590,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 18894,
-        "average": 4.7642107
+        "count": 18895,
+        "average": 4.7642236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -631,8 +633,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 18379,
-        "average": 4.731052
+        "count": 18382,
+        "average": 4.731096
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -677,8 +679,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 12450,
-        "average": 4.782008
+        "count": 12454,
+        "average": 4.7820783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1152,7 +1154,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
@@ -1257,7 +1259,7 @@
         }
       ],
       "size": 6,
-      "heat": 64,
+      "heat": 67,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
@@ -1593,8 +1595,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-classical-machine-learning/",
           "length": "PT52M",
           "ratings": {
-            "count": 10,
-            "average": 4.9
+            "count": 11,
+            "average": 4.909091
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1765,8 +1767,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3069,
-            "average": 4.7047896
+            "count": 3070,
+            "average": 4.704886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1980,8 +1982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3069,
-            "average": 4.7047896
+            "count": 3070,
+            "average": 4.704886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2195,8 +2197,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3069,
-            "average": 4.7047896
+            "count": 3070,
+            "average": 4.704886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2410,8 +2412,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3069,
-            "average": 4.7047896
+            "count": 3070,
+            "average": 4.704886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2625,8 +2627,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3069,
-            "average": 4.7047896
+            "count": 3070,
+            "average": 4.704886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2840,8 +2842,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3069,
-            "average": 4.7047896
+            "count": 3070,
+            "average": 4.704886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3054,8 +3056,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
           "length": "PT31M",
           "ratings": {
-            "count": 785,
-            "average": 4.735032
+            "count": 786,
+            "average": 4.7353687
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3140,8 +3142,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1295,
-            "average": 4.689575
+            "count": 1296,
+            "average": 4.689815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3183,8 +3185,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 702,
-            "average": 4.5584044
+            "count": 703,
+            "average": 4.559033
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3491,8 +3493,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3069,
-            "average": 4.7047896
+            "count": 3070,
+            "average": 4.704886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5340,7 +5342,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
