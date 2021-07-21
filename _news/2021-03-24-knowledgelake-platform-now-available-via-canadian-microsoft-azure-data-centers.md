@@ -7,7 +7,7 @@ originalUrl: "https://www.kmworld.com/Articles/News/News/KnowledgeLake-platform-
 webUrl: "https://www.kmworld.com/Articles/News/News/KnowledgeLake-platform-now-available-via-Canadian-Microsoft-Azure-Data-Centers-145922.aspx"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
-    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure. The Azure deployment is the latest step in Infobip’s technology collaboration with Microsoft ..."
-    publishedDateTime: 2021-03-29T02:59:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-infobips-communications-paas-now-available-on-microsoft-azure/"
+  - title: "KnowledgeLake Now Supports Microsoft Azure Government"
+    excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
+    publishedDateTime: 2021-07-21T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 15
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "KnowledgeLake Intelligent Document Capture and Processing Platform Now Available via Canadian Microsoft Azure Data Centers"
     excerpt: "KnowledgeLake, a leading provider of content automation solutions, today announced that the company's cloud-native platform for intelligent document processing is now available via"
     publishedDateTime: 2021-03-24T13:00:00Z
