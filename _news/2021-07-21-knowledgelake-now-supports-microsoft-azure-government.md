@@ -94,6 +94,15 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event"
+    excerpt: "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,"
+    publishedDateTime: 2021-07-22T18:09:00Z
+    webUrl: "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 0
 
 secured: "YRfRASNsAExLvz0LEX/iTdkLHzFXkRbaTWI3DRKylPrdLT/Yvh9eTsTDrKeb8jAseiK5TS+YQF8HjiqvkbOW8VG6oYykLcwVwUZ0PwU9kLw1sIKM6uyMcUTv2nNwjK0q/pB7nn5NIOnVFdY38W7R+7WTX4VJF4xtbXsA2I8TfyFn/wYdk+ce3/UzfwGaLMnvDJNPgCyoMB8psglP+x46ILWHVNWcGdZjnfNxLZtJ5W64kBeMt2hTwIgvp5Cr6SaXFefUEtGgRPbj188UbmyWuHn2dRcUV1b34ynrFCO40G7cr3XdehYatTz89O+eyPn+ko/KVvKcU8RwZt+FzmzyKYbKDwFth5wnL8je0ZJDPr8=;bCX7FDxzgbcm3mIIbqGMAA=="
 ---

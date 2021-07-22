@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
 type: article
 quality: 70
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -96,6 +96,15 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event"
+    excerpt: "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,"
+    publishedDateTime: 2021-07-22T18:09:00Z
+    webUrl: "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 0
 
 secured: "LT+cPrxvdZ5V2kWm/VVGVd+wxKsBmXnGZyPGmCdtOBuAxq/q9yWHZqhKmYhSaUAm+KityHrHgYwGg+YhETy1BA18Aol8wGH528r8vEYu1Td+yKyTgQ1+J7S0ZA/SdkKlSwoklP9w3Geg47jyFhpFGDE4nR7Lq7hB0HBkboRTq875sHH8ROASwxkUC4nIv0eh2ihSf7afEuRfDq5N6Y1hJBQDJcFMTVqvRn3Pmfqw5QFNYC3ryM3g4zsac3FE7JAKRtNmErG0LJnVTGyIvdTEkl8FHS0UNC77f3YrdS9bkwrQIcDGgphA0os5/gNwykMVzlscPIHile+E+TXejX30XfICtrO6vIqd8xdttjXFsZo=;yjT9NdgpWd7VCvqrrCM1bA=="
 ---

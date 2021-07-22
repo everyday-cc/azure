@@ -1,27 +1,21 @@
 ---
 category: news
-title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
-excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
-publishedDateTime: 2021-07-20T15:50:00Z
-originalUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
-webUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
+title: "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event"
+excerpt: "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,"
+publishedDateTime: 2021-07-22T18:09:00Z
+originalUrl: "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496"
+webUrl: "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496"
 type: article
-quality: 22
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: IT Business Edge
-  domain: itbusinessedge.com
+  name: publicnow.com
+  domain: publicnow.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
-    width: 600
-    height: 400
-    isCached: true
 
 related:
   - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
@@ -80,6 +74,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
+    excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
+    publishedDateTime: 2021-07-20T15:50:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 22
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
     publishedDateTime: 2021-07-20T08:11:00Z
@@ -94,16 +102,7 @@ related:
         width: 4432
         height: 2955
         isCached: true
-  - title: "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event"
-    excerpt: "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,"
-    publishedDateTime: 2021-07-22T18:09:00Z
-    webUrl: "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 0
 
-secured: "2d2Hk8OLdBKVPNBwEEp0+LZ7T+OVaJrSOlYCZ8mOsYX25QKYeEAoL0YlVW+sjmx4IFacaWWrWQh9WMzvMoM/qu/YoesPuOKH79YV5/LAw7Vpe8CQHEcXiujpBZTuwa2dX1/F+zG061/3/U64sZQiKAsbX41ismBgKkrkiwLU6BGXjCROop4Wsx0PAmRtor7wTQIOYZuhIZmotgQnatIfj6IgbnqvsS6JqaPw+k7ADRrG6eLGr7vPXWlOcUKH9YJvX9ZZgLreKYF8QBRxz96eYwOaqpi7XIncVrOlJazE7rVdTFYQGzpkHohgQhCrAzfynxTABDIUSwN18unIeim65AGEpSzlGPSFqaJk4MY0vC14f5PT3dhfnxG2/Bc+lyf/VxHTxNR+/nN3HPL1lV/3JGIXbKsbED88WFFzjKQGilpfK6pDScABzZGJnf0jj9EX0KP2stfCVZcTWFusOLxXPKLG+CaXzakeW2JRQE7r7JCg1nYm3yG3tmlxwSHN5KpNvotnkXCBYyxH5g2+YBGj+w==;cVxRAm4+mmwC8oOk+7Yv8Q=="
+secured: "lvha/gCpF7HgaH4jokrsRTjlFvUnwdN+zcEh4TCw5CEPpeNh+rH4UPmLVdLhISLyDGojOX6mgDE8y55ctvTMrkiIMstULyKkTXVOIBmTL+OTnLk3DvEVKL5iVc7RzbS+ztlgdP5QubgAcZ8Ft5epuFV/G5vl34PAVjlRXgkIhVm4kzcXy3h3rDi9djxKyf17zH7wa6GTp92FWKy7/YEyjuIgeERiWng+OFQu5BE/yD7N9km99C8NUVUqTDEVZOma3P7s8xvQUTWlHp0o+AX1eHEfbxMvWFbpSuGg5DSH0HasyT7PRBYrW3zTLWC2KL7bYn/gpJKz3RZhOt1J3/gEowv7VOdQAslzNo8r1B2kcoM=;kIYx7N34shjGXQBnm5zDcg=="
 ---
 
