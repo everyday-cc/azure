@@ -1,10 +1,10 @@
 ---
 category: news
-title: "General availability: New VM series supported by Azure Batch"
-excerpt: "Take advantage of new VM sizes that are now available when creating your Batch pools, including the latest HPC and GPU sizes."
-publishedDateTime: 2021-03-25T17:42:39Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-march2021/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-march2021/"
+title: "General availability: Azure Sphere version 21.07 "
+excerpt: "The 21.07 update includes heap memory allocation tracking, time sync changes, and support for service principles."
+publishedDateTime: 2021-07-21T22:00:06Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107/"
 type: article
 quality: 67
 heat: -1
@@ -365,6 +365,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: New VM series supported by Azure Batch"
+    excerpt: "Take advantage of new VM sizes that are now available when creating your Batch pools, including the latest HPC and GPU sizes."
+    publishedDateTime: 2021-03-25T17:42:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-march2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Azure Communication Services"
     excerpt: "Now you can use Azure Communication Services to add video, voice, SMS, chat, and telephony capabilities into almost any web, mobile, or desktop application."
     publishedDateTime: 2021-03-29T16:00:27Z
@@ -423,15 +432,6 @@ related:
     excerpt: "Upcoming changes to base units in Azure Spring Cloud Basic and Standard will result in lower costs for many customers."
     publishedDateTime: 2021-07-14T16:00:34Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-spring-cloud-pricing-model-change/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "General availability: Azure Sphere version 21.07 "
-    excerpt: "The 21.07 update includes heap memory allocation tracking, time sync changes, and support for service principles."
-    publishedDateTime: 2021-07-21T22:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107/"
     type: article
     provider:
       name: Microsoft
@@ -573,6 +573,6 @@ related:
       domain: microsoft.com
     quality: 42
 
-secured: "lnGCInBEnD+cmJ949NBqvUpyYr4sKsR+gIw2POvDbC96ACqI73jYNBJvyMmI3Qb3vrQqZWo2cn1wRCpYZAqnpZ83dU93FSTIddI1ZhgFtDzXCmrLCXjgwfZ+YovqR0dUS8E1Yrv5T7d5YrhQqwz+2v5jYQ4+Dtp5JG8wFNXQ0EFeTze91I20mcmeIoGCIPupTl0/lBSzczsYnJiYcQQO7hsva0yfkjZBuC1P2GM+U3oZUy4byD3hQdld1QALtwtjv0VW2P7dpogdGjvihmfUef2ngQaY27nMuy+IDoiNe+QlnStbFl/stCCt67nSWNc11dnPR031pKWx5ktm82Gnm0TnnnZ4VINX3F9wCk45Wk8=;wk3K9cwCQeo5Zo2/TJmS0g=="
+secured: "TpigPEBK5H3988044pv2DLwKrY78tofgIywZiJQXXjrOGrlTfbb7Zj8YIVr3oFCIYC1+sYngHhCON1hvaZ3sS1xZ+1QJ8zwABCyFOi9+FRy1/CREF44pGXtXsdAkDJ1gA41GMS7638E4heLcj7g4aQUByXUgzZSlVTgUx0oe3gQ9ul3OgHBB3krYKA03+m4DyuDExKbQ0TKpodNTjyWe3fHz8h0E6EAKcbMoFBTznRdOnpr7aLHqMoPr9rJGMjm4YlDUMPJ6Cbk1Fap3/qy1t5FPOYie+FgxVXf3wsNqAYgwFlqo7ttjB+m4rCYx5sbqml3qDm1cc1ytfY68tx+j+XWEo7cYCaTh3wzUpgzI61c=;4ABKJed+nYA9iRyZd/rkfw=="
 ---
 

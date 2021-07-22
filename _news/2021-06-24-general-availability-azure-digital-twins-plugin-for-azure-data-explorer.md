@@ -437,6 +437,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Sphere version 21.07 "
+    excerpt: "The 21.07 update includes heap memory allocation tracking, time sync changes, and support for service principles."
+    publishedDateTime: 2021-07-21T22:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Updated App Service Authentication portal experience is now generally available"
     excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
     publishedDateTime: 2021-04-01T21:02:34Z

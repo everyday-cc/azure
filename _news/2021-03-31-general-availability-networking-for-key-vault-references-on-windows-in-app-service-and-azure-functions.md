@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 1299
+heat: 1319
 published: true
 
 provider:
@@ -427,6 +427,15 @@ related:
     excerpt: "Upcoming changes to base units in Azure Spring Cloud Basic and Standard will result in lower costs for many customers."
     publishedDateTime: 2021-07-14T16:00:34Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-spring-cloud-pricing-model-change/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Sphere version 21.07 "
+    excerpt: "The 21.07 update includes heap memory allocation tracking, time sync changes, and support for service principles."
+    publishedDateTime: 2021-07-21T22:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107/"
     type: article
     provider:
       name: Microsoft

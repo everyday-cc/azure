@@ -429,6 +429,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Sphere version 21.07 "
+    excerpt: "The 21.07 update includes heap memory allocation tracking, time sync changes, and support for service principles."
+    publishedDateTime: 2021-07-21T22:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Azure Digital Twins plugin for Azure Data Explorer "
     excerpt: "Adding context to IoT data just became easier. Azure Digital Twins and Azure Data Explorer now seamlessly integrate, allowing you to allow you to contextualize time-series IoT data."
     publishedDateTime: 2021-06-24T18:46:54Z
