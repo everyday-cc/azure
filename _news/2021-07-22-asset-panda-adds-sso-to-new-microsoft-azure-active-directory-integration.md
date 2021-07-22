@@ -1,43 +1,31 @@
 ---
 category: news
-title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
-excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
-publishedDateTime: 2021-07-20T15:50:00Z
-originalUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
-webUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
+title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
+excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
+publishedDateTime: 2021-07-22T16:20:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
 type: article
-quality: 22
-heat: -1
-published: false
+quality: 70
+heat: 170
+published: true
 
 provider:
-  name: IT Business Edge
-  domain: itbusinessedge.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+  - Identity
+  - Integration
 
 images:
-  - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
-    width: 600
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
-    excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
-    publishedDateTime: 2021-07-22T16:20:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 70
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
     excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
     publishedDateTime: 2021-07-21T20:16:00Z
@@ -80,6 +68,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
+    excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
+    publishedDateTime: 2021-07-20T15:50:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 22
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
     publishedDateTime: 2021-07-20T08:11:00Z
@@ -95,6 +97,6 @@ related:
         height: 2955
         isCached: true
 
-secured: "2d2Hk8OLdBKVPNBwEEp0+LZ7T+OVaJrSOlYCZ8mOsYX25QKYeEAoL0YlVW+sjmx4IFacaWWrWQh9WMzvMoM/qu/YoesPuOKH79YV5/LAw7Vpe8CQHEcXiujpBZTuwa2dX1/F+zG061/3/U64sZQiKAsbX41ismBgKkrkiwLU6BGXjCROop4Wsx0PAmRtor7wTQIOYZuhIZmotgQnatIfj6IgbnqvsS6JqaPw+k7ADRrG6eLGr7vPXWlOcUKH9YJvX9ZZgLreKYF8QBRxz96eYwOaqpi7XIncVrOlJazE7rVdTFYQGzpkHohgQhCrAzfynxTABDIUSwN18unIeim65AGEpSzlGPSFqaJk4MY0vC14f5PT3dhfnxG2/Bc+lyf/VxHTxNR+/nN3HPL1lV/3JGIXbKsbED88WFFzjKQGilpfK6pDScABzZGJnf0jj9EX0KP2stfCVZcTWFusOLxXPKLG+CaXzakeW2JRQE7r7JCg1nYm3yG3tmlxwSHN5KpNvotnkXCBYyxH5g2+YBGj+w==;cVxRAm4+mmwC8oOk+7Yv8Q=="
+secured: "LT+cPrxvdZ5V2kWm/VVGVd+wxKsBmXnGZyPGmCdtOBuAxq/q9yWHZqhKmYhSaUAm+KityHrHgYwGg+YhETy1BA18Aol8wGH528r8vEYu1Td+yKyTgQ1+J7S0ZA/SdkKlSwoklP9w3Geg47jyFhpFGDE4nR7Lq7hB0HBkboRTq875sHH8ROASwxkUC4nIv0eh2ihSf7afEuRfDq5N6Y1hJBQDJcFMTVqvRn3Pmfqw5QFNYC3ryM3g4zsac3FE7JAKRtNmErG0LJnVTGyIvdTEkl8FHS0UNC77f3YrdS9bkwrQIcDGgphA0os5/gNwykMVzlscPIHile+E+TXejX30XfICtrO6vIqd8xdttjXFsZo=;yjT9NdgpWd7VCvqrrCM1bA=="
 ---
 

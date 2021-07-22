@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
+    excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
+    publishedDateTime: 2021-07-22T16:20:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
     excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
     publishedDateTime: 2021-07-21T20:16:00Z
@@ -37,36 +51,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft Azure Sentinel vs Darktrace Enterprise Immune System: Who's on top in AI security?"
-    excerpt: "Microsoft uses AI to operate a traditional SIEM, but Darktrace takes a very different approach to threat hunting"
-    publishedDateTime: 2021-07-21T10:37:00Z
-    webUrl: "https://www.computing.co.uk/analysis/4034785/microsoft-vs-darktrace-ai-security"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 60
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/535962a/99c600ff-a243-4757-83a2-08a8bf82b2f8/2/Darktrace-vs-Microsoft-370x229.png"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "AWS Managed Services Market is Booming Worldwide | Microsoft Azure, Stratalux, Cloudnexa"
-    excerpt: "Latest released the research study on Global AWS Managed Services Market offers a detailed overview of the factors influencing the global business scope AWS Managed Services Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2021-07-20T08:24:00Z
-    webUrl: "https://www.openpr.com/news/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
-    ampWebUrl: "https://www.openpr.com/amp/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
-    images:
-      - url: "https://cdn.openpr.com/U/7/U720609320_g.jpg"
-        width: 800
-        height: 444
         isCached: true
   - title: "KnowledgeLake Now Supports Microsoft Azure Government"
     excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
@@ -96,20 +80,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
-    excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
-    publishedDateTime: 2021-07-21T12:34:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 26
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
-        width: 884
-        height: 543
-        isCached: true
   - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
     excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
     publishedDateTime: 2021-07-20T15:50:00Z
@@ -123,20 +93,6 @@ related:
       - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Inspire 2021: Microsoft announces a new industry cloud: The Microsoft Cloud for Sustainability"
-    excerpt: "Inspire conference, Microsoft is going big on sustainability. The company announced a new cloud offering to help address sustainability needs"
-    publishedDateTime: 2021-07-14T15:02:00Z
-    webUrl: "https://www.onmsft.com/news/new-microsoft-cloud-for-sustainability-inspire"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 10
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/06/windowsclouds.jpg"
-        width: 1024
-        height: 768
         isCached: true
 
 secured: "cw2iA2zHzV/WlkZQYJHYT6i3WEzEtLyyXv5W9IAutcfjXhR64gHHoQttsBSlMSJmtfCIMGMo92XdcWQ5AXBRrMvfxWxzDEPaJCRQG+EsqCSba24RXxxe+52cJbKaTFyeduB2bcoDezeNm/Jb4zdbsH4NSUGm2bMCSYvIst0U8Rj7WZZyf5UcIEEB+h4OQKK/GAa3k8OpwMbxs2b7FwSlRS8qmpd9emhIndnTFaAwmi21HVRQbLYik1HpAUhOQHtxz5aKnVCgAIttABm2tGks0tInDtnzNcRFyd1ddUOfFkxfjIgFqHPy+MH5g78MZvWPfNHFlwrLRpti7xKAXpADFvW1btZgLWYDiBLy57Im548=;aBXwzhkF4B5t4PKYHLcTYA=="
