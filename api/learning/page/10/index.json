@@ -54,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
       "length": "PT54M",
       "ratings": {
-        "count": 1664,
-        "average": 4.7277646
+        "count": 1666,
+        "average": 4.727491
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -224,8 +224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 2358,
-        "average": 4.806616
+        "count": 2359,
+        "average": 4.806698
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -532,8 +532,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
           "length": "PT40M",
           "ratings": {
-            "count": 2358,
-            "average": 4.806616
+            "count": 2359,
+            "average": 4.806698
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -657,8 +657,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/",
           "length": "PT21M",
           "ratings": {
-            "count": 269,
-            "average": 4.851301
+            "count": 270,
+            "average": 4.8444443
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -782,8 +782,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/",
           "length": "PT21M",
           "ratings": {
-            "count": 269,
-            "average": 4.851301
+            "count": 270,
+            "average": 4.8444443
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -885,8 +885,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 396,
-        "average": 4.79798
+        "count": 397,
+        "average": 4.7984886
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,8 +1014,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 1943,
-        "average": 4.712301
+        "count": 1944,
+        "average": 4.7124486
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1041,6 +1041,41 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
+      "title": "Create a classification model with Azure Machine Learning designer",
+      "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 187,
+        "average": 4.7967916
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -1185,8 +1220,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
       "length": "PT24M",
       "ratings": {
-        "count": 2492,
-        "average": 4.7941413
+        "count": 2494,
+        "average": 4.7943063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1227,8 +1262,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
       "length": "PT30M",
       "ratings": {
-        "count": 356,
-        "average": 4.828652
+        "count": 357,
+        "average": 4.8291316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1427,8 +1462,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 6790,
-        "average": 4.719882
+        "count": 6791,
+        "average": 4.7199235
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1502,49 +1537,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-m365-identity-provisioning.md",
-      "title": "Simplify access and identity provisioning with Azure Active Directory",
-      "excerpt": "Learn about identity governance and how you can safeguard access to your organization’s data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-provisioning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 5258,
-        "average": 4.771206
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

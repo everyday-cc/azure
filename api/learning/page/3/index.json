@@ -4,259 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-management-fundamentals.md",
-      "title": "Choose the best tools for managing and configuring your Azure environment",
-      "excerpt": "Explore the Azure management, administration, and reporting tools, and choose the ones that best meet your organization's needs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-management-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 8262,
-        "average": 4.7575645
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure.md",
-      "title": "Architect infrastructure operations in Azure",
-      "excerpt": "Learn how to monitor, analyze, and manage the ongoing operation of your infrastructure in Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure/",
-      "length": "PT3H58M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-control-and-organize-with-resource-manager.md",
-          "title": "Control and organize Azure resources with Azure Resource Manager",
-          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-control-and-organize-with-resource-manager/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 43552,
-            "average": 4.7195306
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 59,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-cloud-governance-strategy-azure.md",
-          "title": "Build a cloud governance strategy on Azure",
-          "excerpt": "Learn how to access policies, resource locks, and tags, as well as how Azure services such as Azure Policy and Azure Blueprints can help you build a comprehensive cloud governance strategy.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-cloud-governance-strategy-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 3467,
-            "average": 4.7603116
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 82,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
-          "title": "Design a holistic monitoring strategy on Azure",
-          "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
-          "length": "PT57M",
-          "ratings": {
-            "count": 2990,
-            "average": 4.645485
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Management Tools",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
-          "title": "Improve incident response with alerting on Azure",
-          "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-incident-response-with-alerting-on-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 3135,
-            "average": 4.6893144
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure.md",
       "title": "Architect storage infrastructure in Azure",
       "excerpt": "Learn how to architect storage solutions for your applications in Azure.",
@@ -287,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 15971,
-            "average": 4.699142
+            "count": 15972,
+            "average": 4.699161
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -403,8 +150,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 6642,
-            "average": 4.6362543
+            "count": 6643,
+            "average": 4.6363087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -525,8 +272,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 16301,
-            "average": 4.724189
+            "count": 16302,
+            "average": 4.7242055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -807,8 +554,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11028,
-            "average": 4.6824446
+            "count": 11030,
+            "average": 4.6824117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -937,8 +684,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9641,
-            "average": 4.667566
+            "count": 9642,
+            "average": 4.6676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1131,8 +878,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 16301,
-            "average": 4.724189
+            "count": 16302,
+            "average": 4.7242055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1290,8 +1037,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 632,
-            "average": 4.846519
+            "count": 633,
+            "average": 4.846761
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1333,8 +1080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
           "length": "PT26M",
           "ratings": {
-            "count": 380,
-            "average": 4.8289475
+            "count": 381,
+            "average": 4.8293962
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1376,8 +1123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 356,
-            "average": 4.828652
+            "count": 357,
+            "average": 4.8291316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1504,8 +1251,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 8306,
-            "average": 4.717313
+            "count": 8307,
+            "average": 4.7173467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1581,8 +1328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 6314,
-            "average": 4.751663
+            "count": 6315,
+            "average": 4.7517023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1698,8 +1445,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 8306,
-            "average": 4.717313
+            "count": 8307,
+            "average": 4.7173467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1775,8 +1522,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 6314,
-            "average": 4.751663
+            "count": 6315,
+            "average": 4.7517023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2016,8 +1763,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11028,
-            "average": 4.6824446
+            "count": 11030,
+            "average": 4.6824117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2103,8 +1850,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 4909,
-            "average": 4.76044
+            "count": 4910,
+            "average": 4.760489
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2182,8 +1929,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 2061,
-            "average": 4.768559
+            "count": 2062,
+            "average": 4.768186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2308,8 +2055,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 13074,
-            "average": 4.7663302
+            "count": 13077,
+            "average": 4.7663074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2429,8 +2176,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11028,
-            "average": 4.6824446
+            "count": 11030,
+            "average": 4.6824117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2517,8 +2264,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 15971,
-            "average": 4.699142
+            "count": 15972,
+            "average": 4.699161
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2589,8 +2336,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 6642,
-            "average": 4.6362543
+            "count": 6643,
+            "average": 4.6363087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2633,8 +2380,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11028,
-            "average": 4.6824446
+            "count": 11030,
+            "average": 4.6824117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2689,6 +2436,354 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-create-no-code-predictive-models-with-azure-machine-learning.md",
+      "title": "Create no-code predictive models with Azure Machine Learning",
+      "excerpt": "Learn how to use Azure Machine Learning to create and publish machine learning models without writing code.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-create-no-code-predictive-models-with-azure-machine-learning/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-create-no-code-predictive-models-with-azure-machine-learning/",
+      "length": "PT3H29M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-use-automated-machine-learning.md",
+          "title": "Use automated machine learning in Azure Machine Learning",
+          "excerpt": "Training a machine learning model is an iterative process that requires time and compute resources. Automated machine learning can help make it easier.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-automated-machine-learning/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 440,
+            "average": 4.765909
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 63,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer.md",
+          "title": "Create a Regression Model with Azure Machine Learning designer",
+          "excerpt": "Regression is a supervised machine learning technique used to predict numeric values. Learn how to create regression models using Azure Machine Learning designer.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/",
+          "length": "PT50M",
+          "ratings": {
+            "count": 275,
+            "average": 4.7636366
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
+          "title": "Create a classification model with Azure Machine Learning designer",
+          "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/",
+          "length": "PT60M",
+          "ratings": {
+            "count": 187,
+            "average": 4.7967916
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer.md",
+          "title": "Create a Clustering Model with Azure Machine Learning designer",
+          "excerpt": "Clustering is an unsupervised machine learning technique used to group similar entities based on their features. Learn how to create clustering models using Azure Machine Learning designer.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-clustering-model-azure-machine-learning-designer/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 209,
+            "average": 4.7177033
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 69,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-use-visual-tools-to-create-machine-learning-models-with-azure-machine-learning.md",
+      "title": "Use visual tools to create machine learning models with Azure Machine Learning",
+      "excerpt": "Use visual tools to create machine learning models with Azure Machine Learning",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-use-visual-tools-to-create-machine-learning-models-with-azure-machine-learning/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-use-visual-tools-to-create-machine-learning-models-with-azure-machine-learning/",
+      "length": "PT3H29M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-use-automated-machine-learning.md",
+          "title": "Use automated machine learning in Azure Machine Learning",
+          "excerpt": "Training a machine learning model is an iterative process that requires time and compute resources. Automated machine learning can help make it easier.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-automated-machine-learning/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 440,
+            "average": 4.765909
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 63,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer.md",
+          "title": "Create a Regression Model with Azure Machine Learning designer",
+          "excerpt": "Regression is a supervised machine learning technique used to predict numeric values. Learn how to create regression models using Azure Machine Learning designer.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/",
+          "length": "PT50M",
+          "ratings": {
+            "count": 275,
+            "average": 4.7636366
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
+          "title": "Create a classification model with Azure Machine Learning designer",
+          "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/",
+          "length": "PT60M",
+          "ratings": {
+            "count": 187,
+            "average": 4.7967916
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer.md",
+          "title": "Create a Clustering Model with Azure Machine Learning designer",
+          "excerpt": "Clustering is an unsupervised machine learning technique used to group similar entities based on their features. Learn how to create clustering models using Azure Machine Learning designer.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-clustering-model-azure-machine-learning-designer/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 209,
+            "average": 4.7177033
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 69,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-sc-900-part-2-describe-the-capabilities-of-microsoft-identity-and-access-management-solutions.md",
       "title": "SC-900 part 2: Describe the capabilities of Microsoft Identity and access management solutions",
       "excerpt": "SC-900 part 2: Describe the capabilities of Microsoft Identity and access management solutions",
@@ -2719,8 +2814,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
           "length": "PT26M",
           "ratings": {
-            "count": 380,
-            "average": 4.8289475
+            "count": 381,
+            "average": 4.8293962
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2762,8 +2857,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 356,
-            "average": 4.828652
+            "count": 357,
+            "average": 4.8291316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2975,8 +3070,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 19677,
-            "average": 4.7660213
+            "count": 19687,
+            "average": 4.7660894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3361,8 +3456,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
           "length": "PT39M",
           "ratings": {
-            "count": 8465,
-            "average": 4.6349673
+            "count": 8466,
+            "average": 4.634774
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3828,8 +3923,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43552,
-            "average": 4.7195306
+            "count": 43553,
+            "average": 4.7195373
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4261,8 +4356,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
           "length": "PT34M",
           "ratings": {
-            "count": 1943,
-            "average": 4.712301
+            "count": 1944,
+            "average": 4.7124486
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4433,8 +4528,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 9414,
-            "average": 4.783726
+            "count": 9418,
+            "average": 4.7838182
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4728,8 +4823,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
           "length": "PT24M",
           "ratings": {
-            "count": 4766,
-            "average": 4.7876625
+            "count": 4767,
+            "average": 4.7877073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4856,8 +4951,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 1344,
-            "average": 4.8087797
+            "count": 1345,
+            "average": 4.808922
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4899,8 +4994,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 632,
-            "average": 4.846519
+            "count": 633,
+            "average": 4.846761
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4962,8 +5057,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
       "length": "PT20M",
       "ratings": {
-        "count": 632,
-        "average": 4.846519
+        "count": 633,
+        "average": 4.846761
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -5202,8 +5297,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9641,
-            "average": 4.667566
+            "count": 9642,
+            "average": 4.6676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5322,8 +5417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2569,
-            "average": 4.603348
+            "count": 2570,
+            "average": 4.603502
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5404,8 +5499,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 396,
-            "average": 4.79798
+            "count": 397,
+            "average": 4.7984886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5446,8 +5541,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1828,
-            "average": 4.7483587
+            "count": 1830,
+            "average": 4.748634
           },
           "provider": {
             "name": "Microsoft Learn",
