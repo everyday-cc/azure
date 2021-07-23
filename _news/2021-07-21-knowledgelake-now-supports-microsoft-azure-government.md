@@ -2,9 +2,9 @@
 category: news
 title: "KnowledgeLake Now Supports Microsoft Azure Government"
 excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
-publishedDateTime: 2021-07-21T04:00:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
+publishedDateTime: 2021-07-21T15:34:00Z
+originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
+webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
 type: article
 quality: 37
 heat: -1
@@ -118,6 +118,6 @@ related:
       domain: publicnow.com
     quality: 0
 
-secured: "YRfRASNsAExLvz0LEX/iTdkLHzFXkRbaTWI3DRKylPrdLT/Yvh9eTsTDrKeb8jAseiK5TS+YQF8HjiqvkbOW8VG6oYykLcwVwUZ0PwU9kLw1sIKM6uyMcUTv2nNwjK0q/pB7nn5NIOnVFdY38W7R+7WTX4VJF4xtbXsA2I8TfyFn/wYdk+ce3/UzfwGaLMnvDJNPgCyoMB8psglP+x46ILWHVNWcGdZjnfNxLZtJ5W64kBeMt2hTwIgvp5Cr6SaXFefUEtGgRPbj188UbmyWuHn2dRcUV1b34ynrFCO40G7cr3XdehYatTz89O+eyPn+ko/KVvKcU8RwZt+FzmzyKYbKDwFth5wnL8je0ZJDPr8=;bCX7FDxzgbcm3mIIbqGMAA=="
+secured: "JKNXHi0n7uDs0cV59MvLMRWIeWBbyd+M3u0Y8Hvq4jny2A6FswpBBdIFLlH1+Ps51t2r0A16jmheQWKufNGwhCfcWzwm5/K1crzqM4dAn7w28XLUM/egkaNYLnaeOH3JtcF6f85ZvECVHnBu1+fomsnKTezDf6PCSlpHe30hbh5PYb+tL5kKFr+EqMpOl2NnXFob6miWnPzJZiycERefIeycMbdGD0L3DmtQ25oaYniSLpHDIGvvv6R78UKS4wUhrid0J0pWkZYLcyMuuY9tAl9LKjBenhyWmtIdImm/v4L7KRdoJuIKUMzJK+txPnNslFClzjo1LhLoQpI+Yyex1YV84GtI5OiWYQRy5xMnEdM=;i2KJFwDknJhm0CjhNJYDzA=="
 ---
 

@@ -48,8 +48,8 @@ related:
         isCached: true
   - title: "KnowledgeLake Now Supports Microsoft Azure Government"
     excerpt: "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud."
-    publishedDateTime: 2021-07-21T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
+    publishedDateTime: 2021-07-21T15:34:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/KnowledgeLake-Now Supports-Microsoft-Azure-Government-148070.aspx"
     type: article
     provider:
       name: Destination CRM
