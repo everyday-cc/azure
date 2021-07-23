@@ -1,21 +1,22 @@
 ---
 category: news
-title: "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event"
-excerpt: "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,"
+title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
+excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
 publishedDateTime: 2021-07-22T18:09:00Z
-originalUrl: "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496"
-webUrl: "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496"
+originalUrl: "https://www.morningstar.com/news/business-wire/20210722005420/si-corp-launches-security-and-safety-management-system-built-on-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/business-wire/20210722005420/si-corp-launches-security-and-safety-management-system-built-on-microsoft-azure"
 type: article
-quality: 0
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: publicnow.com
-  domain: publicnow.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
+  - Security
 
 related:
   - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
@@ -88,15 +89,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-    excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
-    publishedDateTime: 2021-07-22T18:09:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210722005420/si-corp-launches-security-and-safety-management-system-built-on-microsoft-azure"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 29
   - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
     excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
     publishedDateTime: 2021-07-20T15:50:00Z
@@ -125,7 +117,16 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event"
+    excerpt: "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,"
+    publishedDateTime: 2021-07-22T18:09:00Z
+    webUrl: "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 0
 
-secured: "lvha/gCpF7HgaH4jokrsRTjlFvUnwdN+zcEh4TCw5CEPpeNh+rH4UPmLVdLhISLyDGojOX6mgDE8y55ctvTMrkiIMstULyKkTXVOIBmTL+OTnLk3DvEVKL5iVc7RzbS+ztlgdP5QubgAcZ8Ft5epuFV/G5vl34PAVjlRXgkIhVm4kzcXy3h3rDi9djxKyf17zH7wa6GTp92FWKy7/YEyjuIgeERiWng+OFQu5BE/yD7N9km99C8NUVUqTDEVZOma3P7s8xvQUTWlHp0o+AX1eHEfbxMvWFbpSuGg5DSH0HasyT7PRBYrW3zTLWC2KL7bYn/gpJKz3RZhOt1J3/gEowv7VOdQAslzNo8r1B2kcoM=;kIYx7N34shjGXQBnm5zDcg=="
+secured: "uxo2AQozobWZkhR82WG327JjfE/8y0UpSVIjapmuwI5WHVbKO02yI0TiPenJQ5vAZ9rid4YaSCpDEsS2lp9PEH8Y89coGMvciT/yssMmSTRUaqLLM7CtVnx6g3mUVDGemqr2U9GafQY8bcG50dGn65F3+0m7ZJC2n6UUo5GMp9+0quNncZTveOEAGicMU8R96lfx1qZbyS2zlG2iPgS6YylpaQKD/FNljInnui8FLeq82cVRkOb6nGxUwPHpwZDJ077V+/qo3kozk92AVy79GkvzQSVbd/9LntkVejZ5XR0gPABcNNw5Nwgb3O3KqKNU+KcTlllJqpZxxan6TqEUseBgeTdg5eIBMt1eG23DsPk=;msDdiJQO69GuDalMEBP1kg=="
 ---
 

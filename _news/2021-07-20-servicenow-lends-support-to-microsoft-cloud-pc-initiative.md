@@ -94,6 +94,15 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
+    excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
+    publishedDateTime: 2021-07-22T18:09:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210722005420/si-corp-launches-security-and-safety-management-system-built-on-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 29
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
     publishedDateTime: 2021-07-20T08:11:00Z
