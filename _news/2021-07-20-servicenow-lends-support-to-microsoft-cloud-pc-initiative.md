@@ -80,6 +80,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
+    excerpt: "Macquarie Cloud Services claims to have achieved the Azure-only Expert MSP credential relative to business inception, the new recognition reflecting the growth of its Azure practice."
+    publishedDateTime: 2021-07-22T22:11:00Z
+    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 37
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
     publishedDateTime: 2021-07-20T08:11:00Z

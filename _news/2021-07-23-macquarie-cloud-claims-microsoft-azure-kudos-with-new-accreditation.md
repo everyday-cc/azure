@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
-excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
-publishedDateTime: 2021-07-20T08:11:00Z
-originalUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
-webUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
+title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
+excerpt: "Macquarie Cloud Services claims to have achieved the Azure-only Expert MSP credential relative to business inception, the new recognition reflecting the growth of its Azure practice."
+publishedDateTime: 2021-07-22T22:11:00Z
+originalUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
+webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
 type: article
-quality: 14
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: FierceBiotech
-  domain: fiercebiotech.com
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Azure
 
 images:
-  - url: "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok"
-    width: 4432
-    height: 2955
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+    width: 740
+    height: 493
     isCached: true
 
 related:
@@ -80,20 +80,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
-    excerpt: "Macquarie Cloud Services claims to have achieved the Azure-only Expert MSP credential relative to business inception, the new recognition reflecting the growth of its Azure practice."
-    publishedDateTime: 2021-07-22T22:11:00Z
-    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
     excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
     publishedDateTime: 2021-07-20T15:50:00Z
@@ -108,6 +94,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
+    excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
+    publishedDateTime: 2021-07-20T08:11:00Z
+    webUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 14
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok"
+        width: 4432
+        height: 2955
+        isCached: true
   - title: "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event"
     excerpt: "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,"
     publishedDateTime: 2021-07-22T18:09:00Z
@@ -118,6 +118,6 @@ related:
       domain: publicnow.com
     quality: 0
 
-secured: "cw2iA2zHzV/WlkZQYJHYT6i3WEzEtLyyXv5W9IAutcfjXhR64gHHoQttsBSlMSJmtfCIMGMo92XdcWQ5AXBRrMvfxWxzDEPaJCRQG+EsqCSba24RXxxe+52cJbKaTFyeduB2bcoDezeNm/Jb4zdbsH4NSUGm2bMCSYvIst0U8Rj7WZZyf5UcIEEB+h4OQKK/GAa3k8OpwMbxs2b7FwSlRS8qmpd9emhIndnTFaAwmi21HVRQbLYik1HpAUhOQHtxz5aKnVCgAIttABm2tGks0tInDtnzNcRFyd1ddUOfFkxfjIgFqHPy+MH5g78MZvWPfNHFlwrLRpti7xKAXpADFvW1btZgLWYDiBLy57Im548=;aBXwzhkF4B5t4PKYHLcTYA=="
+secured: "EsbXmE729rjhfIKkahOdDAtfj1gyH8vGA0IHB+llyzCf2QdFvPOOmmhOXEO5ACgKVtEBaqL7HGr96XzvPFVtFRBRak9fpgeTygnWtI28foXCdNsjmLKWtCxxKhI4fsVQ0s2MJmc4RgDRhvPVijPE7Frt8zjDVw5AsmgV4HqOjIKBloZePllDhl1TZ6o21Vh4CkWDZ672ZHeYduLO9NKHtOhN5iOjyDxsNZE9c34idSAfUxdltHbgc5WGRdxx3aLy2k8EK3xUeRlOk1omHfkP15Ut91XeqTT1d8CA01JImAbtn5s684EtbTkRMRZGVN4GL7IULtdYjzXXMoGpoP5dF4Gb3wOi9TRoHU1K296BDzI=;YP3elwjQ9ctoJWG+k/IIdg=="
 ---
 
