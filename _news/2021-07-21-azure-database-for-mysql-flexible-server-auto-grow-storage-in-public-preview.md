@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-autogrow-storage-in-public-preview/"
 type: article
 quality: 112
-heat: 532
+heat: 552
 published: true
 
 provider:
@@ -154,6 +154,15 @@ related:
     excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Flexible Server (preview) managed service."
     publishedDateTime: 2021-04-28T16:00:59Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-managed-pgbouncer-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Active Directory support for Azure Relay now in public preview"
+    excerpt: "Azure Relay now supports authentication and authorization via Azure AD as a public preview offering. With Azure AD, you don't need to store tokens in your code."
+    publishedDateTime: 2021-07-23T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aad-support-for-azure-relay-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft

@@ -167,6 +167,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Active Directory support for Azure Relay now in public preview"
+    excerpt: "Azure Relay now supports authentication and authorization via Azure AD as a public preview offering. With Azure AD, you don't need to store tokens in your code."
+    publishedDateTime: 2021-07-23T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aad-support-for-azure-relay-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Call recording in public preview for Azure Communication Services "
     excerpt: "Call recording for Azure Communication Services helps to simplify and improve the recording process during calls. "
     publishedDateTime: 2021-07-14T16:00:31Z

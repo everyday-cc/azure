@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Database for MySQL Flexible Server in preview"
-excerpt: "Azure Database for MySQL Flexible Server is a new deployment option for Azure Database for MySQL that provides better control and flexibility of database server parameters, more options for high availability, and cost optimization controls."
-publishedDateTime: 2020-09-22T16:00:00Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
+title: "Azure Active Directory support for Azure Relay now in public preview"
+excerpt: "Azure Relay now supports authentication and authorization via Azure AD as a public preview offering. With Azure AD, you don't need to store tokens in your code."
+publishedDateTime: 2021-07-23T17:00:04Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/aad-support-for-azure-relay-now-in-public-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/aad-support-for-azure-relay-now-in-public-preview/"
 type: article
-quality: 99
+quality: 84
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Databases
+  - Identity
 
 related:
   - title: "Azure Database for MySQL – Flexible Server Auto-grow storage in public preview"
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 112
+  - title: "Azure Database for MySQL Flexible Server in preview"
+    excerpt: "Azure Database for MySQL Flexible Server is a new deployment option for Azure Database for MySQL that provides better control and flexibility of database server parameters, more options for high availability, and cost optimization controls."
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure Database for MySQL - Flexible Server now supports 8.0.21 "
     excerpt: "MySQL 8.0.21 is now in general availability with Azure Database for MySQL - Flexible Server deployment option in all major Azure regions."
     publishedDateTime: 2021-04-28T16:01:29Z
@@ -158,15 +167,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Active Directory support for Azure Relay now in public preview"
-    excerpt: "Azure Relay now supports authentication and authorization via Azure AD as a public preview offering. With Azure AD, you don't need to store tokens in your code."
-    publishedDateTime: 2021-07-23T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/aad-support-for-azure-relay-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure Database for MySQL – Flexible Server: Zone redundant high availability now generally available in new regions"
     excerpt: "Azure Database for MySQL - Flexible Server zone redundant high availability is now available in two new regions: UK South and Japan East."
     publishedDateTime: 2021-04-28T16:01:46Z
@@ -222,6 +222,6 @@ related:
       domain: microsoft.com
     quality: 11
 
-secured: "5n3QvHlMqIcS3OL/9UMhm4PSuRfY9QfDtCDwc7/UHMf2vGgqst1ORHgeGGeVLNw3OCINQcuwJqyLz0HPtpcMe1oJdLzeMpHPQy9u6kIjUu5UaAH6/wms7O6aH+L936zpSk8cx4DNeh5ul8kT17MaSPndBW3vWU4i2r/IUbhec7gawnRbn4BYKx2GurMPVxTEzG+O33cPICUv0usOdBaZRXauycmo2xoKMVcmKg1QmAJrb8JCKfbaESKFhYMsrwik1TIVnMs5Y/Kb+D/RIU4aZgf0l7oxRQxLAeAYI3GqP5EViuLUMwck6bBcBEwGfk0cw318uqSE1AjhsETdyF0c9Ul5QRsnaHXMTnRwWLfdIVA=;G9/4rPZLZG2SYFkpDmWVtw=="
+secured: "8RnRtrtA65fvX71QuuATJ/0aQuWrtxYLXIGsbcGN3y8/agXTeq/61wMThWGMwXUIjD2jRaTXEP3mvJa9mNj39btcM92Ycd8gk+i5rmy3kB7DNX2LKN8iTbODED0iZSbkt4W9p/RSE2pQ3zAJEW4eMqEGjcZeSSr17udeZxmkNcrocpkt3EayufiDGOdWRwIzOxG01WH9kFYxwgutIe4tdhBfi5OIaMxmDr+1hxMXhOVuYmiyY/1VnV61K+Jz188i1UTo6TniqaT6rSBDNPo4/YyenT1amWWDdsezWHtUAU5U6zGefBzieQhOH92uYaWI3KLxibhu8ts129RObGTzvP+eEg8+uYibF31C55cxSUU=;QoQK1vKvoAkqfNDUmm9QxA=="
 ---
 
