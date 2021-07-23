@@ -4,49 +4,6 @@
   "page": 49,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-resolve-windows-10-upgrade-errors.md",
-      "title": "Resolve Windows 10 upgrade errors",
-      "excerpt": "Resolve Windows 10 upgrade errors",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-resolve-windows-10-upgrade-errors/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-windows-10-upgrade-errors/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 6,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-resource-manager-template-reuse.md",
       "title": "Deploy to multiple Azure environments by using ARM templates",
       "excerpt": "Manage multiple Azure environment deployments of your Azure Resource Manager templates by using functions, variables, tags, and parameter files.",
@@ -646,8 +603,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-error-handling/",
       "length": "PT34M",
       "ratings": {
-        "count": 238,
-        "average": 4.7605042
+        "count": 239,
+        "average": 4.7573223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -730,8 +687,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-modules-packages-crates/",
       "length": "PT32M",
       "ratings": {
-        "count": 82,
-        "average": 4.597561
+        "count": 83,
+        "average": 4.60241
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -772,8 +729,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/safeguard-data-sector/",
       "length": "PT42M",
       "ratings": {
-        "count": 3,
-        "average": 4.6666665
+        "count": 4,
+        "average": 4.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1281,6 +1238,49 @@
         "Azure",
         "Analytics",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics.md",
+      "title": "Secure a data warehouse in Azure Synapse Analytics",
+      "excerpt": "Secure a data warehouse in Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-warehouse-azure-synapse-analytics/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 102,
+        "average": 4.7058825
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-a-data-warehouse-in-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],
