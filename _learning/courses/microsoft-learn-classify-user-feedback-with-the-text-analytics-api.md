@@ -8,7 +8,7 @@ length: PT48M
 ratings:
   count: 2057
   average: 4.654837
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,12 @@ topics:
   - AI
   - Analytics
 
-secured: "NWybohUC50/pPjx5kMdmQ6DgSSjoKm777d+1YHFxn8V+LMcjKJCzmcS5IvcVEjkelIyFaTUiHjnV9MrTZf3TzQ/xAyUZGTo1n6DsjFVr8IzkwrhUjrZYok9LC5zMfERztcSdozuasDL+93gmnLqfo2a+xW7iAjLpAGtMdrHmFblI3xMPKvElPs+IQN/ulFAp73K/7Cv3D0Xn8j3b/HrescVIkwgBA4YGBQtI45bERh1v245drOp8MafuyGO7lfw9wTl4alLPyFLZr7M4XFOdZcxnkfihOM/yG8UdngnmzXOExu5SE9JRdH9RcF/UYjlh5o37LFG5Et9xEXHqEJslpOMSTd7QbkHD2uSgK1ftzGRCrVsjs4YlNcfozfX2sfZOe+mRINeDSHhQ6mJgg8Sk0bf4s+8UtIWjVUSsJjm9qS8=;skLRzlQSGMAdQW2wFnWSbw=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+    width: 640
+    height: 320
+    isCached: true
+
+secured: "PE9hDMn0amCKJuAswIy3fDEDkDouVvz5GaLEldh4WLXlRB2lqcsINHmsXygkExz28sUfNknxFn5Hz/BLFlD13grZeq350y3YQqH10pW7Lx9S1HBNzfu65MP1xEkZTV6LdX0AqOysj9r3KZo/lbDtCk8lkgKeDapydosJTXRxgu6neY/i0Pc9vjw/V/iuMR7uYWY3fcAW7t0+iJSImixzdXgWjvyfCWcfdMPs2nG39r6kx35NTPM1qYnjSoHtXNlEXWQjV9OmzK+Yq4x3bzyf513Sh2u/cgYVs4NTNTue68JZCJ6TLJHQL+BJG1HiIu3UWiIOf/d0SA+wxKmrUfjmEJUIfjjSUnOsFv/QXTBwFycl5i9MEcwdgSbJzskqOaFxnyGH0uoi2TjCd+ydwPw4tWz3x4KZT9RLUTg98YYsahk=;/7MB7k/NYcmHJUjT+JsjfQ=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT55M
 ratings:
-  count: 2209
-  average: 4.2689
+  count: 2210
+  average: 4.267421
 heat: 50
 
 provider:
@@ -28,6 +28,6 @@ topics:
   - Serverless
   - Databases
 
-secured: "am5mkdy5x9WTaygcaO+AKvjh3wA2YfINcteB/Lt0UttYGZToTtzSCuKDk8EDxV5lNXO7d6nEJEtqO8ETua+Y2y4s0vWfASYqfHRXdSw/rgbouEAajjhhD5yC/9DWzRwp1Fh0lW4QALgNtAY8ejyZzu9iyjuwUxLZlJGuwwr0ckM6euvG64NHECdIu9ZGp7xstfeEWIX/VIMvfoN8jMZhPy93z1wgHQT/q7O1PI3cOHMdtEZ05jJyCut5GK1IHB9Kor2v6aGHwzZv8RHy5w4wVGP8LCO5jtnYFN4WoAb+NOnMqJreE77Di2uXFfuRlPE/5X5xKT2piforVeELo7cSS7PoKisGR3oPnwmEdV101VTeCKVuLpT2bZRKzmRzD9dmjw2geWR2+PZtVbDhPBjPyWgWMFdfkjF3TMiyHTTlVHg=;Q1wAIckKiz+mr2jw7HAMow=="
+secured: "u37l3iakYq6G//0qw8/GHT9IseQH4c0g1Kxl0xjBNHbXz2vR1Nb0iIOIaqUVGqVlRXRZ4IrYx8COIbNkVXO+SGhwvMw8ltN85CVEXRR9riwf9ZT3y3ZBwi0YeLw+r7dUKU38wBNrk/x8/PbvBHg21xWKaa1r9lqEMl/ipv7P5uu+MzIEEyXK9/fkg+jLVj+CnfuaFG+dLEwfw32F8Wvq7LNrSbnGjp4m7cJjuyVgJC5Yesajkz6OfWaX0tiom2/cz4cyOmsHPuAVHz2ljh6X7aB4T+abV4IEuJQRByyuBoE0v8CKmNPz971GGWvsJXsIDIWtgbHDylbaABY0M6FG+4gFfz2S+5j2btgQH3YVLfb0huVCnpJqKkK2D1isqlHk5zgy51MsSrrPPvH11EKr+EZbhT58JqslxD58kI/vCIs=;F/TjI6EptRL1qCxNu5gdwg=="
 ---
 

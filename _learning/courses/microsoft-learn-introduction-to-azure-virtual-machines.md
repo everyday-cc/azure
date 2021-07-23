@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H7M
 ratings:
-  count: 21416
-  average: 4.708069
+  count: 21418
+  average: 4.707956
 heat: 73
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Compute
 
-secured: "qHuknY6FPuO091nL6XB+VNvFSJzCZ2ftafcBx92OtqGeVotsaidGxTJITSCZbMOUn7ayaWtQCg6pfPha/nl7zBkrFhmRAHOhkRdfF3CnOUv0XZCUPbI5zkiT4ZGtCpVmAqrTrOZkExwjYPEb9e4GFzM1f8EJ1cRZaHrDM3jOqtiQbEbMAhFpdNXbnMzbpQXnzrDmTBOumap3xvd4b/J+rhtTvUJZptI9B6o9v6IGeLvjnaZqDSOZmztLBD89WenSwe+eVmE7Yi6uuPebC90FUhtNeQkfnN3NGR0iLJt99DKQkC+FXDRC802qI5ibI1kmfrBL97oks0J8MOhpNUUNriP9nwQO3d7tR3uP4tQLWRAEMr/2omMt35CeA3Cf140kCC8U9ijxzWWEnySmpFKPsH5269e1+RbrcL3Rv/eKbFlzYQq1ZiDFbRc4d6TCKEeX;fB6nFfRvnpXaMWcKvImqzw=="
+secured: "CFSVH4QnGeDIj35eDOb5dj8gVBwdbixjJtMBEzDM2nO4SSTTbZ5KOpJVhoNd6bBZCUb0kscG3K5yGn2gdeSdBVh7ZcXpOXjBEGqv2V23cdVVRlvC+jzEHiX2fpkuH2lUathC2EE7aFcM9wuzLsqR7WP/sFOYJ2tz1jGFn7u7BsjzUDnYof7buxHPNqW11skKOYPU393JGPODhiAHyeR4HagRCGZ43dPzy2WejG2q5SlaRgg6hRQcwVxnAG0sqQ0SG+CYVU7SjeKHj3nYwUtXyyQ4URpnwN7/wWNjo9yY7gnhoWg81Prf6GMr/2jlcddOHRUiYfGrBcMcXCDfrCG4bPXb/8YN40pgfAtJyeElLoNlIbZedQnHrVw/Zn7Q4OQupW4Lfwjo7GQSakIvkMHm6V0OuO/tuFozXIcgo8YueZ1CXkQG1G+ODCD7+Fl5v6q9;0cJ/HscEPMj69NJ9pg5YOQ=="
 ---
 
