@@ -33,6 +33,9 @@ topics:
   - Web
   - Databases
   - IoT
+  - DevOps
+  - Management Tools
+  - Identity
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-cloud-native-apps-social.png
