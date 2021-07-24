@@ -1,10 +1,10 @@
 ---
 category: news
 title: "KnowledgeLake provides support for Microsoft Azure Government"
-excerpt: "Public sector organizations can leverage the KnowledgeLake platform to manage content and data residing within the Microsoft Azure Government-dedicated cloud environment"
-publishedDateTime: 2021-07-21T16:55:00Z
-originalUrl: "https://www.kmworld.com/Articles/News/News/KnowledgeLake-provides-support-for-Microsoft-Azure-Government-148082.aspx"
-webUrl: "https://www.kmworld.com/Articles/News/News/KnowledgeLake-provides-support-for-Microsoft-Azure-Government-148082.aspx"
+excerpt: "KnowledgeLake, a provider of intelligent document capture and processing solutions, is offering customers the ability to leverage its platform in concert with the Microsoft Azure for Government solution. This allows users to securely automate critical ..."
+publishedDateTime: 2021-07-21T16:24:00Z
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148082"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148082"
 type: article
 quality: 37
 heat: -1
@@ -127,6 +127,6 @@ related:
       domain: publicnow.com
     quality: 0
 
-secured: "XcPdl96pBfC8VCTGN3nn25PLcvhrg2R95omMSZuy2HPe/zhPIZrxCtCdBtRYlp3u2leAo7krEWWmRaYEBBNOjGInxGNDE26BSxvSqe33QKgE0LIaEPCenDlTfsScUsH4w1Z8+F8ICGzBoPUW5mK2Uni2MrOBL5iCOSeeBjVS5cUnNEcbdpDlVqjaaA1By3/zU7GeCGj3B5r7U4+nXbSnm9bX8lEyAZJ+VRCT4WuacN542qLGjdq8LSSoPNPBSLwSAle+Oh16Xx0r6FE/MjiocCVVZbkzXFKJI34vNV2sUkWLiXE6rXZHtyCnXLP8U//IdRNeU/CuR18kcwVBnhfWylGTEjpSYN4QoxpbpOKPQZ8=;5W5w/6nGBemNKNrWZbw7Rg=="
+secured: "rXuI9NrOdp2J0kAQJnC58Jsc+8GGzBYfhBmD33OG3OQHnB8KzO05AnDeRwanVSjzeduWxXOtMoABe0kbrILXtJwZ1rA0wNCgWK+aZ62KJof4Ik0zhYeRkQW4TXsY7o5YsRo13w1Wfxk7Z9Pbw3rm9Ia4589WLRyYPY7TGplz49P8Ob9BYwX/ey1BOGtDtLL+c5add1xTxRyG4JSmvEY4HXFAyuyAsRmpQijHRhjovqzPhbXQKqBBlUt44TGV/xOqqO1MuL5PSiIph6w/SSGN3W2JVodGtRkFwolVTcqXVOwNZSAfGaXPItaAvZm5UgyB0Vo4hQkHZaNaERVdoVLcIvPu+G7NemE3GhYYkKbBHhc=;lnMPl6WB9V41QqqOCM3nMw=="
 ---
 
