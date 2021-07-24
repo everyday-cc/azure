@@ -59,20 +59,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Cornerstone.IT Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Cornerstone.IT Remote Desktop Pro to take advantage of the scalability, reliability, and agility of Azure to drive application development ..."
-    publishedDateTime: 2021-07-13T12:45:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "11 Top Azure Announcements From Microsoft Inspire 2021"
     excerpt: "A Microsoft Cloud for Sustainability, new Azure Kubernetes Service smart defaults and an Azure Synapse partner center that will connect customers to partner solutions were among the top cloud computing announcements at Microsoft Inspire 2021."
     publishedDateTime: 2021-07-14T15:00:00Z
@@ -115,6 +101,15 @@ related:
         width: 272
         height: 270
         isCached: true
+  - title: "Cornerstone.IT Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Cornerstone.IT Remote Desktop Pro to take advantage of the scalability, reliability, and agility of Azure to drive application development ..."
+    publishedDateTime: 2021-07-13T12:45:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 17
   - title: "Informatica Expands Cloud Footprint on Microsoft Azure Germany"
     excerpt: "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),"
     publishedDateTime: 2021-07-13T07:13:00Z
