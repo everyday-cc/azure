@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 66
+heat: 122
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-quantum-programming-with-q-and-running-on-hardware-with-azure-quantum-azure-friday
   - videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday
   - videos/microsoft-azure-cosmos-db-cache-serverless-mongodb-and-managed-apache-cassandra-azure-friday
   - videos/microsoft-new-ways-to-get-started-with-azure-database-for-postgresql-azure-friday
@@ -284,7 +285,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/xtEXx67J41o/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/c9Df90CVHkc/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
