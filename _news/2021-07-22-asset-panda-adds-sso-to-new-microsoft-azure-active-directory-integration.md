@@ -69,9 +69,9 @@ related:
         height: 594
         isCached: true
   - title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
-    excerpt: "Macquarie Cloud Services claims to have achieved the Azure-only Expert MSP credential relative to business inception, the new recognition reflecting the growth of its Azure practice."
-    publishedDateTime: 2021-07-22T22:11:00Z
-    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
+    excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
+    publishedDateTime: 2021-07-22T22:04:00Z
+    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-with-new-accreditation/"
     type: article
     provider:
       name: ARN
@@ -84,12 +84,12 @@ related:
         isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
-    publishedDateTime: 2021-07-22T18:09:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210722005420/si-corp-launches-security-and-safety-management-system-built-on-microsoft-azure"
+    publishedDateTime: 2021-07-22T18:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 29
   - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
     excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."

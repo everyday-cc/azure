@@ -2,17 +2,17 @@
 category: news
 title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
 excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
-publishedDateTime: 2021-07-22T18:09:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210722005420/si-corp-launches-security-and-safety-management-system-built-on-microsoft-azure"
-webUrl: "https://www.morningstar.com/news/business-wire/20210722005420/si-corp-launches-security-and-safety-management-system-built-on-microsoft-azure"
+publishedDateTime: 2021-07-22T18:05:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -76,9 +76,9 @@ related:
         height: 594
         isCached: true
   - title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
-    excerpt: "Macquarie Cloud Services claims to have achieved the Azure-only Expert MSP credential relative to business inception, the new recognition reflecting the growth of its Azure practice."
-    publishedDateTime: 2021-07-22T22:11:00Z
-    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
+    excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
+    publishedDateTime: 2021-07-22T22:04:00Z
+    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-with-new-accreditation/"
     type: article
     provider:
       name: ARN
@@ -127,6 +127,6 @@ related:
       domain: publicnow.com
     quality: 0
 
-secured: "uxo2AQozobWZkhR82WG327JjfE/8y0UpSVIjapmuwI5WHVbKO02yI0TiPenJQ5vAZ9rid4YaSCpDEsS2lp9PEH8Y89coGMvciT/yssMmSTRUaqLLM7CtVnx6g3mUVDGemqr2U9GafQY8bcG50dGn65F3+0m7ZJC2n6UUo5GMp9+0quNncZTveOEAGicMU8R96lfx1qZbyS2zlG2iPgS6YylpaQKD/FNljInnui8FLeq82cVRkOb6nGxUwPHpwZDJ077V+/qo3kozk92AVy79GkvzQSVbd/9LntkVejZ5XR0gPABcNNw5Nwgb3O3KqKNU+KcTlllJqpZxxan6TqEUseBgeTdg5eIBMt1eG23DsPk=;msDdiJQO69GuDalMEBP1kg=="
+secured: "4srzu2aH59SmSfxA//VvOc0ctqp2N8wOj52JjulN38qAcsAmKlqlZs3iEV1QS202mTMuJ0vkBM5U9L8vz4l0GfoXLyPawa1a2KMCepehBfhxkD/Ut8eJEBYTEfpCCL3eWKPeBSYnEFpzCNhII3DoCzSI3Aijgy29rZnU39L1A7XoyGXnopQJj155hCS3gc3RTn8lEK/Ifra2hAhsfBbtOnSTmcjtosM85Fh42sfNrlqKLEzEcg+xxVVSuLiLzXSvjdC+6nnSTGfbV+0d5zpeDkwT7p1/x5obr/bgZ0KY15WkEs6IvA9FRiqv8IAICLiafg8FfXdbV/N1/olyUn9zoOLydZGDqMFXkvxxxBzNIbU=;BI+lCqYRim8RQRj7gs4jnQ=="
 ---
 
