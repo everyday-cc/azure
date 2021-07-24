@@ -6,7 +6,7 @@ publishedDateTime: 2021-07-13T12:45:00Z
 originalUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
 webUrl: "https://www.law.com/legalnewswire/news.php?id=2889960"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
+    width: 256
+    height: 256
+    isCached: true
 
 related:
   - title: "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments"
@@ -154,6 +160,6 @@ related:
       domain: businesswire.com
     quality: 9
 
-secured: "X87/4OWM6r3TR9+PcaAdL8rmR0ZK5JkmohkrPDs/f766pnshAsQRRjBj9IHWGaWPpIfgZOhqoDfZigCQdjZiiV7J8oKCPRhxwKeL/8scLxnAtiz6m0y3cj3cJfvKPZ18ix3dqnVmDrKeU65gBsXnaFWf3cn6DLdhS1wShmTuMKiRLKgbbxpuLsEl8RtXYaGU/BnaPgu4/H8cLYvBrujtCRqJiZ38YAGabI35oyi99tB9kRzVhua+kw3dP54Ipc3GhO+BALOGiH6FRtX17ebo92a998F5erOcUmLIUlRAfvDZ+p6hsmE2d42o3lZEZ7Y5IjG8NmfxOD077a53Q5E0AD0kOmnMWvpO+mLZtZSlED4=;Aal7ETagRpPUfvQ/+J0KTA=="
+secured: "x5GjEmc7F1ZDwh0LzJwY2pmsUUIrzZF9W24QIEw2Eg72WSbsQTeQJc/5/xocW4PdGA9FV2criGxkW1DFceVU/pHBOEDfsglDhrwYWm9+lqkjxRtYHZC1mcrlbwV1gYUXqlx2EwWVojNnk4wAZ354C4AqryCiR/o9/lBSrechdTi/7jd8Y6fhYQ4WZ+NROTQkA+7kOS0kf8GU3DoH0CKAf1pI3l2RVrvgGuBQ3K11Xol6jbZG6ooKoRZISeA+w8DUDNl+eugcluCQpVwUS5aZlf0ZMVcZ3o69kAlSaPjAgehO45yUdsQLfdio6WD65FidYmUnuyfIHHvHMghOmX2B0N64L/p7+3xzjlInu/hiu4Q=;v9f53VwQbr/0rKaQgW3xqw=="
 ---
 
