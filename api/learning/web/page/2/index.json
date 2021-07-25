@@ -552,7 +552,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
@@ -866,54 +866,6 @@
         "Compute",
         "Containers",
         "Mobile"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
-      "title": "Implement logging in a .NET Framework ASP.NET web application",
-      "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 40,
-        "average": 4.65
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile",
-        "Management Tools",
-        "DevOps"
       ]
     },
     {
@@ -1445,6 +1397,50 @@
         "Compute",
         "Web",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql.md",
+      "title": "Create and deploy a data-driven Spring Boot Java application to Azure App Service with Spring Initializr and Maven",
+      "excerpt": "Create a Spring Boot application, connect it to a MySQL database and then deploy to Azure App Service.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-spring-boot-app-service-mysql/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 57,
+        "average": 4.7017546
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
       ]
     },
     {

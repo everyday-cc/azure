@@ -4,216 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-configure-and-manage-virtual-networks-for-azure-administrators.md",
-      "title": "Configure and manage virtual networks for Azure administrators",
-      "excerpt": "Learn how to configure and manage key Azure network capabilities.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-configure-and-manage-virtual-networks-for-azure-administrators/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-configure-and-manage-virtual-networks-for-azure-administrators/",
-      "length": "PT12H34M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
-          "title": "Configure the network for your virtual machines",
-          "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
-          "length": "PT1H34M",
-          "ratings": {
-            "count": 8962,
-            "average": 4.6601205
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 56,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-design-ip-addressing-for-azure.md",
-          "title": "Design an IP addressing schema for your Azure deployment",
-          "excerpt": "In this module, you will learn how to plan and implement an IP addressing scheme for virtual networks and virtual machines in Azure.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-ip-addressing-for-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 3621,
-            "average": 4.791218
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
-          "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
-          "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 5640,
-            "average": 4.7592196
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 9369,
-            "average": 4.6726437
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking",
-            "Security"
-          ]
-        }
-      ],
-      "size": 16,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service.md",
       "title": "Deploy a website to Azure with Azure App Service",
       "excerpt": "In this learning path, get acquainted with using Azure App Service to create and deploy your website without underlying servers, storage or network assets.",
@@ -862,8 +652,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 1369,
-            "average": 4.8056974
+            "count": 1370,
+            "average": 4.8058395
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -905,8 +695,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 657,
-            "average": 4.844749
+            "count": 658,
+            "average": 4.844985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1012,8 +802,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
       "length": "PT20M",
       "ratings": {
-        "count": 657,
-        "average": 4.844749
+        "count": 658,
+        "average": 4.844985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1055,8 +845,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
       "length": "PT44M",
       "ratings": {
-        "count": 7655,
-        "average": 4.7239714
+        "count": 7656,
+        "average": 4.724007
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1141,8 +931,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 5157,
-        "average": 4.836339
+        "count": 5158,
+        "average": 4.8363705
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1636,8 +1426,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 1369,
-            "average": 4.8056974
+            "count": 1370,
+            "average": 4.8058395
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1808,8 +1598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 106,
-            "average": 4.8490567
+            "count": 107,
+            "average": 4.850467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2057,8 +1847,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
           "length": "PT25M",
           "ratings": {
-            "count": 4935,
-            "average": 4.6443768
+            "count": 4936,
+            "average": 4.6444488
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2368,8 +2158,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
       "length": "PT24M",
       "ratings": {
-        "count": 1369,
-        "average": 4.8056974
+        "count": 1370,
+        "average": 4.8058395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2794,8 +2584,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2504,
-            "average": 4.6653357
+            "count": 2505,
+            "average": 4.665469
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3889,8 +3679,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 8851,
-            "average": 4.8052197
+            "count": 8852,
+            "average": 4.8052416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4059,8 +3849,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 1076,
-            "average": 4.545539
+            "count": 1077,
+            "average": 4.545961
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4362,8 +4152,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/",
           "length": "PT34M",
           "ratings": {
-            "count": 872,
-            "average": 4.7408257
+            "count": 873,
+            "average": 4.7411227
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4404,8 +4194,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-optimize-wvd/",
           "length": "PT24M",
           "ratings": {
-            "count": 876,
-            "average": 4.777397
+            "count": 877,
+            "average": 4.7765107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4440,6 +4230,215 @@
         }
       ],
       "size": 6,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-modern-os-deployment-and-feature-updates-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-deliver-remote-desktops-and-apps-with-azure-virtual-desktop.md",
+      "title": "Deliver remote desktops and apps with Azure Virtual Desktop",
+      "excerpt": "Azure Virtual Desktop on Microsoft Azure is a desktop and app virtualization service that runs on the cloud. Azure Virtual Desktop works across devices – including Windows, Mac, iOS, and Android – with full-featured apps that you can use to access remote desktops and apps.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-deliver-remote-desktops-and-apps-with-azure-virtual-desktop/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-deliver-remote-desktops-and-apps-with-azure-virtual-desktop/",
+      "length": "PT3H48M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-wvd-intro.md",
+          "title": "Introduction to Windows Virtual Desktop in Microsoft Azure",
+          "excerpt": "Learn how to use Windows Virtual Desktop to deliver remote desktop and remote app experiences in Microsoft Azure.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-wvd-intro/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 1682,
+            "average": 4.7853746
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/get-modern-os-deployment-and-feature-updates-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-prepare-for-wvd.md",
+          "title": "Prepare for Windows Virtual Desktop in Microsoft Azure",
+          "excerpt": "Learn how to prepare for Windows Virtual Desktop - a cloud-based virtualization solution running on Microsoft Azure. Windows Virtual Desktop is an elastically scalable service to deliver remote desktop and remote app experiences - without having to manage the underlying server infrastructure. Review the prerequisites and tools provided by Microsoft get ready to provision your first Windows Virtual Desktop host pool.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-prepare-for-wvd/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 1143,
+            "average": 4.750656
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/prepare-for-windows-virtual-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-wvd.md",
+          "title": "Deploy Windows Virtual Desktop in Microsoft Azure",
+          "excerpt": "Learn how to deploy Windows Virtual Desktop and customize the workspace for your users.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-wvd/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 873,
+            "average": 4.7411227
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/deploy-windows-virtual-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-optimize-wvd.md",
+          "title": "Optimize Windows Virtual Desktop in Microsoft Azure",
+          "excerpt": "Learn the steps to optimize Windows Virtual Desktop, including how to take advantage of new storage, file management, and automated scaling options.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-wvd/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-optimize-wvd/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 877,
+            "average": 4.7765107
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/optimize-windows-virtual-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 8,
       "heat": 62,
       "images": [
         {

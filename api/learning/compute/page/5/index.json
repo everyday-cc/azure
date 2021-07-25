@@ -4,50 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms.md",
-      "title": "Configure BitLocker disk encryption for Windows IaaS Virtual Machines",
-      "excerpt": "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 30,
-        "average": 4.733333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-bitlocker-disk-encryption-for-windows-iaas-vms-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-connect-iot-edge-device-to-iot-central.md",
       "title": "Connect an IoT Edge device to your IoT Central application",
       "excerpt": "In this module, you'll learn how to connect an IoT Edge device to your IoT Central application",
@@ -665,6 +621,50 @@
         "Compute",
         "Web",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql.md",
+      "title": "Create and deploy a data-driven Spring Boot Java application to Azure App Service with Spring Initializr and Maven",
+      "excerpt": "Create a Spring Boot application, connect it to a MySQL database and then deploy to Azure App Service.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-spring-boot-app-service-mysql/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 57,
+        "average": 4.7017546
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
       ]
     },
     {
