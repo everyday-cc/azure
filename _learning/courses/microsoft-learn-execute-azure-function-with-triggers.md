@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H23M
 ratings:
-  count: 5244
-  average: 4.7322655
+  count: 5245
+  average: 4.7321258
 heat: 54
 
 provider:
@@ -27,6 +27,6 @@ topics:
   - Serverless
   - Management Tools
 
-secured: "cn3GQPR4fDfeHgYadMsgwmwiAolm/KjB690g3eh2HW7Q7XcBRUey2L28NJBsjbm7fq/8UAUhzhve9k0cly2minPNBeo6mF/oMCQeektoYGKr0o3bJc/Z0jj+PsrGqz4xIgD9SBpBd7wYfPekQxyrniP13Qt+6Xl0p07WwR6GzfMBeOVdTf/vYG9vCurPV9H+g5FO6Kve1mWX6U6vdmOK77Qy87zRAeKCalbMp2SqO7lkf6E+89Xr0pA7zwTVXZ2DWOsLd3/GUJTUbkz7hsguwGgpUAsOy8r8TqlKxkuKg0COcBIAkfRur/ayhKOz+GNauX4f0lou0mlONWVEPx5dKyA90mUy18yK6mosjO0m3rG8bMkqpglo31cdHQLgwkOmlXUWJbsVDOyb25jz5bu9sbZToDLZDQmNTVm9W6mjc+k=;rxRLhOHXO1qzcDyNfHic0g=="
+secured: "RIfvRn22iFCEFyXdWhLj3JiYsVBkgbuHtXfOyb7woEGNBVsGyLNXX+lu2yVjhOVhkNdb3YvABHjmXxR16uE5sqRTJbOg84RgUbfpszDodvi8AB6Az2DNKvXjkI/38WCl6kf087n9PwW5DWowvD0bBty7KIs0GthvWmGjh4MmEEpivWvMQGlabm2M1QCvpVkfa1Uv3rQYCIxurLAPyYQlLg2x39iLVCB8NdyHkC4xwwcu59gMeBTlUwVvZ+gceWtAIhazPV2L98f9oymUKXrsCB/5P6C80qh+QL/dBJijRF1QiHsoozAUymEMiEW6WFZwLEW0GHpVNmhrgxoTTXwlljkEf/+WaUlqnxsD2uzUWhjewwvcsrIsrkZOHi4Ga2jtxm4jnCt/n7AmQ5ozuslB90hh9B1LAZ0sMjGfFcVWkF4=;vcPDhZJKeclGOkPraAP1KA=="
 ---
 

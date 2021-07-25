@@ -8,7 +8,7 @@ length: PT1H11M
 ratings:
   count: 7283
   average: 4.7377453
-heat: 58
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "2YXW3DmYFJWRDI8INpfxkcZ4cZXzhGHSzj6a3d7/87v7mhX+bESv572n7DBHoBDK5VdiD7HQDON+cGhS/kgLYhghJ16a1TxOHs5SFZUNO+VDvprfabwN12TQszTVfjgs5JdYR7SfoODi8xUrl+w2K7PCP7FN6eDjdmF9cRxmq3FGve9cKM9MDhLB4mLa16D05m3j3Vd5m0IpMd3ETfV3B+pqg8F+y/bPl45RMUwfoX7dwDkX8W7KX3SB0jCXFoDgUrTFpWnYTSwBVNsbLEbZn4U6K5lb3DTmbVzQC4ncQCj/EKQBn4b77FrvEl+ZT2C9ekgWJZsE+u1w8devI6lU/wfJdjb9e7yNLQ3Fftl4yRFGoBI8pgbUIgPzOAa+ZnKRjA+bcliwiv0gc9NdrZ5bChJjbhEZSwJsuapz8vTr8R4=;2aBanjuV2K0QTJkk/HjT8Q=="
+secured: "8yVB520DlNJTF56rWYwXo5rkpLnyPdNwkhKFGGIeq4qdD7aCL5Wvy17q+oKjV2JOz/8wnb2MeTq+Oo/JxcyzhlzG6As03975bdY2naKb76DJJxaVvsQyVSwUO1X/+F20aLSCgU611qmsyGgtdjyyJcDDkumZT3wrJyCpX6MIs0oEEx5WGZKZ5g51jr8rV+2pROEoV/xKUXsh/doWULgPE5WBK+iIEH0vnaGFikybID510LsJNtRLCDcZdxI+eLtMSQhw7hMQy8NrFElmrQlu1l1xEsmJsQHwbYJIyDFoswOJlD5IxwrlmoLPgtfLbktq4G2gMD2DuC93aLlw9rs5fstqHWIgAaPjXH4xOtu/oB9p6PrW/znd5s+XXpyGXJRZT26E+HjJN3tRGOYaa7FL6YXUrsMNhT4kD4gJgLTWXcI=;VwjreD56FbV9IMBmr6HbtQ=="
 ---
 
