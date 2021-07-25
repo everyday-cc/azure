@@ -70,8 +70,8 @@ related:
         isCached: true
   - title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
     excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
-    publishedDateTime: 2021-07-22T22:04:00Z
-    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-with-new-accreditation/"
+    publishedDateTime: 2021-07-23T02:32:00Z
+    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
     type: article
     provider:
       name: ARN
@@ -104,6 +104,20 @@ related:
       - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Latest DP-203 Dumps - Microsoft Azure Data Engineer Associate Real Exam Questions And Accurate Answers [2021]"
+    excerpt: "Pass you Microsoft DP-203 exam in just one go with DumpsArchive DP-203 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
+    publishedDateTime: 2021-07-24T23:10:00Z
+    webUrl: "https://www.madinamerica.com/author/new-dp-203-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 18
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
         isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."

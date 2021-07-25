@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
-excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
-publishedDateTime: 2021-07-23T02:32:00Z
-originalUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
-webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
+title: "Latest DP-203 Dumps - Microsoft Azure Data Engineer Associate Real Exam Questions And Accurate Answers [2021]"
+excerpt: "Pass you Microsoft DP-203 exam in just one go with DumpsArchive DP-203 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
+publishedDateTime: 2021-07-24T23:10:00Z
+originalUrl: "https://www.madinamerica.com/author/new-dp-203-dumps/"
+webUrl: "https://www.madinamerica.com/author/new-dp-203-dumps/"
 type: article
-quality: 37
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Mad in America
+  domain: madinamerica.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
-    width: 740
-    height: 493
+  - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+    width: 300
+    height: 285
     isCached: true
 
 related:
@@ -80,6 +80,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
+    excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
+    publishedDateTime: 2021-07-23T02:32:00Z
+    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 37
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
     publishedDateTime: 2021-07-22T18:05:00Z
@@ -102,20 +116,6 @@ related:
       - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Latest DP-203 Dumps - Microsoft Azure Data Engineer Associate Real Exam Questions And Accurate Answers [2021]"
-    excerpt: "Pass you Microsoft DP-203 exam in just one go with DumpsArchive DP-203 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-    publishedDateTime: 2021-07-24T23:10:00Z
-    webUrl: "https://www.madinamerica.com/author/new-dp-203-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 18
-    images:
-      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
         isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
@@ -141,6 +141,6 @@ related:
       domain: publicnow.com
     quality: 0
 
-secured: "1+sOJL/KB5Rti5Jd/wQNTJ3ZWd3ai+Ei/Vj034fQ6NOoGLjtR7zW9NGTYtFt2pcr5KnwF7URRokPTCK6Lob9Sp6qJZbpdO1hHK6lKYyICsmBouBYz347hH+fj/pZRw60n4Opd4+ktUTjaoeJo4FDvnfXqZEvVLtdkVnObWUAdNXj707JmVc3/P6FFnZkiLqEXqiS41pPQzYN9mc3mn8L7+pK4LjpaDOiq4/rUiz/6v1jm4ji8pFw1uLJLJSsspm2syRy8tVRie3ws0Q3w889/z569ZdbYhh6eOHfkvHb78u9CSi0/Znkz3wFTkO/8mz6CkP8O21Jko2IX4LBj2CzarEacUpBJbFr4ZVgSHU29C4=;OBde8TCJlkrHXKqepuGEbA=="
+secured: "vo1d7n6M0oNVx153rVZrwiVpvOQlsktJjD3dRY0bZAvPmkujz6/iiIVRaQPUCXFl/E/t1C/Ed9d1+tIulXOMT6egfRC5tUTipYmIrtKpCQw1MwfPH9uYL20tXuM5HC8syIcmTNvNkaiCKzAK78XR2lKoVb8NSNwPYSl2aGBDxk6qdvYl+vUw6gdigLNqEgAfsK3KMyczQ/JLzvEFWFXj8jAboecw7zW9RQ9oTBzukgLDX/A8f8eUK28t5/jtpNpaodBGsp/9pCJJHZFzLBE6QdNaGnWo+qbGyIddKA4dPEOxMvzare3ytXP+1V4IFfsLdsPSQ/AisKm9XGKXa1lNaNVqqXlIs7ButBk27Kf7PRQ=;oxvjC6ow8poQEACXMQR5GQ=="
 ---
 
