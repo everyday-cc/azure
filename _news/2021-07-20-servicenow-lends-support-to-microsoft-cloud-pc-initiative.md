@@ -103,6 +103,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 29
+  - title: "Latest DP-900 Dumps - Microsoft Azure Fundamentals Real Exam Questions And Accurate Answers (2021)"
+    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like DP-900 specialists. As a result of this, IT certifications, for example DP-900 Microsoft Azure Data Fundamentals Exam,"
+    publishedDateTime: 2021-07-25T05:08:00Z
+    webUrl: "https://www.madinamerica.com/author/get-dp-900-exam/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 23
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Latest DP-203 Dumps - Microsoft Azure Data Engineer Associate Real Exam Questions And Accurate Answers [2021]"
     excerpt: "Pass you Microsoft DP-203 exam in just one go with DumpsArchive DP-203 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
     publishedDateTime: 2021-07-24T23:10:00Z

@@ -103,6 +103,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 29
+  - title: "Latest DP-900 Dumps - Microsoft Azure Fundamentals Real Exam Questions And Accurate Answers (2021)"
+    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like DP-900 specialists. As a result of this, IT certifications, for example DP-900 Microsoft Azure Data Fundamentals Exam,"
+    publishedDateTime: 2021-07-25T05:08:00Z
+    webUrl: "https://www.madinamerica.com/author/get-dp-900-exam/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 23
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
     excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
     publishedDateTime: 2021-07-20T15:50:00Z

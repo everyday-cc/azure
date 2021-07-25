@@ -1,31 +1,43 @@
 ---
 category: news
-title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
-excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
-publishedDateTime: 2021-07-22T16:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
+title: "Latest DP-900 Dumps - Microsoft Azure Fundamentals Real Exam Questions And Accurate Answers (2021)"
+excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like DP-900 specialists. As a result of this, IT certifications, for example DP-900 Microsoft Azure Data Fundamentals Exam,"
+publishedDateTime: 2021-07-25T05:08:00Z
+originalUrl: "https://www.madinamerica.com/author/get-dp-900-exam/"
+webUrl: "https://www.madinamerica.com/author/get-dp-900-exam/"
 type: article
-quality: 70
-heat: 270
-published: true
+quality: 23
+heat: -1
+published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Mad in America
+  domain: madinamerica.com
 
 topics:
   - Azure
-  - Identity
-  - Integration
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+    width: 300
+    height: 285
     isCached: true
 
 related:
+  - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
+    excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
+    publishedDateTime: 2021-07-22T16:20:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
     excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
     publishedDateTime: 2021-07-21T20:16:00Z
@@ -91,20 +103,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 29
-  - title: "Latest DP-900 Dumps - Microsoft Azure Fundamentals Real Exam Questions And Accurate Answers (2021)"
-    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like DP-900 specialists. As a result of this, IT certifications, for example DP-900 Microsoft Azure Data Fundamentals Exam,"
-    publishedDateTime: 2021-07-25T05:08:00Z
-    webUrl: "https://www.madinamerica.com/author/get-dp-900-exam/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 23
-    images:
-      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
   - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
     excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
     publishedDateTime: 2021-07-20T15:50:00Z
@@ -157,6 +155,6 @@ related:
       domain: publicnow.com
     quality: 0
 
-secured: "LT+cPrxvdZ5V2kWm/VVGVd+wxKsBmXnGZyPGmCdtOBuAxq/q9yWHZqhKmYhSaUAm+KityHrHgYwGg+YhETy1BA18Aol8wGH528r8vEYu1Td+yKyTgQ1+J7S0ZA/SdkKlSwoklP9w3Geg47jyFhpFGDE4nR7Lq7hB0HBkboRTq875sHH8ROASwxkUC4nIv0eh2ihSf7afEuRfDq5N6Y1hJBQDJcFMTVqvRn3Pmfqw5QFNYC3ryM3g4zsac3FE7JAKRtNmErG0LJnVTGyIvdTEkl8FHS0UNC77f3YrdS9bkwrQIcDGgphA0os5/gNwykMVzlscPIHile+E+TXejX30XfICtrO6vIqd8xdttjXFsZo=;yjT9NdgpWd7VCvqrrCM1bA=="
+secured: "g61fzNiFV92F7M+q9EkUbl+R2vQRyhDW9L2attcArcyOBBKPqLYTkJSICvTURfChZ9G49wT6bOzANDJH8JSae8MmtgglwxLrbxpldAPLh5pm5tKMmjA7J6TxNnSVLvjdEPl5Xo22k6jHqZa4Vph3CXPameiPtMiT2pDgYvpnRrXoQ3NyM0A4er7oarWIHgk2J2OVlm3wiUSf++Z8/QKw9PgKxF0uYR4lWgtZQRZNeqbNwZ7m6LUaflyYB2Qw0bUkN66RevOFjRzHv3Vr8vUOHh4I943gGlZrV3qKtqq7sjeR3Poh/UWKjq8bIcz3OWhGXJbf5DZUHj0IQ3mF/fFT/WbROnykFmJCZ7YjSj1AxIA=;gUhCcXrIQf5Umz/lvGnqtg=="
 ---
 
