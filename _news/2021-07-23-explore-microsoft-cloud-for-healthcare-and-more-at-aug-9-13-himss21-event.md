@@ -153,6 +153,15 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "Cloud Integration Platform Market Size, CAGR | Key Players – IBM, Dell Boomi, Oracle, Informatica, SAP, Microsoft Azure"
+    excerpt: "The Cloud Integration Platform Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cloud Integration Platform Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
+    publishedDateTime: 2021-07-25T21:37:00Z
+    webUrl: "https://manometcurrent.com/cloud-integration-platform-market-size-cagr-key-players-ibm-dell-boomi-oracle-informatica-sap-microsoft-azure/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 10
 
 secured: "lvha/gCpF7HgaH4jokrsRTjlFvUnwdN+zcEh4TCw5CEPpeNh+rH4UPmLVdLhISLyDGojOX6mgDE8y55ctvTMrkiIMstULyKkTXVOIBmTL+OTnLk3DvEVKL5iVc7RzbS+ztlgdP5QubgAcZ8Ft5epuFV/G5vl34PAVjlRXgkIhVm4kzcXy3h3rDi9djxKyf17zH7wa6GTp92FWKy7/YEyjuIgeERiWng+OFQu5BE/yD7N9km99C8NUVUqTDEVZOma3P7s8xvQUTWlHp0o+AX1eHEfbxMvWFbpSuGg5DSH0HasyT7PRBYrW3zTLWC2KL7bYn/gpJKz3RZhOt1J3/gEowv7VOdQAslzNo8r1B2kcoM=;kIYx7N34shjGXQBnm5zDcg=="
 ---

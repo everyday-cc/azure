@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
 type: article
 quality: 70
-heat: 270
+heat: 290
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "Cloud Integration Platform Market Size, CAGR | Key Players – IBM, Dell Boomi, Oracle, Informatica, SAP, Microsoft Azure"
+    excerpt: "The Cloud Integration Platform Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cloud Integration Platform Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
+    publishedDateTime: 2021-07-25T21:37:00Z
+    webUrl: "https://manometcurrent.com/cloud-integration-platform-market-size-cagr-key-players-ibm-dell-boomi-oracle-informatica-sap-microsoft-azure/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 10
   - title: "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event"
     excerpt: "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,"
     publishedDateTime: 2021-07-22T18:09:00Z
