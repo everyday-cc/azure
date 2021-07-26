@@ -154,6 +154,17 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "HCL Tech selected as strategic launch partner for Microsoft cloud for Financial Services"
+    excerpt: "HCL Technologies said that it has been selected as a launch partner for Microsoft's recently announced industry cloud - Microsoft Cloud for Financial Services."
+    publishedDateTime: 2021-07-26T08:21:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 13
   - title: "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event"
     excerpt: "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,"
     publishedDateTime: 2021-07-22T18:09:00Z

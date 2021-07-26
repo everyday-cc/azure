@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
 type: article
 quality: 70
-heat: 290
+heat: 310
 published: true
 
 provider:
@@ -147,6 +147,17 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "HCL Tech selected as strategic launch partner for Microsoft cloud for Financial Services"
+    excerpt: "HCL Technologies said that it has been selected as a launch partner for Microsoft's recently announced industry cloud - Microsoft Cloud for Financial Services."
+    publishedDateTime: 2021-07-26T08:21:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 13
   - title: "Cloud Integration Platform Market Size, CAGR | Key Players – IBM, Dell Boomi, Oracle, Informatica, SAP, Microsoft Azure"
     excerpt: "The Cloud Integration Platform Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cloud Integration Platform Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
     publishedDateTime: 2021-07-25T21:37:00Z

@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
-excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
-publishedDateTime: 2021-07-20T08:11:00Z
-originalUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
-webUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
+title: "HCL Tech selected as strategic launch partner for Microsoft cloud for Financial Services"
+excerpt: "HCL Technologies said that it has been selected as a launch partner for Microsoft's recently announced industry cloud - Microsoft Cloud for Financial Services."
+publishedDateTime: 2021-07-26T08:21:00Z
+originalUrl: "https://www.business-standard.com/article/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+webUrl: "https://www.business-standard.com/article/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
 type: article
-quality: 14
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: FierceBiotech
-  domain: fiercebiotech.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok"
-    width: 4432
-    height: 2955
-    isCached: true
 
 related:
   - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
@@ -145,17 +141,20 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "HCL Tech selected as strategic launch partner for Microsoft cloud for Financial Services"
-    excerpt: "HCL Technologies said that it has been selected as a launch partner for Microsoft's recently announced industry cloud - Microsoft Cloud for Financial Services."
-    publishedDateTime: 2021-07-26T08:21:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+  - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
+    excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
+    publishedDateTime: 2021-07-20T08:11:00Z
+    webUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 13
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 14
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok"
+        width: 4432
+        height: 2955
+        isCached: true
   - title: "Cloud Integration Platform Market Size, CAGR | Key Players – IBM, Dell Boomi, Oracle, Informatica, SAP, Microsoft Azure"
     excerpt: "The Cloud Integration Platform Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cloud Integration Platform Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
     publishedDateTime: 2021-07-25T21:37:00Z
@@ -175,6 +174,6 @@ related:
       domain: publicnow.com
     quality: 0
 
-secured: "cw2iA2zHzV/WlkZQYJHYT6i3WEzEtLyyXv5W9IAutcfjXhR64gHHoQttsBSlMSJmtfCIMGMo92XdcWQ5AXBRrMvfxWxzDEPaJCRQG+EsqCSba24RXxxe+52cJbKaTFyeduB2bcoDezeNm/Jb4zdbsH4NSUGm2bMCSYvIst0U8Rj7WZZyf5UcIEEB+h4OQKK/GAa3k8OpwMbxs2b7FwSlRS8qmpd9emhIndnTFaAwmi21HVRQbLYik1HpAUhOQHtxz5aKnVCgAIttABm2tGks0tInDtnzNcRFyd1ddUOfFkxfjIgFqHPy+MH5g78MZvWPfNHFlwrLRpti7xKAXpADFvW1btZgLWYDiBLy57Im548=;aBXwzhkF4B5t4PKYHLcTYA=="
+secured: "6GCX3yU/b/R8lJItHSaQDHabPXjB5MXQyyMqeD3b02yHIUahQhK5Dk9JmE/QRNKFwXZ8wfd//xyzQTdxGQaaBt47NZXgt6AF5i3BNExvK7bO49Tf1BwSdPrRLcarb0nShaVWzFw1Z5TkYRHJ7Wp44ZqYmkQwkVSVeeTdMFo0K1RFFcHlwma2q62XL0vqd5yCtAL6/CVQDC2/gtywyiLy2L/phU2+gFMzuxMCCKKzls3bEEI+xG5n8hp92ePoNk97JmJy3TpQ2lM8I8smGr9TCN+q1u27Dar+Pw9M4E3qFpEQWAYUuNZ7ySHuZRLjuym37hTAm5JN1qaIQELO6QAZDAgRPLcstS4hC9ycuX/4dy0=;SdK9Va19OdHN1UrNx01GrQ=="
 ---
 
