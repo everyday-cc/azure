@@ -4,205 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure.md",
-      "title": "Architect secure infrastructure in Azure",
-      "excerpt": "Learn about the tools and services available on Azure to ensure your resources are secure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/",
-      "length": "PT6H37M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-resolve-threats-with-azure-security-center.md",
-          "title": "Resolve security threats with Azure Security Center",
-          "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-resolve-threats-with-azure-security-center/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 1716,
-            "average": 4.6200466
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-          "title": "Secure your Azure virtual machine disks",
-          "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
-          "length": "PT1H1M",
-          "ratings": {
-            "count": 3796,
-            "average": 4.703635
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
-          "title": "Manage secrets in your server apps with Azure Key Vault",
-          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 2013,
-            "average": 4.5931444
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security",
-            "Compute",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
-          "title": "Secure your Azure resources with role-based access control (RBAC)",
-          "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 7481,
-            "average": 4.6905494
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools",
-        "Networking",
-        "Security",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources.md",
       "title": "AZ-104: Monitor and back up Azure resources",
       "excerpt": "Learn how to monitor and back up Azure resources and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -233,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 3013,
-            "average": 4.648191
+            "count": 3014,
+            "average": 4.648308
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -278,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
           "length": "PT43M",
           "ratings": {
-            "count": 1434,
-            "average": 4.7085075
+            "count": 1435,
+            "average": 4.7087107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -457,8 +258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 5557,
-            "average": 4.741767
+            "count": 5558,
+            "average": 4.741634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1097,8 +898,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
           "length": "PT22M",
           "ratings": {
-            "count": 492,
-            "average": 4.7012196
+            "count": 493,
+            "average": 4.7018256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1319,8 +1120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 5557,
-            "average": 4.741767
+            "count": 5558,
+            "average": 4.741634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1979,8 +1780,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
           "length": "PT20M",
           "ratings": {
-            "count": 959,
-            "average": 4.7924924
+            "count": 960,
+            "average": 4.7927084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3061,8 +2862,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
           "length": "PT29M",
           "ratings": {
-            "count": 824,
-            "average": 4.7961164
+            "count": 825,
+            "average": 4.796364
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4331,8 +4132,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 1080,
-            "average": 4.5444446
+            "count": 1082,
+            "average": 4.5452867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4375,8 +4176,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 878,
-            "average": 4.644647
+            "count": 880,
+            "average": 4.643182
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4419,8 +4220,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 579,
-            "average": 4.569948
+            "count": 582,
+            "average": 4.570447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4463,8 +4264,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 468,
-            "average": 4.6517096
+            "count": 469,
+            "average": 4.646055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4979,8 +4780,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
           "length": "PT28M",
           "ratings": {
-            "count": 1683,
-            "average": 4.785502
+            "count": 1684,
+            "average": 4.7856293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5188,8 +4989,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
           "length": "PT28M",
           "ratings": {
-            "count": 1683,
-            "average": 4.785502
+            "count": 1684,
+            "average": 4.7856293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5619,8 +5420,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/",
           "length": "PT43M",
           "ratings": {
-            "count": 223,
-            "average": 4.6905828
+            "count": 225,
+            "average": 4.693333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6047,8 +5848,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/",
           "length": "PT43M",
           "ratings": {
-            "count": 223,
-            "average": 4.6905828
+            "count": 225,
+            "average": 4.693333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6261,8 +6062,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1329,
-            "average": 4.7072988
+            "count": 1330,
+            "average": 4.706767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6442,6 +6243,135 @@
       "topics": [
         "Azure",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity.md",
+      "title": "Describe the concepts of security, compliance, and identity",
+      "excerpt": "Describe the concepts of security, compliance, and identity",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity/",
+      "length": "PT42M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-security-concepts-methodologies.md",
+          "title": "Describe security concepts and methodologies",
+          "excerpt": "Describe security concepts and methodologies",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-security-concepts-methodologies/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 1385,
+            "average": 4.805776
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles.md",
+          "title": "Describe Microsoft security and compliance principles",
+          "excerpt": "Describe Microsoft security and compliance principles",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 1310,
+            "average": 4.7923665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-microsoft-security-and-compliance-principles-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Identity"
       ]
     }
   ],

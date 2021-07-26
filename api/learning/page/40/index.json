@@ -220,6 +220,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-introduction-python-using-datascience-library.md",
+      "title": "Introduction to Python using the datascience library",
+      "excerpt": "Learn about Python expressions, functions, basic data types(numbers, strings), and comparisons",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-python-using-datascience-library/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-using-datascience-library/",
+      "length": "PT1H28M",
+      "ratings": {
+        "count": 293,
+        "average": 4.648464
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-using-datascience-library-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-azure-api-management.md",
       "title": "Introduction to Azure API Management",
       "excerpt": "Evaluate whether Azure API Management is appropriate for managing and exposing your organization's APIs",
@@ -522,8 +564,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-classical-machine-learning/",
       "length": "PT52M",
       "ratings": {
-        "count": 20,
-        "average": 4.95
+        "count": 21,
+        "average": 4.952381
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -608,7 +650,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-for-machine-learning/",
       "length": "PT45M",
       "ratings": {
-        "count": 12,
+        "count": 13,
         "average": 5.0
       },
       "provider": {
@@ -1245,49 +1287,6 @@
         "Azure",
         "Identity",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-threat-vectors-data-breaches.md",
-      "title": "Examine threat vectors and data breaches",
-      "excerpt": "Examine threat vectors and data breaches",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-threat-vectors-data-breaches/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-threat-vectors-data-breaches/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 8,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-ad-threat-vectors-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

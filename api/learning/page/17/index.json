@@ -4,49 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-describe-sql-server-query-plans.md",
-      "title": "Describe SQL Server query plans",
-      "excerpt": "Read and understand various forms of execution plans. Compare estimated vs actual plans. Learn how and why plans are generated.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-sql-server-query-plans/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-sql-server-query-plans/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 755,
-        "average": 4.752318
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-sql-server-query-plans-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-design-implement-hybrid-networking.md",
       "title": "Design and implement hybrid networking",
       "excerpt": "You will learn how to design and implement hybrid networking solutions such as Site-to-Site VPN connections, Point-to-Site VPN connections, Azure Virtual WAN, and Virtual WAN hubs.",
@@ -463,8 +420,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1362,
-        "average": 4.7723937
+        "count": 1363,
+        "average": 4.7725606
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -797,8 +754,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 3369,
-        "average": 4.7159395
+        "count": 3370,
+        "average": 4.715727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -884,8 +841,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
       "length": "PT29M",
       "ratings": {
-        "count": 824,
-        "average": 4.7961164
+        "count": 825,
+        "average": 4.796364
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1090,8 +1047,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
       "length": "PT53M",
       "ratings": {
-        "count": 1352,
-        "average": 4.64571
+        "count": 1355,
+        "average": 4.6442804
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1133,8 +1090,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
       "length": "PT20M",
       "ratings": {
-        "count": 959,
-        "average": 4.7924924
+        "count": 960,
+        "average": 4.7927084
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1237,6 +1194,50 @@
         "IoT",
         "Storage",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure.md",
+      "title": "Introduction to open-source database migration on Azure",
+      "excerpt": "&quot;Introduction to open-source database migration on Azure&quot;",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 1128,
+        "average": 4.775709
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Migration"
       ]
     }
   ],

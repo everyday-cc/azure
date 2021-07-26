@@ -4,211 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-create-cloud-native-apps-with-azure-and-open-source-software.md",
-      "title": "Create cloud native apps with Azure and open-source software",
-      "excerpt": "Cloud-native apps represent a modern approach to app development, where software systems are designed with cloud scale and capabilities in mind. Cloud-native apps build on open source technologies where feasible, with a focus on architectural modularity.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-create-cloud-native-apps-with-azure-and-open-source-software/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-create-cloud-native-apps-with-azure-and-open-source-software/",
-      "length": "PT8H38M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-cloud-native-apps.md",
-          "title": "Introduction to cloud-native apps on Azure",
-          "excerpt": "This module teaches concepts and ideas associated with cloud-native apps. We cover selecting Open-Source Software (OSS) components like Kubernetes and PostgreSQL, as well as unique Azure tools like Cosmos DB. We’ll also identify situations that call for building cloud-native apps, and review selecting components in an example scenario.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-cloud-native-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-cloud-native-apps/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 4,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-cloud-native-apps-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cna-orchestrate-containers.md",
-          "title": "Orchestrate containers for cloud-native apps with AKS",
-          "excerpt": "Cloud-native applications are modular in nature, with components separated and self-contained. Components can be encapsulated in containers, such as those created with Docker, or published from an Azure service. Dynamic scaling can then be managed by Kubernetes. We'll learn to decide when Kubernetes is right for our Cloud Native app, and we'll see how to use it as a first building block of our Cloud Native architecture.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cna-orchestrate-containers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-native-apps-orchestrate-containers/",
-          "length": "PT52M",
-          "ratings": {
-            "count": 4,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers",
-            "Compute",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cna-build-basic-service.md",
-          "title": "Build a basic cloud native service using PostgreSQL and node",
-          "excerpt": "Build a basic service consisting of an Express.js-based web service with Microsoft Azure Database for PostgreSQL providing its persistent data store, and managed by a front-end Next.js management web app.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cna-build-basic-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-native-build-basic-service/",
-          "length": "PT1H40M",
-          "ratings": {
-            "count": 3,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cna-stream-iot-data.md",
-          "title": "Stream Internet-of-things (IoT) data to a cloud native app with IoT Central",
-          "excerpt": "Describes how Microsoft Azure IoT Central facilitates the design, testing, and implementation of distributed applications that process IoT telemetry data generated by smart devices. When designing cloud-native applications, you can leverage Azure IoT Central to deliver a comprehensive set of features that help with design, testing, and implementation of distributed applications that rely on IoT telemetry.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cna-stream-iot-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cna-stream-iot-data/",
-          "length": "PT47M",
-          "ratings": {
-            "count": 4,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-cloud-native-apps-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Compute",
-        "Web",
-        "Databases",
-        "IoT",
-        "DevOps",
-        "Management Tools",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-create-computer-vision-solutions-with-azure-cognitive-services.md",
       "title": "Create computer vision solutions with Azure Cognitive Services",
       "excerpt": "Create computer vision solutions with Azure Cognitive Services",
@@ -672,8 +467,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 1080,
-            "average": 4.5444446
+            "count": 1082,
+            "average": 4.5452867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -716,8 +511,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 878,
-            "average": 4.644647
+            "count": 880,
+            "average": 4.643182
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -760,8 +555,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 579,
-            "average": 4.569948
+            "count": 582,
+            "average": 4.570447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -804,8 +599,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 468,
-            "average": 4.6517096
+            "count": 469,
+            "average": 4.646055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1320,8 +1115,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
           "length": "PT28M",
           "ratings": {
-            "count": 1683,
-            "average": 4.785502
+            "count": 1684,
+            "average": 4.7856293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1529,8 +1324,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
           "length": "PT28M",
           "ratings": {
-            "count": 1683,
-            "average": 4.785502
+            "count": 1684,
+            "average": 4.7856293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1960,8 +1755,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/",
           "length": "PT43M",
           "ratings": {
-            "count": 223,
-            "average": 4.6905828
+            "count": 225,
+            "average": 4.693333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2388,8 +2183,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/",
           "length": "PT43M",
           "ratings": {
-            "count": 223,
-            "average": 4.6905828
+            "count": 225,
+            "average": 4.693333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2602,8 +2397,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1329,
-            "average": 4.7072988
+            "count": 1330,
+            "average": 4.706767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2816,8 +2611,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 1383,
-            "average": 4.8054953
+            "count": 1385,
+            "average": 4.805776
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4576,6 +4371,215 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-foundations-of-data-science.md",
+      "title": "Foundations of data science",
+      "excerpt": "Learn python programming and data science together with UC Berkeley's data 8: foundations of data science course",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-foundations-of-data-science/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-foundations-of-data-science/",
+      "length": "PT12H53M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-learn-data-science-method.md",
+          "title": "Learn the data science method",
+          "excerpt": "Learn about the history and motivation behind data science",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-learn-data-science-method/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/learn-data-science-method/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 567,
+            "average": 4.703704
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-python-using-datascience-library.md",
+          "title": "Introduction to Python using the datascience library",
+          "excerpt": "Learn about Python expressions, functions, basic data types(numbers, strings), and comparisons",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-python-using-datascience-library/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-using-datascience-library/",
+          "length": "PT1H28M",
+          "ratings": {
+            "count": 293,
+            "average": 4.648464
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-using-datascience-library-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-manipulate-tables-using-datascience-library.md",
+          "title": "Create and manipulate tables using the datascience library",
+          "excerpt": "Learn the basics of table manipulation in the datascience library",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manipulate-tables-using-datascience-library/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manipulate-tables-using-datascience-library/",
+          "length": "PT1H32M",
+          "ratings": {
+            "count": 156,
+            "average": 4.730769
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/create-manipulate-tables-using-datascience-library-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-design-plot-graphs-python.md",
+          "title": "Design and plot graphs in Python",
+          "excerpt": "Learn",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-plot-graphs-python/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-plot-graphs-python/",
+          "length": "PT52M",
+          "ratings": {
+            "count": 138,
+            "average": 4.7028985
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/design-plot-graphs-python-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-gain-insights-into-your-data-through-intelligent-tools-in-power-bi.md",
       "title": "Gain insights into your data through intelligent tools in Power BI",
       "excerpt": "Gain insights into your data through intelligent tools in Power BI",
@@ -5590,8 +5594,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
           "length": "PT45M",
           "ratings": {
-            "count": 461,
-            "average": 4.81128
+            "count": 462,
+            "average": 4.8116884
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -4,45 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks.md",
-      "title": "How to host a static website with Azure Storage | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how you can host a static website running in Azure Storage in a few steps.     For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=gYpNC_tdbQQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gYpNC_tdbQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M51S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-02T08:44:54-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gYpNC_tdbQQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-make-your-data-searchable-with-azure-search-and-ai-azure-tips-and-tricks.md",
       "title": "How to make your data searchable with Azure Search and AI | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to make your data searchable with Azure Search and AI. Creating compelling search experiences is hard. Azure Search provides search as a service and makes it easy to let AI analyze your data and enhance your results.    For more tips and tricks,",
@@ -658,8 +619,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 1362,
-            "average": 4.7723937
+            "count": 1363,
+            "average": 4.7725606
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -801,7 +762,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -954,8 +915,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft/",
           "length": "PT31M",
           "ratings": {
-            "count": 648,
-            "average": 4.810185
+            "count": 649,
+            "average": 4.8104777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1206,8 +1167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-sql-server-query-plans/",
           "length": "PT54M",
           "ratings": {
-            "count": 755,
-            "average": 4.752318
+            "count": 756,
+            "average": 4.7526455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1548,8 +1509,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft/",
           "length": "PT31M",
           "ratings": {
-            "count": 648,
-            "average": 4.810185
+            "count": 649,
+            "average": 4.8104777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1858,8 +1819,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3877,
-        "average": 4.5207634
+        "count": 3878,
+        "average": 4.520887
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1981,6 +1942,48 @@
         "Azure",
         "Management Tools",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-introduction.md",
+      "title": "Introduction to the Microsoft Azure Well-Architected Framework",
+      "excerpt": "Learn how using key principles throughout your cloud architecture can help you design and build a solid architectural foundation that you can continuously improve.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-well-architected-introduction/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
+      "length": "PT1H4M",
+      "ratings": {
+        "count": 408,
+        "average": 4.7965684
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
