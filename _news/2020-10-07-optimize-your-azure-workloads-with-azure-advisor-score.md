@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/optimize-your-azure-workloads-wit
 webUrl: "https://azure.microsoft.com/blog/optimize-your-azure-workloads-with-azure-advisor-score/"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Optimize your cloud spend with Azure"
+    excerpt: "Customers are looking for better ways to balance the pace of innovation with the need for agility while managing costs, maintaining control, and meeting increasingly rigorous standards around security and compliance. Today, we discuss how we are creating a consistent, simplified cost and pricing experience"
+    publishedDateTime: 2021-07-26T14:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/optimize-your-cloud-spend-with-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Learn how to manage and optimize your Azure costs with our guided learning modules"
     excerpt: "Stay up to date on your cost management needs with five new courses "
     publishedDateTime: 2020-10-01T16:00:50Z

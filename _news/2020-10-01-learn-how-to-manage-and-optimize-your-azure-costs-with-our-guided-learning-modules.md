@@ -45,6 +45,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Optimize your cloud spend with Azure"
+    excerpt: "Customers are looking for better ways to balance the pace of innovation with the need for agility while managing costs, maintaining control, and meeting increasingly rigorous standards around security and compliance. Today, we discuss how we are creating a consistent, simplified cost and pricing experience"
+    publishedDateTime: 2021-07-26T14:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/optimize-your-cloud-spend-with-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "yP/qwb5iZttJhxVRDSiWeXj01rGEYX6JDKA+VE/qrvwO6BG8+Gp09AfTfOZeJpAkep8riBSWOQPeABzvccIyb54UFPW86m4pC0HwfDUbqwmgq7qZQVMGbvv1SY5urotg/yqnCAxlhW30cI9VAjXaISyoypQW/3wbi4RHnGxQt8VEekzGlK23KT/8rWMRuMHki4555+jH9XQBiyOXahbwayk/HN+Hfb6WCKXlxIJxZ9SoMUuqtPC6ChTjQPWxQrJzYs5KXn5ikMhSPPcf0cbfus2Keb7QBip+mznFgNsW8BS/A0V/6qZjeOhaqLl4F9u2i73pNMJMbaLCl/2WdfCpAXAdWQiI4Vx9SRhTvwZ7gqM=;eIgPdQYGs+y1bmZUpxPzzQ=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "How to optimize your Azure workload costs"
-excerpt: "Managing IT costs is critical during this time of economic uncertainty. The global pandemic is challenging organizations across the globe to reinvent business strategies and make operations more effective and productive. "
-publishedDateTime: 2020-11-12T12:00:14Z
-originalUrl: "https://azure.microsoft.com/blog/how-to-optimize-your-azure-workload-costs-2/"
-webUrl: "https://azure.microsoft.com/blog/how-to-optimize-your-azure-workload-costs-2/"
+title: "Optimize your cloud spend with Azure"
+excerpt: "Customers are looking for better ways to balance the pace of innovation with the need for agility while managing costs, maintaining control, and meeting increasingly rigorous standards around security and compliance. Today, we discuss how we are creating a consistent, simplified cost and pricing experience"
+publishedDateTime: 2021-07-26T14:00:14Z
+originalUrl: "https://azure.microsoft.com/blog/optimize-your-cloud-spend-with-azure/"
+webUrl: "https://azure.microsoft.com/blog/optimize-your-cloud-spend-with-azure/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Developer tools
 
 related:
   - title: "Optimize your Azure workloads with Azure Advisor Score"
@@ -37,15 +36,15 @@ related:
         width: 1915
         height: 910
         isCached: true
-  - title: "Optimize your cloud spend with Azure"
-    excerpt: "Customers are looking for better ways to balance the pace of innovation with the need for agility while managing costs, maintaining control, and meeting increasingly rigorous standards around security and compliance. Today, we discuss how we are creating a consistent, simplified cost and pricing experience"
-    publishedDateTime: 2021-07-26T14:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/optimize-your-cloud-spend-with-azure/"
+  - title: "How to optimize your Azure workload costs"
+    excerpt: "Managing IT costs is critical during this time of economic uncertainty. The global pandemic is challenging organizations across the globe to reinvent business strategies and make operations more effective and productive. "
+    publishedDateTime: 2020-11-12T12:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/how-to-optimize-your-azure-workload-costs-2/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 69
   - title: "Learn how to manage and optimize your Azure costs with our guided learning modules"
     excerpt: "Stay up to date on your cost management needs with five new courses "
     publishedDateTime: 2020-10-01T16:00:50Z
@@ -56,6 +55,6 @@ related:
       domain: microsoft.com
     quality: 61
 
-secured: "Yb9kiPdPFddKJgdZtI2oe3/snWL5bP2X+NGwoNWVTxx93vJ0L1ZPrD2+NR2ErPM/tjO7YMsauN+9zaJPFghYDDulH9v3jNp1NSJN2FFpSUy9pznF2hqrQdBcNT8Iod8meMXxxBhVx2KYstyH3yjrr0akqIZ6SDy6vbhKjrdwQlEfHo/s059UrLI7RodSVOtbXUgzt9aQ4c6uOElpLhBch7N0vJQftBlvPtxhn2QZkJqK8u+1NDUdUw5ku9ZdXwa62zvdBazOwEeYjtyPiXdIl7/FpAw4/DsfSe6Lilbus+8RYHbQUMXfe02T9GII8e8t1DVpZEpCx80zGaifOQvdj1XriqyQvEHmMyei+LO2IwY=;TWDEK4i7xD+OBwORONQBvQ=="
+secured: "FYiVy7v3eK2aDuGxAQ+3ueP1YMOM7mJ0AHyHwyYmK5oNbsFBMLaWa/u8Ouq7E8fofy2HZxT313KbLWvCc/UvaOPxjKEuHKyBj6kuPB6iP3uy/NqXe5uAZh9OXu8ogDmdGFpl3mHl272hazjuRssefCf8rPCZ5zDKk5MyqEkAzdvAyhV/H3uNy3vRPWXLOfTqzubLUYs8C7U/lXHx0pm8jGoQvNpylsSp044q0bMPuGXxadYUspOz+TK9KoZBNRJ1vKEEmmyZKNsKcw4G7/WF6upXhGnh8Ba32d8uikkhoMAN/zk7V950wRbGjmwp2XkGbqANO3EoHZw+M3xSOMuWmRMKnJwsUBggDBhAf62fEHg=;1ixg6LgNf8iGhh3ubL5a3g=="
 ---
 
