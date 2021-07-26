@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
-excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
-publishedDateTime: 2021-07-21T12:34:00Z
-originalUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
-webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
+title: "HCL Technologies selected as a strategic launch partner for Microsoft cloud for Financial Services"
+excerpt: "Microsoft Cloud for Financial Services brings together capabilities with multilayered security and comprehensive compliance coverage to deliver differentiated customer experiences"
+publishedDateTime: 2021-07-26T07:36:00Z
+originalUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services-11627284318654.html"
+webUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services-11627284318654.html"
+ampWebUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: FierceBiotech
-  domain: fiercebiotech.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
-    width: 884
-    height: 543
+  - url: "https://images.livemint.com/img/2021/07/26/600x338/hclwipro-ktZE--621x414@LiveMint_1627284682062.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -40,21 +42,19 @@ related:
         width: 800
         height: 444
         isCached: true
-  - title: "HCL Technologies selected as a strategic launch partner for Microsoft cloud for Financial Services"
-    excerpt: "Microsoft Cloud for Financial Services brings together capabilities with multilayered security and comprehensive compliance coverage to deliver differentiated customer experiences"
-    publishedDateTime: 2021-07-26T07:36:00Z
-    webUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services-11627284318654.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
+  - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
+    excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
+    publishedDateTime: 2021-07-21T12:34:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 28
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 26
     images:
-      - url: "https://images.livemint.com/img/2021/07/26/600x338/hclwipro-ktZE--621x414@LiveMint_1627284682062.jpg"
-        width: 600
-        height: 337
+      - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
+        width: 884
+        height: 543
         isCached: true
   - title: "Inspire 2021: Microsoft announces a new industry cloud: The Microsoft Cloud for Sustainability"
     excerpt: "Inspire conference, Microsoft is going big on sustainability. The company announced a new cloud offering to help address sustainability needs"
@@ -89,6 +89,6 @@ related:
       domain: manometcurrent.com
     quality: 0
 
-secured: "SHOGLcB2QR2PxHHAQtElD9sOY7aHd4Bk18vz5YCL7Xyy+KaAlvAu72VCT6L5p/n3Mxv4DmvD2PnK5D9Et8OH13KuFnoWXcuFd7sUPoMryM/ccO7VJiXvA/O1cyPI4KX+ThNs8ObZQeeRVpK4ia5nxKazE92U9glh+2jzKmVQGpV913FhpFZEsxVSNcIKh2uvJQbood20aU060xr/4afwdNFxRnRyLdqQ4gfoVXTonFXEt0urifsNU7cif0FijtdhjO8WvOfh0SfaypH9WWinElp3GoQsEl4iHC1hg1S9yuRPtygnCKbx6QunP8yFLKyeOwOjOV1YJlPCJRLMiyJQwmx7Z6ZkjpBEAF5c6rfS2yYX9W/XQYWon06lHIpPZArQcKa6Tmt19lcrwttCSyHI7O1kLloMEkZH+Up87H02Y0Qk8skGXyCNGh4M20QcWqH7Yg6sicG/S1VKYgkB3y67jEcheqS0NPfD+n5G7kW3B8zIyzaEA/sHwq2mgMuuhhni3OxeVmQzJUES6evx3zvJ1g==;5dEFBYOSGitwhgYbtM9Zzg=="
+secured: "0GJr1CVyh41EXH0fUw2Nmh1DL4VcjuPgsbIJHVdTdjUk+ieH55W5yc/SUJrJkUT+ny+V7E0EozKUmVdKC7K0rukW8RFI5HAdAqWxI5nRaC2EeP9oAJb5Vgp45lldcppDNfqT8+nWRVdmh+J3VS+OB4uMvCx9GGFCv7D2NuRRr2st+0VTjlYl86RS7sNOYFKAiKnjg+rGLZzvvGYxId49xNItb6W3FHD2FRQPguBEby9S3jq/7TFDRmDYcKsKxc6hmYFexDqe60fEOVjTdiQsYPLOzQ9xWAwxsyrfo6G4EUbADb1FFYkGswffbIiI8a1htPgpW0Yvv51gt+lBO7Gjd6S96UCwTJnwn641fqaFvCc=;OfUGseTATma5qviSFUkF4g=="
 ---
 
