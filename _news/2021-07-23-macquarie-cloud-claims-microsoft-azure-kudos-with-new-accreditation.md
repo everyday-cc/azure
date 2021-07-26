@@ -145,6 +145,20 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "AT&T: Microsoft cloud deal covers the Edge and network stack, not core network function"
+    excerpt: "AT&T has clarified its partnership with Microsoft, emphasizing that it still controls the core of its network. The two companies entered into an expansive partnership in June, with Microsoft acquiring AT&T's Network Cloud division,"
+    publishedDateTime: 2021-07-26T13:15:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/att-microsoft-cloud-deal-covers-the-edge-and-network-stack-not-core-network-function/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 14
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "HCL Tech selected as strategic launch partner for Microsoft cloud for Financial Services"
     excerpt: "HCL Technologies said that it has been selected as a launch partner for Microsoft's recently announced industry cloud - Microsoft Cloud for Financial Services."
     publishedDateTime: 2021-07-26T08:21:00Z

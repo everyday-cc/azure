@@ -155,6 +155,20 @@ related:
         width: 4432
         height: 2955
         isCached: true
+  - title: "AT&T: Microsoft cloud deal covers the Edge and network stack, not core network function"
+    excerpt: "AT&T has clarified its partnership with Microsoft, emphasizing that it still controls the core of its network. The two companies entered into an expansive partnership in June, with Microsoft acquiring AT&T's Network Cloud division,"
+    publishedDateTime: 2021-07-26T13:15:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/att-microsoft-cloud-deal-covers-the-edge-and-network-stack-not-core-network-function/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 14
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Integration Platform Market Size, CAGR | Key Players – IBM, Dell Boomi, Oracle, Informatica, SAP, Microsoft Azure"
     excerpt: "The Cloud Integration Platform Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cloud Integration Platform Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
     publishedDateTime: 2021-07-25T21:37:00Z

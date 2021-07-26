@@ -1,31 +1,43 @@
 ---
 category: news
-title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
-excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
-publishedDateTime: 2021-07-22T16:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
+title: "AT&T: Microsoft cloud deal covers the Edge and network stack, not core network function"
+excerpt: "AT&T has clarified its partnership with Microsoft, emphasizing that it still controls the core of its network. The two companies entered into an expansive partnership in June, with Microsoft acquiring AT&T's Network Cloud division,"
+publishedDateTime: 2021-07-26T13:15:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/att-microsoft-cloud-deal-covers-the-edge-and-network-stack-not-core-network-function/"
+webUrl: "https://www.datacenterdynamics.com/en/news/att-microsoft-cloud-deal-covers-the-edge-and-network-stack-not-core-network-function/"
 type: article
-quality: 70
-heat: 330
-published: true
+quality: 14
+heat: -1
+published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
-  - Identity
-  - Integration
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
+    excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
+    publishedDateTime: 2021-07-22T16:20:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
     excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
     publishedDateTime: 2021-07-21T20:16:00Z
@@ -147,20 +159,6 @@ related:
         width: 4432
         height: 2955
         isCached: true
-  - title: "AT&T: Microsoft cloud deal covers the Edge and network stack, not core network function"
-    excerpt: "AT&T has clarified its partnership with Microsoft, emphasizing that it still controls the core of its network. The two companies entered into an expansive partnership in June, with Microsoft acquiring AT&T's Network Cloud division,"
-    publishedDateTime: 2021-07-26T13:15:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/att-microsoft-cloud-deal-covers-the-edge-and-network-stack-not-core-network-function/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 14
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "HCL Tech selected as strategic launch partner for Microsoft cloud for Financial Services"
     excerpt: "HCL Technologies said that it has been selected as a launch partner for Microsoft's recently announced industry cloud - Microsoft Cloud for Financial Services."
     publishedDateTime: 2021-07-26T08:21:00Z
@@ -191,6 +189,6 @@ related:
       domain: publicnow.com
     quality: 0
 
-secured: "LT+cPrxvdZ5V2kWm/VVGVd+wxKsBmXnGZyPGmCdtOBuAxq/q9yWHZqhKmYhSaUAm+KityHrHgYwGg+YhETy1BA18Aol8wGH528r8vEYu1Td+yKyTgQ1+J7S0ZA/SdkKlSwoklP9w3Geg47jyFhpFGDE4nR7Lq7hB0HBkboRTq875sHH8ROASwxkUC4nIv0eh2ihSf7afEuRfDq5N6Y1hJBQDJcFMTVqvRn3Pmfqw5QFNYC3ryM3g4zsac3FE7JAKRtNmErG0LJnVTGyIvdTEkl8FHS0UNC77f3YrdS9bkwrQIcDGgphA0os5/gNwykMVzlscPIHile+E+TXejX30XfICtrO6vIqd8xdttjXFsZo=;yjT9NdgpWd7VCvqrrCM1bA=="
+secured: "/Dg5Yi+qn4E7zhKPlMoK1zUhz53Pj1EVwT3TPesIsOUiQqgxERhXcOpFrru/5d6vBkqSDQuiLnyTRBZsbYJF9AsieWh6zRdevWLK3TmV7g9BpReItckcieecPkimiFX+76oqZWifeOxSs6VJ9f0n480E+USJa20Y0XdQ4uDRz0j8Fvy3qCV5KUkxoc7G7ujX3icqDtznisTxPNL6UqME729WUH766O32vbx+elCsuniUPQCXMKIHNNQHSRTSejuQ2CS2um6iy6ioEN0M/wBgWZ/CEHQviRGWmdasITvudncmlS5HMOblodaYoc28D/CnYaJXiyGECOtIfIDLW3pdPWPs0/V9SiLYGwVsRDdKTQw=;LdV4iwMHFT8sHCBps+9Spw=="
 ---
 
