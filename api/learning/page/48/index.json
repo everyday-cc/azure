@@ -4,51 +4,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-threat-modeling-secured-environment.md",
-      "title": "Add an application to your Privileged Access Workstation (PAW) securely with threat modeling",
-      "excerpt": "Learn how to threat model a client application for security risks and find ways to reduce or eliminate them before installing it into a secured environment.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-threat-modeling-secured-environment/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-modeling-secured-environment/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-threat-response-sentinel-playbooks.md",
       "title": "Threat response with Azure Sentinel playbooks",
       "excerpt": "Provide an introduction to implementing threat response with Azure Sentinel playbooks.",
@@ -187,8 +142,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
       "length": "PT27M",
       "ratings": {
-        "count": 673,
-        "average": 4.7474
+        "count": 674,
+        "average": 4.7477746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -869,8 +824,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
       "length": "PT1H38M",
       "ratings": {
-        "count": 1807,
-        "average": 4.7470946
+        "count": 1808,
+        "average": 4.7472343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1284,6 +1239,49 @@
       "topics": [
         "Azure",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-understand-classification-machine-learning.md",
+      "title": "Create and understand classification models in machine learning",
+      "excerpt": "Classification means assigning items into categories, or can also be thought of automated decision making. Here we introduce classification models through logistic regression, providing you with a stepping-stone toward more complex and exciting classification methods.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-understand-classification-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-classification-machine-learning/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 7,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],
