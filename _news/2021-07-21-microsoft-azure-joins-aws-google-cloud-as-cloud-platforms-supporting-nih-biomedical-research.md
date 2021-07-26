@@ -56,6 +56,22 @@ related:
         width: 800
         height: 444
         isCached: true
+  - title: "HCL Technologies selected as a strategic launch partner for Microsoft cloud for Financial Services"
+    excerpt: "Microsoft Cloud for Financial Services brings together capabilities with multilayered security and comprehensive compliance coverage to deliver differentiated customer experiences"
+    publishedDateTime: 2021-07-26T19:06:00Z
+    webUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services-11627284318654.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 28
+    images:
+      - url: "https://images.livemint.com/img/2021/07/26/600x338/hclwipro-ktZE--621x414@LiveMint_1627284682062.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "SHOGLcB2QR2PxHHAQtElD9sOY7aHd4Bk18vz5YCL7Xyy+KaAlvAu72VCT6L5p/n3Mxv4DmvD2PnK5D9Et8OH13KuFnoWXcuFd7sUPoMryM/ccO7VJiXvA/O1cyPI4KX+ThNs8ObZQeeRVpK4ia5nxKazE92U9glh+2jzKmVQGpV913FhpFZEsxVSNcIKh2uvJQbood20aU060xr/4afwdNFxRnRyLdqQ4gfoVXTonFXEt0urifsNU7cif0FijtdhjO8WvOfh0SfaypH9WWinElp3GoQsEl4iHC1hg1S9yuRPtygnCKbx6QunP8yFLKyeOwOjOV1YJlPCJRLMiyJQwmx7Z6ZkjpBEAF5c6rfS2yYX9W/XQYWon06lHIpPZArQcKa6Tmt19lcrwttCSyHI7O1kLloMEkZH+Up87H02Y0Qk8skGXyCNGh4M20QcWqH7Yg6sicG/S1VKYgkB3y67jEcheqS0NPfD+n5G7kW3B8zIyzaEA/sHwq2mgMuuhhni3OxeVmQzJUES6evx3zvJ1g==;5dEFBYOSGitwhgYbtM9Zzg=="
 ---
