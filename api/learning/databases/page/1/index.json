@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-sql-case-studies.md",
+      "title": "Putting it all together with Azure SQL",
+      "excerpt": "Putting it all together with Azure SQL",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-sql-case-studies/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-case-studies/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 377,
+        "average": 4.7612734
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-case-studies-social.png",
+          "width": 643,
+          "height": 324,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 19970,
-            "average": 4.7667003
+            "count": 19977,
+            "average": 4.7667317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -79,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 15563,
-            "average": 4.6352887
+            "count": 15568,
+            "average": 4.6352134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 13741,
-            "average": 4.772069
+            "count": 13746,
+            "average": 4.772079
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18697,
-            "average": 4.731561
+            "count": 18702,
+            "average": 4.7315793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 18697,
-        "average": 4.731561
+        "count": 18702,
+        "average": 4.7315793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +386,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 13216,
-            "average": 4.7663436
+            "count": 13225,
+            "average": 4.766427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -386,8 +429,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 8108,
-            "average": 4.6769857
+            "count": 8109,
+            "average": 4.6770253
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -421,8 +464,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
           "length": "PT39M",
           "ratings": {
-            "count": 2435,
-            "average": 4.6180696
+            "count": 2436,
+            "average": 4.617816
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -464,8 +507,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11049,
-            "average": 4.6825957
+            "count": 11050,
+            "average": 4.6826243
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -529,8 +572,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 16042,
-        "average": 4.6989775
+        "count": 16043,
+        "average": 4.6989965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -589,8 +632,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 1046,
-            "average": 4.676864
+            "count": 1048,
+            "average": 4.6755724
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -631,8 +674,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9663,
-            "average": 4.6677017
+            "count": 9666,
+            "average": 4.6674943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1017,8 +1060,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18697,
-            "average": 4.731561
+            "count": 18702,
+            "average": 4.7315793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1223,8 +1266,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 7663,
-            "average": 4.723868
+            "count": 7665,
+            "average": 4.72394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1532,8 +1575,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 2101,
-            "average": 4.6896715
+            "count": 2102,
+            "average": 4.6888676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1575,8 +1618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1391,
-            "average": 4.705248
+            "count": 1392,
+            "average": 4.704023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1656,8 +1699,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 7663,
-            "average": 4.723868
+            "count": 7665,
+            "average": 4.72394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1699,8 +1742,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
           "length": "PT35M",
           "ratings": {
-            "count": 424,
-            "average": 4.6910377
+            "count": 425,
+            "average": 4.691765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1742,8 +1785,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
           "length": "PT31M",
           "ratings": {
-            "count": 334,
-            "average": 4.682635
+            "count": 335,
+            "average": 4.6835823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2184,8 +2227,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 7478,
-            "average": 4.690559
+            "count": 7479,
+            "average": 4.6906004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2685,8 +2728,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
           "length": "PT56M",
           "ratings": {
-            "count": 225,
-            "average": 4.7733335
+            "count": 226,
+            "average": 4.7743363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2728,8 +2771,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 110,
-            "average": 4.8545456
+            "count": 111,
+            "average": 4.855856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3167,8 +3210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6848,
-            "average": 4.6444216
+            "count": 6849,
+            "average": 4.6444736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3768,8 +3811,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1391,
-            "average": 4.705248
+            "count": 1392,
+            "average": 4.704023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4426,8 +4469,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
       "length": "PT56M",
       "ratings": {
-        "count": 225,
-        "average": 4.7733335
+        "count": 226,
+        "average": 4.7743363
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4450,49 +4493,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
           "width": 641,
           "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-modify-data-with-transact-sql.md",
-      "title": "Modify data with T-SQL",
-      "excerpt": "Modify data with T-SQL",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-modify-data-with-transact-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-data-with-transact-sql/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 90,
-        "average": 4.922222
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
