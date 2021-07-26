@@ -7,7 +7,7 @@ price: Free
 length: PT27M
 ratings:
   count: 1115
-  average: 4.740807
+  average: 4.741704
 heat: 50
 
 provider:

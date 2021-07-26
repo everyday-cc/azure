@@ -26,6 +26,12 @@ topics:
   - Management Tools
   - AI
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+    width: 640
+    height: 320
+    isCached: true
+
 secured: "TWkrhjnB0XqWOvQhNUTMeSJeXjOM057LUZ8Kv1eDul0wKKJgPiNh+/BqMrls5ihzJ7eJ/hpf0ZoF75FIGAYEry3Fanh8r1H1qvHQG4sMkWgS4vjSSuazPcbU0m514I3cvuqaR3nf9VAwLkTMn0KAq1wpQZ1ZRlISKTOBaGro17BOoyTFz6IGrnRnQOfq+hdzSs5W+dQzybPwF34CvECYb+HRD1nBtOAcVzJQob92VAPb9KtOrZxw6bVc4pV/baQFo2fPplKwb4wO+WEs4aqTojRfySbj92Lo+lLklQVXgN7Qj3SaH8qAqJ5zFXB0/UipEKrfhbuTEDmom/Ibz4IcfCrppTYxHyuw6qnRk4nniAjaOzPGrAx49lgJnUS3/jCIqzxkttA75Oq/NxUkFNjRqzDGPZTWoynjtNIoV/aAwhY=;8jTvoHwaNfODsSFCNSgeUA=="
 ---
 
