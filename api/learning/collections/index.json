@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 83594,
-            "average": 4.794519
+            "count": 83603,
+            "average": 4.794493
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 29866,
-            "average": 4.7893257
+            "count": 29870,
+            "average": 4.789287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18672,
-            "average": 4.7318444
+            "count": 18677,
+            "average": 4.7317557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 19952,
-            "average": 4.7667904
+            "count": 19959,
+            "average": 4.7666717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -223,6 +223,133 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-learn-how-microsoft-supports-data-discovery-classification-and-protection-as-part-of-a-cybersecurity-solution.md",
+      "title": "Learn how Microsoft supports data discovery, classification, and protection as part of a cybersecurity solution",
+      "excerpt": "Know your data, protect your data, and don't lose your data. These are the basic tenets of good information protection - data discovery, classification, and protection. This learning path provides an overview of the Microsoft data protection capabilities and how to use them to protect and govern data as part of a cybersecurity solution.The deadline for the heads of federal civilian agencies to evaluate and classify agency data and provide to DHS and OMB a report of their evaluation, per Section 8 of the Executive Order on Improving the Nation's Cybersecurity, is **August 24, 2021**.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-learn-how-microsoft-supports-data-discovery-classification-and-protection-as-part-of-a-cybersecurity-solution/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-learn-how-microsoft-supports-data-discovery-classification-and-protection-as-part-of-a-cybersecurity-solution/",
+      "length": "PT6H8M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-classification-and-protection.md",
+          "title": "Intro to data classification and protection",
+          "excerpt": "Learners should know and be able to describe data classification and data protection key concepts.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-classification-and-protection/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-classification-protection/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 14,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
+          "title": "Configure security policies to manage data",
+          "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 2435,
+            "average": 4.6180696
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-1-describe-core-azure-concepts.md",
       "title": "Azure Fundamentals part 1: Describe core Azure concepts",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure cloud computing and Azure architecture.",
@@ -253,8 +380,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 83594,
-            "average": 4.794519
+            "count": 83603,
+            "average": 4.794493
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -295,8 +422,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 50349,
-            "average": 4.819897
+            "count": 50358,
+            "average": 4.8198895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -339,8 +466,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 29866,
-            "average": 4.7893257
+            "count": 29870,
+            "average": 4.789287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -461,8 +588,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 142574,
-            "average": 4.702989
+            "count": 142576,
+            "average": 4.7029934
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -601,8 +728,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 19952,
-            "average": 4.7667904
+            "count": 19959,
+            "average": 4.7666717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -646,8 +773,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 15547,
-            "average": 4.635171
+            "count": 15551,
+            "average": 4.6352005
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -689,8 +816,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 13720,
-            "average": 4.772376
+            "count": 13728,
+            "average": 4.7721443
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -732,8 +859,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 18672,
-            "average": 4.7318444
+            "count": 18677,
+            "average": 4.7317557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1019,8 +1146,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 11621,
-            "average": 4.791068
+            "count": 11624,
+            "average": 4.791122
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1062,8 +1189,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 12665,
-            "average": 4.782708
+            "count": 12668,
+            "average": 4.7827597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1105,8 +1232,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 8720,
-            "average": 4.783601
+            "count": 8723,
+            "average": 4.783675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1152,8 +1279,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 9530,
-            "average": 4.7299056
+            "count": 9535,
+            "average": 4.7299423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1245,8 +1372,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 13196,
-            "average": 4.7661414
+            "count": 13199,
+            "average": 4.7661943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1288,8 +1415,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3549,
-            "average": 4.7596507
+            "count": 3551,
+            "average": 4.759786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1331,8 +1458,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43576,
-            "average": 4.7195935
+            "count": 43577,
+            "average": 4.7195997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1445,8 +1572,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 13196,
-            "average": 4.7661414
+            "count": 13199,
+            "average": 4.7661943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1488,8 +1615,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 9506,
-            "average": 4.7842417
+            "count": 9507,
+            "average": 4.784054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1530,8 +1657,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 8875,
-            "average": 4.805521
+            "count": 8876,
+            "average": 4.805543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1658,8 +1785,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 13196,
-            "average": 4.7661414
+            "count": 13199,
+            "average": 4.7661943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1701,8 +1828,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 9506,
-            "average": 4.7842417
+            "count": 9507,
+            "average": 4.784054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1785,8 +1912,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3549,
-            "average": 4.7596507
+            "count": 3551,
+            "average": 4.759786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1828,8 +1955,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 21446,
-            "average": 4.708244
+            "count": 21447,
+            "average": 4.7082577
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1980,8 +2107,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 19063,
-            "average": 4.764308
+            "count": 19066,
+            "average": 4.7642922
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2065,8 +2192,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 50349,
-            "average": 4.819897
+            "count": 50358,
+            "average": 4.8198895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2151,8 +2278,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 21446,
-            "average": 4.708244
+            "count": 21447,
+            "average": 4.7082577
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2263,8 +2390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3549,
-            "average": 4.7596507
+            "count": 3551,
+            "average": 4.759786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2306,8 +2433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 21446,
-            "average": 4.708244
+            "count": 21447,
+            "average": 4.7082577
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2500,8 +2627,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
           "length": "PT17M",
           "ratings": {
-            "count": 5166,
-            "average": 4.836237
+            "count": 5168,
+            "average": 4.8363004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2542,8 +2669,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
           "length": "PT24M",
           "ratings": {
-            "count": 4042,
-            "average": 4.83622
+            "count": 4044,
+            "average": 4.836301
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2584,8 +2711,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
           "length": "PT26M",
           "ratings": {
-            "count": 3370,
-            "average": 4.813353
+            "count": 3372,
+            "average": 4.8134637
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2709,8 +2836,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3549,
-            "average": 4.7596507
+            "count": 3551,
+            "average": 4.759786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2793,8 +2920,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 8875,
-            "average": 4.805521
+            "count": 8876,
+            "average": 4.805543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3266,8 +3393,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 8056,
-            "average": 4.8054867
+            "count": 8058,
+            "average": 4.805535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3309,8 +3436,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3549,
-            "average": 4.7596507
+            "count": 3551,
+            "average": 4.759786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3352,8 +3479,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 8282,
-            "average": 4.7509055
+            "count": 8284,
+            "average": 4.7509656
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3437,8 +3564,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43576,
-            "average": 4.7195935
+            "count": 43577,
+            "average": 4.7195997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3472,8 +3599,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3549,
-            "average": 4.7596507
+            "count": 3551,
+            "average": 4.759786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3648,8 +3775,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 13196,
-            "average": 4.7661414
+            "count": 13199,
+            "average": 4.7661943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3691,8 +3818,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 142574,
-            "average": 4.702989
+            "count": 142576,
+            "average": 4.7029934
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4070,8 +4197,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 16036,
-            "average": 4.6991143
+            "count": 16037,
+            "average": 4.6991334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4517,8 +4644,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
           "length": "PT24M",
           "ratings": {
-            "count": 3875,
-            "average": 4.7499356
+            "count": 3876,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4937,8 +5064,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
           "length": "PT24M",
           "ratings": {
-            "count": 3875,
-            "average": 4.7499356
+            "count": 3876,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5112,8 +5239,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 9506,
-            "average": 4.7842417
+            "count": 9507,
+            "average": 4.784054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5234,8 +5361,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 1436,
-            "average": 4.6566854
+            "count": 1437,
+            "average": 4.6569242
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5495,216 +5622,6 @@
         "Identity",
         "Integration",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-secure-your-cloud-data.md",
-      "title": "Secure your cloud data",
-      "excerpt": "This learning path helps you leverage the built-in Azure services for securing app data, ensuring that only authorized services and clients have access.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-secure-your-cloud-data/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-secure-your-cloud-data/",
-      "length": "PT5H38M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
-          "title": "Protect against security threats on Azure",
-          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
-          "length": "PT23M",
-          "ratings": {
-            "count": 13196,
-            "average": 4.7661414
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 79,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
-          "title": "Top 5 security items to consider before pushing to production",
-          "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 8103,
-            "average": 4.6770334
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 55,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
-          "title": "Configure security policies to manage data",
-          "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 2435,
-            "average": 4.6180696
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
-          "title": "Secure your Azure Storage account",
-          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 11049,
-            "average": 4.6825957
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security",
-        "Storage",
-        "Databases",
-        "Analytics"
       ]
     }
   ],
