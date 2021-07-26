@@ -175,6 +175,20 @@ related:
         width: 660
         height: 371
         isCached: true
+  - title: "Cloud Computing Stack Layers Market Outlook to 2028- Amazon Web Services, Salesforce, Microsoft Azure, IBM"
+    excerpt: "The scope of the Cloud Computing Stack Layers market includes types, end user, and region. The market for Cloud Computing Stack Layers, based on region, is segmented into North America, Europe, Asia Pacific,"
+    publishedDateTime: 2021-07-26T11:20:00Z
+    webUrl: "https://manometcurrent.com/cloud-computing-stack-layers-market-outlook-to-2028-amazon-web-services-salesforce-microsoft-azure-ibm/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/medical-d-2-1-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Microsoft slams Amazon's Cloud arm for blocking $10bn Pentagon project"
     excerpt: "Microsoft has come out in the open against ecommerce giant Amazon's Cloud arm, slamming Amazon Web Services (AWS) for once again challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise - this time out of view from the public and directly with the US Department of Defense (DoD)."
     publishedDateTime: 2020-05-08T10:26:00Z

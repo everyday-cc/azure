@@ -7,7 +7,7 @@ originalUrl: "https://www.onmsft.com/news/new-microsoft-cloud-for-sustainability
 webUrl: "https://www.onmsft.com/news/new-microsoft-cloud-for-sustainability-inspire"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -22,72 +22,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "AWS Managed Services Market is Booming Worldwide | Microsoft Azure, Stratalux, Cloudnexa"
-    excerpt: "Latest released the research study on Global AWS Managed Services Market offers a detailed overview of the factors influencing the global business scope AWS Managed Services Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2021-07-20T08:24:00Z
-    webUrl: "https://www.openpr.com/news/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
-    ampWebUrl: "https://www.openpr.com/amp/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
-    images:
-      - url: "https://cdn.openpr.com/U/7/U720609320_g.jpg"
-        width: 800
-        height: 444
-        isCached: true
-  - title: "HCL Technologies selected as a strategic launch partner for Microsoft cloud for Financial Services"
-    excerpt: "Microsoft Cloud for Financial Services brings together capabilities with multilayered security and comprehensive compliance coverage to deliver differentiated customer experiences"
-    publishedDateTime: 2021-07-26T07:36:00Z
-    webUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services-11627284318654.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 28
-    images:
-      - url: "https://images.livemint.com/img/2021/07/26/600x338/hclwipro-ktZE--621x414@LiveMint_1627284682062.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
-    excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
-    publishedDateTime: 2021-07-21T12:34:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 26
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
-        width: 884
-        height: 543
-        isCached: true
-  - title: "Hybrid Cloud Storage Software Market Size 2021 is Booming Worldwide| IBM, 45 Drives, NetApp, Microsoft Azure, Qumulo, Quantum"
-    excerpt: "The final report will add the analysis of the impact of COVID-19 on this sector, The Hybrid Cloud Storage Software market is moving repeatedly, due to a combination of effects resulting from the expansion of new technologies,"
-    publishedDateTime: 2021-07-22T02:42:00Z
-    webUrl: "https://manometcurrent.com/hybrid-cloud-storage-software-market-size-2021-is-booming-worldwide-ibm-45-drives-netapp-microsoft-azure-qumulo-quantum/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 7
-  - title: "Virtual Private Cloud (VPC) Software Market Size 2021 is Booming Worldwide| AWS, Alibaba, Vmware, Microsoft Azure, IBM, Google"
-    excerpt: "Market growth analysis is shown with great accuracy in this Virtual Private Cloud (VPC) Software market analysis report. This includes a detailed summary of the market as snapshots that provide in-depth information on different segmentations."
-    publishedDateTime: 2021-07-22T04:06:00Z
-    webUrl: "https://manometcurrent.com/virtual-private-cloud-vpc-software-market-size-2021-is-booming-worldwide-aws-alibaba-vmware-microsoft-azure-ibm-google/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
 
 secured: "fGoX/x5JzH1wDXHjcLauC1KVPUhQjqIJ0KF3idL+a2gQPn/Unh22DeQVtTFkuqIwlNn9PslcSae3mMVBXlfOuNWvHA5zoLq/EDQyDsbwLy7crzAc1odi4fuMQmd2OEgJLE17uupJBlWI7H/TCbyy5oLutXjlAAp+CqHIA5QqzpYSrAuWKcFSN3kqIY10HLUYH4IZazddSz9VZNsJarxSAXJITbBr85PYHGn5eU2SQoTbcYKS11d7NkpC0uCjkB0gWWP1jgNEGi/HHfCvn9nyxDczJIfraLI5T3xr5MsFxdfFy/fFKUY6ThyI6hbTyjIsH2Z6jslteDogIUqIdOUj5bfy+ECZuR5FVlmlM9jZbLU=;6asSdxTcwyfOkRyWLXEK+w=="
 ---

@@ -1,39 +1,48 @@
 ---
 category: news
-title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
-excerpt: "Microsoft (NASDAQ:MSFT) recently inked a five-year cloud deal with Coca-Cola (NYSE:KO), in which the beverage maker will standardize its business operations with Microsoft's Azure, Dynamics 365, and Microsoft 365 services."
-publishedDateTime: 2020-05-05T15:23:00Z
-webUrl: "https://www.fool.com/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+title: "Cloud Computing Stack Layers Market Outlook to 2028- Amazon Web Services, Salesforce, Microsoft Azure, IBM"
+excerpt: "The scope of the Cloud Computing Stack Layers market includes types, end user, and region. The market for Cloud Computing Stack Layers, based on region, is segmented into North America, Europe, Asia Pacific,"
+publishedDateTime: 2021-07-26T11:20:00Z
+originalUrl: "https://manometcurrent.com/cloud-computing-stack-layers-market-outlook-to-2028-amazon-web-services-salesforce-microsoft-azure-ibm/"
+webUrl: "https://manometcurrent.com/cloud-computing-stack-layers-market-outlook-to-2028-amazon-web-services-salesforce-microsoft-azure-ibm/"
 type: article
-quality: 82
-heat: 322
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: manometcurrent.com
+  domain: manometcurrent.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
-    width: 580
-    height: 378
+  - url: "https://manometcurrent.com/wp-content/uploads/2021/07/medical-d-2-1-390x220.jpg"
+    width: 390
+    height: 220
     isCached: true
-    title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571626%2Fcoca-cola-store-orlando-plate.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
 
 related:
+  - title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
+    excerpt: "Microsoft (NASDAQ:MSFT) recently inked a five-year cloud deal with Coca-Cola (NYSE:KO), in which the beverage maker will standardize its business operations with Microsoft's Azure, Dynamics 365, and Microsoft 365 services."
+    publishedDateTime: 2020-05-05T15:23:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
+        width: 580
+        height: 378
+        isCached: true
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571626%2Fcoca-cola-store-orlando-plate.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
   - title: "Microsoft to invest $1 billion in Poland: statement"
     excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
     publishedDateTime: 2020-05-05T09:03:00Z
@@ -173,20 +182,6 @@ related:
         width: 660
         height: 371
         isCached: true
-  - title: "Cloud Computing Stack Layers Market Outlook to 2028- Amazon Web Services, Salesforce, Microsoft Azure, IBM"
-    excerpt: "The scope of the Cloud Computing Stack Layers market includes types, end user, and region. The market for Cloud Computing Stack Layers, based on region, is segmented into North America, Europe, Asia Pacific,"
-    publishedDateTime: 2021-07-26T11:20:00Z
-    webUrl: "https://manometcurrent.com/cloud-computing-stack-layers-market-outlook-to-2028-amazon-web-services-salesforce-microsoft-azure-ibm/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 19
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/medical-d-2-1-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Of FAANG (+MSFT) earnings, Amazon and Microsoft to lead, Wedbush says"
     excerpt: "Wedbush's Dan Ives, in a note ahead of major tech earnings this week, wrote that during this Covid-19 storm, big tech and work-from-home names will be among the safest stocks during this \"pivotal&"
     publishedDateTime: 2020-04-28T11:50:00Z
@@ -206,6 +201,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "SiEKWBivEkJOQ9t8A1rol8s97Xqrdo8M4Z2XxatdF/5i485nWx646fSt7TtR7PINtBvN5kDlIB5oLvH63HyBsezdDl6VZuOvz1kBDKM1Vf4+xuLNc2PYWtmJlag0OWWx4r3tAEioJNSn6QKZwAFcGA3x6OwTWgg0bMpvJPnYA+vU1yLGruZnri+QMg/iQxKQsmZIEjhYLHvh1aVLgZvg7Ao/8BBVzVlpWGkl+wWAPUoQTuajZzio/FTLWk1JuHtdyT9X/UPQHNTdRFy30BuXaLRJ0dxXT/D5DCtptznfyJNNH2xqenSSaQIQjWU9c7BD;fLro0dFYpJmaReUIY3vdgw=="
+secured: "kIQCqK+jxUKK/ycniWu8ChMjBk0kwSjDTk+pj5WSox1So4qwnEfmSRJmz9HbHxfxn7sVsyVKlQ6Vp3eVs8XrQPaN2k7+fIGrTw9cNrl1lz7DeMUlzJHdTo7D+iipkYd59R+/cd63+s/xoTjNhfIcy9eofWJVBLkWFVm+Rby67knQ0Kcn29D005cq8cUeB1hfU5QT59gKdPniuKFAUnjyFezcCyAMkwVnORyBFeKK/mOyzhwIRG/hvvvaJgN4063KRSx4vZzCeduMFpeGZhiSUU7KTTlXjxhStjMcyaxECmODOOsSg2aMmM26hE3CmCt1CaxOUeNlI3D3wj0x6uK+2wGGXinM6YkH70HnxiLt5hg=;9EyQh2lpl1CzDhfjjaCoBA=="
 ---
 
