@@ -1,28 +1,22 @@
 ---
 category: news
 title: "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to IN-D Identity Verification with Aadhaar Data Masking to take advantage of the scalability, reliability, and agility of Azure to drive ..."
-publishedDateTime: 2021-07-15T12:00:00Z
-originalUrl: "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html"
-webUrl: "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html"
+excerpt: "IN-D.ai, a leading provider of intelligent document and image-processing solutions, today announced the availability of Identity Verification, a suite of products in the Microsoft Azure Marketplace, an online store providing applications and services for ..."
+publishedDateTime: 2021-07-15T00:00:00Z
+originalUrl: "https://www.itnewsonline.com/BusinessWire/IN-D-Identity-Verification-Now-Available-in-the-Microsoft-Azure-Marketplace/26425"
+webUrl: "https://www.itnewsonline.com/BusinessWire/IN-D-Identity-Verification-Now-Available-in-the-Microsoft-Azure-Marketplace/26425"
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: It News Online
+  domain: itnewsonline.com
 
 topics:
   - Azure
   - Identity
-
-images:
-  - url: "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg"
-    width: 1892
-    height: 683
-    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -525,6 +519,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "ZOg7RbyFJtvHQEG7JPxJ4lq9v1STPkYewI3CQEOZO7uPqe4Szpyv4aR3uv9sKsf58pY+6e0WGF1I5Xc9GTTkxW8YE6dRCfFoHfkQJ0u3J5dqq3gr5oAgYmKkUCE+iOPsMQ/FNtrjoUWde1U/w3F3tkpRflzot+x6teNf1LewskiaJ9AnELkvRqRMTHjxCyBmfGDDwcP3zVC12+GuapMaUGDVS1yMPzjh40ucvsBIwoPF4E5dfMBrPsGSpYLg/qhjLvOYq4p0NftyuPjLNsAz+wNWIvPAtdJpjr+8sa2zl9HgJN22d/67+1USiccgSIeMQrlXojqTJf23Ag7YO3yHedZy5+2JpuTM3sFG8tR/D6A=;ATs/2y+Q6JtGiD+U5ri6Ew=="
+secured: "Rs8LZRh5RM6I5/R2GywIg+GQDAsPznETjNXLOv9f4624ZP/CjD6uSLtvMfADEq2BM/zHdIV0ooQL0PyclNRA+UTVDBBDod9D3vb7ZKD2nM0x2x7qfIwhPIRj8oSlYiZ0Q8htfg2ZnJhhYILICLr6R8X3jrTIYroEdBS92rXncdaYl3+4+BckrBQamMHhs4205dMgjg4n7K6Tb3VsXWwuxkBbPrTgqbU57+Vx3g+uhhsrVfwlEBWNsUBuRMLactyZlH2lEN+oGX6zsa9r0xZVvPAMs2CubGxFPh3Ny92BVS9H8pXJHpUdP49BKy8Pr/wE88wRC8kf5nTrr12cuD86D9NS0FVsYG1VAJMtTGrRBOI=;QrPyR3C2Cb1cGd6duPZn9w=="
 ---
 

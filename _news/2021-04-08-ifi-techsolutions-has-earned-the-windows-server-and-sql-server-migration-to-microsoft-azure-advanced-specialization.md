@@ -207,20 +207,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to IN-D Identity Verification with Aadhaar Data Masking to take advantage of the scalability, reliability, and agility of Azure to drive ..."
-    publishedDateTime: 2021-07-15T12:00:00Z
-    webUrl: "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 52
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg"
-        width: 1892
-        height: 683
-        isCached: true
   - title: "Onfido Partners with Microsoft on Azure Active Directory Verifiable Credentials"
     excerpt: "Onfido, an identity verification and authentication company, has been selected by Microsoft to enable fast and secure identity verification and onboarding for its Azure Active Directory (Azure AD) verifiable credentials. Azure AD verifiable credentials ..."
     publishedDateTime: 2021-04-05T04:00:00Z
@@ -428,6 +414,15 @@ related:
         width: 840
         height: 460
         isCached: true
+  - title: "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace"
+    excerpt: "IN-D.ai, a leading provider of intelligent document and image-processing solutions, today announced the availability of Identity Verification, a suite of products in the Microsoft Azure Marketplace, an online store providing applications and services for ..."
+    publishedDateTime: 2021-07-15T00:00:00Z
+    webUrl: "https://www.itnewsonline.com/BusinessWire/IN-D-Identity-Verification-Now-Available-in-the-Microsoft-Azure-Marketplace/26425"
+    type: article
+    provider:
+      name: It News Online
+      domain: itnewsonline.com
+    quality: 32
   - title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
     excerpt: "STATE COLLEGE, Pa., April 13, 2021 /PRNewswire/ -- AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider."
     publishedDateTime: 2021-04-13T23:40:00Z

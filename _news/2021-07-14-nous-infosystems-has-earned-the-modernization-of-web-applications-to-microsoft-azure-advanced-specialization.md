@@ -2,21 +2,17 @@
 category: news
 title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
 excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
-publishedDateTime: 2021-07-14T16:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607637"
-webUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607637"
+publishedDateTime: 2021-07-14T16:30:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-nous-infosystems-has-earned-modernization-web-applications-microsoft-/2021/07/14/9409353.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nous-infosystems-has-earned-modernization-web-applications-microsoft-/2021/07/14/9409353.htm"
 type: article
-quality: 38
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -91,6 +87,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "1fhD13E73NwV7jWP1Q5WHsVfs6fLC5QQ8sJDv0NZhw3MtAmSosMJXD+xVrOFh4yqm2kmF8q049JnVRfD8GiHVDFdT1Gia0FJXHbVrHWyXyVjxXpnGT5eN6/ZwcEhBtVbWZWDitlNRoOvzw/jtgNnqv3lA6fo0LJfJ3VVXpENvkaB/KBYgTJIvbkxNSfQ46HFfD9IIRMZ5kmUIAY/fFzroc5mLX0ze3WZOsXR9gchcuxtkAvsyM9/VfYDwYuWujs4yIuJlQ1q8sUMQ+jwh+QSFFvQjs5RFKHR8S+YruOBfGToEavRve4cDgeUGkUzHuccg8iI6xJsSnKxwSIb8/SckmSbQEExhRxc+nS9dCxCYI4i1G7S4POHVGExdBmlyA3hj16Tp+e83WfJGUDVtlhfknewxXTqm+mQvEHX0chx2/p16CE3kUXHPx1PPdQq2mC2rBCRq/P2Al2WAvUV7hnoYeRbqMKzGqOG1xFRrWGLH0rK47TUw8XBgQS8gXLdubWRRQAcBmzklvrtK1I+CmUdZw==;VCYgZsQkDh4ioPpAVAW1AQ=="
+secured: "88dYTXRIn3xfUZOpJigBtWDrkTwTN6JXWjcyoP8tSqneHXM8V0nx6+dABRa4rDgJ5ybhxrTL1MweHyNCn4IfB5mAAEWV7EZs7N1gMmF1O+VDLYBOSqQrLYd1N17HQ6EqFbZ1JjFp6iOEIxRVdlS+e/fgZaktYePHXeCnfCefpSMJwdEny8qdOkRnjtOYJ4Pn6JYuxa3P26ZzUGAeOmybUrn0vebZdUvuIIn2cYnPL8DiNpeBQY5ND6FvXCEttX32oTJFsQvTakZVigsiPWARYERgd9zkAOSsQCq+rmewstK02F9peUM++jzgQaFmd6+syz5ZLN3jP3a/2FCd2VI0Kzw1YlplFkEskJPI7mVY0SE+l2pbohS0miPGrCVniweEYNjHdkPtLbXvoZWHpZ5kU3TvFa+ak2SAvi/mkeMyDtCfX7ALX7wGvPyHzEHzLHffLKiuLVymYZ2AV9bQiSkbli0V6Zyx/1JRPNkdYrugCp7Pf2N0Cn4Y1r+2W4K81/y3pAfiq1HOgTV8cd/n0r0yug==;JbsTOulSNtxYIdxMG5msJw=="
 ---
 

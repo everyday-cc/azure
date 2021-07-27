@@ -59,15 +59,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
-    publishedDateTime: 2021-07-14T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030607637"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
     publishedDateTime: 2021-01-29T14:36:00Z
@@ -86,6 +77,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
+  - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
+    publishedDateTime: 2021-07-14T16:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nous-infosystems-has-earned-modernization-web-applications-microsoft-/2021/07/14/9409353.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "hF/RZsovqwzk++VA+KSl1tUT1lMR5wSVQ5GIuz0yrY0P5ms0ucrwhPh2nXSP8ZkL1LSHr9T3aWtTYR/aUYKl04CawKwpEayDHilFsBXPceHbjidfbbLHmjtrD+uTmr75KBq1foGGErkUAmibe952b270GxAEEwEwrisawvtJmAYnZF289t6lLhUtIU08hQXXfWLPJVv3mCkLSl30HJ0pxSUsdHmcW53c5dHxaSg0SgnywFB728lt3y4IGSi13rYbm+fHTTGieEaltbsrSqb8ccDE6qQXTEj8c+G/6SEFBQl+wda/HVBObjHhxcZ6Xd4/pOPimzGULm30qPQzJKn/D6QxuD8wW4btiiw2zeyERZU=;SwT5xCLZuQtI0/Bts9R1qQ=="
 ---
