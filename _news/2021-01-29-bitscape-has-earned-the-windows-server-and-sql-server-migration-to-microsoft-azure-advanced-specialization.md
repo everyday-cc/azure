@@ -60,6 +60,20 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's"
+    publishedDateTime: 2021-07-14T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_f89689a2-d586-58f0-a10f-3b471b3aadc4.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 18
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/76/9768ad98-489f-5a94-a5f7-64301a90718b/60ef0b0f2cb0a.image.jpg?resize=1200%2C600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
     publishedDateTime: 2021-06-24T18:38:00Z
@@ -69,15 +83,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
-  - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
-    publishedDateTime: 2021-07-14T16:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nous-infosystems-has-earned-modernization-web-applications-microsoft-/2021/07/14/9409353.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "Another remarkable achievement for Nous Infosystems. This specialization reflects Nous' depth of expertise in the modernization of applications to"
     publishedDateTime: 2021-07-18T07:00:00Z

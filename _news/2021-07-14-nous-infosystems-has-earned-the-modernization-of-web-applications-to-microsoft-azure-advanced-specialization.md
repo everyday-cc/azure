@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
-publishedDateTime: 2021-07-14T16:30:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nous-infosystems-has-earned-modernization-web-applications-microsoft-/2021/07/14/9409353.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nous-infosystems-has-earned-modernization-web-applications-microsoft-/2021/07/14/9409353.htm"
+excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's"
+publishedDateTime: 2021-07-14T16:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_f89689a2-d586-58f0-a10f-3b471b3aadc4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nous-infosystems-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_f89689a2-d586-58f0-a10f-3b471b3aadc4.html"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/76/9768ad98-489f-5a94-a5f7-64301a90718b/60ef0b0f2cb0a.image.jpg?resize=1200%2C600"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Quisitive Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
@@ -87,6 +93,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "88dYTXRIn3xfUZOpJigBtWDrkTwTN6JXWjcyoP8tSqneHXM8V0nx6+dABRa4rDgJ5ybhxrTL1MweHyNCn4IfB5mAAEWV7EZs7N1gMmF1O+VDLYBOSqQrLYd1N17HQ6EqFbZ1JjFp6iOEIxRVdlS+e/fgZaktYePHXeCnfCefpSMJwdEny8qdOkRnjtOYJ4Pn6JYuxa3P26ZzUGAeOmybUrn0vebZdUvuIIn2cYnPL8DiNpeBQY5ND6FvXCEttX32oTJFsQvTakZVigsiPWARYERgd9zkAOSsQCq+rmewstK02F9peUM++jzgQaFmd6+syz5ZLN3jP3a/2FCd2VI0Kzw1YlplFkEskJPI7mVY0SE+l2pbohS0miPGrCVniweEYNjHdkPtLbXvoZWHpZ5kU3TvFa+ak2SAvi/mkeMyDtCfX7ALX7wGvPyHzEHzLHffLKiuLVymYZ2AV9bQiSkbli0V6Zyx/1JRPNkdYrugCp7Pf2N0Cn4Y1r+2W4K81/y3pAfiq1HOgTV8cd/n0r0yug==;JbsTOulSNtxYIdxMG5msJw=="
+secured: "vGGaq/zBjLTInkA6IudszNAwtENaq3NTKn9pfvU14MNlhbCpm9+B3Zq6dU2pBseX1ywu/gm/p766X7/R1xowR3EQNP0vi1CE2bcj7bvEe69+kPTuTOg69AbdohvizsIwiFQtEsIHhp7vcXtzqa3f2N0E/aoNANT/hPRcI/7Swww9yomMnOkuxv1Y2zhSClLCZSx/OFflTGdShKQXrFAgbkHzHu7UgapO3esMFE/UzJlQhxPScssY+01VLpYF2VbGeMzGmQvpk/XUwD4yZHYWv5a9wmo0CbvPWSPkrg4SMYF/7AW6w5wGA8bgCxPLEa0UnLiJkvqMJve8ex7w1sgD/PfbOue9rS+obLGO5+Ler74=;+7gP2cRz8L+1KUCUCXoFhA=="
 ---
 
