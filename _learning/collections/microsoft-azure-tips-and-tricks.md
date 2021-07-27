@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 61
+heat: 103
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-use-flexible-server-in-azure-database-for-mysql-azure-tips-and-tricks
   - videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks
   - videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks
   - videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks
@@ -182,7 +183,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/tmDEu2iytNU/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/NQi28CE5yWQ/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
