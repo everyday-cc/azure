@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-ava
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-available-in-switzerland-north/"
 type: article
 quality: 67
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Media Services is now available in Switzerland and Germany"
-    excerpt: ""
-    publishedDateTime: 2020-05-20T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-is-now-available-in-switzerland-and-germany/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure DevTest Labs is now available in Switzerland regions"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:01Z

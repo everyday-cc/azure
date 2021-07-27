@@ -31,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
-    excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
-    publishedDateTime: 2021-04-12T20:24:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/lustre-hsm-tools-now-available-to-import-from-or-export-to-azure-storage/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 71
   - title: "User data through Azure Instance Metadata Service now generally available"
     excerpt: "Leverage user data to customize your VM instance provision and configuration."
     publishedDateTime: 2021-04-15T16:00:18Z

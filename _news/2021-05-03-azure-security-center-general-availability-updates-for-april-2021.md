@@ -50,15 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Azure Log Analytics in UAE Central & Japan West"
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West. "
-    publishedDateTime: 2021-02-03T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-uae-central-japan-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "General availability: Azure HDInsight extends capabilities for encryption of data in transit and at rest"
     excerpt: "Azure HDInsight Internet Protocol Security (IPSec) encryption in transit is now generally available. HDInsight also supports version-less keys for customer-managed key (CMK) encryption at rest."
     publishedDateTime: 2021-01-25T17:00:35Z

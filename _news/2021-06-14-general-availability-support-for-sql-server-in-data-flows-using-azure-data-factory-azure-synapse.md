@@ -46,15 +46,6 @@ related:
         width: 432
         height: 415
         isCached: true
-  - title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
-    excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
-    publishedDateTime: 2021-01-30T01:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
 
 secured: "AnoykT0N4IMVDzdkOeuwJMRCOhEokkZRI+VzPyaZAKwkEWm+3e90G20ELapBe4SCUdMtEo7KM1F2NG9GXbdLsKY5vjQmSjxc4c6cbJwvRj/1hOQNRyqb27sZuivqrGCgzBXAoggdLbGrzQeo3gLIKdnkUO0/9ae1bM2b385jAcdAVhr+71b8exa96AYA5CIigMyHN0m/4cwWYUw6fCaBzuxiq8UaqOYt9QIXEvf3Qo0ZKqqO+bSLhc78tYSOZGA3sk91IhKvDK/6Z0el3Xequsw48cUWaXAocAyLNuT7Gq7XC6PWU5xWRpArlcpaePThzwOHfwCXs6EvcmGQ1ILQhs2fBPzwVxxC8ztmj+pWuAQ=;0zdvm3ItGYHXyfjxYFre/g=="
 ---

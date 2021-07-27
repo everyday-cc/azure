@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-germany-west-central-uae-north-and-switzerland-west/"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 133
+published: true
 
 provider:
   name: Microsoft
@@ -23,42 +23,33 @@ topics:
   - Analytics
 
 related:
-  - title: "General availability: Azure Log Analytics in Brazil Southeast and Norway East "
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. "
-    publishedDateTime: 2020-11-16T19:05:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
+  - title: "General availability: Application Insight in Germany West Central, UAE North, & Switzerland West  "
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Germany West Central, UAE North, & Switzerland West   regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-01-21T17:02:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-germany-west-central-uae-north-switzerland-west/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 80
-  - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
-    publishedDateTime: 2021-01-21T17:02:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
+    quality: 38
+  - title: "Public Preview: Application Insight in UK West, Germany West Central, Switzerland West and Australia Central 2"
+    excerpt: "UK West, Germany West Central, Switzerland West and Australia Central 2 are now Public Preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
+    publishedDateTime: 2020-09-11T20:41:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uk-west-germany-west-central-switzerland-west-and-australia-central-2/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 70
-  - title: "General availability: VPN over ExpressRoute private peering"
-    excerpt: "VPN over ExpressRoute allows customers to encrypt all traffic going over their ExpressRoute circuit. VPN over ExpressRoute, combined with site-to-site and point-to-site VPN provides end-to-end encryption between data centers, branch offices and remote users."
-    publishedDateTime: 2020-11-16T22:52:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
+    quality: 32
+  - title: "Azure Media Services is now available in Switzerland and Germany"
+    excerpt: ""
+    publishedDateTime: 2020-05-20T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-is-now-available-in-switzerland-and-germany/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "General availability: Application Insight in Australia Central, Brazil Southeast, and Norway East"
-    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central, Brazil Southeast, and Norway East regions for customers to collect telemetry and analyze their service health in production environments. "
-    publishedDateTime: 2020-11-16T19:06:45Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-brazil-southeast-and-norway-east/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
+    quality: 17
 
 secured: "tOK58aM5OvxxuxVOjQgZ3F+/5vOHb0DVMJlSWgxbCsWoZB3vjoHK7njoxF4ZRd4XmfVtaWVmV8M6ZDzqYzvZagqu1gWLbOM6sR8+8ogkRFReOXDTDd8E5MoCk+cPy8ury7wYH08t6ziDeaqWLb06csJpHUNRsWMnNP367C7Mt1befQuu5QOlthBuRd4c4Mx1rj4pUY9Y8Uul8tECYLtrIb7sK+hzpitqXSOiyK+yO+kEBhmrUHZrmjcfyiJsopYgnssDhoPckisjEmYyro081iq5Ru3fVPHUKQtwUZZBt8ad/j19UYL2qqdA8mQADQMGzuTKVcoYFYO8K9MxjLOUwgNjTJ78IdWx+L/wXQRAa3w=;MDTCWC/hQ1pBBgHf3i61UA=="
 ---

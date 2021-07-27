@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-upd
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
 type: article
 quality: 103
-heat: 483
+heat: 503
 published: true
 
 provider:
@@ -224,6 +224,15 @@ related:
     excerpt: "Flexibility was the main theme for June, with more customizable budget notifications, a way to monitor your cost recommendations, and automated subscription creation for Azure Government. And of course, these are just a few highlights. Don't forget to check out new ways to save, a new video, and our"
     publishedDateTime: 2020-06-30T09:00:33Z
     webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-june-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
+  - title: "Azure Cost Management and Billing updates – July 2021"
+    excerpt: "We're back with the usuals this month with an improved management experience, 9 new ways to save money with Azure, 3 videos, and 5 documentation updates. Stay tuned for even more next month!"
+    publishedDateTime: 2021-07-27T10:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-july-2021/"
     type: article
     provider:
       name: Microsoft

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "General availability: Better integration between Azure Monitor and Grafana"
-excerpt: "Customers using Grafana for visualizing Azure Monitor metrics can now enable additional data sources and have easier authentication using managed identity."
-publishedDateTime: 2021-07-21T16:00:05Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-better-integration-between-azure-monitor-and-grafana/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-better-integration-between-azure-monitor-and-grafana/"
+title: "General Availability: Azure Stream Analytics Tools for Visual Studio Code"
+excerpt: "Azure Stream Analytics Tools for Visual Studio Code is for developers to easily author, test, debug, and manage Azure Stream Analytics jobs."
+publishedDateTime: 2021-07-27T16:00:05Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-stream-analytics-tools-for-visual-studio-code/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-stream-analytics-tools-for-visual-studio-code/"
 type: article
-quality: 99
-heat: -1
-published: false
+quality: 100
+heat: 500
+published: true
 
 provider:
   name: Microsoft
@@ -20,19 +20,19 @@ provider:
 
 topics:
   - Azure
-  - DevOps
-  - Integration
+  - Analytics
+  - Developer tools
 
 related:
-  - title: "General Availability: Azure Stream Analytics Tools for Visual Studio Code"
-    excerpt: "Azure Stream Analytics Tools for Visual Studio Code is for developers to easily author, test, debug, and manage Azure Stream Analytics jobs."
-    publishedDateTime: 2021-07-27T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-stream-analytics-tools-for-visual-studio-code/"
+  - title: "General availability: Better integration between Azure Monitor and Grafana"
+    excerpt: "Customers using Grafana for visualizing Azure Monitor metrics can now enable additional data sources and have easier authentication using managed identity."
+    publishedDateTime: 2021-07-21T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-better-integration-between-azure-monitor-and-grafana/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 100
+    quality: 99
   - title: "General availability: Dynamic data masking granular permissions for Azure SQL and Azure Synapse Analytics "
     excerpt: "Control who can access your SQL data by using dynamic data masking granular permission on your Azure SQL Database, Azure Synapse Analytics, and Azure SQL Managed Instance."
     publishedDateTime: 2021-03-17T16:00:24Z
@@ -205,6 +205,6 @@ related:
       domain: microsoft.com
     quality: 8
 
-secured: "qI81zBgJ6C+0FqXmciBmNcRFTrMv5UduO9uvftFYGSYl9NKMsJjBH71SsL+8/IehC+eXMrCS1OVhEJz8S7AGzASyRVUqIRYhSHs66RoueNSWyGFwFbwY0XGLSPVZIOnarAMzJ7Cg1yZ2jgLeBh4ZM9iDg5yjZdQR+NgFKbkO7XZHHjSj6FPb3vHNYtDupZ6J7R8+HHNIKyybmreWqKbfI/eP7FuI0lIrHUFaNBpmPzARjX5LtKJ0wDaR/mFip/ebKF5ZHi/SDpwixZBNXePGVqCsyqP404+WFJLK8ZE6QbtGjAII5d61tOzEVDufO7dMkTV+wPm6yWcQFusQoNUBo3siCTJMF6IM+u6QoBKLE0A=;K3zyl+fnDGRmUqod1Ip3Rw=="
+secured: "InM/Hx9J5Ca8BkKfPPgATZp2v8B0arFvfy25Em9X9gF8VF6YJ+uryxCf9wm0Dx1AaJVCFU+/wwOyYduYcL+MBQ1a7VhoAs7tav2RrvBGwFVbo+le6AYzDuGVpB0L31ZueEgPqWCDSCYEHteDpMDpqqfk1r8W6D6PwQpJN9KxgT6Orip8km0chEvbQnd41fc7+UDicm0DaVs5sV0zqR7EPGVs6pre6OSyPyQIemRmnplaGKx9p5rhswpmsljh5L/l4cG763hFwFdEYkiNIsyqSg6mYzZFUwa8HClN3CsxWnNjXuElU7w4iIRdU7FqBh+WpFuyHdHCbaF95Vlyaa9VaBPvCNuftSKHmUpu9N/mChk=;kAKDgrxBIuPAm1ATAlNxCQ=="
 ---
 

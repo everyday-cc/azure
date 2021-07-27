@@ -59,15 +59,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Azure Log Analytics in UAE Central & Japan West"
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West. "
-    publishedDateTime: 2021-02-03T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-uae-central-japan-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure Availability Zones in the South Central US datacenter region add resiliency"
     excerpt: "As businesses move more workstreams to the cloud, business continuity and data protection have never been more critical—and perhaps their importance has never been more visible than during the challenges and unpredictability of 2020."
     publishedDateTime: 2021-01-26T09:00:12Z

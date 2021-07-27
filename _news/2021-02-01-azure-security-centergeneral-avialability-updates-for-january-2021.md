@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-1/"
 webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-1/"
 type: article
 quality: 99
-heat: 299
+heat: 279
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
     excerpt: "A regular Azure API Management service update was started on January 21, 2021, and included several new features and bug fixes, along other improvements. It may take several weeks for your API Management service to receive the update."
     publishedDateTime: 2021-01-28T01:30:47Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-january-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "General availability: Azure Log Analytics in UAE Central & Japan West"
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West. "
-    publishedDateTime: 2021-02-03T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-uae-central-japan-west/"
     type: article
     provider:
       name: Microsoft

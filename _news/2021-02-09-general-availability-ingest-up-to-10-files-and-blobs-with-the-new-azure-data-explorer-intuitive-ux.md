@@ -46,15 +46,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 70
-  - title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
-    excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
-    publishedDateTime: 2021-01-30T01:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
 
 secured: "CkmMuRuN6cosKwfF0TBXnMdtzLQfo3VTkTlA9aNHLpjyu96BxwMJd26m1paUzaHzUIGdN8fGdjuvdq7NCU7rurftyA5431A9UpThJmyou4KRrNvJYruLXMsXdCotkvZz9zsHvKZN35xSKgJZziR2dUsa3H+ifEQlzKCJpQhCwn/Zlulgbi83oUnn7+bKkHhr0tMlqbvruLwuGmwe8C17HYEuBHmEZTbUXeBbZpR+gOAcnPGB9CRooRsSmWKjrLrFTw/SFaxmP6fj+7gxrEMB5wgdSUhUowB5zUVUAuhBIoosMHb7radwlshycgQ8baH/iYrgh3PGVDomUyWONjuxYliWLsrkva8f+39T9VwzMms=;Hgl5yC5WRa16+8/mAZr5lQ=="
 ---

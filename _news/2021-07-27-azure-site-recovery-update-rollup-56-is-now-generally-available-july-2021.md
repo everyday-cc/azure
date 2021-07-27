@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Site Recovery update rollup 49 - August 2020"
-excerpt: "The latest Azure Site Recovery update provides fixes and download links for Site Recovery components."
-publishedDateTime: 2020-08-19T19:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-49-august-2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-49-august-2020/"
+title: "Azure Site Recovery update rollup 56 is now generally available - July 2021"
+excerpt: "The latest Azure Site Recovery update provides improvements, fixes, updated replication support, and download links for Site Recovery components."
+publishedDateTime: 2021-07-27T17:00:05Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-56-is-now-generally-available-july-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-56-is-now-generally-available-july-2021/"
 type: article
-quality: 67
+quality: 82
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Migration
 
 related:
   - title: "Azure Site Recovery update rollup 53 is now available - January 2021"
@@ -31,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Site Recovery update rollup 56 is now generally available - July 2021"
-    excerpt: "The latest Azure Site Recovery update provides improvements, fixes, updated replication support, and download links for Site Recovery components."
-    publishedDateTime: 2021-07-27T17:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-56-is-now-generally-available-july-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
   - title: "Azure Site Recovery update rollup 55 is now generally available - April 2021"
     excerpt: "The latest Azure Site Recovery update provides improvements, fixes, updated replication support, and download links for Site Recovery components."
     publishedDateTime: 2021-06-01T15:52:22Z
@@ -49,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Azure Site Recovery update rollup 49 - August 2020"
+    excerpt: "The latest Azure Site Recovery update provides fixes and download links for Site Recovery components."
+    publishedDateTime: 2020-08-19T19:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-49-august-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Site Recovery update rollup 46—June 2020"
     excerpt: ""
     publishedDateTime: 2020-06-04T21:00:29Z
@@ -77,6 +78,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "WgKl+LM3aOWiZWZ/bYym2GrkAxLuSc7q0iLuYsM3UCDQHm+QaNNgI0Upxw6xuhCqZhGXpqxkfh/Exy1ZMELMdVoJgpmWvinqDPQbseTicKzBvMPdS5V6TAxgKr8ao3UiXWMhSS+Zd6ujEQWuUoPxz/Z4iIKFWbZxYBCuJFBgBs8RA9fJf0zKejiT7LqXnSqbVa2Ftxjv4TDJSOFrhr99+LQsRJSve701VbdtyR2pyjmiGZL220vWnh5MciP9eUJPVilYfRuisrXST4fs6UIrmR6z3oi7vhrQiuWpeyswQdDiNvIf8AZF0ZpEtod+Bx/8Z4pNGKcDxoPeWR+AXQmAYw==;DwxLPgOVGvwQFSUnKk/7Jg=="
+secured: "6cSBsymfkMvfOQxIUTJ5O+c2SSSSDOpl4ztLpuoBUdFrxAtIPR85Med0ZLjEZLcfcxG+WrQiK7F+eDDM/Zk9mbFygBcAMT/7rroyfRCmxk8qfAaCuehfnHVW1FjA79lYcl/OAta7wVl5rJAIFcHJWqa8Hb9HDDAZtme98Etho8KcyK5ZgcxpWX7Z+lqhHToLQ35WO9J+MiwyBwyzgGJwJIbdg/4whAD1ivjTbUiyNFPHlR9OHzLuI3sOepkq4Gk/2xiStBsBPxK8iOvR+gj27EaTtPlT047Y5Fq1F+WFTaXfDA14jEXEtKuSFYZNflPRNUhbY+pMk5hKORMKZ0g9w6cWjitBz08vuvTLWEcJUuM=;s7wB3HggNVepb6SStXjJNA=="
 ---
 

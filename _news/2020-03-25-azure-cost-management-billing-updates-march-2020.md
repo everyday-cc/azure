@@ -230,6 +230,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
+  - title: "Azure Cost Management and Billing updates – July 2021"
+    excerpt: "We're back with the usuals this month with an improved management experience, 9 new ways to save money with Azure, 3 videos, and 5 documentation updates. Stay tuned for even more next month!"
+    publishedDateTime: 2021-07-27T10:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-july-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
   - title: "Bing Search APIs will transition from Azure Cognitive Services to Azure Marketplace on 31 October 2023 "
     excerpt: "Continue to create new instances of Bing Search APIs under the Azure Marketplace. "
     publishedDateTime: 2020-10-30T16:00:23Z

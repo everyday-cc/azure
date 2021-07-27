@@ -23,96 +23,186 @@ topics:
   - Analytics
 
 related:
-  - title: "Azure Security Center—general avialability updates for January 2021"
-    excerpt: "New general availability enhancements and updates made to Azure Security Center in January 2021."
-    publishedDateTime: 2021-02-01T18:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-1/"
+  - title: "General Availability: Azure Stream Analytics Tools for Visual Studio Code"
+    excerpt: "Azure Stream Analytics Tools for Visual Studio Code is for developers to easily author, test, debug, and manage Azure Stream Analytics jobs."
+    publishedDateTime: 2021-07-27T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-stream-analytics-tools-for-visual-studio-code/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
+  - title: "General availability: Better integration between Azure Monitor and Grafana"
+    excerpt: "Customers using Grafana for visualizing Azure Monitor metrics can now enable additional data sources and have easier authentication using managed identity."
+    publishedDateTime: 2021-07-21T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-better-integration-between-azure-monitor-and-grafana/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Azure Security Center—Public preview updates for January 2021"
-    excerpt: "New preview enhancements and updates made to Azure Security Center in January 2021."
-    publishedDateTime: 2021-02-01T18:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-2/"
+  - title: "General availability: Dynamic data masking granular permissions for Azure SQL and Azure Synapse Analytics "
+    excerpt: "Control who can access your SQL data by using dynamic data masking granular permission on your Azure SQL Database, Azure Synapse Analytics, and Azure SQL Managed Instance."
+    publishedDateTime: 2021-03-17T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-dynamic-data-masking-granular-permissions-for-azure-sql-and-azure-synapse-analytics/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
-  - title: "Azure Security Center: General availability updates for April 2021"
-    excerpt: "New enhancements and updates released for general availability (GA) in Azure Security Center in April 2021."
-    publishedDateTime: 2021-05-03T15:47:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-april2021-1/"
+    quality: 98
+  - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (General Availability)"
+    excerpt: "With a brand new output connector to Synapse SQL Pools, Stream Analytics can now support throughput rates even higher than 200MB/sec while ensuring ultra-low latencies. "
+    publishedDateTime: 2020-09-22T16:05:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
-  - title: "Azure API Management Updates - January, 2021"
-    excerpt: "A regular Azure API Management service update was started on January 21, 2021, and included several new features and bug fixes, along other improvements. It may take several weeks for your API Management service to receive the update."
-    publishedDateTime: 2021-01-28T01:30:47Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-january-2021/"
+    quality: 87
+  - title: "General availability: Azure Log Analytics in Australia Central 2"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2. "
+    publishedDateTime: 2021-03-12T16:46:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-australia-central-2/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Azure HDInsight extends capabilities for encryption of data in transit and at rest"
-    excerpt: "Azure HDInsight Internet Protocol Security (IPSec) encryption in transit is now generally available. HDInsight also supports version-less keys for customer-managed key (CMK) encryption at rest."
-    publishedDateTime: 2021-01-25T17:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-extends-capabilities-for-encryption-of-data-in-transit-and-at-rest/"
+  - title: "General availability: New West US 3 region added to Azure HDInsight"
+    excerpt: "HDInsight is now generally available for West US 3 customers."
+    publishedDateTime: 2021-07-21T17:21:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-west-us-3-and-jio-india-west-regions-added-to-azure-hdinsight/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure Log Analytics in Brazil Southeast and Norway East "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. "
+    publishedDateTime: 2020-11-16T19:05:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+  - title: "General availability: Azure Monitor Agent and Data Collection Rules now support direct proxies and Log Analytics gateway"
+    excerpt: "If you use a proxy server or Log Analytics gateway to communicate to Azure Monitor, you can now start using the new Azure Monitor Agent (AMA) and Data Collection Rules (DCR) in these network configurations."
+    publishedDateTime: 2021-07-21T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-agent-and-data-collection-rules-now-support-direct-proxies-and-log-analytics-gateway/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "General availability: Enhanced Azure Dashboards experience for pinned Log Analytics parts"
+    excerpt: "Log Analytics enhances pinned parts Azure Dashboards experience. "
+    publishedDateTime: 2021-03-22T15:47:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enhanced-azure-dashboards-experience-for-pinned-log-analytics-parts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
+  - title: "General availability: Built-in Azure Policy support for Network Watcher Traffic Analytics"
+    excerpt: "Traffic Analytics can now be enabled using Built-in Azure Policy, thus improving your deployment experience. Now organizations can enforce org wide standards and manage traffic monitoring at scale using these policies."
+    publishedDateTime: 2021-07-21T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-builtin-azure-policy-support-for-network-watcher-traffic-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
+  - title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
+    excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
+    publishedDateTime: 2021-06-22T21:25:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+  - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
+    excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
+    publishedDateTime: 2021-04-12T20:24:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/lustre-hsm-tools-now-available-to-import-from-or-export-to-azure-storage/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
+  - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
+    publishedDateTime: 2021-01-21T17:02:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
+  - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
+    excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
+    publishedDateTime: 2020-08-27T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-log-analytics-rest-apis-general-availability/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Availability Zones in the South Central US datacenter region add resiliency"
-    excerpt: "As businesses move more workstreams to the cloud, business continuity and data protection have never been more critical—and perhaps their importance has never been more visible than during the challenges and unpredictability of 2020."
-    publishedDateTime: 2021-01-26T09:00:12Z
-    webUrl: "https://azure.microsoft.com/blog/azure-availability-zones-in-the-south-central-us-datacenter-region-add-resiliency/"
+  - title: "General availability: Improved Python support in Visual Studio Code with Pylance"
+    excerpt: "The latest release of the Python extension for VS Code comes with a much improved experience for Python developers thanks to the new Pylance language server in general availability."
+    publishedDateTime: 2021-05-25T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-improved-python-support-in-visual-studio-code-with-pylance/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 66
-  - title: "Germany West Central Availability Zones now generally available"
-    excerpt: "Microsoft is pleased to announce that Azure Availability Zones are now generally available from the Germany West Central datacenter region. Azure Availability Zones (AZs) feature in the broad portfolio of services and products that enable organizations to create resilient, highly available applications"
-    publishedDateTime: 2021-01-26T17:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/germany-west-central-availability-zones-now-generally-available/"
+    quality: 64
+  - title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
+    excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
+    publishedDateTime: 2021-01-30T01:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "South Central US Availability Zones now generally available"
-    excerpt: "Azure Availability Zones are now generally available in the South Central US region. These three new zones provide customers with options for additional resiliency and tolerance to infrastructure impact."
-    publishedDateTime: 2021-01-26T17:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/south-central-us-availability-zones-now-generally-available/"
+    quality: 63
+  - title: "General availability: Log analytics workspace name uniqueness is now per resource group"
+    excerpt: "You can now use the same workspace name in deployments across all your environment without a conflict. This is useful in template deployments when the same name can be used for every deployment for consistency."
+    publishedDateTime: 2021-04-14T16:02:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-log-analytics-workspace-name-uniqueness-is-now-per-resource-group/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "General availability: Application Insight in UAE Central & Japan West"
-    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
-    publishedDateTime: 2021-02-03T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
+    quality: 61
+  - title: "General availability: Public IP information and inter-zone traffic among many new insights in Traffic Analytics"
+    excerpt: "Azure Network Watcher Traffic Analytics solutions is used to monitor network traffic. It now provides WHOIS and Geographic data for all Public IPs interacting with your deployments and further adds DNS domain, threat type & threat description for Malicious IPs. Now, it also supports inter-zone traffic"
+    publishedDateTime: 2021-07-21T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-public-ip-information-and-interzone-traffic-among-many-new-insights-in-traffic-analytics/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "General Availability: Custom Neural Voice, a Text-to-Speech capability within Speech Service "
-    excerpt: "Improve user experiences responsibly with Custom Neural Voice, a limited access capability within Speech Service. Custom Neural voice allows you to build a custom voice font consistent with your brand and use case."
-    publishedDateTime: 2021-02-03T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-custom-neural-voice-a-custom-texttospeech-capability-within-speech-service/"
+    quality: 49
+  - title: "SPIN Analytics and RISKROBOT, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2021-07-21T11:00:00Z
+    webUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 30
+  - title: "Azure Stream Analytics tools for Visual Studio Code now supports Visual Studio Codespaces"
+    excerpt: "Azure Stream Analytics tools for Visual Studio Code now supports Visual Studio Codespaces. "
+    publishedDateTime: 2020-07-07T15:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analyitcs-tools-for-vscode-supports-visual-studio-codespaces/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 41
+    quality: 8
 
 secured: "kGxwy8T5n4xuzhN97NbGjldY9FKL0rsRdAYQoDDm4qGDJEhbrOw492DzZblgRcO3JG02TcKpBbf94C9Wcw8cpDkLCDN92etSjt0Hx+GhT9LFHgfelCz5FhsrdeAbZvlYk9A2Gff1VTdFOzhXHRGPtkl+sXaGRQrXRpoitYX3IzBP3inW8k6JfZIw5l+pfKXXvYEUAKmusT56SIybKtHoZnz11kQj8cH27nNW3Qy3MSN6xOENp4EnqzMHH6KQ+ZafgWe/wvUrSOyzStOEtJY99z24XhY7OBr6OxbD4Vr+57dCa+6hFGOpHfvpe3GiSsPBK2folzduDdCd+hz/bvx74oM8eSr3suLr4QSWqovaReM=;HJJnekz+dP2TXQtAArLn7Q=="
 ---

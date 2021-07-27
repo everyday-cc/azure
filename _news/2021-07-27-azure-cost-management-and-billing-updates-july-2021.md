@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Cost Management + Billing updates – September 2020"
-excerpt: "While 2020 may be keeping you on your toes, September should help make your life a little bit easier with the general availability of AWS support in Azure Cost Management + Billing, allowing you to manage all your Azure and AWS costs in a single place; the preview of cost allocation, streamlining your"
-publishedDateTime: 2020-09-30T11:00:21Z
-originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-september-2020/"
-webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-september-2020/"
+title: "Azure Cost Management and Billing updates – July 2021"
+excerpt: "We're back with the usuals this month with an improved management experience, 9 new ways to save money with Azure, 3 videos, and 5 documentation updates. Stay tuned for even more next month!"
+publishedDateTime: 2021-07-27T10:00:05Z
+originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-july-2021/"
+webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-july-2021/"
 type: article
-quality: 81
+quality: 73
 heat: -1
 published: false
 
@@ -20,13 +20,9 @@ provider:
 
 topics:
   - Azure
-  - Analytics
-  - Storage
-  - Management tools
   - Databases
   - Compute
-  - Networking
-  - Serverless
+  - Web
 
 related:
   - title: "Azure Cost Management and Billing updates – October 2020"
@@ -182,6 +178,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Cost Management + Billing updates – September 2020"
+    excerpt: "While 2020 may be keeping you on your toes, September should help make your life a little bit easier with the general availability of AWS support in Azure Cost Management + Billing, allowing you to manage all your Azure and AWS costs in a single place; the preview of cost allocation, streamlining your"
+    publishedDateTime: 2020-09-30T11:00:21Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-september-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "Azure Cost Management and Billing 2020 year in review"
     excerpt: "2020 wasn't the year we signed up for, but was chock full nonetheless. From optimized account and invoice management experiences to richer reporting within and outside the portal; new ways to facilitate chargeback and more flexible budget alerts to an overwhelming amount of new cost optimization opportunities."
     publishedDateTime: 2020-12-15T10:00:22Z
@@ -227,15 +232,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
-  - title: "Azure Cost Management and Billing updates – July 2021"
-    excerpt: "We're back with the usuals this month with an improved management experience, 9 new ways to save money with Azure, 3 videos, and 5 documentation updates. Stay tuned for even more next month!"
-    publishedDateTime: 2021-07-27T10:00:05Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-july-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 73
   - title: "Azure Cost Management + Billing updates – March 2020"
     excerpt: "We're covering the spectrum this month from improvements to help you stay on top of all your pay-as-you-go (PAYG) invoices to 4 new ways to save money and a wealth of new, quick videos to help you learn how to manage and optimize your costs."
     publishedDateTime: 2020-03-25T11:00:12Z
@@ -255,6 +251,6 @@ related:
       domain: microsoft.com
     quality: 68
 
-secured: "/95FzEQ0QJMQfKx0WAssom+tIp+3xONT+CnduNmSrS0pm8dCgXdk3h3+jBoy7yRkcsqvP3D/CgbfRGker2NqqZua+CP5UtKW6dhbsi5r4tKgq4pgLfTP5gQBituDQM01IxPHxDD+LDTF4hwkNDYp1ILs3R21tlq/R6/VynpMSpgnhLFTf2njaP+dER2gxPEuR0RvN1ijfcQXpzjpwMkpm+5fDuTGO1JOJagtKzj0nuQJXoZjgiZoI/KwrugpFS16fsiDvSHsPdAJXvp7EqEnzdvyP5woa6oIDWveJ/TnH2a2bW9uC1NC3BIXRnjmW48xA3zyayJEfYsk/Wj4shEjnKfVjHD68r527Q8tn3mmuIs=;CKPxxhsRyR4IiCPHUscqww=="
+secured: "QKorOWDQB/3Gp5nUYU/GxNgm2vyxcSyTFdcVgThy26s0dhELBCFnii+EV1jwsU/DklBrSt1+qQ+ACK/orbbJWsePiYdosLBJ3U/HHd/RSfcEBeuuTvS9+97vC/SyQL4p7mN5LtM4epdl1Mq1VOKNvhE0SG6Q9979jBS+6NBMHjSMZwQkt06iYn7LFfoMu7RN9oXsbmD9+yuK5orWUjabR5KJ5oLXw4QP+VqJsIZbAa9n974Ucs2bdRfiwBA1LUVT2xcgNb6T6GBcmTdLXd53AQVxKzZOZ8Omfp1XXC6s1tSkF/HSc2k45mvxFQ5qXu9zO9/xfxlc302SlE1DVk8I0xiktQDwqNYosyN5SVUmyxY=;W9u0w12C/L3hKGYuqOSc+Q=="
 ---
 

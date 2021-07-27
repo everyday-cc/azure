@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-upd
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-update-in-policy-compliance-for-resource-type-policies/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -20,17 +20,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "General availability: ExpressRoute Global Reach Pricing Reduction"
-    excerpt: "ExpressRoute Global Reach allows you to link ExpressRoute circuits together to make a private network between your on-premises networks. The data transfer price for this offering is now 50% lower."
-    publishedDateTime: 2021-06-05T04:00:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/grpricing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "WAwaPwlH7lUEHRigsOtxN+mg1Wih16KcoAR0FjNcm/dZXc+yzABbjKPQShQ98eOfLhC/xllN+mC2ZlxrI97cz9eOyeiu0oJzyHvPy+qSz4mijKcBz88PYO4yhp0fxFHCn6F1aPMdOWE3Is3BXc0/7QLvY5/GjB/MjJqHW4ODI1wtSrYIMss6+Cl47Ghl4C1YrFQ4urcSJiNv5q/29hZ+8eVAbEF7EmEMksJW4hTrY7fpNn1E2LEjTs9hTUJ7eQdvqFznUR1ydcTJk8crREbWDRQcsia0ngkhUM34G2+LlIuO2mTpKeZp1rZLRb0jc4GMeGqNMLK4b4kojegJbk/XcNVzaV8Krnlta44vTbejh4w=;rMQ2Fl5NrvEI8e6ruaAbrQ=="
 ---

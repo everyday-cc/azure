@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-sto
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-stopstart-functionality-for-azure-database-for-mysql/"
 type: article
 quality: 97
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 70
-  - title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
-    excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
-    publishedDateTime: 2021-01-30T01:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
 
 secured: "Fz5Xcb2JFeKTJ04mjrf5iiimLSk0Qp873FNOIwSR6mpqjASkmFLm6FDuhT49Y23/x7gVjIRxx0khsNp6fy/3kra2sHzcsurXpUpqZvdmM0VTmA4CR/Qp4BeYa/I2Zukfb50heGl4KO9OHsOKOPJDouH1rXxJkerDRjfW1IgOITVf3DdhU9tLSDFAnXEA57Sb/QQ12hLRG51E0PEchuIzzUst88ZNVbfIatLJqfRBCJYF+/evRwsHYuwMEVYn2MOhPjCGp+gN2nyoK/37ofFMys3ZA5hOADn+bhoMhwH39qLPavMxOgZWsl3OHhIKOs/oWVQAMiU4rAWi1MQHocz57GugsC147KVgd3bBysx7X9Y=;l+gQxLq4bTxz3wEKzARYWw=="
 ---

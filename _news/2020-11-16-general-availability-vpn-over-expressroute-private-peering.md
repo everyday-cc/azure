@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: Microsoft
@@ -22,33 +22,15 @@ topics:
   - Azure
 
 related:
-  - title: "General availability: Azure Log Analytics in Brazil Southeast and Norway East "
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. "
-    publishedDateTime: 2020-11-16T19:05:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
+  - title: "General availability: ExpressRoute Global Reach Pricing Reduction"
+    excerpt: "ExpressRoute Global Reach allows you to link ExpressRoute circuits together to make a private network between your on-premises networks. The data transfer price for this offering is now 50% lower."
+    publishedDateTime: 2021-06-05T04:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/grpricing/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 80
-  - title: "Public preview: Azure Log Analytics in Germany West Central, UAE North, and Switzerland West "
-    excerpt: "Germany West Central, UAE North, and Switzerland West  are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
-    publishedDateTime: 2020-11-16T19:07:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-germany-west-central-uae-north-and-switzerland-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 73
-  - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
-    publishedDateTime: 2021-01-21T17:02:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 70
+    quality: 52
   - title: "General availability: Application Insight in Australia Central, Brazil Southeast, and Norway East"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central, Brazil Southeast, and Norway East regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2020-11-16T19:06:45Z

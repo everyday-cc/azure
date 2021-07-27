@@ -22,15 +22,24 @@ topics:
   - Azure
 
 related:
-  - title: "Azure SQL auditing to Log Analytics and Event Hub are now generally available"
-    excerpt: "Auditing for Azure SQL Database and Azure Synapse Analytics to Log Analytics and Event Hub are now generally available, allowing the centralization of SQL audit logs into a single go-to-location."
-    publishedDateTime: 2021-03-02T17:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-log-analytics-and-event-hub-are-now-generally-available/"
+  - title: "General Availability: Azure Stream Analytics Tools for Visual Studio Code"
+    excerpt: "Azure Stream Analytics Tools for Visual Studio Code is for developers to easily author, test, debug, and manage Azure Stream Analytics jobs."
+    publishedDateTime: 2021-07-27T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-stream-analytics-tools-for-visual-studio-code/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 98
+    quality: 100
+  - title: "General availability: Better integration between Azure Monitor and Grafana"
+    excerpt: "Customers using Grafana for visualizing Azure Monitor metrics can now enable additional data sources and have easier authentication using managed identity."
+    publishedDateTime: 2021-07-21T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-better-integration-between-azure-monitor-and-grafana/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "General availability: Dynamic data masking granular permissions for Azure SQL and Azure Synapse Analytics "
     excerpt: "Control who can access your SQL data by using dynamic data masking granular permission on your Azure SQL Database, Azure Synapse Analytics, and Azure SQL Managed Instance."
     publishedDateTime: 2021-03-17T16:00:24Z
@@ -40,87 +49,159 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
-  - title: "Generally available: Plan your migration to Azure VMware Solution using Azure Migrate"
-    excerpt: "Azure Migrate assessments for Azure VMware Solution with improved node sizing logic is now generally available.\n"
-    publishedDateTime: 2021-03-02T20:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
+  - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (General Availability)"
+    excerpt: "With a brand new output connector to Synapse SQL Pools, Stream Analytics can now support throughput rates even higher than 200MB/sec while ensuring ultra-low latencies. "
+    publishedDateTime: 2020-09-22T16:05:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 92
-  - title: "Log Analytics Agent for Windows August 2020 release is now available"
-    excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
-    publishedDateTime: 2020-09-02T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-windows-august-2020-release-is-now-available/"
+    quality: 87
+  - title: "General availability: Azure Log Analytics in UAE Central & Japan West"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West. "
+    publishedDateTime: 2021-02-03T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-uae-central-japan-west/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-  - title: "Log Analytics Windows Agent for Winter 2021 now generally available"
-    excerpt: "Update to the newest Windows Agent. Now available with support fixes and a new troubleshooting tool."
-    publishedDateTime: 2021-04-12T16:00:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-windows-agent-for-winter-2021-available/"
+    quality: 84
+  - title: "General availability: Azure Log Analytics in Australia Central 2"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2. "
+    publishedDateTime: 2021-03-12T16:46:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-australia-central-2/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-  - title: "Azure Routing Preference is now generally available "
-    excerpt: "Choice matters when it comes to cloud. Routing preference enables network service tiers for internet bound traffic, letting you to optimize for performance or cost."
-    publishedDateTime: 2021-03-09T16:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-routing-preference-is-now-generally-available/"
+    quality: 84
+  - title: "General availability: New West US 3 region added to Azure HDInsight"
+    excerpt: "HDInsight is now generally available for West US 3 customers."
+    publishedDateTime: 2021-07-21T17:21:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-west-us-3-and-jio-india-west-regions-added-to-azure-hdinsight/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Support for reference data up to 5GB and new improvements in Azure Stream Analytics now generally available"
-    excerpt: "The latest update of Azure Stream Analytics, now deployed in every supported region, provides support for larger reference data ( up to 5 GB), and add support for composite keys for blob output partitioning."
-    publishedDateTime: 2020-12-17T17:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/additional-support-for-managed-identity-and-new-features-in-azure-stream-analytics/"
+    quality: 84
+  - title: "General availability: Azure Log Analytics in Brazil Southeast and Norway East "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. "
+    publishedDateTime: 2020-11-16T19:05:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 66
-  - title: "Event Hubs on Azure Stack Hub for disconnected scenarios is now generally available"
-    excerpt: "Supports streaming events via Event Hubs for disconnected scenarios on Azure Stack Hub. "
-    publishedDateTime: 2021-03-01T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-for-disconnected-scenarios-is-now-generally-available/"
+    quality: 80
+  - title: "General availability: Azure Monitor Agent and Data Collection Rules now support direct proxies and Log Analytics gateway"
+    excerpt: "If you use a proxy server or Log Analytics gateway to communicate to Azure Monitor, you can now start using the new Azure Monitor Agent (AMA) and Data Collection Rules (DCR) in these network configurations."
+    publishedDateTime: 2021-07-21T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-agent-and-data-collection-rules-now-support-direct-proxies-and-log-analytics-gateway/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "General availability: Enhanced Azure Dashboards experience for pinned Log Analytics parts"
+    excerpt: "Log Analytics enhances pinned parts Azure Dashboards experience. "
+    publishedDateTime: 2021-03-22T15:47:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enhanced-azure-dashboards-experience-for-pinned-log-analytics-parts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
+  - title: "General availability: Built-in Azure Policy support for Network Watcher Traffic Analytics"
+    excerpt: "Traffic Analytics can now be enabled using Built-in Azure Policy, thus improving your deployment experience. Now organizations can enforce org wide standards and manage traffic monitoring at scale using these policies."
+    publishedDateTime: 2021-07-21T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-builtin-azure-policy-support-for-network-watcher-traffic-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
+  - title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
+    excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
+    publishedDateTime: 2021-06-22T21:25:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+  - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
+    excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
+    publishedDateTime: 2021-04-12T20:24:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/lustre-hsm-tools-now-available-to-import-from-or-export-to-azure-storage/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
+  - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
+    publishedDateTime: 2021-01-21T17:02:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
+  - title: "General availability: Improved Python support in Visual Studio Code with Pylance"
+    excerpt: "The latest release of the Python extension for VS Code comes with a much improved experience for Python developers thanks to the new Pylance language server in general availability."
+    publishedDateTime: 2021-05-25T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-improved-python-support-in-visual-studio-code-with-pylance/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
+  - title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
+    excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
+    publishedDateTime: 2021-01-30T01:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
+  - title: "General availability: Log analytics workspace name uniqueness is now per resource group"
+    excerpt: "You can now use the same workspace name in deployments across all your environment without a conflict. This is useful in template deployments when the same name can be used for every deployment for consistency."
+    publishedDateTime: 2021-04-14T16:02:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-log-analytics-workspace-name-uniqueness-is-now-per-resource-group/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 61
-  - title: "Accelerate big data analytics with the Spark 3.0 connector for SQL Server—now generally available"
-    excerpt: "We are now announcing the general availability of the Apache Spark 3.0 compatible Apache Spark Connector for SQL Server and Azure SQL, accessible through Maven."
-    publishedDateTime: 2021-07-12T10:00:02Z
-    webUrl: "https://azure.microsoft.com/blog/accelerate-big-data-analytics-with-the-spark-30-connector-for-sql-server-now-generally-available/"
+  - title: "General availability: Public IP information and inter-zone traffic among many new insights in Traffic Analytics"
+    excerpt: "Azure Network Watcher Traffic Analytics solutions is used to monitor network traffic. It now provides WHOIS and Geographic data for all Public IPs interacting with your deployments and further adds DNS domain, threat type & threat description for Malicious IPs. Now, it also supports inter-zone traffic"
+    publishedDateTime: 2021-07-21T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-public-ip-information-and-interzone-traffic-among-many-new-insights-in-traffic-analytics/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 58
-  - title: "Backup Center is now generally available"
-    excerpt: "Backup Center enables centralized backup management allowing you to monitor, operate, govern, and optimize data protection at scale. \n"
-    publishedDateTime: 2021-03-02T17:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/backup-center-is-now-generally-available/"
+    quality: 49
+  - title: "SPIN Analytics and RISKROBOT, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2021-07-21T11:00:00Z
+    webUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 30
+  - title: "Azure Stream Analytics tools for Visual Studio Code now supports Visual Studio Codespaces"
+    excerpt: "Azure Stream Analytics tools for Visual Studio Code now supports Visual Studio Codespaces. "
+    publishedDateTime: 2020-07-07T15:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analyitcs-tools-for-vscode-supports-visual-studio-codespaces/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "Azure Private Link for Azure SQL Database and Azure Synapse Analytics is now available in all US government regions"
-    excerpt: ""
-    publishedDateTime: 2020-05-14T12:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-sqldb-usgov/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 0
+    quality: 8
 
 secured: "fbTgndDN89n+dTIVhPJY6bi6DPjCPeaWQhcWWz/Up0I7Esv5g6UFQWNYi9Dx9sFtuIEu1c1q5c5HSQb6Q+C+9j2dyvMhOkbcdjK4n5LYnaSn3K9vcb81i13B0gDbGlxKKbXZLKdpi+drlwY4w9VgR7YA8I9sdKOU0H+rFjbvSPcddaqwOcRPqZIGK6oFn9HtYwM3cugZ98r8ncUT2gK0HwpV5LUluywxjIeZpvt8oK7U4IDql+rrZ76mwPmZx3a3hu2rb4zBB5e5ZnlZcMt6CUMvIRCtqRDcIFWkMbFpiwMRPQ8e0gIataVtmpD8plRamfjtzjKK4nLihRWx8/XbcqMRSV48ORN7SN6+Hkl4/MY=;VfaNnGPYU2AJSjuqD044sg=="
 ---

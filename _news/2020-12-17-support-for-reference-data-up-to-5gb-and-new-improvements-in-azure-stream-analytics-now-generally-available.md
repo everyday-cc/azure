@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
-  - title: "General availability: Dynamic data masking granular permissions for Azure SQL and Azure Synapse Analytics "
-    excerpt: "Control who can access your SQL data by using dynamic data masking granular permission on your Azure SQL Database, Azure Synapse Analytics, and Azure SQL Managed Instance."
-    publishedDateTime: 2021-03-17T16:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-dynamic-data-masking-granular-permissions-for-azure-sql-and-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 98
   - title: "Generally available: Plan your migration to Azure VMware Solution using Azure Migrate"
     excerpt: "Azure Migrate assessments for Azure VMware Solution with improved node sizing logic is now generally available.\n"
     publishedDateTime: 2021-03-02T20:00:04Z
@@ -68,15 +59,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
-    excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
-    publishedDateTime: 2020-08-27T17:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-log-analytics-rest-apis-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Routing Preference is now generally available "
     excerpt: "Choice matters when it comes to cloud. Routing preference enables network service tiers for internet bound traffic, letting you to optimize for performance or cost."
     publishedDateTime: 2021-03-09T16:00:35Z
