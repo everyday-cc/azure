@@ -131,6 +131,34 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Latest AZ-304 Dumps - Microsoft Azure Solutions Architect Real Exam Questions And Accurate Answers (2021)"
+    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-304 specialists. As a result of this, IT certifications, for example AZ-304 Microsoft Azure Architect Design Exam,"
+    publishedDateTime: 2021-07-27T20:13:00Z
+    webUrl: "https://www.madinamerica.com/author/try-az-304-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 20
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "AZ-120 Dumps [2021] Prepare Your Exam with Real Microsoft Azure For SAP Workloads Specialty Exam Questions"
+    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-120 specialists. As a result of this, IT certifications, for example AZ-120 Planning and Administering Microsoft Azure for SAP Workloads exam,"
+    publishedDateTime: 2021-07-27T20:13:00Z
+    webUrl: "https://www.madinamerica.com/author/new-az-120-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 19
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
     publishedDateTime: 2021-07-20T08:11:00Z
