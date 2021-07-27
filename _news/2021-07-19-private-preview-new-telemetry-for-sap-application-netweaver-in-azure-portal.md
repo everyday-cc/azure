@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/private-preview-new-tele
 webUrl: "https://azure.microsoft.com/en-us/updates/private-preview-new-telemetry-for-sap-application-netweaver-in-azure-portal/"
 type: article
 quality: 80
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Management tools
 
 related:
+  - title: "Public preview: Azure Virtual Desktop is now available in the Azure China cloud "
+    excerpt: "Get started today with Azure Virtual Desktop in public preview in Azure China cloud. Deploy and scale Windows desktops and apps on Azure in minutes."
+    publishedDateTime: 2021-07-26T23:31:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-desktop-is-now-available-in-the-azure-china-cloud-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "Public preview: New Application Insights standard test for synthetic monitoring"
     excerpt: "Azure Monitor Application Insights is introducing a new availability test to handle most of your single request test scenarios."
     publishedDateTime: 2021-07-14T16:00:30Z
