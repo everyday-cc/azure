@@ -2218,6 +2218,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "BJQfy6QckFy0cGaODUycIPiJ1aeBmPHsVz8nvtQ6FPe5+DoSugi+ladCTOT1ev6S4fiKgH8B6lV8N73kPpRR1UyOJhjF/PWzHhg2VpZ5O/We3IC2ZUIPNQdiwwXlFZtdi/0QzcO1Ct6X0Px4WR5els12NNOig6VKZQ8C01HdtAgsC8RHCjJKAFAlounu5zttpHRvequ4OGRF7kBlcjnKd9aX63C1hOue00DbSep2/2NTVAlwRCz1NNfhqKZu3r3dbYbme1L2Ag+cbQwTz1Q3B7rIparFT7sJOQrSM1IC9djBCMoNPmO7HLKVUqsKTM03B4C8MQ49mRk2h2sBO7k/gBm90zlUZRsL1eypxY9cuRg=;4kkDNOjSs0FQ520CbQSSvA=="
+secured: "vP4gHhLszf/33hTNu6rUJSBcOBL40GtsTTah5/O9jMuMLbwDM+7XS395VVcIka2xhhhr+ZoEfZQZ/9edZVGinh1RHMj+V6J3+F+0UyTyxPvn4vDdX8KaL/iKUlN+lnhceaTfjFLJBx/o+ZNeMYiFTmlarzzSjukzHj7NogHKDEVIoZalwUg0jeFw/nTM4xNGzoQDLP3h0R9+qzJx2y7acOr+H1LqxJIuEFsWdm7/BEa5numpXBeqdeOB5TxhsmoXiJA3apwBCigpoevqKU5nirFhya+GEZUuJAgX5KO/xOb3sy+xVHxR64blL3j0VsAOJh3N14CkMC3ErndMNgRY4+icLr2ti55PRZRUmKJnMVo=;X0KbHg+eNAoLmQ/bfnIO/w=="
 ---
 
