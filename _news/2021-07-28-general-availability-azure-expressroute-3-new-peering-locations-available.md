@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Monitor Agent and Data Collection Rules now support direct proxies and Log Analytics gateway"
-excerpt: "If you use a proxy server or Log Analytics gateway to communicate to Azure Monitor, you can now start using the new Azure Monitor Agent (AMA) and Data Collection Rules (DCR) in these network configurations."
-publishedDateTime: 2021-07-21T16:00:05Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-agent-and-data-collection-rules-now-support-direct-proxies-and-log-analytics-gateway/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-agent-and-data-collection-rules-now-support-direct-proxies-and-log-analytics-gateway/"
+title: "General availability: Azure ExpressRoute: 3 New Peering Locations Available"
+excerpt: "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. The service is now available in 3 new peering locations."
+publishedDateTime: 2021-07-28T15:39:35Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/newerlocations/"
+webUrl: "https://azure.microsoft.com/en-us/updates/newerlocations/"
 type: article
-quality: 76
+quality: 65
 heat: -1
 published: false
 
@@ -20,8 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Analytics
-  - DevOps
 
 related:
   - title: "General Availability: Azure Stream Analytics Tools for Visual Studio Code"
@@ -96,6 +94,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
+  - title: "General availability: Azure Monitor Agent and Data Collection Rules now support direct proxies and Log Analytics gateway"
+    excerpt: "If you use a proxy server or Log Analytics gateway to communicate to Azure Monitor, you can now start using the new Azure Monitor Agent (AMA) and Data Collection Rules (DCR) in these network configurations."
+    publishedDateTime: 2021-07-21T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-agent-and-data-collection-rules-now-support-direct-proxies-and-log-analytics-gateway/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
   - title: "General availability: Enhanced Azure Dashboards experience for pinned Log Analytics parts"
     excerpt: "Log Analytics enhances pinned parts Azure Dashboards experience. "
     publishedDateTime: 2021-03-22T15:47:37Z
@@ -150,15 +157,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure ExpressRoute: 3 New Peering Locations Available"
-    excerpt: "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. The service is now available in 3 new peering locations."
-    publishedDateTime: 2021-07-28T15:39:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/newerlocations/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
   - title: "General availability: Improved Python support in Visual Studio Code with Pylance"
     excerpt: "The latest release of the Python extension for VS Code comes with a much improved experience for Python developers thanks to the new Pylance language server in general availability."
     publishedDateTime: 2021-05-25T16:00:29Z
@@ -214,6 +212,6 @@ related:
       domain: microsoft.com
     quality: 8
 
-secured: "rztpcVu2vSHiPR+jgkh9hPLDU8n+QVa1p92Q4GG2cI9UPpVnv5ELWhUpibZbo/VCJ8kzHOluVXh1SKCLcsZuyTtyU6eu88xFb/INqPRmnzcSfPABt8zeEviYfJ7fqy7jmKUEnPUWk0uBtIWUJe/c7ZwN8XzmvTjW9lrqhCH24svWZXJABa36+mbqhC5BKWaMZIxVTmPawz0e1WWPiYip3BaGHAwC56Eci7ShRz3bnT5OmV3Aub1Y17PDyDtn6ZYF8ZTsLYXXLRvY2MaUbUpL9d4ELKjRV3Qbomghk7YNX8eJIyXZ4Zqnelb3KVf9B7XfgN5U/Vax326NdbjQDgGqSpl0n7LvJ/3EEsUnv7yBs3c=;K2XIkCK0Kdsx1FRe7axuuQ=="
+secured: "DFS6wTooJX5V56cGojiSeMxdhUVoO0IIWHEK1vhV9jV6R0l0jAAa7Ph+PHeqx7SlRYV3C5elKVgyBPpU82Yfgcu0ZAPvU7D8uePQYhQc70JWGoDPfaWa7mfGyiQ0m7/iFOXbbl2pPvSkae5Iq1k5XXvhuAvtO9sjwZt0eyB1VDhApJt6QHMXtWqlAGqnDuE0p8KDLYQzV4Jc6JCmDr+lyPIIReFhiHKN+6pKniDKNt2QjmNeqt95UALYnIJGFcq5kUc+MvVr0LTJ4maH3aDL9OpeM/paENwY/m5AhLCV62o33uujKo+5h7koxTIPPmjZoX082QnTGBIm9exrlHjPdvnlGAnbnEr5TAHPJQA6YYE=;9kB92DcELUH7mZbB050JAg=="
 ---
 

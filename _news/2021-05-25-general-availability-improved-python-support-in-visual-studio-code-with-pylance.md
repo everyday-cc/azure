@@ -158,6 +158,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure ExpressRoute: 3 New Peering Locations Available"
+    excerpt: "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. The service is now available in 3 new peering locations."
+    publishedDateTime: 2021-07-28T15:39:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/newerlocations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
   - title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
     excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
     publishedDateTime: 2021-01-30T01:00:01Z

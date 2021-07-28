@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-stream-analytics-tools-for-visual-studio-code/"
 type: article
 quality: 100
-heat: 500
+heat: 520
 published: true
 
 provider:
@@ -150,6 +150,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure ExpressRoute: 3 New Peering Locations Available"
+    excerpt: "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. The service is now available in 3 new peering locations."
+    publishedDateTime: 2021-07-28T15:39:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/newerlocations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
   - title: "General availability: Improved Python support in Visual Studio Code with Pylance"
     excerpt: "The latest release of the Python extension for VS Code comes with a much improved experience for Python developers thanks to the new Pylance language server in general availability."
     publishedDateTime: 2021-05-25T16:00:29Z
