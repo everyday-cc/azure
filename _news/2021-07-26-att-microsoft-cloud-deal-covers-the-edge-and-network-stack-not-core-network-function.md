@@ -24,98 +24,53 @@ images:
     isCached: true
 
 related:
-  - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
-    excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
-    publishedDateTime: 2021-07-22T16:20:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
+  - title: "HCL Technologies Selected As a Strategic Launch Partner For Microsoft Cloud For Financial Services"
+    excerpt: "Microsoft Cloud for Financial Services brings together capabilities with multilayered security and comprehensive compliance coverage to deliver differentiated customer experiences, improve employee collaboration and productivity,"
+    publishedDateTime: 2021-07-26T09:39:00Z
+    webUrl: "https://www.entrepreneur.com/article/378352"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/378352"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378352"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 70
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 68
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1627292339-science-in-hd-ooNO0LlxZRM-unsplash.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
-    excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
-    publishedDateTime: 2021-07-21T20:16:00Z
-    webUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
+  - title: "AWS Managed Services Market is Booming Worldwide | Microsoft Azure, Stratalux, Cloudnexa"
+    excerpt: "Latest released the research study on Global AWS Managed Services Market offers a detailed overview of the factors influencing the global business scope AWS Managed Services Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2021-07-20T08:24:00Z
+    webUrl: "https://www.openpr.com/news/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
+    ampWebUrl: "https://www.openpr.com/amp/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 70
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
-        width: 647
-        height: 450
+      - url: "https://cdn.openpr.com/U/7/U720609320_g.jpg"
+        width: 800
+        height: 444
         isCached: true
-  - title: "KnowledgeLake Now Supports Microsoft Azure Government"
-    excerpt: "KnowledgeLake, a provider of document capture and processing solutions, now supports the Microsoft Azure for Government platform to securely automate critical business processes while ensuring regulatory compliance in the cloud. Organizations using Azure ..."
-    publishedDateTime: 2021-07-21T15:03:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
+  - title: "HCL Technologies selected as a strategic launch partner for Microsoft cloud for Financial Services"
+    excerpt: "Microsoft Cloud for Financial Services brings together capabilities with multilayered security and comprehensive compliance coverage to deliver differentiated customer experiences"
+    publishedDateTime: 2021-07-26T19:06:00Z
+    webUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services-11627284318654.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 37
+      name: Mint
+      domain: livemint.com
+    quality: 28
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
-  - title: "KnowledgeLake provides support for Microsoft Azure Government"
-    excerpt: "KnowledgeLake, a provider of intelligent document capture and processing solutions, is offering customers the ability to leverage its platform in concert with the Microsoft Azure for Government solution. This allows users to securely automate critical ..."
-    publishedDateTime: 2021-07-21T16:24:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148082"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
-        isCached: true
-  - title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
-    excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
-    publishedDateTime: 2021-07-23T02:32:00Z
-    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
-        width: 740
-        height: 493
-        isCached: true
-  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-    excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
-    publishedDateTime: 2021-07-22T18:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
-  - title: "Latest DP-900 Dumps - Microsoft Azure Fundamentals Real Exam Questions And Accurate Answers (2021)"
-    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like DP-900 specialists. As a result of this, IT certifications, for example DP-900 Microsoft Azure Data Fundamentals Exam,"
-    publishedDateTime: 2021-07-25T05:08:00Z
-    webUrl: "https://www.madinamerica.com/author/get-dp-900-exam/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 23
-    images:
-      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
+      - url: "https://images.livemint.com/img/2021/07/26/600x338/hclwipro-ktZE--621x414@LiveMint_1627284682062.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
     excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
@@ -130,48 +85,6 @@ related:
       - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Latest AZ-304 Dumps - Microsoft Azure Solutions Architect Real Exam Questions And Accurate Answers (2021)"
-    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-304 specialists. As a result of this, IT certifications, for example AZ-304 Microsoft Azure Architect Design Exam,"
-    publishedDateTime: 2021-07-27T20:13:00Z
-    webUrl: "https://www.madinamerica.com/author/try-az-304-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 20
-    images:
-      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "AZ-120 Dumps [2021] Prepare Your Exam with Real Microsoft Azure For SAP Workloads Specialty Exam Questions"
-    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-120 specialists. As a result of this, IT certifications, for example AZ-120 Planning and Administering Microsoft Azure for SAP Workloads exam,"
-    publishedDateTime: 2021-07-27T20:13:00Z
-    webUrl: "https://www.madinamerica.com/author/new-az-120-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 19
-    images:
-      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Latest DP-203 Dumps - Microsoft Azure Data Engineer Associate Real Exam Questions And Accurate Answers [2021]"
-    excerpt: "Pass you Microsoft DP-203 exam in just one go with DumpsArchive DP-203 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-    publishedDateTime: 2021-07-24T23:10:00Z
-    webUrl: "https://www.madinamerica.com/author/new-dp-203-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 18
-    images:
-      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
         isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
@@ -198,24 +111,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 13
-  - title: "Cloud Integration Platform Market Size, CAGR | Key Players – IBM, Dell Boomi, Oracle, Informatica, SAP, Microsoft Azure"
-    excerpt: "The Cloud Integration Platform Market has experienced remarkable dynamism in recent years. The constant increase in demand due to the increase in purchasing power bodes well for the world market. Verified Market Report’s latest publication “Cloud Integration Platform Market Research Report 2021-2028” provides an overview of the drivers and constraints that exist in the market."
-    publishedDateTime: 2021-07-25T21:37:00Z
-    webUrl: "https://manometcurrent.com/cloud-integration-platform-market-size-cagr-key-players-ibm-dell-boomi-oracle-informatica-sap-microsoft-azure/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 10
-  - title: "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event"
-    excerpt: "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,"
-    publishedDateTime: 2021-07-22T18:09:00Z
-    webUrl: "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 0
 
 secured: "JyC5/ZogZktQHWB6r6FzGIsdr8I8vhjG8+zCdi/j/Nt1DaL0b7xZ44SrAql+aKE6QASFwPvcCupIyq4uLbXuH4BGUeYV9UidoUxuv5uOO6OvZpPbT7noRPZaE6dA7cZnFyD6I7mWooHzpgi8xAS9kvpZlTR4f2xotlg0A9JBEVWXDFfN9P3vg6MQv96NfbL+x3ZwJ0nlG7GXuAmCYIT2PKBVsMWDeZH39Lk/LhasVGtnW/KZdigWHnyv08EQ/Jnfex0hQjVTC8DeChnCXC3CxwfcitegtLHmb8Q9AE2mTHo5IU3fS0OrlCdU67lN41rDNO/+ncq8D9AtoX8mUkMuQ9iJ4skPwo9RWFZnBcewGGeBgH0SeS4eMT8t4GfYmA1XYhuGPhcvtr8nTgm+ExYWLLpLv5CmmhGaqvTCJYHMvID8cr3OEeWmAxiThq17yaYiF2oN2AKfMz0W4LN//DKaEuQs4X1Id2JXcgQ2tiHr0Jm4uJT3GAz26mbiDG2WgllKjJJYb7OgjzvXkmfrPLa0lQ==;9LTrKq7jiC3MR49YIf+noQ=="
 ---

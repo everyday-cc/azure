@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "KnowledgeLake provides support for Microsoft Azure Government"
+    excerpt: "KnowledgeLake, a provider of intelligent document capture and processing solutions, is offering customers the ability to leverage its platform in concert with the Microsoft Azure for Government solution. This allows users to securely automate critical ..."
+    publishedDateTime: 2021-07-21T16:24:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148082"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
+        isCached: true
   - title: "KnowledgeLake platform now available via Canadian Microsoft Azure Data Centers"
     excerpt: "KnowledgeLake customers can host instances in Canadian data centers to ensure data sovereignty and improve performance"
     publishedDateTime: 2021-03-24T13:30:00Z
@@ -38,15 +52,29 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
-    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure. The Azure deployment is the latest step in Infobip’s technology collaboration with Microsoft ..."
-    publishedDateTime: 2021-03-29T02:59:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-infobips-communications-paas-now-available-on-microsoft-azure/"
+  - title: "AZ-120 Dumps [2021] Prepare Your Exam with Real Microsoft Azure For SAP Workloads Specialty Exam Questions"
+    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-120 specialists. As a result of this, IT certifications, for example AZ-120 Planning and Administering Microsoft Azure for SAP Workloads exam,"
+    publishedDateTime: 2021-07-27T20:13:00Z
+    webUrl: "https://www.madinamerica.com/author/new-az-120-exam-dumps/"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 15
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 19
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Virtual Private Cloud (VPC) Software Market Size 2021 is Booming Worldwide| AWS, Alibaba, Vmware, Microsoft Azure, IBM, Google"
+    excerpt: "Market growth analysis is shown with great accuracy in this Virtual Private Cloud (VPC) Software market analysis report. This includes a detailed summary of the market as snapshots that provide in-depth information on different segmentations."
+    publishedDateTime: 2021-07-22T04:06:00Z
+    webUrl: "https://manometcurrent.com/virtual-private-cloud-vpc-software-market-size-2021-is-booming-worldwide-aws-alibaba-vmware-microsoft-azure-ibm-google/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "uel0rGYqQSLlNlx/qE5ZxL5s9eIp4roLMZqAQyeZulNhQ6+nv/nz3q6DIr6UvDLOjTUTmASziuYPIn5wTUXl6AEs9XtLvU66y9RwPU0TkZJiuFYQBf/PPtLWRlEkQA5wTbg4NcmnyAgtedgVNYfT7cmoJ24sYg1PGboD6zt5xyv6WkX2dplM41b09HJ7cJHiimhe0qAd0UpV3CeoJLfLEu+Fs/ugrWrn9gOUYTCrdZugU3uxQR1ha+ZBOT1JgTmukCvw9rG5UAL8/mmBIVufon3uN22w7HJGTBhUgdCoDwdmQuTi6DZ9DtXvuGfkEAiLFp2GB8N7VEvV+fUewOyOLY3RGM0qlQlDxALfy5Yndb4=;aUbPQGmeDYsbqhhsMz5WIw=="
 ---

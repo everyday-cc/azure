@@ -1,43 +1,33 @@
 ---
 category: news
-title: "Latest DP-203 Dumps - Microsoft Azure Data Engineer Associate Real Exam Questions And Accurate Answers [2021]"
-excerpt: "Pass you Microsoft DP-203 exam in just one go with DumpsArchive DP-203 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-publishedDateTime: 2021-07-24T23:10:00Z
-originalUrl: "https://www.madinamerica.com/author/new-dp-203-dumps/"
-webUrl: "https://www.madinamerica.com/author/new-dp-203-dumps/"
+title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
+excerpt: "William de Gale, lead portfolio manager at BlueBox, discusses Microsoft's latest earnings. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
+publishedDateTime: 2021-07-28T09:23:00Z
+originalUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantage-is-its-cloud-business-azure-bluebox.html"
+webUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantage-is-its-cloud-business-azure-bluebox.html"
 type: article
-quality: 18
-heat: -1
-published: false
+quality: 77
+heat: 277
+published: true
 
 provider:
-  name: Mad in America
-  domain: madinamerica.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-    width: 300
-    height: 285
+  - url: "https://image.cnbcfm.com/api/v1/image/106917937-16274675284ED4-SBEU-070821-WilliamdeGale.jpg?v=1627467527"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
-  - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
-    excerpt: "William de Gale, lead portfolio manager at BlueBox, discusses Microsoft's latest earnings. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
-    publishedDateTime: 2021-07-28T09:23:00Z
-    webUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantage-is-its-cloud-business-azure-bluebox.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 77
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106917937-16274675284ED4-SBEU-070821-WilliamdeGale.jpg?v=1627467527"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
     excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
     publishedDateTime: 2021-07-22T16:20:00Z
@@ -159,7 +149,21 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Latest DP-203 Dumps - Microsoft Azure Data Engineer Associate Real Exam Questions And Accurate Answers [2021]"
+    excerpt: "Pass you Microsoft DP-203 exam in just one go with DumpsArchive DP-203 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
+    publishedDateTime: 2021-07-24T23:10:00Z
+    webUrl: "https://www.madinamerica.com/author/new-dp-203-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 18
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
 
-secured: "vo1d7n6M0oNVx153rVZrwiVpvOQlsktJjD3dRY0bZAvPmkujz6/iiIVRaQPUCXFl/E/t1C/Ed9d1+tIulXOMT6egfRC5tUTipYmIrtKpCQw1MwfPH9uYL20tXuM5HC8syIcmTNvNkaiCKzAK78XR2lKoVb8NSNwPYSl2aGBDxk6qdvYl+vUw6gdigLNqEgAfsK3KMyczQ/JLzvEFWFXj8jAboecw7zW9RQ9oTBzukgLDX/A8f8eUK28t5/jtpNpaodBGsp/9pCJJHZFzLBE6QdNaGnWo+qbGyIddKA4dPEOxMvzare3ytXP+1V4IFfsLdsPSQ/AisKm9XGKXa1lNaNVqqXlIs7ButBk27Kf7PRQ=;oxvjC6ow8poQEACXMQR5GQ=="
+secured: "ugAIPuljhMReEUfIrjjIMiujB4wVpA/O7hZucHoXXDP3aj3jGDXtb2wurB5DpH9j8cxITGSlqnOF9CrhgdVQIJIF5hBCu2t1FBteEcAz//k0kvNjyePEQHwdXb2GAFl78oJ1nm70p84XRv+t5OYcpgm4Yvrzn5GmJ9OTVBAnXPPvRXUoiY9bxzgqIsQVJ7rR+gyq7h9KlpKZCBFBdogeY9Vbq7oJnWnBKtncnTQLaEovBWYJ0/lGOMvqwiNIsq1mbCKDiFHSLEKfMgjZDMNrptLYS5wkaiRO3Adxa8fioyKov8njnJt7N2ng8j6BP49OlFFh3tPptFrzmnv2SxkaPulkoEsvNaaaOB4OA2Tk4Ew=;Wo8gbcw4RUNb4mNUWTZmkw=="
 ---
 

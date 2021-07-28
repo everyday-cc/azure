@@ -24,53 +24,140 @@ images:
     isCached: true
 
 related:
-  - title: "HCL Technologies Selected As a Strategic Launch Partner For Microsoft Cloud For Financial Services"
-    excerpt: "Microsoft Cloud for Financial Services brings together capabilities with multilayered security and comprehensive compliance coverage to deliver differentiated customer experiences, improve employee collaboration and productivity,"
-    publishedDateTime: 2021-07-26T09:39:00Z
-    webUrl: "https://www.entrepreneur.com/article/378352"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/378352"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378352"
+  - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
+    excerpt: "William de Gale, lead portfolio manager at BlueBox, discusses Microsoft's latest earnings. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
+    publishedDateTime: 2021-07-28T09:23:00Z
+    webUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantage-is-its-cloud-business-azure-bluebox.html"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 68
+      name: CNBC
+      domain: cnbc.com
+    quality: 77
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1627292339-science-in-hd-ooNO0LlxZRM-unsplash.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://image.cnbcfm.com/api/v1/image/106917937-16274675284ED4-SBEU-070821-WilliamdeGale.jpg?v=1627467527"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "AWS Managed Services Market is Booming Worldwide | Microsoft Azure, Stratalux, Cloudnexa"
-    excerpt: "Latest released the research study on Global AWS Managed Services Market offers a detailed overview of the factors influencing the global business scope AWS Managed Services Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2021-07-20T08:24:00Z
-    webUrl: "https://www.openpr.com/news/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
-    ampWebUrl: "https://www.openpr.com/amp/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2332462/aws-managed-services-market-is-booming-worldwide-microsoft"
+  - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
+    excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
+    publishedDateTime: 2021-07-22T16:20:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 70
     images:
-      - url: "https://cdn.openpr.com/U/7/U720609320_g.jpg"
-        width: 800
-        height: 444
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "HCL Technologies selected as a strategic launch partner for Microsoft cloud for Financial Services"
-    excerpt: "Microsoft Cloud for Financial Services brings together capabilities with multilayered security and comprehensive compliance coverage to deliver differentiated customer experiences"
-    publishedDateTime: 2021-07-26T19:06:00Z
-    webUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services-11627284318654.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/hcl-technologies-selected-as-a-strategic-launch-partner-for-microsoft-cloud-for-financial-services/amp-11627284318654.html"
+  - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
+    excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
+    publishedDateTime: 2021-07-21T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 28
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 70
     images:
-      - url: "https://images.livemint.com/img/2021/07/26/600x338/hclwipro-ktZE--621x414@LiveMint_1627284682062.jpg"
-        width: 600
-        height: 337
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "KnowledgeLake Now Supports Microsoft Azure Government"
+    excerpt: "KnowledgeLake, a provider of document capture and processing solutions, now supports the Microsoft Azure for Government platform to securely automate critical business processes while ensuring regulatory compliance in the cloud. Organizations using Azure ..."
+    publishedDateTime: 2021-07-21T15:03:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
+  - title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
+    excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
+    publishedDateTime: 2021-07-23T02:32:00Z
+    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 37
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+        width: 740
+        height: 493
+        isCached: true
+  - title: "Microsoft – Azure Is Our Favourite Colour"
+    excerpt: "Microsoft Corporation (NASDAQ:MSFT) released its Q4 numbers just after the US market closed on Tuesday. Once again growth was dominated"
+    publishedDateTime: 2021-07-27T21:17:00Z
+    webUrl: "https://www.valuewalk.com/microsoft-azure-is-our-favourite-colour/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 37
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2019/11/microsoft_1573064972.jpg"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
+    excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
+    publishedDateTime: 2021-07-22T18:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
+  - title: "Latest DP-900 Dumps - Microsoft Azure Fundamentals Real Exam Questions And Accurate Answers (2021)"
+    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like DP-900 specialists. As a result of this, IT certifications, for example DP-900 Microsoft Azure Data Fundamentals Exam,"
+    publishedDateTime: 2021-07-25T05:08:00Z
+    webUrl: "https://www.madinamerica.com/author/get-dp-900-exam/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 23
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Latest AZ-304 Dumps - Microsoft Azure Solutions Architect Real Exam Questions And Accurate Answers (2021)"
+    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-304 specialists. As a result of this, IT certifications, for example AZ-304 Microsoft Azure Architect Design Exam,"
+    publishedDateTime: 2021-07-27T20:13:00Z
+    webUrl: "https://www.madinamerica.com/author/try-az-304-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 20
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Latest DP-203 Dumps - Microsoft Azure Data Engineer Associate Real Exam Questions And Accurate Answers [2021]"
+    excerpt: "Pass you Microsoft DP-203 exam in just one go with DumpsArchive DP-203 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
+    publishedDateTime: 2021-07-24T23:10:00Z
+    webUrl: "https://www.madinamerica.com/author/new-dp-203-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 18
+    images:
+      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
         isCached: true
 
 secured: "SHOGLcB2QR2PxHHAQtElD9sOY7aHd4Bk18vz5YCL7Xyy+KaAlvAu72VCT6L5p/n3Mxv4DmvD2PnK5D9Et8OH13KuFnoWXcuFd7sUPoMryM/ccO7VJiXvA/O1cyPI4KX+ThNs8ObZQeeRVpK4ia5nxKazE92U9glh+2jzKmVQGpV913FhpFZEsxVSNcIKh2uvJQbood20aU060xr/4afwdNFxRnRyLdqQ4gfoVXTonFXEt0urifsNU7cif0FijtdhjO8WvOfh0SfaypH9WWinElp3GoQsEl4iHC1hg1S9yuRPtygnCKbx6QunP8yFLKyeOwOjOV1YJlPCJRLMiyJQwmx7Z6ZkjpBEAF5c6rfS2yYX9W/XQYWon06lHIpPZArQcKa6Tmt19lcrwttCSyHI7O1kLloMEkZH+Up87H02Y0Qk8skGXyCNGh4M20QcWqH7Yg6sicG/S1VKYgkB3y67jEcheqS0NPfD+n5G7kW3B8zIyzaEA/sHwq2mgMuuhhni3OxeVmQzJUES6evx3zvJ1g==;5dEFBYOSGitwhgYbtM9Zzg=="

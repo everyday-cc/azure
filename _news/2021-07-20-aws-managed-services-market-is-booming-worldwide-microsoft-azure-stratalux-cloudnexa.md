@@ -58,20 +58,59 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
-    excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
-    publishedDateTime: 2021-07-21T12:34:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
+  - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
+    excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
+    publishedDateTime: 2021-07-20T15:50:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 22
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
+    excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
+    publishedDateTime: 2021-07-20T08:11:00Z
+    webUrl: "https://www.fiercebiotech.com/cro/amazon-web-services-officially-launches-healthcare-cloud-program-following-lead-google-cloud"
     type: article
     provider:
       name: FierceBiotech
       domain: fiercebiotech.com
-    quality: 26
+    quality: 14
     images:
-      - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
-        width: 884
-        height: 543
+      - url: "https://qtxasset.com/fiercebiotech/1626705643/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?nnIWK27zsQToGA41LvRBTzJghCy0Z8Ok"
+        width: 4432
+        height: 2955
         isCached: true
+  - title: "AT&T: Microsoft cloud deal covers the Edge and network stack, not core network function"
+    excerpt: "AT&T has clarified its partnership with Microsoft, emphasizing that it still controls the core of its network. The two companies entered into an expansive partnership in June, with Microsoft acquiring AT&T's Network Cloud division,"
+    publishedDateTime: 2021-07-26T13:15:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/att-microsoft-cloud-deal-covers-the-edge-and-network-stack-not-core-network-function/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 14
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ATTcloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "HCL Tech selected as strategic launch partner for Microsoft cloud for Financial Services"
+    excerpt: "HCL Technologies said that it has been selected as a launch partner for Microsoft's recently announced industry cloud - Microsoft Cloud for Financial Services."
+    publishedDateTime: 2021-07-26T08:21:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/hcl-tech-selected-as-strategic-launch-partner-for-microsoft-cloud-for-financial-services-121072600614_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 13
 
 secured: "Qu6dnqFsDeBAstTHu+8VLrecFgmk2Pr67QlF2p7OEah/KuuLdXSYptinyhIOP8lg4ta37LJQcGkFzBP76wTkM5dWm5LF3lBI2BKN52H4zz2TQ3CbeJU4YNvQNen3+J3a7AA3KVPPC+33ZH0hidPDd/+2VQUN4WohQ4t2/YJfIh9awe2h/lypeAQ1lEIAj0BVzTpu2rF6r1aGDwoRcr+PzSXne/wqDcLdl+OKY4CFH2R7GcIby1kPxFzJcDUBjRWNy6I8TRiE/wYvRhh1X0nQMgb58VLIGgmiTAUIhtwCMmi5aEEwu9UVbBmk6q1E+/NoHaXNh6Qy+mOHqT09XdrgpdncaS9HFR7x4/75xGLMID31vARUVtXJ75MPOPdvu2rneXv0RYJXuEeiqzipZaCBzBTlxnuybvDZijab7Kujq7fdkxL8zuvyp7d5YA6Ehhp84q5i2T90Est8Kng+AxqrrHeQxRyVkxsPQipMdZXdiejwPR1ang/b+YC9sgyArhtoSnKiY1IJIEOAcPeG4nQ/bg==;Pa/xgluCNEGyO5QGcNA+CA=="
 ---
