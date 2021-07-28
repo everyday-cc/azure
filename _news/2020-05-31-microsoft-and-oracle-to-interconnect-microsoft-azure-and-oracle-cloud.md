@@ -657,6 +657,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 57
+  - title: "Introducing EMQ X Cloud on Microsoft Azure"
+    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2021-07-26T15:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-emq-x-cloud-on-microsoft-azure-1030645682"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
     excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
     publishedDateTime: 2021-01-27T17:15:00Z

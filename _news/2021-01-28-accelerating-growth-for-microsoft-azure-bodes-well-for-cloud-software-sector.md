@@ -671,6 +671,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 57
+  - title: "Introducing EMQ X Cloud on Microsoft Azure"
+    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2021-07-26T15:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-emq-x-cloud-on-microsoft-azure-1030645682"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "Guide to Microsoft Azure Cloud Storage"
     excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
     publishedDateTime: 2021-01-28T21:24:00Z

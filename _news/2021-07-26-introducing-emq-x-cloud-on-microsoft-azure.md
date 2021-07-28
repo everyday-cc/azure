@@ -1,27 +1,25 @@
 ---
 category: news
-title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
-excerpt: "A successful cloud transformation in Azure requires a detailed multi-step plan supported by the right skills. Our guide, “The Essential Starter’s Guide to Microsoft Azure for IT Leaders ..."
-publishedDateTime: 2020-11-16T19:41:00Z
-originalUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
-webUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+title: "Introducing EMQ X Cloud on Microsoft Azure"
+excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+publishedDateTime: 2021-07-26T15:02:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/introducing-emq-x-cloud-on-microsoft-azure-1030645682"
+webUrl: "https://markets.businessinsider.com/news/stocks/introducing-emq-x-cloud-on-microsoft-azure-1030645682"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-    width: 300
-    height: 300
-    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -669,15 +667,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 57
-  - title: "Introducing EMQ X Cloud on Microsoft Azure"
-    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-    publishedDateTime: 2021-07-26T15:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-emq-x-cloud-on-microsoft-azure-1030645682"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
     excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
     publishedDateTime: 2021-01-27T17:15:00Z
@@ -1192,6 +1181,20 @@ related:
     quality: 37
     images:
       - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "A successful cloud transformation in Azure requires a detailed multi-step plan supported by the right skills. Our guide, “The Essential Starter’s Guide to Microsoft Azure for IT Leaders ..."
+    publishedDateTime: 2020-11-16T19:41:00Z
+    webUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
         isCached: true
@@ -2215,6 +2218,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "HWmRxL94Mlj9AmKdcpNbVl1bJ1yIcW+d+PNg7+yGdyMc10goQLZWNzRAsQ3Pb5eqL6Di0FJnmTJx4pK9fGlZCBdd4Rh2R+hHjk0zd1xsAnEA+wQFIIqdCXmEmq9YQ7XMyDiYicM11UQnYhQPKd7wsfCMWi4vO+7zcl/XNgvxWaU1POAEOEGIn3c8i4aSJi4k6mGgyQdk5vCFWbJJpyLKKqylL4HpzZNiff2lSGpReMj8uCuHImkiNkVqaKV1xifCjbPYER5dmteJ99VzTAMvXRA2S+/bhnQ+ts255DAS5tIOLQoKbRAWr0fCgvdJR9rSzdN5oKYGNF/Y4Y+tFNfVj6KldGASDupnckFRm0emuz4=;VvYUbeJ6dJkTwo0TptZcVw=="
+secured: "BJQfy6QckFy0cGaODUycIPiJ1aeBmPHsVz8nvtQ6FPe5+DoSugi+ladCTOT1ev6S4fiKgH8B6lV8N73kPpRR1UyOJhjF/PWzHhg2VpZ5O/We3IC2ZUIPNQdiwwXlFZtdi/0QzcO1Ct6X0Px4WR5els12NNOig6VKZQ8C01HdtAgsC8RHCjJKAFAlounu5zttpHRvequ4OGRF7kBlcjnKd9aX63C1hOue00DbSep2/2NTVAlwRCz1NNfhqKZu3r3dbYbme1L2Ag+cbQwTz1Q3B7rIparFT7sJOQrSM1IC9djBCMoNPmO7HLKVUqsKTM03B4C8MQ49mRk2h2sBO7k/gBm90zlUZRsL1eypxY9cuRg=;4kkDNOjSs0FQ520CbQSSvA=="
 ---
 
