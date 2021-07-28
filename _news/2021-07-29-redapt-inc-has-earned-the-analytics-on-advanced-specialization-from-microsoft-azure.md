@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
-publishedDateTime: 2021-01-19T13:03:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+title: "Redapt, Inc Has Earned the Analytics on Advanced Specialization from Microsoft Azure"
+excerpt: "Redapt, Inc today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and"
+publishedDateTime: 2021-07-28T18:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/redapt-inc-has-earned-the-analytics-on-advanced-specialization-from-microsoft-azure/article_311cc286-1c9d-5ce5-b365-81655b95c021.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/redapt-inc-has-earned-the-analytics-on-advanced-specialization-from-microsoft-azure/article_311cc286-1c9d-5ce5-b365-81655b95c021.html"
 type: article
-quality: 0
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+  - Analytics
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -35,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 72
-  - title: "Redapt, Inc Has Earned the Analytics on Advanced Specialization from Microsoft Azure"
-    excerpt: "Redapt, Inc today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability in planning and"
-    publishedDateTime: 2021-07-28T18:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/redapt-inc-has-earned-the-analytics-on-advanced-specialization-from-microsoft-azure/article_311cc286-1c9d-5ce5-b365-81655b95c021.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 47
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
     publishedDateTime: 2021-01-13T02:02:00Z
@@ -88,6 +75,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
+  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
+    publishedDateTime: 2021-01-19T13:03:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
     excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
     publishedDateTime: 2021-01-19T10:10:00Z
@@ -112,6 +113,6 @@ related:
         height: 315
         isCached: true
 
-secured: "UzWQCyAExG+1b6WhhEeBb7giuvg2hHnv5xzUuch4MZdHWQTeKR9P5J1fSgrE0lujWL7uA3ZXI/FgEMxSSl/DTN8qz6t9+yyZC8Wwgh1kgal+Xdb502RLfYnvQNPif/3DBnnW/eYdK6hPv+dw39KZYobxXpsb2DLxNQuBAVlphhHvvE9zePERBaO4fjxysy5+HbN7yWd9U7Os0NjnhnNrhq/sTrseRG2klEPBvhdjuhfB0f9PB+KipuSlEOLso9poQpg05cl9CvQ4t4ecbc2kPbyYHIJmr5SvRo9SAOPlAulnMOGthAQVVFGrtStklgXmKFxduG7ful82EOrt70a33zHEBZGFhGsIPoHTyU1iiUI=;iJtJMCQcp+TJ7c0KGhmhww=="
+secured: "pX3WINrVGGzGG1noZB40ejeG5fk6qbsiNSDTtU9Lj8JrzOJJ7AEEJUWBSgV8A0hrnpnvWEANtTm7VrPfDlVag6wANamYS1eOGDJx4xnAwwDECqoEG6+HDsMrIc7mr8ZTPkd8nqYr9JdgtxbVL02/aUoqpYBNPYQK8V93+N8zSWIMJbHX7UudxvfahWS+AkhduIrOSDVao0MzJRQzow2KL0cY9S2E3QgSxQAROls3HK/DRIkPZprm8ZgDQmbDzER/Shc9aTQIQxoNaDPqzf2HzqiCa0QEcC0Tc7yhqnX9uNbF6/KEYZ+IXb5TAMo2P3nZ7neHOtl6eUAuUb/jazLTYGtXyjVICY/sl16MMC1mE9I=;gYG0sSoluc6Y+yjsgJoj9g=="
 ---
 
