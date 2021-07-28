@@ -4,94 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-manage.md",
-      "title": "Ensure stable operations and optimization across all supported workloads deployed to the cloud.",
-      "excerpt": "As workloads are deployed to the cloud, operations is critical to success.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-manage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-manage/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 17,
-        "average": 4.9411764
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-manage-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-strategy.md",
-      "title": "Prepare for successful cloud adoption with a well-defined strategy",
-      "excerpt": "Success in cloud adoption is predicated by a clear strategy that helps the team understand executive direction and regularly measure progress. This module will help capture the cloud adoption strategy needed to drive your success.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-strategy/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-strategy/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 22,
-        "average": 4.7727275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-strategy-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-cna-deploy-maintain-cloud-native-apps.md",
       "title": "Deploy and maintain cloud-native apps with GitHub actions and Azure Pipelines",
       "excerpt": "This module describes how to deploy and maintain cloud-native apps.",
@@ -733,6 +645,51 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-implement-network-monitoring.md",
+      "title": "Design and implement network monitoring",
+      "excerpt": "You will learn to design and implement network monitoring solutions such as Azure Monitor and Network watcher.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-network-monitoring/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-monitoring/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 6,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explain-devops-continous-delivery-quality.md",
       "title": "Explain DevOps Continuous Delivery and Continuous Quality",
       "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
@@ -977,6 +934,41 @@
       "topics": [
         "Azure",
         "Management Tools",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-devtest-labs.md",
+      "title": "Introduction to Azure DevTest Labs",
+      "excerpt": "Evaluate whether Azure DevTest Labs is appropriate for setting up virtual machine environments for your team.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-devtest-labs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-devtest-labs/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 8,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "DevOps"
       ]
     },

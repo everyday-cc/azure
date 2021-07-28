@@ -4,6 +4,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-microsoft-store-for-business.md",
+      "title": "Examine the Microsoft Store for Business",
+      "excerpt": "Examine the Microsoft Store for Business",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-microsoft-store-for-business/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-store-for-business/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 6,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-mobile-device-management.md",
       "title": "Explore Mobile Device Management",
       "excerpt": "Explore Mobile Device Management",
@@ -261,8 +304,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/investigate-container-for-use-cognitive-services/",
       "length": "PT46M",
       "ratings": {
-        "count": 49,
-        "average": 4.734694
+        "count": 50,
+        "average": 4.74
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1247,49 +1290,6 @@
         "Azure",
         "Management Tools",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-build-dependencies.md",
-      "title": "Manage build dependencies with Azure Artifacts",
-      "excerpt": "In this module, the Space Game web team guides you through creating a build pipeline that produces a package that can be used by multiple applications.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-build-dependencies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 2033,
-        "average": 4.686178
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-dependencies-in-your-build-pipeline-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps",
-        "Azure"
       ]
     }
   ],
