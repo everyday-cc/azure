@@ -3,7 +3,7 @@ name: "Jason Zander"
 bio: "Executive Vice President Microsoft Azure, avid programmer, huge Seahawks fan. Go Hawks!"
 location: Redmond, WA
 type: "profile"
-heat: 33
+heat: 107
 
 affiliation:
   name: Microsoft
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Jason Zander"
 
-secured: "rRylC861+Kuz5j6aTc+1xTGeEz71tEsvn4SXbjIOpYMS4QGHrBIQjXJrOEY2jA4xtNK3cBPqoyZsU0gOZItBa2/u+sEEsiOEG+EkpTezPJG4u90eh/aRsUlylXblpCQ9Qr3Z0S3pmmUZA/g1nBSO4I9j8Pa5sDyvTm0+MVXrmRDTTevEEsGLhwvECelVCtmW/Q+RIC/nbd5DLYjLHPqU5j7CQKqAyyRi3BCCE2fAMsT3LzzXFG2HSKqDmaOC1GpkG8fqTQSJ9I33mrh6jJnnl9m2oRpnyh8/QSy51nFox0+L8ciSt4D9OtaY+JYHJiiY8ljRafHpFLBVDYL2ThaHbPka8VpC+ZbCv84tiqEZpiJY2SF3UnVnjwzA4W5+5iVqT/WXEoqyl3Joz1BKZSeez5HxFO6z9l85H217es8+f5Q=;yrZYqtiQ4aolhcO8C48e2A=="
+secured: "8suCCsZMl4vNE6SiFzItY2fnECvOe/OwfFRAqV/d7oOafGRwQcTbDVjW56awekJj/TkZDhqdkalhiQFs56Z/fydwrnqZT9Y5X8Wqc6tv1w+mVlHfNpfULgQixK+zdOURxLFhVb4pBTBDi8nQazFJB4sw5xr8i6zgumNgIk+EbqF/sFNFpJpq/IN+J+XGH/1V5INo5mfpxrhvp5JD5Af/mKlE1u+zEQ3J8BEoT7HfJVtDcFciCes6rf9d3fW8v7oJcJETF/Uua0qnz0+kLSnXwblVY3PXLu3cqcazZr3CC1tqQlAykYAZ23Lg/Dhv6rtUbw1Ci2UofGI+L8rU05I4gNAkt74WPNgntIMRxe0LMN73Ty6Ql9ghkV61H6f8jM8fh8BVSCQUlvO6WvLu/ItsgzwUKNxA5XrH/ljJCgVXeNY=;hiNvEFDyuJ27E5pVbP027Q=="
 ---
 
