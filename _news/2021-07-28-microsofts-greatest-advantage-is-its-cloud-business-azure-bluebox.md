@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantag
 webUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantage-is-its-cloud-business-azure-bluebox.html"
 type: article
 quality: 77
-heat: 277
+heat: 297
 published: true
 
 provider:
@@ -163,6 +163,15 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Microsoft Azure Cloud Growth Soars: How Navisite Can Help You Take Full Advantage for Your Business"
+    excerpt: "In the battle of the clouds, Microsoft continues to gain momentum. The company just reported its Q4 2021 earnings, highlighting the continued strength of its growing cloud empire-which saw Azure revenue growth of 51% and its commercial cloud revenue up 36% from a year ago."
+    publishedDateTime: 2021-07-28T17:00:00Z
+    webUrl: "https://www.publicnow.com/view/24AA1F5A9748B83B8F19BBE3BF187CE6A85C59C3"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 3
 
 secured: "syY0K7T+t4kvalnIXbsBeXP7HwVTKGguaIss2YLpsU2wU754HsjKGjgUnmSDSyFHEPzA67gOUW2Tk8BW35x0rj8HNIuDAmBN9WdXY3KgQGaE76C3uPcyEC6lI5NJoXaUsXXo/bBJ9/w+vv5R4tScoCpuqG9qnRghmKTjqrs5TgTckZsE6euaOHAVVFmG0mkGDBDb7DdfUdHuS6Yfyl27mg2fv5lMGCuBNIEdi4VRVmZFMsZiPYsDYpl6VRnjY0kNCHNseGUXWPLI288eS6MV9bhiozqz73Hwndl4azZ5OyM2IS4eBImBkoUaDSmJJ+uJqr6kvERyqaB2FheDdfpM5qi4yOdOUI8Wr6J+ECkmVje3iKw1oiq5hmEQca8huOHsmNr5oh+bwrQr6mlzugs1g27/37pSKUmqxgrk0IF/vaS3z92XawCFnLXpqIo3ogXLvTP+iaktAJCNQznXoZIZyp7bCD+8jFlqaAoyEI23Xc0iyqRdOtx1NDNR8p8FZgKQrr/V1i2BJgVA5qVFkC6d+A==;PuoqgglNkJ7I89/kYBF3VA=="
 ---

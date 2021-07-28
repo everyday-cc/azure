@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
+  - title: "VMware Site Recovery Manager is now generally available for Azure VMware Solution "
+    excerpt: "Azure VMware Solution (AVS) customers are now be able to take advantage of VMware Site Recovery Manager (SRM) for disaster recovery scenarios including; On-premise VMware to AVS, and Primary AVS to Secondary AVS private cloud environments. "
+    publishedDateTime: 2021-07-28T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/vmware-site-recovery-manager-is-now-generally-available-for-azure-vmware-solution/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
   - title: "Disk pool for Azure VMware Solution now in public preview"
     excerpt: "With disk pool, Azure VMware Solution customers can now access Azure Disk Storage for high-performance, durable block storage. Customer can scale their storage independent of compute and handle their growing data needs more cost-effectively."
     publishedDateTime: 2021-07-13T16:00:16Z

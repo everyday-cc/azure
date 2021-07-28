@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Introducing EMQ X Cloud on Microsoft Azure"
-excerpt: "is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker - EMQ X, which has ..."
-publishedDateTime: 2021-07-26T14:50:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/introducing-emq-x-cloud-on-microsoft-azure-301341120.html"
-webUrl: "https://www.prnewswire.com/news-releases/introducing-emq-x-cloud-on-microsoft-azure-301341120.html"
+excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+publishedDateTime: 2021-07-26T15:02:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/introducing-emq-x-cloud-on-microsoft-azure-1030645682"
+webUrl: "https://markets.businessinsider.com/news/stocks/introducing-emq-x-cloud-on-microsoft-azure-1030645682"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1581139/image_1.jpg?p=facebook"
-    width: 2472
-    height: 1294
-    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -2220,6 +2218,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "6Yz42AZuAceCsB6BeyAjgSdONRIprhxuwl0ulxNKQXNMKoEqhPrt8+dCFbtnv1aRfqw7dKhJkgv8Z4Abt4z3NFk6fmTDtoaR9JfMIbOz7BlnzSPyPCQT80dXE6oQ0zbUA7PnWINaDAgOICmb5ProvL59OfPVAy9Tx1RoNJm2sOh0dtZT4M59Tbd1XJTT1wnml1VDDnHECwWC5wSNUEqK5in7Flg3PSqQihnI8h7Ym/vX+LEbvQCfzW03rsd9lFE5YsQ2MfK0Zn/BOivODsLG6berlGut27tY19mJfHjNLQffyyUqXpP7x2Uf1sktHbQFP544Khn8RQuXchv3VXbYt81wi95G5UZLg30/C+Aruc4=;WX6h0oNRXTDuRLG79Tfcqg=="
+secured: "XNUAzg6ntGzNbOXwgxMFBWwEeChqFZenGObuzajulrWaXqX34J5spZlNVGv25WI/EXAKvD7zdkvmt1DIDFpln9rbrBglm1X+eswpLInxauQF80XQvlFZDC75UhqN3X4LyI+majB1pGq7xg2Kgx+/xQfGHH4qeNOO3/ov0NfBq75kw0gD6fCYR5iM7UYQ66ZSd5x/IwqtA9lwsS4qEP3bCy9+jRvr0p3WdIKwk8svtng41vyZuYc/bw6yagZ1fz8TX6UrJr3hHjNfLPXaeVBYyBB6QvCPsvbj0hUYnB4ccmXc6mOr4WJLsgBXZrr9oKPABBeX5qUxak9SHS0H2s23Xp0phS2AgxdiS2LzKcjo2NY=;VmHlLgXGUuaoQQkJoObdCQ=="
 ---
 

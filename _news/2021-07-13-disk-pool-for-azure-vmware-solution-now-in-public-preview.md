@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
+  - title: "VMware Site Recovery Manager is now generally available for Azure VMware Solution "
+    excerpt: "Azure VMware Solution (AVS) customers are now be able to take advantage of VMware Site Recovery Manager (SRM) for disaster recovery scenarios including; On-premise VMware to AVS, and Primary AVS to Secondary AVS private cloud environments. "
+    publishedDateTime: 2021-07-28T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/vmware-site-recovery-manager-is-now-generally-available-for-azure-vmware-solution/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
   - title: "Azure VMware Solution now generally available in the Canada East region"
     excerpt: "Azure VMware Solution has expanded availability to Canada East. With this release Canada East is now the second region within the Canadian sovereign area to become available (joining Canada Central). "
     publishedDateTime: 2021-07-19T23:43:44Z

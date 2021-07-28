@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Microsoft Announces the Public Preview of Disk Pool for Azure VMware Solution"
-excerpt: "Microsoft recently announced the preview of disk pool enabling Azure Disk Storage as a persistent storage option for Azure VMware Solution - a vSAN hyper-converged vSphere cluster. With this persistent storage option,"
-publishedDateTime: 2021-07-20T11:04:00Z
-originalUrl: "https://www.infoq.com/news/2021/07/diskpool-azure-vmware-preview/"
-webUrl: "https://www.infoq.com/news/2021/07/diskpool-azure-vmware-preview/"
+title: "VMware Site Recovery Manager is now generally available for Azure VMware Solution "
+excerpt: "Azure VMware Solution (AVS) customers are now be able to take advantage of VMware Site Recovery Manager (SRM) for disaster recovery scenarios including; On-premise VMware to AVS, and Primary AVS to Secondary AVS private cloud environments. "
+publishedDateTime: 2021-07-28T16:00:20Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/vmware-site-recovery-manager-is-now-generally-available-for-azure-vmware-solution/"
+webUrl: "https://azure.microsoft.com/en-us/updates/vmware-site-recovery-manager-is-now-generally-available-for-azure-vmware-solution/"
 type: article
-quality: 34
+quality: 78
 heat: -1
 published: false
 
 provider:
-  name: InfoQ
-  domain: infoq.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://cdn.infoq.com/statics_s1_20210719065553/styles/static/images/logo/logo-big.jpg"
-    width: 1200
-    height: 630
-    isCached: true
+  - Migration
 
 related:
   - title: "Deliver scalable, cost-effective Disk Storage for Azure VMware Solution"
@@ -33,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
-  - title: "VMware Site Recovery Manager is now generally available for Azure VMware Solution "
-    excerpt: "Azure VMware Solution (AVS) customers are now be able to take advantage of VMware Site Recovery Manager (SRM) for disaster recovery scenarios including; On-premise VMware to AVS, and Primary AVS to Secondary AVS private cloud environments. "
-    publishedDateTime: 2021-07-28T16:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/vmware-site-recovery-manager-is-now-generally-available-for-azure-vmware-solution/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
   - title: "Disk pool for Azure VMware Solution now in public preview"
     excerpt: "With disk pool, Azure VMware Solution customers can now access Azure Disk Storage for high-performance, durable block storage. Customer can scale their storage independent of compute and handle their growing data needs more cost-effectively."
     publishedDateTime: 2021-07-13T16:00:16Z
@@ -69,7 +59,21 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Microsoft Announces the Public Preview of Disk Pool for Azure VMware Solution"
+    excerpt: "Microsoft recently announced the preview of disk pool enabling Azure Disk Storage as a persistent storage option for Azure VMware Solution - a vSAN hyper-converged vSphere cluster. With this persistent storage option,"
+    publishedDateTime: 2021-07-20T11:04:00Z
+    webUrl: "https://www.infoq.com/news/2021/07/diskpool-azure-vmware-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 34
+    images:
+      - url: "https://cdn.infoq.com/statics_s1_20210719065553/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "6X3sH9/NbEPWxYh9GhW4pFfxiZZ/cWbB4qlwOUZ1UiE9Au84SyQDV4ymog3ednFOvHRCJRrHMbG9rQh9xYAWPlCqOyy61s9mUy7gxGl2dgD98v4OE0iPci/ocaBi+7P9JP789yjBdjp8TIu3br+xdt5FzDwgsSyimBN2EvUcQXE77AJz9gzwXg1MoCl38X+zvkfUjZ+VVnE5eV5Foc/SBwJFtrI74Laik03+ms9cTzq+VCqG565zhwTAJqwvCHyW46gSfNb7IWFUo1fFQi8NcIXY/IRjEi2CZZe+T5nfKeV5RZDecKFaIk8oNsmi1ycrqnDLnFYWcBq8TzhOfKwQmWfleNB+PICpQsavUmF04bg=;x4yl+4oOpqQ3/JQcdb7XFw=="
+secured: "A7L+l6mGxySYyX9SMerz8rQPi63DJE5RbAewI8bByXDpInIYK74vIHXmH+5YG8sKmMtsuRz9xu1F0ShoZsIn5tDrmlHRtX3q6qYA4bpSzVUsWyIXsQJGIfz1v/ZJDKgblSVAcgMx5idXXTwjnCmxGsiH7Mbo5zMJf5srxbJdKdh2EmvwrZ0j/owIcGSOnNEEyLF2Y3rMvhX6GzUwKJYc5ZjHbd+hZT4FR/djciJVr0KRc0wr55tATVDEgeH3h1uOm45Yn0o2Ff/wKiWnVdsUA1hIiNtjWbyWYXNtairtHf0OHKd83xGGgeko0fqyscP/ImgcMwOn0wXgyfjwbGM0ET2RYni/SbJlRzntOEbIYp4=;MVZY0XjrwIiC01TZwMlRmA=="
 ---
 

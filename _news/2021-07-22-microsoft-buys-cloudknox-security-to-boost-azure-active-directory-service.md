@@ -161,6 +161,15 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Microsoft Azure Cloud Growth Soars: How Navisite Can Help You Take Full Advantage for Your Business"
+    excerpt: "In the battle of the clouds, Microsoft continues to gain momentum. The company just reported its Q4 2021 earnings, highlighting the continued strength of its growing cloud empire-which saw Azure revenue growth of 51% and its commercial cloud revenue up 36% from a year ago."
+    publishedDateTime: 2021-07-28T17:00:00Z
+    webUrl: "https://www.publicnow.com/view/24AA1F5A9748B83B8F19BBE3BF187CE6A85C59C3"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 3
 
 secured: "Emf6JUxh68D/MR0/zjQmMXrwMbHDBhmataDz2mr3C2rCy6sVWFt+idu0Ae9cvFfQ4Tv/okN/kTmy8TIwUkNSZNC9Rl978kACL+4+V4grQdcm6BdUUVrntf3iDmOsACCclWveCzzC/3T7NxIJfYl3lpiJA+2hlTOPygSF0wloJVel6J4UhZY9kfSvee5h5xzaLtr5pBOB3qmLek2+Hw9IM6zvpEOb2MbfIgpb/2SY2WsEB/7RQ1PqYbseumaSg+VAA4pWgwgC+wGzvinbvfAk/ktGAsIEHe/DX8StFto2Lml8zHHV7xzXzZya98UJYHBOrnH7OtzvITQUKEgrrH1IYsr50EffwBtDuNmPpEutfh8Wp//9tAYkOP993/bir3pl3opWbzoW7en2/Y1YqSJ9deUGvQllx5Al6OrSNDzkERlHVVUwd00JsBBrljbSbJMd3z0Px7jwsyOQIeXZY/ONza0aqqlqaSthZ0O+LS2f6NjOoRRkjKchBSUSJ/UtqMTTYuyvUDc9jP8KUrTNj4QnoQ==;aPnNXdRVO4rzhrZg7oW+5A=="
 ---

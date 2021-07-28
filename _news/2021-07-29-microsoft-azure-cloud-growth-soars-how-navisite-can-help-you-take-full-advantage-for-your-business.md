@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
-excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
-publishedDateTime: 2021-07-23T02:32:00Z
-originalUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
-webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
+title: "Microsoft Azure Cloud Growth Soars: How Navisite Can Help You Take Full Advantage for Your Business"
+excerpt: "In the battle of the clouds, Microsoft continues to gain momentum. The company just reported its Q4 2021 earnings, highlighting the continued strength of its growing cloud empire-which saw Azure revenue growth of 51% and its commercial cloud revenue up 36% from a year ago."
+publishedDateTime: 2021-07-28T17:00:00Z
+originalUrl: "https://www.publicnow.com/view/24AA1F5A9748B83B8F19BBE3BF187CE6A85C59C3"
+webUrl: "https://www.publicnow.com/view/24AA1F5A9748B83B8F19BBE3BF187CE6A85C59C3"
 type: article
-quality: 37
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: publicnow.com
+  domain: publicnow.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
-    width: 740
-    height: 493
-    isCached: true
 
 related:
   - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
@@ -79,6 +73,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
         width: 480
         height: 610
+        isCached: true
+  - title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
+    excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
+    publishedDateTime: 2021-07-23T02:32:00Z
+    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 37
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+        width: 740
+        height: 493
         isCached: true
   - title: "Microsoft – Azure Is Our Favourite Colour"
     excerpt: "Microsoft Corporation (NASDAQ:MSFT) released its Q4 numbers just after the US market closed on Tuesday. Once again growth was dominated"
@@ -159,16 +167,7 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Microsoft Azure Cloud Growth Soars: How Navisite Can Help You Take Full Advantage for Your Business"
-    excerpt: "In the battle of the clouds, Microsoft continues to gain momentum. The company just reported its Q4 2021 earnings, highlighting the continued strength of its growing cloud empire-which saw Azure revenue growth of 51% and its commercial cloud revenue up 36% from a year ago."
-    publishedDateTime: 2021-07-28T17:00:00Z
-    webUrl: "https://www.publicnow.com/view/24AA1F5A9748B83B8F19BBE3BF187CE6A85C59C3"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 3
 
-secured: "1+sOJL/KB5Rti5Jd/wQNTJ3ZWd3ai+Ei/Vj034fQ6NOoGLjtR7zW9NGTYtFt2pcr5KnwF7URRokPTCK6Lob9Sp6qJZbpdO1hHK6lKYyICsmBouBYz347hH+fj/pZRw60n4Opd4+ktUTjaoeJo4FDvnfXqZEvVLtdkVnObWUAdNXj707JmVc3/P6FFnZkiLqEXqiS41pPQzYN9mc3mn8L7+pK4LjpaDOiq4/rUiz/6v1jm4ji8pFw1uLJLJSsspm2syRy8tVRie3ws0Q3w889/z569ZdbYhh6eOHfkvHb78u9CSi0/Znkz3wFTkO/8mz6CkP8O21Jko2IX4LBj2CzarEacUpBJbFr4ZVgSHU29C4=;OBde8TCJlkrHXKqepuGEbA=="
+secured: "QpiYiN6TGTDjjAS3MrHoiIftuPevmh0nlK9042WL0R2gFTEepnswDmSDeWL4Hu1m07p613lIyBS+u38gXdbpL5/Kx/VrcYjGef8n3E0ZEXrjugV8ChHh+h8Tf8jlAkfXLdqXi9Ax7XkReSF1907MJKl3gqLhzCt1tYPowY2MDnqhZv4WmMXqTXKzOl4sP0cKJIcUJ/+vmH+qLVHEy5OfV65Jm0hyGKiLJVpS2OVVE01G2Q1ktQRa5EIoq3UaSXNUqySAGvtGpoUe7QOQcMSzYuudvhnXaaCEm9xHam4FQnNUyIelF5pgdBey/O4ombUJM+FwRQtyYxQGIMg2hg8l0relgJOSJgMMw2KTk7JB5EA=;b2tg/z5loyYJ2dw4v8CyjA=="
 ---
 
