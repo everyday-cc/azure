@@ -4,7 +4,7 @@ excerpt: "Learn to use a Windows or Linux Azure Virtual Machine to extend the we
 type: collection
 price: Free
 length: PT4H6M
-heat: 63
+heat: 66
 
 provider:
   name: Microsoft Learn
