@@ -4,6 +4,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deploy-elastic-cloud-kubernetes-azure.md",
+      "title": "Deploy Elastic Cloud on Kubernetes on Azure Kubernetes Service",
+      "excerpt": "Deploy Elastic Cloud on Kubernetes (ECK) on Azure Kubernetes Service (AKS) to build applications that run Linux systems and provide built-in search capabilities on a fully managed cluster.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-elastic-cloud-kubernetes-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-elastic-cloud-kubernetes-azure/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 5,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-elastic-cloud-on-azure.md",
       "title": "Deploy Elastic Cloud on Azure",
       "excerpt": "TODO: this field is for search engine optimization and is not user-visible; use 2-3 complete, grammatically correct sentences to describe the module; include relevant search keywords.",
@@ -708,8 +751,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/",
       "length": "PT34M",
       "ratings": {
-        "count": 878,
-        "average": 4.7425966
+        "count": 879,
+        "average": 4.7406144
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1284,51 +1327,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-implement-network-monitoring.md",
-      "title": "Design and implement network monitoring",
-      "excerpt": "You will learn to design and implement network monitoring solutions such as Azure Monitor and Network watcher.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-network-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-monitoring/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 8,
-        "average": 4.875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking"
       ]
     }
   ],

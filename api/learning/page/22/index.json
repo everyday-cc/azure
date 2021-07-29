@@ -4,48 +4,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-java-azure.md",
-      "title": "Introduction to Java on Azure",
-      "excerpt": "Goal of this module is to welcome you as Java Developers on Azure. In this module, you'll begin to discover the opportunities for Java developers on Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-java-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 140,
-        "average": 4.6928573
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
       "title": "Introduction to Kubernetes",
       "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
@@ -138,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
       "length": "PT56M",
       "ratings": {
-        "count": 232,
-        "average": 4.775862
+        "count": 233,
+        "average": 4.776824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -347,8 +305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 2080,
-        "average": 4.7697115
+        "count": 2081,
+        "average": 4.7693415
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -435,8 +393,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 3244,
-        "average": 4.7891493
+        "count": 3245,
+        "average": 4.789214
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -478,8 +436,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 3428,
-        "average": 4.781797
+        "count": 3429,
+        "average": 4.781861
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -521,8 +479,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2358,
-        "average": 4.8303647
+        "count": 2359,
+        "average": 4.8304367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1267,6 +1225,49 @@
         "Azure",
         "Compute",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-use-language-understanding-app.md",
+      "title": "Publish and use a Language Understanding app",
+      "excerpt": "Publish and use a Language Understanding app",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-use-language-understanding-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-use-language-understanding-app/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 9,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],
