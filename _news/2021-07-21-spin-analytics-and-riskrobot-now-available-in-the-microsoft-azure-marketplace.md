@@ -1,18 +1,18 @@
 ---
 category: news
-title: "SPIN Analytics and RISKROBOT™, Now Available in the Microsoft Azure Marketplace"
-excerpt: "NEW YORK--(BUSINESS WIRE)--SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-07-21T12:26:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210721005070/en/SPIN-Analytics-and-RISKROBOT™-Now-Available-in-the-Microsoft-Azure-Marketplace"
-webUrl: "https://www.businesswire.com/news/home/20210721005070/en/SPIN-Analytics-and-RISKROBOT™-Now-Available-in-the-Microsoft-Azure-Marketplace"
+title: "SPIN Analytics and RISKROBOT, Now Available in the Microsoft Azure Marketplace"
+excerpt: "SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and trusted Azure cloud platform,"
+publishedDateTime: 2021-07-21T11:00:00Z
+originalUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
@@ -209,6 +209,6 @@ related:
       domain: microsoft.com
     quality: 8
 
-secured: "46pSf6CZEPGP3kTSDwgovKGkzPq9/si4j4FqrcxRcEd7fVryBGdNuDB4s4mz+BKXfZ3RatcbadTiphnIZvhIHAqRvgmNpBZ/128/nxp9bXDC2Nw00QUeYfQdypXYaNfdH/t2KfO1rXjsrWgOeSxMSiMcg3gLWjLeTo/tjWyLc/wRgPwbIbAdP8e5lRtywkj4ZXbDlvxaYkQYgrQ1/B/cCoo21hw1ybm25pWVEsseo0ufLfMNjmL79/XbhEupcje4P8xq6VzXDel5b3fYRJ6Dujr6hKJgCuufdYAKQ6O7aZifH1rk5Bbg5imURhb1B6cagdaK74Jg5FYtSsvg4/2YVwZ74HdHXel9De1JYlFkdM8=;IhGnewshXRwJPc2/y0Ci+Q=="
+secured: "++xmrtus7sa7flBNtyI0M0131/EnsW3eQUx/xewNWvbznhP25KqG0+7NJxssl9QXcySB0bzJ5/KEeZrxqGqEO90y33nntqm9UQYxtsqMEDY1VHNiPzI0w3bYaL4uA+jO03og8CmC/yKjxddxpc0pApH8Ggm4lUXEI+ig1/GHd/58k5k4E7emJSUN4Wn/zVLhH8l0BcYSaUmwn0QNzJGL8bAbX4bcttiWUrC6by9kDrr8LDTqfA3ooDii6jEC2+o3wAja9NdU+Xz34Vs7yJhoMWtwUP5VkyAQNZv/oaA+mV/xvUjMSkgU1KTBgStzg8QwN03od87IfdVzBV/4AZMVlv553PXi9qVdk3Ppia0aZFw=;Nx2lZdi6UT26UWmApQRv1A=="
 ---
 
