@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
-excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
-publishedDateTime: 2021-07-23T02:32:00Z
-originalUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
-webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
+title: "Microsoft Azure and Google Cloud go head-to-head in quarterly results"
+excerpt: "CTO of public cloud at cloud MSP Ensono, Gordon McKenna, said that he believes Microsoft's strategy is heading in the right direction as a real competitor to Amazon. \"With an emphasis on Azure applications, remote workplace and a boost from Microsoft Teams ..."
+publishedDateTime: 2021-07-28T14:29:00Z
+originalUrl: "https://www.channelweb.co.uk/news/4035136/microsoft-azure-google-cloud-head-head-quarterly-results"
+webUrl: "https://www.channelweb.co.uk/news/4035136/microsoft-azure-google-cloud-head-head-quarterly-results"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: CRN
+  domain: channelweb.co.uk
 
 topics:
   - Azure
 
 images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
-    width: 740
-    height: 493
+  - url: "https://www.channelweb.co.uk/api/v1/wps/70c19f9/33818a82-673b-4131-9790-53a752462fcc/8/Google-Cloud-370x229.jpg"
+    width: 370
+    height: 229
     isCached: true
 
 related:
@@ -94,19 +94,19 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "Microsoft Azure and Google Cloud go head-to-head in quarterly results"
-    excerpt: "CTO of public cloud at cloud MSP Ensono, Gordon McKenna, said that he believes Microsoft's strategy is heading in the right direction as a real competitor to Amazon. \"With an emphasis on Azure applications, remote workplace and a boost from Microsoft Teams ..."
-    publishedDateTime: 2021-07-28T14:29:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4035136/microsoft-azure-google-cloud-head-head-quarterly-results"
+  - title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
+    excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
+    publishedDateTime: 2021-07-23T02:32:00Z
+    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
     type: article
     provider:
-      name: CRN
-      domain: channelweb.co.uk
+      name: ARN
+      domain: arnnet.com.au
     quality: 37
     images:
-      - url: "https://www.channelweb.co.uk/api/v1/wps/70c19f9/33818a82-673b-4131-9790-53a752462fcc/8/Google-Cloud-370x229.jpg"
-        width: 370
-        height: 229
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+        width: 740
+        height: 493
         isCached: true
   - title: "Microsoft – Azure Is Our Favourite Colour"
     excerpt: "Microsoft Corporation (NASDAQ:MSFT) released its Q4 numbers just after the US market closed on Tuesday. Once again growth was dominated"
@@ -197,6 +197,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "1+sOJL/KB5Rti5Jd/wQNTJ3ZWd3ai+Ei/Vj034fQ6NOoGLjtR7zW9NGTYtFt2pcr5KnwF7URRokPTCK6Lob9Sp6qJZbpdO1hHK6lKYyICsmBouBYz347hH+fj/pZRw60n4Opd4+ktUTjaoeJo4FDvnfXqZEvVLtdkVnObWUAdNXj707JmVc3/P6FFnZkiLqEXqiS41pPQzYN9mc3mn8L7+pK4LjpaDOiq4/rUiz/6v1jm4ji8pFw1uLJLJSsspm2syRy8tVRie3ws0Q3w889/z569ZdbYhh6eOHfkvHb78u9CSi0/Znkz3wFTkO/8mz6CkP8O21Jko2IX4LBj2CzarEacUpBJbFr4ZVgSHU29C4=;OBde8TCJlkrHXKqepuGEbA=="
+secured: "tkP4EeikDIe9REWZ/H9A0Eiwu9C/t3r1rJokja0Z4oTwteY2Yblo5Q4p6nONiQ+aPZoN6gEyHb1gv7A3wtnEno1f3uaX38n+iC11K9PS84qmYDR8kSa6t6z+0R2yKzeeULBIfgeuoG1hhjZpqabLvp0LEVi3jHiOJ7wTpkiRdQxKBVHnfoH+t7JXGduHPHKHr6u3EhlFrk7EzNMaYmpvLCdXBuX4KH8j4wsWllITPBEG9WUVomj3c0HdI2bG+u/0VT5kjnq/OSl4CEZNVDM8XeCSwse/wqKwTlOP3VsZ4i9bAbdr+DtzZYxhlZZxfQlgSq0D48jFAt4HDDMCBcpgMJcuhPOC7dpJpDTrNR5xNdI=;TfV2th4xGaq83Fm4L9mX0w=="
 ---
 

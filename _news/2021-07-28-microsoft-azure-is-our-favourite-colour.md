@@ -108,6 +108,20 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "Microsoft Azure and Google Cloud go head-to-head in quarterly results"
+    excerpt: "CTO of public cloud at cloud MSP Ensono, Gordon McKenna, said that he believes Microsoft's strategy is heading in the right direction as a real competitor to Amazon. \"With an emphasis on Azure applications, remote workplace and a boost from Microsoft Teams ..."
+    publishedDateTime: 2021-07-28T14:29:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4035136/microsoft-azure-google-cloud-head-head-quarterly-results"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 37
+    images:
+      - url: "https://www.channelweb.co.uk/api/v1/wps/70c19f9/33818a82-673b-4131-9790-53a752462fcc/8/Google-Cloud-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
     publishedDateTime: 2021-07-22T18:05:00Z

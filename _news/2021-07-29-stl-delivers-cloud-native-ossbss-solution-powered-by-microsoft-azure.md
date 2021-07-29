@@ -98,6 +98,20 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "Microsoft Azure and Google Cloud go head-to-head in quarterly results"
+    excerpt: "CTO of public cloud at cloud MSP Ensono, Gordon McKenna, said that he believes Microsoft's strategy is heading in the right direction as a real competitor to Amazon. \"With an emphasis on Azure applications, remote workplace and a boost from Microsoft Teams ..."
+    publishedDateTime: 2021-07-28T14:29:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4035136/microsoft-azure-google-cloud-head-head-quarterly-results"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 37
+    images:
+      - url: "https://www.channelweb.co.uk/api/v1/wps/70c19f9/33818a82-673b-4131-9790-53a752462fcc/8/Google-Cloud-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Microsoft – Azure Is Our Favourite Colour"
     excerpt: "Microsoft Corporation (NASDAQ:MSFT) released its Q4 numbers just after the US market closed on Tuesday. Once again growth was dominated"
     publishedDateTime: 2021-07-27T21:17:00Z
@@ -187,6 +201,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "/Xjf4M8r9UXGDMH+9GtehLFek8Ciafefy9QXIDideqI1+RqjjLm8z8qrpuEinhkhR/wnKcoc6sR7q6SCmhyVBUu3Ud1Qw0VCpxg1UCPL46aQfWqw+au/LozzqMBLHKDrHg/XrNFR3eqKMXL3tC/RTLBuuCIYYW8wZIZS9/Vx9IyuM4Chg7ptqsqkoZki+LqdXJkLExOnFua5CYsEoJ6rbBzhW5b0zxgdt8GJS0oYwGfkMhSMMCDQpuoW6/BZTJ8a1Y/HTHhpVTqDnrVWzxUQJZu6BgUHAmquB1IIC6tx17a/rp2iOSv6CrQaRqJZNAi6/0hV5k78rCMFLO0g8hKvvZKTa3iKaGs/tzg7D6Bu3EU=;Dm2n/M7yeWmxHUe5Ftqazw=="
+secured: "bytNiQjjFOPKKOMf62ZxWbaJj6wp65o3wYg68cBDyRQc05r77Ui3nK9Du16WBxERsuPfY+jnnP6YUOps0ss1+kLWdOiwmKy+ObOjvagBh+nIlpg4eIt0IlW8CRafdJTrtnIYbXoSNTa+D5eD3VV/I+VVZ329wTCOOWjwtAG1ma0q2TPW/jfmjKRGWmTgdqxBD/uoK2ONHO+K1vO+G9m5zvaGVLeNNco/ACfQX7wIudl5GKQtccyW1PKL3nPYMNQ1efbJEzXpOQXHxmRbqLePngZkPIr9peA6xL4k0c9Zv0r0Utaa6EKuWbQz7SYiCRFj/Lod6UgjOpB+kIJuUXvi0pnoDhZEZzYKhSYAdc/9KwKHzyFBJAKPV1VdQGDwtzq4wV9j0eY4Jp9nmkuNb/YXIXUgOFvpR+7cj4ZZAxn6f9YIVeDcXcF3gNc/kgxmApU9xQ8FqzcOzJo9f9vI6euTjM/OiRRxU/oVv+RItezEVTu4/YEOssd+YBfmIZXozMzyqOAUTD3gwBSrVlccci7UpA==;x/qAFAuYsk9XZlK2CEjnHQ=="
 ---
 
