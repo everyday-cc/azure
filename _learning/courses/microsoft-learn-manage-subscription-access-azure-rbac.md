@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT21M
 ratings:
-  count: 13022
-  average: 4.766856
-heat: 56
+  count: 13023
+  average: 4.766874
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Identity
 
-secured: "2cucbxsJRi4okcyyC+Ih72dnmzH+bsubBjjEcmBEUbr1PsBZoECGHk6nfo/kj8oTmv2LIwj/4c+nPipFnEQ75KMSMt6XN/+z1eQWWf4qUGvNblchHx3wHAWi3JsoUrHj14QWaRtR4L5yUZyCzhFPHUSzhrvQR0Fsx8UJojadwQfHPGjAuKyl65RthkHXpEmaZEpPLEjmar5JjwA/IahgAB077XfmGEjD52778maeO5k3/VPTD7/+GzyvHQZRTOrvUyNvjrmUZ6coPf7+jpxvRPcoXZj0l2WguoeVnZ6aDEFfXSru/obvam4zgLqhdYKwrn2U63zl9Tr+zavWm70xKinvhupuadgEBs2WHQ5dGrWteBh3zKWoWIGJh7tQ/u7/lr1qg4v8qg/2zc6VaSb6rwd7M72NTb+EGJyhsg9Etjm3NGkbNCsqBJBbg8CHBw6g;GI0ABxOTvKxdE7c4b8ZdSQ=="
+secured: "pIrVmKMftZicT0GyMbzayme7WNZ8l+yTBAgum4Fu2NOXpwSJCSrbiZR1/VPZbBvq9LZOX7ves/hjy4yi3SJpFSgwWw7rjHU+AyYCi8hwKe7ziwkm4Zdiyq/wGonVNjI0cX3cEF4DWO86Usws2W54ovAgxLE28KOWTznrMnXYzuBo6aNM5zql9Q4FrjQ5KFqiMGqqcHb+KQuWevNkAvtnqzgF+qEKQ2jjylELyTEegVI/65e+OiQ8n2d15H8GQ6ruCafBkjiWnWCQyHmHsliBsEHRHwBzMxfHpmQaAXy72ARRfq4MS7iADkCzfvqKBXz9yZ83ukjJLAfYUNQOJ66fQrsOk7Zfa1w541kRfN5IrO5rrvQq9keHV1dlvRi4N03uvSAFcyHsPDNoO7zBl2bNbbV8qEmdAB1wWtfMSfS+wJm8DnxSS9+KoX7R4RtNwFHh;1Lfq42H67Jo5VU6pIN6d9w=="
 ---
 

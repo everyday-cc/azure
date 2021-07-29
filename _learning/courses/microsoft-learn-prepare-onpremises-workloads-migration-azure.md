@@ -8,7 +8,7 @@ length: PT35M
 ratings:
   count: 425
   average: 4.691765
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "WchQAEJnoapdz2uORqYJqZ95ipx7HFv9UkHFtZcIVDgJ/LSsuTGQU5wEVgj59z0wpeAbuO5+J7hZ2nimaeN9uQIxACLDI1EmajJMLt5t44S/lEpyp8erVoVdUOLlyb8kALdtffBstjJIECFZC74LMc02HZghvxKFYDasQSw5rrTotVNuOz6Y8F/aaodwXeiwsMB+tEjJakZOm520sVUn39qgmgcKwNMIz9MQVOm+Chx8RC8LRxFIf/hNop8tG9c5Gc9cAQG3KahKKRRWfPXaJyu/NEotJgXbEj89VjDKBJfgQpFR+ARaW1vI8NGbP4ervSncFN5lmP9/WZZQKePLreKfajGlH2wrRpkYWU0cgKpn1LhPsMC9BZ/JVkraZpi18POSxolWlanS62YvhjqE56aAIWm4lE1QQpYLXbvxEok=;VbSIQow1nDsfJuI69L/x+g=="
+secured: "tufUIdnD3BEZj/eftg44EbJNbL2RNqPDjoH8EGmNnVnviBGFh6DDobNOxW+H/VOeXCemHF2WroJ1SJ7BfLmxJOLhqhtGphLj2soterMh9E4M6RpeQFXxu3ExvtSqtkDZyZYnQpW63omMNSrYpNWD6OQt4sLqas1/n2wm0rU4KNDkj6+tbQrMiZkuIT6+C/q/UKDpt3/KlyeRUYrXk29odTWCXN6HarLMdMYJPk6IdPLUvTJezv7n8DCKLvXdGPQ346/U88vFXJxaRN0uz6oMfOfaTd52yeghTo70uDuxdygVBRl9d/awiQYJ5meAo3ospRkamobwi8eDgB5wSqe9M6iFZTd8deXvqPtePWjH9sYzDhymNSc1fTal8QFhcEsDUxPFOsgXE3Zo4MD6mut88PviGQPgZT4cajeMNb1S71Q=;T+t4SPlyI3RaxZWTMuA0oQ=="
 ---
 
