@@ -347,50 +347,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-voice-activated-webxr-app-with-babylonjs.md",
-      "title": "Create and deploy a voice activated WebXR app with Babylon.js and Azure Cognitive Services",
-      "excerpt": "Create a voice activated WebXR app using BabylonJS and the Azure Speech-to-text API under Azure Cognitive Services, and then deploy the app using Static Website Hosting provided by Azure Blob Storage. The app can be viewed on devices such as HoloLens, Windows Mixed Reality devices, mobile phones, etc.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-voice-activated-webxr-app-with-babylonjs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-voice-activated-webxr-app-with-babylonjs/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-web-app-with-refreshable-models.md",
       "title": "Build a Web App with Refreshable Machine Learning Models",
       "excerpt": "Build a web app powered by machine learning models trained using Custom Vision AI service, and learn how to refresh them with GitHub Actions.",
@@ -1293,6 +1249,48 @@
       "topics": [
         "Azure",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-elastic-cloud-on-azure.md",
+      "title": "Deploy Elastic Cloud on Azure",
+      "excerpt": "TODO: this field is for search engine optimization and is not user-visible; use 2-3 complete, grammatically correct sentences to describe the module; include relevant search keywords.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-elastic-cloud-on-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-elastic-cloud-azure/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 5,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
