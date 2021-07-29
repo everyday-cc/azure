@@ -508,6 +508,20 @@ related:
         width: 1616
         height: 846
         isCached: true
+  - title: "Logz.io Collaborates with Microsoft Azure to Provide Monitoring Capabilities for Cloud Developers"
+    excerpt: "Logz.io, a leading open source observability platform for modern DevOps teams, is forming a new strategic partnership with Microsoft Azure to streamline monitoring and observability workflows for cloud developers."
+    publishedDateTime: 2021-07-29T14:02:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Logzio-Collaborates-with-Microsoft-Azure-to-Provide-Monitoring-Capabilities-for-Cloud-Developers-148194.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Renesas Extends Support for Microsoft Azure RTOS Across 32-bit MCU Families With Simple Licensing for Secure Embedded IoT Development"
     excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that customers designing with all mainstream Renesas 32-bit MCU families now have access to Microsoft Azure Real-Time Operating System (RTOS) embedded development suite,"
     publishedDateTime: 2021-06-15T12:02:00Z

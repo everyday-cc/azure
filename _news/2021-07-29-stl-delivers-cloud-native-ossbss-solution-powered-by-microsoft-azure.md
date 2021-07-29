@@ -1,18 +1,22 @@
 ---
 category: news
 title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
-excerpt: "STL (NSE: STLTECH), an industry leading integrator of  digital  networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
-publishedDateTime: 2021-07-29T11:57:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-stl-delivers-cloud-native-ossbss-solution-powered-microsoft-/2021/07/29/9419590.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-stl-delivers-cloud-native-ossbss-solution-powered-microsoft-/2021/07/29/9419590.htm"
+excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
+publishedDateTime: 2021-07-29T12:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
+webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -183,6 +187,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "IXVyAqhIOOia3ehnWskFCO4gvnqLiuQ/jcd+B8jO6sFQ2U959DCmgK4GRe35DzSayqv99S/LCrtv0Uhe1UHXmiU2ZzEYXlr+gMXg3IrRiQLcqAPPC0FbK/XGeG/J+YwQSmUZ49JkG4+VWEXGWi1IlreLfaJOmqW93Lh28kKVoV/dlcQwZS9wc3GAJRy+SojoJPyARKT/TPIYXkwn7jfQmQ5449shWjgYFTn+yMJGQstHDoGlbTLwcSxXOWKBjl1HPIk3ADW9vY1hYKFIHvimC/y9S0rwaK2axSD+oNKXEhxaD81nD0U5AuczfxktUX5dPsO0qorHPeX04/ZkBW8S0J4As1rTaddY2be+4/3Qdsc=;/v56k6upPFhGmPKu229bAA=="
+secured: "/Xjf4M8r9UXGDMH+9GtehLFek8Ciafefy9QXIDideqI1+RqjjLm8z8qrpuEinhkhR/wnKcoc6sR7q6SCmhyVBUu3Ud1Qw0VCpxg1UCPL46aQfWqw+au/LozzqMBLHKDrHg/XrNFR3eqKMXL3tC/RTLBuuCIYYW8wZIZS9/Vx9IyuM4Chg7ptqsqkoZki+LqdXJkLExOnFua5CYsEoJ6rbBzhW5b0zxgdt8GJS0oYwGfkMhSMMCDQpuoW6/BZTJ8a1Y/HTHhpVTqDnrVWzxUQJZu6BgUHAmquB1IIC6tx17a/rp2iOSv6CrQaRqJZNAi6/0hV5k78rCMFLO0g8hKvvZKTa3iKaGs/tzg7D6Bu3EU=;Dm2n/M7yeWmxHUe5Ftqazw=="
 ---
 

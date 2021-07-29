@@ -192,6 +192,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 61
+  - title: "Start VM on connect capability in Azure Virtual Desktop enters general availability"
+    excerpt: "Start VM on Connect will help you optimize the costs of your deployment by offering a configuration setting in the service to start stopped or deallocated VMs when needed."
+    publishedDateTime: 2021-07-29T17:30:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/start-vm-on-connect-capability-in-azure-virtual-desktop-enters-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "General availability: Public IP information and inter-zone traffic among many new insights in Traffic Analytics"
     excerpt: "Azure Network Watcher Traffic Analytics solutions is used to monitor network traffic. It now provides WHOIS and Geographic data for all Public IPs interacting with your deployments and further adds DNS domain, threat type & threat description for Malicious IPs. Now, it also supports inter-zone traffic"
     publishedDateTime: 2021-07-21T16:00:04Z

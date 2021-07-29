@@ -194,6 +194,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 61
+  - title: "Start VM on connect capability in Azure Virtual Desktop enters general availability"
+    excerpt: "Start VM on Connect will help you optimize the costs of your deployment by offering a configuration setting in the service to start stopped or deallocated VMs when needed."
+    publishedDateTime: 2021-07-29T17:30:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/start-vm-on-connect-capability-in-azure-virtual-desktop-enters-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "SPIN Analytics and RISKROBOT™, Now Available in the Microsoft Azure Marketplace"
     excerpt: "NEW YORK--(BUSINESS WIRE)--SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2021-07-21T12:26:00Z

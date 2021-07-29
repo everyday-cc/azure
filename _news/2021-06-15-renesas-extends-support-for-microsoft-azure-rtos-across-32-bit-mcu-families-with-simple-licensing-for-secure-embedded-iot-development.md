@@ -514,6 +514,20 @@ related:
         width: 1616
         height: 846
         isCached: true
+  - title: "Logz.io Collaborates with Microsoft Azure to Provide Monitoring Capabilities for Cloud Developers"
+    excerpt: "Logz.io, a leading open source observability platform for modern DevOps teams, is forming a new strategic partnership with Microsoft Azure to streamline monitoring and observability workflows for cloud developers."
+    publishedDateTime: 2021-07-29T14:02:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Logzio-Collaborates-with-Microsoft-Azure-to-Provide-Monitoring-Capabilities-for-Cloud-Developers-148194.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VAST Grows Microsoft Partnership with Microsoft Cloud Gold Partner Status"
     excerpt: "VAST, a leader in Data Protection, IT Infrastructure Management, and Optimization of On-Premise and Cloud Computing Operations, has announced today it has"
     publishedDateTime: 2021-06-17T17:10:00Z

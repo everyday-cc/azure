@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-stream-analytics-tools-for-visual-studio-code/"
 type: article
 quality: 100
-heat: 520
+heat: 540
 published: true
 
 provider:
@@ -181,6 +181,15 @@ related:
     excerpt: "You can now use the same workspace name in deployments across all your environment without a conflict. This is useful in template deployments when the same name can be used for every deployment for consistency."
     publishedDateTime: 2021-04-14T16:02:07Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-log-analytics-workspace-name-uniqueness-is-now-per-resource-group/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
+  - title: "Start VM on connect capability in Azure Virtual Desktop enters general availability"
+    excerpt: "Start VM on Connect will help you optimize the costs of your deployment by offering a configuration setting in the service to start stopped or deallocated VMs when needed."
+    publishedDateTime: 2021-07-29T17:30:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/start-vm-on-connect-capability-in-azure-virtual-desktop-enters-ga/"
     type: article
     provider:
       name: Microsoft

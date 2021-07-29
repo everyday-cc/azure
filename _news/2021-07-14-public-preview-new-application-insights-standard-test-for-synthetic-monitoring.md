@@ -31,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
-  - title: "Public preview: Azure Virtual Desktop is now available in the Azure China cloud "
-    excerpt: "Get started today with Azure Virtual Desktop in public preview in Azure China cloud. Deploy and scale Windows desktops and apps on Azure in minutes."
-    publishedDateTime: 2021-07-26T23:31:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-desktop-is-now-available-in-the-azure-china-cloud-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "Public preview: Alerts, Pacemaker cluster (RHEL OS) and data-size for SAP HANA "
     excerpt: "SAP on Azure customers can now set threshold-based alerts on SAP application, databases and clusters though Azur portal with few clicks. \n"
     publishedDateTime: 2021-07-19T15:00:10Z
