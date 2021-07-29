@@ -96,6 +96,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
+    excerpt: "STL (NSE: STLTECH), an industry leading integrator of  digital  networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
+    publishedDateTime: 2021-07-29T11:57:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-stl-delivers-cloud-native-ossbss-solution-powered-microsoft-/2021/07/29/9419590.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1584294/OSS_solution.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
     publishedDateTime: 2021-07-22T18:05:00Z

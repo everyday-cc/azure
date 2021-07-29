@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
-excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
-publishedDateTime: 2021-07-21T20:16:00Z
-originalUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
-webUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
+title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
+excerpt: "STL (NSE: STLTECH), an industry leading integrator of  digital  networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
+publishedDateTime: 2021-07-29T11:57:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-stl-delivers-cloud-native-ossbss-solution-powered-microsoft-/2021/07/29/9419590.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-stl-delivers-cloud-native-ossbss-solution-powered-microsoft-/2021/07/29/9419590.htm"
 type: article
-quality: 70
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-  - Security
-  - Identity
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
-    width: 647
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1584294/OSS_solution.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -53,6 +51,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
+    excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
+    publishedDateTime: 2021-07-21T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 70
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "KnowledgeLake Now Supports Microsoft Azure Government"
     excerpt: "KnowledgeLake, a provider of document capture and processing solutions, now supports the Microsoft Azure for Government platform to securely automate critical business processes while ensuring regulatory compliance in the cloud. Organizations using Azure ..."
@@ -95,20 +107,6 @@ related:
       - url: "https://www.valuewalk.com/wp-content/uploads/2019/11/microsoft_1573064972.jpg"
         width: 1280
         height: 960
-        isCached: true
-  - title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
-    excerpt: "STL (NSE: STLTECH), an industry leading integrator of  digital  networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
-    publishedDateTime: 2021-07-29T11:57:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-stl-delivers-cloud-native-ossbss-solution-powered-microsoft-/2021/07/29/9419590.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1584294/OSS_solution.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
@@ -185,6 +183,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "Emf6JUxh68D/MR0/zjQmMXrwMbHDBhmataDz2mr3C2rCy6sVWFt+idu0Ae9cvFfQ4Tv/okN/kTmy8TIwUkNSZNC9Rl978kACL+4+V4grQdcm6BdUUVrntf3iDmOsACCclWveCzzC/3T7NxIJfYl3lpiJA+2hlTOPygSF0wloJVel6J4UhZY9kfSvee5h5xzaLtr5pBOB3qmLek2+Hw9IM6zvpEOb2MbfIgpb/2SY2WsEB/7RQ1PqYbseumaSg+VAA4pWgwgC+wGzvinbvfAk/ktGAsIEHe/DX8StFto2Lml8zHHV7xzXzZya98UJYHBOrnH7OtzvITQUKEgrrH1IYsr50EffwBtDuNmPpEutfh8Wp//9tAYkOP993/bir3pl3opWbzoW7en2/Y1YqSJ9deUGvQllx5Al6OrSNDzkERlHVVUwd00JsBBrljbSbJMd3z0Px7jwsyOQIeXZY/ONza0aqqlqaSthZ0O+LS2f6NjOoRRkjKchBSUSJ/UtqMTTYuyvUDc9jP8KUrTNj4QnoQ==;aPnNXdRVO4rzhrZg7oW+5A=="
+secured: "IXVyAqhIOOia3ehnWskFCO4gvnqLiuQ/jcd+B8jO6sFQ2U959DCmgK4GRe35DzSayqv99S/LCrtv0Uhe1UHXmiU2ZzEYXlr+gMXg3IrRiQLcqAPPC0FbK/XGeG/J+YwQSmUZ49JkG4+VWEXGWi1IlreLfaJOmqW93Lh28kKVoV/dlcQwZS9wc3GAJRy+SojoJPyARKT/TPIYXkwn7jfQmQ5449shWjgYFTn+yMJGQstHDoGlbTLwcSxXOWKBjl1HPIk3ADW9vY1hYKFIHvimC/y9S0rwaK2axSD+oNKXEhxaD81nD0U5AuczfxktUX5dPsO0qorHPeX04/ZkBW8S0J4As1rTaddY2be+4/3Qdsc=;/v56k6upPFhGmPKu229bAA=="
 ---
 
