@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Sphere SDK version 21.07 Update 1 is now available"
+    excerpt: "This SDK update fixes a bug in the 21.07 SDK that was released earlier this month. "
+    publishedDateTime: 2021-07-28T23:58:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2107-update-1-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Sphere OS version 20.08 is now available"
     excerpt: "The Azure Sphere 20.08 OS quality release is now available in the Retail feed. This update includes enhancements and bug fixes in the Azure Sphere OS including a security update that represents a critical update to the OS. "
     publishedDateTime: 2020-08-20T20:00:07Z

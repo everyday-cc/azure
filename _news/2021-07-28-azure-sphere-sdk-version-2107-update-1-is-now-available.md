@@ -1,12 +1,12 @@
 ---
 category: news
-title: " Azure Automation is now available in Norway East region"
-excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
-publishedDateTime: 2020-12-07T17:12:01Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
+title: "Azure Sphere SDK version 21.07 Update 1 is now available"
+excerpt: "This SDK update fixes a bug in the 21.07 SDK that was released earlier this month. "
+publishedDateTime: 2021-07-28T23:58:43Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2107-update-1-is-now-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2107-update-1-is-now-available/"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Developer tools
 
 related:
   - title: "Azure Sphere SDK version 20.11 is now available"
@@ -40,15 +41,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Sphere SDK version 21.07 Update 1 is now available"
-    excerpt: "This SDK update fixes a bug in the 21.07 SDK that was released earlier this month. "
-    publishedDateTime: 2021-07-28T23:58:43Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2107-update-1-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure Sphere OS version 20.08 is now available"
     excerpt: "The Azure Sphere 20.08 OS quality release is now available in the Retail feed. This update includes enhancements and bug fixes in the Azure Sphere OS including a security update that represents a critical update to the OS. "
     publishedDateTime: 2020-08-20T20:00:07Z
@@ -62,6 +54,15 @@ related:
     excerpt: "The 20.12 release includes enhancements and bug fixes in the Azure Sphere OS. It does not include an updated SDK."
     publishedDateTime: 2020-12-02T22:22:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: " Azure Automation is now available in Norway East region"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
+    publishedDateTime: 2020-12-07T17:12:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
     type: article
     provider:
       name: Microsoft
@@ -185,6 +186,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "Y//g266ILSJQw8lMs5g4VgQQB6aF7w9X1P8Ctx7XwlmdRXi6VoJN7LZfphqSDGiubiB3o7KzmhiHmOU+NeCwuA0NtJ2Ztak6P0eAEe46Sm4DNUridMzRoKnrQ0b3urNTvG78OpqmXKzPKMxABnZwl6fatYPEx4T/fRy6romJ7wTBZ6zuCUxNo6Lunn4zyF0ssJU9Pn/1KcqDEU+a8Zqr2i/4TPcafMeuNiVQN2sherkrWkkUpIJstyMDxXgMo2XyF/UjqGPoOD4BhxzFT15OBL4bcSSt5nciyTJwkB51uPLU+8qXKc/3urfEramXQeoAdoe1C9Mffa6IgkDjFmChyifEGaTfjBF2+Vh6kfk6iwU=;M9R3bzM4Q0qvyJBBDUPsSg=="
+secured: "weZvngftsQdtD/nNK0JnHzhsof/rD0rGh2zTHpNvxb5CpLd54DoLBySQWAUH9aj3mEhuC1aJduZ8qf38epTRzxg54HWlZqoeamGjPo8yqJbel7QNcITmWSulwvANlG5A1nW3FitO73bxhwRWC6RQ7IekS0XJPZN7D/ndizb4DFXzvW6qEtl9IxawT/HHNmpOLels44nPio6CGtMWB6ToHEewIrZOeInuRQkJpF6Ult15x8qiwiwAa6GKFnSK/I+VHQh6OVuUKwdHABvRa6VVY0heqR2n/aRVEgFSJpHfAuIzJr++BeTFL2nBsVT1Pvr9dIJWjb9ovZvedULnej2ndi6Kpv5lQ3bEL8LNks0BB+4=;mFIrHI1+mRK0vxFD6v4fkw=="
 ---
 

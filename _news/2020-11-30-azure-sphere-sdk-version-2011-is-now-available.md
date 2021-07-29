@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2011-is-now-available/"
 type: article
 quality: 84
-heat: 424
+heat: 444
 published: true
 
 provider:
@@ -27,6 +27,15 @@ related:
     excerpt: "Get started with Android map control using vector map libraries, now generally available with Azure Maps Android SDK."
     publishedDateTime: 2021-06-30T16:00:23Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-android-sdk-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Sphere SDK version 21.07 Update 1 is now available"
+    excerpt: "This SDK update fixes a bug in the 21.07 SDK that was released earlier this month. "
+    publishedDateTime: 2021-07-28T23:58:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2107-update-1-is-now-available/"
     type: article
     provider:
       name: Microsoft
