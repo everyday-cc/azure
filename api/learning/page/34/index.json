@@ -4,49 +4,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-configure-your-microsoft-365-experience.md",
-      "title": "Configure your Microsoft 365 experience",
-      "excerpt": "Configure your Microsoft 365 experience",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-your-microsoft-365-experience/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-your-microsoft-365-experience/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 20,
-        "average": 4.85
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/microsoft-365-configure-experience-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-connect-azure-assets-to-azure-defender.md",
       "title": "Connect Azure assets to Azure Defender",
       "excerpt": "Connect Azure assets to Azure Defender",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-azure-assets-to-azure-defender/",
       "length": "PT35M",
       "ratings": {
-        "count": 213,
-        "average": 4.826291
+        "count": 214,
+        "average": 4.8271027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1004,8 +961,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
       "length": "PT20M",
       "ratings": {
-        "count": 2331,
-        "average": 4.6533675
+        "count": 2332,
+        "average": 4.6535163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1303,6 +1260,48 @@
         "Databases",
         "Storage",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-host-web-sites-github-pages.md",
+      "title": "Create and host web sites by using GitHub Pages",
+      "excerpt": "Learn how to host your personal, organization, and project sites for free with GitHub Pages.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-host-web-sites-github-pages/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-host-web-sites-github-pages/",
+      "length": "PT1H12M",
+      "ratings": {
+        "count": 550,
+        "average": 4.836364
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/create-host-web-sites-github-pages-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

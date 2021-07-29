@@ -4,6 +4,48 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-learn-data-science-method.md",
+      "title": "Learn the data science method",
+      "excerpt": "Learn about the history and motivation behind data science",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-learn-data-science-method/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/learn-data-science-method/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 567,
+        "average": 4.703704
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
       "title": "Strengthen authentication (conditional access) with Azure Active Directory",
       "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
@@ -549,8 +591,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
       "length": "PT38M",
       "ratings": {
-        "count": 136,
-        "average": 4.75
+        "count": 137,
+        "average": 4.7372265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -628,8 +670,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
       "length": "PT60M",
       "ratings": {
-        "count": 588,
-        "average": 4.571429
+        "count": 589,
+        "average": 4.5721564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -977,8 +1019,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4907,
-        "average": 4.5435095
+        "count": 4908,
+        "average": 4.5436025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1214,49 +1256,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-unsupervised-learning.md",
-      "title": "Use unsupervised learning to analyze unlabeled data",
-      "excerpt": "Use unsupervised learning methods to predict groupings in data. Use variations of k-means clustering and spectral clustering to analyze and visualize difficult data sets.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-unsupervised-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-unsupervised-learning/",
-      "length": "27 mins",
-      "ratings": {
-        "count": 249,
-        "average": 4.6787148
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-unsupervised-learning-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Use unsupervised learning to analyze unlabeled data",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

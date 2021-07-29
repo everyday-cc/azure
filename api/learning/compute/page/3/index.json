@@ -4,6 +4,42 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
+      "title": "Configure the network for your virtual machines",
+      "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
+      "length": "PT1H34M",
+      "ratings": {
+        "count": 8980,
+        "average": 4.6603565
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
       "title": "Deploy and run a containerized web app with Azure App Service",
       "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
@@ -11,8 +47,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 5415,
-        "average": 4.6430287
+        "count": 5416,
+        "average": 4.64291
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -56,8 +92,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 5266,
-        "average": 4.7326245
+        "count": 5267,
+        "average": 4.732675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -492,8 +528,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 16331,
-        "average": 4.7242665
+        "count": 16332,
+        "average": 4.7242837
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -579,8 +615,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 2763,
-        "average": 4.617807
+        "count": 2764,
+        "average": 4.617945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -743,8 +779,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 3636,
-        "average": 4.581683
+        "count": 3637,
+        "average": 4.5815234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1359,50 +1395,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-batch-account-using-azure-portal.md",
-      "title": "Create an Azure Batch account by using the Azure portal",
-      "excerpt": "Azure Batch is an Azure service that enables you to run large-scale parallel and high-performance computing (HPC) applications efficiently in the cloud. There's no need to manage or configure infrastructure. Just schedule the job, allocate the resources you need, and let Batch take care of the rest.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-batch-account-using-azure-portal/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-batch-account-using-azure-portal/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 7,
-        "average": 4.714286
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-batch-account-using-azure-portal-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management tools"
       ]
     }
   ],

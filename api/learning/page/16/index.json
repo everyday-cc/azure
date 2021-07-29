@@ -308,6 +308,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-cmu-monitor-cloud-resources.md",
+      "title": "Monitor cloud resources",
+      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Monitoring how your cloud resources are performing is crucial to building reliable cloud applications. This module covers what monitoring is, why you need to do it, and how you can about monitoring your resources.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cmu-monitor-cloud-resources/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 538,
+        "average": 4.5873604
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-monitor-cloud-resources-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
       "title": "Control authentication for your APIs with Azure API Management",
       "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
@@ -315,8 +357,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 2513,
-        "average": 4.6653404
+        "count": 2514,
+        "average": 4.665076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -658,8 +700,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/",
       "length": "PT21M",
       "ratings": {
-        "count": 285,
-        "average": 4.8385963
+        "count": 286,
+        "average": 4.839161
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -824,8 +866,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-analyze-time-series-insights/",
       "length": "PT37M",
       "ratings": {
-        "count": 660,
-        "average": 4.728788
+        "count": 661,
+        "average": 4.729198
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -859,8 +901,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 1901,
-        "average": 4.781168
+        "count": 1902,
+        "average": 4.781283
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -987,8 +1029,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-initial-configuration-of-azure-active-directory/",
       "length": "PT53M",
       "ratings": {
-        "count": 708,
-        "average": 4.7768364
+        "count": 710,
+        "average": 4.777465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1030,8 +1072,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 4097,
-        "average": 4.768123
+        "count": 4098,
+        "average": 4.7681794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1234,48 +1276,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-learn-data-science-method.md",
-      "title": "Learn the data science method",
-      "excerpt": "Learn about the history and motivation behind data science",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-learn-data-science-method/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/learn-data-science-method/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 567,
-        "average": 4.703704
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

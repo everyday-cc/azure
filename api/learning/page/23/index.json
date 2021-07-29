@@ -4,6 +4,83 @@
   "page": 23,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-prepare-azure-dev-environment.md",
+      "title": "Prepare your development environment for Azure development",
+      "excerpt": "Learn how to choose and install the appropriate IDE for your requirements to help you build, deploy, monitor, and scale cloud-hosted solutions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-prepare-azure-dev-environment/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 5712,
+        "average": 4.702381
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-prepare-for-wvd.md",
+      "title": "Prepare for Windows Virtual Desktop in Microsoft Azure",
+      "excerpt": "Learn how to prepare for Windows Virtual Desktop - a cloud-based virtualization solution running on Microsoft Azure. Windows Virtual Desktop is an elastically scalable service to deliver remote desktop and remote app experiences - without having to manage the underlying server infrastructure. Review the prerequisites and tools provided by Microsoft get ready to provision your first Windows Virtual Desktop host pool.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-prepare-for-wvd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 1150,
+        "average": 4.752174
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/prepare-for-windows-virtual-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-protect-data-transit-at-rest.md",
       "title": "Protect data in-transit and at rest",
       "excerpt": "Protect data in-transit and at rest",
@@ -177,8 +254,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/",
       "length": "PT48M",
       "ratings": {
-        "count": 394,
-        "average": 4.8020306
+        "count": 395,
+        "average": 4.8025317
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -552,6 +629,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-rust-introduction.md",
+      "title": "What is Rust",
+      "excerpt": "A quick introduction to Rust language features and how Rust compares with other programming languages.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-rust-introduction/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-introduction/",
+      "length": "PT16M",
+      "ratings": {
+        "count": 3,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-get-started-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-rust-set-up-environment.md",
       "title": "Set up the Rust development environment",
       "excerpt": "Learn how to set up the Rust development environment, write a program, and use the Cargo build system.",
@@ -644,8 +763,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 2864,
-        "average": 4.7398744
+        "count": 2865,
+        "average": 4.739965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1139,137 +1258,6 @@
         "Azure",
         "AI",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-use-language-understanding-speech.md",
-      "title": "Use Language Understanding with Speech",
-      "excerpt": "Use Language Understanding with Speech",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-language-understanding-speech/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-language-understanding-speech/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 9,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
-      "title": "Work with DataFrames in Azure Databricks",
-      "excerpt": "Work with DataFrames in Azure Databricks",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 473,
-        "average": 4.6469345
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models.md",
-      "title": "Work with Azure Machine Learning to deploy serving models",
-      "excerpt": "Work with Azure Machine Learning to deploy serving models",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-azure-machine-learning-deploy-serving-models/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 123,
-        "average": 4.520325
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-with-azure-machine-learning-deploy-serving-models-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     }
   ],

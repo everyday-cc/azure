@@ -4,6 +4,187 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-implement-knowledge-mining-with-azure-cognitive-search.md",
+      "title": "Implement knowledge mining with Azure Cognitive Search",
+      "excerpt": "Do you have information locked up in structured and unstructured data sources?  Using Azure Cognitive Search, you can extract key insights from this data, and enable applications to search and analyze them.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-implement-knowledge-mining-with-azure-cognitive-search/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-implement-knowledge-mining-with-azure-cognitive-search/",
+      "length": "PT2H35M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-azure-cognitive-search-solution.md",
+          "title": "Create an Azure Cognitive Search solution",
+          "excerpt": "Unlock the hidden insights in your data with Azure Cognitive Search.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-azure-cognitive-search-solution/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 107,
+            "average": 4.7476635
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-an-azure-cognitive-search-solution-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage",
+            "AI",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search.md",
+          "title": "Create an enrichment pipeline with Azure Cognitive Search",
+          "excerpt": "Use the power of artificial intelligence to enrich your data and find new insights.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
+          "length": "PT1H1M",
+          "ratings": {
+            "count": 91,
+            "average": 4.714286
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-an-enrichment-pipeline-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Compute",
+            "Serverless",
+            "Storage",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-knowledge-store-with-azure-cognitive-search.md",
+          "title": "Create a knowledge store with Azure Cognitive Search",
+          "excerpt": "Learn how to persist the output from an Azure Cognitive Search enrichment pipeline for independent analysis or downstream processing.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-knowledge-store-with-azure-cognitive-search/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 105,
+            "average": 4.714286
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/implementing-a-knowledge-store-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Storage",
+            "Web"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-an-azure-cognitive-search-solution-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer Tools",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
       "title": "Microsoft Azure Well-Architected Framework - Reliability",
       "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
@@ -656,7 +837,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
@@ -973,53 +1154,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-aspnet-session.md",
-      "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
-      "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-session/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-session/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 40,
-        "average": 4.675
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
       "title": "Architect full-stack applications and automate deployments with GitHub",
       "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
@@ -1079,8 +1213,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-search/",
       "length": "PT53M",
       "ratings": {
-        "count": 283,
-        "average": 4.6289754
+        "count": 284,
+        "average": 4.630282
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1600,8 +1734,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django-get-started/",
       "length": "PT32M",
       "ratings": {
-        "count": 66,
-        "average": 4.818182
+        "count": 67,
+        "average": 4.8208957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1644,8 +1778,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
       "length": "PT47M",
       "ratings": {
-        "count": 1100,
-        "average": 4.7090907
+        "count": 1101,
+        "average": 4.708447
       },
       "provider": {
         "name": "Microsoft Learn",

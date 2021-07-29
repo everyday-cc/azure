@@ -4,6 +4,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-batch-account-using-azure-portal.md",
+      "title": "Create an Azure Batch account by using the Azure portal",
+      "excerpt": "Azure Batch is an Azure service that enables you to run large-scale parallel and high-performance computing (HPC) applications efficiently in the cloud. There's no need to manage or configure infrastructure. Just schedule the job, allocate the resources you need, and let Batch take care of the rest.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-batch-account-using-azure-portal/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-batch-account-using-azure-portal/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 7,
+        "average": 4.714286
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-batch-account-using-azure-portal-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search.md",
       "title": "Create an enrichment pipeline with Azure Cognitive Search",
       "excerpt": "Use the power of artificial intelligence to enrich your data and find new insights.",
@@ -823,8 +867,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 706,
-            "average": 4.5580735
+            "count": 707,
+            "average": 4.5586987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1382,7 +1426,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
@@ -1688,53 +1732,6 @@
         "Mobile",
         "Management Tools",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aspnet-session.md",
-      "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
-      "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-session/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-session/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 40,
-        "average": 4.675
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile",
-        "Databases"
       ]
     },
     {
