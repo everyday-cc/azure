@@ -4,6 +4,40 @@
   "page": 30,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-analytics-engines-spark.md",
+      "title": "Distributed computing on the cloud: Spark",
+      "excerpt": "Carnegie Mellon University's cloud developer course. Spark is an open-source cluster-computing framework with different strengths than MapReduce has. Learn about how Spark works.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analytics-engines-spark/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-spark/",
+      "length": "PT1H5M",
+      "ratings": {
+        "count": 40,
+        "average": 4.825
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
       "title": "Analyze DevOps Continuous Planning and Continuous Integration",
       "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
@@ -1255,44 +1289,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
-      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
-      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 2216,
-        "average": 4.2644405
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Compute",
-        "Serverless",
-        "Databases"
       ]
     }
   ],

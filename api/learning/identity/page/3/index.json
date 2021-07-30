@@ -4,49 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
-      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
-      "excerpt": "Learn how to manage device identity by using Azure AD join and Enterprise State Roaming.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 2917,
-        "average": 4.6993484
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
       "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
       "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
@@ -214,8 +171,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4782,
-        "average": 4.7875366
+        "count": 4783,
+        "average": 4.787581
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
       "length": "PT60M",
       "ratings": {
-        "count": 385,
-        "average": 4.7454543
+        "count": 386,
+        "average": 4.746114
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-hybrid-identity/",
       "length": "PT59M",
       "ratings": {
-        "count": 525,
-        "average": 4.767619
+        "count": 526,
+        "average": 4.7680607
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -386,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 3378,
-        "average": 4.7164
+        "count": 3379,
+        "average": 4.716484
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -472,8 +429,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 3430,
-        "average": 4.7819242
+        "count": 3431,
+        "average": 4.7819877
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -558,8 +515,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
       "length": "PT37M",
       "ratings": {
-        "count": 244,
-        "average": 4.8114753
+        "count": 245,
+        "average": 4.812245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -644,8 +601,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 2867,
-        "average": 4.7401466
+        "count": 2868,
+        "average": 4.740237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1752,6 +1709,49 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-add-custom-domain-microsoft-365.md",
+      "title": "Add a custom domain in Microsoft 365",
+      "excerpt": "Add a custom domain in Microsoft 365",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-add-custom-domain-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-microsoft-365/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 14,
+        "average": 4.714286
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/add-a-custom-domain-in-microsoft-365-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",

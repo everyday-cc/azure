@@ -4,6 +4,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup.md",
+      "title": "Protect your virtual machines by using Azure Backup",
+      "excerpt": "Use Azure Backup to help protect the data for on-premises servers, virtual machines, virtualized workloads, SQL Server, Azure Files, and more.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 5458,
+        "average": 4.743496
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools",
+        "Storage",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
       "title": "Secure your Azure Storage account",
       "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
@@ -11,8 +57,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 11085,
-        "average": 4.6828146
+        "count": 11086,
+        "average": 4.682843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +100,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 3907,
-        "average": 4.749424
+        "count": 3908,
+        "average": 4.7494884
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -98,8 +144,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 6323,
-        "average": 4.705045
+        "count": 6324,
+        "average": 4.7050915
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -141,8 +187,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 6680,
-        "average": 4.637275
+        "count": 6681,
+        "average": 4.6373296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -185,8 +231,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
       "length": "PT24M",
       "ratings": {
-        "count": 1995,
-        "average": 4.726316
+        "count": 1997,
+        "average": 4.7265897
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -347,8 +393,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/",
       "length": "PT51M",
       "ratings": {
-        "count": 2936,
-        "average": 4.651226
+        "count": 2937,
+        "average": 4.6510043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -577,8 +623,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11085,
-            "average": 4.6828146
+            "count": 11086,
+            "average": 4.682843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -728,8 +774,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
       "length": "PT48M",
       "ratings": {
-        "count": 106,
-        "average": 4.716981
+        "count": 107,
+        "average": 4.7102804
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1413,8 +1459,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 1267,
-        "average": 4.760063
+        "count": 1268,
+        "average": 4.7602525
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1615,49 +1661,6 @@
         "Serverless",
         "Storage",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-ha-application-storage-with-grs.md",
-      "title": "Make your application storage highly available with read-access geo-redundant storage",
-      "excerpt": "In this module, you learn how to make your application storage highly available by ensuring that you can fail over resources if there's an Azure region failure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-ha-application-storage-with-grs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 1829,
-        "average": 4.527064
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ha-application-storage-with-grs-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

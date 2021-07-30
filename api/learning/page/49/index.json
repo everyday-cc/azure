@@ -4,6 +4,49 @@
   "page": 49,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-plan-implement-manage-access-review.md",
+      "title": "Plan, implement, and manage access review",
+      "excerpt": "Plan, implement, and manage access review",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-implement-manage-access-review/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 189,
+        "average": 4.7830687
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-plan-implement-privileged-access.md",
       "title": "Plan and implement privileged access",
       "excerpt": "Plan and implement privileged access",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-privileged-access/",
       "length": "PT59M",
       "ratings": {
-        "count": 185,
-        "average": 4.8324323
+        "count": 186,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -568,8 +611,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-develop-ai-solutions-azure/",
       "length": "PT31M",
       "ratings": {
-        "count": 14,
-        "average": 4.428571
+        "count": 15,
+        "average": 4.4666667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1207,8 +1250,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
       "length": "PT48M",
       "ratings": {
-        "count": 3636,
-        "average": 4.6875687
+        "count": 3638,
+        "average": 4.6877403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1231,43 +1274,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-express-node-app-service-vscode.md",
-      "title": "Create and publish a web application with Azure App Service and Visual Studio Code",
-      "excerpt": "In this module, you'll learn how to create and publish webapps to Azure App Service from Visual Studio Code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-express-node-app-service-vscode/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-publish-webapp-app-service-vs-code/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 39,
-        "average": 4.820513
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
         "Developer tools"
       ]
     }

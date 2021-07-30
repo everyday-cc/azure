@@ -4,6 +4,44 @@
   "page": 31,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
+      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
+      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 2217,
+        "average": 4.2638702
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Compute",
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-in-action.md",
       "title": "See Azure in action",
       "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
@@ -1203,49 +1241,6 @@
         "Web",
         "Compute",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
-      "title": "Deploy a Java web app to Azure",
-      "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-webapp-java-tomcat/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-java-webapp-to-app-service-linux/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 46,
-        "average": 4.673913
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],

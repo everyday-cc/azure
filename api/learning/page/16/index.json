@@ -4,6 +4,42 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
+      "title": "Create an Azure Cosmos DB database built to scale",
+      "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-cosmos-db-for-scale/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 4502,
+        "average": 4.658596
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-custom-roles-rbac.md",
       "title": "Create custom roles for Azure resources with role-based access control (RBAC)",
       "excerpt": "Learn how to create custom roles for Azure resources with role-based access control (RBAC).",
@@ -53,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
       "length": "PT48M",
       "ratings": {
-        "count": 106,
-        "average": 4.716981
+        "count": 107,
+        "average": 4.7102804
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -229,8 +265,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/",
       "length": "PT21M",
       "ratings": {
-        "count": 287,
-        "average": 4.839721
+        "count": 289,
+        "average": 4.8408303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -684,8 +720,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-computer-vision-pytorch/",
       "length": "PT52M",
       "ratings": {
-        "count": 55,
-        "average": 4.7090907
+        "count": 56,
+        "average": 4.714286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -939,8 +975,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4782,
-        "average": 4.7875366
+        "count": 4783,
+        "average": 4.787581
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1217,49 +1253,6 @@
         "Azure",
         "Management Tools",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage.md",
-      "title": "Monitor, diagnose, and troubleshoot your Azure storage",
-      "excerpt": "Monitor, diagnose, and troubleshoot your Azure storage",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 1877,
-        "average": 4.605754
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-diagnose-and-troubleshoot-azure-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],
