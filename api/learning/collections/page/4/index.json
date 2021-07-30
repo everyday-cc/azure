@@ -4,12 +4,12 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-az-700-designing-and-implementing-microsoft-azure-networking-solutions.md",
-      "title": "AZ-700 Designing and Implementing Microsoft Azure Networking Solutions",
-      "excerpt": "AZ-700 Designing and Implementing Microsoft Azure Networking Solutions",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-az-700-designing-and-implementing-microsoft-azure-networking-solutions/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-az-700-designing-and-implementing-microsoft-azure-networking-solutions/",
-      "length": "PT9H27M",
+      "path": "_learning/collections/microsoft-learn-build-and-operate-machine-learning-solutions-with-azure-machine-learning.md",
+      "title": "Build and operate machine learning solutions with Azure Machine Learning",
+      "excerpt": "Build and operate machine learning solutions with Azure Machine Learning",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-build-and-operate-machine-learning-solutions-with-azure-machine-learning/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-build-and-operate-machine-learning-solutions-with-azure-machine-learning/",
+      "length": "PT10H11M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -27,15 +27,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-introduction-to-azure-virtual-networks.md",
-          "title": "Introduction to Azure virtual networks",
-          "excerpt": "In this module, you will learn how to design and implement fundamental Azure Networking resources such as virtual networks, public and private IPs, DNS, virtual network peering, routing, and Azure Virtual NAT.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-virtual-networks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-virtual-networks/",
-          "length": "PT1H18M",
+          "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
+          "title": "Introduction to the Azure Machine Learning SDK",
+          "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
+          "length": "PT40M",
           "ratings": {
-            "count": 24,
-            "average": 4.625
+            "count": 3135,
+            "average": 4.643381
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,12 +52,12 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -66,19 +66,20 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Networking"
+            "AI",
+            "Developer tools"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-design-implement-hybrid-networking.md",
-          "title": "Design and implement hybrid networking",
-          "excerpt": "You will learn how to design and implement hybrid networking solutions such as Site-to-Site VPN connections, Point-to-Site VPN connections, Azure Virtual WAN, and Virtual WAN hubs.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-hybrid-networking/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-hybrid-networking/",
-          "length": "PT1H3M",
+          "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
+          "title": "Train a machine learning model with Azure Machine Learning",
+          "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
+          "length": "PT40M",
           "ratings": {
-            "count": 12,
-            "average": 5.0
+            "count": 147,
+            "average": 4.557823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -93,14 +94,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
           "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -109,19 +110,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Networking"
+            "AI"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-design-implement-azure-expressroute.md",
-          "title": "Design and implement Azure ExpressRoute",
-          "excerpt": "You will learn how to design and implement Azure ExpressRoute, ExpressRoute Global Reach, ExpressRoute FastPath, and when to use each service according to your environments requirements.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-azure-expressroute/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-azure-expressroute/",
-          "length": "PT1H18M",
+          "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
+          "title": "Work with Data in Azure Machine Learning",
+          "excerpt": "Learn how to work with datastores and datasets in Azure Machine Learning.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-work-with-data-in-aml/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
+          "length": "PT45M",
           "ratings": {
-            "count": 11,
-            "average": 4.909091
+            "count": 1277,
+            "average": 4.6530933
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -136,35 +137,27 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
           "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Networking"
+            "AI"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-load-balancing-non-https-traffic-azure.md",
-          "title": "Load balance non-HTTP(S) traffic in Azure",
-          "excerpt": "You will learn the different load balancer options in Azure and how to choose and implement the right Azure solution for non-HTTP(S) traffic.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-load-balancing-non-https-traffic-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balancing-non-https-traffic-azure/",
-          "length": "PT1H2M",
+          "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
+          "title": "Work with Compute in Azure Machine Learning",
+          "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
+          "length": "PT45M",
           "ratings": {
-            "count": 8,
-            "average": 4.875
+            "count": 1130,
+            "average": 4.6690264
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -179,33 +172,25 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
           "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Networking"
+            "AI"
           ]
         }
       ],
-      "size": 8,
+      "size": 12,
       "heat": 61,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -214,7 +199,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking"
+        "Management Tools",
+        "AI"
       ]
     },
     {
@@ -743,8 +729,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2580,
-            "average": 4.604651
+            "count": 2581,
+            "average": 4.604417
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3128,8 +3114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
           "length": "PT20M",
           "ratings": {
-            "count": 2332,
-            "average": 4.6535163
+            "count": 2334,
+            "average": 4.6538134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3689,8 +3675,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 2081,
-            "average": 4.7693415
+            "count": 2082,
+            "average": 4.7694526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4074,8 +4060,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 2081,
-            "average": 4.7693415
+            "count": 2082,
+            "average": 4.7694526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5000,7 +4986,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/build-3d-scene-mixed-reality-unity-social.png",
@@ -5448,7 +5434,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/economics-of-the-cloud-social.png",
