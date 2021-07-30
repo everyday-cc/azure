@@ -4,6 +4,50 @@
   "page": 37,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deploy-aspnet-apps-azure-app-service-pipelines.md",
+      "title": "Deploy ASP.NET web apps with Azure Pipelines",
+      "excerpt": "Azure Pipelines help automate building, deploying, and maintaining your applications. While they support a wide range of platforms and programming languages, in this module you’ll focus on using them to implement ASP.NET apps on Azure App Service Web Apps with Azure SQL Database as their data store.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-aspnet-apps-azure-app-service-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-aspnet-apps-azure-app-service-pipelines/",
+      "length": "PT1H5M",
+      "ratings": {
+        "count": 32,
+        "average": 4.90625
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-azure-functions.md",
       "title": "Automate Azure Functions deployments with Azure Pipelines",
       "excerpt": "Implement a CI/CD pipeline for Azure Functions.",
@@ -55,8 +99,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-resources-by-using-bicep-templates/",
       "length": "PT47M",
       "ratings": {
-        "count": 58,
-        "average": 4.8448277
+        "count": 59,
+        "average": 4.8474574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1258,49 +1302,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/describe-performance-monitoring-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server.md",
-      "title": "Describe performance-related maintenance tasks in SQL Server",
-      "excerpt": "Implement tasks for both IaaS and PaaS to maintain indexes, and statistics. Explore the automatic tuning features of Azure SQL Database.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-related-maintenance-tasks-sql-server/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 579,
-        "average": 4.7806563
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-performance-related-maintenance-tasks-in-sqlserver-social.png",
-          "width": 643,
-          "height": 321,
           "isCached": true
         }
       ],

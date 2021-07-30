@@ -4,6 +4,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-build-reusable-bicep-templates-parameters.md",
+      "title": "Build reusable Bicep templates by using parameters",
+      "excerpt": "Control and apply parameters to a Bicep template while protecting sensitive inputs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-reusable-bicep-templates-parameters/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-reusable-bicep-templates-parameters/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 27,
+        "average": 4.962963
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/bicep/build-reusable-bicep-templates-parameters-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management.md",
       "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
       "excerpt": "In this module, you will learn how to assemble multiple Azure Functions into a single API using Azure API Management.",
@@ -1210,48 +1253,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cmu-data-center-cloud-service.md",
-      "title": "Cloud management",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Get into the nitty-gritty of cloud computing to understand how resources are provisioned, billed, and monitored. Learn about how to orchestrate cloud infrastructure with examples.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cmu-data-center-cloud-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-data-center-cloud-service/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 114,
-        "average": 4.7105265
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/data-center-to-cloud-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
