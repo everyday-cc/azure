@@ -193,6 +193,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 61
+  - title: "General availability: Web Application Firewall (WAF) bot protection on Application Gateway "
+    excerpt: "Try the bot protection rule set alongside your OWASP core rule set (CRS), now generally available for Azure Web Application Firewall running on Application Gateway. "
+    publishedDateTime: 2021-07-30T20:51:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-web-application-firewall-waf-bot-protection-on-application-gateway/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
+  - title: "General availability: Web Application Firewall (WAF) geomatch custom rules on Application Gateway "
+    excerpt: "Try geomatch custom rules to block or allow traffic based on geo-location, now generally available for Azure Web Application Firewall on Application Gateway. "
+    publishedDateTime: 2021-07-30T20:51:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-web-application-firewall-waf-geomatch-custom-rules-on-application-gateway/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
   - title: "General availability: Public IP information and inter-zone traffic among many new insights in Traffic Analytics"
     excerpt: "Azure Network Watcher Traffic Analytics solutions is used to monitor network traffic. It now provides WHOIS and Geographic data for all Public IPs interacting with your deployments and further adds DNS domain, threat type & threat description for Malicious IPs. Now, it also supports inter-zone traffic"
     publishedDateTime: 2021-07-21T16:00:04Z

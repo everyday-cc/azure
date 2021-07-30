@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
-excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
-publishedDateTime: 2021-06-22T21:25:46Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
-webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
+title: "General availability: Web Application Firewall (WAF) geomatch custom rules on Application Gateway "
+excerpt: "Try geomatch custom rules to block or allow traffic based on geo-location, now generally available for Azure Web Application Firewall on Application Gateway. "
+publishedDateTime: 2021-07-30T20:51:26Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-web-application-firewall-waf-geomatch-custom-rules-on-application-gateway/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-web-application-firewall-waf-geomatch-custom-rules-on-application-gateway/"
 type: article
-quality: 72
+quality: 55
 heat: -1
 published: false
 
@@ -20,8 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Analytics
-  - Integration
+  - Networking
 
 related:
   - title: "General Availability: Azure Stream Analytics Tools for Visual Studio Code"
@@ -123,6 +122,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
+  - title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
+    excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
+    publishedDateTime: 2021-06-22T21:25:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
   - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
     excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
     publishedDateTime: 2021-04-12T20:24:17Z
@@ -204,15 +212,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
-  - title: "General availability: Web Application Firewall (WAF) geomatch custom rules on Application Gateway "
-    excerpt: "Try geomatch custom rules to block or allow traffic based on geo-location, now generally available for Azure Web Application Firewall on Application Gateway. "
-    publishedDateTime: 2021-07-30T20:51:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-web-application-firewall-waf-geomatch-custom-rules-on-application-gateway/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 55
   - title: "General availability: Public IP information and inter-zone traffic among many new insights in Traffic Analytics"
     excerpt: "Azure Network Watcher Traffic Analytics solutions is used to monitor network traffic. It now provides WHOIS and Geographic data for all Public IPs interacting with your deployments and further adds DNS domain, threat type & threat description for Malicious IPs. Now, it also supports inter-zone traffic"
     publishedDateTime: 2021-07-21T16:00:04Z
@@ -241,6 +240,6 @@ related:
       domain: microsoft.com
     quality: 8
 
-secured: "3u36xilY5XPeqnPZk6vFAgOtUhWKZWHkTLhr95ZpAxZuvoF7T6gUNMPP41HJMOLsLTFzocRomu+fPbxQYyVMWXQiRWVyRE222KbDgKVeQFw6Mes9B1k2TEtK4k6uBiD73Whlqh9ZM+y8tLSPo2t9SBK3NCGS3CHk7TmnCBB2CLDtRzGti8cAwP65P79C5e7klTt4D6+ZZf02xcil25TQGdyZ1/w/QhjzTdvV4nD+Fk22yYeL3lbEy2a1Y3hxAEWXGOEr8yf6YaVgC8vqKXtOW1toyP2mlBafyuWNiTWs5Q694l0VN9Vlv893iVXRY70G2Gw+Nm1ISxPX90aCdiHvumBYB4sAwzj7RRjYM8rHaF8=;MwejWojy/8J5//KfltTU0Q=="
+secured: "dhTA6JLew4gAHor3KLPXhr1VSzUH56A2aJBGN5Kr/AmkwFQQmjjHZmaOX5r4Nlh0NKfMIr17uiL/L9EocYopl/VnvvbveL8yDU9BcAyUEVvQC+TPq6cYKbZqv8DKPunVRexvhQAMixS8sWVdFmzdoUDiNnzIncahFKyVXAhbgOUYJutdz64Pryil3GO4NiF4uwf1U9t4cichSPgKbiBSZNCGapGv+qwdx0vuugonGjOimh+a0DThGY5uXUhcPV34ZeITMXNZTbOWDgKglWc91G0zzEDDa0AVbKDbrizf4U1+TZYaCAAaerwFq5gtXWbqrgxWYvMxT7VwPMOqzoLAuw1ZqFnrpp3FHjDKkburVGU=;FoiGTMtKI+88U1YjnkC5Ow=="
 ---
 

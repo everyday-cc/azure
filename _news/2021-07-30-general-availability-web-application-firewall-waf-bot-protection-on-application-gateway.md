@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
-excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
-publishedDateTime: 2021-06-22T21:25:46Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
-webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
+title: "General availability: Web Application Firewall (WAF) bot protection on Application Gateway "
+excerpt: "Try the bot protection rule set alongside your OWASP core rule set (CRS), now generally available for Azure Web Application Firewall running on Application Gateway. "
+publishedDateTime: 2021-07-30T20:51:32Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-web-application-firewall-waf-bot-protection-on-application-gateway/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-web-application-firewall-waf-bot-protection-on-application-gateway/"
 type: article
-quality: 72
+quality: 59
 heat: -1
 published: false
 
@@ -20,8 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Analytics
-  - Integration
+  - Networking
 
 related:
   - title: "General Availability: Azure Stream Analytics Tools for Visual Studio Code"
@@ -123,6 +122,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
+  - title: "General availability: Introducing Log Analytics Open In Excel - A new Excel integration capability"
+    excerpt: "Azure Monitor Log Analytics introduces a new Excel integration capability that allows you to create a connected Excel workbook right from the Log Analytics blade in Azure. "
+    publishedDateTime: 2021-06-22T21:25:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/introducing-log-analytics-open-in-excel-a-new-excel-integration-capability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
   - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
     excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
     publishedDateTime: 2021-04-12T20:24:17Z
@@ -195,15 +203,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 61
-  - title: "General availability: Web Application Firewall (WAF) bot protection on Application Gateway "
-    excerpt: "Try the bot protection rule set alongside your OWASP core rule set (CRS), now generally available for Azure Web Application Firewall running on Application Gateway. "
-    publishedDateTime: 2021-07-30T20:51:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-web-application-firewall-waf-bot-protection-on-application-gateway/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
   - title: "General availability: Web Application Firewall (WAF) geomatch custom rules on Application Gateway "
     excerpt: "Try geomatch custom rules to block or allow traffic based on geo-location, now generally available for Azure Web Application Firewall on Application Gateway. "
     publishedDateTime: 2021-07-30T20:51:26Z
@@ -241,6 +240,6 @@ related:
       domain: microsoft.com
     quality: 8
 
-secured: "3u36xilY5XPeqnPZk6vFAgOtUhWKZWHkTLhr95ZpAxZuvoF7T6gUNMPP41HJMOLsLTFzocRomu+fPbxQYyVMWXQiRWVyRE222KbDgKVeQFw6Mes9B1k2TEtK4k6uBiD73Whlqh9ZM+y8tLSPo2t9SBK3NCGS3CHk7TmnCBB2CLDtRzGti8cAwP65P79C5e7klTt4D6+ZZf02xcil25TQGdyZ1/w/QhjzTdvV4nD+Fk22yYeL3lbEy2a1Y3hxAEWXGOEr8yf6YaVgC8vqKXtOW1toyP2mlBafyuWNiTWs5Q694l0VN9Vlv893iVXRY70G2Gw+Nm1ISxPX90aCdiHvumBYB4sAwzj7RRjYM8rHaF8=;MwejWojy/8J5//KfltTU0Q=="
+secured: "aXyqKfx7TmGVDR0zMgVd5WqRNjp8DR/bWZxxpSjk4ghiO2AFYp0dnrSyJ09Cdu/4WDFnZPDoRHfcCeWcU9MJMoPqNx7OYIkIS5X8QnmfdEOPwSS7UPO9CjsvQb/UZZzzM2+512b6jkDa+xzAeGBGBwWZDDh+7lrRal/OU6yqV3sm2+GnoXV4hjUagnR4kmQiM3FVVTAuODx7sFB8GGfy1DE44c5REdMoasYWHZ1nkGiFLlHURNqgSWfH4LaoP6PsObH3oGO+3Mm/cxSioIZSRey02x0VIbRpZrulFRDpwJeRO9j80avg9nof/6GSIeBmkz2qukd5340IG4RVdoQaPGvEI4hS3OZHXeemN5U6YFU=;/GowcsfzxeOR6XJQjVERag=="
 ---
 
