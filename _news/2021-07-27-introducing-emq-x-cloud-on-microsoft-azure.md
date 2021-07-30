@@ -2229,6 +2229,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "8KnJNyrnuy9LJQw/Yib3Xwye6eCo0/kwmj9zKp4cYmqe7eWnnc+LDH5vjVfwwFl2JSC1wQ0GRMY3+GtO5xBzVn1MbhZ3XG6C9RAiwVC9d3hv7Y4gVrM4s5W8Xv1sZM3w4pojDflHROK26LAkbpfCjIBSdTU1p53gXqS89MvxHoE8OcdYgOqLxUzj7xHIYzthSbG6+BfN1w/jgXZbxivKfMiRA4g92u0k8ejP9viPi7jcHF/jVn36bP/z8xE2Mj0C7B0Y8+qI9QHvrdttydy7rVkT5/+NBTidpHSMxXcEDFeCc46L/M86l+5bMqbTJ2JsxBDAMvQEmrrrmCd7hv/jigq5XS2RxRl+EbxzPd/L6I4=;HbqzaXd+FwFnZQOnb4W4Hg=="
+secured: "8nPWugw8V/zInNBT0fw+TNVErIKJJW7pDWiSDjVaYiiN1jgZB0Ip10L5uDeyzH3AeYTBouLed1NYIr/sr9pPh4Td+cJA+Go6cwAU4hixPOMRqudZXb0PxuN54IdYPZUwPCQmoss+2DpIFwmn1b0lWU4sl+MNrIJo6QVjvfXpZ4Fj8ZwvUU4JxEnBJXIXzuBeSQwG0z0ndOlKJ2yDOmULAyTe6YVzC/dxKvRF6D1iqx0kdUKRm0kPOXhUVzr3E5SNCQaF6jqpWapdF2FyZIlpKlTxlNSFeoQPeqtmp4NBKabgv8YVrWLYmP7+e2i9fzrFAC9mGB+dHHUwNdjrqpnSD+zvCKOGWFSQAB4lmZcBOw8=;qdchVWzyMy2VwuqbrapLXw=="
 ---
 
