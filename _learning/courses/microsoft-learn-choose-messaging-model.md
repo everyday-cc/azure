@@ -8,7 +8,7 @@ length: PT45M
 ratings:
   count: 4410
   average: 4.6229024
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - IoT
   - Analytics
 
-secured: "CeAVedt+arkaXcEH3w04YMowlqq3FMXp0YvoTtjc2E1jYjl56QOEQX0aFqqIj3MOQl2dP3R4T3pf07TURowtOPkrw46nNjCNYyQgnOz4wUFSylUiXwBD8Ih8TlXIGsCp0lR024aLQk2VDusY7Tx2IYUUXeM6VmUZbFL91gPf2XBH5SbTI7oeOXJLwIBev9mOvFsLZmXd7OCDZ3fondBMAGmk7/MzyTZH6niI07WI11MysnNRVFDatt35pxWVsIsGPhCYZt10xfWkYzd21Dqb9hWwyTrOT/svzG0H02cQHQ/L7jxJTvkhIrlk9C0Y7dR/5pU8Hb3Ru+i90QA8jBrxFJtw2tRHdsAxgXWCZe+GoGqxAWwuOyqdy1v9b5EwCmpyfyaQ+jXXm73rjgmUKbZQSkZde1iuYoly5eOJ39uyPkc=;yJ7CB7wy8Ua147p8aT6n/g=="
+secured: "dvInT1oXZcj4w6VjaIV0LON2wbD/SNFZo8RW3jJUVCLNpgzNjWPiAIuHJehHPixkROkzgX6ZtLeWScKdtYxZiDxV4ubJs1YkfeeLCPKwwTQU2+f4G0xBY71luEEvTB8n0+qaIPjCLrTVSt9/ahpBrhuRxxL9xSzpgqlTX9ZafC2gGKHW3jjYcV0lErDLLVadC/hnLgXiQndPaq89k1YdZ4H0QO4xlENDqQdoCsMea/qyNZRDMyWJwTUGLKmZUrSfUKKKNZS8e1TNxTW+z4LON8Um49OaGav0tzkkQB8OANswcYfLNKDpBJcd2LXdVH99w5NWrYB/ZaXWNHYviJVpzHluAU04J+lq4vCL2Xk8drJaH2YnUp4abu56eKWHEANM/T+XlmjL3xyiaRBbBTV9G8JxpKSDimOOGiscPfWcxX0=;Ya8wPog4FnVZ/rxG4Ul4vA=="
 ---
 

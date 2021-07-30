@@ -8,7 +8,7 @@ length: PT1H13M
 ratings:
   count: 356
   average: 4.724719
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Management tools
 
-secured: "vzw7qMxgzNuV/7Be72VcrQAdO5EWGjLuKDnQuWlrV0L3zX99bC5UbH6XR8vI0k/OKD+FZ5gxkpwxyxQEx+7mOdkg4kq/DN4b20bqB5cKsZvos4jWZ0A7jKt7PT+gy1CULmL2F3ItdcjfalwumcsV1FapE/UY3K34AfWcTq4+u9YWeNzqKPkyjECs9Lm3UP5i32XLL5IxbzK/WSJByq2jHAIL0oJfcq66WTVDzbHgiLR/4J0j8ltOfzddXgbMOW7nfxJUeocrNemHHPwLp+O+P5jBNp8pzT7VnG8lJKL/wAm8HZYFpngSQkU8bOXo3oPkPYNCQ10Cs3bNMMm4pwvPZqnRpk4Kmjcvd+GIjlnRQMSU/1DJZlAZD1vVCAFNQOg39JKIqR7Q9JgoKJnhP/9J9S5h4TpZt61RnQqhiTxX3sQ=;vxRg/XJuiT8RhxsoB+uaow=="
+secured: "+1Knu5uOL1bPkKzXhiWbtrWTetCrGX16xIHUuVJkGrCdlfO64ZXi5EQbaIX3LPkvGdymZo/ZVVKE7a4uixkhjZ32zw24AEKJGNE1EpZ5WNpeeSNN1+tiQIDCeTDXVt4YIwhrPM+7ziAjjgYERewDc0GPUEuFfIDc6GoAa0T9igwwEkvgrlqlzLDDt7VWDSuTTuMvOsmaqT1tc7SVk51ti8s6cVhXpMiJ8w5OqwbSm58F1QkP6+ovMpWkO698ZU7bZdv9e1wT0CGnV5YNihzt3YI34iUa8J+RkqaLTEAyny1utYokaHiJ9yDkney6UqyYSQ54mKAQCvZn8si/zKvpM9S4PjaRoBbAnmkB3Qjr/7+KOI/sezQMtwsPVHCWDgc2S9Shm5WkdUlJT+4A6hZVBM8c4YTM314VpyJmOJspQhQ=;Av6iVdbzcx1KSF/VROEKPw=="
 ---
 
