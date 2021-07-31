@@ -131,6 +131,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "STL Taps Microsoft Azure for Cloud-Native OSS/BSS"
+    excerpt: "STL this week announced that it will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure"
+    publishedDateTime: 2021-07-31T01:09:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20394-stl-taps-microsoft-azure-for-cloud-native-oss-bss"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/565a5248171893269886f5048571f2d3.jpg?t=20210731_010122"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
     excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
     publishedDateTime: 2021-07-21T12:34:00Z

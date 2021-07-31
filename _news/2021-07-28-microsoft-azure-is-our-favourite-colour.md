@@ -122,6 +122,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "STL Taps Microsoft Azure for Cloud-Native OSS/BSS"
+    excerpt: "STL this week announced that it will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure"
+    publishedDateTime: 2021-07-31T01:09:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20394-stl-taps-microsoft-azure-for-cloud-native-oss-bss"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/565a5248171893269886f5048571f2d3.jpg?t=20210731_010122"
+        width: 752
+        height: 408
+        isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
     publishedDateTime: 2021-07-22T18:05:00Z

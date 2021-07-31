@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
-excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
-publishedDateTime: 2021-07-21T20:16:00Z
-originalUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
-webUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
+title: "STL Taps Microsoft Azure for Cloud-Native OSS/BSS"
+excerpt: "STL this week announced that it will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure"
+publishedDateTime: 2021-07-31T01:09:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/20394-stl-taps-microsoft-azure-for-cloud-native-oss-bss"
+webUrl: "https://www.thefastmode.com/technology-solutions/20394-stl-taps-microsoft-azure-for-cloud-native-oss-bss"
 type: article
-quality: 70
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - Azure
-  - Security
-  - Identity
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
-    width: 647
-    height: 450
+  - url: "https://www.thefastmode.com/media/k2/items/src/565a5248171893269886f5048571f2d3.jpg?t=20210731_010122"
+    width: 752
+    height: 408
     isCached: true
 
 related:
@@ -67,6 +65,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
+    excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
+    publishedDateTime: 2021-07-21T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 70
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "KnowledgeLake Now Supports Microsoft Azure Government"
     excerpt: "KnowledgeLake, a provider of document capture and processing solutions, now supports the Microsoft Azure for Government platform to securely automate critical business processes while ensuring regulatory compliance in the cloud. Organizations using Azure ..."
@@ -123,20 +135,6 @@ related:
       - url: "https://www.valuewalk.com/wp-content/uploads/2019/11/microsoft_1573064972.jpg"
         width: 1280
         height: 960
-        isCached: true
-  - title: "STL Taps Microsoft Azure for Cloud-Native OSS/BSS"
-    excerpt: "STL this week announced that it will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure"
-    publishedDateTime: 2021-07-31T01:09:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20394-stl-taps-microsoft-azure-for-cloud-native-oss-bss"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/565a5248171893269886f5048571f2d3.jpg?t=20210731_010122"
-        width: 752
-        height: 408
         isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
@@ -213,6 +211,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "Emf6JUxh68D/MR0/zjQmMXrwMbHDBhmataDz2mr3C2rCy6sVWFt+idu0Ae9cvFfQ4Tv/okN/kTmy8TIwUkNSZNC9Rl978kACL+4+V4grQdcm6BdUUVrntf3iDmOsACCclWveCzzC/3T7NxIJfYl3lpiJA+2hlTOPygSF0wloJVel6J4UhZY9kfSvee5h5xzaLtr5pBOB3qmLek2+Hw9IM6zvpEOb2MbfIgpb/2SY2WsEB/7RQ1PqYbseumaSg+VAA4pWgwgC+wGzvinbvfAk/ktGAsIEHe/DX8StFto2Lml8zHHV7xzXzZya98UJYHBOrnH7OtzvITQUKEgrrH1IYsr50EffwBtDuNmPpEutfh8Wp//9tAYkOP993/bir3pl3opWbzoW7en2/Y1YqSJ9deUGvQllx5Al6OrSNDzkERlHVVUwd00JsBBrljbSbJMd3z0Px7jwsyOQIeXZY/ONza0aqqlqaSthZ0O+LS2f6NjOoRRkjKchBSUSJ/UtqMTTYuyvUDc9jP8KUrTNj4QnoQ==;aPnNXdRVO4rzhrZg7oW+5A=="
+secured: "VUZrcJkzmYynVgsrkS9yR+flaJV0BeLaNMKDNDLAohcpbH0Gv0pEIvMr/Ng+P5NSyH55fVj3fMc2frASt0rgN74i46tl9Su51D21B3eSgMBTAXFJnSRymUYckikXTwJhVAUxh2h+HLwYhKJoZD2s30/N/wJAHwqIKcH6O9qnWd38+xcuGzIJ7QUKJnwMTxpcXhXBOR5xICp7PCp6CgnAnWh0boaTF79bA6CKg4lgCUncKqCf1fVWbtmSNZIwM9q71KrS5Ak9GvRrMAHFBT/udJ1wD1p14LkScW3YAhP44C9JvlAQRG2WbKZUZUqhP9hHQVxollWeDJHH2VliEDm+MdF4l0S9bY57O19TB212rTU=;6cEcB8/aR2iKVbcVio8E+Q=="
 ---
 
