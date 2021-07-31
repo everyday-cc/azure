@@ -4,6 +4,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-mlops-iot-edge.md",
+      "title": "Introduction to MLOps for IoT Edge",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-mlops-iot-edge/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-mlops-iot-edge/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 257,
+        "average": 4.7198443
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-mlops-iot-edge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-natural-language-processing.md",
       "title": "Introduction to Natural Language Processing with PyTorch",
       "excerpt": "Learn how to handle language and solve natural language processing tasks with PyTorch",
@@ -96,8 +139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-arc-enabled-kubernetes/",
       "length": "PT44M",
       "ratings": {
-        "count": 27,
-        "average": 4.851852
+        "count": 28,
+        "average": 4.857143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -139,8 +182,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-arc-for-servers/",
       "length": "PT30M",
       "ratings": {
-        "count": 28,
-        "average": 4.821429
+        "count": 29,
+        "average": 4.827586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -223,8 +266,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-arc/",
       "length": "PT37M",
       "ratings": {
-        "count": 51,
-        "average": 4.8431373
+        "count": 52,
+        "average": 4.8461537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -663,8 +706,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-hybrid-services/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 30,
-        "average": 4.8333335
+        "count": 31,
+        "average": 4.83871
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1133,48 +1176,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-cybersecurity.md",
-      "title": "Introduction to cybersecurity",
-      "excerpt": "Evaluate how to defend against the most common cyberthreat.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-cybersecurity/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-cybersecurity/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 10,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
