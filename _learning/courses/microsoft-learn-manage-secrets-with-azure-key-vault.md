@@ -8,7 +8,7 @@ length: PT46M
 ratings:
   count: 2021
   average: 4.593271
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Compute
   - Web
 
-secured: "iQUEg6KTfA+IgpJWd//zI4KbjktnKnaBapgdcoKAx7dgMSUr8ZelkigNAXg5ABoqJamKh83/CyOmv4HFSHdlyxU8srXRJCmXyXNdthqKglqQS7QIOjwpksBZDly6G7AfjNaZnmqL9mrfrxF9fNhjrZWxChbju+utz8CMzHZ9M4thklpCLuWXLfTDHBy81/4mjzL3NvYRYu1d3E2FVkbOALcp9AQL12xgT3aWVgJ+gTqge8jrY29epx8uG1uQLxiaMJ5eK2nzq0JBPRb9uL+cPQJ6u0sURgmZOK8m4o53syfUgF+j6OzGA0i6U7NMOVS77Jud+0zmPHIPUlMKhmMp0h6aZwKC+ixnRTf4Lbhak220+zjYZqM21MWUBnozoUhFown01SXuQWNK9PM3cKnyMhxCKvEmj+J43bvScSBYYCs=;EMWA7vYfPrF+u0tDgSV29Q=="
+secured: "NIYBWhg1QdnSBpcoFDNlU2/0cTG52H0LS2+UsP6yY6oYxsq6GskP0QLefcRSpdfNPuZUuLoXYEUt6cMqfSGgBxAPD4tXwTPMN2egyBMUDAO/CmmD/31ec5A+nKwJDgz/LJkAQN8XaaSLysQc2Y/kBU7GpsjurDBP8TypFEmWF/b9jjl/VNllf2ocyxxgTgskEqsA4Ai6tLfAt75Mvky13jWIKajaPAf6F3Z8wfx8lHCWxk4XoqwjxL61asOqmyvHmqqO80uytGkaKYZcVS5YAFPbvHlpEegCIluYlzIudP9z9XulGfniTQwgtbxUuvU1ZQNEZbG8ZIrfmohxSacFZ9eNvc12/yy5EDveC5x5SvVs0JcK88ZKqW+2lOGKqNzj1qSR8OXIhmyrTV89fLc9NxK36Whi5GGLtpt7+7pIa0M=;QezjvQQNCU3FgU27pEjGHw=="
 ---
 
