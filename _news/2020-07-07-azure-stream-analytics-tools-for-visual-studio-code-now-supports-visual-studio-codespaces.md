@@ -228,14 +228,14 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 49
-  - title: "SPIN Analytics and RISKROBOT™, Now Available in the Microsoft Azure Marketplace"
-    excerpt: "NEW YORK--(BUSINESS WIRE)--SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-07-21T12:26:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210721005070/en/SPIN-Analytics-and-RISKROBOT™-Now-Available-in-the-Microsoft-Azure-Marketplace"
+  - title: "SPIN Analytics and RISKROBOT, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SPIN Analytics, today announced the availability of RISKROBOT ™ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. SPIN Analytics customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2021-07-21T11:00:00Z
+    webUrl: "https://www.financialbuzz.com/spin-analytics-and-riskrobot-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 30
 
 secured: "mvzQVitsrb79uUlBeXZS1c+hecJVLPAGNph++3SGnKZ9P++a0sv28OGX4odb9vzX+pChU9e0djsUaPMMIGceBi6GZ8J2RYVeQ/s6KjMgZ+75N4a+z82jtU1rVPp9ggNsjDm/JVrkBQcGp+RcYFmPb3kO3gZc7WUs28WT9s+QwDeCAL9qFG5C6NxvZg2QmAC+qlRkmUiheSDeXR4wRulV8Fw0OT1zhK/xwEbuF3baaKeqb2hJpGx8ufoMKH7YkPxvTZEPBnpQHUryEXL8cYAkVtw7dsSw9ouYL6utd1P0+bFDLaXYrO1+6wwxUUbtvpf8SIgieKLrPzHRq5jalTylhw==;G5ZSwcrLF85Jz8BaMMpVUA=="
