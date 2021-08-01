@@ -4,6 +4,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-search-for-content-security-compliance-center.md",
+      "title": "Search for content in the Microsoft 365 compliance center",
+      "excerpt": "Search for content in the Microsoft 365 compliance center",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-search-for-content-security-compliance-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/search-for-content-security-compliance-center/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 5,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-secure-aspnet-core-identity.md",
       "title": "Secure an ASP.NET Core web app with the Identity framework",
       "excerpt": "Add authentication and authorization to an ASP.NET Core web app using the Identity framework.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 1303,
-        "average": 4.507291
+        "count": 1304,
+        "average": 4.5069017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -314,8 +357,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4911,
-        "average": 4.5434737
+        "count": 4912,
+        "average": 4.5435667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1009,8 +1052,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
       "length": "PT44M",
       "ratings": {
-        "count": 2350,
-        "average": 4.534468
+        "count": 2352,
+        "average": 4.5335884
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1215,48 +1258,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-support-hybrid-clouds.md",
-      "title": "Support data classification with private and hybrid clouds",
-      "excerpt": "Discussion of the private and hybrid cloud solutions for government customers to enforce data sovereignty, meet compliance requirements, and protect sensitive data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-support-hybrid-clouds/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/support-hybrid-clouds/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 5,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
