@@ -43,45 +43,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-cosmos-db-update-mongodb-40-notebooks-and-continuous-backup-azure-friday.md",
-      "title": "Azure Cosmos DB update: MongoDB 4.0, notebooks, and continuous backup | Azure Friday",
-      "excerpt": "Kirill Gavrylyuk joins Scott Hanselman to provide another Azure Cosmos DB update with several members of the Azure Cosmos DB engineering team.  0:00 – Introduction 2:20 – MongoDB 4.0 (Gahl Levy) 12:30 – Azure Cosmos DB notebooks (Tanuj Mittal) 22:43 – Continuous backups (Govind Kanshi) 31:25 – Wrap-up",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-cosmos-db-update-mongodb-40-notebooks-and-continuous-backup-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-cosmos-db-update-mongodb-40-notebooks-and-continuous-backup-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=2gydxodDS_I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2gydxodDS_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M35S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-05-21T08:31:41-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2gydxodDS_I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -112,8 +73,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 20531,
-            "average": 4.76723
+            "count": 20534,
+            "average": 4.767264
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -157,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 15920,
-            "average": 4.6351757
+            "count": 15921,
+            "average": 4.6351986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +204,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 19076,
-            "average": 4.7315474
+            "count": 19077,
+            "average": 4.731509
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -315,8 +276,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 19076,
-        "average": 4.7315474
+        "count": 19077,
+        "average": 4.731509
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -457,8 +418,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 13579,
-            "average": 4.7664776
+            "count": 13583,
+            "average": 4.7665462
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -709,8 +670,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9711,
-            "average": 4.6675935
+            "count": 9712,
+            "average": 4.667525
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1727,8 +1688,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 19076,
-            "average": 4.7315474
+            "count": 19077,
+            "average": 4.731509
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1933,8 +1894,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
           "length": "PT44M",
           "ratings": {
-            "count": 1454,
-            "average": 4.7599726
+            "count": 1455,
+            "average": 4.7601376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4490,6 +4451,42 @@
         "Azure",
         "Databases",
         "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
+      "title": "Secure your Azure SQL Database",
+      "excerpt": "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-your-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 4911,
+        "average": 4.5434737
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases"
       ]
     }
   ],
