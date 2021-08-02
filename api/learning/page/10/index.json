@@ -4,49 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-azure-virtual-networks.md",
-      "title": "Introduction to Azure virtual networks",
-      "excerpt": "In this module, you will learn how to design and implement fundamental Azure Networking resources such as virtual networks, public and private IPs, DNS, virtual network peering, routing, and Azure Virtual NAT.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-virtual-networks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-virtual-networks/",
-      "length": "PT1H18M",
-      "ratings": {
-        "count": 35,
-        "average": 4.6857142
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
       "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
       "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 13037,
-        "average": 4.7670474
+        "count": 13038,
+        "average": 4.7669888
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -89,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 6482,
-        "average": 4.7389693
+        "count": 6483,
+        "average": 4.73901
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -122,6 +79,49 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-prepare-to-develop-ai-solutions-azure.md",
+      "title": "Prepare to develop AI solutions on Azure",
+      "excerpt": "Prepare to develop AI solutions on Azure",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-prepare-to-develop-ai-solutions-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-develop-ai-solutions-azure/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 30,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     },
     {
@@ -332,8 +332,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 8195,
-        "average": 4.7550945
+        "count": 8197,
+        "average": 4.755154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -495,8 +495,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 4104,
-        "average": 4.545809
+        "count": 4106,
+        "average": 4.54603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -619,8 +619,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 16343,
-        "average": 4.724408
+        "count": 16346,
+        "average": 4.7244587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -662,8 +662,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 3881,
-        "average": 4.732028
+        "count": 3882,
+        "average": 4.7320967
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -748,8 +748,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 9715,
-        "average": 4.6676273
+        "count": 9716,
+        "average": 4.6674557
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -785,8 +785,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "PT25M",
       "ratings": {
-        "count": 6816,
-        "average": 4.73973
+        "count": 6817,
+        "average": 4.739768
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -827,8 +827,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
       "length": "PT27M",
       "ratings": {
-        "count": 288,
-        "average": 4.861111
+        "count": 289,
+        "average": 4.861592
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -956,8 +956,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 2551,
-        "average": 4.731086
+        "count": 2553,
+        "average": 4.7312965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1032,8 +1032,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 6350,
-        "average": 4.739055
+        "count": 6354,
+        "average": 4.739062
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1152,8 +1152,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 8141,
-        "average": 4.6778035
+        "count": 8143,
+        "average": 4.67776
       },
       "provider": {
         "name": "Microsoft Learn",

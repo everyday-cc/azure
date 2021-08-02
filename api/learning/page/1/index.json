@@ -108,8 +108,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 85399,
-            "average": 4.795419
+            "count": 85429,
+            "average": 4.795456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -150,8 +150,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 30888,
-            "average": 4.789141
+            "count": 30911,
+            "average": 4.7892337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -193,8 +193,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 19110,
-            "average": 4.7314496
+            "count": 19118,
+            "average": 4.7315097
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -239,8 +239,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 20582,
-            "average": 4.767661
+            "count": 20595,
+            "average": 4.7677593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -304,8 +304,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 85399,
-        "average": 4.795419
+        "count": 85429,
+        "average": 4.795456
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -378,15 +378,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-connect-common-event-format-cef-logs-to-azure-sentinel.md",
-      "title": "Connect Common Event Format logs to Azure Sentinel",
-      "excerpt": "Connect Common Event Format logs to Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-common-event-format-cef-logs-to-azure-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-common-event-format-logs-to-azure-sentinel/",
+      "path": "_learning/courses/microsoft-learn-implement-azure-backup-for-sap-workloads-azure-vms.md",
+      "title": "Implement Azure Backup for SAP workloads on Azure VMs",
+      "excerpt": "Implement Azure Backup for SAP workloads on Azure VMs",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-azure-backup-for-sap-workloads-azure-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-azure-backup-sap-workloads-azure-virtual-machines/",
       "length": "PT20M",
       "ratings": {
-        "count": 49,
-        "average": 4.857143
+        "count": 47,
+        "average": 4.808511
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -417,19 +417,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security"
+        "Management tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-write-subqueries.md",
-      "title": "Write Subqueries in T-SQL",
-      "excerpt": "Write Subqueries in T-SQL",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-write-subqueries/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-subqueries/",
-      "length": "PT50M",
+      "path": "_learning/courses/microsoft-learn-move-data-with-azure-data-box.md",
+      "title": "Move large amounts of data to the cloud by using Azure Data Box family",
+      "excerpt": "Learn how to move large amounts of data to the cloud by using Azure Data Box devices.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-move-data-with-azure-data-box/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
+      "length": "PT25M",
       "ratings": {
-        "count": 75,
-        "average": 4.8933334
+        "count": 1820,
+        "average": 4.743956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -449,6 +449,50 @@
       "heat": 130,
       "images": [
         {
+          "url": "https://docs.microsoft.com/learn/achievements/move-data-with-azure-data-box-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-plan-your-premises-infrastructure-for-microsoft-365.md",
+      "title": "Plan your on-premises infrastructure for Microsoft 365",
+      "excerpt": "Plan your on-premises infrastructure for Microsoft 365",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-your-premises-infrastructure-for-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-premises-infrastructure-for-microsoft-365/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 23,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
@@ -460,45 +504,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-better-azure-content-programs-services-through-applied-data-science-azure-friday.md",
-      "title": "Better Azure content, programs & services through applied data science | Azure Friday",
-      "excerpt": "Lisa Cohen joins Scott Hanselman to explain how Microsoft uses data science to help Azure customers.  Learn about content, programs, and services to guide you on your cloud journey while getting a glimpse behind the scenes into how data drives product investments.  0:00 – Opening 0:25 – Introduction",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-better-azure-content-programs-services-through-applied-data-science-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-better-azure-content-programs-services-through-applied-data-science-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=Qll-wtjIobU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qll-wtjIobU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M12S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-18T01:13:32-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Qll-wtjIobU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
+        "Identity"
       ]
     },
     {
@@ -532,8 +538,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 85399,
-            "average": 4.795419
+            "count": 85429,
+            "average": 4.795456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -574,8 +580,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 51571,
-            "average": 4.820151
+            "count": 51598,
+            "average": 4.8201866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -618,8 +624,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 30888,
-            "average": 4.789141
+            "count": 30911,
+            "average": 4.7892337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -682,8 +688,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 51571,
-        "average": 4.820151
+        "count": 51598,
+        "average": 4.8201866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -726,8 +732,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 30888,
-        "average": 4.789141
+        "count": 30911,
+        "average": 4.7892337
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -759,6 +765,198 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-azure-tips-and-tricks.md",
+      "title": "Azure Tips and Tricks",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-azure-tips-and-tricks/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-azure-tips-and-tricks/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-how-to-use-flexible-server-in-azure-database-for-mysql-azure-tips-and-tricks.md",
+          "title": "How to use Flexible Server in Azure Database for MySQL | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Flexible Server in Azure Database for MySQL.      For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://aka.ms/att/free",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-use-flexible-server-in-azure-database-for-mysql-azure-tips-and-tricks/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-use-flexible-server-in-azure-database-for-mysql-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=NQi28CE5yWQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NQi28CE5yWQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M10S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-27T08:00:04-07:00",
+          "heat": 132,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/NQi28CE5yWQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks.md",
+          "title": "How to build Blazor and C# APIs in Azure Static Web Apps | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to build Blazor and C# APIs in Azure Static Web Apps.       For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=tmDEu2iytNU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tmDEu2iytNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M37S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-20T08:00:08-07:00",
+          "heat": 92,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/tmDEu2iytNU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks.md",
+          "title": "How to build serverless APIs with Azure Functions | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to build serverless APIs with Azure Functions.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://aka.ms/att/free",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=_9moXcR2Suo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_9moXcR2Suo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M21S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-06T08:00:44-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/_9moXcR2Suo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Serverless"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks.md",
+          "title": "How to perform opinion mining with Azure Cognitive Services | Azure Tips and Tricks",
+          "excerpt": "In this edition of Azure Tips and Tricks, learn how to perform opinion mining with Microsoft Azure Cognitive Services.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks/",
+          "originalUrl": "https://youtube.com/watch?v=fP2rrDhqCv4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fP2rrDhqCv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M59S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-06-29T08:00:06-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/fP2rrDhqCv4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 165,
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NQi28CE5yWQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -827,8 +1025,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 142651,
-            "average": 4.7030234
+            "count": 142652,
+            "average": 4.7030253
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1136,8 +1334,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 20582,
-        "average": 4.767661
+        "count": 20595,
+        "average": 4.7677593
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1174,198 +1372,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-azure-tips-and-tricks.md",
-      "title": "Azure Tips and Tricks",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-azure-tips-and-tricks/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-how-to-use-flexible-server-in-azure-database-for-mysql-azure-tips-and-tricks.md",
-          "title": "How to use Flexible Server in Azure Database for MySQL | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Flexible Server in Azure Database for MySQL.      For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://aka.ms/att/free",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-use-flexible-server-in-azure-database-for-mysql-azure-tips-and-tricks/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-use-flexible-server-in-azure-database-for-mysql-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=NQi28CE5yWQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NQi28CE5yWQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M10S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-27T08:00:04-07:00",
-          "heat": 132,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/NQi28CE5yWQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks.md",
-          "title": "How to build Blazor and C# APIs in Azure Static Web Apps | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to build Blazor and C# APIs in Azure Static Web Apps.       For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=tmDEu2iytNU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tmDEu2iytNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M37S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-20T08:00:08-07:00",
-          "heat": 85,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/tmDEu2iytNU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks.md",
-          "title": "How to build serverless APIs with Azure Functions | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to build serverless APIs with Azure Functions.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://aka.ms/att/free",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=_9moXcR2Suo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_9moXcR2Suo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M21S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-06T08:00:44-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/_9moXcR2Suo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Serverless"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks.md",
-          "title": "How to perform opinion mining with Azure Cognitive Services | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to perform opinion mining with Microsoft Azure Cognitive Services.     For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=fP2rrDhqCv4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fP2rrDhqCv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT2M59S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-06-29T08:00:06-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/fP2rrDhqCv4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 165,
-      "heat": 102,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NQi28CE5yWQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -1396,8 +1402,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 20582,
-            "average": 4.767661
+            "count": 20595,
+            "average": 4.7677593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1441,8 +1447,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 15950,
-            "average": 4.6352353
+            "count": 15958,
+            "average": 4.6352925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1484,8 +1490,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 14075,
-            "average": 4.773215
+            "count": 14084,
+            "average": 4.7732887
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1527,8 +1533,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 19110,
-            "average": 4.7314496
+            "count": 19118,
+            "average": 4.7315097
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1622,8 +1628,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 9194,
-            "average": 4.808571
+            "count": 9203,
+            "average": 4.808758
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1664,8 +1670,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/",
           "length": "PT27M",
           "ratings": {
-            "count": 10077,
-            "average": 4.8003373
+            "count": 10082,
+            "average": 4.8004365
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1724,8 +1730,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/",
       "length": "PT27M",
       "ratings": {
-        "count": 10077,
-        "average": 4.8003373
+        "count": 10082,
+        "average": 4.8004365
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1789,8 +1795,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 13604,
-            "average": 4.7662454
+            "count": 13606,
+            "average": 4.7662797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1832,8 +1838,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 9851,
-            "average": 4.785504
+            "count": 9855,
+            "average": 4.7854896
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1874,8 +1880,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 9194,
-            "average": 4.808571
+            "count": 9203,
+            "average": 4.808758
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2003,8 +2009,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 13604,
-            "average": 4.7662454
+            "count": 13606,
+            "average": 4.7662797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2046,8 +2052,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3891,
-            "average": 4.761501
+            "count": 3897,
+            "average": 4.7616115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2089,8 +2095,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43657,
-            "average": 4.719747
+            "count": 43662,
+            "average": 4.719756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2173,6 +2179,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks.md",
+      "title": "How to build Blazor and C# APIs in Azure Static Web Apps | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to build Blazor and C# APIs in Azure Static Web Apps.       For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=tmDEu2iytNU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tmDEu2iytNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M37S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-20T08:00:08-07:00",
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tmDEu2iytNU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -2203,8 +2248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 11970,
-            "average": 4.79198
+            "count": 11975,
+            "average": 4.791983
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2246,8 +2291,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 12967,
-            "average": 4.7842216
+            "count": 12974,
+            "average": 4.784338
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2289,8 +2334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 9003,
-            "average": 4.7854047
+            "count": 9010,
+            "average": 4.7855716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2336,8 +2381,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 9805,
-            "average": 4.7305455
+            "count": 9808,
+            "average": 4.730628
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2440,8 +2485,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
       "length": "PT22M",
       "ratings": {
-        "count": 10069,
-        "average": 4.772073
+        "count": 10075,
+        "average": 4.772208
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2584,8 +2629,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 19411,
-            "average": 4.7645664
+            "count": 19422,
+            "average": 4.7645454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2646,8 +2691,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 15950,
-        "average": 4.6352353
+        "count": 15958,
+        "average": 4.6352925
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2689,8 +2734,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 19411,
-        "average": 4.7645664
+        "count": 19422,
+        "average": 4.7645454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2725,45 +2770,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks.md",
-      "title": "How to build Blazor and C# APIs in Azure Static Web Apps | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to build Blazor and C# APIs in Azure Static Web Apps.       For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=tmDEu2iytNU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tmDEu2iytNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M37S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-07-20T08:00:08-07:00",
-      "heat": 85,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tmDEu2iytNU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-examine-privacy-compliance-data-protection-standards.md",
       "title": "Examine privacy, compliance, and data protection standards on Azure",
       "excerpt": "Learn about Microsoft's commitment to privacy, how Azure adheres to common regulatory and compliance standards, and additional considerations government agencies need to make.",
@@ -2771,8 +2777,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
       "length": "PT27M",
       "ratings": {
-        "count": 8619,
-        "average": 4.7526393
+        "count": 8624,
+        "average": 4.752667
       },
       "provider": {
         "name": "Microsoft Learn",
