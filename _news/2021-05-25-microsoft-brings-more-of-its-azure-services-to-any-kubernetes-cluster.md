@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
 type: article
 quality: 114
-heat: 1234
+heat: 1254
 published: true
 
 provider:
@@ -316,6 +316,20 @@ related:
       - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/shivir1-1621432680596.png "
         width: 800
         height: 400
+        isCached: true
+  - title: "Arinco gains Kubernetes on Microsoft Azure specialisation"
+    excerpt: "Melbourne’s Arinco claims to have become the first Australian-headquartered Microsoft partner to gain the vendor’s Kubernetes on Azure specialisation."
+    publishedDateTime: 2021-08-02T04:51:00Z
+    webUrl: "https://www.arnnet.com.au/article/690209/arinco-gains-kubernetes-microsoft-azure-specialisation/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/arinco_-_chris_p__david_l.jpg"
+        width: 800
+        height: 500
         isCached: true
   - title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
     excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"

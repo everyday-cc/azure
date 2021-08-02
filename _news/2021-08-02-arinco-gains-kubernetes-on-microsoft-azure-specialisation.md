@@ -1,28 +1,27 @@
 ---
 category: news
-title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
-excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
-publishedDateTime: 2021-05-30T11:47:00Z
-originalUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
-webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
-ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
-cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+title: "Arinco gains Kubernetes on Microsoft Azure specialisation"
+excerpt: "Melbourne’s Arinco claims to have become the first Australian-headquartered Microsoft partner to gain the vendor’s Kubernetes on Azure specialisation."
+publishedDateTime: 2021-08-02T04:51:00Z
+originalUrl: "https://www.arnnet.com.au/article/690209/arinco-gains-kubernetes-microsoft-azure-specialisation/"
+webUrl: "https://www.arnnet.com.au/article/690209/arinco-gains-kubernetes-microsoft-azure-specialisation/"
 type: article
-quality: 57
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: CoinTelegraph
-  domain: cointelegraph.com
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Azure
+  - Containers
 
 images:
-  - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
-    width: 740
-    height: 493
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/arinco_-_chris_p__david_l.jpg"
+    width: 800
+    height: 500
     isCached: true
 
 related:
@@ -282,6 +281,22 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 57
+  - title: "As Microsoft Azure closes shop, ConsenSys Quorum opens up to new users"
+    excerpt: "Could the migration from Microsoft’s Azure Blockchain to ConsenSys’ Quorum Blockchain Service be good news? Is this where the enterprise blockchain industry is heading?"
+    publishedDateTime: 2021-05-30T11:47:00Z
+    webUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users"
+    ampWebUrl: "https://cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/as-microsoft-azure-closes-shop-consensys-quorum-opens-up-to-new-users/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 57
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvNjMzOWFlOGMtYTg5Yy00YjRmLWIxYjUtZWUzNDMyMzQwNTc0LmpwZw==.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
     excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
     publishedDateTime: 2021-03-05T18:29:00Z
@@ -311,20 +326,6 @@ related:
       - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/shivir1-1621432680596.png "
         width: 800
         height: 400
-        isCached: true
-  - title: "Arinco gains Kubernetes on Microsoft Azure specialisation"
-    excerpt: "Melbourne’s Arinco claims to have become the first Australian-headquartered Microsoft partner to gain the vendor’s Kubernetes on Azure specialisation."
-    publishedDateTime: 2021-08-02T04:51:00Z
-    webUrl: "https://www.arnnet.com.au/article/690209/arinco-gains-kubernetes-microsoft-azure-specialisation/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/arinco_-_chris_p__david_l.jpg"
-        width: 800
-        height: 500
         isCached: true
   - title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
     excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
@@ -759,6 +760,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "3IzbiR7M8XMWnYPOcaDKW6rH0IbXCpYjtAi3KRJax8P9WhPrVyuZmXBh8jQq0aiGe0viUBUxZXiy9dISNnwEaO2qq+j4cuOzckSBRWzsHcSbpqyCnhGhlb3erYAS3QAIhgOZObDjlYct4l3cznFGMg/d6PFiEemPsA48N7wq/soZMwh4waCzEUj4uUc9norIBHPfK7WNuPqDAFv98oc9Kay2JKSWXDIOCWHPQe0Lkfxojm450XWnAuenJUQWqG//bwsgzX4U9GoP7MQTvD7jrJUoCFrT5SEzpfiLg8C4wpgRKbqHBM/+2sMHi085qFrTzqX09HbQpli6NbtQpoPuzunFnkaxY5XlVPL05vgSWDkCb64eGp4r7fMNRcq/VfLkPEsTpZmkCEZ5G6Ojh0z9sfnRfJxIgOqYxxYpPiynM0selFRX+MzQVtcO62KCfYylJAwBGD4S6HaQmLuRbCImJvzRhrH7/eKp/DDRNMza6tbRQI0vSieG496UBqAXprn/giwlvVTlr1VpZWga6qpjoQ==;vf9y9L7R9gT8JyTHBY8Yew=="
+secured: "+I4DBlj0LUyfcpS7pt/Ckx5y2HCfrN9Tc1ZsQ1BwxrB+raO8hbX00nz5AODXg2cUHqqt7z23wW6UJMhcNyWJWywxW5u2FwHNtVl+Nv8QsmY7S0p5GJiK9iO+G0sPky20yQrVfRjdmBcOZsa3rkpUo0pqJC1MiJJxHznWvE8ZGbAsJfvDUesDHZJUjI5Bt2SwIRLLDF98eTINL2NKZEpsLUt6fhVJTIoCs1DYgr2EnOVtcQbcEERbXE/r/muV8dke0e2rBCxc9mdOu1zOGh7IQWTBrJcumi+F9uiw3g/9qV5ZWMXGEbCGMxVhrqE2SjGxgx4q6oC+RWVoXSYBv268E6nGDB8jMoeQhO/qcX/J7EY=;r1Is4bjQBfSatN1XcqBkUg=="
 ---
 

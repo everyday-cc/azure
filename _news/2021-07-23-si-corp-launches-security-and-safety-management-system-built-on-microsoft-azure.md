@@ -1,28 +1,22 @@
 ---
 category: news
 title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
-publishedDateTime: 2021-07-22T18:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
+excerpt: "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure."
+publishedDateTime: 2021-07-22T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
   - Security
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
@@ -217,6 +211,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "VGTvOGkOeQMIRn5fDT/aMPufiUwiXh2QQDZEYPOzZp/dmSp/TfCCpdWKO5prduPG+3wNrVk0020VQps9CAT9qlkUyJBCM1Yd2F9m6C8S6ZxIZsFd6wa0YB3IHTWLh80Cpc7/F5YI9xODIbw/y/SkBVR4sHSKWDfB5AzxfLZfJPd/6EMIz+T9pjatbFdIgxXLjmVRYq/HjH8rflJqsY5WgE9gHK1873XgvWuRm8HbSRuyjvANz/aigVKO1vBlY+Crmu7mpANFcOMjPA2SRbYY9Xvac2NDf4FoJQN1Hg/oZOaCEm85eLku7+roLdB9bt1Vo8hYLwklyMy7eyU3gPHi6hV6l7vrvUv6ANBR6HpcmVQ=;4F+g0kbdoly9hoD3LF569g=="
+secured: "CzL+uzJFu3zRpIHyul2NXr9oktr5/7xi389MqdbloiDCwYCvhfq3DvXCQSe8KRCh6QFzE/x/iqx7WZB3q8iWTjHGXhhxJ1ecsGCrtzkDcZC26OgGCL9OatFn6Q7bzGOLUHkeiikJeI5vuBxB880gswaO7kj7rQG4+OoGdDc/awwK75+UoRm5DtpQIz1bWvwjdTgk4GIqnWBwQOFQPADH6KdPZMCrld+LK2MwFurKbrI4+5Ag92WqvrKIsdhOt8Z+c3EQP0qXcTt75Ln8Y6bB3/36/OUcbg3nS8Da8TBsccEEyRa4gr6FY/PrqWeK7a3b1SaoEZFDosPAGV5luBgUu+jcJhnRfgJFladuiCGObqk=;7rW5eUsrepxZvoNXgFCiBA=="
 ---
 
