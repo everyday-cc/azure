@@ -4,7 +4,7 @@ excerpt: "Data Integration is becoming more and more complex as customer require
 originalUrl: https://youtube.com/watch?v=9tg5Rsoi5ic
 type: video
 price: Free
-length: PT7M40S
+length: PT7M39S
 publishedDateTime: 2018-07-16T18:53:10Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DorjO+Kzld6SDWK68osWYesJUiop3iCNiNYgyAxO8qfssPXZ3jPyLKYJcvntMyzrUSD1nyuS7myOj4HFYaVZMxWZbtmfdDvuJnWsjSN2bSEsiY9vsqALPUf82LCLh0LqKXHSIVgm5Iw57FEDc4gCemi41lR5bzXlgSLsghO/HAfCogRI83jPm4oB0B/sVFmBFE4UiUeRsL4vikAbh+VShgRLvrU1kexQrGy5ds6LzlGIZylOw6gGgDH5hBStHtkY0WzJM4mtxKUG+Mo91N8YVT/UROR7bjZv9NfULfleE6jg/3iBh3K7QD+ADAff5znu/3SybGNrqjTyJKF8Ip3sZZMnbeZYRdqqdwiebfqqlnFxoXRE2QXFsU5GO3xFzOaqCCotuZsIyAzWbBRQsjkZXciK3TXEhY5floVmKGo+BN0=;LOiYulfGvJWU8Dy2GoWE1w=="
+secured: "Qjhtm2IJlGpV67cDj99SypH9S3gJ2ZJmpcixk/zMpYOXEgZn1H/7rvxWs9jCdP2WMoIThW0r1dSKnAoO4up7bJJSQC08/prSPrcZ2fwq1PUwv3ac3DGU9E0fvffT3i7VJ9IGwNdvaLCc0BT0FfLLk7BUtUKk9AU0XBbGMKw9W13ezNhvJmkgBofYGzsINbjBvc1Qx1zdmxOCR9mybxHYSEDS3qAq6Dp6Jc3mkdeQUIufq2x5PDRgmcu9PUDUICFKIvH77SiivIN4MULUIO7xdZiZ+owX3XvgjpAX7yWbyEGPoVzmzPcYIx8Zk+Vy1HdONRi1lDLV4KGyUWF5QG2jfe3acnBLLZl0xfzNITVwtNnYC9qOBEKfigThb6B4cV2xICf39vw64FkU1QnCJOf0DC8RpRCsJGYB9bEhhuoefok=;hrVug1xsMr+/aYkjXbhcOw=="
 ---
 
