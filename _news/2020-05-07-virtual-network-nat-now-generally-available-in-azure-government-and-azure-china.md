@@ -35,6 +35,20 @@ related:
         width: 800
         height: 468
         isCached: true
+  - title: "Advancing Azure Virtual Machine availability transparency"
+    excerpt: "Now, in addition to getting a fast notification when a VM’s availability is impacted, customers can expect a root cause to be added at a later point once our automated Root Cause Analysis (RCA) system identifies the failing Azure platform component that led to the VM failure."
+    publishedDateTime: 2021-08-02T09:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-transparency/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/993840fc-e567-46bc-a3d1-c89e1f36cb51.png"
+        width: 1430
+        height: 974
+        isCached: true
   - title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
     excerpt: "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets"
     publishedDateTime: 2020-05-11T12:00:03Z

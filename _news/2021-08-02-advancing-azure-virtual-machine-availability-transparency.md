@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Qualys Delivers Vulnerability Management to Microsoft Azure Security Center for Virtual Machines and Containers"
-excerpt: "Now, Microsoft Azure developers and customers have real-time visibility to secure and remediate cloud workloads at a click of a button with built-in orchestration as well.\" \"Security is in the DNA ..."
-publishedDateTime: 2020-05-07T13:06:00Z
-webUrl: "https://www.prnewswire.com/news-releases/qualys-delivers-vulnerability-management-to-microsoft-azure-security-center-for-virtual-machines-and-containers-301054791.html"
+title: "Advancing Azure Virtual Machine availability transparency"
+excerpt: "Now, in addition to getting a fast notification when a VM’s availability is impacted, customers can expect a root cause to be added at a later point once our automated Root Cause Analysis (RCA) system identifies the failing Azure platform component that led to the VM failure."
+publishedDateTime: 2021-08-02T09:00:05Z
+originalUrl: "https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-transparency/"
+webUrl: "https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-transparency/"
 type: article
-quality: 17
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - Compute
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/993840fc-e567-46bc-a3d1-c89e1f36cb51.png"
+    width: 1430
+    height: 974
     isCached: true
-    title: "Qualys Delivers Vulnerability Management to Microsoft Azure Security Center for Virtual Machines and Containers"
 
 related:
   - title: "Announcing the general availability of Azure Spot Virtual Machines"
@@ -37,20 +42,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
         width: 800
         height: 468
-        isCached: true
-  - title: "Advancing Azure Virtual Machine availability transparency"
-    excerpt: "Now, in addition to getting a fast notification when a VM’s availability is impacted, customers can expect a root cause to be added at a later point once our automated Root Cause Analysis (RCA) system identifies the failing Azure platform component that led to the VM failure."
-    publishedDateTime: 2021-08-02T09:00:05Z
-    webUrl: "https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-transparency/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/993840fc-e567-46bc-a3d1-c89e1f36cb51.png"
-        width: 1430
-        height: 974
         isCached: true
   - title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
     excerpt: "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets"
@@ -139,6 +130,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Qualys Delivers Vulnerability Management to Microsoft Azure Security Center for Virtual Machines and Containers"
+    excerpt: "Now, Microsoft Azure developers and customers have real-time visibility to secure and remediate cloud workloads at a click of a button with built-in orchestration as well.\" \"Security is in the DNA ..."
+    publishedDateTime: 2020-05-07T13:06:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/qualys-delivers-vulnerability-management-to-microsoft-azure-security-center-for-virtual-machines-and-containers-301054791.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
     excerpt: ""
     publishedDateTime: 2020-05-07T21:00:13Z
@@ -172,6 +177,6 @@ related:
       domain: microsoft.com
     quality: 4
 
-secured: "0ISFOv9BlDKvzpPJ2ar79bPF6IEnv8ZZkamU6/qFlq2mZZGMJhiv6TnLyHSs13yFQa1y/mJCYctQbtOGQobjaLAKhr4KPVw3P897BeFAn7SfP4ZkqCMgxJlaJ+hNep5M5620AFJA70XCPiU73ujjdW7MGzEIQkU0qHjcJgXzIQpxTyehFzxu0WO+FONL0rYHeWlp9dkt4BSHbLQjSxZE4idjBKpHK8mLWpb9D27lGlRzONTPyS+Ov2CDxvZOJmofbZt+07v6C/7QL1s5pG0o2VHL8togQgQ8r4WXwaB4LkfeUrnsGTtBRJ8/CxSX6kWc;HGh6pxyYynEame8uUQ66ag=="
+secured: "7HCONp2JSRFWJqYU7KS9dB5VzotC+qY9LclyQkP8wp6cu/ITdXmfycFFTmjLNwV72ba/YbxuSLYoQP8aJcJineQqhlD0o0uxU/ew+4TD3hrSIolq+QZySh+ktNBebTKfcYicM1MZGXAj3Flf1Qa1YZh+X39t452nOmsLG5V+ijM4t7wjOvC1cr++aCTlW1QQHPIXkMe7YmBoOlhVUX9DMpbdWxpJSmq7IEZwqOlDoXKd4nnzb1ruwKDjcq7omml7RcbE9LD6VfKQNRtZqanYMn4fZkdJY/AwQKgwKUYAU8zNlbUORLWtGutN0xMeo0l8FcYV5ZipP22luVOr/8FMBrI7Ao8FEy5Y1Ut4lsyjtbA=;3UZD0GUssBDVyy+LSa6BQw=="
 ---
 
