@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-stream-analytics-tools-for-visual-studio-code/"
 type: article
 quality: 100
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -136,6 +136,15 @@ related:
     excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
     publishedDateTime: 2021-01-21T17:02:41Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
+  - title: "General availability: Azure Backup now supports Archive Tier for backups of SQL Server in Azure VMs"
+    excerpt: "Azure Backup now provides the capability to move long term retention(LTR) recovery points to low-cost archive tier for SQL Server for Azure VM."
+    publishedDateTime: 2021-08-02T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-backup-now-supports-archive-tier-for-backups-of-sql-server-in-azure-vms/"
     type: article
     provider:
       name: Microsoft

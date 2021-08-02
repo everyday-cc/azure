@@ -145,6 +145,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 70
+  - title: "General availability: Azure Backup now supports Archive Tier for backups of SQL Server in Azure VMs"
+    excerpt: "Azure Backup now provides the capability to move long term retention(LTR) recovery points to low-cost archive tier for SQL Server for Azure VM."
+    publishedDateTime: 2021-08-02T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-backup-now-supports-archive-tier-for-backups-of-sql-server-in-azure-vms/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
   - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
     excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
     publishedDateTime: 2020-08-27T17:00:14Z

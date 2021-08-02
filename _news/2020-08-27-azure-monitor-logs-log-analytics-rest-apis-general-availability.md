@@ -148,6 +148,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 70
+  - title: "General availability: Azure Backup now supports Archive Tier for backups of SQL Server in Azure VMs"
+    excerpt: "Azure Backup now provides the capability to move long term retention(LTR) recovery points to low-cost archive tier for SQL Server for Azure VM."
+    publishedDateTime: 2021-08-02T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-backup-now-supports-archive-tier-for-backups-of-sql-server-in-azure-vms/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
   - title: "General availability: Azure ExpressRoute: 3 New Peering Locations Available"
     excerpt: "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. The service is now available in 3 new peering locations."
     publishedDateTime: 2021-07-28T15:39:35Z

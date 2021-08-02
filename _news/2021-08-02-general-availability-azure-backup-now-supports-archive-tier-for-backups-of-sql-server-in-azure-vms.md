@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
-excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
-publishedDateTime: 2021-04-12T20:24:17Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/lustre-hsm-tools-now-available-to-import-from-or-export-to-azure-storage/"
-webUrl: "https://azure.microsoft.com/en-us/updates/lustre-hsm-tools-now-available-to-import-from-or-export-to-azure-storage/"
+title: "General availability: Azure Backup now supports Archive Tier for backups of SQL Server in Azure VMs"
+excerpt: "Azure Backup now provides the capability to move long term retention(LTR) recovery points to low-cost archive tier for SQL Server for Azure VM."
+publishedDateTime: 2021-08-02T16:00:03Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-backup-now-supports-archive-tier-for-backups-of-sql-server-in-azure-vms/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-backup-now-supports-archive-tier-for-backups-of-sql-server-in-azure-vms/"
 type: article
-quality: 71
+quality: 70
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Storage
+  - Management tools
 
 related:
   - title: "General Availability: Azure Stream Analytics Tools for Visual Studio Code"
@@ -131,19 +131,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
-  - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
-    publishedDateTime: 2021-01-21T17:02:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
+  - title: "General availability: Lustre® HSM tools now available to import from or export to Azure Storage."
+    excerpt: "New tooling available for integrating Lustre file systems with an Azure storage account."
+    publishedDateTime: 2021-04-12T20:24:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/lustre-hsm-tools-now-available-to-import-from-or-export-to-azure-storage/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 70
-  - title: "General availability: Azure Backup now supports Archive Tier for backups of SQL Server in Azure VMs"
-    excerpt: "Azure Backup now provides the capability to move long term retention(LTR) recovery points to low-cost archive tier for SQL Server for Azure VM."
-    publishedDateTime: 2021-08-02T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-backup-now-supports-archive-tier-for-backups-of-sql-server-in-azure-vms/"
+    quality: 71
+  - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
+    publishedDateTime: 2021-01-21T17:02:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
     type: article
     provider:
       name: Microsoft
@@ -249,6 +249,6 @@ related:
       domain: microsoft.com
     quality: 8
 
-secured: "g5LX+iryk683wa0TT1acQXYoP7prIQ9hRNFFi6s4+uqKJwQ1Mu/JG8Q2tGNsxVEkVEgKLgPWGUKzXsMGQ5QoyvIC9GuFVJ4xeUCoRuq4U8cMbN5TQwarmKjV5/w1fo+is4nPzyY98AwHJIzdDcQQMc9Bj8++UGdHXfeqVbX8J8Ev+M5orxI25Ae+8qyGwOn3iqXa7rc7CxqWWp/PZSD7b9F6rvPSUQfzsGvwY1JgpileyCeaX/7L6nboMoZSW0uwgCHCNXwhzOIVPePmb2km0MVvTzxwt4SxjbY+LMvY3JTW7AUxPZ+5Cd2Tfbz3J95kKRm65RcpmhsrRfCo1BAArux0mWYVBJdutNlfrhz4/6g=;ARXSTKvG5bvM7HJ8u0PXaQ=="
+secured: "G7KfJJwevXq5QzNB7/EnFoj4nKnGP6MChSK6x2SxViTg9PXm745MGCVN9q2YUlOlDEGMygppW7PxZGqaTrwxiQOWo+ph2Gat3IzgvVn4BhpFqE4ZpksDLgewQKNr5TXOQQt4qY4stIwgSFqrp/O1ugZfQM2VTuxdMpQistmAFPyRv3khyiggzAKrcMsAXLzClKC2EZyuRLtaC9zOtSnrH2mBRol808+08RS7ok8tmoNG96431yPALHEqWB4b/k1AgTmMXTvEpSVH5VXjpTuG9zRtn2DjgGK602Z+VXqjgzzP44iVbsKNn+Cjl1Gmq8fsDzCI2qrr9Nbs25gRxhp7ocB3j8jfEuSNlDIpsep3irs=;M0YaPQhVoxRk4o7tCIuxNQ=="
 ---
 
