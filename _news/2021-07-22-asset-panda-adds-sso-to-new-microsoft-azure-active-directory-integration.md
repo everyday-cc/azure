@@ -68,6 +68,22 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "A Microsoft Azure Space director becomes executive secretary of the National Space Council"
+    excerpt: "Chirag Parikh is set to lead the U.S. National Space Council. He previously served as senior director for Azure Space."
+    publishedDateTime: 2021-08-02T17:26:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 47
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "KnowledgeLake Now Supports Microsoft Azure Government"
     excerpt: "KnowledgeLake, a provider of document capture and processing solutions, now supports the Microsoft Azure for Government platform to securely automate critical business processes while ensuring regulatory compliance in the cloud. Organizations using Azure ..."
     publishedDateTime: 2021-07-21T15:03:00Z

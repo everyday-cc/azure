@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Microsoft – Azure Is Our Favourite Colour"
-excerpt: "Microsoft Corporation (NASDAQ:MSFT) released its Q4 numbers just after the US market closed on Tuesday. Once again growth was dominated"
-publishedDateTime: 2021-07-27T21:17:00Z
-originalUrl: "https://www.valuewalk.com/microsoft-azure-is-our-favourite-colour/"
-webUrl: "https://www.valuewalk.com/microsoft-azure-is-our-favourite-colour/"
+title: "A Microsoft Azure Space director becomes executive secretary of the National Space Council"
+excerpt: "Chirag Parikh is set to lead the U.S. National Space Council. He previously served as senior director for Azure Space."
+publishedDateTime: 2021-08-02T17:26:00Z
+originalUrl: "https://www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council"
+webUrl: "https://www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council"
+ampWebUrl: "https://www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council?amp"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: ValueWalk
-  domain: valuewalk.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.valuewalk.com/wp-content/uploads/2019/11/microsoft_1573064972.jpg"
-    width: 1280
-    height: 960
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -80,22 +82,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "A Microsoft Azure Space director becomes executive secretary of the National Space Council"
-    excerpt: "Chirag Parikh is set to lead the U.S. National Space Council. He previously served as senior director for Azure Space."
-    publishedDateTime: 2021-08-02T17:26:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 47
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "KnowledgeLake Now Supports Microsoft Azure Government"
     excerpt: "KnowledgeLake, a provider of document capture and processing solutions, now supports the Microsoft Azure for Government platform to securely automate critical business processes while ensuring regulatory compliance in the cloud. Organizations using Azure ..."
     publishedDateTime: 2021-07-21T15:03:00Z
@@ -137,6 +123,20 @@ related:
       - url: "https://www.channelweb.co.uk/api/v1/wps/70c19f9/33818a82-673b-4131-9790-53a752462fcc/8/Google-Cloud-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "Microsoft – Azure Is Our Favourite Colour"
+    excerpt: "Microsoft Corporation (NASDAQ:MSFT) released its Q4 numbers just after the US market closed on Tuesday. Once again growth was dominated"
+    publishedDateTime: 2021-07-27T21:17:00Z
+    webUrl: "https://www.valuewalk.com/microsoft-azure-is-our-favourite-colour/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 37
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2019/11/microsoft_1573064972.jpg"
+        width: 1280
+        height: 960
         isCached: true
   - title: "STL Taps Microsoft Azure for Cloud-Native OSS/BSS"
     excerpt: "STL this week announced that it will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure"
@@ -227,6 +227,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "anXv8cNQr7VOU3rrnc9efkdRWYhpWnB1W+LTDnafejA1y1Ar+enYKaBDyx5AFwtJXQ9XX7AedPdYAD2/Ma/pkBS3QsiYjah/YtMRJNFVR4gi1DkV+fPuHjLzjD8AvAh+TJ2ZSczgIbGlTi2cs8tPdpXAnW1t+FQGt+SZRPsiUjC/NXa52KcwfucgPjIjO9XJLrxncLLpgxrB8QCkHxK+L72Rb+jL1BIPlb9K58deLQUStPVR7pFc9b00WZS8j2G4dTTyQdsPLB1gCpQtHGgKVdxKPMxLvv+/S7lifSXdnL3vd4pIEHxc2yZwKcv1s/SPRbFiCoCY32LHzvfb9H3JyAFoS1bfafmWbAFRdQfX1rg+E2BbhgEC/Nf0DvL6uGP1/tTW0vacYmyRw7AxIbwi8hy+BDWnSBpJN+BrxTPniqj6keZ17e318rY0tkDjTxU8YVANoue+bGSRvdS0x2iZHiAPth4aVqiGt3NDpWxYy0g3yDgkhNGXp7F2pX7lGM+fbESmly5JhzyKx5JDErsfHQ==;ww6uexZYspcRIyfhDJxdaQ=="
+secured: "XJugC1Ujxta4Tr7rcGnpdUPhM6QtIyksBS7CeMEjB+WHyen0djjPhDeK6Wun6CgFhkaWhKp2JQzkY0g8WneboFDXeCgf/phCpcOGSL8Lu2tZC45lPwCPFb+rwJ27plbx/99ngSy1H6m9EVQrkw2ckI0qCXn5VvpJdaiojJNuy+KeCkb5rq8xr4zRD30uUCnnpyG0Xt/VlHssNsJsDQqAMZEd9lzzygln44rQCsdVA5Xh4EkxYu4n02/yzkLjqIVUN7Vus3FMv1LYa0GYLQtQfofLs/V58tqJ9/10UHJr0ZHpFRdHmBDrvICLBWiLQ2AAXpyPwKDyuq8Xl9FZFN8+kcCQMhj26MK6c39WK+SvjBQ=;gtSCOD62+kZCuOoCs9bg9w=="
 ---
 
