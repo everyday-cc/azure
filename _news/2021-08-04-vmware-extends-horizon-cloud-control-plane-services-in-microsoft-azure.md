@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Understanding Microsoft Azure certifications"
-excerpt: "Take advantage of Azure certifications to help advance your career, earn recognition, and validate your technical knowledge and abilities in current and future industry job roles. Looking to level up your career or jump-start a new one?"
-publishedDateTime: 2020-05-23T05:23:00Z
-webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/understanding-microsoft-azure-certifications"
+title: "VMware Extends Horizon Cloud Control Plane Services in Microsoft Azure"
+excerpt: "The entire line of VMware Horizon Cloud Control Plane services are now available with connectivity to Microsoft Azure VMware Solution."
+publishedDateTime: 2021-08-03T21:52:00Z
+originalUrl: "https://www.channelfutures.com/cloud-2/vmware-extends-horizon-cloud-control-plane-services-in-microsoft-azure"
+webUrl: "https://www.channelfutures.com/cloud-2/vmware-extends-horizon-cloud-control-plane-services-in-microsoft-azure"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: channelfutures
+  domain: channelfutures.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://docs.microsoft.com/en-us/learn/certifications/posts/images/understanding-azure-poster.png"
+  - url: "https://www.channelfutures.com/files/2021/07/cloud-communications-1024x683.jpg"
     width: 1024
-    height: 512
+    height: 683
     isCached: true
-    title: "Understanding Microsoft Azure certifications"
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1008,6 +1004,20 @@ related:
         width: 1024
         height: 663
         isCached: true
+  - title: "Understanding Microsoft Azure certifications"
+    excerpt: "Take advantage of Azure certifications to help advance your career, earn recognition, and validate your technical knowledge and abilities in current and future industry job roles. Looking to level up your career or jump-start a new one?"
+    publishedDateTime: 2020-05-23T05:23:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/understanding-microsoft-azure-certifications"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/learn/certifications/posts/images/understanding-azure-poster.png"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Microsoft Azure Active Directory (Azure AD)"
     excerpt: "There is no shortage of online forums to help troubleshoot Azure AD. Virtually limitless integrations. Azure Active Directory is a cloud-based identity and access management service that covers a broad range of authentication scenarios, user types, and developer authentication abilities. Its single sign-on makes for a seamless end-user ..."
     publishedDateTime: 2020-06-02T08:35:00Z
@@ -1663,20 +1673,6 @@ related:
         width: 502
         height: 324
         isCached: true
-  - title: "VMware Extends Horizon Cloud Control Plane Services in Microsoft Azure"
-    excerpt: "The entire line of VMware Horizon Cloud Control Plane services are now available with connectivity to Microsoft Azure VMware Solution."
-    publishedDateTime: 2021-08-03T21:52:00Z
-    webUrl: "https://www.channelfutures.com/cloud-2/vmware-extends-horizon-cloud-control-plane-services-in-microsoft-azure"
-    type: article
-    provider:
-      name: channelfutures
-      domain: channelfutures.com
-    quality: 37
-    images:
-      - url: "https://www.channelfutures.com/files/2021/07/cloud-communications-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -2275,6 +2271,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "LSVhLFLR3pGcegwPOnegfQdvlfrFbabky/UfX7kqSDTZw0Cda8VAUK0v8tWuFU3hkW6KnHC5wrl+PB9b2SZqSQ7Whw/1PbklBGCyHwS5ziSb8x8wodRlI2+ID6qtKBxypTYe6N8J1XzefXfuN/ubRZi7RBQnWyhrQr7MkW3U8eb7go3Uu8GRNmPT81iqPD+BEzdTFvfqGAKXgNwwDrKjwLT5MKUSGh1IiJF/ASHA7WIS/emQjqXw7tsthSMBLHYkaY8JY7aqePlROjoIPXQkdEdgT9/7g7IEaj63yfkUtHYjgp7dajxHjNJCMoSHZ0GTlSTyYXBBaXwJiG4izoJMxHDMKRuTArC77zsTsAJNk51F76Wju8XjnoVZIFwcJZtDr0blq9vulxjS9cnT+EvGCbeBHLC+q1ltG3yhLbx0ENOYpvP62pLhpt1djuLu/xv/GeO/BXA/P4C/XrMuBz6suvanF66qZw5gi20wU2MvleI=;yWVS95TxxUN8ZRtRbYgEIA=="
+secured: "49+bXnkoRz4FK06u8NAV94lScJE7/qPt0MGRWLXCi2LORjZGhtBIsgrjK5kslFkb5hTrLOpgJkcSvt+8LDujq280j7eQagvyFp63tKrV5qEFteop37n+RPubsyFSsMfwvSZKb/cmf4RTfnHoI5tyUnDVvZ5oaMkH4Jb6P7nRWBMZrMtGTb4AVoYve+UraRoRWdti8nQgzBhhZ+Os6WsmQAoX8Wwr/TERJegdg3XVEFCQV9i9pcW1oN1IY6ZHwS3uzGTzNPaCx4lo11buM2qhMncFY/4Hqia0/mPw5rWrwDwJW8yiyyqdy4YIXiR2skWl0XmchYkVzStnoV+PVa9dUzTaIGCxRsIakPNYlSyOVdI=;F3xBbQg9iQtBTZbIyBpDTw=="
 ---
 

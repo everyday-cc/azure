@@ -1668,6 +1668,20 @@ related:
         width: 502
         height: 324
         isCached: true
+  - title: "VMware Extends Horizon Cloud Control Plane Services in Microsoft Azure"
+    excerpt: "The entire line of VMware Horizon Cloud Control Plane services are now available with connectivity to Microsoft Azure VMware Solution."
+    publishedDateTime: 2021-08-03T21:52:00Z
+    webUrl: "https://www.channelfutures.com/cloud-2/vmware-extends-horizon-cloud-control-plane-services-in-microsoft-azure"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 37
+    images:
+      - url: "https://www.channelfutures.com/files/2021/07/cloud-communications-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z

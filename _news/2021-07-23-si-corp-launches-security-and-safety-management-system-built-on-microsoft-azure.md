@@ -1,22 +1,28 @@
 ---
 category: news
 title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
-publishedDateTime: 2021-07-22T21:33:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
+publishedDateTime: 2021-07-22T18:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - Security
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
@@ -75,6 +81,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "3 Reasons Microsoft Needs to Reveal Azure's Financials"
+    excerpt: "Microsoft (NASDAQ: MSFT) posted its fourth-quarter earnings on July 27. Its revenue rose 21% year-over-year to $46.2 billion, clearing expectations by $1.9 billion, as its earnings jumped 49% to $2.17 per share and beat estimates by $0."
+    publishedDateTime: 2021-08-03T16:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-reasons-microsoft-needs-to-reveal-azures-financials-2021-08-03"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "A Microsoft Azure Space director becomes executive secretary of the National Space Council"
     excerpt: "Chirag Parikh is set to lead the U.S. National Space Council. He previously served as senior director for Azure Space."
     publishedDateTime: 2021-08-02T17:26:00Z
@@ -241,6 +256,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "mQJk8+smuxI0uyxNsyb1RExb7WPJr7N6t3Oa2gY0gIqSX7AjkP3kdmTQXRjslLtjjMRlSZ6g1/harp4J91HKF6UnQFBcyDVHU7gmElaPGPmMjX+ilzoBn5j3pNkrlB6T0utl/8E+lyaRz6YyLsfhsBoK18WbN21gdJ2pW7BSYd2s838G6rkQCTGFFeHgn735n+XQWeqYHg9W0A4AVzwadKPIYmy37oxS7Bn0O5f4QU6dzactiICP8+eXc5IHilTvvNEUkSU0P580STcGhLunF9rvao3d/DRvFyu8jqEXaYVjM2/4oYf15kCZ2qaRxWZjxjLuhwq5ssNLkZmXxuEbTgNtE51xg4JaquBWi7vbKC8=;88y1OFSi2ZGSlXSMl1fq7w=="
+secured: "neShjijqu4ZKLf8r9BZBNSI5LyE8eH140Y6QeOTUUGB1iwewcD2PLFCef/P/PohroddT0NmIP4zyfeWtmpfoKo0F8EouZ5E4UPNiMnMvqNmSC6kI0LPTUTrezAnFn/d9Rb+dHUgePqWP0bCX/jmfziB/eONpSym/i/SDLZyzBL+HxV82dJ39bM2wArxG1+EmfIFfMTAx8hRQNa2/d0rRvqy/lZcBUdavz6jehvejIwO9gH6M3pLMik7Di3znMZKGLE+bDaoueTqlZuNwI27557YanF+wHrR60f9DinOT8e7/qLguG/SyM3tgGfmWvFfTctRyavG0E5OTFgj1hP3UTv3z9tML+1il+/d8ibCDBio=;N7OmJ6JsZHjZwA7XX7IZyQ=="
 ---
 

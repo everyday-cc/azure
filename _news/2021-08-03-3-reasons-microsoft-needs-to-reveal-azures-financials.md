@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
-excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
-publishedDateTime: 2021-07-22T16:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
+title: "3 Reasons Microsoft Needs to Reveal Azure's Financials"
+excerpt: "Microsoft (NASDAQ: MSFT) posted its fourth-quarter earnings on July 27. Its revenue rose 21% year-over-year to $46.2 billion, clearing expectations by $1.9 billion, as its earnings jumped 49% to $2.17 per share and beat estimates by $0."
+publishedDateTime: 2021-08-03T16:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-reasons-microsoft-needs-to-reveal-azures-financials-2021-08-03"
+webUrl: "https://www.nasdaq.com/articles/3-reasons-microsoft-needs-to-reveal-azures-financials-2021-08-03"
 type: article
-quality: 70
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
-  - Identity
-  - Integration
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
@@ -54,6 +46,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
+    excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
+    publishedDateTime: 2021-07-22T16:20:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
     excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
     publishedDateTime: 2021-07-21T20:16:00Z
@@ -68,15 +74,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "3 Reasons Microsoft Needs to Reveal Azure's Financials"
-    excerpt: "Microsoft (NASDAQ: MSFT) posted its fourth-quarter earnings on July 27. Its revenue rose 21% year-over-year to $46.2 billion, clearing expectations by $1.9 billion, as its earnings jumped 49% to $2.17 per share and beat estimates by $0."
-    publishedDateTime: 2021-08-03T16:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-reasons-microsoft-needs-to-reveal-azures-financials-2021-08-03"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 57
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
     publishedDateTime: 2021-07-22T18:02:00Z
@@ -257,6 +254,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "LT+cPrxvdZ5V2kWm/VVGVd+wxKsBmXnGZyPGmCdtOBuAxq/q9yWHZqhKmYhSaUAm+KityHrHgYwGg+YhETy1BA18Aol8wGH528r8vEYu1Td+yKyTgQ1+J7S0ZA/SdkKlSwoklP9w3Geg47jyFhpFGDE4nR7Lq7hB0HBkboRTq875sHH8ROASwxkUC4nIv0eh2ihSf7afEuRfDq5N6Y1hJBQDJcFMTVqvRn3Pmfqw5QFNYC3ryM3g4zsac3FE7JAKRtNmErG0LJnVTGyIvdTEkl8FHS0UNC77f3YrdS9bkwrQIcDGgphA0os5/gNwykMVzlscPIHile+E+TXejX30XfICtrO6vIqd8xdttjXFsZo=;yjT9NdgpWd7VCvqrrCM1bA=="
+secured: "Kqv70awO2C4LajcDnU18FjghyfHzw73sZnukzxLI+DkckIL/s6FDwva/mv3bh0HNOjaGZ0SLDi7wBnRX2F5fEIEkF8re5IzZo5VYzASzye58iHd7z0mJ04BX3VKH1dvYmGu1EPrjcDXTyfCxnWbLm/uAcRTWm9UNXoDMGUzzMUUftS+qabz9z64dPFeWripFlGq1mlW+tR0ks0pieSTbSg+MfKWhtdnEFGbAOkeJktBhlEX96JIpSbw06p1ypqSjteLqbwQEh0OVLOb1QNTk6J66+5BsV5cqUnXcnnWcBZeoXU/NJXkD5nsZBZlzVqL2X1AehzfIEohTsS//Gg81SDfCtHF8nthkLe99z6jyX4w=;e6Vmh0DG4X/Wb4aQYoIbkQ=="
 ---
 
