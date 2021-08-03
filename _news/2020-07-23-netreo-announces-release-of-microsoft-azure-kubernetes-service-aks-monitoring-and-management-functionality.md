@@ -358,6 +358,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their container-based workload deployment and management practices are able to earn the Kubernetes on Azure advanced specialization."
+    publishedDateTime: 2021-08-03T18:32:00Z
+    webUrl: "https://www.wipro.com/newsroom/press-releases/2021/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    type: article
+    provider:
+      name: Wipro
+      domain: wipro.com
+    quality: 52
+    images:
+      - url: "https://www.wipro.com/content/dam/nexus/images/search/loading.gif"
+        width: 350
+        height: 350
+        isCached: true
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
     publishedDateTime: 2021-05-31T15:52:00Z

@@ -292,6 +292,20 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "Microsoft Cloud for Healthcare expands portfolio with Azure Healthcare APIs"
+    excerpt: "Today Microsoft Cloud for Healthcare is expanding our portfolio of interoperability data services. In October 2019, Microsoft became the first cloud with a fully managed, first-party service to ingest, persist, and manage structured healthcare data in the native Fast Healthcare Interoperability Resource"
+    publishedDateTime: 2021-08-03T12:35:19Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-cloud-for-healthcare-expands-portfolio-with-azure-healthcare-apis/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/12344a12-b9b7-4c8f-b165-6afb4b7b3af8.png"
+        width: 1024
+        height: 478
+        isCached: true
   - title: "Retrospect Announces Integration with Microsoft Azure Blob Storage"
     excerpt: "Microsoft Azure has grown dramatically recently, and with its addition to the wide range of cloud storage providers that Retrospect supports, customers can select the best cloud based on their ..."
     publishedDateTime: 2021-06-22T17:55:00Z

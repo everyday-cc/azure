@@ -1,26 +1,31 @@
 ---
 category: news
-title: "Infopulse Recognized as a Microsoft Azure Expert Managed Service Provider (MSP)"
-excerpt: "KYIV, Ukraine, March 23, 2021 /PRNewswire/ -- The Azure Expert Managed Service Provider (MSP) recognition marks an essential milestone in Infopulse's 17-year collaboration with Microsoft. Azure Expert MSP recognition validates the company's deep knowledge ..."
-publishedDateTime: 2021-03-23T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp-301252973.html"
-webUrl: "https://www.prnewswire.com/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp-301252973.html"
+title: "Microsoft Cloud for Healthcare expands portfolio with Azure Healthcare APIs"
+excerpt: "Today Microsoft Cloud for Healthcare is expanding our portfolio of interoperability data services. In October 2019, Microsoft became the first cloud with a fully managed, first-party service to ingest, persist, and manage structured healthcare data in the native Fast Healthcare Interoperability Resource"
+publishedDateTime: 2021-08-03T12:35:19Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-cloud-for-healthcare-expands-portfolio-with-azure-healthcare-apis/"
+webUrl: "https://azure.microsoft.com/blog/microsoft-cloud-for-healthcare-expands-portfolio-with-azure-healthcare-apis/"
 type: article
-quality: 33
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - Databases
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/12344a12-b9b7-4c8f-b165-6afb4b7b3af8.png"
+    width: 1024
+    height: 478
     isCached: true
 
 related:
@@ -293,20 +298,6 @@ related:
       - url: "https://lh3.googleusercontent.com/7HzRvrt60a2byp6ga4sRVG_kmbOqgz8KVV_4Ow52HTLvpOuR6J9LTo-4VTkyON6b9zRaIz5MtQAbRwiZkY86c0bJRKleSAxkH3wF=w816-h428"
         width: 761
         height: 428
-        isCached: true
-  - title: "Microsoft Cloud for Healthcare expands portfolio with Azure Healthcare APIs"
-    excerpt: "Today Microsoft Cloud for Healthcare is expanding our portfolio of interoperability data services. In October 2019, Microsoft became the first cloud with a fully managed, first-party service to ingest, persist, and manage structured healthcare data in the native Fast Healthcare Interoperability Resource"
-    publishedDateTime: 2021-08-03T12:35:19Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-cloud-for-healthcare-expands-portfolio-with-azure-healthcare-apis/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/12344a12-b9b7-4c8f-b165-6afb4b7b3af8.png"
-        width: 1024
-        height: 478
         isCached: true
   - title: "Retrospect Announces Integration with Microsoft Azure Blob Storage"
     excerpt: "Retrospect™, a StorCentric company, today announced the general availability of Microsoft Azure Blob Storage support for Retrospect Backup and Retrospect Virtual. The software updates allow businesses to leverage Azure as a backup destination as well as a cloud storage location to protect on-premise data."
@@ -1816,6 +1807,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 33
+  - title: "Infopulse Recognized as a Microsoft Azure Expert Managed Service Provider (MSP)"
+    excerpt: "KYIV, Ukraine, March 23, 2021 /PRNewswire/ -- The Azure Expert Managed Service Provider (MSP) recognition marks an essential milestone in Infopulse's 17-year collaboration with Microsoft. Azure Expert MSP recognition validates the company's deep knowledge ..."
+    publishedDateTime: 2021-03-23T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp-301252973.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Docker Extends Collaboration with Microsoft Azure to Boost Developer Productivity"
     excerpt: "Docker today announced that it has extended its strategic collaboration with Microsoft to simplify code to cloud application development for developers and development teams by more closely integrating with Azure Container Instances (ACI)."
     publishedDateTime: 2020-05-27T16:00:00Z
@@ -2257,6 +2262,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "rhjW9/JLYxCVuMQayqr/ASxOU+wzZrqbHnTf8AOXWRPW/GfCAAb7uY1NEl6CEhjNx1CwrOgp6g9r7OCP43Mw/2aa7RTxTVMH1PCVB6qUm4FF60z21G0SqLuEMvYA+QR5e+v5OM0HiIbG0CmVAr6FRWexMulVtB8fRQT6d1bGHOmQMQIAjG/TIeGjR1+0ACGW9eiXa/2wES6Pj+N0q9Px8idj8Plh4OwPgDBucla5Jfw9C314AoP2uc7R6iwIHAtrYQvRS200p7DbZ9NP0mehISXMldcyiXXu4AEOrtE4mvWIk4eS4FcSphYBsYs0HPKqN1KbSka1aiZs9VszMMps9VBk3BPNttsGo5eS8C/7lTo=;BVOFYSYtJsAPg3iQdCzb5A=="
+secured: "4w431t43JCll+55v/YuYq+yBo+YuDOFgnbbEQQb9t4jxFCBsoxDAPtAUA1HDi0/exrtgsviYdJiBMymPesjCRzlMuGcXy3fSIN0i4AkXHDje0PhBae6VAvaQUBhPPkJQuiWxKO+LTm5GbmNpKeCwapW6P0vA0Pw1gry2hM/+TAjPmRPaknJwE+AQl/A++Cx3ZqSLIG0kGasUWz6MsMsLRlAYQwj4/LrZB5WlA5Q/4UNf696w4qDSeLNcB4PuZs36zFwo+8T+4MOAxc7VMm2HWF8VQ97VXxX/KdyqzZ4zABggmIr+12EaS8I0+qm0cY/Y7DXCbdNV9AzNR6I6wUbgu8Af4UL6xze8kNG09TUCIbk=;QdZigJLUOPY7UrXk0lxAuA=="
 ---
 
