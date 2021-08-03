@@ -41,9 +41,9 @@ related:
         height: 1080
         isCached: true
   - title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
-    excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service"
-    publishedDateTime: 2021-07-29T13:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030661990"
+    excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
+    publishedDateTime: 2021-07-29T12:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
     type: article
     provider:
       name: Business Insider
@@ -241,6 +241,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "XJugC1Ujxta4Tr7rcGnpdUPhM6QtIyksBS7CeMEjB+WHyen0djjPhDeK6Wun6CgFhkaWhKp2JQzkY0g8WneboFDXeCgf/phCpcOGSL8Lu2tZC45lPwCPFb+rwJ27plbx/99ngSy1H6m9EVQrkw2ckI0qCXn5VvpJdaiojJNuy+KeCkb5rq8xr4zRD30uUCnnpyG0Xt/VlHssNsJsDQqAMZEd9lzzygln44rQCsdVA5Xh4EkxYu4n02/yzkLjqIVUN7Vus3FMv1LYa0GYLQtQfofLs/V58tqJ9/10UHJr0ZHpFRdHmBDrvICLBWiLQ2AAXpyPwKDyuq8Xl9FZFN8+kcCQMhj26MK6c39WK+SvjBQ=;gtSCOD62+kZCuOoCs9bg9w=="
+secured: "HFer9oxBq5BoaRFAskldi4xw6ViFGqK2+aR+QpR3Gn3XfH1Txo8hMuZ+llklo1OCBHavRZJNwboY8HyGWlhJh0R//tY8LYhnajx+wgIWNRLnfzirojIATVWyylHyVYZizCuchZNZCxEDCNe8gzg6gMnv5S2fze23Ppx90ebsMD3y5UaKRLOEwOcWf5Zv5OCpLsT5L0A8R3/joClx8FPJWLQf8UplvMA41deMjs7dYFriZ9y8yN5xeyetZlg4rB2nGww9aItr7rK+dN7b2QWzYiH04f874aTChSWsbZCXDJarwZ2nwumEkKMUwku8OhJMgahG0S6d0YsQFCWlrEoPL6Mon3ixZBaN9iSlhCIhVtOimJoYIbk2h+i2Nt9X73oSAbuag9Aia2Fa3L7tKZpunT5Me7iWSYqPzyrAnJSXCqh/f5hXDATntRTz1oQlLYbmGXpQ9kHUbOm6jqdDu9FAA3sXcZ+3TW84QsFWEZ7GDx2Yb2ftmeIncP4EbbKe/9qURjIFMMf1Cco2azlXkxzLmw==;AJGjbPW8KWrYVEPz+hNqYg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/quisitive-earns-the-win
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
 type: article
 quality: 78
-heat: 198
+heat: 218
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
         width: 350
         height: 233
+        isCached: true
+  - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure​​​ advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience,"
+    publishedDateTime: 2021-08-03T10:58:00Z
+    webUrl: "https://www.yumpu.com/en/document/view/65742857/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization"
+    type: article
+    provider:
+      name: Yumpu
+      domain: yumpu.com
+    quality: 31
+    images:
+      - url: "https://documents.yumpu.com/000/065/742/857/e6e5ef6672d75978e467eb97aaa3b3bdc8cdac95/4e346b6c4f2f6e755876776256756b647541447633513d3d/683579734e51784a6175556e4b75646656722f4e4b673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1627999200&Signature=2%2BX1x%2BXPA6rNRTxPJoQMD8cOze0%3D"
+        width: 452
+        height: 640
         isCached: true
   - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's"

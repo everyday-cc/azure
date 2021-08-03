@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-excerpt: "Quisitive Technology Solutions Inc. (Quisitive for the \"Company\") (TSXV:QUIS), a premier Microsoft solutions provider, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
-publishedDateTime: 2020-07-18T19:19:00Z
-webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
+title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+excerpt: "Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure​​​ advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience,"
+publishedDateTime: 2021-08-03T10:58:00Z
+originalUrl: "https://www.yumpu.com/en/document/view/65742857/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization"
+webUrl: "https://www.yumpu.com/en/document/view/65742857/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization"
 type: article
-quality: 62
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Yumpu
+  domain: yumpu.com
 
 topics:
   - Azure
+  - Migration
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://documents.yumpu.com/000/065/742/857/e6e5ef6672d75978e467eb97aaa3b3bdc8cdac95/4e346b6c4f2f6e755876776256756b647541447633513d3d/683579734e51784a6175556e4b75646656722f4e4b673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1627999200&Signature=2%2BX1x%2BXPA6rNRTxPJoQMD8cOze0%3D"
+    width: 452
+    height: 640
     isCached: true
 
 related:
@@ -38,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 78
+  - title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
+    excerpt: "Quisitive Technology Solutions Inc. (Quisitive for the \"Company\") (TSXV:QUIS), a premier Microsoft solutions provider, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
+    publishedDateTime: 2020-07-18T19:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "HCL Technologies earns ‘SAP on Microsoft Azure Advanced Specialization’"
     excerpt: "HCL Technologies (HCL), a leading global technology company, today announced it has earned SAP on Microsoft Azure Advanced Specialization, a validation of a Microsoft service partner’s deep ..."
     publishedDateTime: 2020-09-15T10:23:00Z
@@ -53,20 +65,6 @@ related:
       - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
         width: 350
         height: 233
-        isCached: true
-  - title: "Cloud 9 Infosystems Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Cloud 9 Infosystems today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure​​​ advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience,"
-    publishedDateTime: 2021-08-03T10:58:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/65742857/cloud-9-infosystems-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization"
-    type: article
-    provider:
-      name: Yumpu
-      domain: yumpu.com
-    quality: 31
-    images:
-      - url: "https://documents.yumpu.com/000/065/742/857/e6e5ef6672d75978e467eb97aaa3b3bdc8cdac95/4e346b6c4f2f6e755876776256756b647541447633513d3d/683579734e51784a6175556e4b75646656722f4e4b673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1627999200&Signature=2%2BX1x%2BXPA6rNRTxPJoQMD8cOze0%3D"
-        width: 452
-        height: 640
         isCached: true
   - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "Nous Infosystems today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's"
@@ -110,6 +108,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "DF42b/0XX5FiKQyWdSxdp3rJL+lpSBaFel8hCj04WfPfuVsWwPhgisJqIQm3gfGEaJpDYMujnvNeMtBD38GwjNUG10GLDcKXUyDZiSaqmNOa/27+UHdKuYxOIV9H4hHu7Hjmd9YcWPoFjQIVtCb6nX5ZJLssTPMlYT7Ec4O72+UuCiPHM9ksosSIBjxySqumt/D9DeqCLrf7HyQF4sszyOTLIqRgudzWsQ3j/ExMHddHZFtk9VbMR/iCdCwpsBXKRKvDG1EY/oB4jtcnjuuUK5aiLm0gu4CQRmpSJFe6RqdopRk+i8DWUKrueAb+X4SiikIHHbyTN86kS2gc1dULZw==;72Co4ydV8wRJCXpiLqGm6A=="
+secured: "QojXA6kSIvaL/WuYnJfGtYmaUAfUIfhOWXavw2Y1vrAV6kKNdiUgWWihx9/P0v2cb1qljtp7zuj7u2v3/STxvFi6m6YwXbHCwJNtRzPLzHxuKHYrOTkJ6lJOtDOHh0CPf6ia2CfInhHE3cqCqTTnsveKVF2S4z8RLBE45MdRF70nDz7gZBNGe3Aorig9X/vg4un9tZVqBaG68GhHpx4LosH7jdt8iRAjgLfiHsGUR8Rs/nR1R71UCuH4jYC+Ky1uD28yHrPTZQMwudttgHlsCw1ccG7KDLwo+sYiirU29NcswaevmjVP56LCjI0yK2dItemCQmvUR4VwpH87w+JwEZ3M/fbut5Xy1+mP/EQegyA=;CpZrWSXYrxB4w8LNUUlACw=="
 ---
 
