@@ -1,27 +1,24 @@
 ---
 category: news
-title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
-excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
-publishedDateTime: 2021-05-19T06:56:00Z
-originalUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
-webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+title: "Wipro achieves Kubernetes on Microsoft Azure advanced specialization"
+excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their container-based workload deployment and management practices are abl"
+publishedDateTime: 2021-08-03T13:46:00Z
+originalUrl: "https://www.business-standard.com/article/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
+webUrl: "https://www.business-standard.com/article/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Cloud Computing
-  domain: cloudcomputing-news.net
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
-    width: 1920
-    height: 1440
-    isCached: true
+  - Containers
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -340,17 +337,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Wipro achieves Kubernetes on Microsoft Azure advanced specialization"
-    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their container-based workload deployment and management practices are abl"
-    publishedDateTime: 2021-08-03T13:46:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 54
   - title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
     excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
     publishedDateTime: 2021-05-20T12:36:00Z
@@ -473,6 +459,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 37
+  - title: "NHS Scotland’s track and trace system utilises Microsoft Azure"
+    excerpt: "User information is fully encrypted in NHS Scotland's data lake and only available to contact tracers who have the right digital key."
+    publishedDateTime: 2021-05-19T06:56:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/may/18/nhs-scotlands-track-and-trace-system-utilises-microsoft-azure/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 37
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/05/dan-gold-E6HjQaB7UEA-unsplash-1.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "Amdocs to put BSS/OSS solutions onto Microsoft's Azure"
     excerpt: "The collaboration will enable service providers to accelerate their move to the cloud by using Amdocs' cloud-native BSS/OSS solutions and services and our unique delivery accountability model while benefiting from the cloud capabilities of Azure to build,"
     publishedDateTime: 2021-05-24T16:00:00Z
@@ -779,6 +779,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "GwuyW7ZUMt7U8Dopy5hHQkovSJktAJSXar3h5gj0iENCQWYidPSxnN411dQU0/VwV6P7eEcZUMuiWQ0snQdte6MMGUqUwEhplWkpNnr46BRyxiDieO0BOV2jcJPxMlSudL1J84azQ4Aw0fMf6nJKm87l1lP8qc4sXQd4wBBsx0A3tB4q4SFA4Kap8W9mxATjMAM9/NhD0PGG7/4imRbHDpHs2BnqMfSQnl6IDb7p3nkwl51azDTf3HnpLn8iwUIJEtt76FpDEoaI9Yopzcf87GLbXqOslDPLWesTX7JKkuVtHX/MHReMXKpwzoec4L370ncwWHg+gGW5Nb7D1aVv1b1QMc+1qeAME4TyRyOXKLc=;PPX8lpwx7ILSQfMVGW5Y2Q=="
+secured: "dts7GtaBzDRKfqdzsuaEcQpe9LZkWPKdMOKBUswkYqqdbHhgJaqhrsTX4Q5xgjoogLxWfN+y23mJ8akP/xDzAg0GsiImZTzOBrQ3rPkeF3+x/+T8hoPqoxXlSBNazyD/42/pfOo/SkRYfZngHB5OqxN5YUseFuNAP6IPHX4PA9rKNjVgTDcZfAOWm3WJ3bi2bCNjAuIZYo2z73+dmhlHNfZHfh1J7jUcV74REoeJJCseApfgTAKWn8z/yYXN97H/fEIicEX6zvdDFA+j0vUsaWZCk3gVVgsoFAzDHNcvoysLcOFBqh5r9eeQogPio7eFAFt+vzmIilWm/LyUPr1FUHWZMex+OPIQlDMLYZvLoUM=;q3t7CmLHt7uK/AsjfcQ4PQ=="
 ---
 

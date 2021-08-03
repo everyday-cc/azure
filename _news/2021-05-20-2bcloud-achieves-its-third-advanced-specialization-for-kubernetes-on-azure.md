@@ -341,6 +341,17 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Wipro achieves Kubernetes on Microsoft Azure advanced specialization"
+    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their container-based workload deployment and management practices are abl"
+    publishedDateTime: 2021-08-03T13:46:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 54
   - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
     excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
     publishedDateTime: 2021-05-31T15:52:00Z

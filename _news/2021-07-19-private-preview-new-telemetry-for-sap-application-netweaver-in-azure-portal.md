@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/private-preview-new-tele
 webUrl: "https://azure.microsoft.com/en-us/updates/private-preview-new-telemetry-for-sap-application-netweaver-in-azure-portal/"
 type: article
 quality: 80
-heat: 120
+heat: 121
 published: true
 
 provider:

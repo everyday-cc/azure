@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/microsoft-brings-more-of-its-azure-services-to-any-kubernetes-cluster/amp/"
 type: article
 quality: 114
-heat: 1274
+heat: 1294
 published: true
 
 provider:
@@ -331,6 +331,17 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Wipro achieves Kubernetes on Microsoft Azure advanced specialization"
+    excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their container-based workload deployment and management practices are abl"
+    publishedDateTime: 2021-08-03T13:46:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/wipro-achieves-kubernetes-on-microsoft-azure-advanced-specialization-121080301631_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 54
   - title: "2bcloud Achieves its Third Advanced Specialization, for Kubernetes on Azure"
     excerpt: "TEL AVIV, Israel, /PRNewswire/ -- 2bcloud are delighted to announce that they have been awarded an advanced specialization for Kubernetes on Azure. This is known to be"
     publishedDateTime: 2021-05-20T12:36:00Z
