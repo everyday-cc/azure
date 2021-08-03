@@ -1,26 +1,26 @@
 ---
 category: news
-title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
-excerpt: "A successful cloud transformation in Azure requires a detailed multi-step plan supported by the right skills. Our guide, “The Essential Starter’s Guide to Microsoft Azure for IT Leaders ..."
-publishedDateTime: 2020-11-16T19:41:00Z
-originalUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
-webUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+title: "Microsoft expands Azure Gaming team to UK"
+excerpt: "Xbox veteran Harvey Eagle will lead the Azure Gaming effort in the UK. Microsoft has been investing heavily in its games enterprise business as it wants more developers making use of cloud technology (Azure) and cross-play."
+publishedDateTime: 2021-08-03T09:01:00Z
+originalUrl: "https://www.gamesindustry.biz/articles/2021-08-03-microsoft-expands-azure-gaming-team-to-uk"
+webUrl: "https://www.gamesindustry.biz/articles/2021-08-03-microsoft-expands-azure-gaming-team-to-uk"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: Games Industry
+  domain: gamesindustry.biz
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-    width: 300
-    height: 300
+  - url: "https://images.eurogamer.net/2021/articles/2021-08-03-09-57/_D4F5B281_0451_4CA3_B5B0_FE28EA5131B3_.png.jpg"
+    width: 502
+    height: 324
     isCached: true
 
 related:
@@ -1186,6 +1186,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "A successful cloud transformation in Azure requires a detailed multi-step plan supported by the right skills. Our guide, “The Essential Starter’s Guide to Microsoft Azure for IT Leaders ..."
+    publishedDateTime: 2020-11-16T19:41:00Z
+    webUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "AMS-IX welcomes Microsoft Azure Peering to its cloud portfolio"
     excerpt: "IX has added Microsoft Azure Peering Service to its Cloud portfolio. This means enterprises and other organisations connected to AMS-IX are set to benefit from “high-quality connectivity” to Microsoft cloud services,"
     publishedDateTime: 2020-11-26T14:36:00Z
@@ -1630,20 +1644,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1581139/image_1.jpg?p=facebook"
         width: 2472
         height: 1294
-        isCached: true
-  - title: "Microsoft expands Azure Gaming team to UK"
-    excerpt: "Xbox veteran Harvey Eagle will lead the Azure Gaming effort in the UK. Microsoft has been investing heavily in its games enterprise business as it wants more developers making use of cloud technology (Azure) and cross-play."
-    publishedDateTime: 2021-08-03T09:01:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2021-08-03-microsoft-expands-azure-gaming-team-to-uk"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 37
-    images:
-      - url: "https://images.eurogamer.net/2021/articles/2021-08-03-09-57/_D4F5B281_0451_4CA3_B5B0_FE28EA5131B3_.png.jpg"
-        width: 502
-        height: 324
         isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
@@ -2243,6 +2243,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "HWmRxL94Mlj9AmKdcpNbVl1bJ1yIcW+d+PNg7+yGdyMc10goQLZWNzRAsQ3Pb5eqL6Di0FJnmTJx4pK9fGlZCBdd4Rh2R+hHjk0zd1xsAnEA+wQFIIqdCXmEmq9YQ7XMyDiYicM11UQnYhQPKd7wsfCMWi4vO+7zcl/XNgvxWaU1POAEOEGIn3c8i4aSJi4k6mGgyQdk5vCFWbJJpyLKKqylL4HpzZNiff2lSGpReMj8uCuHImkiNkVqaKV1xifCjbPYER5dmteJ99VzTAMvXRA2S+/bhnQ+ts255DAS5tIOLQoKbRAWr0fCgvdJR9rSzdN5oKYGNF/Y4Y+tFNfVj6KldGASDupnckFRm0emuz4=;VvYUbeJ6dJkTwo0TptZcVw=="
+secured: "QHh3DQ9LUHHsgZ2c4skF3VRvMHxKLxq/GUGOjp6+LbBz5p5L6l4At9Ko+I5/QH9wlVMh7Z1M+cjfEXiG7Gje8NdKrh4VfNQ6QzSQX1yke/YnlI6EPYE+5OQItH9YPJf80HKpNXZaQqdT1HiJmnGWGEB4ZeN01ny11MtDGGyrbE/2cudW0iFKb2flqLrAYKb3fheHVsKYs/dRgyGy0Lkv9MqEK2VKdnKljQmU5wctuKLSbRGBJ26LC+gxUw4toasp33H2jLoiB0JvRb7kiGIESbpTMqYKYLmmihGg6165nxxqMZBeED3iUqLv+I2XH8o/VPfQCYHMuePVgnHIGFT9na5QL/CvG2fEpo6j0NkUrSc=;zYAobWLTUf3idOygXXxHDQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
-excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
-publishedDateTime: 2021-07-29T12:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
-webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
+excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service"
+publishedDateTime: 2021-07-29T13:53:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030661990"
+webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030661990"
 type: article
 quality: 77
 heat: -1
@@ -245,6 +245,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "bytNiQjjFOPKKOMf62ZxWbaJj6wp65o3wYg68cBDyRQc05r77Ui3nK9Du16WBxERsuPfY+jnnP6YUOps0ss1+kLWdOiwmKy+ObOjvagBh+nIlpg4eIt0IlW8CRafdJTrtnIYbXoSNTa+D5eD3VV/I+VVZ329wTCOOWjwtAG1ma0q2TPW/jfmjKRGWmTgdqxBD/uoK2ONHO+K1vO+G9m5zvaGVLeNNco/ACfQX7wIudl5GKQtccyW1PKL3nPYMNQ1efbJEzXpOQXHxmRbqLePngZkPIr9peA6xL4k0c9Zv0r0Utaa6EKuWbQz7SYiCRFj/Lod6UgjOpB+kIJuUXvi0pnoDhZEZzYKhSYAdc/9KwKHzyFBJAKPV1VdQGDwtzq4wV9j0eY4Jp9nmkuNb/YXIXUgOFvpR+7cj4ZZAxn6f9YIVeDcXcF3gNc/kgxmApU9xQ8FqzcOzJo9f9vI6euTjM/OiRRxU/oVv+RItezEVTu4/YEOssd+YBfmIZXozMzyqOAUTD3gwBSrVlccci7UpA==;x/qAFAuYsk9XZlK2CEjnHQ=="
+secured: "Anz7s3UuIEODZCmXIPaWtnDG7JgDfUze4EOMt+OnQE8nGNcMRt/wHJLCkn5lEuPhoZsWQd4rSHgGM7BOz8CXfOHASFlmy5xWiexMjzxPTmdTrewREqwDTIg80ZqNuPGMhssDrS32+TGOC46ZBQfoKXGUGMMF8sAVmlT+NZsC20lDM4XmM33kOhNBC2xtmBZrR4uE4F6FPkBhr5fzm/dSzDzerVfYf/FmhfccuTNZaSIMcZ8zVBakhg3JG95164TJ1Dhiv+5hy6Cht6GVVqvMDonyXY3SWUGsC9QGU0XbY8Mq4/BNKXbxv4IIPe2iGJacqnue5pUqusdWIxJPlT6Bd9LK/G0xGKrUPmHj0TrC97U=;gvAKi3kFKradF4uEzeRA4g=="
 ---
 

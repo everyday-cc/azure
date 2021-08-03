@@ -1635,6 +1635,20 @@ related:
         width: 2472
         height: 1294
         isCached: true
+  - title: "Microsoft expands Azure Gaming team to UK"
+    excerpt: "Xbox veteran Harvey Eagle will lead the Azure Gaming effort in the UK. Microsoft has been investing heavily in its games enterprise business as it wants more developers making use of cloud technology (Azure) and cross-play."
+    publishedDateTime: 2021-08-03T09:01:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2021-08-03-microsoft-expands-azure-gaming-team-to-uk"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://images.eurogamer.net/2021/articles/2021-08-03-09-57/_D4F5B281_0451_4CA3_B5B0_FE28EA5131B3_.png.jpg"
+        width: 502
+        height: 324
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
