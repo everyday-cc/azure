@@ -1,28 +1,22 @@
 ---
 category: news
 title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
-publishedDateTime: 2021-07-22T18:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
+excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
+publishedDateTime: 2021-07-22T21:33:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
   - Security
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
@@ -247,6 +241,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "s33FGPbW7fcwCW3pj8V5bXTKHcjQQG/4HVfhUMVUF9m2npcTqvzszCtPN9Ndo7aFsCSV1nZOQ+UdDNAVoj2vbeXyTZGjo3qtyUx6o0YgrMftUODWe1dTDRgibHYxkdelr3k2bEOQqaRyHgAEM6HOHdaVeB404Xm4NCMNWKlYndvkkd8dw7xrRNhymSP9NOK/+ia2AGVuD95hY3ww2dLdL/XfqcpS5MkQ5SPY7otSxk4iYnpmOJbt7BfdW69WJwMjDaxn/DKGmE2MclLoZb5Hq0lqLnrHW6UtIfY8jETYxMWxTMUONO6PTJD8tA0D43WexjL47/34H6BIOqrwq+1SeJZKo4DStDxqb8OCki6Qp6k=;GMrO3xX005bb6lxLxkJHyA=="
+secured: "mQJk8+smuxI0uyxNsyb1RExb7WPJr7N6t3Oa2gY0gIqSX7AjkP3kdmTQXRjslLtjjMRlSZ6g1/harp4J91HKF6UnQFBcyDVHU7gmElaPGPmMjX+ilzoBn5j3pNkrlB6T0utl/8E+lyaRz6YyLsfhsBoK18WbN21gdJ2pW7BSYd2s838G6rkQCTGFFeHgn735n+XQWeqYHg9W0A4AVzwadKPIYmy37oxS7Bn0O5f4QU6dzactiICP8+eXc5IHilTvvNEUkSU0P580STcGhLunF9rvao3d/DRvFyu8jqEXaYVjM2/4oYf15kCZ2qaRxWZjxjLuhwq5ssNLkZmXxuEbTgNtE51xg4JaquBWi7vbKC8=;88y1OFSi2ZGSlXSMl1fq7w=="
 ---
 
