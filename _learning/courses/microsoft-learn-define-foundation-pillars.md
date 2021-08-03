@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT16M
 ratings:
-  count: 1867
-  average: 4.745581
-heat: 50
+  count: 1868
+  average: 4.7457175
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - DevOps
 
-secured: "6CmHKe5fGEZrSVO/PcTKwFBrxjzibYhv7mz2ffu0LJUqnGEMLO/vnoUu5t3Jh8p/dFZWF8QP7EbxQy9GYJ0waGhiOaFmzSNu0mp8hEyqX9lhS5lz8BSHimgddVzguyNabYUSKZjIYS4jvX3uYQHX43SRHJclBa4gn4urEZLiJD7StwRebKtilbPWv3dqDR2yEjnTsAtI35dHRaYF33br0YEapj3LZ8AP6S8tayobjwDXDIrl+sxsMEGSkk4VDzPY8cIW9BYYyji1+N060doiFUQI0qOq0OxBsxmdJxtNaP+MQBcl1W+26sgcLq557O/KuFxwgyYI9Dq0R9GumcTjt4G0YneLvpIVXlfmw7FOH0kYqv+VZ6TYlI+L3xmlqghnKi/BxF8BatK/KlNfj5dtssa6HtuzYe6U39GARatTIbg=;LfitIKfCibN7Zj/229bdOA=="
+secured: "Sj2sZGra5jPLzyPwAurO9ev3Ijw820KyEHr697+WCyX/0kmAel+wmxT5fHkJE42dKld+cmILowg0DmP4/iDfusDFoIqzm1cbsgS8CdyqiFjRyIZXtc1I2wPnZqZcjFvYUWKa5Cw6/YPrtnpWq/llGHZZR6oxGZkI3KRl+LbSJ8WKRtyFS6jAywAG59/gKpR8rz5ipbSIUjwxiwmraVCK55sUG1hLkd521oSYLrUUpwRaVVGR5JlOa7WtH9+ubqEsK/iZVzUncaUczotkDaL9WA4YHMcUrgX3pVhECoi1ClIZ8bSyldXMJBSwsaS7GNjIkZ1LCleux3s/XZFO/6vDNaNjpKYC5Ob46H9UmgilanwHPEDrKn2u7Kc2n3Y6ZcMtrNp1X3hRBl1HGiSKMe3+2APSxTVS9nMMXx9pJYs7uZw=;yD3X3ssKK+oFzBe30jEn8Q=="
 ---
 

@@ -183,7 +183,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/NQi28CE5yWQ/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/2YasHdel_VY/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
