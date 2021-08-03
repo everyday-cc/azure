@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Introducing EMQ X Cloud on Microsoft Azure"
-excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-publishedDateTime: 2021-07-26T15:02:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/introducing-emq-x-cloud-on-microsoft-azure-1030645682"
-webUrl: "https://markets.businessinsider.com/news/stocks/introducing-emq-x-cloud-on-microsoft-azure-1030645682"
+excerpt: "EMQ, the leader of open-source and cloud-native distributed MQTT broker for IoT, is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker - EMQ X,"
+publishedDateTime: 2021-07-26T14:57:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/07/26/9416701.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/07/26/9416701.htm"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -1630,18 +1626,18 @@ related:
         height: 1300
         isCached: true
   - title: "Introducing EMQ X Cloud on Microsoft Azure"
-    excerpt: "EMQ, the leader of open-source and cloud-native distributed MQTT broker for IoT, is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker ..."
-    publishedDateTime: 2021-07-27T02:37:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3079448"
+    excerpt: "is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker - EMQ X, which has ..."
+    publishedDateTime: 2021-07-26T19:41:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2021/07/image_2-1-1.jpg"
-        width: 800
-        height: 363
+      - url: "https://mma.prnewswire.com/media/1581139/image_1.jpg?p=facebook"
+        width: 2472
+        height: 1294
         isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
@@ -2232,6 +2228,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "nIWFF4VtU7zWXfc6PA4r8QjKPzAHNqlX5PnN5H1qOo+7B1yoxLVOvrhc9C2XApA+Mgp5ZJp2FEtk6novKloOByCHBvQ+HSe7mpL90C4Xns8XCYumHQpbLDH93JdFzQGkfrJZ5dDN+xg0dV96OOItfcjopy8ct1XFHxdlCNnxOcjhNvBBf+AUdyAoAW8TLF3W8+gqlneH/aIWKueiM2AyFrxg0bI6nw1afp+8E6yz6UDEgXOIXITLQQWwU+QPSu7LnabQmJPA5kMLrtOblVNls8abzrHv1vubLkz/lomQ8y+e8duBrabh5+dll+8JTk4JbjXZMdsaW1NHo7yeeNvYnF+93Ll7v8Pee1OpRtZG0jztmBuv9sDgW+T++vKGyVA/34NlfaV8BQPEjor/NSp8004f++25ghe+ZCd2gFlcDuX/JMjvssFDTp3Fa/N/ZAE17gg90bL9Tq0O+ShoxiceaKWpHrN6r8tMcgLheybYkG1+SrOn5/FLl5ECal9sfdIpX00j/1ACU7GlmEsqplSVrg==;Kcs59hLIPfL88TBvAWBKZw=="
+secured: "8x1Is4/Jyp0SDDaGDDEtTBQZVxUNZ7XQ9dv/icUsf2iDRyyyNI5Pg4zc3Snnja1CH3t3NS2sZqH56P4nS9dRNvgAt7jaHp+xBL2e7KLtVWiDUfKSwsCv5Kx2t/cS3ZwZmI/2jomWani/i8h/21nA1XAWghvan7n8visX/U6RDWgRMugrizHPM08toJcRlaGZ8HPvJHoyNlhRxVJUgbnDsizRZH1ozs24c/tIALaqiSK+cpuS3ihat6U+/rfzkcw1KcQrTz5vnpkzDb9noPqu5aKxaWz5a/gOwL1a34IqOCdO1kEu58uOY7fPfue1It7OlAYeRqFVooqOjT1n+IEQvcQO0wSCTB9LMJbDO0hEaei2c2Af4AQwgWAIYA7fmOshaF/ZRUAUNG/CHO1KFn05dOWXRyb+BcKTJMlg3h3NIamgB2VDtUlxi2S2PKTPHCbvj7NQVdEvRRNadVECiXsY3W3HB35qe//tmbXdYXFPqeoniH98ZQ3uudHRFoxv+6E9ZsLruAo8ZG1/0uzICFjSoQ==;PHmNnEcqEcg+tguBVSA9XA=="
 ---
 

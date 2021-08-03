@@ -160,6 +160,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Microsoft, Ooredoo Qatar Launch Smart City Solution on Azure Cloud"
+    excerpt: "Microsoft Qatar alongside a global consortium of partners led by Ooredoo to bring to life the TASMU Platform, a one-of-a-kind smart city solution. Built on Microsoft’s highly available, scalable, and secure Azure cloud infrastructure,"
+    publishedDateTime: 2021-08-03T01:17:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20412-microsoft-ooredoo-qatar-launch-smart-city-solution-on-azure-cloud"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/715ddc1874442cb7bd52b023b55e436d.jpg?t=20210803_011246"
+        width: 752
+        height: 408
+        isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
     publishedDateTime: 2021-07-22T19:03:00Z

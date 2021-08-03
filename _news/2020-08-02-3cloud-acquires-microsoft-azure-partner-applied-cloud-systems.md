@@ -662,15 +662,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 57
-  - title: "Introducing EMQ X Cloud on Microsoft Azure"
-    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-    publishedDateTime: 2021-07-26T15:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-emq-x-cloud-on-microsoft-azure-1030645682"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
     excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
     publishedDateTime: 2021-01-27T17:15:00Z
@@ -1634,18 +1625,18 @@ related:
         height: 1300
         isCached: true
   - title: "Introducing EMQ X Cloud on Microsoft Azure"
-    excerpt: "EMQ, the leader of open-source and cloud-native distributed MQTT broker for IoT, is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker ..."
-    publishedDateTime: 2021-07-27T02:37:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3079448"
+    excerpt: "is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker - EMQ X, which has ..."
+    publishedDateTime: 2021-07-26T19:41:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2021/07/image_2-1-1.jpg"
-        width: 800
-        height: 363
+      - url: "https://mma.prnewswire.com/media/1581139/image_1.jpg?p=facebook"
+        width: 2472
+        height: 1294
         isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
@@ -2111,6 +2102,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "Introducing EMQ X Cloud on Microsoft Azure"
+    excerpt: "EMQ, the leader of open-source and cloud-native distributed MQTT broker for IoT, is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker - EMQ X,"
+    publishedDateTime: 2021-07-26T14:57:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/07/26/9416701.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"

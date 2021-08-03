@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
-excerpt: "William de Gale, lead portfolio manager at BlueBox, discusses Microsoft's latest earnings. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
-publishedDateTime: 2021-07-28T09:23:00Z
-originalUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantage-is-its-cloud-business-azure-bluebox.html"
-webUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantage-is-its-cloud-business-azure-bluebox.html"
+title: "Microsoft, Ooredoo Qatar Launch Smart City Solution on Azure Cloud"
+excerpt: "Microsoft Qatar alongside a global consortium of partners led by Ooredoo to bring to life the TASMU Platform, a one-of-a-kind smart city solution. Built on Microsoft’s highly available, scalable, and secure Azure cloud infrastructure,"
+publishedDateTime: 2021-08-03T01:17:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/20412-microsoft-ooredoo-qatar-launch-smart-city-solution-on-azure-cloud"
+webUrl: "https://www.thefastmode.com/technology-solutions/20412-microsoft-ooredoo-qatar-launch-smart-city-solution-on-azure-cloud"
 type: article
-quality: 77
-heat: 397
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106917937-16274675284ED4-SBEU-070821-WilliamdeGale.jpg?v=1627467527"
-    width: 1920
-    height: 1080
+  - url: "https://www.thefastmode.com/media/k2/items/src/715ddc1874442cb7bd52b023b55e436d.jpg?t=20210803_011246"
+    width: 752
+    height: 408
     isCached: true
 
 related:
+  - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
+    excerpt: "William de Gale, lead portfolio manager at BlueBox, discusses Microsoft's latest earnings. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
+    publishedDateTime: 2021-07-28T09:23:00Z
+    webUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantage-is-its-cloud-business-azure-bluebox.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 77
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106917937-16274675284ED4-SBEU-070821-WilliamdeGale.jpg?v=1627467527"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
     excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
     publishedDateTime: 2021-07-29T12:07:00Z
@@ -156,20 +166,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Microsoft, Ooredoo Qatar Launch Smart City Solution on Azure Cloud"
-    excerpt: "Microsoft Qatar alongside a global consortium of partners led by Ooredoo to bring to life the TASMU Platform, a one-of-a-kind smart city solution. Built on Microsoft’s highly available, scalable, and secure Azure cloud infrastructure,"
-    publishedDateTime: 2021-08-03T01:17:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20412-microsoft-ooredoo-qatar-launch-smart-city-solution-on-azure-cloud"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/715ddc1874442cb7bd52b023b55e436d.jpg?t=20210803_011246"
-        width: 752
-        height: 408
-        isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
     publishedDateTime: 2021-07-22T19:03:00Z
@@ -245,6 +241,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "syY0K7T+t4kvalnIXbsBeXP7HwVTKGguaIss2YLpsU2wU754HsjKGjgUnmSDSyFHEPzA67gOUW2Tk8BW35x0rj8HNIuDAmBN9WdXY3KgQGaE76C3uPcyEC6lI5NJoXaUsXXo/bBJ9/w+vv5R4tScoCpuqG9qnRghmKTjqrs5TgTckZsE6euaOHAVVFmG0mkGDBDb7DdfUdHuS6Yfyl27mg2fv5lMGCuBNIEdi4VRVmZFMsZiPYsDYpl6VRnjY0kNCHNseGUXWPLI288eS6MV9bhiozqz73Hwndl4azZ5OyM2IS4eBImBkoUaDSmJJ+uJqr6kvERyqaB2FheDdfpM5qi4yOdOUI8Wr6J+ECkmVje3iKw1oiq5hmEQca8huOHsmNr5oh+bwrQr6mlzugs1g27/37pSKUmqxgrk0IF/vaS3z92XawCFnLXpqIo3ogXLvTP+iaktAJCNQznXoZIZyp7bCD+8jFlqaAoyEI23Xc0iyqRdOtx1NDNR8p8FZgKQrr/V1i2BJgVA5qVFkC6d+A==;PuoqgglNkJ7I89/kYBF3VA=="
+secured: "6qfr0YQQm+1T/ajtgTXgyZaUYvkKGcRXVWhiO6vYIPi61sOq7RPhvml7DwC2+qItFOUPhw4k5X07JcDrbl4FDPLz3DbmX7ZrUTS4alcku/sQQmjrEVG9H/YyTWLqn3trLqFnX0S+TcnoAuNnMDEm1YWVbzK6xi8i8c0Oi3LTtlYHo6E8WYmk3p1CoUROv2AaVh6PeNwebjAvw0krOM1CvXklOrBvwmMC8sM34aNll5kn+VxUTax9K7fqYBO0E+mtA5KQa2H1qn/EIBb81pWvWgFObB0SDcbjrRq+Ulp9Yrf8CoPBqidzR7Q/3kWE+54acCaTDgNbs+rPClTZNGDOY10w212yCaodWTj5WbL8Wkc=;EB+k4iiU6mrppjmTt5efIw=="
 ---
 
