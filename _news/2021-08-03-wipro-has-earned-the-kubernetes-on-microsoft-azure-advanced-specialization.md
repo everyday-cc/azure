@@ -1,29 +1,22 @@
 ---
 category: news
-title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
-excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
-publishedDateTime: 2021-05-31T15:52:00Z
-originalUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
-webUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
-ampWebUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
+title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,"
+publishedDateTime: 2021-08-03T12:07:00Z
+originalUrl: "https://www.publicnow.com/view/90D1D418923960C141FF3122DBD1BB4C901736A6"
+webUrl: "https://www.publicnow.com/view/90D1D418923960C141FF3122DBD1BB4C901736A6"
 type: article
-quality: 51
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: publicnow.com
+  domain: publicnow.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2016/04/build_6_web.jpg"
-    width: 1000
-    height: 667
-    isCached: true
+  - Containers
 
 related:
   - title: "Microsoft brings more of its Azure services to any Kubernetes cluster"
@@ -356,6 +349,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Build announcements at a glance: Azure, Power platform get major updates"
+    excerpt: "At Microsoft Build, Microsoft made more than 100 announcements, including new features and functions aimed at providing that help to developers. Here are some highlights"
+    publishedDateTime: 2021-05-31T15:52:00Z
+    webUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108"
+    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-announcements-at-a-glance-azure-power-platform-get-major-updates/454108?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 51
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2016/04/build_6_web.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft Previews Contextual Settings for Azure Active Directory Conditional Access"
     excerpt: "Microsoft this week announced a public preview release of an Azure Active Directory Conditional Access capability that lets organization trigger policies for end users based on a situation or context."
     publishedDateTime: 2021-05-27T23:33:00Z
@@ -588,15 +597,6 @@ related:
         width: 1920
         height: 1292
         isCached: true
-  - title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
-    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-08-03T12:07:00Z
-    webUrl: "https://www.publicnow.com/view/90D1D418923960C141FF3122DBD1BB4C901736A6"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 32
   - title: "Softline Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
     excerpt: "Softline today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in deploying and managing production workloads in the cloud using containers and managing hosted"
     publishedDateTime: 2021-07-02T07:01:00Z
@@ -768,6 +768,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "klfRRTJOAedOAfTjnwMzmOabwllvENN2XzeRnxAdNcSMSCDKO5G/H0bWQ+2LSHYwKzWDNkKUaL2bubCPxQjj7RhSs5kcuzvOX9TrZ18w7v4BOiDurmnQcXngTH6Fk6vs9uJE8ZAK3mvY55VyB2LfC/qwwvAuX7/UY+BqGN6hGeNw/o/UrC3ehaIn1sP+bYUBBOoJOb7Z2PgnDpFmPs2oyADyemxNIpFPUiXQhw9FvtTxnb0mG+FlTq5EyVtoCXa7G6V2SSVt8RmJtjY5rEPx/N5yl7zhFWzlV8bTn3N5WW8dt25vqfVmteqd7Ysbr4grJr5KWyuIlmx7OmpJadxooeHEUuZVrp+iqopBNr8OhUXfM8QmODn694mhgqLiLH9MIqpGNdfjsyrlvQoaLlrpKzq55x/OLDlkUu4xx2ndx+01nwCdHqEb4K4lTVg0iJA/z8QgYFZ4rjLl/VGSG7KdosDbz80nUEh3HP5hEZPhTc90HE7ahHPhuI9CxTzjddw6tZyWEjfMC4kq/fP8MFygAA==;A0UoNDl0Xtgh8kiJLpTJuQ=="
+secured: "HtFZLtbkVnT1lrkp9aMrkGIByJqIOgaK21bCHZywMaEAaxzjGr1Cbro/UWx1zQFrbT1Xdq7Uc2JyOsFnLoanmpkJxYotIFxopM1DHppSHRvmx6A6nj/B1HEaw0lJ5cYOKl7GhOIzMcTRmTzVnMbRVjDDmT+mskFAgYg+wb7bcPYhX49DwlGa9O34NvNBrYEiRUKQ33hzlXknlssb4Vmp7zLFfQGyAV0Q+t7OURVhEMQY0ZSgnrH3zZtF0FMN4IxYrbbH0UMvTJwUi0b00QQcdGQZj/x51Jc73aFlMERtXETt6gGp7UFGTe8ZC7oFDPi8Hw31ALISK5FxlcV1awCydQomqIB5kpaPk2VHDrDU4x8=;DExp7um2vBjTP0p04OVTeg=="
 ---
 

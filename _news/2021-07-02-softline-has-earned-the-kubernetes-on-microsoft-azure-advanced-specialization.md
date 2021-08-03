@@ -597,6 +597,15 @@ related:
         width: 1920
         height: 1292
         isCached: true
+  - title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,"
+    publishedDateTime: 2021-08-03T12:07:00Z
+    webUrl: "https://www.publicnow.com/view/90D1D418923960C141FF3122DBD1BB4C901736A6"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 32
   - title: "GlobalLogic Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
     excerpt: "GlobalLogic Inc., a leader in Digital Product Engineering, today announced it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge,"
     publishedDateTime: 2021-05-05T12:30:00Z
