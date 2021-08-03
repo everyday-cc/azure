@@ -32,6 +32,9 @@ items:
   - courses/microsoft-learn-image-classification-azure-sphere
   - courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere-iot-hub
   - courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere
+  - courses/microsoft-learn-create-image-recognition-with-azure-iot-edge
+  - courses/microsoft-learn-void-detection-edge-devices-lva
+  - courses/microsoft-learn-object-detection-lva-edge-device
 
 topics:
   - Azure
