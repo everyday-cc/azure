@@ -169,49 +169,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-azure-files-file-sync.md",
-      "title": "Configure Azure files and Azure File Sync",
-      "excerpt": "You will learn how to configure Azure file and file sync.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-files-file-sync/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-files-file-sync/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 2,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
       "title": "Configure security policies to manage data",
       "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
@@ -952,8 +909,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft/",
       "length": "PT31M",
       "ratings": {
-        "count": 684,
-        "average": 4.7982454
+        "count": 688,
+        "average": 4.7994184
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1155,6 +1112,51 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-implement-network-monitoring.md",
+      "title": "Design and implement network monitoring",
+      "excerpt": "You will learn to design and implement network monitoring solutions such as Azure Monitor and Network watcher.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-network-monitoring/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-monitoring/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 11,
+        "average": 4.7272725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
         "Networking"
       ]
     },

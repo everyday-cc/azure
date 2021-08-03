@@ -142,8 +142,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
       "length": "PT42M",
       "ratings": {
-        "count": 681,
-        "average": 4.7973566
+        "count": 682,
+        "average": 4.797654
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -671,51 +671,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-implement-network-monitoring.md",
-      "title": "Design and implement network monitoring",
-      "excerpt": "You will learn to design and implement network monitoring solutions such as Azure Monitor and Network watcher.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-network-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-monitoring/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 11,
-        "average": 4.7272725
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-design-implement-network-security-monitoring.md",
       "title": "Design and implement network security",
       "excerpt": "You will learn to design and implement network security solutions such as Azure DDoS, Azure Firewall, Network Security Groups, and Web Application Firewall.",
@@ -855,8 +810,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-modern-data-warehouse-using-azure-synapse-analytics/",
       "length": "PT56M",
       "ratings": {
-        "count": 197,
-        "average": 4.461929
+        "count": 198,
+        "average": 4.4646463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1313,6 +1268,49 @@
         "Azure",
         "Management Tools",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-discuss-core-azure-architectural-components.md",
+      "title": "Discuss core Azure architectural components",
+      "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-discuss-core-azure-architectural-components/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discuss-core-azure-architectural-components/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Discuss core Azure architectural components",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
