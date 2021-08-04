@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Introducing EMQ X Cloud on Microsoft Azure"
-excerpt: "EMQ, the leader of open-source and cloud-native distributed MQTT broker for IoT, is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker ..."
-publishedDateTime: 2021-07-27T02:37:00Z
-originalUrl: "https://www.thaipr.net/en/it_en/3079448"
-webUrl: "https://www.thaipr.net/en/it_en/3079448"
+excerpt: "is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker - EMQ X, which has ..."
+publishedDateTime: 2021-07-26T19:41:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: thaipr.net
-  domain: thaipr.net
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.thaipr.net/wp-content/uploads/2021/07/image_2-1-1.jpg"
-    width: 800
-    height: 363
+  - url: "https://mma.prnewswire.com/media/1581139/image_1.jpg?p=facebook"
+    width: 2472
+    height: 1294
     isCached: true
 
 related:
@@ -698,6 +698,22 @@ related:
       - url: "https://www.rapidtvnews.com/images/2021/August_2021/UnifiedStreaming_MSAzure_4Aug2021.jpg"
         width: 900
         height: 399
+        isCached: true
+  - title: "Unified Origin Software Now Available in Microsoft Azure"
+    excerpt: "The move by Unified Streaming will make it easier for online broadcasters and video providers to use Unified Origin to launch OTT services"
+    publishedDateTime: 2021-08-04T17:53:00Z
+    webUrl: "https://www.tvtechnology.com/news/unified-origin-software-now-available-in-microsoft-azure"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/unified-origin-software-now-available-in-microsoft-azure"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/unified-origin-software-now-available-in-microsoft-azure"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/wWMDwC9zdxgXsKVs9zBesS-1200-80.png"
+        width: 1200
+        height: 532
         isCached: true
   - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
     excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
@@ -2324,6 +2340,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "o5ybZhEfecykOAxn2jebw9vHlOSCJ1Z9bac3PC3G5+HNoAGiTc5j2qOTpOLP+MhHGhq+4VRwUhtwC1Xra6TC0yd42zp4dYL7wOlyNmaoUrCsGichILmjejHfr4QkpkZf0l8d9EWTYntIdsXV1Gv/MNk0VkrxkJzCm+oiJ2hlQnXNTmcaxBucE6Ya/ijiSTSGF79b+ukjnsIFi3njXhGiHa0HZ18/3WEwKLRjMRNoonb5rZYvhF3Ibx9zSdMLnpJyZG9ETplvBdYE4pnslq73zD1y7mTm+HAmZErPjrz+1ZdDi3yfcyXdKw9ulVkKyBQUMuz0Gamh/s/PjO6ogcsgADCuZKc4fQcZRnij96SpIaU=;Woh4aoRza+HytHf3z2O3ig=="
+secured: "uLeNX9IDSTS5FvQ5ttCUGKfOv9504Cz7nANB5FQKx4WXTql9FQV6GkL/boexiNbjO1dYTgm5ZyKILZc5mvBhagwBkkOQEWa+bowCN+4DFPnRcWpqt/CeDkeOVTRAISjI1BVFz6sWAtN5GtD6Xe6J83lf0SHAfaevALifmU2MmLUEIDiW10wn6Pi6BdXikORzzM7TpWGUApw4oCNlhwkBsGYx+wPqTehf7kW9slMV/g15oYWf6x7lZFqgb9YBTuieF3usx86JQh41kYwNTK+fkC24EdqUjTImEeTsDBS9Sy9unIXUSx25whXu9VD+5xArZDylGEc8fyv8lhVQX/PcsMCW5+pEnjA4jlv+AS129FU=;KIyt4Z7Vl9hEmpd7eFQbMg=="
 ---
 

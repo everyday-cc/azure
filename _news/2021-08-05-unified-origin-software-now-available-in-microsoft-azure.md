@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Exabeam Extends Security Management Platform with AWS, Google Cloud Platform and Microsoft Azure Cloud Storage Monitoring"
-excerpt: "By ingesting audit data from Amazon Simple Storage Services (Amazon S3), Microsoft Azure Blobs and Google Cloud Platform Cloud Storage buckets, Exabeam can distinguish malicious activity from ..."
-publishedDateTime: 2020-10-29T14:16:00Z
-originalUrl: "https://www.oaoa.com/news/business/exabeam-extends-security-management-platform-with-aws-google-cloud-platform-and-microsoft-azure-cloud-storage/article_df685cae-fb58-5bc8-b562-0737c397017a.html"
-webUrl: "https://www.oaoa.com/news/business/exabeam-extends-security-management-platform-with-aws-google-cloud-platform-and-microsoft-azure-cloud-storage/article_df685cae-fb58-5bc8-b562-0737c397017a.html"
+title: "Unified Origin Software Now Available in Microsoft Azure"
+excerpt: "The move by Unified Streaming will make it easier for online broadcasters and video providers to use Unified Origin to launch OTT services"
+publishedDateTime: 2021-08-04T17:53:00Z
+originalUrl: "https://www.tvtechnology.com/news/unified-origin-software-now-available-in-microsoft-azure"
+webUrl: "https://www.tvtechnology.com/news/unified-origin-software-now-available-in-microsoft-azure"
+ampWebUrl: "https://www.tvtechnology.com/amp/news/unified-origin-software-now-available-in-microsoft-azure"
+cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/unified-origin-software-now-available-in-microsoft-azure"
 type: article
-quality: 46
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: TV Technology
+  domain: tvtechnology.com
 
 topics:
   - Azure
-  - Storage
-  - Security
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://cdn.mos.cms.futurecdn.net/wWMDwC9zdxgXsKVs9zBesS-1200-80.png"
+    width: 1200
+    height: 532
     isCached: true
 
 related:
@@ -701,22 +701,6 @@ related:
         width: 900
         height: 399
         isCached: true
-  - title: "Unified Origin Software Now Available in Microsoft Azure"
-    excerpt: "The move by Unified Streaming will make it easier for online broadcasters and video providers to use Unified Origin to launch OTT services"
-    publishedDateTime: 2021-08-04T17:53:00Z
-    webUrl: "https://www.tvtechnology.com/news/unified-origin-software-now-available-in-microsoft-azure"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/unified-origin-software-now-available-in-microsoft-azure"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/unified-origin-software-now-available-in-microsoft-azure"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/wWMDwC9zdxgXsKVs9zBesS-1200-80.png"
-        width: 1200
-        height: 532
-        isCached: true
   - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
     excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
     publishedDateTime: 2021-01-27T17:15:00Z
@@ -900,6 +884,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
         width: 1200
         height: 671
+        isCached: true
+  - title: "Exabeam Extends Security Management Platform with AWS, Google Cloud Platform and Microsoft Azure Cloud Storage Monitoring"
+    excerpt: "By ingesting audit data from Amazon Simple Storage Services (Amazon S3), Microsoft Azure Blobs and Google Cloud Platform Cloud Storage buckets, Exabeam can distinguish malicious activity from ..."
+    publishedDateTime: 2020-10-29T14:16:00Z
+    webUrl: "https://www.oaoa.com/news/business/exabeam-extends-security-management-platform-with-aws-google-cloud-platform-and-microsoft-azure-cloud-storage/article_df685cae-fb58-5bc8-b562-0737c397017a.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 46
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
   - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
     excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
@@ -2342,6 +2340,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "a2tWnOLkaXjHDJIYw1YtOYkplfw4QPwO5SLHHchb0QkMv8tjBGJin8bhIdQGXACsk4qAaVCYdP3VmzP2OHfaFTpQzF3urGna2+B/PgL95mpbg3T80bKbeWQYbyzCIiVgEh3b2z8alga4vrCYVJ/mI5m+TB53F9kJVr+yISeK4Ne6QrI7p+WLhpQSTwKRooxZ4y3hfJIiIiqQz/KylYgDLh4kq6AM8KoExI7Nq8fsFs6zfSMH5SJeXIxg7bDrB/6sDq3Ue3y+ssyNITX0Ysqgu1GajN16EgZm4uil6jDUNZFIwm6ZyEqbMgJWwSV/S5lrNxszy5uKn4VHxa8tr8st/3icgvKi5a5BzhqdbRJUWjg=;XS9FERBKZiw+jjUgIbP5Fg=="
+secured: "8trW4ZwhIQH0rNVV2uuyDuD+O/SZhx54qZ3w3ct1SPVy2tI6U9sHIwL/6Z5GcXDqBPQy2/KI+tEgyu4UAEXBE78LnavnHjkVBEThJyfaOwCX5sQ1is4wnKpSf9NdsFzHkij4z567EINNBkbNxpgPeAJRSroy31D1QAYl+ecG+DwE3nd7cdHTtZirKT2pIhSRGoyOubetKlFikYEKTsS3+k1BfPWgVL+mH5wcslb2NZBurKxlk7V5vkCQ05D2sko15/4Af2GftnsuUhaWgnhyAQT0lMzWEw4Tx6rN+1r2HtbqFkdCOGKAldeEibB3WrbmTm1PLfpw+63/Q3IxJ47LGZnFZjUmwWk6lQnpj+7YTYQ=;kZbxbjDwI3b/wIxkLDCiYA=="
 ---
 
