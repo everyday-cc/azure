@@ -204,8 +204,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/collaborate-with-git/",
           "length": "PT55M",
           "ratings": {
-            "count": 1247,
-            "average": 4.765838
+            "count": 1248,
+            "average": 4.7660255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1457,8 +1457,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-artificial-intelligence/",
       "length": "PT59M",
       "ratings": {
-        "count": 4629,
-        "average": 4.7463813
+        "count": 4630,
+        "average": 4.746436
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1666,8 +1666,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-case-studies/",
       "length": "PT54M",
       "ratings": {
-        "count": 385,
-        "average": 4.755844
+        "count": 386,
+        "average": 4.756477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1873,50 +1873,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-first-bicep-deployment-pipeline-using-azure-pipelines.md",
-      "title": "Build your first Bicep deployment pipeline by using Azure Pipelines",
-      "excerpt": "Build a basic deployment pipeline for Bicep infrastructure as code templates by using Azure DevOps and Azure Pipelines. Learn how to use service connections to authenticate your deployment pipeline to Azure. Add triggers to configure the Bicep deployment pipeline to run whenever your main branch is updated.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-first-bicep-deployment-pipeline-using-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-first-bicep-deployment-pipeline-using-azure-pipelines/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-qna-solution-qna-maker.md",
       "title": "Build a QnA solution with QnA Maker",
       "excerpt": "Build a QnA solution with QnA Maker",
@@ -2000,6 +1956,52 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management.md",
+      "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
+      "excerpt": "In this module, you will learn how to assemble multiple Azure Functions into a single API using Azure API Management.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 2212,
+        "average": 4.632459
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-serverless-api-with-functions-api-management-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web",
+        "Compute",
+        "Serverless"
       ]
     }
   ],
