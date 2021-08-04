@@ -4,6 +4,175 @@
   "page": 31,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-cmu-cloud-computing-overview.md",
+      "title": "Foundations of cloud computing for developers",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Discover what the cloud is, the history of cloud computing, what types of clouds are available, and how you might use the cloud.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cmu-cloud-computing-overview/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-computing-overview/",
+      "length": "PT1H20M",
+      "ratings": {
+        "count": 290,
+        "average": 4.7034483
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/foundations-of-cloud-computing-for-developers-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cmu-cloud-economics.md",
+      "title": "Economics of cloud computing",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how developers pay to use the cloud and how cloud providers are able to charge for their services. Get an overview of how the cloud is kept secure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cmu-cloud-economics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-economics/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 152,
+        "average": 4.6776314
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/economics-of-the-cloud-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cmu-cloud-elasticity.md",
+      "title": "Scale your cloud resources with elasticity",
+      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Discover what cloud elasticity means and different ways to scale your cloud resources.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cmu-cloud-elasticity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-elasticity/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 86,
+        "average": 4.9069767
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-cloud-elasticity-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cmu-cloud-security.md",
+      "title": "Cloud security",
+      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Keeping your cloud secure means more than just adding permissions to resources. Learn about what cloud security means, including threats, cryptography, and regulation.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cmu-cloud-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-security/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 146,
+        "average": 4.8356166
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-cloud-security-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-cmu-data-center-cloud-service.md",
       "title": "Cloud management",
       "excerpt": "Carnegie Mellon University's Cloud Developer course. Get into the nitty-gritty of cloud computing to understand how resources are provisioned, billed, and monitored. Learn about how to orchestrate cloud infrastructure with examples.",
@@ -159,48 +328,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-disaster-recovery-backup-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cmu-monitor-cloud-resources.md",
-      "title": "Monitor cloud resources",
-      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Monitoring how your cloud resources are performing is crucial to building reliable cloud applications. This module covers what monitoring is, why you need to do it, and how you can about monitoring your resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cmu-monitor-cloud-resources/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 545,
-        "average": 4.5889907
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-monitor-cloud-resources-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -695,8 +822,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "PT56M",
       "ratings": {
-        "count": 2591,
-        "average": 4.604014
+        "count": 2592,
+        "average": 4.6041665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1109,136 +1236,6 @@
         "Azure",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-application-kubernetes-arc.md",
-      "title": "Implement Azure App Service on Kubernetes with Arc",
-      "excerpt": "Azure App Service on Kubernetes with Azure Arc enables implementation of Azure application-platform services on customer-managed, Arc-onboarded Kubernetes clusters. Azure App Service is one you can implement.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-application-kubernetes-arc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-application-kubernetes-arc/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 6,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-automatic-deployment-for-azure-sql-database.md",
-      "title": "Configure automatic deployment for Azure SQL Database",
-      "excerpt": "Utilize Azure Resource Manager templates for deploying Azure SQL resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-automatic-deployment-for-azure-sql-database/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-automatic-deployment-azure-sql-database/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 151,
-        "average": 4.6821194
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-automatic-deployment-for-azure-sql-database-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-azure-active-directory.md",
-      "title": "Configure Azure Active Directory",
-      "excerpt": "You will learn how to configure Azure Active Directory including features like AD Join and Self-Service Password Reset.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-active-directory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-active-directory/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 3,
-        "average": 4.3333335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

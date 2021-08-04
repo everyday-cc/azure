@@ -751,8 +751,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11103,
-            "average": 4.6830587
+            "count": 11104,
+            "average": 4.6830873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1572,49 +1572,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-images.md",
-      "title": "Analyze images",
-      "excerpt": "Analyze images",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-images/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 12,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-results-kql.md",
       "title": "Analyze query results using KQL",
       "excerpt": "Analyze query results using KQL",
@@ -1959,8 +1916,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "PT23M",
       "ratings": {
-        "count": 6584,
-        "average": 4.7376976
+        "count": 6585,
+        "average": 4.737737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2216,8 +2173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
       "length": "PT41M",
       "ratings": {
-        "count": 1050,
-        "average": 4.672381
+        "count": 1052,
+        "average": 4.6730037
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2249,6 +2206,49 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-qna-solution-qna-maker.md",
+      "title": "Build a QnA solution with QnA Maker",
+      "excerpt": "Build a QnA solution with QnA Maker",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-qna-solution-qna-maker/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-qna-solution-qna-maker/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 10,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

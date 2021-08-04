@@ -4,6 +4,134 @@
   "page": 45,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-make-predictions-with-linear-regression.md",
+      "title": "Make predictions with linear regression",
+      "excerpt": "Learn",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-make-predictions-with-linear-regression/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/make-predictions-with-linear-regression/",
+      "length": "PT1H27M",
+      "ratings": {
+        "count": 84,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/make-predictions-with-linear-regression-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-advanced-ediscovery.md",
+      "title": "Manage Advanced eDiscovery",
+      "excerpt": "Manage Advanced eDiscovery",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-advanced-ediscovery/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-advanced-ediscovery/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 7,
+        "average": 4.714286
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-azure-kubernetes-service-azure-stack-hci.md",
+      "title": "Manage Azure Kubernetes Service on Azure Stack HCI",
+      "excerpt": "Manage Azure Kubernetes Service on Azure Stack HCI",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-azure-kubernetes-service-azure-stack-hci/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-kubernetes-service-azure-stack-hci/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 6,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-azure-paas-resources-using-automated-methods.md",
       "title": "Manage Azure PaaS resources using automated methods",
       "excerpt": "Explore SQL automation for Azure SQL Database and Open Source databases. Configure elastic jobs and Azure Policy.",
@@ -173,48 +301,6 @@
         "Azure",
         "Management Tools",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-changes-bicep-code-git.md",
-      "title": "Manage changes to your Bicep code by using Git",
-      "excerpt": "Learn how to use Git version control with your Bicep files and infrastructure as code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-changes-bicep-code-git/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-bicep-code-git/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 5,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -1197,82 +1283,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-merge-conflict-resolution-github.md",
-      "title": "Settle competing commits by using merge conflict resolution on GitHub",
-      "excerpt": "Learn to settle overlapping commits across branches by using merge conflict resolution.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-merge-conflict-resolution-github/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-merge-conflicts-github/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 686,
-        "average": 4.8323617
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/resolve-merge-conflicts-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-message-queues-stream-processing.md",
-      "title": "Message queues and stream processing",
-      "excerpt": "Carnegie Mellon University's cloud developer course. The increase of available data has led to the rise of continuous streams of real-time data to process. Learn about different systems and techniques for consuming and processing real-time data streams.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-message-queues-stream-processing/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-message-queues-streams/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 49,
-        "average": 4.7755103
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

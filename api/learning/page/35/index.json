@@ -4,6 +4,136 @@
   "page": 35,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-your-first-app-with-azure-maps.md",
+      "title": "Create your first route finding app with Azure Maps",
+      "excerpt": "Learn about writing code to interact with Azure Maps. Develop and test a fun app using JavaScript and Visual Studio Code to find the best route for a truck, car, or bicycle. The route is from the west coast of the USA, to the east coast. You will see how routes change based on vehicle. And, for trucks, how routes vary if the contents are hazardous. You will get the chance to add in your own locations.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-your-first-app-with-azure-maps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-app-with-azure-maps/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 24,
+        "average": 4.7916665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/create-your-first-app-with-azure-maps-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster.md",
+      "title": "Creating and configuring a HDInsight cluster",
+      "excerpt": "Creating and configuring a HDInsight Cluster",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/creating-and-configuring-hdinsight-cluster/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 185,
+        "average": 4.6054053
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/creating-and-configuring-a-hdinsight-cluster-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-customize-clusters-azure-cyclecloud.md",
+      "title": "Customize high-performance computing clusters deployed with Azure CycleCloud",
+      "excerpt": "Azure CycleCloud templates offer a declarative provisioning model that helps you minimize administrative overhead associated with deploying and maintaining custom HPC environments in Azure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-customize-clusters-azure-cyclecloud/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-clusters-azure-cyclecloud/",
+      "length": "PT2H2M",
+      "ratings": {
+        "count": 6,
+        "average": 4.1666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/customize-clusters-azure-cyclecloud-social.png",
+          "width": 1280,
+          "height": 640,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-customize-suse-linux-enterprise-server-azure.md",
       "title": "Customize a SUSE Linux Enterprise Server virtual machine on Azure",
       "excerpt": "Deploy and customize a SUSE Linux Enterprise Server (SLES) on Azure virtual machine (VM) using YaST admin and zypper package management tools to add RPM packages. Learn how SUSE groups packages and reconciles package dependencies to help ensure you run the latest updates and versions. Practice using YaST and zypper to install a LAMP stack on a SLES Azure VM.",
@@ -1182,134 +1312,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-sap-certified-offerings.md",
-      "title": "Deploy SAP certified offerings on Azure",
-      "excerpt": "Azure provides a scalable, compliant, and enterprise-proven platform for a range of SAP workloads. In this module, you explore the platform compliance criteria that is stipulated by SAP before deploying SAP solutions in Azure, and look at the different options for deploying SAP in Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-sap-certified-offerings/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sap-certified-offerings/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 623,
-        "average": 4.817014
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-sap-certified-offerings-for-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
-      "title": "Deploy SQL Server in a virtual machine",
-      "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-sql-server-virtual-machine/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 2906,
-        "average": 4.7777014
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-templates-command-line-github-actions.md",
-      "title": "Deploy modular and reusable ARM templates from the command line and by using GitHub Actions",
-      "excerpt": "Learn how to deploy Azure Resource Manager (ARM) templates by using Azure PowerShell, the Azure CLI, and from GitHub Actions.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-templates-command-line-github-actions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 46,
-        "average": 4.7391305
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-templates-command-line-github-actions-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

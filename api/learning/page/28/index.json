@@ -4,6 +4,164 @@
   "page": 28,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-aks-manage-application-state.md",
+      "title": "Deploy and manage a stateful application using CosmosDB and Azure Kubernetes Service",
+      "excerpt": "Create and manage a stateful application with an external storage using CosmosDB and Azure Kubernetes Service",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-manage-application-state/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-manage-application-state/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 41,
+        "average": 4.707317
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aks-optimize-compute-costs.md",
+      "title": "Optimize compute costs on Azure Kubernetes Service (AKS)",
+      "excerpt": "Explore strategies that you can use on Azure to optimize your cloud-native application-development process by using Azure Kubernetes Service (AKS).",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-optimize-compute-costs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 198,
+        "average": 4.671717
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/optimize-compute-costs-on-azure-kubernetes-service-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aks-secrets-configure-app.md",
+      "title": "Manage Application Configuration and Secrets in Azure Kubernetes Service (AKS)",
+      "excerpt": "Learn how to securely store application secrets and configurations using native Kubernetes resources in Azure Kubernetes Service (AKS).",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-secrets-configure-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-secrets-configure-app/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 50,
+        "average": 4.74
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aks-workshop.md",
+      "title": "Azure Kubernetes Service Workshop",
+      "excerpt": "In this workshop, you'll go through tasks to deploy a multicontainer application to Kubernetes on Azure Kubernetes Service (AKS).",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-workshop/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-workshop/",
+      "length": "PT2H25M",
+      "ratings": {
+        "count": 420,
+        "average": 4.747619
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aks-workshop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-analytics-engines-graphlab.md",
       "title": "Distributed computing on the cloud: GraphLab",
       "excerpt": "Carnegie Mellon University's cloud developer course. GraphLab is a big data tool developed by Carnegie Mellon University to help with data mining. Learn about how GraphLab works and why it's useful.",
@@ -1110,168 +1268,6 @@
       "topics": [
         "Azure",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
-      "title": "Build and store container images with Azure Container Registry",
-      "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 3082,
-        "average": 4.643089
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-cyclecloud-high-performance-computing.md",
-      "title": "Create, customize and manage an HPC cluster in Azure with Azure CycleCloud",
-      "excerpt": "This module explains how to use Azure CycleCloud for high-performance computing. It explains how to install and configure Azure CycleCloud to work with your Azure subscription as well as how to integrate a third-party scheduler. Finally, it covers how to create and deploy a basic HPC cluster on Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-cyclecloud-high-performance-computing/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-cyclecloud-high-performance-computing/",
-      "length": "PT1H18M",
-      "ratings": {
-        "count": 7,
-        "average": 4.428571
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-cyclecloud-high-performance-computing-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-data-subject-requests.md",
-      "title": "Responding to Data Subject Requests (DSRs)",
-      "excerpt": "Learners will know, understand, and be able to describe Data Subject Requests (DSRs). They will also know how to manage DSRs on Azure and Microsoft 365.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-data-subject-requests/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-data-subject-requests/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-diagnose-application-startup-errors-with-kudu-console.md",
-      "title": "Diagnose startup errors in your application using Kudu console",
-      "excerpt": "This module explains how to use kudu console to examine the application event log to identify the event that caused the error.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-diagnose-application-startup-errors-with-kudu-console/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-diagnose-application-startup-errors-with-kudu-console/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 27,
-        "average": 4.4074073
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-diagnose-application-startup-errors-with-kudu-console-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

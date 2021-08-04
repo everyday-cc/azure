@@ -4,6 +4,82 @@
   "page": 46,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-merge-conflict-resolution-github.md",
+      "title": "Settle competing commits by using merge conflict resolution on GitHub",
+      "excerpt": "Learn to settle overlapping commits across branches by using merge conflict resolution.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-merge-conflict-resolution-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-merge-conflicts-github/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 686,
+        "average": 4.8323617
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/resolve-merge-conflicts-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-message-queues-stream-processing.md",
+      "title": "Message queues and stream processing",
+      "excerpt": "Carnegie Mellon University's cloud developer course. The increase of available data has led to the rise of continuous streams of real-time data to process. Learn about different systems and techniques for consuming and processing real-time data streams.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-message-queues-stream-processing/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-message-queues-streams/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 49,
+        "average": 4.7755103
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-microservices-apigateway-aspnet-core.md",
       "title": "Understand API Gateways in a cloud-native ASP.NET Core microservices app",
       "excerpt": "This module guides you through implementing BFF in an ASP.NET Core microservices app.",
@@ -998,8 +1074,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 1332,
-        "average": 4.605856
+        "count": 1333,
+        "average": 4.6061516
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1199,85 +1275,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-manage-device-with-iotcentral.md",
-      "title": "Monitor and manage your coffee machine with Azure IoT Central",
-      "excerpt": "Learn how to create an Azure IoT Central application to control Internet of Things devices that communicate through unique connection strings.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-manage-device-with-iotcentral/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 214,
-        "average": 4.6308413
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-models-with-azure-machine-learning.md",
-      "title": "Monitor models with Azure Machine Learning",
-      "excerpt": "After a machine learning model has been deployed into production, it's important to understand how it is being used by capturing and viewing telemetry.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-models-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 606,
-        "average": 4.7458744
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-models-with-azure-machine-learning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
       ]
     }
   ],
