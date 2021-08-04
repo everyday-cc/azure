@@ -2214,6 +2214,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Unified Origin software available in Microsoft Azure"
+    excerpt: "Unified Streaming, a specialist in smart video streaming technologies, has announced the general availability of its Unified Origin software on Microsoft Azure,"
+    publishedDateTime: 2021-08-04T10:27:00Z
+    webUrl: "https://advanced-television.com/2021/08/04/unified-origin-software-available-in-microsoft-azure/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 17
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
     publishedDateTime: 2021-03-12T13:05:00Z

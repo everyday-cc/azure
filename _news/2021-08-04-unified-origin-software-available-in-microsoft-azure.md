@@ -1,36 +1,39 @@
 ---
 category: news
-title: "Pure Storage extends public cloud block storage to Microsoft Azure"
-excerpt: "Storage technology pioneer Pure Storage this morning said its software for managing public cloud block storage is available on Microsoft's Azure cloud computing service, adding to Pure's existing offering for Amazon AWS. Pure has defined itself as a ..."
-publishedDateTime: 2021-03-17T01:39:00Z
-originalUrl: "https://www.zdnet.com/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
-webUrl: "https://www.zdnet.com/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
+title: "Unified Origin software available in Microsoft Azure"
+excerpt: "Unified Streaming, a specialist in smart video streaming technologies, has announced the general availability of its Unified Origin software on Microsoft Azure,"
+publishedDateTime: 2021-08-04T10:27:00Z
+originalUrl: "https://advanced-television.com/2021/08/04/unified-origin-software-available-in-microsoft-azure/"
+webUrl: "https://advanced-television.com/2021/08/04/unified-origin-software-available-in-microsoft-azure/"
 type: article
-quality: 114
-heat: 3534
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Advanced Television
+  domain: advanced-television.com
 
 topics:
   - Azure
-  - Storage
-
-images:
-  - url: "https://www.zdnet.com/a/hub/i/r/2020/10/27/6f243821-b6da-4a8c-967e-de7654891543/thumbnail/1200x675/6c5bd02248d7e74a487a2dfbd682b463/20201027-pure-larry.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
+  - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
+    excerpt: "Storage technology pioneer Pure Storage this morning said its software for managing public cloud block storage is available on Microsoft's Azure cloud computing service, adding to Pure's existing offering for Amazon AWS. Pure has defined itself as a ..."
+    publishedDateTime: 2021-03-17T01:39:00Z
+    webUrl: "https://www.zdnet.com/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 114
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2020/10/27/6f243821-b6da-4a8c-967e-de7654891543/thumbnail/1200x675/6c5bd02248d7e74a487a2dfbd682b463/20201027-pure-larry.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft set to close Azure Blockchain Service"
     excerpt: "Microsoft has announced that it will shutter its Azure Blockchain service later this year, allowing users to migrate their ledger data by September 10, 2021. Blockchain is the technology ..."
     publishedDateTime: 2021-05-14T19:10:00Z
@@ -2205,15 +2208,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Unified Origin software available in Microsoft Azure"
-    excerpt: "Unified Streaming, a specialist in smart video streaming technologies, has announced the general availability of its Unified Origin software on Microsoft Azure,"
-    publishedDateTime: 2021-08-04T10:27:00Z
-    webUrl: "https://advanced-television.com/2021/08/04/unified-origin-software-available-in-microsoft-azure/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z
@@ -2329,6 +2323,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "tmZnoIWrwLETLv/uvRQ5G+bD4LQ7UQI1ttcM/Sv5x6WmBQKTxH5EJhG7C9K3wCmg/FQfo5q7zqoMP68faVNFa5ENyT/ResdfiIF7B5iVPy4ElRcxvGcnNuzhIz6eCMXWjdsy6RfsDRUifkIrlvngtzvGDDDRaR3C6lQA7GZv5Ic0lKYjaVbL6rmFw1G+7KUf2es4Y8UqUzG6YTyUNqM/lyOqBIsSQVqxuYA9MoOJv5vDbBzekucZ+EWQguJyg6XnAfs1ZuMVrs6O9aAt83gm7Exo8mkZMfcA1oswmlh/XbPhEsHPl2ydCWf4486WxfGUNa47iDrtlO0exLBr/jF/c1aCKS4K44IVDPUqOzM/LWcItNNcUgWsSNgjEj91F0vySSkPZviIb9hgtZ3u+byKG9T4sSvatKBdOevmUEoHv2hna5aKIZ4yl4KzYaMraPUpuuIx1ub2N9eYbnANZGbIAVGeaDNOXBx7us23OjyU0CdiSOjA1TwDRa1v+eHXMip0i4GL3caSNsCfuZ1cMHfIZg==;QFSoQ3igiQrwpDIhHUIKUA=="
+secured: "0C4jmZa/RPOiRe5EGIhqrgrLzA2kUj7RPqW8ZDAjkj89xfrWjfLydSbxzyYIzss0KS3kaHqUniO066hYEbk5wg4/GSA09AN15maj3PpdSjPWx3uVvdNkH3sl47woGZ4kZeVK32jfmfHfCSHU1TDHAV/jgvtYNTQHDYNO2hFq9p3W1bna1KsHTjVE0n8JUDgM2BfSALb8FVHDmWiLJKurRjwQeN3ZvNFmRT4LynuNlKszPHjyOPV4g8pm50pztgZ94wi5/W3SMEXxDFuElJtHQyjMHzc3B1JtSoA+9HwYP8INE5/TzCg2+HGLKWLt7zTdWhsuHRvzIpe4XrXI5ICuiS6uAdlDoEALnFUkYZOA60Y=;QewSSQRS93/k7n4XraYcxQ=="
 ---
 

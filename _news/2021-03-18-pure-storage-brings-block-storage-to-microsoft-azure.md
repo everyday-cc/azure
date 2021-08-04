@@ -2201,6 +2201,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Unified Origin software available in Microsoft Azure"
+    excerpt: "Unified Streaming, a specialist in smart video streaming technologies, has announced the general availability of its Unified Origin software on Microsoft Azure,"
+    publishedDateTime: 2021-08-04T10:27:00Z
+    webUrl: "https://advanced-television.com/2021/08/04/unified-origin-software-available-in-microsoft-azure/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z
