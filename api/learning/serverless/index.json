@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 86377,
-            "average": 4.7956285
+            "count": 86410,
+            "average": 4.795637
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 172,
+          "heat": 194,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 52223,
-            "average": 4.820539
+            "count": 52244,
+            "average": 4.820592
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,7 +94,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 146,
+          "heat": 166,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/fundamental-azure-concepts-social.png",
@@ -120,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 31442,
-            "average": 4.7888813
+            "count": 31453,
+            "average": 4.7889233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -157,7 +157,7 @@
         }
       ],
       "size": 3,
-      "heat": 152,
+      "heat": 166,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -184,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 52223,
-        "average": 4.820539
+        "count": 52244,
+        "average": 4.820592
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -202,7 +202,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 146,
+      "heat": 166,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/fundamental-azure-concepts-social.png",
@@ -251,8 +251,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 12121,
-            "average": 4.791766
+            "count": 12126,
+            "average": 4.7916875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -294,8 +294,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 13106,
-            "average": 4.784679
+            "count": 13112,
+            "average": 4.7845483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -312,7 +312,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 84,
+          "heat": 95,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -337,8 +337,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 9115,
-            "average": 4.7854085
+            "count": 9116,
+            "average": 4.7854323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -355,7 +355,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 79,
+          "heat": 85,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -384,8 +384,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 9890,
-            "average": 4.730637
+            "count": 9893,
+            "average": 4.7307186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -402,7 +402,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 70,
+          "heat": 81,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -421,7 +421,7 @@
         }
       ],
       "size": 6,
-      "heat": 100,
+      "heat": 109,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -438,6 +438,53 @@
         "AI",
         "DevOps",
         "Management Tools",
+        "Compute",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-serverless-fundamentals.md",
+      "title": "Choose the best Azure serverless technology for your compute scenario",
+      "excerpt": "Examine Azure's serverless technologies and choose the right service for your scenario.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-serverless-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 9116,
+        "average": 4.7854323
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 85,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Compute",
         "Serverless",
         "IoT",
@@ -487,53 +534,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-serverless-fundamentals.md",
-      "title": "Choose the best Azure serverless technology for your compute scenario",
-      "excerpt": "Examine Azure's serverless technologies and choose the right service for your scenario.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-serverless-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 9115,
-        "average": 4.7854085
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 79,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-create-serverless-applications.md",
       "title": "Create serverless applications",
       "excerpt": "In this learning path, discover Azure Functions that create event-driven, compute-on-demand systems using server-side logic to build serverless architectures.",
@@ -565,8 +565,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 1143,
-            "average": 4.6771655
+            "count": 1144,
+            "average": 4.6774473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -583,7 +583,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 58,
+          "heat": 65,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
@@ -607,8 +607,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9744,
-            "average": 4.6672826
+            "count": 9746,
+            "average": 4.6672482
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -625,7 +625,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 57,
+          "heat": 62,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -662,7 +662,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 58,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -713,7 +713,7 @@
         }
       ],
       "size": 10,
-      "heat": 68,
+      "heat": 74,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
@@ -765,8 +765,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9744,
-            "average": 4.6672826
+            "count": 9746,
+            "average": 4.6672482
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -783,7 +783,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 57,
+          "heat": 62,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -820,7 +820,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
@@ -848,8 +848,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4432,
-            "average": 4.623872
+            "count": 4433,
+            "average": 4.623731
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -866,7 +866,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 59,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -885,8 +885,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2594,
-            "average": 4.6044717
+            "count": 2595,
+            "average": 4.6046243
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -914,7 +914,7 @@
         }
       ],
       "size": 8,
-      "heat": 64,
+      "heat": 70,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
@@ -985,7 +985,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
@@ -1010,8 +1010,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43706,
-            "average": 4.719878
+            "count": 43709,
+            "average": 4.7198973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1107,7 +1107,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
@@ -1133,7 +1133,7 @@
         }
       ],
       "size": 11,
-      "heat": 62,
+      "heat": 63,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
@@ -1157,6 +1157,43 @@
         "Containers",
         "Serverless",
         "Blockchain"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
+      "title": "Create serverless logic with Azure Functions",
+      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 9746,
+        "average": 4.6672482
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 62,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Management Tools"
       ]
     },
     {
@@ -1837,15 +1874,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-      "title": "Create serverless logic with Azure Functions",
-      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
-      "length": "PT36M",
+      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
+      "title": "Execute an Azure Function with triggers",
+      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
+      "length": "PT1H23M",
       "ratings": {
-        "count": 9744,
-        "average": 4.6672826
+        "count": 5300,
+        "average": 4.7320757
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1862,7 +1899,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 57,
+      "heat": 58,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -1995,15 +2032,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-      "title": "Execute an Azure Function with triggers",
-      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-      "length": "PT1H23M",
+      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
+      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
+      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
+      "length": "PT55M",
       "ratings": {
-        "count": 5300,
-        "average": 4.7320757
+        "count": 2231,
+        "average": 4.2626624
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2026,9 +2063,55 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Storage",
         "Compute",
         "Serverless",
-        "Management Tools"
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio.md",
+      "title": "Develop, test, and deploy an Azure Function with Visual Studio",
+      "excerpt": "Use Visual Studio together with a test framework to create, deploy, and test an Azure Function.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 2775,
+        "average": 4.617297
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-with-visual-studio-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Developer tools"
       ]
     },
     {
@@ -2084,8 +2167,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 2214,
-        "average": 4.6323395
+        "count": 2215,
+        "average": 4.6325054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2130,8 +2213,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "PT20M",
       "ratings": {
-        "count": 2658,
-        "average": 4.7054176
+        "count": 2660,
+        "average": 4.705639
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2152,6 +2235,50 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
+      "title": "Monitor GitHub events by using a webhook with Azure Functions",
+      "excerpt": "Discover the benefits of webhooks when you trigger an Azure function with a GitHub webhook and parse the payload for insights.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 2566,
+        "average": 4.655495
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-github-events-with-a-function-triggered-by-a-webhook-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -2365,15 +2492,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
-      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
-      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
-      "length": "PT55M",
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
+      "length": "PT48M",
       "ratings": {
-        "count": 2230,
-        "average": 4.262332
+        "count": 1319,
+        "average": 4.7596664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2388,18 +2515,30 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage",
+        "Networking",
+        "Web",
         "Compute",
+        "Databases",
         "Serverless",
-        "Databases"
+        "Containers",
+        "DevOps",
+        "Management Tools"
       ]
     },
     {
@@ -2452,16 +2591,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-cosmos-db-cache-serverless-mongodb-and-managed-apache-cassandra-azure-friday.md",
-      "title": "Azure Cosmos DB cache, serverless MongoDB and Managed Apache Cassandra | Azure Friday",
-      "excerpt": "Kirill Gavrylyuk and friends join Scott Hanselman to discuss Azure Cosmos DB updates: integrated cache, serverless for MongoDB API, and Managed Instance for Apache Cassandra with dual write proxy.  ⏩ 0:00 – Opening ⏩ 1:33 – Integrated cache with Tim Sander ⏩ 17:36 – Serverless for MongoDB API with Gahl",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-cosmos-db-cache-serverless-mongodb-and-managed-apache-cassandra-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-cosmos-db-cache-serverless-mongodb-and-managed-apache-cassandra-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=27SN1eyVn5k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/27SN1eyVn5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M25S",
+      "path": "_learning/courses/microsoft-learn-publish-static-web-app-authentication.md",
+      "title": "Authenticate users with Azure Static Web Apps",
+      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with API and authentication using Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-authentication/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-authentication/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 33,
+        "average": 4.5757575
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -2472,141 +2613,26 @@
           }
         ]
       },
-      "publishedDateTime": "2021-07-09T01:16:47-07:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/27SN1eyVn5k/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-authentication-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
+        "Compute",
         "Serverless",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday.md",
-      "title": "Durable functions in Python for Azure Functions | Azure Friday",
-      "excerpt": "David Justo joins Scott Hanselman to discuss durable functions in Python, which is an extension of Azure Functions for writing stateful functions in a serverless compute environment. The extension is already available for C# and JavaScript and is now available for Python.  0:00 – Introduction 1:38 –",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=HZgjmb9Y_IM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HZgjmb9Y_IM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M19S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-12T01:36:57-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HZgjmb9Y_IM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday.md",
-      "title": "Go serverless: Enterprise integration with Azure Logic Apps | Azure Friday",
-      "excerpt": "Jeremy Likness joins Scott Hanselman to show how to build workflows and integrations from the cloud across third-party services and on-premises servers using Azure Logic Apps.  1:10 - Demo  Overview - What is Azure Logic Apps? https://aka.ms/azfr/621/01  Azure Logic Apps https://aka.ms/azfr/621/02  DEV50:",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=2qwGl-f8gd4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2qwGl-f8gd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M59S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-27T09:39:11-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2qwGl-f8gd4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-go-serverless-real-time-applications-with-azure-signalr-service-azure-friday.md",
-      "title": "Go serverless: Real-time applications with Azure SignalR Service | Azure Friday",
-      "excerpt": "Modern applications light up with real-time information. Anthony Chu joins Donovan Brown to show how to deliver live updates from Azure Functions to web, mobile, and desktop apps with Azure SignalR Service. Learn how to send real-time messages over WebSockets from your serverless apps with a few lines",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-go-serverless-real-time-applications-with-azure-signalr-service-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-go-serverless-real-time-applications-with-azure-signalr-service-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=FmxAf8TfFkc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FmxAf8TfFkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M22S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-27T12:04:10-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FmxAf8TfFkc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless"
+        "Web"
       ]
     }
   ],

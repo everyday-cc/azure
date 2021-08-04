@@ -4,6 +4,42 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer.md",
+      "title": "Provide context with the right depth layer",
+      "excerpt": "Threat models can get complex if all parties involved cannot agree on a data-flow diagram depth layer that provides enough context to satisfy requirements",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 385,
+        "average": 4.753247
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk.md",
       "title": "Use a framework to identify threats and find ways to reduce or eliminate risk",
       "excerpt": "Threat modeling helps you generate a list of potential threats using STRIDE and find ways to reduce or eliminate risk with corresponding security controls.",
@@ -133,51 +169,6 @@
         "Azure",
         "IoT",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device.md",
-      "title": "Trigger an Azure Event Grid workflow from an IoT device",
-      "excerpt": "Trigger an Azure Event Grid workflow from an IoT device",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/trigger-azure-event-grid-workflow-iot-device/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 30,
-        "average": 4.766667
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/trigger-azure-event-grid-workflow-iot-device-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Integration",
-        "Blockchain"
       ]
     },
     {
