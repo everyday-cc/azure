@@ -1,21 +1,27 @@
 ---
 category: news
-title: "3 Reasons Microsoft Needs to Reveal Azure's Financials"
-excerpt: "Microsoft (NASDAQ: MSFT) posted its fourth-quarter earnings on July 27. Its revenue rose 21% year-over-year to $46.2 billion, clearing expectations by $1.9 billion, as its earnings jumped 49% to $2.17 per share and beat estimates by $0."
-publishedDateTime: 2021-08-03T16:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-reasons-microsoft-needs-to-reveal-azures-financials-2021-08-03"
-webUrl: "https://www.nasdaq.com/articles/3-reasons-microsoft-needs-to-reveal-azures-financials-2021-08-03"
+title: "Collibra Data Intelligence Cloud Now Available in the Microsoft Azure Marketplace"
+excerpt: "Collibra, the Data Intelligence company, announced the availability of the Collibra Data Intelligence Cloud in the Microsoft Azure"
+publishedDateTime: 2021-08-04T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/collibra-data-intelligence-cloud-now-available-in-the-microsoft-azure-marketplace-301348087.html"
+webUrl: "https://www.prnewswire.com/news-releases/collibra-data-intelligence-cloud-now-available-in-the-microsoft-azure-marketplace-301348087.html"
 type: article
-quality: 57
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/238849/collibra_logo.jpg?p=facebook"
+    width: 2159
+    height: 1132
+    isCached: true
 
 related:
   - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
@@ -74,6 +80,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "3 Reasons Microsoft Needs to Reveal Azure's Financials"
+    excerpt: "Microsoft (NASDAQ: MSFT) posted its fourth-quarter earnings on July 27. Its revenue rose 21% year-over-year to $46.2 billion, clearing expectations by $1.9 billion, as its earnings jumped 49% to $2.17 per share and beat estimates by $0."
+    publishedDateTime: 2021-08-03T16:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-reasons-microsoft-needs-to-reveal-azures-financials-2021-08-03"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "A Microsoft Azure Space director becomes executive secretary of the National Space Council"
     excerpt: "Chirag Parikh is set to lead the U.S. National Space Council. He previously served as senior director for Azure Space."
     publishedDateTime: 2021-08-02T17:26:00Z
@@ -188,20 +203,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Collibra Data Intelligence Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Collibra, the Data Intelligence company, announced the availability of the Collibra Data Intelligence Cloud in the Microsoft Azure"
-    publishedDateTime: 2021-08-04T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/collibra-data-intelligence-cloud-now-available-in-the-microsoft-azure-marketplace-301348087.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/238849/collibra_logo.jpg?p=facebook"
-        width: 2159
-        height: 1132
-        isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
     publishedDateTime: 2021-07-22T21:33:00Z
@@ -277,6 +278,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "Kqv70awO2C4LajcDnU18FjghyfHzw73sZnukzxLI+DkckIL/s6FDwva/mv3bh0HNOjaGZ0SLDi7wBnRX2F5fEIEkF8re5IzZo5VYzASzye58iHd7z0mJ04BX3VKH1dvYmGu1EPrjcDXTyfCxnWbLm/uAcRTWm9UNXoDMGUzzMUUftS+qabz9z64dPFeWripFlGq1mlW+tR0ks0pieSTbSg+MfKWhtdnEFGbAOkeJktBhlEX96JIpSbw06p1ypqSjteLqbwQEh0OVLOb1QNTk6J66+5BsV5cqUnXcnnWcBZeoXU/NJXkD5nsZBZlzVqL2X1AehzfIEohTsS//Gg81SDfCtHF8nthkLe99z6jyX4w=;e6Vmh0DG4X/Wb4aQYoIbkQ=="
+secured: "29+m6fYLniG0iyjUIha3T9pUn4sxRWdZxokUY4TVygRxQ9zdqhjlc8QNUsfAGU7fH5bV2hMbJS9M7VtAs3QKU7XR3RRSibNe5SeTkARpju902rk+C8a2Bkurwf8ZjfJeOnsAVKJCMcaqnm+Jwj5/7rEMsZ/2oJW7RyKQxsiEOUQm2T/UTAFgRyexfw9cP6s4Qa4PyieXZdCJ0NifpQy/aG4t1ra6oN+ySQk3OjNT21kLtc4HVa4Sg15+rOgZ6N41HlY0lwABpMlgDtHI1Itx8ZyIyZuXT+/TR2P4FMH5qtPgClwhyOeZo4LUGDktQvVCxpXZ+T9gnr/wB4rN7SqbPH9PM56LZF4KFc6yUgStYoE=;hA/Z+IV0waPU2rv7o0FkkA=="
 ---
 

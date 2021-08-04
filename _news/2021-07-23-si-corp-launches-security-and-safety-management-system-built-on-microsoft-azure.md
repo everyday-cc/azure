@@ -1,28 +1,22 @@
 ---
 category: news
 title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
-publishedDateTime: 2021-07-22T18:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
+excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
+publishedDateTime: 2021-07-22T21:33:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
   - Security
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
@@ -204,6 +198,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Collibra Data Intelligence Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Collibra, the Data Intelligence company, announced the availability of the Collibra Data Intelligence Cloud in the Microsoft Azure"
+    publishedDateTime: 2021-08-04T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/collibra-data-intelligence-cloud-now-available-in-the-microsoft-azure-marketplace-301348087.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/238849/collibra_logo.jpg?p=facebook"
+        width: 2159
+        height: 1132
+        isCached: true
   - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
     excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
     publishedDateTime: 2021-07-21T12:34:00Z
@@ -270,6 +278,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "M/DZPLx+6lvq72D+0wQNuSSfUuLF68baAidFO4347Sy/1WqG9FoUHYBebA1Coz49h1uZX1TnHPQeEZ2aWva9E9LqiCucQAySF+xX5dUVPVTHsVA354v7cl3qX+9c5uRG9S+MD80z2Mub05vlP1HPKIBKxDwfQ3PgpMVXUoHogaTSnQkZl1bm8CdgL5JpVKjdir9VhNoxCK1VRCbuynS1IGqXxskOobMVIefhsRqZxJ5shDqrLwszrpANAgM6tTyGPqGO+tYIzzXoh0keN6dcjM6lXmkoYhN+VREUSHK5yYfA5McmJafSP80HIDJ0MndyanxjJ42PIHjfauoA5Vggk3xUeet6kTKVt1UqNG/ULmA=;Zrex0afUsK5ojY9AUhe2iQ=="
+secured: "uSLAa44YnycI4WvtUYi3+HnANhdHtOs7owt3DwF2qfztdVcdYqO0ZysFzcIXqHyrMl59LFkV/roPA0QWAeTWoAh2XmgJD6HwHHxowUcnjtgPzs4teyemBSliaLBpG0RJN4XPhFVYq4HYVDG0ohbD3JqyCQl4GiqtYn/tTJnEKb6lYmU30l8Wg9WGewxlpSIn1W6ac5lF10wR9A8Ky6+HVz4URnOFOjuigy9jXb0D6sK6O3YjeYDccxAH8biMDlNxNBVPeQAwcEm799VMzJ6ONNXBHpuP9kp25/wDgKjyFhY4jGj8XtQiMUpMt4iDIUn7xOZ2kjKN+U1WPvp3fK3AJc224397eNPE7E7nPPjbHLs=;Rg8mpTNydC0EHLJvWigksQ=="
 ---
 
