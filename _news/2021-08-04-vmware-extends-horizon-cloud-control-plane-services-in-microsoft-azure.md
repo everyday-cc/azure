@@ -1673,6 +1673,20 @@ related:
         width: 502
         height: 324
         isCached: true
+  - title: "VMware ports Horizon VDI to Microsoft’s Azure cloud"
+    excerpt: "VMware Inc. today is announcing that it will make substantially all of its VMware Horizon virtual desktop infrastructure available on Microsoft Corp.’s Azure cloud. Previously the service was available only on Amazon Web Services Inc."
+    publishedDateTime: 2021-08-03T12:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/03/vmware-ports-horizon-vdi-azure-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/08/workstation-405768_1280.jpg"
+        width: 806
+        height: 543
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -2271,6 +2285,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "49+bXnkoRz4FK06u8NAV94lScJE7/qPt0MGRWLXCi2LORjZGhtBIsgrjK5kslFkb5hTrLOpgJkcSvt+8LDujq280j7eQagvyFp63tKrV5qEFteop37n+RPubsyFSsMfwvSZKb/cmf4RTfnHoI5tyUnDVvZ5oaMkH4Jb6P7nRWBMZrMtGTb4AVoYve+UraRoRWdti8nQgzBhhZ+Os6WsmQAoX8Wwr/TERJegdg3XVEFCQV9i9pcW1oN1IY6ZHwS3uzGTzNPaCx4lo11buM2qhMncFY/4Hqia0/mPw5rWrwDwJW8yiyyqdy4YIXiR2skWl0XmchYkVzStnoV+PVa9dUzTaIGCxRsIakPNYlSyOVdI=;F3xBbQg9iQtBTZbIyBpDTw=="
+secured: "ukjcenAE/A8CFt+ha9q8HDYTzYb/YHNjnW0xrg23E4vXMvAHMrznABkxJ2DcgOg0I8o67CnlyaArbVU0zyRturhGrbGr0ZLneml72j7ZR/2Nhjexkg3kERJd7ZyVGNiL+78hrZHHKQK8JhB6C1cHZ6NdiOnkCGydwKq+s/V2I1XfLK2l6aFAnys6ENx5o9fKqX5QRi8xX42vMVFf0FukGUB1IP2OviPkl18LypG8MDtKIzL2His8FJ2cICs+LyDw9b/n0rq+sYXKYZQs7+jZ6iYFKisvFdEj4WxVIC7QJ3Btmb0X0udbmyl7ygDdc2UgyjOSsjvh06oLfTP4FPyGEyWrSVNnZe0K1/11IABxNDgqmLiJgjd0r+3DSN1NTjei62y3pB2sEyE55wyBCZew0xL6upDbYLfNnq4kYyo/7Bu6caHxAlFsWBIKSfMIkSR8JJQhMTGtXuRH6tazCEzIrgTztKwxvJdN24BQW1p2MxK1WBEToKW4oDmvKftD79KdPCX9x4yXinmwmIa1+TTsew==;Ed0hmQiGB4k1VXZid9oQcA=="
 ---
 

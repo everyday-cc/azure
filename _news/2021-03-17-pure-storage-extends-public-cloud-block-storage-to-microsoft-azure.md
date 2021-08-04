@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
 type: article
 quality: 114
-heat: 3454
+heat: 3474
 published: true
 
 provider:
@@ -1663,6 +1663,20 @@ related:
       - url: "https://images.eurogamer.net/2021/articles/2021-08-03-09-57/_D4F5B281_0451_4CA3_B5B0_FE28EA5131B3_.png.jpg"
         width: 502
         height: 324
+        isCached: true
+  - title: "VMware ports Horizon VDI to Microsoft’s Azure cloud"
+    excerpt: "VMware Inc. today is announcing that it will make substantially all of its VMware Horizon virtual desktop infrastructure available on Microsoft Corp.’s Azure cloud. Previously the service was available only on Amazon Web Services Inc."
+    publishedDateTime: 2021-08-03T12:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/03/vmware-ports-horizon-vdi-azure-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/08/workstation-405768_1280.jpg"
+        width: 806
+        height: 543
         isCached: true
   - title: "VMware Extends Horizon Cloud Control Plane Services in Microsoft Azure"
     excerpt: "The entire line of VMware Horizon Cloud Control Plane services are now available with connectivity to Microsoft Azure VMware Solution."

@@ -1669,6 +1669,20 @@ related:
         width: 502
         height: 324
         isCached: true
+  - title: "VMware ports Horizon VDI to Microsoft’s Azure cloud"
+    excerpt: "VMware Inc. today is announcing that it will make substantially all of its VMware Horizon virtual desktop infrastructure available on Microsoft Corp.’s Azure cloud. Previously the service was available only on Amazon Web Services Inc."
+    publishedDateTime: 2021-08-03T12:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/03/vmware-ports-horizon-vdi-azure-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/08/workstation-405768_1280.jpg"
+        width: 806
+        height: 543
+        isCached: true
   - title: "VMware Extends Horizon Cloud Control Plane Services in Microsoft Azure"
     excerpt: "The entire line of VMware Horizon Cloud Control Plane services are now available with connectivity to Microsoft Azure VMware Solution."
     publishedDateTime: 2021-08-03T21:52:00Z
