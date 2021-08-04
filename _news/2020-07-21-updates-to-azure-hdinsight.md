@@ -21,51 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "New region added to Azure HDInsight "
-    excerpt: "Azure HDinsight is now generally available in UAE Central"
-    publishedDateTime: 2020-11-04T16:58:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-is-now-available-in-the-uae-central/"
+  - title: "Azure HDInsight and Azure Database for PostgreSQL news"
+    excerpt: "I’ve been committed to open source software for over a decade because it fosters a deep collaboration across the developer community, resulting in ground-breaking innovation. At the heart of open source is the freedom to learn from each other and share ideas, empowering the brightest minds to work together"
+    publishedDateTime: 2020-03-02T10:00:11Z
+    webUrl: "https://azure.microsoft.com/blog/azure-hdinsight-and-azure-database-for-postgresql-news/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Azure HDInsight now supports Private Link in preview"
-    excerpt: "Azure HDInsight private link integration allows you to create VNET injected clusters with no public IP and access them using your own private endpoints."
-    publishedDateTime: 2020-11-05T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-now-supports-private-link-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Azure HDInsight ID Broker (HIB) is now generally available"
-    excerpt: "HDInsight ID Broker (HIB) provides modern OAuth authentication and enables federated users to login to cluster without syncing on-premise password hashes to the cloud."
-    publishedDateTime: 2020-11-09T17:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-id-broker-hib-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "New Brazil Southeast region added to Azure HDInsight"
-    excerpt: "HDInsight is now available for Brazil South customers requiring scenario-based in-country disaster recovery."
-    publishedDateTime: 2021-03-09T20:18:47Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-brazil-southeast-region-added-to-azure-hdinsight/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "New Norway East region added to Azure HDInsight"
-    excerpt: "HDInsight is now generally available for Norway East customers."
-    publishedDateTime: 2021-03-11T00:38:47Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-norway-east-region-added-to-azure-hdinsight/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
+    quality: 99
 
 secured: "DtTXViES46KhH96siS/oaQfUfRHVLvNOpDuyUVJHUFmwgidKJZczOR/DbUeMGmsYRGOsQRAQpxYjwQWMOSTIDj/ns3hx4KHgr2d8VujumNqB7t5WEOns77XcGJJRNYw4DEBhbxen3RfZaPqTZ548/W0enj2Fg6+ITSOPFqqE6hBoFAzyjn3Byps2h8YUDdpC1qZPK3TQ39B7M29ZqkMDgGCNtSv/dVQPOhp8e83g+hbTNe+QOVqqAztdfVRbQ+UD1vJG4N2iL53wjxVnIEbG1MWy0wi9U7jbzRF9CXNxM5EkEqYbwiH8Ciw5UQlDWEL6BS5LwBJYO1gSPutvP2IYig==;6WxkwYeQIDDpdkdoKH/Bkw=="
 ---

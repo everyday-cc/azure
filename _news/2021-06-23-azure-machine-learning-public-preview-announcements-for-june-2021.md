@@ -32,10 +32,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure SQL: General availability updates for early June 2021 "
-    excerpt: "General availability enhancements and updates released for Azure SQL in early June 2021"
-    publishedDateTime: 2021-06-09T16:00:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-early-june-2021/"
+  - title: "Azure SQL—public preview updates for early August 2021 "
+    excerpt: "Public preview enhancements and updates released for Azure SQL Managed Instance in early August 2021."
+    publishedDateTime: 2021-08-04T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-early-august-2021/"
     type: article
     provider:
       name: Microsoft

@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Public preview: Stop/start functionality for Azure Database for MySQL"
-    excerpt: "With the new database stop/start functionality, you can stop the database server when not in use (during non-business hours) and start it when it s back online. "
-    publishedDateTime: 2020-09-22T16:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mysql/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
   - title: "Public preview: Azure App Service Migration Assistant PowerShell-based experience "
     excerpt: "The PowerShell-based experience for the Azure App Service Migration Assistant is now in public preview."
     publishedDateTime: 2021-07-21T16:00:03Z
@@ -77,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Public preview: Azure Monitor Scheduled Query Rules API 2021-02-01-preview "
+    excerpt: "Scheduled Query Rules API version 2021-02-01-preview is now available and is replacing API version 2020-05-01-preview."
+    publishedDateTime: 2021-08-04T16:03:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-scheduled-query-rules-api-version-20210201preview-and-deprecation-of-api-version-20200501preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
   - title: "Public preview: AKS start/stop cluster feature"
     excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
     publishedDateTime: 2020-09-22T16:05:26Z

@@ -22,15 +22,33 @@ topics:
   - Azure
 
 related:
-  - title: "Community support for PHP 7.4 is ending on 28 November 2022"
-    excerpt: "App Service support for PHP 7.4 on Windows is ending on 28 November 2022."
-    publishedDateTime: 2020-10-28T00:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/community-support-for-php-74-is-ending-on-28-november-2022/"
+  - title: "Azure Database for PostgreSQL ending support for PostgreSQL version 9.6 on 11 November 2021 "
+    excerpt: "Community support for Azure Database PostgreSQL version 9.6 ends on 11 November 2021  "
+    publishedDateTime: 2021-02-22T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-ending-support-for-postgresql-version-96-on-11-november-2021/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 88
+  - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 13
+  - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
+    excerpt: ""
+    publishedDateTime: 2020-06-09T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-encryption-at-rest-byok-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 8
 
 secured: "3yy9GWERThvbGqf/qhKrc1RycDYz9q+aw6csE8z2KSfTsYKsSDy1r8JiKZDLwUOAKxMZGpTChe3HyiulSGIT7Bcxy/n08PeeDdnkzvT1lhi1HR638xlHWLPdmJEGumRFSC16XfECxyY1RNecYRHVD+XdXyWaMUhwU4QRlItIEePS3AgpIggo/2/ppQkA7n3FU2S6ktMASjjof58CRRMznyI0flGkTNpZQWYKG25Ed5kmUvOQW7Ez7+Rsz+iHgsKChtjO2kZ9bSW7jaOAQGxtRE8S8JZT+rObfddUpxBTTSKPdkdy1aujVpj5SOi6StZs4+RSrtmgOctNtvfmNyJCxBrU+V/rWs2s9BCmVcHzsss=;xQlQHkqP7Po4/qZOF1eeNw=="
 ---

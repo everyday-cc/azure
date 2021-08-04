@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Active Directory support for Azure Relay now in public preview"
+    excerpt: "Azure Relay now supports authentication and authorization via Azure AD as a public preview offering. With Azure AD, you don't need to store tokens in your code."
+    publishedDateTime: 2021-07-23T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aad-support-for-azure-relay-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Azure Site Recovery now supports cross-continental disaster recovery for 3 region pairs"
     excerpt: "Protect your applications from outages by replicating your virtual machines across continents."
     publishedDateTime: 2021-04-29T15:40:15Z

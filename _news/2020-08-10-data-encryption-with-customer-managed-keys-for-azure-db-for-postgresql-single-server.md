@@ -21,105 +21,69 @@ topics:
   - Azure
 
 related:
-  - title: "Power mission-critical applications with Azure Database for PostgreSQL"
-    excerpt: "In our current environment, organizations are increasingly looking towards digital solutions to engage their customers and remain competitive. "
-    publishedDateTime: 2020-08-24T10:00:16Z
-    webUrl: "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/"
+  - title: "Azure Database for PostgreSQL - Single Server: logical decoding feature is now generally available"
+    excerpt: "With logical decoding and wal2json support, unlock change data capture scenarios with Azure Database for PostgreSQL - Single Server. "
+    publishedDateTime: 2020-12-09T17:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-logical-decoding-feature/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 101
-  - title: "Azure HDInsight and Azure Database for PostgreSQL news"
-    excerpt: "I’ve been committed to open source software for over a decade because it fosters a deep collaboration across the developer community, resulting in ground-breaking innovation. At the heart of open source is the freedom to learn from each other and share ideas, empowering the brightest minds to work together"
-    publishedDateTime: 2020-03-02T10:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/azure-hdinsight-and-azure-database-for-postgresql-news/"
+    quality: 85
+  - title: "Python Durable Functions support in Azure Functions is now generally available"
+    excerpt: "Python developers can now create serverless workflows to orchestrate complex data processing and data science workloads in Azure Functions."
+    publishedDateTime: 2020-12-16T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/python-durable-functions-support-in-azure-functions-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
-  - title: "Azure Database for PostgreSQL Flexible Server now in preview"
-    excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
-    publishedDateTime: 2020-09-22T20:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
+    quality: 80
+  - title: "Infrastructure Encryption for Azure Monitor dedicated clusters now generally available"
+    excerpt: "Customers using Azure Monitor dedicated cluster get high level of assurance that their data is secure with additional 256-bit AES encryption at the Azure Storage infrastructure level."
+    publishedDateTime: 2020-12-09T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-encryption-for-azure-monitor-dedicated-clusters-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
-  - title: "Azure Defender for Azure Database for PostgreSQL – Single Server in general availability "
-    excerpt: "Azure Defender provides security alerts for anomalous activities so that you can detect potential threats and respond to them as they occur."
-    publishedDateTime: 2021-06-09T16:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-defender-for-azure-database-for-postgresql-single-server-in-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 90
-  - title: "Azure Database for PostgreSQL ending support for PostgreSQL version 9.6 on 11 November 2021 "
-    excerpt: "Community support for Azure Database PostgreSQL version 9.6 ends on 11 November 2021  "
-    publishedDateTime: 2021-02-22T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-ending-support-for-postgresql-version-96-on-11-november-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 88
-  - title: "Azure Database for PostgreSQL - Hyperscale (Citus) now compliant with additional certifications"
-    excerpt: "New certifications are now available for Hyperscale (Citus) on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. "
-    publishedDateTime: 2021-06-09T16:00:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-now-compliant-with-additional-certifications/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-  - title: "Public preview of Azure PostgreSQL backup with long term retention "
-    excerpt: "Now you can retain backups for up to 10 years by defining your own backup and retention policy for individual databases on PostgreSQL servers."
-    publishedDateTime: 2020-09-22T16:03:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-azure-postgresql-backup-with-long-term-retention/"
+    quality: 76
+  - title: "Azure Stack HCI is now generally available"
+    excerpt: "Flexible HCI delivered as an Azure Hybrid Service"
+    publishedDateTime: 2020-12-10T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-minimal-tls-version/"
+  - title: "Event hubs on Azure Stack Hub is now generally available"
+    excerpt: "The GA version of Event Hubs is now available on Azure Stack Hub. This will allow you to realize cloud and on-premises scenarios that use streaming and event-based architectures."
+    publishedDateTime: 2020-12-11T18:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 13
-  - title: "Azure Private Link for Azure Database for PostgreSQL now in Azure government regions"
+    quality: 67
+  - title: "Private Link support for Azure Automation is now generally available"
+    excerpt: "Ensure a secure channel to connect to your Automation Accounts resources with the help of Private Links in Automation."
+    publishedDateTime: 2020-12-11T22:19:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-private-link/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
     excerpt: ""
-    publishedDateTime: 2020-05-04T18:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-database-for-postgresql-now-in-azure-government-regions/"
+    publishedDateTime: 2020-05-27T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-now-available-in-the-france-south-region/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 10
-  - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
-    excerpt: ""
-    publishedDateTime: 2020-06-09T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-encryption-at-rest-byok-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
-  - title: "Infrastructure double encryption for Azure Database for PostgreSQL-single server is in preview"
-    excerpt: "Infrastructure double encryption adds a second layer of encryption using a FIPS 140-2 validated cryptographic module and a different encryption algorithm which gives an additional layer of protection for your data at rest."
-    publishedDateTime: 2020-08-10T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-postgresqlsingle-server-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 5
 
 secured: "acUGuLGTDaxoRnvtObjrCWhc1K2XSA/kPe3eZ2Mev0XuT5lLr4oMtCCFsvMoCEIyA3lePOCu33CIj9SxvF19lEnmmujNPjswThCYQXnY1orDellgpnqwzjYvE1DEgh2X4PRDx2pfbonk24S9K0Ka5Fhs5t4eKbdyLQ4szm+8ZqCJYbZLVL7BhK4YEzWR4RC9Zjz1gZAxjwTYBbv1LsYeX47DMwijjswUJg9EUXkQ41LCkl2So361WnKGXkJsBvao8Se5fyvT6FyhJJ2xClAH40HlU76igElFASlSQt21ETwEN0Zyl0B3O4P/I3fIUFHHaWUvdXkKs/ycGP5q0xhfFA==;nKYd4ntBbRA+FSi2B9lPJQ=="
 ---

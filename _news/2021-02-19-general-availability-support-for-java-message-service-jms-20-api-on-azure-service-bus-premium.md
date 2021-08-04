@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Red Hat OpenShift support for OpenShift 4.7"
+    excerpt: "Benefit from new features and enhancements in OpenShift release 4.7."
+    publishedDateTime: 2021-08-04T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-47/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Web Application Firewall for Azure Front Door managed ruleset refresh"
     excerpt: "Use Microsoft_DefaultRuleSet_1.1 to protect your web applications from OWASP top 10 vulnerabilities."
     publishedDateTime: 2021-02-19T18:54:37Z

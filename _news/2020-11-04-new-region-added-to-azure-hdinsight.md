@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-is-now-a
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-is-now-available-in-the-uae-central/"
 type: article
 quality: 84
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Updates to Azure HDInsight"
-    excerpt: "HDInsight now fully supports distributions of Apache analytics projects in-house. Plus, in the coming months, we’re launching the next generation of HDInsight with new and improved features."
-    publishedDateTime: 2020-07-21T16:02:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/updates-to-azure-hdinsight-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "upXoxJ81XBAmy4oAz1PAJFFL5l6I1jcAZv8PDYk6UjO01EPq1D1/a28151P5Qvby2tz8CGCdLav16CNp5+v+6MqgCyaSaPNiIhRPC1Iroz5V4LEB6MgoFHpabTGuHV57xYG80135NqAgZhdO/P5PjLUWnXNaCuy6ehTxTLPNdVQD+csdiJrSPEnqjpZTQm48La4bYrUhZOyh6SCi4Ly4zC5vETxhB+vMf+z3CrCd2+t+r5TwyFZ55Aq0o0bgIByL2n1k2W94cHAcWs4GKRJQfQUzpyHytvwIJ1isezwGHobHZ/Xv7g9X9/39AMckLddlbVrt5PPDIUfnOPwMT8Bgefhv4jNzmmBmj2A+gZorqqM=;L2veubQzODLe5ICbj55wFg=="
 ---

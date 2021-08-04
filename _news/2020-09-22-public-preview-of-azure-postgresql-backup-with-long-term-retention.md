@@ -22,105 +22,24 @@ topics:
   - Azure
 
 related:
-  - title: "Power mission-critical applications with Azure Database for PostgreSQL"
-    excerpt: "In our current environment, organizations are increasingly looking towards digital solutions to engage their customers and remain competitive. "
-    publishedDateTime: 2020-08-24T10:00:16Z
-    webUrl: "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/"
+  - title: "Introducing Azure Backup Center "
+    excerpt: "Backup Center currently is in public preview for the workloads of Azure Virtual Machines and Azure Database for PostgreSQL servers and limited public preview for the workloads SQL in Azure VMs, SAP HANA in Azure VMs and Azure Files."
+    publishedDateTime: 2020-09-22T16:02:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-center-now-supports-additional-workloads-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 101
-  - title: "Azure HDInsight and Azure Database for PostgreSQL news"
-    excerpt: "I’ve been committed to open source software for over a decade because it fosters a deep collaboration across the developer community, resulting in ground-breaking innovation. At the heart of open source is the freedom to learn from each other and share ideas, empowering the brightest minds to work together"
-    publishedDateTime: 2020-03-02T10:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/azure-hdinsight-and-azure-database-for-postgresql-news/"
+    quality: 84
+  - title: "What’s new in Azure Backup"
+    excerpt: "This past week at Ignite, we announced many new capabilities in Azure Backup to help customers scale their data protection to the evolving needs of their business. Lets recap on all the new capabilities within Azure Backup."
+    publishedDateTime: 2020-09-29T08:30:03Z
+    webUrl: "https://azure.microsoft.com/blog/whats-new-in-azure-backup/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
-  - title: "Azure Database for PostgreSQL Flexible Server now in preview"
-    excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
-    publishedDateTime: 2020-09-22T20:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Azure Defender for Azure Database for PostgreSQL – Single Server in general availability "
-    excerpt: "Azure Defender provides security alerts for anomalous activities so that you can detect potential threats and respond to them as they occur."
-    publishedDateTime: 2021-06-09T16:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-defender-for-azure-database-for-postgresql-single-server-in-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 90
-  - title: "Azure Database for PostgreSQL ending support for PostgreSQL version 9.6 on 11 November 2021 "
-    excerpt: "Community support for Azure Database PostgreSQL version 9.6 ends on 11 November 2021  "
-    publishedDateTime: 2021-02-22T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-ending-support-for-postgresql-version-96-on-11-november-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 88
-  - title: "Azure Database for PostgreSQL - Hyperscale (Citus) now compliant with additional certifications"
-    excerpt: "New certifications are now available for Hyperscale (Citus) on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. "
-    publishedDateTime: 2021-06-09T16:00:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-now-compliant-with-additional-certifications/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-  - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-minimal-tls-version/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 13
-  - title: "Azure Private Link for Azure Database for PostgreSQL now in Azure government regions"
-    excerpt: ""
-    publishedDateTime: 2020-05-04T18:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-database-for-postgresql-now-in-azure-government-regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
-  - title: "Data encryption with customer managed keys for Azure DB for PostgreSQL-single server "
-    excerpt: "Data encryption with customer-managed keys for Azure Database for PostgreSQL-single server (generally available) enables you to bring your own key (BYOK) for data protection at rest. "
-    publishedDateTime: 2020-08-10T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-db-for-postgresqlsingle-server/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
-  - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
-    excerpt: ""
-    publishedDateTime: 2020-06-09T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-encryption-at-rest-byok-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
-  - title: "Infrastructure double encryption for Azure Database for PostgreSQL-single server is in preview"
-    excerpt: "Infrastructure double encryption adds a second layer of encryption using a FIPS 140-2 validated cryptographic module and a different encryption algorithm which gives an additional layer of protection for your data at rest."
-    publishedDateTime: 2020-08-10T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-postgresqlsingle-server-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 5
+    quality: 84
 
 secured: "1pbewRmZr9ot3fIPj7v4kQ3BYDgb7jFTGJ6N35rtOlko1pkb5PwbL1AiREhDdOiT3NVQE+C7AFKOJyMvqWWVyAhbZUrbNLfRq6eqAG98tfnxOvz2TkDZsZuJ4LW5MBFx2C/wmBUvgDcmqJtemJ805/oar9LwjgWRv3KyxP28KHeAgImXdAwfZ6KV1lt8W4vau2GSkvBVSTlmUpFqSxpK8x0qO+uSugeSvi6CjB7PrTX/lGG5qwB8XubW7y0ec2ZSil9qe3Yv/Yp9D3CvvpI/nSTPMVQvJh1l620eHSqkRsltkQK3FF2aMTs+95Y8iODzv9CW+PwrZW7gnn6v9bf8P3VuFa3P5uWMkFGf++YfkVg=;uczE0VWbPNbj3Xsh5SAUXg=="
 ---

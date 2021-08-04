@@ -285,6 +285,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
+  - title: "General availability: Lower capacity reservation tier for Azure Monitor dedicated clusters"
+    excerpt: "Leverage advanced features in Azure Monitor like customer-managed key, Lockbox, infrastructure encryption for lower capacity reservation commitment."
+    publishedDateTime: 2021-08-04T16:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-lower-capacity-reservation-tier-for-azure-monitor-dedicated-clusters/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
   - title: "General availability: New Azure Policy built-in definitions for data encryption in Azure Monitor"
     excerpt: "With Azure Monitor built-in policy definitions for data encryption, you can enforce organizational standards and assess compliance of data encryption settings in your environment."
     publishedDateTime: 2021-04-14T16:02:04Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-center-now-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-center-now-supports-additional-workloads-preview/"
 type: article
 quality: 84
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Public preview of Azure PostgreSQL backup with long term retention "
+    excerpt: "Now you can retain backups for up to 10 years by defining your own backup and retention policy for individual databases on PostgreSQL servers."
+    publishedDateTime: 2020-09-22T16:03:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-azure-postgresql-backup-with-long-term-retention/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "J2klvPq+G97iOK0fSQkZan81PbMu6Sw/vN1fdKcI3xCBzzclVotwuxm80eMnl9heqo/EF71LJ1NY/1MMaaCqZIPCmI27gpgoeQF839FEvghDAxd5HIWcbbjPzNNAy6GTTP/leiNPQ3OQfoRCT7nqLPiR0H1AR5umXOP4XHO5lh9uMdUfGxuo6FOiWobhJZyaQlhgVMGi/p2QOMEY/gftSQg0mqZmJssPz4PPaobNmC1yrtlLD0u0uSEXSO2ABiavtM2ah2lCyNn5OowargBvSq5m5P4tQuviGRfj7Gm/Lr8SR8MJC4F/x89ALhoRyqCdcVjcWJU8SeQwWk5A/UYdbW5tiFjFHHxV94aDZMH62KI=;E48bBtXlbOEcjwqHCkGqNA=="
 ---

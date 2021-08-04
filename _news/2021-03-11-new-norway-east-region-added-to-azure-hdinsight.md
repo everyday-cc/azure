@@ -59,15 +59,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Updates to Azure HDInsight"
-    excerpt: "HDInsight now fully supports distributions of Apache analytics projects in-house. Plus, in the coming months, we’re launching the next generation of HDInsight with new and improved features."
-    publishedDateTime: 2020-07-21T16:02:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/updates-to-azure-hdinsight-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "cz9eGvijvk5E0QrVWluFq57RYt02f9dZAIZPRgPuqU/FwnK6VzMztIgmb+DicfPmTrWUFCcbPHq/0tP0MRdxMiSxCLOUuV8lpeKDuZRBkb9GRFa0pFoGkICB5kdNljcKAMD8OhTF8fEV6boyxQQVDjoEIEmnmAA1t5mIYciLRpchOU2ZNjdFNSmO3lzmglRsUuK+Gda/W5ZBTUI6mWCI/GFGdvREWr5MfzCa3Zv6vOZSxtgqy5GfaDqRkE+z4weaLDt5lVC5hD7KyUWz19AH2BCGhSFyyCZysljbzxwYEXfJvZI5umVm+OOyQ4+fz16iX2w5gdhM0N4I9siQ97o00M1FZmjLFdG/HlpD/Ryy3DM=;J/QT2PruqaUss8Krl3arUw=="
 ---

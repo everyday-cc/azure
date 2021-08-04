@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Red Hat OpenShift support for OpenShift 4.7"
+    excerpt: "Benefit from new features and enhancements in OpenShift release 4.7."
+    publishedDateTime: 2021-08-04T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-47/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability support for Java Message Service (JMS) 2.0 API on Azure Service Bus Premium"
     excerpt: "Use existing applications that leverage JMS 2.0 API to talk to Service Bus without any code changes. Only configuration changes are required."
     publishedDateTime: 2021-02-19T17:00:19Z

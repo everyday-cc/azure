@@ -65,6 +65,15 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Azure Defender for SQL now in general availability on the Azure SQL Virtual Machine blade"
+    excerpt: "Configure Azure Defender to view and manage your security concerns for SQL Server on Azure virtual machines."
+    publishedDateTime: 2021-08-04T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-defender-for-sql-now-in-general-availability-on-the-azure-sql-virtual-machine-blade/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "Announcing Azure SQL Edge now in general availability"
     excerpt: "You can reduce cost, drive innovation, and improve operational efficiencies by using Azure SQL Edge to stream, store, and analyze IoT data."
     publishedDateTime: 2020-09-22T16:05:18Z

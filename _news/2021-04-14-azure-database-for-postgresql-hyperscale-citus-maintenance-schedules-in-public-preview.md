@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
-  - title: "Azure Database for PostgreSQL – Hyperscale (Citus) Basic in public preview"
-    excerpt: "You now have the ability to run Hyperscale (Citus) on a single node with Hyperscale (Citus) Basic, an easy way to be scale-out ready."
-    publishedDateTime: 2021-04-14T16:00:55Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-basic-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
   - title: "Azure Database for PostgreSQL – Hyperscale (Citus) managed PgBouncer in public preview"
     excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Hyperscale (Citus) managed service."
     publishedDateTime: 2021-05-12T16:00:18Z
@@ -77,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 87
+  - title: "Azure Database for PostgreSQL - Hyperscale (Citus) now compliant with additional certifications"
+    excerpt: "New certifications are now available for Hyperscale (Citus) on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. "
+    publishedDateTime: 2021-06-09T16:00:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-now-compliant-with-additional-certifications/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
   - title: "Azure Database for PostgreSQL – Hyperscale (Citus) audit logging via pgAudit now in public preview"
     excerpt: "Now in preview, audit logging of database activities in Azure Database for PostgreSQL - Hyperscale (Citus) is available through the PostgreSQL audit extension pgAudit, providing detailed session and/or object audit logging."
     publishedDateTime: 2021-02-17T17:01:53Z
@@ -95,15 +95,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 85
-  - title: "Azure Database for PostgreSQL – Hyperscale (Citus) now offers server group restart feature in public preview"
-    excerpt: "The restart server group capability is now available in preview for Hyperscale (Citus) on Azure Database for PostgreSQL, a managed service running the Postgres open-source database on Azure."
-    publishedDateTime: 2021-06-23T16:00:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-now-offers-server-group-restart-feature-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 80
   - title: "New regions for Azure Database for PostgreSQL—Hyperscale (Citus)"
     excerpt: ""
     publishedDateTime: 2020-06-01T16:00:14Z

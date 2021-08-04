@@ -285,6 +285,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
+  - title: "General availability: Lower capacity reservation tier for Azure Monitor dedicated clusters"
+    excerpt: "Leverage advanced features in Azure Monitor like customer-managed key, Lockbox, infrastructure encryption for lower capacity reservation commitment."
+    publishedDateTime: 2021-08-04T16:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-lower-capacity-reservation-tier-for-azure-monitor-dedicated-clusters/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
   - title: "General availability: AKS resources view"
     excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
     publishedDateTime: 2020-12-09T17:00:15Z

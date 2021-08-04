@@ -2,22 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-21-azure-database-for-mysql-flexible-server-auto-grow-storage-in-public-preview.md",
-      "title": "Azure Database for MySQL – Flexible Server Auto-grow storage in public preview",
-      "excerpt": "With auto-grow storage enabled, your storage automatically grows when storage consumed on the Flexible Server is nearing its provisioned limit.",
+      "path": "_news/2021-08-04-private-dns-zone-integration-for-azure-database-for-postgresql-flexible-server-in-public-preview.md",
+      "title": "Private DNS zone integration for Azure Database for PostgreSQL – Flexible Server in public preview",
+      "excerpt": "Private DNS zone integration is now available for Flexible Server on Azure Database for PostgreSQL, a managed service running the open source Postgres database.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-autogrow-storage-in-public-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-autogrow-storage-in-public-preview/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/private-dns-zone-integration-for-azure-database-for-postgresql-flexible-server-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/private-dns-zone-integration-for-azure-database-for-postgresql-flexible-server-in-public-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 552,
+      "heat": 739,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T09:00:03-07:00",
+      "publishedDateTime": "2021-08-04T09:00:05-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -42,7 +42,8 @@
       "topics": [
         "Azure",
         "Databases",
-        "Storage"
+        "Networking",
+        "Integration"
       ]
     },
     {
@@ -239,22 +240,22 @@
       ]
     },
     {
-      "path": "_news/2021-06-09-azure-database-for-mysql-single-server-planned-maintenance-notifications-in-general-availability.md",
-      "title": "Azure Database for MySQL – Single Server: Planned maintenance notifications in general availability",
-      "excerpt": "Setup alerts on the Azure portal to be notified about planned deployments with planned maintenance notifications for Azure Database for MySQL – Single Server.",
+      "path": "_news/2021-06-09-azure-database-for-mariadb-azure-defender-in-general-availability.md",
+      "title": "Azure Database for MariaDB Azure Defender in general availability",
+      "excerpt": "Azure Defender detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit your Azure Database for MariaDB. ",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-single-server-planned-maintenance-notifications-in-general-availability/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-single-server-planned-maintenance-notifications-in-general-availability/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-azure-defender-in-general-availability/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-azure-defender-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 264,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T09:00:41-07:00",
+      "publishedDateTime": "2021-06-09T09:00:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -412,92 +413,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-25-azure-database-for-postgresql-flexible-server-azure-free-offer-coming-soon.md",
-      "title": "Azure Database for PostgreSQL – Flexible Server: Azure Free offer coming soon",
-      "excerpt": "Utilize the B1ms compute SKU and 32GB storage free offer (coming June 2021) on Azure Database for PostgreSQL – Flexible Server, a managed service running the open source Postgres database.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-azure-free-offer-coming-soon/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-azure-free-offer-coming-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T09:00:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-public-preview-azure-database-for-mysql-flexible-server-announcing-ssl-enforcement-and-minimum-tls-version-choice.md",
-      "title": "Public preview: Azure Database for MySQL– Flexible Server: Announcing SSL enforcement and minimum TLS version choice",
-      "excerpt": "Now you can choose to enforce encrypted connection or Transport Layer Support version on Azure Database for MySQL - Flexible Server.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-announcing-ssl-enforcement-and-minimum-tls-version-choice/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-announcing-ssl-enforcement-and-minimum-tls-version-choice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T09:00:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_news/2021-05-12-capacity-calculator-with-azure-cosmos-db-api-for-mongodb-now-generally-available.md",
       "title": "Capacity calculator with Azure Cosmos DB API for MongoDB now generally available",
       "excerpt": "Use the Azure Cosmos DB capacity calculator to estimate your RU/s for your API for MongoDB workloads.",
@@ -514,49 +429,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-12T09:00:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-public-preview-forced-failover-now-available-with-zone-redundant-high-availability-for-azure-database-for-mysql-flexible-server.md",
-      "title": "Public preview: Forced failover now available with zone redundant high availability for Azure Database for MySQL - Flexible Server",
-      "excerpt": "Flexible Server forced failover capability is now available in all zone redundant regions. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-forced-failover-now-available-with-zone-redundant-ha-for-azure-database-for-mysql-flexible-server/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-forced-failover-now-available-with-zone-redundant-ha-for-azure-database-for-mysql-flexible-server/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T09:02:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -765,7 +637,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/perform-atscale-agentless-sql-server-discovery-and-assessment-with-azure-migrate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1000,6 +872,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-02T09:00:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-azure-database-for-postgresql-ending-support-for-postgresql-version-96-on-11-november-2021.md",
+      "title": "Azure Database for PostgreSQL ending support for PostgreSQL version 9.6 on 11 November 2021 ",
+      "excerpt": "Community support for Azure Database PostgreSQL version 9.6 ends on 11 November 2021  ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-ending-support-for-postgresql-version-96-on-11-november-2021/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-ending-support-for-postgresql-version-96-on-11-november-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T11:00:01-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1297,15 +1212,15 @@
       ]
     },
     {
-      "path": "_news/2020-12-09-stopstart-functionality-for-azure-database-for-mariadb-is-now-in-public-preview.md",
-      "title": "Stop/start functionality for Azure Database for MariaDB is now in public preview",
-      "excerpt": "The stop/start feature can enable cost savings on your database servers as you can stop your Database for MariaDB server when not in use and start the server when you resume activity--paying only for what you use.",
+      "path": "_news/2020-12-09-azure-database-for-postgresql-single-server-logical-decoding-feature-is-now-generally-available.md",
+      "title": "Azure Database for PostgreSQL - Single Server: logical decoding feature is now generally available",
+      "excerpt": "With logical decoding and wal2json support, unlock change data capture scenarios with Azure Database for PostgreSQL - Single Server. ",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mariadb/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mariadb/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-logical-decoding-feature/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-logical-decoding-feature/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 225,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1336,6 +1251,93 @@
       ],
       "topics": [
         "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-stopstart-functionality-for-azure-database-for-mariadb-is-now-in-public-preview.md",
+      "title": "Stop/start functionality for Azure Database for MariaDB is now in public preview",
+      "excerpt": "The stop/start feature can enable cost savings on your database servers as you can stop your Database for MariaDB server when not in use and start the server when you resume activity--paying only for what you use.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mariadb/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mariadb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T09:00:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-machine-learning-on-azure-sql-managed-instance-now-available.md",
+      "title": "Machine Learning on Azure SQL Managed Instance now available",
+      "excerpt": "Use machine learning capabilities on a Managed Instance of Azure SQL Database for ease of moving your data, packages, and models to a cloud ready environment fully configured for machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-now-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 316,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T09:00:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI",
         "Databases"
       ]
     }

@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/open-source-api-portal-n
 webUrl: "https://azure.microsoft.com/en-us/updates/open-source-api-portal-now-generally-availabile/"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Microsoft
@@ -22,24 +22,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Maps Elevation API is now in general availability"
-    excerpt: "For any given point on the Earth surface, the Elevation API returns its elevation measured from mean sea level."
-    publishedDateTime: 2021-06-11T23:19:55Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-elevation-service-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "General availability: Application Insights Node.js pre-aggregated standard metrics"
-    excerpt: "Azure Monitor Application Insights Node.js SDK adds pre-aggregated standard metrics to enhance accuracy of alerts when telemetry sampling is enabled."
-    publishedDateTime: 2021-06-09T16:00:38Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insights-nodejs-preaggregated-standard-metrics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 46
   - title: "General availability: Confidential Computing price reduction on DCsv2 virtual machines"
     excerpt: "DCsv2-series Azure Virtual Machines protect the confidentiality and integrity of your data and code while it’s processed in the public cloud. The price for this offering is now 37% lower."
     publishedDateTime: 2021-06-10T16:48:17Z

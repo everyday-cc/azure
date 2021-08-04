@@ -79,20 +79,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
-  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-    excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
-    publishedDateTime: 2021-07-22T18:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 49
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "A Microsoft Azure Space director becomes executive secretary of the National Space Council"
     excerpt: "Chirag Parikh is set to lead the U.S. National Space Council. He previously served as senior director for Azure Space."
     publishedDateTime: 2021-08-02T17:26:00Z
@@ -221,6 +207,15 @@ related:
         width: 2159
         height: 1132
         isCached: true
+  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
+    excerpt: "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure."
+    publishedDateTime: 2021-07-22T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
   - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
     excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
     publishedDateTime: 2021-07-21T12:34:00Z
@@ -287,6 +282,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "ghRotlATLmbo/TSh8X3m3DrLiaYwdV4efe5k5mU1hnzeZx/2EDPS7cDKfm94xbDQZ3S2wsElNpAHEbulATOlLIA59jly5Eefs8ObISVKHZvAf6LbCcWlyIEYPhgKhiWMoeQospWE9oMwyrRztv1my7cb66B7HV4txDOnO70FlyaurbmuOEtOP3AFg5Fo9uBsu9UC6EkfCUZI9x+73qG8fMtoYqgFr2Rd4GcbPS60CTdidEVI8yTNc32N0QwRptqGXt92a7/tNmX3V3wc54rR31tATN66uMasLWf+aUdgVrXPb3YrxbTIsTD3oNU2D6KmAwyuu5KXVq/uZyhOV5LtTCKP7jn6q4abgtYsfj8ZAmpKjRMbNnDhaAb0eZplEtuwQMnidlkiXKYyy8mQET++qW7Jdv2068QLl7NdudOwS8vErkd1RKuxdE1xHkAvCXkXO6WxjYwS4MUIwC/BmAjr8h1Yq14YItqilvmiUPxshShEs/VSoxYnq3EUvwvvOdL078XzOTD8XKI/19R/8XCP7g==;DP5rY+Btn5eEs2L77Fhuiw=="
+secured: "nVqEp17SFpU4HIluxOUoHXUzpWC7tx8wfQYm+C4N6XptEcv+WCHpV1+XrqvVk7N3ibcAto0+zNnVv1CTe+DfaWFxtNc9M0MjVg14ZdRPVFbAIje72D/+BspehcxQAcULVVcu4MvuvoXvriv9pMhzs9SGAB8ySCDEb+R76zACCvd+xrOkyIDNWjuUT1+36uf+X+3EdZViApF/qFvI6DWib6JSYixWq5dOQFT1JY9carLyyFN6olQx4/RpYYxo5RPJX14JxcDJ6G3dF5IPqYEKipm+Nut9AQWWAFlF8bM5sitJ3I4L17gr/djiSleiuogM4v/yD3UWx8wKm0sMOgzJanSIFiZy8sO3rxx6suw1ezM=;yDbakds6Ie+gwmwNxtMLBg=="
 ---
 
