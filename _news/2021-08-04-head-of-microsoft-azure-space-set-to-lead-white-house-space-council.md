@@ -1,30 +1,26 @@
 ---
 category: news
-title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
-excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
-publishedDateTime: 2021-07-29T14:03:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
-webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
+title: "Head of Microsoft Azure Space set to lead White House Space Council"
+excerpt: "Microsoft's Chirag Parikh has been proposed as the executive secretary of the US National Space Council by Vice President Kamala Harris. The council is officially led by the VP, but the day-to-day leadership comes from the executive secretary."
+publishedDateTime: 2021-08-04T08:33:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/head-of-microsoft-azure-space-set-to-lead-white-house-space-council/"
+webUrl: "https://www.datacenterdynamics.com/en/news/head-of-microsoft-azure-space-set-to-lead-white-house-space-council/"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1584294/OSS_solution.jpg"
-    width: 400
-    height: 400
+  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -41,6 +37,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106917937-16274675284ED4-SBEU-070821-WilliamdeGale.jpg?v=1627467527"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
+    excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
+    publishedDateTime: 2021-07-29T14:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1584294/OSS_solution.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
     excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
@@ -193,20 +203,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Head of Microsoft Azure Space set to lead White House Space Council"
-    excerpt: "Microsoft's Chirag Parikh has been proposed as the executive secretary of the US National Space Council by Vice President Kamala Harris. The council is officially led by the VP, but the day-to-day leadership comes from the executive secretary."
-    publishedDateTime: 2021-08-04T08:33:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/head-of-microsoft-azure-space-set-to-lead-white-house-space-council/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
     excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
     publishedDateTime: 2021-07-21T12:34:00Z
@@ -273,6 +269,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "ghRotlATLmbo/TSh8X3m3DrLiaYwdV4efe5k5mU1hnzeZx/2EDPS7cDKfm94xbDQZ3S2wsElNpAHEbulATOlLIA59jly5Eefs8ObISVKHZvAf6LbCcWlyIEYPhgKhiWMoeQospWE9oMwyrRztv1my7cb66B7HV4txDOnO70FlyaurbmuOEtOP3AFg5Fo9uBsu9UC6EkfCUZI9x+73qG8fMtoYqgFr2Rd4GcbPS60CTdidEVI8yTNc32N0QwRptqGXt92a7/tNmX3V3wc54rR31tATN66uMasLWf+aUdgVrXPb3YrxbTIsTD3oNU2D6KmAwyuu5KXVq/uZyhOV5LtTCKP7jn6q4abgtYsfj8ZAmpKjRMbNnDhaAb0eZplEtuwQMnidlkiXKYyy8mQET++qW7Jdv2068QLl7NdudOwS8vErkd1RKuxdE1xHkAvCXkXO6WxjYwS4MUIwC/BmAjr8h1Yq14YItqilvmiUPxshShEs/VSoxYnq3EUvwvvOdL078XzOTD8XKI/19R/8XCP7g==;DP5rY+Btn5eEs2L77Fhuiw=="
+secured: "18Ig12gEMHY/B2oAmXS3D/qP33VYpJNtgqFns28GhJaiwD+/nAPKkI8nVgjArPphqJaJ957LqXXLOSm3me+RU8LoFIvAdmWu4sOcTjptdCRhl1azmAzO1UlHp0s96Eg84blxE/YFJxWGchH3qVl77T6Spkld9plsxPk50WqTCVuZeIl6P0/ZPbPTNkT/+5SIa6faOPNRu6ePDvjwvv88gTX3pxEIO/GeyD+rgirlbXaIcr/b5Tj1vRukoHlLADYsKP03Jtm3WTa1xdm+ICYtqzj7dfXmJTTBmhN98wKSu0uBhs0PBp/pd6U9gZAeH2qWEpilqGGhp7x85tf/dWlY7t4ESsY512WGZfvfAHVIwlA=;fU7darJqd/c9Prtvyo5dIA=="
 ---
 

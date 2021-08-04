@@ -89,6 +89,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
+    excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
+    publishedDateTime: 2021-07-22T18:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 49
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "A Microsoft Azure Space director becomes executive secretary of the National Space Council"
     excerpt: "Chirag Parikh is set to lead the U.S. National Space Council. He previously served as senior director for Azure Space."
     publishedDateTime: 2021-08-02T17:26:00Z
@@ -189,15 +203,20 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-    excerpt: "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure."
-    publishedDateTime: 2021-07-22T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+  - title: "Head of Microsoft Azure Space set to lead White House Space Council"
+    excerpt: "Microsoft's Chirag Parikh has been proposed as the executive secretary of the US National Space Council by Vice President Kamala Harris. The council is officially led by the VP, but the day-to-day leadership comes from the executive secretary."
+    publishedDateTime: 2021-08-04T08:33:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/head-of-microsoft-azure-space-set-to-lead-white-house-space-council/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest DP-900 Dumps - Microsoft Azure Fundamentals Real Exam Questions And Accurate Answers (2021)"
     excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like DP-900 specialists. As a result of this, IT certifications, for example DP-900 Microsoft Azure Data Fundamentals Exam,"
     publishedDateTime: 2021-07-25T05:08:00Z

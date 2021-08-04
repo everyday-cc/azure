@@ -1,22 +1,28 @@
 ---
 category: news
 title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-excerpt: "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure."
-publishedDateTime: 2021-07-22T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
+publishedDateTime: 2021-07-22T18:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - Security
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
@@ -184,6 +190,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Head of Microsoft Azure Space set to lead White House Space Council"
+    excerpt: "Microsoft's Chirag Parikh has been proposed as the executive secretary of the US National Space Council by Vice President Kamala Harris. The council is officially led by the VP, but the day-to-day leadership comes from the executive secretary."
+    publishedDateTime: 2021-08-04T08:33:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/head-of-microsoft-azure-space-set-to-lead-white-house-space-council/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
     excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
     publishedDateTime: 2021-07-21T12:34:00Z
@@ -250,6 +270,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "l3ugLoy1OWIZKAMJ3u/lZJDyUJY0ibFFIF3i4Q8iLKRl7wQpIU4N1c2xXighxDt2c96ry8sXbW6CmRvvCMbqU3IM17eYzuzT2oDv6Pti8giYrU+pWjcs9mn/I/hqCmY7DswTk0hh0aTy/WjoQKlz3wx2SKsFY9dbCkOhj5yQsxGpzUSEp9biAyCL7Y2L+IcA3uK4RCdmbPV4Ad9bpQtJNxj5fvf9QxrBVfZL8znIoEtIhL/jP9V/DVYVhPJyZzp+CxqLAnxd+EeZmHNh7VNcUA5XH3PYf38Oa03khi/zLmD3IapZbfrtNyaXB+B9fSDHCGpYJ3RZfNHDGY81i3NhV/M/7wEsTkVIEajtcd9fKeY=;WhjwzM2Yk/94MZlOzNa/rQ=="
+secured: "M/DZPLx+6lvq72D+0wQNuSSfUuLF68baAidFO4347Sy/1WqG9FoUHYBebA1Coz49h1uZX1TnHPQeEZ2aWva9E9LqiCucQAySF+xX5dUVPVTHsVA354v7cl3qX+9c5uRG9S+MD80z2Mub05vlP1HPKIBKxDwfQ3PgpMVXUoHogaTSnQkZl1bm8CdgL5JpVKjdir9VhNoxCK1VRCbuynS1IGqXxskOobMVIefhsRqZxJ5shDqrLwszrpANAgM6tTyGPqGO+tYIzzXoh0keN6dcjM6lXmkoYhN+VREUSHK5yYfA5McmJafSP80HIDJ0MndyanxjJ42PIHjfauoA5Vggk3xUeet6kTKVt1UqNG/ULmA=;Zrex0afUsK5ojY9AUhe2iQ=="
 ---
 
