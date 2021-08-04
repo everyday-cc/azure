@@ -2,9 +2,9 @@
 category: news
 title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
 excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
-publishedDateTime: 2021-07-29T14:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662200"
-webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662200"
+publishedDateTime: 2021-07-29T14:03:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
+webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
 type: article
 quality: 77
 heat: -1
@@ -79,20 +79,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
-  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-    excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
-    publishedDateTime: 2021-07-22T18:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 49
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "A Microsoft Azure Space director becomes executive secretary of the National Space Council"
     excerpt: "Chirag Parikh is set to lead the U.S. National Space Council. He previously served as senior director for Azure Space."
     publishedDateTime: 2021-08-02T17:26:00Z
@@ -193,6 +179,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
+    excerpt: "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure."
+    publishedDateTime: 2021-07-22T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
   - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
     excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
     publishedDateTime: 2021-07-21T12:34:00Z
@@ -259,6 +254,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "GouhibY6a/7/gl5EXHYIiDqZLcWCH8GuZBbjf/15K25n7h0zFs1z7BnQSK1GKkt5NeyFoOrsMVZ2xtOsate6mRsR/s6sMsBaHQPRm/LMvBQ2A0kmmTMq3EtUF2Oa/k3ZIR3mnmluPVjyF1qLx19BE6RpnYDUaOJl6kqmQ2x/tChyv6e8hHHlRtsE4LXGvBE03YWBvWDOQ0arbnvvJhX77Ps8r+HLp0ioc6ZHvM9PRXA8RKA6OE5Epqn7mfHFkkUAR4kySigbSusKPYTNHL3/TEsMXBM/9pRqj0+SwWJuyIiJ/5Lzgkq7JU5eJR7CbpbY6wWrAJhC2pQY/WL53BFrEprzBpXuY2pNLKICIX3KyaI=;E99qPJrfOKuIFMAKI6EDnA=="
+secured: "D137umVuuVO3fdGxBYjJBP+bxB/2m2cYIKJXlnAq+heAnojeVvDojFOtFEijSZafEu4OirxTLS9UkZ8q0PU6lkkELq2zEop4y/PEoy8jqjbBh0Zds/ZQSLLRjdNWt0HwUrf4KsUZwPURdct6e9jlpTIrMEF5+9cbUMAkPR128IEqpy4WCVeGUbTGr5OktoiearRLGThL0MANSmgetRmGDISFhcdW0FLCI5iMtSk3VS5HNoUNlTiMnpXvnKuaxnuPeXCgH3HI8sF9kYAIW2PK4p5r7zqbsYZApwVquO5R1mzJoz/Z1J044YNO+tpiFYRaGuM5BsTsBpwcF0UHsVvKCPvOtqwcYjLXho10lVIKUFA=;9E/OmYc0Pw8iDlcyVF0deA=="
 ---
 

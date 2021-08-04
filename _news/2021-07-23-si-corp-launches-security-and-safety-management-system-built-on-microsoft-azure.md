@@ -1,28 +1,22 @@
 ---
 category: news
 title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
-publishedDateTime: 2021-07-22T18:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
+excerpt: "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure."
+publishedDateTime: 2021-07-22T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
   - Security
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
@@ -41,8 +35,8 @@ related:
         isCached: true
   - title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
     excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
-    publishedDateTime: 2021-07-29T14:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662200"
+    publishedDateTime: 2021-07-29T14:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
     type: article
     provider:
       name: Business Insider
@@ -256,6 +250,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "neShjijqu4ZKLf8r9BZBNSI5LyE8eH140Y6QeOTUUGB1iwewcD2PLFCef/P/PohroddT0NmIP4zyfeWtmpfoKo0F8EouZ5E4UPNiMnMvqNmSC6kI0LPTUTrezAnFn/d9Rb+dHUgePqWP0bCX/jmfziB/eONpSym/i/SDLZyzBL+HxV82dJ39bM2wArxG1+EmfIFfMTAx8hRQNa2/d0rRvqy/lZcBUdavz6jehvejIwO9gH6M3pLMik7Di3znMZKGLE+bDaoueTqlZuNwI27557YanF+wHrR60f9DinOT8e7/qLguG/SyM3tgGfmWvFfTctRyavG0E5OTFgj1hP3UTv3z9tML+1il+/d8ibCDBio=;N7OmJ6JsZHjZwA7XX7IZyQ=="
+secured: "aZjvRhV+MN5kiOi4R30Tbcv9Fke/2KYBQ6n8Cq8ZXdsHsuJY8hhtiOJs9MpSerM8FVsHSvx6JIXQl+MOWm3HKDL9LrZRclRQ0eFbuhNvWCv0pJkd0bRyjnyda9r8I/vBMfmBQ3hrPjWM2TxrXSzJif+iqH0z7bHF83eI78FFNP+t/FEE7EnwI/dccjWwfFj3vbf1AkDMGGTq+YEpRAvpiO+7ZBS/xDrs1Yvfhavj96OyDII09/9DmDViprw2RzJhHyo/cQZQ2ArnuRxltsMKfsXZjmPoWmlXZbAAquTfDIeyo9Yy29ebg1IPbqFHzREENRddJw0DkQXbFZlC1HEOvPDc7MNtzq3O0p1IGkojLIk=;fkCLGq+Vn4SF9nYZ9aEE+Q=="
 ---
 
