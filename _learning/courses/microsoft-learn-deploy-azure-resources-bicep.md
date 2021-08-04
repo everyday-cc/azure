@@ -1,7 +1,7 @@
 ---
 title: "Build your first Bicep template"
 excerpt: "Learn how to create Bicep templates and create reusable infrastructure as code."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-azure-resources-by-using-bicep-templates/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-first-bicep-template/
 type: course
 price: Free
 length: PT47M
@@ -31,6 +31,6 @@ images:
     height: 641
     isCached: true
 
-secured: "pX2bv+53nJ3qdUjAnsb8/0mjV+bxKdDoGiBWVxpOUaa4qSIKJBndrSyP3x5qSZFJ3LYbMeCxOKFE2NnC4ZMDMxxu50VB+dDSwUj1LpGEv5CLwVJ56jxiXSDg+s9nF30hRQnKqqHQ75qv401ZqMk7+FodUHvvE1GkthIfKKh0vq9M+uW+9HoRla+JuicpK8V8YKnrHgVYDoqfr8VQ8lAczfxAry9nAfjgaqAOvIQDG83d2Z9UE78R313rWc1g48l+Hy9jiQ+SNPJGfSGvi16k3dgMuUi34lXleEJly5qyunWGbpsNHQ83g4AHanS/vZQRjLn859mQd+I6mo5cCq2lOdCU5K6oxadcWo0CruqSut8QKnb/hPQZpSIvHltI4yktx+xHbO9mGTD+pZcoprE0Kg==;JH3N6QrpLUDoTZnez/z0LA=="
+secured: "ZMgDU6ExzhNpWHN8P4s0W1i8xci26xlgaRahYLuN70lan0/liJKN4Ih28mudmme+NHh6JyQPBTYncMLdRt4rtTHHXcs28ue4BFGF2oWrEPb5gIE/+Nc451+MvdNDdLUNMf3sua9tvcwN7DWitZSJ3XK+Ks+sqNpHDn8bonmaNaKUrkMg8XljVPTfNfAOFKSBiUYxk3G6Ib3aamAtOsB0a69P7X4cFAQspX3/c0uklDqXZdLj6hk2hT0GgoJArLtcMnOOtHtM9jrDdPFcPtiK/yl0wUeSjEbmCUVcgA3Ps02cRuWYbPTxksHfTZCnOyPivUOyjhFif8/egjT60LV1tQ7xi1fOo5sYJf68ZJlhG1N4PI0s6GJB7b+Uf3Ei+YV4AhyYCXBATzj22cUKxwXZyA==;tzNYa3W7IKIUVatSMFEWcw=="
 ---
 
