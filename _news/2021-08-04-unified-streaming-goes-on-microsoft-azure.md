@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Lumen takes Microsoft Azure partnership to the edge"
-excerpt: "Lumen Technologies, formerly CenturyLink, has identified Microsoft Azure as its preferred public cloud provider for enterprise customers' workloads, and will incorporate additional enterprise ..."
-publishedDateTime: 2021-07-08T22:17:00Z
-originalUrl: "https://www.lightreading.com/service-provider-cloud/lumen-takes-microsoft-azure-partnership-to-edge/d/d-id/770760"
-webUrl: "https://www.lightreading.com/service-provider-cloud/lumen-takes-microsoft-azure-partnership-to-edge/d/d-id/770760"
+title: "Unified Streaming goes on Microsoft Azure"
+excerpt: "Unified Streaming’s Unified Origin software is now available on Microsoft Azure, making it easier for many online broadcasters and video providers to launch OTT services."
+publishedDateTime: 2021-08-04T06:36:00Z
+originalUrl: "https://www.broadbandtvnews.com/2021/08/04/unified-streaming-goes-on-microsoft-azure/"
+webUrl: "https://www.broadbandtvnews.com/2021/08/04/unified-streaming-goes-on-microsoft-azure/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Light Reading
-  domain: lightreading.com
+  name: Broadband TV News
+  domain: broadbandtvnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-    width: 600
-    height: 600
+  - url: "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/04/Unified-Streaming.png?fit=1200%2C581&#038;ssl=1"
+    width: 1200
+    height: 581
     isCached: true
 
 related:
@@ -1619,6 +1619,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Lumen takes Microsoft Azure partnership to the edge"
+    excerpt: "Lumen Technologies, formerly CenturyLink, has identified Microsoft Azure as its preferred public cloud provider for enterprise customers' workloads, and will incorporate additional enterprise ..."
+    publishedDateTime: 2021-07-08T22:17:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/lumen-takes-microsoft-azure-partnership-to-edge/d/d-id/770760"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "NIH expands biomedical research in the cloud with Microsoft Azure"
     excerpt: "To date, researchers have used more than 83 million hours of computational resources to access and analyze more than 115 petabytes of high-value biomedical data in the cloud."
     publishedDateTime: 2021-07-20T15:02:00Z
@@ -1688,20 +1702,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/08/workstation-405768_1280.jpg"
         width: 806
         height: 543
-        isCached: true
-  - title: "Unified Streaming goes on Microsoft Azure"
-    excerpt: "Unified Streaming’s Unified Origin software is now available on Microsoft Azure, making it easier for many online broadcasters and video providers to launch OTT services."
-    publishedDateTime: 2021-08-04T06:36:00Z
-    webUrl: "https://www.broadbandtvnews.com/2021/08/04/unified-streaming-goes-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Broadband TV News
-      domain: broadbandtvnews.com
-    quality: 37
-    images:
-      - url: "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/04/Unified-Streaming.png?fit=1200%2C581&#038;ssl=1"
-        width: 1200
-        height: 581
         isCached: true
   - title: "VMware Extends Horizon Cloud Control Plane Services in Microsoft Azure"
     excerpt: "The entire line of VMware Horizon Cloud Control Plane services are now available with connectivity to Microsoft Azure VMware Solution."
@@ -2315,6 +2315,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "hel3ADiDxL1XN3vioGXSItADoOFbJM8vQUYHyAW89QHuigQsXxFdyJgs4KqnP+LYAbQNWF59VJ96k2zQGR2LO1RsNm2kles53e0WfONYLJKPuBwR3hDTvsRmGQ1wDSOoEfMcxJZOMzpm0P0rqkW4ljIZn2hi7PvdDiwiI5R9aap07G9FMtzr+q7F29hO2AQMlD6zFucQSXJbH/sN1OmCCauRa2K2xQrDoVfnWhV5ZWhpliKAm7CmBy5Ipn+hjriwWhHkPns1FNxgiSL3xnZAhhx96t+rRzO7dpJFBA90OQR2JNvcfOoDt1luKxZT0B4npAfAqeQMvNl/reD/k/zm54wmsYdKHE1WrjW36UazXnQ=;pbqvrfTU966hbTON1vjATw=="
+secured: "rdq+BD5ndLpAIF0N4Aueg2xOmNtMh7Sp/8XKrgYcIINuhlAD4jzQZtygXJAZ5W/l9DdK2MexsunFmuqOEkH7l65XA+4Uaui2ysRe/Vfae2A8I3n0U05WM1neASmDUgZsLv82oThOBi9QPePZ6NCz5xD3yaJ+CpwQChuLsDqhgsXnpE+GHRWrLx9cp1Kr4QcudP64eCRqDgktB4WTWDXCqReiVwMb1+1CYyuZN8EimvfjcQ1tEKC/U8/0Z5+vLRyDNb1MkCHdzXdF5/c3aVD3IdgqG94psgG9rnEPdeLorrtqHm2aHvLpOBJ/DJ0AF0vT1vROBpNPk2hEIompmvChrSS2MCrP5T3a1lOGfC5W6DM=;Plzzn7gktVkPO0BMRCkCmw=="
 ---
 

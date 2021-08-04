@@ -684,6 +684,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 57
+  - title: "Unified Streaming takes flagship software to Microsoft Azure"
+    excerpt: "Aiming to offer better flexibility to customers and make it easier to launch OTT services, smart video streaming technologies provider Unified Streaming has announced the general availability of its Unified Origin software on Microsoft Azure."
+    publishedDateTime: 2021-08-04T07:36:00Z
+    webUrl: "https://www.rapidtvnews.com/2021080460965/unified-streaming-takes-flagship-software-to-microsoft-azure.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2021080460965/unified-streaming-takes-flagship-software-to-microsoft-azure.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021080460965/unified-streaming-takes-flagship-software-to-microsoft-azure.amp.html"
+    type: article
+    provider:
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 57
+    images:
+      - url: "https://www.rapidtvnews.com/images/2021/August_2021/UnifiedStreaming_MSAzure_4Aug2021.jpg"
+        width: 900
+        height: 399
+        isCached: true
   - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
     excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
     publishedDateTime: 2021-01-27T17:15:00Z
@@ -1687,6 +1703,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2016/08/workstation-405768_1280.jpg"
         width: 806
         height: 543
+        isCached: true
+  - title: "Unified Streaming goes on Microsoft Azure"
+    excerpt: "Unified Streaming’s Unified Origin software is now available on Microsoft Azure, making it easier for many online broadcasters and video providers to launch OTT services."
+    publishedDateTime: 2021-08-04T06:36:00Z
+    webUrl: "https://www.broadbandtvnews.com/2021/08/04/unified-streaming-goes-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Broadband TV News
+      domain: broadbandtvnews.com
+    quality: 37
+    images:
+      - url: "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/04/Unified-Streaming.png?fit=1200%2C581&#038;ssl=1"
+        width: 1200
+        height: 581
         isCached: true
   - title: "VMware Extends Horizon Cloud Control Plane Services in Microsoft Azure"
     excerpt: "The entire line of VMware Horizon Cloud Control Plane services are now available with connectivity to Microsoft Azure VMware Solution."

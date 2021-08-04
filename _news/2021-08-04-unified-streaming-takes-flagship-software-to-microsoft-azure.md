@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Lumen takes Microsoft Azure partnership to the edge"
-excerpt: "Lumen Technologies, formerly CenturyLink, has identified Microsoft Azure as its preferred public cloud provider for enterprise customers' workloads, and will incorporate additional enterprise ..."
-publishedDateTime: 2021-07-08T22:17:00Z
-originalUrl: "https://www.lightreading.com/service-provider-cloud/lumen-takes-microsoft-azure-partnership-to-edge/d/d-id/770760"
-webUrl: "https://www.lightreading.com/service-provider-cloud/lumen-takes-microsoft-azure-partnership-to-edge/d/d-id/770760"
+title: "Unified Streaming takes flagship software to Microsoft Azure"
+excerpt: "Aiming to offer better flexibility to customers and make it easier to launch OTT services, smart video streaming technologies provider Unified Streaming has announced the general availability of its Unified Origin software on Microsoft Azure."
+publishedDateTime: 2021-08-04T07:36:00Z
+originalUrl: "https://www.rapidtvnews.com/2021080460965/unified-streaming-takes-flagship-software-to-microsoft-azure.html"
+webUrl: "https://www.rapidtvnews.com/2021080460965/unified-streaming-takes-flagship-software-to-microsoft-azure.html"
+ampWebUrl: "https://www.rapidtvnews.com/2021080460965/unified-streaming-takes-flagship-software-to-microsoft-azure.amp.html"
+cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021080460965/unified-streaming-takes-flagship-software-to-microsoft-azure.amp.html"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Light Reading
-  domain: lightreading.com
+  name: Rapid TV
+  domain: rapidtvnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-    width: 600
-    height: 600
+  - url: "https://www.rapidtvnews.com/images/2021/August_2021/UnifiedStreaming_MSAzure_4Aug2021.jpg"
+    width: 900
+    height: 399
     isCached: true
 
 related:
@@ -683,22 +685,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 57
-  - title: "Unified Streaming takes flagship software to Microsoft Azure"
-    excerpt: "Aiming to offer better flexibility to customers and make it easier to launch OTT services, smart video streaming technologies provider Unified Streaming has announced the general availability of its Unified Origin software on Microsoft Azure."
-    publishedDateTime: 2021-08-04T07:36:00Z
-    webUrl: "https://www.rapidtvnews.com/2021080460965/unified-streaming-takes-flagship-software-to-microsoft-azure.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2021080460965/unified-streaming-takes-flagship-software-to-microsoft-azure.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021080460965/unified-streaming-takes-flagship-software-to-microsoft-azure.amp.html"
-    type: article
-    provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 57
-    images:
-      - url: "https://www.rapidtvnews.com/images/2021/August_2021/UnifiedStreaming_MSAzure_4Aug2021.jpg"
-        width: 900
-        height: 399
-        isCached: true
   - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
     excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
     publishedDateTime: 2021-01-27T17:15:00Z
@@ -1619,6 +1605,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Lumen takes Microsoft Azure partnership to the edge"
+    excerpt: "Lumen Technologies, formerly CenturyLink, has identified Microsoft Azure as its preferred public cloud provider for enterprise customers' workloads, and will incorporate additional enterprise ..."
+    publishedDateTime: 2021-07-08T22:17:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/lumen-takes-microsoft-azure-partnership-to-edge/d/d-id/770760"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "NIH expands biomedical research in the cloud with Microsoft Azure"
     excerpt: "To date, researchers have used more than 83 million hours of computational resources to access and analyze more than 115 petabytes of high-value biomedical data in the cloud."
     publishedDateTime: 2021-07-20T15:02:00Z
@@ -2315,6 +2315,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "hel3ADiDxL1XN3vioGXSItADoOFbJM8vQUYHyAW89QHuigQsXxFdyJgs4KqnP+LYAbQNWF59VJ96k2zQGR2LO1RsNm2kles53e0WfONYLJKPuBwR3hDTvsRmGQ1wDSOoEfMcxJZOMzpm0P0rqkW4ljIZn2hi7PvdDiwiI5R9aap07G9FMtzr+q7F29hO2AQMlD6zFucQSXJbH/sN1OmCCauRa2K2xQrDoVfnWhV5ZWhpliKAm7CmBy5Ipn+hjriwWhHkPns1FNxgiSL3xnZAhhx96t+rRzO7dpJFBA90OQR2JNvcfOoDt1luKxZT0B4npAfAqeQMvNl/reD/k/zm54wmsYdKHE1WrjW36UazXnQ=;pbqvrfTU966hbTON1vjATw=="
+secured: "rJpfoPqZhJZX0jFBMAuyNdpfKwpjtzj3I52DphSTnLy6joHopTm+KyG1Z/eT78KueAa8lLrBBIpZHabjIYLjObXDGjTlrb/LFybxegz/olkNJmsvdsaK8BoSp1/GbfpEq/giKMrGynC2fNc21EAejTaux9RnCMFM8awV6ESQDwg5mVwyXClul0ad3fphL0Wmmqb2rS4mjuNX19qp07pup8FvqNbkNzP+nzgW/ch7YaCVMCOE/My/ADhDhFJEfWhtmcxiGHy+B65ubpdI1gzx05svSLoINZhzI3eoi4NiKMTi0b644bEMUG7Plmm4Ay4pfnFzwNWwm9nZmYqVSKOykNy2/ZkJSj7DLqlgANl4GZo=;jakacQliW+4f/iyp4E894A=="
 ---
 
