@@ -89,6 +89,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
+    excerpt: "S&I Corporation, a total building solution provider and space management expert of LG Group with unrivaled level of technology and business expertise, has released “ atxpert (‘at’+’expert’) AI Viewer™ ”,"
+    publishedDateTime: 2021-07-22T18:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-7c2a5ac9209d4b13ba96a18d792e8b03"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 49
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "A Microsoft Azure Space director becomes executive secretary of the National Space Council"
     excerpt: "Chirag Parikh is set to lead the U.S. National Space Council. He previously served as senior director for Azure Space."
     publishedDateTime: 2021-08-02T17:26:00Z
@@ -203,15 +217,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-    excerpt: "Microsoft Azure is the foundation for the solution and enables an edge to cloud pipeline managed by Scenera PaaS to process high bandwidth video streams effectively. Azure Key Vault will be ..."
-    publishedDateTime: 2021-07-22T21:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
   - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
     excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
     publishedDateTime: 2021-07-21T12:34:00Z
@@ -278,6 +283,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "29+m6fYLniG0iyjUIha3T9pUn4sxRWdZxokUY4TVygRxQ9zdqhjlc8QNUsfAGU7fH5bV2hMbJS9M7VtAs3QKU7XR3RRSibNe5SeTkARpju902rk+C8a2Bkurwf8ZjfJeOnsAVKJCMcaqnm+Jwj5/7rEMsZ/2oJW7RyKQxsiEOUQm2T/UTAFgRyexfw9cP6s4Qa4PyieXZdCJ0NifpQy/aG4t1ra6oN+ySQk3OjNT21kLtc4HVa4Sg15+rOgZ6N41HlY0lwABpMlgDtHI1Itx8ZyIyZuXT+/TR2P4FMH5qtPgClwhyOeZo4LUGDktQvVCxpXZ+T9gnr/wB4rN7SqbPH9PM56LZF4KFc6yUgStYoE=;hA/Z+IV0waPU2rv7o0FkkA=="
+secured: "q0TcX+Srqqttplpr8FVTdC/njYu+vT+JlnOQM078yFwnRq4D9SW3iESOZ9wsgM0CNT4P+095C9vl5gJZt39TjJL6p8BaF7vcKFuHack5KnLCGHSmYoR1tmDYV5hEnNx0DokoWTsv3vcEREmUHn6JY+AW+N4Ox66fzT40P0uNBwdSQGSUeKC/pNCqbbVFv9/yp5BBi+ZQUU+NlKI1wxIuNTtJ7u+1IhtbOE8kDrBYS85ey+T02170bmazxxAsS3gFxjQV8D1/KKaS4C78nSAa3zy1EXnF3NYiUdbkKgrMx3aXWijrGqVgRdtWudhqy9bwqGmNY3mvJ2I1hd+kBn/fKsR2kr8SQu4jG82r2sJas1j6jV+cN9js513MQHiUjqkRMRqGsd2SlV9fSOO8KXJTKFGmsHJgTRSaN9QSQnfNhKiVXx5F26zE/ovSyBoPuyWP6KMrpPqQSQIbCmUSn2BapK/wu1IG4ej1PFjFRLmjXqnslXNZCn2EebaAVkhTLEaLp/PfmHG9/p6N2fQJa0Jrrg==;r04NO5PivZlbRLkZX4vLFw=="
 ---
 
