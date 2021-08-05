@@ -425,8 +425,8 @@ related:
         height: 600
         isCached: true
   - title: "Cloud4Wi Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Cloud4Wi, industry leader in location-based marketing solutions, today announced the availability of Cloud4Wi in the Microsoft Azure Marketplace, an online store providing applications"
-    publishedDateTime: 2021-08-03T10:00:00Z
+    excerpt: "NEW YORK, Aug. 3, 2021 /PRNewswire-PRWeb/ -- Cloud4Wi, industry leader in location-based marketing solutions, today announced the availability of Cloud4Wi in the Microsoft Azure Marketplace ..."
+    publishedDateTime: 2021-08-03T10:30:00Z
     webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloud4wi-now-available-in-the-microsoft-azure-marketplace/article_5766801c-5b2d-5f16-8d1f-528d23acc0fa.html"
     type: article
     provider:

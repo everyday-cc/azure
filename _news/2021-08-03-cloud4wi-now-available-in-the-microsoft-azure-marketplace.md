@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Cloud4Wi Now Available in the Microsoft Azure Marketplace"
-excerpt: "Cloud4Wi, industry leader in location-based marketing solutions, today announced the availability of Cloud4Wi in the Microsoft Azure Marketplace, an online store providing applications"
-publishedDateTime: 2021-08-03T10:00:00Z
+excerpt: "NEW YORK, Aug. 3, 2021 /PRNewswire-PRWeb/ -- Cloud4Wi, industry leader in location-based marketing solutions, today announced the availability of Cloud4Wi in the Microsoft Azure Marketplace ..."
+publishedDateTime: 2021-08-03T10:30:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloud4wi-now-available-in-the-microsoft-azure-marketplace/article_5766801c-5b2d-5f16-8d1f-528d23acc0fa.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloud4wi-now-available-in-the-microsoft-azure-marketplace/article_5766801c-5b2d-5f16-8d1f-528d23acc0fa.html"
 type: article
@@ -673,6 +673,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "d/mB72dx30Owmka1aQE1IsrXuptn+3k0/Gp+iM+bU5TjhqhjDAmTlJCLaJDpdBrNYQg0JDlnoXCIlftYLeggExRpFY+tHWgwrSR+k9lFjjGFnoY8PjlTa+1QwsOqeW0eA7+qqxw5sltxNlaeo3V1u9+YH5wZK32ih90fT6tR+m1x4q+G+RF1HZ8BdXTgxBLQSm2cNxMvyB4ytKiIrPqmpc/Wb7QhTFxud2cDaZWHSbgLTklQZqsMUINcoABRKCKHstACDRo5re8CixE8/Yv6fRD/9AENDUblJyuoXKiDoxInnIc3iYVAc+Y9SEc8gGMwKfEc96UtCyZ0QiNmdABSbK+HxY4V7t5wZWeQtsjhvhs=;rEgnjd40jHQF9DgQydZ3tw=="
+secured: "Kt4wRYLik3XTp+ty2YMgR37u+MD4uP7Q+CSUjRyA2BPsS64P0gyDp6vydAnkUfYWfGwFFG+3wMLJA2DHGY5E6zcZGLnP5eZLqPFvs0JFZryC5FQH2SfTsxq66Ddb6J3bAKv6KoM+ws5lvrLBBbOJ2wk7Ah2zXESxllhdn7iz6isxLysMZuUC8Y18DXxS9EG6jtLvUwIi/Ata9wPGXfeyPR8R7MHuVtWyNmoJTajootbmODeOJcKAoi7RaDKTgPUScqx0GbOjkoqu+SXMv9g8muj3GARt4byT0yj/5+NHaMP8LgdRixHLkv1WGUV35AnxG7avstIjElirnq6EvaGp2fmCjM1xyrUMiHQx64VC4pc=;dTkjOZckuB/XQULATx5xXQ=="
 ---
 
