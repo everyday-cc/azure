@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: New Australia Central region added to Azure HDInsight"
+    excerpt: "HDInsight is now generally available for Australia Central customers."
+    publishedDateTime: 2021-08-05T15:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-australia-central-region-added-to-azure-hdinsight/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
 
 secured: "Y/uKhrDia8g1czXsURQNyjZzHZ1hEAGATRyHhXNhjrx86+Xg8x5bIdcEF9fX/dTPb31GYZDvFT2ZjWhht7ttxJCvo9XmLfO6Up71brdS+uXWiLL8hlTvk5aLanxJqP7/fQoGIjHEj94SfoLMQYFjUtQJ6BUhYtFVaKCEYgg/FjAOpaEev1XZ5qe0dCz/f0b8dsmvPteCB9s1cpO5VqBGu9nvZr1Y5LTOTVwrxnRrB0U2SjyITBJ8IkJadVgFRsxARr2ZNwsdAGegbbRqMUIIHvAgCl9EgM7xdogcsuVibJvU6+E6QXo8TY+TQYditSiSFcuM34Cet24B/IChWCUYKWfcyOqb5yZZUkPpIvOjLUo=;9g36Lc0/N+kjcjhZaKlM7Q=="
 ---

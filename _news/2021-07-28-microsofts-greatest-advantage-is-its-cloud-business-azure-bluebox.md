@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantag
 webUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantage-is-its-cloud-business-azure-bluebox.html"
 type: article
 quality: 77
-heat: 457
+heat: 460
 published: true
 
 provider:

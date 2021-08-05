@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/advancing-your-financial-services
 webUrl: "https://azure.microsoft.com/blog/advancing-your-financial-services-strategy-with-azure-sustainability/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:

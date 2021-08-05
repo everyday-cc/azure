@@ -1,22 +1,22 @@
 ---
 category: news
 title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
-excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
-publishedDateTime: 2021-08-04T16:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
-webUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
+excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preventing cyber attacks in Microsoft Azure. As a Microsoft partner,"
+publishedDateTime: 2021-08-04T12:30:00Z
+originalUrl: "https://www.financialbuzz.com/ironnet-announces-expanded-support-for-cyber-threat-detection-and-management-in-microsoft-azure-environments/"
+webUrl: "https://www.financialbuzz.com/ironnet-announces-expanded-support-for-cyber-threat-detection-and-management-in-microsoft-azure-environments/"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
 
-secured: "fSiqMts4gCj3ULHhGxC1AMLWWCBJIMfUumUakcKJGQTLN37OstqcS/Ffr4MId9GxZObsMvLbe5IoOVOlF1Bn1mbRTcdVjquvGKTXkb0RYO6tjfO0fZbJcelAPbrxDDEW3gV3rVAnqKPpq6vB726u3mBYecyXpWWI1qBfN6wD+/40f0ow9Qu3U+1Zh4csfUg6kT0GrUJj4F9tIQhQ/DvT/H6Q6CAYFe8ak3rqlTezVoLDS7Q6XQmpk26TWjKBqv9a2/KDr6BbNI2XIlR6WjhLo/4p0d1tXNPmiLT21d/KsoYAgxiRe7zEb9AUsufpK87sDCT7DuoilRwOfTjoxy/I4NR/WJllqOF4ER4nSWuigAU=;6t0RihQBaj6GoFlt7VxL/Q=="
+secured: "V+zNX7EIURikA+JalpObrnRgN77WRoW6qw10dyBfhjwoJ38UwmU74ue+yI6/qHi53DuPdkROn8CETKwqwxFWZFhvvV/gH02Nw5jVeoE5ImvAATHeAfoiLNmZcbNVfneVnPSZ5fgf6tiAFu85bqZ1FXPE5SyOzZEHnInIXzmTWq6QEY7RdPbW+Sxqqnwj+sfbHR43GB0ZfnOv/WakJvPqvw6pok11DiFrUemBRmdWDi4JVr8F84DHTqX0Xf2Kh8bjWGUSXT8eWzuBtFZfK/iJJkPPpjegZBW4bcQcokXRwMLX23deMBOyV0o4bAnBFhnSywo532DmClISa3cMhxlZRJ43/rERubcRCgc7YT9Msm4=;opVFbcLs6Vh+J9MO+Nt6rg=="
 ---
 
