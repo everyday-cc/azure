@@ -4,44 +4,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_learning/videos/microsoft-what-is-azure-role-based-access-control-rbac-one-dev-question-arturo-lucatero.md",
-      "title": "What is Azure role-based access control (RBAC)? | One Dev Question: Arturo Lucatero",
-      "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on Azure role-based access control (RBAC), explains Azure role-based access control.    For more information, visit: https://docs.microsoft.com/azure/role-based-access-control/overview  Try Azure for free: https://aka.ms/TryAzure5",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-what-is-azure-role-based-access-control-rbac-one-dev-question-arturo-lucatero/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-what-is-azure-role-based-access-control-rbac-one-dev-question-arturo-lucatero/",
-      "originalUrl": "https://youtube.com/watch?v=Dzhm-garKBM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dzhm-garKBM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT44S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-23T09:32:40-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Dzhm-garKBM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-what-is-the-difference-between-vsts-and-azure-devops-one-dev-question-abel-wang.md",
       "title": "What is the difference between VSTS and Azure DevOps? | One Dev Question: Abel Wang",
       "excerpt": "In the One Dev Question series, Cloud Developer Advocate Abel Wang explains how Azure DevOps provides developer services to support teams to plan work, collaborate on code development, and build and deploy applications. In this video, Abel explains the differences between VSTS and Azure DevOps.   Get",
@@ -566,8 +528,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-connect-to-postgres/",
           "length": "PT49M",
           "ratings": {
-            "count": 38,
-            "average": 4.6842103
+            "count": 39,
+            "average": 4.6923075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -980,8 +942,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1309,
-            "average": 4.6906037
+            "count": 1310,
+            "average": 4.6900764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1802,8 +1764,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-chat-bot-azure-portal/",
           "length": "PT20M",
           "ratings": {
-            "count": 159,
-            "average": 4.735849
+            "count": 160,
+            "average": 4.7375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4333,6 +4295,178 @@
         "Security",
         "Databases",
         "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db.md",
+      "title": "Migrating Cassandra and MongoDB workloads to Cosmos DB",
+      "excerpt": "The focus of this learning path is to migrate MongoDB and Cassandra databases to Azure Cosmos DB.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db/",
+      "length": "PT1H13M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db.md",
+          "title": "Introduction to open source database migration to Azure Cosmos DB",
+          "excerpt": "An introduction to migrating an open-source database to Azure Cosmos DB",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 91,
+            "average": 4.7362638
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Migration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db.md",
+          "title": "Migrate Cassandra workloads to Cosmos DB",
+          "excerpt": "Migrate Cassandra workloads to Cosmos DB",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-cassandra-workloads-cosmos-db/",
+          "length": "PT14M",
+          "ratings": {
+            "count": 65,
+            "average": 4.769231
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb.md",
+          "title": "Migrate on-premises MongoDB databases to Cosmos DB",
+          "excerpt": "Migrate MongoDB workloads to Cosmos DB",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mongodb-databases-azure-database-mongodb/",
+          "length": "PT19M",
+          "ratings": {
+            "count": 82,
+            "average": 4.804878
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-mongodb-databases-to-cosmos-db-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

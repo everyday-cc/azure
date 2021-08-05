@@ -586,6 +586,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-content-moderator.md",
+      "title": "Introduction to Content Moderator",
+      "excerpt": "Discover how Content Moderator can evaluate text, images, and video, for appropriateness.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-content-moderator/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-content-moderator/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 23,
+        "average": 4.7391305
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-custom-commands.md",
       "title": "Introduction to Custom Commands",
       "excerpt": "Custom Commands makes it easy to build voice commanding apps optimized for voice-first interaction experiences. It provides a straightforward authoring and hosting experience on a single interface, helping you to focus on building the best solution for your voice-commanding scenarios.",
@@ -849,8 +892,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
       "length": "PT29M",
       "ratings": {
-        "count": 1309,
-        "average": 4.6906037
+        "count": 1310,
+        "average": 4.6900764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1181,48 +1224,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-azure-hpc-cache.md",
-      "title": "Introduction to Azure HPC Cache",
-      "excerpt": "Evaluate whether Azure HPC Cache is appropriate for improving the productivity of your high-performance computing applications.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-azure-hpc-cache/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-hpc-cache/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

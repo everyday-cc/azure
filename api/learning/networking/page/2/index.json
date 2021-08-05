@@ -60,8 +60,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 1046,
-        "average": 4.702677
+        "count": 1047,
+        "average": 4.702961
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -186,8 +186,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
       "length": "PT29M",
       "ratings": {
-        "count": 3185,
-        "average": 4.634223
+        "count": 3186,
+        "average": 4.634338
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -229,8 +229,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 4105,
-        "average": 4.7683315
+        "count": 4106,
+        "average": 4.768388
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1047,6 +1047,57 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-for-performance-and-scalability.md",
+      "title": "Design for performance and scalability in Azure",
+      "excerpt": "Scaling your system to handle load, identifying network bottlenecks, and optimizing your storage performance are important to ensure your users have the best experience. Learn how to make your application perform at its best.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-for-performance-and-scalability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-performance-and-scalability-in-azure/",
+      "length": "48 mins",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-for-performance-and-scalability-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Design for performance and scalability in Azure",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Design for performance and scalability in Azure",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-implement-azure-expressroute.md",
       "title": "Design and implement Azure ExpressRoute",
       "excerpt": "You will learn how to design and implement Azure ExpressRoute, ExpressRoute Global Reach, ExpressRoute FastPath, and when to use each service according to your environments requirements.",
@@ -1133,49 +1184,6 @@
         "Management Tools",
         "Networking",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-implement-private-access-to-azure-services.md",
-      "title": "Design and implement private access to Azure Services",
-      "excerpt": "You will learn to design and implement private access to Azure Services with Azure Private Link, and virtual network service endpoints.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-private-access-to-azure-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-to-azure-services/",
-      "length": "PT1H30M",
-      "ratings": {
-        "count": 8,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     },
     {

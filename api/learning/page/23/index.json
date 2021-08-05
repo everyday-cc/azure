@@ -4,41 +4,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-iot-devices.md",
-      "title": "Learn how to manage IoT devices as an IT admin",
-      "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-iot-devices/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 1405,
-        "average": 4.7046266
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps.md",
       "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
       "excerpt": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
@@ -681,8 +646,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
       "length": "PT54M",
       "ratings": {
-        "count": 1343,
-        "average": 4.6962028
+        "count": 1344,
+        "average": 4.696429
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1259,6 +1224,49 @@
       "topics": [
         "Azure",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-aspnet-core-identity.md",
+      "title": "Secure an ASP.NET Core web app with the Identity framework",
+      "excerpt": "Add authentication and authorization to an ASP.NET Core web app using the Identity framework.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-aspnet-core-identity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
+      "length": "PT1H8M",
+      "ratings": {
+        "count": 1308,
+        "average": 4.504587
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/secure-aspnet-core-identity-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     }
   ],
