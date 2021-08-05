@@ -40,8 +40,8 @@ related:
         isCached: true
   - title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
     excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
-    publishedDateTime: 2021-07-29T14:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
+    publishedDateTime: 2021-07-29T14:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662200"
     type: article
     provider:
       name: Business Insider
