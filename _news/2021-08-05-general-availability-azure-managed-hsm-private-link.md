@@ -1,10 +1,10 @@
 ---
 category: news
-title: "General availability: Azure Sphere OS version 21.06 expected on June 23"
-excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
-publishedDateTime: 2021-06-10T15:04:41Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2106-expected-on-june-23/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2106-expected-on-june-23/"
+title: "General availability: Azure Managed HSM Private Link "
+excerpt: "You can now use Private Link for Azure Managed HSM to protect sensitive traffic between different Azure and on-premises services.\n\n"
+publishedDateTime: 2021-08-05T18:00:14Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-managed-hsm-private-link-ga-announcement/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-managed-hsm-private-link-ga-announcement/"
 type: article
 quality: 67
 heat: -1
@@ -171,10 +171,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Managed HSM Private Link "
-    excerpt: "You can now use Private Link for Azure Managed HSM to protect sensitive traffic between different Azure and on-premises services.\n\n"
-    publishedDateTime: 2021-08-05T18:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-managed-hsm-private-link-ga-announcement/"
+  - title: "General availability: Azure Sphere OS version 21.06 expected on June 23"
+    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
+    publishedDateTime: 2021-06-10T15:04:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2106-expected-on-june-23/"
     type: article
     provider:
       name: Microsoft
@@ -240,6 +240,6 @@ related:
         height: 752
         isCached: true
 
-secured: "EXtD6/fCdEsHWZbbsGCeE4flJ8lIbpJjdSHBVG4PljcV/pkwjMI+bLTMaIuJ6d7qChbWaLUTuXARflT45DEXsEVUqIn0WPeFIR9cMYyewELc8Izukh4n+q6KTwpM34KIJ0Oa4t/29VeYnc9D7Ndafwdjp8/z5trqEc4fcWaNZt09cvMhfNapNBFnwFvKSvZONBu0vakVzB6wgxCecG67yPuxebxKm0sd9JHnpBBb4dfbHoyeU6hvPiUvayEes1d2JobKGyoone0zszBzZDOmtF0nVQPR2Rh7EB3EbpguDJJu7+E47UFFY6lIWCJG2Y7ybrL/kuCvj/akvdKz/hXnWHSRs51hiK+rO9PIpLpzEtM=;8XYDb0ngTPTm8Ta4apxbzA=="
+secured: "AQy0JLWmN671/rEV286npZj29WJvTQYvt6Zx4n84c7YzQ6/2kDE06BwlhVvr9Gl8f1AEfeEV9iebSoGKw067glOOiTqWs1GI/jqc4QfNJwnd3i+bmCHxIRglM0kzhefPLgoCA7Nd99je8jDtnLgR2FE7twc6g58Gh/ED/gQ4duNDEM85GIQ4gmp89qz6+Axc42jh3Vgvvd4q753wjZ3naFYs3RmFiO8IruFUMLd+WTLsCMMjZuSNj5MLdYIjs/1MBGPODsLWgu6sV9JbdQMO2kE0m+gkrjrJUQBYshWLuZqDHPAHzyrvQsrVex1qVEDABx+0YIe2fRp26qo6jLspwxDKQ9I5JkWSps8OheiK6Ec=;BOiMcHPAVBIhjIPQy1eJxw=="
 ---
 

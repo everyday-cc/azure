@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-upd
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-july-2021/"
 type: article
 quality: 104
-heat: 544
+heat: 564
 published: true
 
 provider:
@@ -168,6 +168,15 @@ related:
     excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
     publishedDateTime: 2021-06-10T15:04:41Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2106-expected-on-june-23/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Managed HSM Private Link "
+    excerpt: "You can now use Private Link for Azure Managed HSM to protect sensitive traffic between different Azure and on-premises services.\n\n"
+    publishedDateTime: 2021-08-05T18:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-managed-hsm-private-link-ga-announcement/"
     type: article
     provider:
       name: Microsoft
