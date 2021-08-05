@@ -1,22 +1,22 @@
 ---
 category: news
 title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
-excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preventing cyber attacks in Microsoft ( News - Alert) Azure."
-publishedDateTime: 2021-08-04T12:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ironnet-announces-expanded-support-cyber-threat-detection-management-/2021/08/04/9423713.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ironnet-announces-expanded-support-cyber-threat-detection-management-/2021/08/04/9423713.htm"
+excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
+publishedDateTime: 2021-08-04T16:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
+webUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
-secured: "Nh2JwBTYuKklk5UbVpU8o2SeXZYkPTPvhVrs4vrUPkmri9slIjSu/UU5N6l+3VxCKhIg8faD7159yEUsUk81W9QMfiDa31fxNOjsQ+ik5GWdKo5vnMSrAZEgZdOViJMXBct9g8V4NNCjQ8JbUZD7ILWvn6n1uHwSQFU+4t+c+px9r0NdW2QooIZk5MeSyv0bBkRVa0xB1CpOA1AB3zFeUVYUig041Kho3FWkR80l/U83s7BMHrbRPavd3wP0J0qP18AWSwxKdbbAnRDR/Jecpn06aaYCmmIdb0KaBVGUdIe25GGvUmdn9C9Kln4REe5J61eQqZCGsnMaQInnEeiFAKz9uscgGacUvcbEnMepolw=;SNRh8glVegpBBah9wg/LIA=="
+secured: "fSiqMts4gCj3ULHhGxC1AMLWWCBJIMfUumUakcKJGQTLN37OstqcS/Ffr4MId9GxZObsMvLbe5IoOVOlF1Bn1mbRTcdVjquvGKTXkb0RYO6tjfO0fZbJcelAPbrxDDEW3gV3rVAnqKPpq6vB726u3mBYecyXpWWI1qBfN6wD+/40f0ow9Qu3U+1Zh4csfUg6kT0GrUJj4F9tIQhQ/DvT/H6Q6CAYFe8ak3rqlTezVoLDS7Q6XQmpk26TWjKBqv9a2/KDr6BbNI2XIlR6WjhLo/4p0d1tXNPmiLT21d/KsoYAgxiRe7zEb9AUsufpK87sDCT7DuoilRwOfTjoxy/I4NR/WJllqOF4ER4nSWuigAU=;6t0RihQBaj6GoFlt7VxL/Q=="
 ---
 
