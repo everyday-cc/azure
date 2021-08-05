@@ -4,7 +4,7 @@ excerpt: "This learning path aims to explain learners how to use Azure to deploy
 type: collection
 price: Free
 length: PT1H7M
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -19,6 +19,8 @@ levels:
 
 items:
   - courses/microsoft-learn-intro-5g-azure
+  - courses/microsoft-learn-5g-business-models
+  - courses/microsoft-learn-5g-tech-azure-cloud
 
 topics:
   - Azure
