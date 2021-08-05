@@ -534,7 +534,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/monitor-windows-server-iaas-vms-and-hybrid-instances-social.png",
@@ -2164,91 +2164,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-prepare-for-ai-engineering.md",
-      "title": "Prepare for AI engineering",
-      "excerpt": "Prepare for AI engineering",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-prepare-for-ai-engineering/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-prepare-for-ai-engineering/",
-      "length": "PT31M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-prepare-to-develop-ai-solutions-azure.md",
-          "title": "Prepare to develop AI solutions on Azure",
-          "excerpt": "Prepare to develop AI solutions on Azure",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-prepare-to-develop-ai-solutions-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-develop-ai-solutions-azure/",
-          "length": "PT31M",
-          "ratings": {
-            "count": 56,
-            "average": 4.767857
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 60,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 1,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-prepare-for-device-management-in-microsoft-365.md",
       "title": "Prepare for device management in Microsoft 365",
       "excerpt": "Prepare for device management in Microsoft 365",
@@ -3213,8 +3128,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iaas-support-azure-sap-workloads/",
           "length": "PT44M",
           "ratings": {
-            "count": 478,
-            "average": 4.761506
+            "count": 479,
+            "average": 4.7620044
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4248,7 +4163,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/threat-response-sentinel-playbooks-social.png",
@@ -4616,8 +4531,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 1483,
-            "average": 4.8084965
+            "count": 1486,
+            "average": 4.8088827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4659,8 +4574,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 783,
-            "average": 4.8492975
+            "count": 785,
+            "average": 4.8496814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5448,8 +5363,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics/",
           "length": "PT30M",
           "ratings": {
-            "count": 56,
-            "average": 4.696429
+            "count": 57,
+            "average": 4.7017546
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5492,8 +5407,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics/",
           "length": "PT21M",
           "ratings": {
-            "count": 75,
-            "average": 4.693333
+            "count": 76,
+            "average": 4.6973686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6109,6 +6024,49 @@
       "type": "collection",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway.md",
+      "title": "Connect your on-premises network to Azure with VPN Gateway",
+      "excerpt": "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 8549,
+        "average": 4.635513
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
       ]
     }
   ],
