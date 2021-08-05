@@ -1682,18 +1682,18 @@ related:
         height: 1300
         isCached: true
   - title: "Introducing EMQ X Cloud on Microsoft Azure"
-    excerpt: "EMQ, the leader of open-source and cloud-native distributed MQTT broker for IoT, is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker ..."
-    publishedDateTime: 2021-07-27T02:37:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3079448"
+    excerpt: "is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker - EMQ X, which has ..."
+    publishedDateTime: 2021-07-26T19:41:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2021/07/image_2-1-1.jpg"
-        width: 800
-        height: 363
+      - url: "https://mma.prnewswire.com/media/1581139/image_1.jpg?p=facebook"
+        width: 2472
+        height: 1294
         isCached: true
   - title: "Microsoft expands Azure Gaming team to UK"
     excerpt: "Xbox veteran Harvey Eagle will lead the Azure Gaming effort in the UK. Microsoft has been investing heavily in its games enterprise business as it wants more developers making use of cloud technology (Azure) and cross-play."
