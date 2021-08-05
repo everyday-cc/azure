@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Introducing EMQ X Cloud on Microsoft Azure"
-excerpt: "EMQ, the leader of open-source and cloud-native distributed MQTT broker for IoT, is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker ..."
-publishedDateTime: 2021-07-27T02:37:00Z
-originalUrl: "https://www.thaipr.net/en/it_en/3079448"
-webUrl: "https://www.thaipr.net/en/it_en/3079448"
+excerpt: "is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker - EMQ X, which has ..."
+publishedDateTime: 2021-07-26T19:41:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: thaipr.net
-  domain: thaipr.net
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.thaipr.net/wp-content/uploads/2021/07/image_2-1-1.jpg"
-    width: 800
-    height: 363
+  - url: "https://mma.prnewswire.com/media/1581139/image_1.jpg?p=facebook"
+    width: 2472
+    height: 1294
     isCached: true
 
 related:
@@ -2340,6 +2340,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "8j3vMwpiKwRWJtiXAFCLCB44UHZ6gnpfzEn5b/f1EAdKjFpnNoxqsZBl2yXAP9BGS3baFlb6KHjxOyBwyMNOEZrBO3zGZ6ulsX50w5Y68Pw8hM/ToPflVk/pvWP5uw+Z/EUn8C3VdyM71l1mVrCyBXIdX+hR35NVJlhzNFCnF8uuvVXdbFPRXYW8Jyl0PI/3ZZk5pFoMrbzOg/KelFxfS8GDtPWOH4XHzONQqd6+YDzf2LV5IRj0ig8y9eUBcQG8+RvTdc2FuUCSxGG5edtpyRI5+Vux6xZOafPidqoQ6gMT2iKfUHmGOVyY4bAztw+pScw73j6GGUy1zurXTsVcfiI73ttZI5NjXO60RXLWMdg=;DrcFjcg5CEDiVJ+6N4iqVQ=="
+secured: "DF1QkkiQG0Vw2YOVzVaPLjQFgIKY5MjeH/ri+dv49oLdpkfmUt7ljMT7j4YYcJYHyobD/m/DLTPepSD8KqBD3wYGkA9Qs80vv1vcEYaTw4Yze6mWSQeaagaZ5vwJcIFns3mDA8x2sZM9KqKhFC+ABXDBcuL3f4L0YbxnxRu6wadfgU+cJ7y9VEVVG7+0j/wpguenws5mw4gnrbvGgucdJIh6wgpjY1T2zyG+LW4Kk1GR7O1t39Xu5hCM2IjdlshDcq69UHa2LkzPfcTLY+Le0i2sdGgEKdi0f7AOxpNU0EztX6kvZeuRsBYk2Vo/J8MlkZxEVRd0n6D/L1W0O7E0UxfOFwbxYzgoFF/Y+gquIaw=;EYaOKeNhQB5okHT1wOEpjw=="
 ---
 
