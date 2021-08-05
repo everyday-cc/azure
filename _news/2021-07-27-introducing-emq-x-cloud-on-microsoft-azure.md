@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Introducing EMQ X Cloud on Microsoft Azure"
-excerpt: "is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker - EMQ X, which has ..."
-publishedDateTime: 2021-07-26T19:41:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
+excerpt: "EMQ, the leader of open-source and cloud-native distributed MQTT broker for IoT, is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker ..."
+publishedDateTime: 2021-07-27T02:37:00Z
+originalUrl: "https://www.thaipr.net/en/it_en/3079448"
+webUrl: "https://www.thaipr.net/en/it_en/3079448"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1581139/image_1.jpg?p=facebook"
-    width: 2472
-    height: 1294
+  - url: "https://www.thaipr.net/wp-content/uploads/2021/07/image_2-1-1.jpg"
+    width: 800
+    height: 363
     isCached: true
 
 related:
@@ -2340,6 +2340,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "uLeNX9IDSTS5FvQ5ttCUGKfOv9504Cz7nANB5FQKx4WXTql9FQV6GkL/boexiNbjO1dYTgm5ZyKILZc5mvBhagwBkkOQEWa+bowCN+4DFPnRcWpqt/CeDkeOVTRAISjI1BVFz6sWAtN5GtD6Xe6J83lf0SHAfaevALifmU2MmLUEIDiW10wn6Pi6BdXikORzzM7TpWGUApw4oCNlhwkBsGYx+wPqTehf7kW9slMV/g15oYWf6x7lZFqgb9YBTuieF3usx86JQh41kYwNTK+fkC24EdqUjTImEeTsDBS9Sy9unIXUSx25whXu9VD+5xArZDylGEc8fyv8lhVQX/PcsMCW5+pEnjA4jlv+AS129FU=;KIyt4Z7Vl9hEmpd7eFQbMg=="
+secured: "0qZpR9YQR2JKmKvRwZNAHx6ccfY1VBZv3GEZ4/jo4sa2RvWMEcQpvqjSddWX4jbVDGUV6jI7ggOW8slMW8HrvHvue/S88JTaskTRvTAWsR6bM9MJvaVH69NDxTATKI/6jkmbsXyW78ISXOI1HABUEHRpkq9VtRw8F5l83O90EManzVR/1UoDHKSio7Ej2L9aGP7oAFDOP/vPnqg2GhbI4oB8GmNuGLHmQfh65wLsh5RMMauI1SY0ANpBpEjp8Ve15rBTsO/1UNPMWeNOFwVQ96kjbzQT5psqEb3UEcal03Y6WLZrWXjTJj37Tab1oOL6E1GggLajYZnpPe89vo08vqwAs2H3dGA2XQl/i86yd5s=;Lk9+j775bYMu17ait+aplA=="
 ---
 
