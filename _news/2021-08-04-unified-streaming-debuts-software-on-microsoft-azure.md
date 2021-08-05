@@ -1,21 +1,29 @@
 ---
 category: news
-title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
-excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
-publishedDateTime: 2020-11-11T14:48:00Z
-originalUrl: "https://www.telecompaper.com/news/ans-migrates-fenwick-it-systems-to-microsoft-azure-public-cloud--1361480"
-webUrl: "https://www.telecompaper.com/news/ans-migrates-fenwick-it-systems-to-microsoft-azure-public-cloud--1361480"
+title: "Unified Streaming debuts software on Microsoft Azure"
+excerpt: "Unified Streaming’s Unified Origin software is now available on Microsoft Azure, and can be employed for one-time usage such as live events, or to cover extra loads in video streaming workflows. Unified Origin enables online broadcasters and video ..."
+publishedDateTime: 2021-08-04T08:25:00Z
+originalUrl: "https://www.tvbeurope.com/media-delivery/unified-streaming-debuts-software-on-microsoft-azure"
+webUrl: "https://www.tvbeurope.com/media-delivery/unified-streaming-debuts-software-on-microsoft-azure"
+ampWebUrl: "https://www.tvbeurope.com/media-delivery/unified-streaming-debuts-software-on-microsoft-azure?amp"
+cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/unified-streaming-debuts-software-on-microsoft-azure?amp"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: tvbeurope.com
+  domain: tvbeurope.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.tvbeurope.com/wp-content/uploads/2021/04/unified.jpg"
+    width: 400
+    height: 333
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -677,22 +685,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 57
-  - title: "Unified Streaming debuts software on Microsoft Azure"
-    excerpt: "Unified Streaming’s Unified Origin software is now available on Microsoft Azure, and can be employed for one-time usage such as live events, or to cover extra loads in video streaming workflows. Unified Origin enables online broadcasters and video ..."
-    publishedDateTime: 2021-08-04T08:25:00Z
-    webUrl: "https://www.tvbeurope.com/media-delivery/unified-streaming-debuts-software-on-microsoft-azure"
-    ampWebUrl: "https://www.tvbeurope.com/media-delivery/unified-streaming-debuts-software-on-microsoft-azure?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/unified-streaming-debuts-software-on-microsoft-azure?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 57
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/04/unified.jpg"
-        width: 400
-        height: 333
-        isCached: true
   - title: "Unified Streaming takes flagship software to Microsoft Azure"
     excerpt: "Aiming to offer better flexibility to customers and make it easier to launch OTT services, smart video streaming technologies provider Unified Streaming has announced the general availability of its Unified Origin software on Microsoft Azure."
     publishedDateTime: 2021-08-04T07:36:00Z
@@ -2154,6 +2146,15 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
+  - title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
+    excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
+    publishedDateTime: 2020-11-11T14:48:00Z
+    webUrl: "https://www.telecompaper.com/news/ans-migrates-fenwick-it-systems-to-microsoft-azure-public-cloud--1361480"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "AMS-IX adds Microsoft Azure Peering Service to cloud portfolio"
     excerpt: "The Amsterdam Internet Exchange (AMS-IX) has added Microsoft Azure Peering Service to its cloud portfolio. This means that companies and organisations connected to the exchange will be able get ..."
     publishedDateTime: 2020-11-25T12:49:00Z
@@ -2355,6 +2356,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "tIqR2wahxZIZnfGJgfkpKPQ/89szqU47QRtY2+aXg3o7QwjZ4M/hChFayNKu0lzF4nFFi4plCtL0Q8RxTk+5880FjACO9xdkVFli0CLrtL+sxgwv2QgB7SKLpOjbZj5aLbbqAPMR4D7VV73r1K539KfhtkuUgR3xS0DbN+CVLUmG99DQ88U+GbPxikmtl4UNXnH/T03zrI4BudQVEpX+MlpV+eRQRQ9UwDDr3NwTx1LPZ2yAEbKFRjTErbXxilPmHdOb5nRTC8pVXwYrth7P/ow3dxl0ekrBN4NG/pi3U9hWThpr2/I45NyxTcTSD5XNzEU7JOCCwoT0KLaBSYAVaq2r6TGttm25bAranbqC8Jk=;3Apa/yiVGHox6Uk2lK3CTg=="
+secured: "FX7q+VRbir+X6gOleY7hnEcsoxJj/0HuFRf2lkIiB5bzg29XxX7iEenBY8qClPethcBw0OHraGW6Q0yDWwG+DA0cMgmTx9GCvPtQNNOQuPbMzCOarKimpu8G0tFhcxOmmfpTeX/7u+af/qkiHv18kT5ZkKMpYvBcj/He8ufktEyI9HVS/1HbYcslUWOkSYlKXP14ssTTktKXP2a9PfbA3vSdIYn6MXY6tgWL0IA2FIfFLJxZYVqfSy0CRr7duFI919Sa61grVVZzLWu8monpqcVwgpW/OnRMvrQGXo480LlfIoDujL9IeoKrwh1xjdM4qmeuyWReAyFs6XIo5zLnQXiz2SteCtoXjaIrArlKeoU=;3LYG94FuuCah3g3tjYCong=="
 ---
 

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
-excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting."
-publishedDateTime: 2021-06-02T06:20:00Z
-originalUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/"
-webUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/"
-ampWebUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/"
+title: "Wipro earns the Kubernetes on Microsoft Azure Advanced Specialization"
+excerpt: "Wipro entered that it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in ..."
+publishedDateTime: 2021-08-04T06:58:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/wipro-earns-the-kubernetes-on-microsoft-azure-advanced-specialization-121080400567_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/wipro-earns-the-kubernetes-on-microsoft-azure-advanced-specialization-121080400567_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/wipro-earns-the-kubernetes-on-microsoft-azure-advanced-specialization-121080400567_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/wipro-earns-the-kubernetes-on-microsoft-azure-advanced-specialization-121080400567_1.html"
 type: article
-quality: 114
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - Azure
-  - AI
+  - Containers
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-    width: 1200
-    height: 600
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png"
+    width: 350
+    height: 233
     isCached: true
 
 related:
@@ -46,6 +42,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-495666121.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Microsoft turns attention to multi-cloud and AI with Azure updates"
+    excerpt: "Microsoft made over 100 product and service announcements last week. Those related to its Azure ecosystem were the most interesting."
+    publishedDateTime: 2021-06-02T06:20:00Z
+    webUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/"
+    ampWebUrl: "https://venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/01/microsoft-turns-attention-to-multi-cloud-and-ai-with-azure-updates/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 114
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud"
     excerpt: "Kubernetes applications can now exploit the cluster and virtualisation technologies that power Azure Stack HCI while still respecting local data. Microsoft is a firm believer in the idea of a hybrid cloud, one that spans everything from microcontrollers at ..."
@@ -188,22 +200,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Wipro earns the Kubernetes on Microsoft Azure Advanced Specialization"
-    excerpt: "Wipro entered that it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in ..."
-    publishedDateTime: 2021-08-04T06:58:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/wipro-earns-the-kubernetes-on-microsoft-azure-advanced-specialization-121080400567_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/wipro-earns-the-kubernetes-on-microsoft-azure-advanced-specialization-121080400567_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/wipro-earns-the-kubernetes-on-microsoft-azure-advanced-specialization-121080400567_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 74
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png"
-        width: 350
-        height: 233
-        isCached: true
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
     publishedDateTime: 2021-05-21T13:31:00Z
@@ -828,6 +824,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "ycUO6gikmS2nFibLjOM+3xlkTv7FzKXsiBHYZRFFE8TQZzWvI9ERFt6oEgIVVELt/vYmh/ZsSLBerv4e09efeUxCdatre/khMFTdMPd5GVHH0/4sl+1WQq68XRKC62xWD+wcYtrmvXsD1Lsq2jOGvBKrTX0FQ1M671lhzi3vLNxonv8VLMDWGHyxrema7ysG5Zap1j28VppVlYkZe04jdOh4ku6c/EPfLr3sHIUfaarWOrR3fiWPL+5jCa5rwnPs8s2i6wo0KWrlSXpY7uGdO8/oMaKsP6boUwIpWR7Q3RoLG2YeeJPYOMSFoqeGQrYWE1mBnT1UINxSUUUQBAjQzIPjVowZByL3KwLsILJ7E1NEaLRf6A7LHPGmkQ/EbAQ9WUKS3A8/TjfVB8knoEcRKD9bYXN4+L3vuDxOvGO0J8jWKkU27SwDjl51YbhsDe70syAo3J/+2DXyd3WURpKLHyDWubCgynKPKsgM6upSm82WpSmPaAI9pmw34eP+NQNpKpR4LiIl8D5eb5oKvjqrEQ==;ptT1CFJbf7JtYtMjgSwGxQ=="
+secured: "EedRzEvk/Z2xhk4N9vz+33lkqCsr+OtB4ujj99tnDOaFSQQKMMyGHP9gGIcchN9mbvz2WoGzpQ1KFskAP5V1Oh31xSU3KoRZC2scaHc7QN0ora/RxaTDgrzfA/+0H908ZYVqJsrSHUbHUTrDZ8H+IkgSpY5WU3GSxr9ucfXRdTzTUmtheUgqI7AocF41IylURxG8bZN5tK/TcS2Njg17O06FRWH61nWPvzFW6+6KuUBNjQEWG4toCG8bDiaDYDOA2F1Ls7Vd9j++7F3c0jfw8nrW3xx1zsc0UicGPyZfvnSZksuBMLvKLikMMtgI7Yywin05/MYlZWrt69fc8H1x6ZntfKeqHIkNP0GjFVfJrDk=;o5CHQA8QKsp24kg8IxeJbg=="
 ---
 

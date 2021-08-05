@@ -193,6 +193,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Wipro earns the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "Wipro entered that it has earned the Kubernetes on Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and proven expertise in ..."
+    publishedDateTime: 2021-08-04T06:58:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/wipro-earns-the-kubernetes-on-microsoft-azure-advanced-specialization-121080400567_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/wipro-earns-the-kubernetes-on-microsoft-azure-advanced-specialization-121080400567_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/wipro-earns-the-kubernetes-on-microsoft-azure-advanced-specialization-121080400567_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 74
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png"
+        width: 350
+        height: 233
+        isCached: true
   - title: "This 2021 Microsoft 365, Windows, and Azure training bundle is on sale for $70"
     excerpt: "Windows, & Azure Bundle. Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players ..."
     publishedDateTime: 2021-05-21T13:31:00Z

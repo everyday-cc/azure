@@ -672,6 +672,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 57
+  - title: "Unified Streaming debuts software on Microsoft Azure"
+    excerpt: "Unified Streaming’s Unified Origin software is now available on Microsoft Azure, and can be employed for one-time usage such as live events, or to cover extra loads in video streaming workflows. Unified Origin enables online broadcasters and video ..."
+    publishedDateTime: 2021-08-04T08:25:00Z
+    webUrl: "https://www.tvbeurope.com/media-delivery/unified-streaming-debuts-software-on-microsoft-azure"
+    ampWebUrl: "https://www.tvbeurope.com/media-delivery/unified-streaming-debuts-software-on-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/unified-streaming-debuts-software-on-microsoft-azure?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 57
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/04/unified.jpg"
+        width: 400
+        height: 333
+        isCached: true
   - title: "Unified Streaming takes flagship software to Microsoft Azure"
     excerpt: "Aiming to offer better flexibility to customers and make it easier to launch OTT services, smart video streaming technologies provider Unified Streaming has announced the general availability of its Unified Origin software on Microsoft Azure."
     publishedDateTime: 2021-08-04T07:36:00Z
