@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 86515,
-            "average": 4.795573
+            "count": 86549,
+            "average": 4.795561
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 52312,
-            "average": 4.8205
+            "count": 52328,
+            "average": 4.8204784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 31506,
-            "average": 4.788834
+            "count": 31518,
+            "average": 4.7888193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -184,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 52312,
-        "average": 4.8205
+        "count": 52328,
+        "average": 4.8204784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -221,16 +221,12 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet.md",
-      "title": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
-      "excerpt": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api-dotnet/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 185,
-        "average": 4.8
-      },
+      "path": "_learning/courses/microsoft-learn-design-for-performance-and-scalability.md",
+      "title": "Design for performance and scalability in Azure",
+      "excerpt": "Scaling your system to handle load, identifying network bottlenecks, and optimizing your storage performance are important to ensure your users have the best experience. Learn how to make your application perform at its best.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-for-performance-and-scalability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-performance-and-scalability-in-azure/",
+      "length": "48 mins",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -244,14 +240,22 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-and-api-dotnet-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/design-for-performance-and-scalability-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Design for performance and scalability in Azure",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
           "width": 640,
           "height": 320,
+          "title": "Design for performance and scalability in Azure",
           "isCached": true
         }
       ],
@@ -261,8 +265,10 @@
       "topics": [
         "Azure",
         "Compute",
+        "Databases",
         "Serverless",
-        "Web"
+        "Containers",
+        "Networking"
       ]
     },
     {
@@ -296,8 +302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 12146,
-            "average": 4.7920303
+            "count": 12150,
+            "average": 4.791934
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -339,8 +345,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 13130,
-            "average": 4.7847676
+            "count": 13134,
+            "average": 4.784605
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -382,8 +388,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 9135,
-            "average": 4.7856593
+            "count": 9138,
+            "average": 4.78573
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -429,8 +435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 9908,
-            "average": 4.7304196
+            "count": 9912,
+            "average": 4.7304277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -498,8 +504,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 9135,
-        "average": 4.7856593
+        "count": 9138,
+        "average": 4.78573
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -610,8 +616,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 1151,
-            "average": 4.6776714
+            "count": 1153,
+            "average": 4.678231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -689,8 +695,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 5301,
-            "average": 4.732126
+            "count": 5302,
+            "average": 4.7321763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -893,8 +899,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 4433,
-            "average": 4.623731
+            "count": 4434,
+            "average": 4.6235905
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1012,8 +1018,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 3015,
-            "average": 4.717081
+            "count": 3016,
+            "average": 4.7168436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1055,8 +1061,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43711,
-            "average": 4.71991
+            "count": 43713,
+            "average": 4.719923
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1926,8 +1932,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 5301,
-        "average": 4.732126
+        "count": 5302,
+        "average": 4.7321763
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2040,8 +2046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3914,
-        "average": 4.519162
+        "count": 3915,
+        "average": 4.5192847
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2167,8 +2173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-api-preview-url/",
       "length": "PT27M",
       "ratings": {
-        "count": 105,
-        "average": 4.6761904
+        "count": 107,
+        "average": 4.6728973
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2292,8 +2298,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 2215,
-        "average": 4.6325054
+        "count": 2216,
+        "average": 4.6322203
       },
       "provider": {
         "name": "Microsoft Learn",
