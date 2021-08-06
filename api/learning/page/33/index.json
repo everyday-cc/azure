@@ -4,50 +4,6 @@
   "page": 33,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-configure-azure-alerts.md",
-      "title": "Configure Azure alerts",
-      "excerpt": "You will learn how to configure Azure alerts including action groups.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-alerts/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-alerts/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 2,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-configure-azure-application-gateway.md",
       "title": "Configure Azure Application Gateway",
       "excerpt": "You will learn how to configure an Azure Application Gateway.",
@@ -875,7 +831,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-resources-arm-templates/",
       "length": "PT21M",
       "ratings": {
-        "count": 8,
+        "count": 9,
         "average": 5.0
       },
       "provider": {
@@ -1089,7 +1045,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-subscriptions/",
       "length": "PT30M",
       "ratings": {
-        "count": 1,
+        "count": 2,
         "average": 5.0
       },
       "provider": {
@@ -1131,7 +1087,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-user-group-accounts/",
       "length": "PT24M",
       "ratings": {
-        "count": 1,
+        "count": 2,
         "average": 5.0
       },
       "provider": {
@@ -1262,6 +1218,49 @@
       "length": "PT18M",
       "ratings": {
         "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-virtual-machines.md",
+      "title": "Configure virtual machines",
+      "excerpt": "You will learn to configure virtual machines including sizing, storage, and connections.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machines/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 1,
         "average": 5.0
       },
       "provider": {
