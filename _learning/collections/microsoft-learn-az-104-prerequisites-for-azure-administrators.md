@@ -4,7 +4,7 @@ excerpt: "Learn the basic concepts you'll need to know as an Azure administrator
 type: collection
 price: Free
 length: PT6H30M
-heat: 92
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -18,15 +18,12 @@ levels:
   - Beginner
 
 items:
-  - courses/microsoft-learn-build-cloud-governance-strategy-azure
-  - courses/microsoft-learn-introduction-to-azure-virtual-machines
-  - courses/microsoft-learn-network-fundamentals
-  - courses/microsoft-learn-network-fundamentals-2
-  - courses/microsoft-learn-control-azure-services-with-cli
+  - courses/microsoft-learn-configure-azure-resources-tools
+  - courses/microsoft-learn-use-azure-resource-manager
+  - courses/microsoft-learn-configure-resources-arm-templates
   - courses/microsoft-learn-automate-azure-tasks-with-powershell
-  - courses/microsoft-learn-intro-to-azure-ad
-  - courses/microsoft-learn-intro-to-docker-containers
-  - courses/microsoft-learn-choose-storage-approach-in-azure
+  - courses/microsoft-learn-control-azure-services-with-cli
+  - courses/microsoft-learn-create-resource-manager-template-vs-code
 
 topics:
   - Azure
@@ -38,7 +35,7 @@ topics:
   - Storage
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png
+  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
     width: 640
     height: 320
     isCached: true
