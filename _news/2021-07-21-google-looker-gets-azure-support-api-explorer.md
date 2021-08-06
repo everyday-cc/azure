@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/amp/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
