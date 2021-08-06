@@ -4,12 +4,12 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-implement-a-windows-server-hybrid-cloud-infrastructure.md",
-      "title": "Implement a Windows Server hybrid cloud infrastructure",
-      "excerpt": "You will learn how to address problems relating to the migration of on-premises workloads into Azure. After completing the learning path, you will be able to implement a hybrid Azure infrastructure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-implement-a-windows-server-hybrid-cloud-infrastructure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-implement-a-windows-server-hybrid-cloud-infrastructure/",
-      "length": "PT7H10M",
+      "path": "_learning/collections/microsoft-learn-implement-an-authentication-and-access-management-solution.md",
+      "title": "Implement an Authentication and Access Management solution",
+      "excerpt": "Implement an Authentication and Access Management solution",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-implement-an-authentication-and-access-management-solution/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-implement-an-authentication-and-access-management-solution/",
+      "length": "PT3H11M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -27,15 +27,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-implement-hybrid-network-infrastructure.md",
-          "title": "Implement hybrid network infrastructure",
-          "excerpt": "You'll learn to connect your on-premises environment to Azure, implement subnets and routing between your on-premises and cloud environments, and ensure that workloads in the cloud and on-premises perform DNS resolution to locate each other.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-hybrid-network-infrastructure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-network-infrastructure/",
-          "length": "PT1H9M",
+          "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
+          "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
+          "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-aad-users-with-mfa/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
+          "length": "PT38M",
           "ratings": {
-            "count": 52,
-            "average": 4.7884617
+            "count": 2880,
+            "average": 4.740278
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -50,14 +50,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-network-infrastructure-social.png",
-              "width": 642,
-              "height": 321,
+              "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -67,19 +67,19 @@
           "topics": [
             "Azure",
             "Management Tools",
-            "Compute"
+            "Identity"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server.md",
-          "title": "Implement hybrid identity with Windows Server",
-          "excerpt": "Implement hybrid identity with Windows Server",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-identity-windows-server/",
-          "length": "PT1H49M",
+          "path": "_learning/courses/microsoft-learn-manage-user-authentication.md",
+          "title": "Manage user authentication",
+          "excerpt": "Manage user authentication",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-user-authentication/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
+          "length": "PT48M",
           "ratings": {
-            "count": 66,
-            "average": 4.651515
+            "count": 307,
+            "average": 4.8175898
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,14 +94,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Advanced"
           ],
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
-              "width": 642,
-              "height": 321,
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -110,21 +110,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Identity",
-            "Management Tools",
-            "Compute"
+            "Identity"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms.md",
-          "title": "Migrate on-premises Windows Server instances to Azure IaaS virtual machines",
-          "excerpt": "You'll be able to plan a migration and select appropriate server migration tools. You will also learn how to use Azure Migrate, how to assess physical servers, and how to migrate those servers.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-premises-windows-server-instances-azure-iaas-virtual-machines/",
-          "length": "PT41M",
+          "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
+          "title": "Plan, implement, and administer conditional access",
+          "excerpt": "Plan, implement, and administer conditional access",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
+          "length": "PT60M",
           "ratings": {
-            "count": 34,
-            "average": 4.7647057
+            "count": 83,
+            "average": 4.8554215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -139,14 +137,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Advanced"
           ],
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-windows-server-instances-to-azure-iaas-vms-social.png",
-              "width": 642,
-              "height": 321,
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -155,20 +153,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Management Tools",
-            "Compute"
+            "Identity"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-implement-hybrid-file-server-infrastructure.md",
-          "title": "Implement a hybrid file server infrastructure",
-          "excerpt": "In this module, you’ll learn to deploy Azure File Sync, migrate from DFS, and use Storage Migration Services to migrate file servers to Azure.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-hybrid-file-server-infrastructure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-file-server-infrastructure/",
-          "length": "PT1H32M",
+          "path": "_learning/courses/microsoft-learn-manage-azure-ad-identity-protection.md",
+          "title": "Manage Azure AD Identity Protection",
+          "excerpt": "Manage Azure AD Identity Protection",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-azure-ad-identity-protection/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
+          "length": "PT45M",
           "ratings": {
-            "count": 38,
-            "average": 4.7105265
+            "count": 468,
+            "average": 4.811966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -183,14 +180,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Advanced"
           ],
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-a-hybrid-file-server-infrastructure-social.png",
-              "width": 642,
-              "height": 321,
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -199,19 +196,17 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Management Tools",
-            "Storage",
-            "Compute"
+            "Identity"
           ]
         }
       ],
-      "size": 6,
+      "size": 4,
       "heat": 60,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-network-infrastructure-social.png",
-          "width": 642,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -220,10 +215,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Identity",
-        "Management Tools",
-        "Storage",
-        "Compute"
+        "Identity"
       ]
     },
     {
@@ -3019,6 +3011,221 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-sc-300-part-2-implement-an-authentication-and-access-management-solution.md",
+      "title": "SC-300 part 2: Implement an Authentication and Access Management solution",
+      "excerpt": "SC-300 part 2: Implement an Authentication and Access Management solution",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-sc-300-part-2-implement-an-authentication-and-access-management-solution/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-sc-300-part-2-implement-an-authentication-and-access-management-solution/",
+      "length": "PT3H11M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
+          "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
+          "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-aad-users-with-mfa/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 2880,
+            "average": 4.740278
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-user-authentication.md",
+          "title": "Manage user authentication",
+          "excerpt": "Manage user authentication",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-user-authentication/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 307,
+            "average": 4.8175898
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
+          "title": "Plan, implement, and administer conditional access",
+          "excerpt": "Plan, implement, and administer conditional access",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
+          "length": "PT60M",
+          "ratings": {
+            "count": 83,
+            "average": 4.8554215
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-azure-ad-identity-protection.md",
+          "title": "Manage Azure AD Identity Protection",
+          "excerpt": "Manage Azure AD Identity Protection",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-azure-ad-identity-protection/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 468,
+            "average": 4.811966
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-sc-300-part-4-plan-and-implement-an-identity-governance-strategy.md",
       "title": "SC-300 part 4: Plan and implement an identity governance strategy",
       "excerpt": "SC-300 part 4: Plan and implement an identity governance strategy",
@@ -3233,42 +3440,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
-      "title": "Secure your Azure resources with role-based access control (RBAC)",
-      "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 7532,
-        "average": 4.6914496
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
       "title": "Create Azure users and groups in Azure Active Directory",
       "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
@@ -3276,8 +3447,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 6272,
-        "average": 4.7450576
+        "count": 6274,
+        "average": 4.74482
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3294,10 +3465,139 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 58,
+      "heat": 60,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365.md",
+      "title": "Describe the identity and access management capabilities of Microsoft 365",
+      "excerpt": "Describe the identity and access management capabilities of Microsoft 365",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 466,
+        "average": 4.828326
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-the-identity-and-access-management-capabilities-of-microsoft-365-social.png",
+          "width": 642,
+          "height": 324,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-users-and-groups-in-aad.md",
+      "title": "Manage users and groups in Azure Active Directory",
+      "excerpt": "Manage users and groups in Azure Active Directory",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-users-and-groups-in-aad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 6524,
+        "average": 4.739577
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
+      "title": "Secure your identities by using Azure Active Directory",
+      "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 3401,
+        "average": 4.716554
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -3319,8 +3619,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 624,
-        "average": 4.7516026
+        "count": 625,
+        "average": 4.752
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3337,7 +3637,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 58,
+      "heat": 55,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
@@ -3355,15 +3655,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-identity-principles-concepts.md",
-      "title": "Describe identity principles and concepts",
-      "excerpt": "Describe identity principles and concepts",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-identity-principles-concepts/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
-      "length": "PT20M",
+      "path": "_learning/courses/microsoft-learn-m365-identity-zero-trust.md",
+      "title": "Embrace Zero Trust with Azure Active Directory",
+      "excerpt": "Learn about the Zero Trust model and how to implement Zero Trust into your organization.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-zero-trust/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/",
+      "length": "PT35M",
       "ratings": {
-        "count": 796,
-        "average": 4.8505025
+        "count": 4072,
+        "average": 4.827112
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3378,14 +3678,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 56,
+      "heat": 55,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-identity-principles-and-concepts-social.png",
-          "width": 641,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/embrace-zero-trust-social.png",
+          "width": 643,
+          "height": 324,
           "isCached": true
         }
       ],
@@ -3398,15 +3698,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365.md",
-      "title": "Describe the identity and access management capabilities of Microsoft 365",
-      "excerpt": "Describe the identity and access management capabilities of Microsoft 365",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
-      "length": "PT29M",
+      "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
+      "title": "Strengthen authentication (conditional access) with Azure Active Directory",
+      "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-authentication/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
+      "length": "PT24M",
       "ratings": {
-        "count": 465,
-        "average": 4.827957
+        "count": 4797,
+        "average": 4.788201
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3421,14 +3721,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-the-identity-and-access-management-capabilities-of-microsoft-365-social.png",
-          "width": 642,
-          "height": 324,
+          "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -3527,49 +3827,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-configure-manage-identities.md",
-      "title": "Create, configure, and manage identities",
-      "excerpt": "Create, configure, and manage identities",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-configure-manage-identities/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 517,
-        "average": 4.812379
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-describe-identity-protection-governance-capabilities-of-azure-ad.md",
       "title": "Describe the identity protection and governance capabilities of Azure AD",
       "excerpt": "Describe the identity protection and governance capabilities of Azure AD",
@@ -3599,6 +3856,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/describe-the-identity-protection-and-governance-capabilities-of-azure-ad-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad.md",
+      "title": "Explore the access management capabilities of Azure AD",
+      "excerpt": "Explore the access management capabilities of Azure AD",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
+      "length": "PT15M",
+      "ratings": {
+        "count": 350,
+        "average": 4.8228574
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-the-access-management-capabilities-of-azure-ad-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
@@ -3656,144 +3956,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
-      "title": "Strengthen authentication (conditional access) with Azure Active Directory",
-      "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-authentication/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
-      "length": "PT24M",
+      "path": "_learning/courses/microsoft-learn-implement-initial-configuration-of-azure-active-directory.md",
+      "title": "Implement initial configuration of Azure Active Directory",
+      "excerpt": "Implement initial configuration of Azure Active Directory",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-initial-configuration-of-azure-active-directory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-initial-configuration-of-azure-active-directory/",
+      "length": "PT53M",
       "ratings": {
-        "count": 4796,
-        "average": 4.788157
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-m365-identity-zero-trust.md",
-      "title": "Embrace Zero Trust with Azure Active Directory",
-      "excerpt": "Learn about the Zero Trust model and how to implement Zero Trust into your organization.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-zero-trust/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 4072,
-        "average": 4.827112
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/embrace-zero-trust-social.png",
-          "width": 643,
-          "height": 324,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad.md",
-      "title": "Explore the authentication capabilities of Azure AD",
-      "excerpt": "Explore the authentication capabilities of Azure AD",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 402,
-        "average": 4.830846
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-the-authentication-capabilities-of-azure-ad-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-manage-external-identities.md",
-      "title": "Implement and manage external identities",
-      "excerpt": "Implement and manage external identities",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-manage-external-identities/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 394,
-        "average": 4.746193
+        "count": 728,
+        "average": 4.7788463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3810,7 +3981,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3828,15 +3999,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
-      "title": "Secure your identities by using Azure Active Directory",
-      "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-ad/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
-      "length": "PT27M",
+      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
+      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
+      "excerpt": "Learn how to manage device identity by using Azure AD join and Enterprise State Roaming.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
+      "length": "PT25M",
       "ratings": {
-        "count": 3401,
-        "average": 4.716554
+        "count": 2941,
+        "average": 4.699762
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3851,12 +4022,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

@@ -4,58 +4,15 @@
   "page": 35,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-bot-with-bot-framework-composer.md",
-      "title": "Create a Bot with the Bot Framework Composer",
-      "excerpt": "User the Bot Framework Composer to quickly and easily build sophisticated conversational bots without writing code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-bot-with-bot-framework-composer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 152,
-        "average": 4.769737
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-computer-vision-service.md",
-      "title": "Process images with the Computer Vision service",
-      "excerpt": "Use the Computer Vision API to analyze images for insights, extract text from images, and generate high-quality thumbnails.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-computer-vision-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
+      "path": "_learning/courses/microsoft-learn-create-configure-manage-identities.md",
+      "title": "Create, configure, and manage identities",
+      "excerpt": "Create, configure, and manage identities",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-configure-manage-identities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
       "length": "PT32M",
       "ratings": {
-        "count": 1563,
-        "average": 4.662828
+        "count": 517,
+        "average": 4.812379
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -70,7 +27,7 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Advanced"
       ],
       "heat": 50,
       "images": [
@@ -86,8 +43,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
-        "AI"
+        "Identity"
       ]
     },
     {
@@ -143,8 +99,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 4507,
-        "average": 4.658753
+        "count": 4508,
+        "average": 4.658607
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -395,6 +351,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-create-host-web-sites-github-pages.md",
+      "title": "Create and host web sites by using GitHub Pages",
+      "excerpt": "Learn how to host your personal, organization, and project sites for free with GitHub Pages.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-host-web-sites-github-pages/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-host-web-sites-github-pages/",
+      "length": "PT1H12M",
+      "ratings": {
+        "count": 553,
+        "average": 4.837251
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/create-host-web-sites-github-pages-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-image-recognition-with-azure-iot-edge.md",
       "title": "Create an image recognition solution with Azure IoT Edge and Azure Cognitive Services",
       "excerpt": "This is a computer vision solution using Azure IoT Edge",
@@ -595,49 +593,6 @@
       },
       "levels": [
         "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-language-understanding-app.md",
-      "title": "Create a Language Understanding app",
-      "excerpt": "Create a Language Understanding app",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-language-understanding-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-understanding-app/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 12,
-        "average": 4.9166665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
       ],
       "heat": 50,
       "images": [
@@ -863,93 +818,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory.md",
-      "title": "Create production workloads on Azure Databricks with Azure Data Factory",
-      "excerpt": "Create production workloads on Azure Databricks with Azure Data Factory",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 243,
-        "average": 4.547325
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-production-workloads-azure-databricks-azure-data-factory-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
-      "title": "Create a release pipeline in Azure Pipelines",
-      "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 1334,
-        "average": 4.7076464
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-saas-offer-commercial-marketplace.md",
       "title": "Create a SaaS offer for the commercial marketplace",
       "excerpt": "This module provides a high-level overview of SaaS offers in the commercial marketplace",
@@ -1163,51 +1031,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-your-first-iot-central-app.md",
-      "title": "Create your first Azure IoT Central app",
-      "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-your-first-iot-central-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
-      "length": "PT1H22M",
-      "ratings": {
-        "count": 929,
-        "average": 4.628633
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster.md",
       "title": "Creating and configuring a HDInsight cluster",
       "excerpt": "Creating and configuring a HDInsight Cluster",
@@ -1290,6 +1113,181 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-customize-suse-linux-enterprise-server-azure.md",
+      "title": "Customize a SUSE Linux Enterprise Server virtual machine on Azure",
+      "excerpt": "Deploy and customize a SUSE Linux Enterprise Server (SLES) on Azure virtual machine (VM) using YaST admin and zypper package management tools to add RPM packages. Learn how SUSE groups packages and reconciles package dependencies to help ensure you run the latest updates and versions. Practice using YaST and zypper to install a LAMP stack on a SLES Azure VM.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-customize-suse-linux-enterprise-server-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-suse-linux-enterprise-server-azure/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images.md",
+      "title": "Customize Windows Server IaaS Virtual Machine images",
+      "excerpt": "You'll be able to create new VMs from generalized images and use Azure Image Builder templates to create and manage images in Azure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-windows-server-iaas-virtual-machine-images/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 30,
+        "average": 4.766667
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/customize-windows-server-iaas-vm-images-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cv-classify-bird-species.md",
+      "title": "Classify endangered bird species with Custom Vision",
+      "excerpt": "Learn how to use Azure Cognitive Services Custom Vision to build a machine learning model that identifies the species of a bird in an image, to help with gathering data.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cv-classify-bird-species/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cv-classify-bird-species/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 188,
+        "average": 4.5797873
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/cv-classify-bird-species-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
+      "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
+      "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 319,
+        "average": 4.6081505
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Analytics",
+        "Storage"
       ]
     }
   ],

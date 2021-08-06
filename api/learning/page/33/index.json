@@ -4,6 +4,50 @@
   "page": 33,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-configure-azure-alerts.md",
+      "title": "Configure Azure alerts",
+      "excerpt": "You will learn how to configure Azure alerts including action groups.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-alerts/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 2,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-azure-application-gateway.md",
       "title": "Configure Azure Application Gateway",
       "excerpt": "You will learn how to configure an Azure Application Gateway.",
@@ -866,91 +910,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-role-based-access-control.md",
-      "title": "Configure role-based access control",
-      "excerpt": "You will learn how to use role-based access control to ensure resources are protected, but users can still access the resources they need.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-role-based-access-control/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-role-based-access-control/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
-      "title": "Configure security policies to manage data",
-      "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 2451,
-        "average": 4.619339
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance.md",
       "title": "Configure SQL Server resources for optimal performance",
       "excerpt": "Choose the appropriate size and storage options for your Azure SQL databases. Configure server resources such as tempdb. Understand the usage of Resource Governor.",
@@ -1261,6 +1220,49 @@
       "length": "PT18M",
       "ratings": {
         "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-virtual-machines.md",
+      "title": "Configure virtual machines",
+      "excerpt": "You will learn to configure virtual machines including sizing, storage, and connections.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machines/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 1,
         "average": 5.0
       },
       "provider": {

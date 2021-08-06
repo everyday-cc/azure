@@ -4,6 +4,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-iot-devices.md",
+      "title": "Learn how to manage IoT devices as an IT admin",
+      "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-iot-devices/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 1407,
+        "average": 4.705046
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls.md",
       "title": "Prioritize your issues and apply security controls",
       "excerpt": "Threat modeling provides you with a list of threats and ways to reduce or eliminate risk, but it doesn't prioritize them for you. Also, there are no layered security control recommendations based on their type and function.",
@@ -48,15 +83,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device.md",
-      "title": "Trigger an Azure Event Grid workflow from an IoT device",
-      "excerpt": "Trigger an Azure Event Grid workflow from an IoT device",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/trigger-azure-event-grid-workflow-iot-device/",
-      "length": "PT42M",
+      "path": "_learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer.md",
+      "title": "Provide context with the right depth layer",
+      "excerpt": "Threat models can get complex if all parties involved cannot agree on a data-flow diagram depth layer that provides enough context to satisfy requirements",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
+      "length": "PT26M",
       "ratings": {
-        "count": 30,
-        "average": 4.766667
+        "count": 387,
+        "average": 4.754522
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,25 +106,16 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/trigger-azure-event-grid-workflow-iot-device-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
         "IoT",
-        "Integration",
-        "Blockchain"
+        "Security"
       ]
     },
     {
@@ -1494,51 +1520,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/iot/create-your-first-app-with-azure-maps-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-your-first-iot-central-app.md",
-      "title": "Create your first Azure IoT Central app",
-      "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-your-first-iot-central-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
-      "length": "PT1H22M",
-      "ratings": {
-        "count": 929,
-        "average": 4.628633
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],

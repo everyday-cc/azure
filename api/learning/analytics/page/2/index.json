@@ -4,15 +4,15 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
-      "title": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "excerpt": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture.md",
+      "title": "Describe Azure Databricks Delta Lake architecture",
+      "excerpt": "Describe Azure Databricks Delta Lake architecture",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
+      "length": "PT33M",
       "ratings": {
-        "count": 307,
-        "average": 4.6188927
+        "count": 217,
+        "average": 4.589862
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,7 +32,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-lazy-evaluation-other-performance-features-azure-databricks-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-delta-lake-architecture-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -126,49 +126,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-operationalize-your-azure-data-factory-pipelines.md",
-      "title": "Operationalize your Azure Data Factory or Azure Synapse Pipeline",
-      "excerpt": "Operationalize your Azure Data Factory or Azure Synapse Pipeline",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-operationalize-your-azure-data-factory-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/operationalize-azure-data-factory-pipelines/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 179,
-        "average": 4.480447
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/operationalize-your-azure-data-factory-pipelines-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-read-write-data-azure-databricks.md",
       "title": "Read and write data in Azure Databricks",
       "excerpt": "Read and write data in Azure Databricks",
@@ -213,6 +170,94 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-spark-architecture-fundamentals.md",
+      "title": "Spark architecture fundamentals",
+      "excerpt": "Spark architecture fundamentals",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-spark-architecture-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 902,
+        "average": 4.64745
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks.md",
+      "title": "Work with DataFrames advanced methods in Azure Databricks",
+      "excerpt": "Work with DataFrames advanced methods in Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-advanced-methods-azure-databricks/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 269,
+        "average": 4.4907064
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-advanced-methods-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
       "title": "Work with DataFrames in Azure Databricks",
       "excerpt": "Work with DataFrames in Azure Databricks",
@@ -220,8 +265,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
       "length": "PT46M",
       "ratings": {
-        "count": 483,
-        "average": 4.641822
+        "count": 484,
+        "average": 4.642562
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,15 +345,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture.md",
-      "title": "Describe Azure Databricks Delta Lake architecture",
-      "excerpt": "Describe Azure Databricks Delta Lake architecture",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
+      "path": "_learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory.md",
+      "title": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "excerpt": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
       "length": "PT33M",
       "ratings": {
-        "count": 217,
-        "average": 4.589862
+        "count": 243,
+        "average": 4.547325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -328,7 +373,95 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-delta-lake-architecture-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/create-production-workloads-azure-databricks-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
+      "title": "Describe Azure Databricks",
+      "excerpt": "Describe Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 1104,
+        "average": 4.54529
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
+      "title": "Describe lazy evaluation and other performance features in Azure Databricks",
+      "excerpt": "Describe lazy evaluation and other performance features in Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 307,
+        "average": 4.6188927
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-lazy-evaluation-other-performance-features-azure-databricks-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -563,92 +696,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics.md",
-      "title": "Introduction to Azure Synapse Analytics",
-      "excerpt": "Introduction to Azure Synapse Analytics",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 351,
-        "average": 4.7920227
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-optimize-data-warehouse-query-performance-azure-synapse-analytics.md",
-      "title": "Optimize data warehouse query performance in Azure Synapse Analytics",
-      "excerpt": "Optimize data warehouse query performance in Azure Synapse Analytics",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-data-warehouse-query-performance-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-data-warehouse-query-performance-azure-synapse-analytics/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 110,
-        "average": 4.7545457
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-data-warehouse-query-performance-in-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-orchestrate-data-movement-transformation-azure-data-factory.md",
       "title": "Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline",
       "excerpt": "Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline",
@@ -680,49 +727,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/orchestrate-data-movement-transformation-azure-data-factory-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines.md",
-      "title": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
-      "excerpt": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 208,
-        "average": 4.5576925
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-pipelines-social.png",
-          "width": 1280,
-          "height": 641,
           "isCached": true
         }
       ],
@@ -779,6 +783,95 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics.md",
+      "title": "Query Azure Cosmos DB with Apache Spark for Azure Synapse Analytics",
+      "excerpt": "Query Azure Cosmos DB with Apache Spark for Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 58,
+        "average": 4.706897
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics.md",
+      "title": "Query Azure Cosmos DB with SQL Serverless for Azure Synapse Analytics",
+      "excerpt": "Query Azure Cosmos DB with SQL Serverless for Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 77,
+        "average": 4.7012987
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-recognize-entities-text-analytics-api.md",
       "title": "Recognize entities in text with the text analytics API",
       "excerpt": "Identify and categorize entities in your text as people, places, organizations, date/time, quantities, percentages, currencies, and more.",
@@ -823,15 +916,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-use-data-loading-best-practices-azure-synapse-analytics.md",
-      "title": "Use data loading best practices in Azure Synapse Analytics",
-      "excerpt": "Use data loading best practices in Azure Synapse Analytics",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-data-loading-best-practices-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-data-loading-best-practices-azure-synapse-analytics/",
-      "length": "PT36M",
+      "path": "_learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics.md",
+      "title": "Secure a data warehouse in Azure Synapse Analytics",
+      "excerpt": "Secure a data warehouse in Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-warehouse-azure-synapse-analytics/",
+      "length": "PT30M",
       "ratings": {
-        "count": 112,
-        "average": 4.535714
+        "count": 117,
+        "average": 4.6239314
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -851,9 +944,9 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/use-data-loading-best-practices-in-azure-synapse-analytics-social.png",
-          "width": 641,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/secure-a-data-warehouse-in-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -1537,94 +1630,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
-      "title": "Threat detection with Azure Sentinel analytics",
-      "excerpt": "Threat detection with Azure Sentinel analytics",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 154,
-        "average": 4.766234
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-optimize-data-warehouse-storage-azure-synapse-analytics.md",
-      "title": "Analyze and optimize data warehouse storage in Azure Synapse Analytics",
-      "excerpt": "Analyze and optimize data warehouse storage in Azure Synapse Analytics",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-optimize-data-warehouse-storage-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-optimize-data-warehouse-storage-azure-synapse-analytics/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 67,
-        "average": 4.5820894
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-synaps-analytics-optimize-data-warehouse-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Storage"
       ]
     }
   ],

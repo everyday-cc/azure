@@ -92,50 +92,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-get-started.md",
-      "title": "Get started with Django",
-      "excerpt": "Django is one of the most popular Python web frameworks. Explore its benefits, learn how to install it, and create your first project.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-get-started/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django-get-started/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 71,
-        "average": 4.830986
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
       "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
       "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
@@ -396,6 +352,51 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-microservices-architecture.md",
+      "title": "Decompose a monolithic application into a microservices architecture",
+      "excerpt": "Improve development agility, deployment, fault tolerance, and scalability by modernizing your application with a microservices architecture.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-microservices-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-architecture/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 339,
+        "average": 4.637168
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/microservices-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-migrate-app-service-migration-assistant.md",
       "title": "Migrate an on-premises web application to Azure App Service",
       "excerpt": "Use the Azure App Service Migration Assistant to assess the readiness of a web app to be deployed on App Service, and perform the migration.",
@@ -530,6 +531,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
+      "title": "Protect your APIs on Azure API Management",
+      "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 1145,
+        "average": 4.7432313
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps.md",
       "title": "Publish a web app to Azure by using the Maven Plugin for Azure App Service",
       "excerpt": "Use the Maven plugin for Azure App Service to develop a Java web app and deploy the app to Azure.",
@@ -608,51 +653,6 @@
         "Compute",
         "Web",
         "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet.md",
-      "title": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
-      "excerpt": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api-dotnet/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 188,
-        "average": 4.7978725
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-and-api-dotnet-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Web"
       ]
     },
     {

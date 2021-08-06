@@ -342,49 +342,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-understand-azure-defender-cloud-workload-protection.md",
-      "title": "Explain cloud workload protections in Azure Defender",
-      "excerpt": "Explain cloud workload protections in Azure Defender",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-understand-azure-defender-cloud-workload-protection/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-azure-defender-cloud-workload-protection/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 245,
-        "average": 4.8489795
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-understand-big-data-engineering-with-apache-spark-azure-synapse-analytics.md",
       "title": "Understand big data engineering with Apache Spark in Azure Synapse Analytics",
       "excerpt": "Understand big data engineering with Apache Spark in Azure Synapse Analytics",
@@ -556,6 +513,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-understand-regression-machine-learning.md",
+      "title": "Train and understand regression models in machine learning",
+      "excerpt": "Regression is arguably the most widely used machine learning technique, commonly underlying scientific discoveries, business planning, and stock market analytics. This learning material takes a dive into some common regression analyses, both simple and more complex, and provides some insight on how to assess model performance.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-understand-regression-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-regression-machine-learning/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 29,
+        "average": 4.8965516
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-understand-windows-server-iaas-vm-cost-management.md",
       "title": "Understand Windows Server IaaS Virtual Machine cost management",
       "excerpt": "You'll be able to use the Pricing calculator to assess likely costs, use Azure Advisor to monitor actual costs for Azure resources, implement Spot VMs and Azure Reservations, and describe benefits of Azure Hybrid licensing.",
@@ -652,8 +652,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 2057,
-        "average": 4.627613
+        "count": 2058,
+        "average": 4.627308
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -782,8 +782,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-azure-resource-manager/",
       "length": "PT30M",
       "ratings": {
-        "count": 11,
-        "average": 4.909091
+        "count": 14,
+        "average": 4.785714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -861,6 +861,92 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-use-built-functions-transact-sql.md",
+      "title": "Use built-in functions and GROUP BY in Transact-SQL",
+      "excerpt": "Use built-in functions and GROUP BY in Transact-SQL",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-built-functions-transact-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-built-functions-transact-sql/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 73,
+        "average": 4.8630137
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-data-loading-best-practices-azure-synapse-analytics.md",
+      "title": "Use data loading best practices in Azure Synapse Analytics",
+      "excerpt": "Use data loading best practices in Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-data-loading-best-practices-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-data-loading-best-practices-azure-synapse-analytics/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 112,
+        "average": 4.535714
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-data-loading-best-practices-in-azure-synapse-analytics-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel.md",
       "title": "Use entity behavior analytics in Azure Sentinel",
       "excerpt": "Use entity behavior analytics in Azure Sentinel",
@@ -902,49 +988,6 @@
         "Azure",
         "Security",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-use-language-understanding-speech.md",
-      "title": "Use Language Understanding with Speech",
-      "excerpt": "Use Language Understanding with Speech",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-language-understanding-speech/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-language-understanding-speech/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 15,
-        "average": 4.9333334
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     },
     {
@@ -1236,42 +1279,6 @@
         "Azure",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-void-detection-edge-devices-lva.md",
-      "title": "Void detection on Edge devices with Live Video Analytics using own images and video",
-      "excerpt": "This module helps learner to deploy void detection solution using Live Video Analytics and Custom Vision",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-void-detection-edge-devices-lva/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/void-detection-edge-devices-live-video-analytics/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Analytics"
       ]
     }
   ],

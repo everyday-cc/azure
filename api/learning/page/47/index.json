@@ -4,6 +4,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db.md",
+      "title": "Migrate Cassandra workloads to Cosmos DB",
+      "excerpt": "Migrate Cassandra workloads to Cosmos DB",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-cassandra-workloads-cosmos-db/",
+      "length": "PT14M",
+      "ratings": {
+        "count": 65,
+        "average": 4.769231
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-migrate-onpremises-workloads-azure.md",
       "title": "Migrate on-premises workloads to Azure",
       "excerpt": "Migrate on-premises workloads to Azure",
@@ -300,6 +343,43 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
+      "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+      "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
+      "length": "PT1H24M",
+      "ratings": {
+        "count": 1624,
+        "average": 4.4981527
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Migration",
+        "Management Tools"
       ]
     },
     {
@@ -1026,50 +1106,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms.md",
-      "title": "Monitor performance of virtual machines by using Azure Monitor for VMs",
-      "excerpt": "Learn how to use Azure Monitor for VMs to monitor your organization's Azure virtual machines.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 501,
-        "average": 4.764471
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-performance-using-azure-monitor-for-vms-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances.md",
       "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
       "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
@@ -1240,42 +1276,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-object-detection-lva-edge-device.md",
-      "title": "Object detection on Edge devices with Live Video Analytics using YOLO model",
-      "excerpt": "This module helps learner to deploy object detection solution using Live Video Analytics on IoT Edge.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-object-detection-lva-edge-device/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/object-detection-iot-edge-live-video-analytics/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Analytics"
       ]
     }
   ],

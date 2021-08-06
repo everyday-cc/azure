@@ -4,7 +4,7 @@ excerpt: "Build a QnA solution"
 type: collection
 price: Free
 length: PT36M
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn

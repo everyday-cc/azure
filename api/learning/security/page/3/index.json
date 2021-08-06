@@ -4,6 +4,546 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/microsoft-security-center-adaptive-application-controls.md",
+      "title": "Security Center Adaptive Application Controls",
+      "excerpt": "Learn how to enable Adaptive Application Controls or Application Whitelisting with Azure Security Center. For more information, visit: http://aka.ms/SecurityCommunity",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-security-center-adaptive-application-controls/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-security-center-adaptive-application-controls/",
+      "originalUrl": "https://youtube.com/watch?v=wWWekI1Y9ck",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wWWekI1Y9ck\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M43S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-12T13:18:43-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wWWekI1Y9ck/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio.md",
+      "title": "Migrate an ASP.NET web application to Azure with Visual Studio",
+      "excerpt": "Migrate an ASP.NET web application to Azure with Visual Studio",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/",
+      "length": "PT1H17M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
+          "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
+          "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 33,
+            "average": 4.5454545
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
+          "title": "Implement logging in a .NET Framework ASP.NET web application",
+          "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 40,
+            "average": 4.65
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile",
+            "Management Tools",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-aspnet-session.md",
+          "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
+          "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-session/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-session/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 40,
+            "average": 4.675
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Security",
+        "Databases",
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-protect-public-sector-data-in-azure.md",
+      "title": "Protect public sector data in Azure",
+      "excerpt": "Learn to design conceptual architecture for data classifications using data residency for Microsoft 365 and Dynamics 365 services while utilizing Azure regions and Customer lockbox. Manage breach notifications in Service Trust Portal and Azure Security Center. And encrypt data throughout its lifecycle.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-protect-public-sector-data-in-azure/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-protect-public-sector-data-in-azure/",
+      "length": "PT41M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-design-secure-environment-government.md",
+          "title": "Design cloud solutions for the public sector",
+          "excerpt": "Introduction to the stakes and options for implementing Azure to safeguard public sector data.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-secure-environment-government/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-secure-environment-government/",
+          "length": "PT15M",
+          "ratings": {
+            "count": 15,
+            "average": 4.733333
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-encrypt-sector-data.md",
+          "title": "Encrypt public sector data in Azure",
+          "excerpt": "Overview of the options available for managing encryption keys and encrypting data throughout its lifecycle, with special attention to public sector.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-encrypt-sector-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/encrypt-sector-data/",
+          "length": "PT26M",
+          "ratings": {
+            "count": 15,
+            "average": 4.866667
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security",
+            "Networking",
+            "Identity",
+            "Storage",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "IoT",
+        "Identity",
+        "Security",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aks-cluster-upgrades-patches.md",
+      "title": "Apply cluster upgrades and security patches with Azure Kubernetes Service",
+      "excerpt": "Apply the latest version upgrades and patches to your Azure Kubernetes Service clusters.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-cluster-upgrades-patches/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-cluster-upgrades-patches/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
+      "title": "Threat detection with Azure Sentinel analytics",
+      "excerpt": "Threat detection with Azure Sentinel analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
+      "length": "PT1H10M",
+      "ratings": {
+        "count": 154,
+        "average": 4.766234
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-results-kql.md",
+      "title": "Analyze query results using KQL",
+      "excerpt": "Analyze query results using KQL",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-results-kql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-results-kusto-query-language/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 232,
+        "average": 4.793103
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
+      "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
+      "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 33,
+        "average": 4.5454545
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms.md",
       "title": "Audit the security of Windows Server IaaS Virtual Machines",
       "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
@@ -308,49 +848,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
-      "title": "Configure security policies to manage data",
-      "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 2451,
-        "average": 4.619339
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-configure-storage-security.md",
       "title": "Configure storage security",
       "excerpt": "You will learn how to configure common storage security features like storage access signatures.",
@@ -402,8 +899,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-azure-assets-to-azure-defender/",
       "length": "PT35M",
       "ratings": {
-        "count": 215,
-        "average": 4.827907
+        "count": 216,
+        "average": 4.828704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -662,49 +1159,6 @@
       "ratings": {
         "count": 47,
         "average": 4.638298
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-connect-threat-indicators-to-azure-sentinel.md",
-      "title": "Connect threat indicators to Azure Sentinel",
-      "excerpt": "Connect threat indicators to Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-threat-indicators-to-azure-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-threat-indicators-to-azure-sentinel/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 61,
-        "average": 4.852459
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1085,226 +1539,6 @@
         "Azure",
         "Security",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-reporting-microsoft-365-security-services.md",
-      "title": "Explore reporting in the Microsoft 365 security services",
-      "excerpt": "Explore reporting in the Microsoft 365 security services",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-reporting-microsoft-365-security-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-reporting-microsoft-365-security-services/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 12,
-        "average": 4.8333335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-security-dashboard.md",
-      "title": "Explore the Security Dashboard",
-      "excerpt": "Explore the Security Dashboard",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-security-dashboard/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-security-dashboard/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 10,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-hunt-threats-sentinel.md",
-      "title": "Threat hunting with Azure Sentinel",
-      "excerpt": "Threat hunting with Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-hunt-threats-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hunt-threats-sentinel/",
-      "length": "PT1H5M",
-      "ratings": {
-        "count": 125,
-        "average": 4.76
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/hunt-threats-sentinel-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-microsoft-cloud-application-security.md",
-      "title": "Implement Microsoft Cloud Application Security",
-      "excerpt": "Implement Microsoft Cloud Application Security",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-microsoft-cloud-application-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-microsoft-cloud-application-security/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 17,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-windows-server-iaas-vm-network-security.md",
-      "title": "Implement Windows Server IaaS VM network security",
-      "excerpt": "Implement Windows Server IaaS VM network security",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-windows-server-iaas-vm-network-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-network-security/",
-      "length": "PT1H9M",
-      "ratings": {
-        "count": 46,
-        "average": 4.7391305
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-windows-server-iaas-vm-network-security-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute",
-        "Security"
       ]
     }
   ],

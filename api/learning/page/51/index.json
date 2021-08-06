@@ -4,6 +4,174 @@
   "page": 51,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-rust-automated-tests.md",
+      "title": "Write automated tests",
+      "excerpt": "Learn about the types of testing you can do with Rust.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-rust-automated-tests/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-automated-tests/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 80,
+        "average": 4.5125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-automated-tests-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-rust-create-command-line-program.md",
+      "title": "Build a command-line to-do list program",
+      "excerpt": "Create a Rust command-line program to manage to-do list items.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-rust-create-command-line-program/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-create-command-line-program/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 130,
+        "average": 4.853846
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-create-command-line-program-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-rust-generic-types-traits.md",
+      "title": "Implement generic types and traits",
+      "excerpt": "Understand what generic types and traits are and how to use them in Rust.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-rust-generic-types-traits/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-generic-types-traits/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 117,
+        "average": 4.5726495
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-generic-types-traits-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-rust-modules-packages-crates.md",
+      "title": "Explore modules, packages, and third-party crates",
+      "excerpt": "Learn about how to effectively use modules and how to integrate with packages and third-party crates.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-rust-modules-packages-crates/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-modules-packages-crates/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 89,
+        "average": 4.5842695
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-modules-packages-crates-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-safeguard-data-sector.md",
       "title": "Safeguard public sector data with Azure",
       "excerpt": "Conceptual introduction to data residency and sovereignty and overview of the options provided by Azure for public agencies to protect their data in the cloud.",
@@ -47,49 +215,6 @@
         "Security",
         "DevOps",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-sap-hana-azure-compute-network-storage.md",
-      "title": "SAP HANA on Azure Compute, Network, and Storage",
-      "excerpt": "AP HANA on Azure (Large Instances) provides virtual machines for deploying and running SAP HANA. This module explores the SAP HANA on Azure (Large Instances) solution that builds on assigned, non -shared host/server bare -metal hardware.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-sap-hana-azure-compute-network-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/sap-hana-azure-compute-network-storage/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 616,
-        "average": 4.766234
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/sap-hana-azure-compute-network-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     },
     {
@@ -186,8 +311,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/schedule-tasks-using-sql-server-agent/",
       "length": "PT46M",
       "ratings": {
-        "count": 141,
-        "average": 4.64539
+        "count": 142,
+        "average": 4.6267605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,6 +344,49 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-sci-asc.md",
+      "title": "Improve your cloud security posture with Azure Security Center",
+      "excerpt": "Learn how you can strengthen your security posture through Azure Security Center.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-sci-asc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-security-azure-security-center/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 436,
+        "average": 4.8325686
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
       ]
     },
     {
@@ -307,15 +475,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
-      "title": "Secure your application by using OpenID Connect and Azure AD",
-      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
-      "length": "PT50M",
+      "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
+      "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
+      "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-aad-users-with-mfa/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
+      "length": "PT38M",
       "ratings": {
-        "count": 2729,
-        "average": 4.6768045
+        "count": 2880,
+        "average": 4.740278
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -330,12 +498,12 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -346,6 +514,7 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Management Tools",
         "Identity"
       ]
     },
@@ -442,8 +611,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-cognitive-services/",
       "length": "PT37M",
       "ratings": {
-        "count": 71,
-        "average": 4.746479
+        "count": 72,
+        "average": 4.736111
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -568,49 +737,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics.md",
-      "title": "Secure a data warehouse in Azure Synapse Analytics",
-      "excerpt": "Secure a data warehouse in Azure Synapse Analytics",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-warehouse-azure-synapse-analytics/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 117,
-        "average": 4.6239314
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-a-data-warehouse-in-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-secure-responsible-conversational-ai.md",
       "title": "Discover Microsoft safety guidelines for responsible conversational AI development",
       "excerpt": "Learn Microsoft development guidelines for fair and secure responsible conversational AI.",
@@ -694,6 +820,42 @@
       "topics": [
         "Azure",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
+      "title": "Secure your Azure SQL Database",
+      "excerpt": "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-your-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 4916,
+        "average": 4.543938
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases"
       ]
     },
     {
@@ -1107,158 +1269,6 @@
       },
       "levels": [
         "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-simulate-distribution-regression-coefficients.md",
-      "title": "Simulate the distribution of regression coefficients",
-      "excerpt": "Learn",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-simulate-distribution-regression-coefficients/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simulate-distribution-regression-coefficients/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 76,
-        "average": 4.736842
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-simulate-generate-empirical-distributions-python.md",
-      "title": "Simulate and generate empirical distributions in Python",
-      "excerpt": "Learn how to simulate and generate empirical distributions in Python",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-simulate-generate-empirical-distributions-python/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simulate-generate-empirical-distributions-python/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 100,
-        "average": 4.74
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-solve-graph-coloring-problems-grovers-search.md",
-      "title": "Solve graph coloring problems by using Grover's search",
-      "excerpt": "Learn how Grover's algorithm can help you solve search problems such as graph coloring problems.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-solve-graph-coloring-problems-grovers-search/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/solve-graph-coloring-problems-grovers-search/",
-      "length": "PT2H34M",
-      "ratings": {
-        "count": 55,
-        "average": 4.7454543
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/quantum/solve-graph-coloring-problems-grovers-search-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-solve-job-shop-optimization-azure-quantum.md",
-      "title": "Solve a job shop scheduling optimization problem by using Azure Quantum",
-      "excerpt": "Learn how to use Azure Quantum's optimization service to solve a job shop scheduling problem.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-solve-job-shop-optimization-azure-quantum/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/solve-job-shop-optimization-azure-quantum/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 22,
-        "average": 4.818182
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
       ],
       "heat": 50,
       "images": [

@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad.md",
+      "title": "Explore the authentication capabilities of Azure AD",
+      "excerpt": "Explore the authentication capabilities of Azure AD",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 402,
+        "average": 4.830846
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-the-authentication-capabilities-of-azure-ad-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-m365-identity-cultural-shift.md",
       "title": "Enable identity protection in Azure Active Directory",
       "excerpt": "Learn about Azure Active Directory (AD) Identity Protection and ways to optimize the end-user experience while benefiting security.",
@@ -47,15 +90,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
-      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
-      "excerpt": "Learn how to manage device identity by using Azure AD join and Enterprise State Roaming.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
-      "length": "PT25M",
+      "path": "_learning/courses/microsoft-learn-m365-threat-safeguard.md",
+      "title": "Safeguard your environment with Azure Advanced Threat Protection",
+      "excerpt": "Learn about the Azure Advanced Threat Protection component of Microsoft Threat Protection.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-threat-safeguard/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
+      "length": "PT1H2M",
       "ratings": {
-        "count": 2941,
-        "average": 4.699762
+        "count": 2370,
+        "average": 4.8312235
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -75,9 +118,9 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/safeguard-your-environment-with-microsoft-azure-advanced-threat-protection-social.png",
+          "width": 642,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -97,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 13061,
-        "average": 4.767246
+        "count": 13062,
+        "average": 4.767264
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -125,15 +168,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
-      "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
-      "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-aad-users-with-mfa/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
+      "title": "Secure your Azure resources with role-based access control (RBAC)",
+      "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
+      "length": "PT37M",
       "ratings": {
-        "count": 2880,
-        "average": 4.740278
+        "count": 7534,
+        "average": 4.6915317
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -151,14 +194,6 @@
         "Beginner"
       ],
       "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -251,58 +286,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad.md",
-      "title": "Explore the access management capabilities of Azure AD",
-      "excerpt": "Explore the access management capabilities of Azure AD",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
-      "length": "PT15M",
+      "path": "_learning/courses/microsoft-learn-explore-sharepoint-online.md",
+      "title": "Explore SharePoint Online",
+      "excerpt": "Explore SharePoint Online",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-sharepoint-online/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-sharepoint-online/",
+      "length": "PT36M",
       "ratings": {
-        "count": 350,
-        "average": 4.8228574
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-the-access-management-capabilities-of-azure-ad-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-microsoft-teams.md",
-      "title": "Explore Microsoft Teams",
-      "excerpt": "Explore Microsoft Teams",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-microsoft-teams/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-microsoft-teams/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 159,
-        "average": 4.8364778
+        "count": 98,
+        "average": 4.877551
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -322,7 +314,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/teams-explore-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/sharepoint-explore-social.png",
           "width": 1280,
           "height": 641,
           "isCached": true
@@ -337,15 +329,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-implement-initial-configuration-of-azure-active-directory.md",
-      "title": "Implement initial configuration of Azure Active Directory",
-      "excerpt": "Implement initial configuration of Azure Active Directory",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-initial-configuration-of-azure-active-directory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-initial-configuration-of-azure-active-directory/",
-      "length": "PT53M",
+      "path": "_learning/courses/microsoft-learn-implement-manage-external-identities.md",
+      "title": "Implement and manage external identities",
+      "excerpt": "Implement and manage external identities",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-manage-external-identities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
+      "length": "PT60M",
       "ratings": {
-        "count": 728,
-        "average": 4.7788463
+        "count": 394,
+        "average": 4.746193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -380,15 +372,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-m365-identity-secure-administrators.md",
-      "title": "Secure administrator accounts in Azure Active Directory",
-      "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-secure-administrators/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
-      "length": "PT21M",
+      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
+      "title": "Secure your application by using OpenID Connect and Azure AD",
+      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
+      "length": "PT50M",
       "ratings": {
-        "count": 3437,
-        "average": 4.782368
+        "count": 2730,
+        "average": 4.6765566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -408,52 +400,9 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-azure-ad-identity-protection.md",
-      "title": "Manage Azure AD Identity Protection",
-      "excerpt": "Manage Azure AD Identity Protection",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-azure-ad-identity-protection/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 468,
-        "average": 4.811966
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
@@ -1940,6 +1889,49 @@
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-azure-ad-application-proxy.md",
+      "title": "Configure Azure AD Application Proxy",
+      "excerpt": "Configure Azure AD Application Proxy",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-ad-application-proxy/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-ad-application-proxy/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 7,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-ad-application-proxy-social.png",
+          "width": 1280,
+          "height": 641,
           "isCached": true
         }
       ],

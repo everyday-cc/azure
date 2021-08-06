@@ -4,181 +4,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-customize-suse-linux-enterprise-server-azure.md",
-      "title": "Customize a SUSE Linux Enterprise Server virtual machine on Azure",
-      "excerpt": "Deploy and customize a SUSE Linux Enterprise Server (SLES) on Azure virtual machine (VM) using YaST admin and zypper package management tools to add RPM packages. Learn how SUSE groups packages and reconciles package dependencies to help ensure you run the latest updates and versions. Practice using YaST and zypper to install a LAMP stack on a SLES Azure VM.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-customize-suse-linux-enterprise-server-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-suse-linux-enterprise-server-azure/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images.md",
-      "title": "Customize Windows Server IaaS Virtual Machine images",
-      "excerpt": "You'll be able to create new VMs from generalized images and use Azure Image Builder templates to create and manage images in Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-windows-server-iaas-virtual-machine-images/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 30,
-        "average": 4.766667
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/customize-windows-server-iaas-vm-images-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cv-classify-bird-species.md",
-      "title": "Classify endangered bird species with Custom Vision",
-      "excerpt": "Learn how to use Azure Cognitive Services Custom Vision to build a machine learning model that identifies the species of a bird in an image, to help with gathering data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cv-classify-bird-species/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cv-classify-bird-species/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 188,
-        "average": 4.5797873
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/advocates/cv-classify-bird-species-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
-      "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
-      "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 319,
-        "average": 4.6081505
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Analytics",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-data-classification-and-data-protection.md",
       "title": "Intro to Microsoft data classification and data protection",
       "excerpt": "Learners will be able to describe Microsoft Information Protection and Azure Information Protection as well as how to use sensitivity labels to classify and protect data. Learners should also be able to describe technologies such as unified labeling scanners, Cloud App Security, service encryption and Office 365 Message Encryption.",
@@ -219,49 +44,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-data-estate-migration-and-modernization.md",
-      "title": "Microsoft data estate migration and modernization",
-      "excerpt": "Establishing a modern data estate is a foundational step toward digital transformation. A modern data estate enables timely insights and decision making across all your data, and sets the foundation for AI. A data estate is all of the data an organization owns. When you migrate this data to the cloud or modernize your environment on-premises you can gain important insights to fuel innovation.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-data-estate-migration-and-modernization/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-estate-migration-and-modernization/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 4504,
-        "average": 4.7184725
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-estate-migration-and-modernization-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Migration"
       ]
     },
     {
@@ -431,6 +213,93 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-deploy-azure-functions.md",
+      "title": "Automate Azure Functions deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for Azure Functions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-azure-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 432,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-azure-functions-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
+      "title": "Deploy Azure SQL Database",
+      "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 2267,
+        "average": 4.7882667
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-azure-sql-database-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-backend-apis.md",
       "title": "Deploy serverless APIs with Azure Functions, Logic Apps, and Azure SQL Database",
       "excerpt": "In the language of your choice (Node.js, Python, or .NET), learn how to deploy an Azure Function that adds real-time data to an Azure SQL Database and triggers an Azure Logic App for notifications, all with GitHub Actions for CI/CD.",
@@ -476,6 +345,50 @@
         "IoT",
         "Blockchain",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning.md",
+      "title": "Deploy batch inference pipelines with Azure Machine Learning",
+      "excerpt": "Machine learning models are often used to generate predictions from large numbers of observations in a batch process. To accomplish this, you can use Azure Machine Learning to publish a batch inference pipeline.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 685,
+        "average": 4.70219
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-batch-inference-pipelines-with-azure-machine-learning-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "AI"
       ]
     },
     {
@@ -1292,6 +1205,90 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/deploy-sap-certified-offerings-for-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-templates-command-line-github-actions.md",
+      "title": "Deploy modular and reusable ARM templates from the command line and by using GitHub Actions",
+      "excerpt": "Learn how to deploy Azure Resource Manager (ARM) templates by using Azure PowerShell, the Azure CLI, and from GitHub Actions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-templates-command-line-github-actions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 46,
+        "average": 4.7391305
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-templates-command-line-github-actions-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-wvd.md",
+      "title": "Deploy Windows Virtual Desktop in Microsoft Azure",
+      "excerpt": "Learn how to deploy Windows Virtual Desktop and customize the workspace for your users.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-wvd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 885,
+        "average": 4.741243
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-windows-virtual-desktop-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
