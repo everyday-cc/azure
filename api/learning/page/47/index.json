@@ -139,8 +139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mysql-databases/",
       "length": "PT42M",
       "ratings": {
-        "count": 132,
-        "average": 4.787879
+        "count": 133,
+        "average": 4.7894735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -182,8 +182,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/",
       "length": "PT50M",
       "ratings": {
-        "count": 109,
-        "average": 4.880734
+        "count": 110,
+        "average": 4.8818183
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1195,48 +1195,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-n-tier-architecture.md",
-      "title": "Tour the N-tier architecture style for your application",
-      "excerpt": "Discover the benefits of a Resource Manager template to deploy an application in an N-tier architecture and review best practices for deployments of this style.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-n-tier-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/n-tier-architecture/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 688,
-        "average": 4.8125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/n-tier-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-nodejs-files.md",
       "title": "Work with files and directories in a Node.js app",
       "excerpt": "Build an app that manipulates files and directories with Node.js and JavaScript.",
@@ -1276,6 +1234,42 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-object-detection-lva-edge-device.md",
+      "title": "Object detection on Edge devices with Live Video Analytics using YOLO model",
+      "excerpt": "This module helps learner to deploy object detection solution using Live Video Analytics on IoT Edge.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-object-detection-lva-edge-device/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/object-detection-iot-edge-live-video-analytics/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 3,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Analytics"
       ]
     }
   ],

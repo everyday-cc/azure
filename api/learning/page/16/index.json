@@ -131,8 +131,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
       "length": "PT28M",
       "ratings": {
-        "count": 2122,
-        "average": 4.687559
+        "count": 2123,
+        "average": 4.687706
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -259,8 +259,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 6881,
-        "average": 4.7196627
+        "count": 6882,
+        "average": 4.7195582
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -301,8 +301,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
       "length": "PT55M",
       "ratings": {
-        "count": 1549,
-        "average": 4.7669463
+        "count": 1550,
+        "average": 4.766452
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -654,6 +654,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-m365-identity-secure-administrators.md",
+      "title": "Secure administrator accounts in Azure Active Directory",
+      "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-secure-administrators/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 3437,
+        "average": 4.782368
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-m365-threat-safeguard.md",
       "title": "Safeguard your environment with Azure Advanced Threat Protection",
       "excerpt": "Learn about the Azure Advanced Threat Protection component of Microsoft Threat Protection.",
@@ -661,8 +704,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2370,
-        "average": 4.8312235
+        "count": 2371,
+        "average": 4.830873
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -704,8 +747,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 13062,
-        "average": 4.767264
+        "count": 13063,
+        "average": 4.7672815
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1190,50 +1233,6 @@
         "Integration",
         "IoT",
         "Blockchain"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-read-write-data-azure-databricks.md",
-      "title": "Read and write data in Azure Databricks",
-      "excerpt": "Read and write data in Azure Databricks",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-read-write-data-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 601,
-        "average": 4.5723796
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/read-write-data-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     }
   ],

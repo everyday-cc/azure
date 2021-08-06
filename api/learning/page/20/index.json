@@ -4,6 +4,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-configure-azure-active-directory.md",
+      "title": "Configure Azure Active Directory",
+      "excerpt": "You will learn how to configure Azure Active Directory including features like AD Join and Self-Service Password Reset.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-active-directory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-active-directory/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 8,
+        "average": 4.625
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
       "title": "Configure security policies to manage data",
       "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
@@ -742,50 +785,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
-      "title": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "excerpt": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 307,
-        "average": 4.6188927
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-lazy-evaluation-other-performance-features-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-describe-resource-governance-capabilities-azure.md",
       "title": "Describe resource governance capabilities in Azure",
       "excerpt": "Describe resource governance capabilities in Azure",
@@ -1088,8 +1087,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-monitoring/",
       "length": "PT44M",
       "ratings": {
-        "count": 14,
-        "average": 4.785714
+        "count": 15,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
