@@ -52,6 +52,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Powershell 7 support in Azure Automation is coming soon "
+    excerpt: "Execute Automation runbooks for production scenarios using PowerShell 7.1"
+    publishedDateTime: 2021-08-06T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/powershell-7-azure-automation-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "vLK4Uaj40uLmahu4w5QnIAjz8ftUo5X+kgL7lujWyP1EDgk0/SxOVFqxVk8MeJcpeRRIl+mRvNe/ejQsCEFMKhck0YE6zHBx+9hoi1FgOCNCxc9L93GhTLBOaDW0zuHNLCwMs7ktaCwXOa1S/yWvJ04BZtZlgLBT22f7u3qjDOk4UGehSbjEh2KWjCAgueFMZ+UQsl5d/cbj0H/Zpt/6/KdEBZODgLmfw6UVrI829hPLGQMTemkEDFUgKjomzIe/aq/QL3CpxcDIvHzLrhIwdx6+huReGeKvEpCoQ43aRLHyswJ0w3prBH+m7M5jaVwz0FnVjUZmME80nRUDd4eIcVV5yo1x7+iQq2BLWVxbxgo=;7SOlZRgOajOSw3xZYhUAvQ=="
 ---

@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Powershell 7 support in Azure Automation is coming soon "
+    excerpt: "Execute Automation runbooks for production scenarios using PowerShell 7.1"
+    publishedDateTime: 2021-08-06T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/powershell-7-azure-automation-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
     excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-27T12:00:00Z

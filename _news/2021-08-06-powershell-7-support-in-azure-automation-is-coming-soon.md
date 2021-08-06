@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Automation is now available in Switzerland North region"
-excerpt: "Create, monitor, deploy, and maintain resources in your Azure, on-premises, and third-party hybrid cloud environments using highly scalable and reliable process automation and state configuration engines.\n"
-publishedDateTime: 2020-10-29T16:00:09Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-switzerland-north-region/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-switzerland-north-region/"
+title: "Powershell 7 support in Azure Automation is coming soon "
+excerpt: "Execute Automation runbooks for production scenarios using PowerShell 7.1"
+publishedDateTime: 2021-08-06T16:00:06Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/powershell-7-azure-automation-coming-soon/"
+webUrl: "https://azure.microsoft.com/en-us/updates/powershell-7-azure-automation-coming-soon/"
 type: article
 quality: 67
 heat: -1
@@ -40,10 +40,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 92
-  - title: "Powershell 7 support in Azure Automation is coming soon "
-    excerpt: "Execute Automation runbooks for production scenarios using PowerShell 7.1"
-    publishedDateTime: 2021-08-06T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/powershell-7-azure-automation-coming-soon/"
+  - title: "Azure Automation is now available in Switzerland North region"
+    excerpt: "Create, monitor, deploy, and maintain resources in your Azure, on-premises, and third-party hybrid cloud environments using highly scalable and reliable process automation and state configuration engines.\n"
+    publishedDateTime: 2020-10-29T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-switzerland-north-region/"
     type: article
     provider:
       name: Microsoft
@@ -64,6 +64,6 @@ related:
         height: 450
         isCached: true
 
-secured: "X/8112P2WTTlPgqXHNU3mqhBLt7n2T98mFKUaIZFu32iifsZhClq6ozlSg9W7/902H7Xdrfhhfk2kv4qiSHUvPrBsTFBz4A66sgdXx0spFEJ9KrssHrX0nLTlM0A1NBLP+JKTyQoaaasLEgJB1d0XN1MNwDjj4b8IxawS3oxcwbcWbF9w7szJAuDTe8mDU0RW1D02eJt0t7T3Zrjg2RxMJTxEXWmhrSrSTCxPCnEqx+2HFb5tZOAJN0Bu66e5gufTkbLaIE7lyjteBYIB9553WhVI8IEtOSbggaHcCuACAkUGpO6fcaj8MJ4dO7jkEIbnbMDAabBKnw8q8ixs7pMoaQjQestJXgG2j90hNoOvn0=;8td/GU3zebz1a76jDDEVag=="
+secured: "KtTazON1vcqIYheiG7AB8eSOQgChcoBr7xY7LOxJhUlrIVohHyZ/FDR7D+/tz8X1Uv/dAfBx3WPvlZ5R4T2sAPaiwnIHDvKRg0qL9jZOXChK7SQV0EBznWqYOLstLijZhmf/DnnI8ViTUCMpIqxzb6N9XzWpieOPqnOj1OZWR1nWGNG2h/LyfkphK46K5aEyaurCLkaM5H58Heh3cMdphc0PsTozPfUzOt1PchIZtwCEb4xgxPXMaWrMxqRwxhOzNC0fIN3DIcYIQ7/JTxZS93d9ncwdBe5HcMY7OKQgYbEuL5+B4TM9TVK+3s5z+o7k7p5r0VBMTBOnAREjErt4tiYoqaU2PKUIVcXkAvJi9V0=;Rn+gDCuU7TapbR7yXtxK+w=="
 ---
 

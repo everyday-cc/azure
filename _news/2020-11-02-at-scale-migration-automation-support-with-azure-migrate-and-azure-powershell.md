@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/atscale-migration-automation-supp
 webUrl: "https://azure.microsoft.com/blog/atscale-migration-automation-support-with-azure-migrate-and-azure-powershell/"
 type: article
 quality: 96
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     excerpt: "Create, monitor, deploy, and maintain resources in your Azure, on-premises, and third-party hybrid cloud environments using highly scalable and reliable process automation and state configuration engines.\n"
     publishedDateTime: 2020-10-29T16:00:09Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-switzerland-north-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Powershell 7 support in Azure Automation is coming soon "
+    excerpt: "Execute Automation runbooks for production scenarios using PowerShell 7.1"
+    publishedDateTime: 2021-08-06T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/powershell-7-azure-automation-coming-soon/"
     type: article
     provider:
       name: Microsoft
