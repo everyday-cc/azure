@@ -77,15 +77,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
-  - title: "Collibra Data Intelligence Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-    publishedDateTime: 2021-08-04T13:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/collibra-data-intelligence-cloud-now-available-in-the-microsoft-azure-marketplace-1030689649"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
   - title: "A Microsoft Azure Space director becomes executive secretary of the National Space Council"
     excerpt: "Chirag Parikh is set to lead the U.S. National Space Council. He previously served as senior director for Azure Space."
     publishedDateTime: 2021-08-02T17:26:00Z
@@ -199,6 +190,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Collibra Data Intelligence Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "NEW YORK and BRUSSELS, Aug. 4, 2021 /PRNewswire/ -- Collibra, the Data Intelligence company, announced the availability of the Collibra Data Intelligence Cloud in the Microsoft Azure Marketplace ..."
+    publishedDateTime: 2021-08-04T13:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/collibra-data-intelligence-cloud-now-available-in-the-microsoft-azure-marketplace-301348087.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/238849/collibra_logo.jpg?p=facebook"
+        width: 2159
+        height: 1132
         isCached: true
   - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
     excerpt: "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure."
