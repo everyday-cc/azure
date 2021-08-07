@@ -4,7 +4,7 @@ excerpt: "This learning path aims to explain learners how to use Azure to deploy
 type: collection
 price: Free
 length: PT1H7M
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
