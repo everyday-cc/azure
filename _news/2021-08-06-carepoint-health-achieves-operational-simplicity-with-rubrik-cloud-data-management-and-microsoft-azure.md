@@ -1,24 +1,28 @@
 ---
 category: news
 title: "CarePoint Health Achieves Operational Simplicity with Rubrik Cloud Data Management and Microsoft Azure"
-excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
-publishedDateTime: 2021-08-06T15:38:00Z
-originalUrl: "https://www.networkworld.com/resources/222727/carepoint-health-achieves-operational-simplicity-with-rubrik-cloud-data-management-and-microsoft-azu"
-webUrl: "https://www.networkworld.com/resources/222727/carepoint-health-achieves-operational-simplicity-with-rubrik-cloud-data-management-and-microsoft-azu"
+excerpt: "CarePoint Health combines the resources of three area hospitals, Bayonne Medical Center, Christ Hospital in Jersey City, and Hoboken University Medical Center, to provide 360 degree coordinated care delivered by the area’s most dedicated doctors, nurses ..."
+publishedDateTime: 2021-08-06T15:54:00Z
+originalUrl: "https://www.infoworld.com/resources/222727/carepoint-health-achieves-operational-simplicity-with-rubrik-cloud-data-management-and-microsoft-azu"
+webUrl: "https://www.infoworld.com/resources/222727/carepoint-health-achieves-operational-simplicity-with-rubrik-cloud-data-management-and-microsoft-azu"
 type: article
-quality: 21
-heat: 21
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -34,6 +38,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "ablsVjZ0RuWHqc2CfgoKD155voYqJyZ4a0tA26gsSF7C2OvE7V3DKvBknl44iFPHdQsLJENu5cS4t3y7j5K/5bp/V51tiwxczsn+AZ8RwPSaYYp4sZmu6tzHqyIAHihqpT1NrWRdROrej60eJktHpDiHmxM4+UgmiUel+JdbxdEODSKIm0I07mV64EooAn8triHpryGCTuPw3nTBOFLxKzlyqD6u2poF8pnmgnIlUgk6eSdpEXGy195cNGcfM3RCBbD4D4iLaeJKnRZTGd1MPj5/2jKEUzmO+icWB3ThYw1lJ31dU837lEbLq/kuWu4pCgNXxBrIpLpIdm4Ow9rYMsrqNKI20/MtXk355m/EoT4=;5C+TUohV3zJUTgeVZRriwg=="
+secured: "r3CpR14ewRhLIJIWiQhw1dp8Nuq9ms1MifCDr50nHPGfo8tWjsNh39ddDMcXr5OwDcDbT/KYcZSlzrQ+2VSkvHfbBNWUJGUTl343mwzQUs6ZRPNHjID3uwEK/mqslNp+MC9wtU7vPAFfU3TtT5CL0kytQEgqBipAQ+p6dkXOrgPpn9Ythpc6nfEIPH4vM/9DhJeFK8MHoOQEFPLjhmZLBwSa8kHW4B3fOHASKDNQk0EcsXRRU93sBwmbHs22Q9jz2ESV/Je/h8zIEzLWvWqPZaE+P8gWy0txkXEffYq927L6snYjcsEVa7URnDZocXcpdMVSMz4+82u+BsQT8lh7A6RyKtFnWKASd9M4j0usfqc=;/3aiVO1IXmiTozXY3J42lg=="
 ---
 
