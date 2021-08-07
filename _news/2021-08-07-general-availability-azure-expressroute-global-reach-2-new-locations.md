@@ -1,14 +1,14 @@
 ---
 category: news
-title: "General availability: VPN over ExpressRoute private peering"
-excerpt: "VPN over ExpressRoute allows customers to encrypt all traffic going over their ExpressRoute circuit. VPN over ExpressRoute, combined with site-to-site and point-to-site VPN provides end-to-end encryption between data centers, branch offices and remote users."
-publishedDateTime: 2020-11-16T22:52:13Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
+title: "General availability: Azure ExpressRoute Global Reach: 2 new locations"
+excerpt: "ExpressRoute Global Reach allows you to link ExpressRoute circuits in different locations together to make a private network between your on-premises networks."
+publishedDateTime: 2021-08-07T00:21:05Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-expressroute-global-reach-2-new-locations/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-expressroute-global-reach-2-new-locations/"
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 67
+heat: 127
+published: true
 
 provider:
   name: Microsoft
@@ -22,15 +22,15 @@ topics:
   - Azure
 
 related:
-  - title: "General availability: Azure ExpressRoute Global Reach: 2 new locations"
-    excerpt: "ExpressRoute Global Reach allows you to link ExpressRoute circuits in different locations together to make a private network between your on-premises networks."
-    publishedDateTime: 2021-08-07T00:21:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-expressroute-global-reach-2-new-locations/"
+  - title: "General availability: VPN over ExpressRoute private peering"
+    excerpt: "VPN over ExpressRoute allows customers to encrypt all traffic going over their ExpressRoute circuit. VPN over ExpressRoute, combined with site-to-site and point-to-site VPN provides end-to-end encryption between data centers, branch offices and remote users."
+    publishedDateTime: 2020-11-16T22:52:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 52
   - title: "General availability: ExpressRoute Global Reach Pricing Reduction"
     excerpt: "ExpressRoute Global Reach allows you to link ExpressRoute circuits together to make a private network between your on-premises networks. The data transfer price for this offering is now 50% lower."
     publishedDateTime: 2021-06-05T04:00:40Z
@@ -55,6 +55,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Zmvur/JhENxRBApy33fkpM4MA2qIvrcCMy2TCpg40XJhYngZouo3s+aPaIrkkMo6pkG7/Dog6DP5dDZQZT1Mo3ot3U8B61h++K8TAf487WskPNT9+0/Lr40JW88LbGxsGywT0gW8twx5rxP4hgIzCFZeBh8nChU8yJh5sC+GOjmPC+QGpdgOELwfmQqQNTGxaj/KEgeP1NLy1QngrhB0OrKIcKhDfQVRmJVCbT9JnIzygr/fdEKVqtpcx9t7sdsny01WQm5gba6Mab3HqihGjGNHcRFIV9ztslNU9tfbBnxPGk9ljo/0lej7c0H40bQp825/81IVByx1ZnsU+FGJAyFrsLYChZMJweRWs71LWs4=;P2E2pVlvLzLNTYLCCk7r7g=="
+secured: "VPW1bKmY9G3Dq/4mohoDPEExa7e9mzs9d+D4LBXV/CG81ZAP+1zJhFkT+3yjahxxE1IUO1dx/jX5W6N2hi89UttHyGbE/03i/wRGN2HQXCSOOZF2WGilZGsEqgsXXZqJnWW4WyYfxX/wGaT1mrihOjESI3nzufMis55cy90qWYdk3mP8+uElzih/4dG8ZTEj0h8Uc6251bfAID1s0d2thbxWAJ7tG64gFHREywnxdPT1HjJs1XwMryXE5x8oxAaB1aWtGkIal6vmH32cRM08UPhVWq172T8jmQfMHjtmjzFbEZuFQxkp2HU4IiPQEq9zCvCLlOAQAGWJNPjIOxhigDnN0fyGVxbwGrLW5WFR0BQ=;vBfezCZZAYnCv4i8e8ZDTQ=="
 ---
 

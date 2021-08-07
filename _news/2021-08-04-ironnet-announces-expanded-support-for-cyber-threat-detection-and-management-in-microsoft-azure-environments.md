@@ -19,16 +19,16 @@ topics:
 
 related:
   - title: "CarePoint Health Achieves Operational Simplicity with Rubrik Cloud Data Management and Microsoft Azure"
-    excerpt: "A core component of CarePoint’s integration strategy is to shift to a hybrid cloud to reduce complexity and optimize IT performance. “In bringing the environments together, we had an opportunity to modernize our systems and take advantage of the cloud ..."
-    publishedDateTime: 2021-08-06T15:54:00Z
-    webUrl: "https://www.infoworld.com/resources/222727/carepoint-health-achieves-operational-simplicity-with-rubrik-cloud-data-management-and-microsoft-azu"
+    excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
+    publishedDateTime: 2021-08-06T15:38:00Z
+    webUrl: "https://www.networkworld.com/resources/222727/carepoint-health-achieves-operational-simplicity-with-rubrik-cloud-data-management-and-microsoft-azu"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 61
+      name: Network World
+      domain: networkworld.com
+    quality: 21
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
         width: 300
         height: 300
         isCached: true

@@ -22,19 +22,10 @@ topics:
   - Azure
 
 related:
-  - title: "General availability: VPN over ExpressRoute private peering"
-    excerpt: "VPN over ExpressRoute allows customers to encrypt all traffic going over their ExpressRoute circuit. VPN over ExpressRoute, combined with site-to-site and point-to-site VPN provides end-to-end encryption between data centers, branch offices and remote users."
-    publishedDateTime: 2020-11-16T22:52:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-  - title: "General availability: ExpressRoute Global Reach Pricing Reduction"
-    excerpt: "ExpressRoute Global Reach allows you to link ExpressRoute circuits together to make a private network between your on-premises networks. The data transfer price for this offering is now 50% lower."
-    publishedDateTime: 2021-06-05T04:00:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/grpricing/"
+  - title: "General availability: Application Insight in Australia Central 2"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central 2 region for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-03-12T16:45:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-2/"
     type: article
     provider:
       name: Microsoft

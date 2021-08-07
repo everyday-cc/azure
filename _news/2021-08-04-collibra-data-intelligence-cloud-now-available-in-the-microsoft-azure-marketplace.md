@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Collibra Data Intelligence Cloud Now Available in the Microsoft Azure Marketplace"
-excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-publishedDateTime: 2021-08-04T13:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/collibra-data-intelligence-cloud-now-available-in-the-microsoft-azure-marketplace-1030689649"
-webUrl: "https://markets.businessinsider.com/news/stocks/collibra-data-intelligence-cloud-now-available-in-the-microsoft-azure-marketplace-1030689649"
+excerpt: "NEW YORK and BRUSSELS, Aug. 4, 2021 /PRNewswire/ -- Collibra, the Data Intelligence company, announced the availability of the Collibra Data Intelligence Cloud in the Microsoft Azure Marketplace ..."
+publishedDateTime: 2021-08-04T13:04:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/collibra-data-intelligence-cloud-now-available-in-the-microsoft-azure-marketplace-301348087.html"
+webUrl: "https://www.prnewswire.com/news-releases/collibra-data-intelligence-cloud-now-available-in-the-microsoft-azure-marketplace-301348087.html"
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/238849/collibra_logo.jpg?p=facebook"
+    width: 2159
+    height: 1132
+    isCached: true
 
 related:
   - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
@@ -276,6 +278,6 @@ related:
       domain: publicnow.com
     quality: 3
 
-secured: "OJHK58pQ8PEkb2DgL8tiIW/NVeNpl0vOMdXqri78wHxHbdocGJjDZHGZE/ju1J6sP6H3vDL/dcIPn2yHdogoSyPl24B7llVx6LoIpdu99oq0p6yOE2RUdgVvs9KLBzB0bnN1YYqDh4/eKzlkKJnQ00X3v5gmvc1tNzYLN+uAbElWDoMrLELf+b1sQcZWDckrrxyG1U049ihM1yrqF+HNVJJ+B9EEes1q0Vl02RbKWJKTGldep4sNxWKsLfa9BMxFbk68n3jj0e0IT38IJCisDIQyGXA91JR4y7F1zufXEfYmGzdjcpVDSqfdwX0MdABjYwchwoJ9sTYTh/aIpu6MztHSxacYCTrRKapeJBMCL9M=;IrzJmkx5F4beSnXazHWaXQ=="
+secured: "jS9TXaCI0C/R1U7smN5WbeUZukSsP5+1jVKs9jYmfje1pj4gtqZ0uMBl9sMOjchQPpeV3lVbmnxbhDTXXPwbgxl4vVPOSfHw4Fbzf8yYEFLTzcckb8fBVryfS7eBZIefKGHtV0VZQ5Jlc01MF3JS8HORoYIoy3V9yET+P6dJ1oqXa2lb+j15aFPFcat7yWFerWOLteLombR0B/qZIBr6CFoCZuf8jjV0VvImAlfmFPkRZKTTQEUq+3I0cgnYcqylSr+ZbNmJob+FBOZtpkESAkqDpq2OZ4lFmNt1E97Ji39rkmI2zwo06DnLS8mXdBU7n5Z7tvSv25MK0kGchQvBpEgXsmROhqDxiVSvlGDKS64=;SybrjF8ozxqmztw7xcMOdQ=="
 ---
 
