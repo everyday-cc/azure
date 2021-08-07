@@ -4,12 +4,12 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-get-started-querying-with-transact-sql.md",
-      "title": "Get Started Querying with Transact-SQL",
-      "excerpt": "Get Started Querying with Transact-SQL",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-get-started-querying-with-transact-sql/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-get-started-querying-with-transact-sql/",
-      "length": "PT5H40M",
+      "path": "_learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity.md",
+      "title": "Describe the concepts of security, compliance, and identity",
+      "excerpt": "Describe the concepts of security, compliance, and identity",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity/",
+      "length": "PT42M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -27,15 +27,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-intro-to-transact-sql.md",
-          "title": "Introduction to Transact-SQL",
-          "excerpt": "Introduction to Transact-SQL",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-transact-sql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
-          "length": "PT56M",
+          "path": "_learning/courses/microsoft-learn-describe-security-concepts-methodologies.md",
+          "title": "Describe security concepts and methodologies",
+          "excerpt": "Describe security concepts and methodologies",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-security-concepts-methodologies/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
+          "length": "PT24M",
           "ratings": {
-            "count": 257,
-            "average": 4.77821
+            "count": 1504,
+            "average": 4.81117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,10 +52,10 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 61,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
               "width": 641,
               "height": 321,
               "isCached": true
@@ -66,19 +66,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases"
+            "Security"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-query-multiple-tables-with-joins.md",
-          "title": "Combine multiple tables with JOINs in T-SQL",
-          "excerpt": "Combine multiple tables with JOINs in T-SQL",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-multiple-tables-with-joins/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
-          "length": "PT1H2M",
+          "path": "_learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles.md",
+          "title": "Describe Microsoft security and compliance principles",
+          "excerpt": "Describe Microsoft security and compliance principles",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
+          "length": "PT18M",
           "ratings": {
-            "count": 127,
-            "average": 4.8188977
+            "count": 1310,
+            "average": 4.7923665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -95,12 +95,12 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 60,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/describe-microsoft-security-and-compliance-principles-social.png",
+              "width": 641,
+              "height": 321,
               "isCached": true
             }
           ],
@@ -109,101 +109,15 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-write-subqueries.md",
-          "title": "Write Subqueries in T-SQL",
-          "excerpt": "Write Subqueries in T-SQL",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-write-subqueries/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-subqueries/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 80,
-            "average": 4.8375
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-built-functions-transact-sql.md",
-          "title": "Use built-in functions and GROUP BY in Transact-SQL",
-          "excerpt": "Use built-in functions and GROUP BY in Transact-SQL",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-built-functions-transact-sql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-built-functions-transact-sql/",
-          "length": "PT59M",
-          "ratings": {
-            "count": 74,
-            "average": 4.8513513
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
+            "Security"
           ]
         }
       ],
-      "size": 5,
+      "size": 2,
       "heat": 61,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
@@ -214,7 +128,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "Security",
+        "Identity"
       ]
     },
     {
@@ -1528,8 +1443,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-sap-workloads/",
           "length": "PT50M",
           "ratings": {
-            "count": 772,
-            "average": 4.8095856
+            "count": 773,
+            "average": 4.8098316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2212,8 +2127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics/",
           "length": "PT21M",
           "ratings": {
-            "count": 77,
-            "average": 4.7012987
+            "count": 78,
+            "average": 4.705128
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2276,8 +2191,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 5056,
-        "average": 4.76246
+        "count": 5059,
+        "average": 4.7626014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2320,8 +2235,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 142707,
-        "average": 4.703077
+        "count": 142708,
+        "average": 4.703079
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2355,8 +2270,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 9539,
-        "average": 4.7816334
+        "count": 9540,
+        "average": 4.7816563
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2477,8 +2392,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 1863,
-        "average": 4.689211
+        "count": 1867,
+        "average": 4.6888056
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2520,8 +2435,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 11133,
-        "average": 4.6830144
+        "count": 11134,
+        "average": 4.682863
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2563,8 +2478,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-azure-resource-manager/",
       "length": "PT30M",
       "ratings": {
-        "count": 23,
-        "average": 4.869565
+        "count": 24,
+        "average": 4.875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2840,8 +2755,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3096,
-            "average": 4.7057495
+            "count": 3097,
+            "average": 4.7058444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2926,8 +2841,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1313,
-            "average": 4.7433357
+            "count": 1314,
+            "average": 4.743531
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3055,8 +2970,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3096,
-            "average": 4.7057495
+            "count": 3097,
+            "average": 4.7058444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3098,8 +3013,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 970,
-            "average": 4.746392
+            "count": 971,
+            "average": 4.746653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3141,8 +3056,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1313,
-            "average": 4.7433357
+            "count": 1314,
+            "average": 4.743531
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3270,8 +3185,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3096,
-            "average": 4.7057495
+            "count": 3097,
+            "average": 4.7058444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3356,8 +3271,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1313,
-            "average": 4.7433357
+            "count": 1314,
+            "average": 4.743531
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3485,8 +3400,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3096,
-            "average": 4.7057495
+            "count": 3097,
+            "average": 4.7058444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3571,8 +3486,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1313,
-            "average": 4.7433357
+            "count": 1314,
+            "average": 4.743531
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3700,8 +3615,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3096,
-            "average": 4.7057495
+            "count": 3097,
+            "average": 4.7058444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3786,8 +3701,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1313,
-            "average": 4.7433357
+            "count": 1314,
+            "average": 4.743531
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3915,8 +3830,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3096,
-            "average": 4.7057495
+            "count": 3097,
+            "average": 4.7058444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4001,8 +3916,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1313,
-            "average": 4.7433357
+            "count": 1314,
+            "average": 4.743531
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4129,7 +4044,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-networks/",
           "length": "PT30M",
           "ratings": {
-            "count": 4,
+            "count": 5,
             "average": 5.0
           },
           "provider": {
@@ -4172,7 +4087,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-security-groups/",
           "length": "PT21M",
           "ratings": {
-            "count": 3,
+            "count": 4,
             "average": 5.0
           },
           "provider": {
@@ -4344,7 +4259,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machines/",
           "length": "PT33M",
           "ratings": {
-            "count": 2,
+            "count": 3,
             "average": 5.0
           },
           "provider": {
@@ -4648,7 +4563,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-files-file-sync/",
           "length": "PT27M",
           "ratings": {
-            "count": 2,
+            "count": 3,
             "average": 5.0
           },
           "provider": {
@@ -4691,7 +4606,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-storage-tools/",
           "length": "PT18M",
           "ratings": {
-            "count": 1,
+            "count": 2,
             "average": 5.0
           },
           "provider": {
