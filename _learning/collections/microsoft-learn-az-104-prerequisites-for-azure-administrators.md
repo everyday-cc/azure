@@ -4,7 +4,7 @@ excerpt: "Learn the basic concepts you'll need to know as an Azure administrator
 type: collection
 price: Free
 length: PT6H30M
-heat: 66
+heat: 70
 
 provider:
   name: Microsoft Learn

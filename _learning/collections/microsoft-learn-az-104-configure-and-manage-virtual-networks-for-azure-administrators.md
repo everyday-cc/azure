@@ -4,7 +4,7 @@ excerpt: "Learn how to configure key Azure network capabilities and prepare for 
 type: collection
 price: Free
 length: PT11H2M
-heat: 64
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -18,20 +18,20 @@ levels:
   - Beginner
 
 items:
-  - courses/microsoft-learn-configure-the-network-for-your-virtual-machines
+  - courses/microsoft-learn-configure-virtual-networks
+  - courses/microsoft-learn-configure-network-security-groups
+  - courses/microsoft-learn-configure-azure-dns
+  - courses/microsoft-learn-configure-vnet-peering
+  - courses/microsoft-learn-configure-vpn-gateway
+  - courses/microsoft-learn-configure-expressroute-virtual-wan
+  - courses/microsoft-learn-configure-network-routing-endpoints
+  - courses/microsoft-learn-configure-azure-load-balancer
+  - courses/microsoft-learn-configure-azure-application-gateway
   - courses/microsoft-learn-design-ip-addressing-for-azure
   - courses/microsoft-learn-integrate-vnets-with-vnet-peering
-  - courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints
-  - courses/microsoft-learn-connect-vm-with-azure-bastion
   - courses/microsoft-learn-host-domain-azure-dns
   - courses/microsoft-learn-control-network-traffic-flow-with-routes
-  - courses/microsoft-learn-protect-virtual-desktop-deployment-azure-firewall
-  - courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway
-  - courses/microsoft-learn-connect-on-premises-network-with-expressroute
   - courses/microsoft-learn-improve-app-scalability-resiliency-with-load-balancer
-  - courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer
-  - courses/microsoft-learn-load-balance-web-traffic-with-application-gateway
-  - courses/microsoft-learn-troubleshoot-azure-network-infrastructure
 
 topics:
   - Azure
@@ -39,9 +39,9 @@ topics:
   - Networking
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png
-    width: 800
-    height: 400
+  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+    width: 640
+    height: 320
     isCached: true
 
 secured: "XK9X/8yr1iKK4gqg/5lDnwP2IWX2BSKLJ+L0S4LiGhXDGQFr01La29GseJsHVufXtSwj0rxizIJz9fS4Ers1Y3wUZ3dRGFr/Kcaz6ElG2iqo2Z3p7RHns9Qxxx+T0ezZOoXHnMXN8sdoLVcvtIDhhEFB+6nC6EYsHrG9fDw31u2y6OJaGcSsgHZLWGRvLGisactJVASG48OVxyZKTC3xBJctoh4yITXLV07Y1TEu1ZoDzVKDEyTkXhrG5IWUDCx+8baZvEq3+FGJ1RxidDfUN/xmlxjn81MQn5ABu3iWnitELX2fTOGJmpbb1BYELceH3skWKA+sAEoKtIv7h7lPHYJs9ukdRQqMf8fV/TVu7ZM=;yyFf2wuKdiT8pO4V8ioAsw=="
