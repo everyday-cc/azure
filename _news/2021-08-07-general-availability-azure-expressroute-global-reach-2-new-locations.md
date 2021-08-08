@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-expressroute-global-reach-2-new-locations/"
 type: article
 quality: 67
-heat: 127
+heat: 129
 published: true
 
 provider:
