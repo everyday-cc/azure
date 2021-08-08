@@ -537,45 +537,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-web-app-with-refreshable-models.md",
-      "title": "Build a Web App with Refreshable Machine Learning Models",
-      "excerpt": "Build a web app powered by machine learning models trained using Custom Vision AI service, and learn how to refresh them with GitHub Actions.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-web-app-with-refreshable-models/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-web-app-with-refreshable-models/",
-      "length": "PT1H22M",
-      "ratings": {
-        "count": 38,
-        "average": 4.394737
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-cv-classify-bird-species.md",
       "title": "Classify endangered bird species with Custom Vision",
       "excerpt": "Learn how to use Azure Cognitive Services Custom Vision to build a machine learning model that identifies the species of a bird in an image, to help with gathering data.",
@@ -583,8 +544,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cv-classify-bird-species/",
       "length": "PT32M",
       "ratings": {
-        "count": 188,
-        "average": 4.5797873
+        "count": 189,
+        "average": 4.5820107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1304,6 +1265,50 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services.md",
+      "title": "Integrate Azure Databricks with other Azure services",
+      "excerpt": "Integrate Azure Databricks with other Azure services",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-azure-databricks-other-azure-services/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 185,
+        "average": 4.5243244
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-azure-databricks-other-azure-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
         "AI"
       ]
     }

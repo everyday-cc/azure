@@ -4,49 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
-      "title": "Build systems of insights for enterprise scale with Power BI and Azure",
-      "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 5,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
       "title": "Configure security policies to manage data",
       "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
@@ -270,8 +227,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 1126,
-        "average": 4.7611012
+        "count": 1127,
+        "average": 4.7613134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -399,8 +356,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 1335,
-        "average": 4.707865
+        "count": 1336,
+        "average": 4.7080836
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -617,8 +574,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/",
       "length": "PT56M",
       "ratings": {
-        "count": 474,
-        "average": 4.670886
+        "count": 475,
+        "average": 4.671579
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1297,6 +1254,42 @@
         "Azure",
         "Compute",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
+      "title": "Distribute your data globally with Azure Cosmos DB",
+      "excerpt": "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 1924,
+        "average": 4.627339
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
       ]
     }
   ],

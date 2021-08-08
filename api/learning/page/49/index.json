@@ -4,49 +4,6 @@
   "page": 49,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-test-machine-learning-models.md",
-      "title": "Refine and test machine learning models",
-      "excerpt": "When we think of machine learning, we often focus on the training process. A small amount of preparation before this process can not only speed up and improve learning but also give us some confidence about how well our models will work when faced with data we have never seen before.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-test-machine-learning-models/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/test-machine-learning-models/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 23,
-        "average": 4.695652
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-the-mojifier.md",
       "title": "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion",
       "excerpt": "Learn how to get images, calculate emotion, match emotions to emojis, and replace faces with emoji.",
@@ -737,8 +694,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/typescript-declare-instantiate-classes/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 65,
-        "average": 4.769231
+        "count": 66,
+        "average": 4.7727275
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -863,8 +820,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/typescript-generics/",
       "length": "PT46M",
       "ratings": {
-        "count": 56,
-        "average": 4.571429
+        "count": 57,
+        "average": 4.5789475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -947,8 +904,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/typescript-namespaces-organize-code/",
       "length": "PT46M",
       "ratings": {
-        "count": 52,
-        "average": 4.769231
+        "count": 53,
+        "average": 4.773585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -989,8 +946,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/typescript-work-external-libraries/",
       "length": "PT46M",
       "ratings": {
-        "count": 34,
-        "average": 4.8235292
+        "count": 35,
+        "average": 4.8285713
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1278,6 +1235,51 @@
       "topics": [
         "Azure",
         "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines.md",
+      "title": "Upgrade and migrate Windows Server IaaS virtual machines",
+      "excerpt": "Learn to migrate a workload running in Windows Server to an infrastructure as a service (IaaS) virtual machine (VM) and to Windows Server 2019 by using Windows Server migration tools or the Storage Migration Service.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upgrade-migrate-windows-server-iaas-virtual-machines/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 30,
+        "average": 4.9
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
         "Compute"
       ]
     }

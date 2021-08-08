@@ -4,42 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
-      "title": "Distribute your data globally with Azure Cosmos DB",
-      "excerpt": "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 1924,
-        "average": 4.627339
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-execute-existing-ssis-packages-azure-data-factory.md",
       "title": "Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline",
       "excerpt": "Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline",
@@ -168,8 +132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 1944,
-        "average": 4.779835
+        "count": 1945,
+        "average": 4.7799487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -510,8 +474,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
       "length": "PT59M",
       "ratings": {
-        "count": 2058,
-        "average": 4.722546
+        "count": 2059,
+        "average": 4.722681
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1071,8 +1035,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
       "length": "PT59M",
       "ratings": {
-        "count": 2042,
-        "average": 4.6870713
+        "count": 2043,
+        "average": 4.687225
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1267,6 +1231,50 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms.md",
+      "title": "Monitor performance of virtual machines by using Azure Monitor for VMs",
+      "excerpt": "Learn how to use Azure Monitor for VMs to monitor your organization's Azure virtual machines.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 501,
+        "average": 4.764471
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-performance-using-azure-monitor-for-vms-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
       ]
     }
   ],

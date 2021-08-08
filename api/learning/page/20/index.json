@@ -4,50 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms.md",
-      "title": "Monitor performance of virtual machines by using Azure Monitor for VMs",
-      "excerpt": "Learn how to use Azure Monitor for VMs to monitor your organization's Azure virtual machines.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 501,
-        "average": 4.764471
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-performance-using-azure-monitor-for-vms-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
       "title": "Fundamentals of network security",
       "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
@@ -647,8 +603,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-error-handling/",
       "length": "PT34M",
       "ratings": {
-        "count": 249,
-        "average": 4.746988
+        "count": 250,
+        "average": 4.748
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -689,8 +645,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-understand-common-concepts/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 438,
-        "average": 4.8561645
+        "count": 439,
+        "average": 4.856492
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -860,8 +816,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 4384,
-        "average": 4.553604
+        "count": 4385,
+        "average": 4.5537057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1269,6 +1225,50 @@
       "topics": [
         "Azure",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-dataframes-columns-azure-databricks.md",
+      "title": "Work with DataFrames columns in Azure Databricks",
+      "excerpt": "Work with DataFrames columns in Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-work-dataframes-columns-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-columns-azure-databricks/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 281,
+        "average": 4.594306
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-columns-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
       ]
     }
   ],

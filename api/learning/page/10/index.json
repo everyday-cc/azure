@@ -4,49 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
-      "title": "Core Cloud Services - Azure networking options",
-      "excerpt": "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-networking/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 45450,
-        "average": 4.7671065
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-networking-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-machine-learning.md",
       "title": "Introduction to machine learning",
       "excerpt": "A high-level overview of machine learning for people with little or no knowledge of computer science and statistics. You’ll be introduced to some essential concepts, explore data, and interactively go through the machine learning life-cycle - using Python to train, save, and use a machine learning model like we would in the real world.",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-machine-learning/",
       "length": "PT52M",
       "ratings": {
-        "count": 108,
-        "average": 4.8796296
+        "count": 109,
+        "average": 4.880734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -120,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
           "length": "PT41M",
           "ratings": {
-            "count": 1563,
-            "average": 4.8074217
+            "count": 1565,
+            "average": 4.807029
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 1426,
-            "average": 4.7734923
+            "count": 1427,
+            "average": 4.77295
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -204,8 +161,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
           "length": "PT54M",
           "ratings": {
-            "count": 1758,
-            "average": 4.7337885
+            "count": 1759,
+            "average": 4.7333713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1426,
-        "average": 4.7734923
+        "count": 1427,
+        "average": 4.77295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -584,8 +541,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
       "length": "PT24M",
       "ratings": {
-        "count": 2050,
-        "average": 4.7278047
+        "count": 2051,
+        "average": 4.7279377
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -795,8 +752,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 6385,
-        "average": 4.7527018
+        "count": 6386,
+        "average": 4.7527404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -880,8 +837,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
       "length": "PT41M",
       "ratings": {
-        "count": 1563,
-        "average": 4.8074217
+        "count": 1565,
+        "average": 4.807029
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -922,8 +879,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 8583,
-        "average": 4.7340093
+        "count": 8584,
+        "average": 4.7340403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1401,6 +1358,48 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
+      "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
+      "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-data-engineering-processes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 6863,
+        "average": 4.7399096
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

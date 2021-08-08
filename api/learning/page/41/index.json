@@ -4,92 +4,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-data-for-machine-learning.md",
-      "title": "Introduction to data for machine learning",
-      "excerpt": "The power of machine learning models comes from the data that is used to train them. Through content and exercises, we explore how to understand your data, how to encode it so that the computer can interpret it properly, how to clean it of errors, and tips that will help you create models that perform well.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-data-for-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-for-machine-learning/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 27,
-        "average": 4.814815
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-data-streaming.md",
-      "title": "Work with data streams by using Azure Stream Analytics",
-      "excerpt": "Explore how Azure Stream Analytics integrates with your applications or Internet of Things devices to gain insights with real-time streaming data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-data-streaming/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 1601,
-        "average": 4.6652093
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-desktop-analytics.md",
       "title": "Analyze Windows 10 diagnostic data using Desktop Analytics",
       "excerpt": "Analyze Windows 10 diagnostic data using Desktop Analytics",
@@ -868,8 +782,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balancing-non-https-traffic-azure/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 12,
-        "average": 4.8333335
+        "count": 13,
+        "average": 4.8461537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1292,6 +1206,90 @@
           "url": "https://docs.microsoft.com/learn/achievements/maintain-azure-sap-workloads-social.png",
           "width": 800,
           "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-maintain-secure-repository-github.md",
+      "title": "Maintain a secure repository by using GitHub best practices",
+      "excerpt": "Learn best practices for building, hosting, and maintaining a secure repository on GitHub.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-maintain-secure-repository-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/maintain-secure-repository-github/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 560,
+        "average": 4.7642856
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/maintain-secure-repository-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-make-predictions-with-linear-regression.md",
+      "title": "Make predictions with linear regression",
+      "excerpt": "Learn",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-make-predictions-with-linear-regression/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/make-predictions-with-linear-regression/",
+      "length": "PT1H27M",
+      "ratings": {
+        "count": 84,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/make-predictions-with-linear-regression-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
