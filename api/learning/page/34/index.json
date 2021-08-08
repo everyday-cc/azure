@@ -4,48 +4,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-design-secure-environment-government.md",
-      "title": "Design cloud solutions for the public sector",
-      "excerpt": "Introduction to the stakes and options for implementing Azure to safeguard public sector data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-secure-environment-government/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-secure-environment-government/",
-      "length": "PT15M",
-      "ratings": {
-        "count": 15,
-        "average": 4.733333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-design-your-site-recovery-solution-in-azure.md",
       "title": "Design your site recovery solution in Azure",
       "excerpt": "Protect your applications and data from disasters with a well-designed site recovery solution.",
@@ -698,8 +656,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
       "length": "PT1H17M",
       "ratings": {
-        "count": 1449,
-        "average": 4.657005
+        "count": 1450,
+        "average": 4.6572413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1282,6 +1240,50 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-azure-dsvm-types.md",
+      "title": "Explore the types of Azure Data Science Virtual Machines",
+      "excerpt": "You learn about the types of Azure Data Science Virtual Machines (DSVM) and when to use each type.  You will learn about the Windows-based and Linux-based DSVMs which each support different needs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-azure-dsvm-types/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-dsvm-types/",
+      "length": "25 mins",
+      "ratings": {
+        "count": 891,
+        "average": 4.654321
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/explore-azure-dsvm-types-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Explore the types of Azure Data Science Virtual Machines",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
       ]
     }
   ],

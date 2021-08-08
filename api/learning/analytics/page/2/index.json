@@ -4,50 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture.md",
-      "title": "Describe Azure Databricks Delta Lake architecture",
-      "excerpt": "Describe Azure Databricks Delta Lake architecture",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 217,
-        "average": 4.589862
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-delta-lake-architecture-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-design-azure-sql-data-warehouse.md",
       "title": "Design a data warehouse with Azure Synapse Analytics",
       "excerpt": "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly",
@@ -1638,6 +1594,54 @@
         "Azure",
         "Analytics",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-3d-scene-mixed-reality-unity.md",
+      "title": "Build a 3D Scene for mixed reality in Unity",
+      "excerpt": "Learn how to create a 3D Scene in Unity using the Microsoft Maps SDK or static terrain. Get familiar with mixed reality scene design, the Unity interface, and deploying your Unity project to a HoloLens 2.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-3d-scene-mixed-reality-unity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-3d-scene-mixed-reality-unity/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 19,
+        "average": 4.9473686
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-3d-scene-mixed-reality-unity-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "IoT",
+        "Integration",
+        "Analytics",
+        "Compute",
+        "Serverless"
       ]
     }
   ],

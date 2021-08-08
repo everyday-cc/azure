@@ -4,93 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-classify-images-with-custom-vision-services.md",
-      "title": "Classify images with the Microsoft Custom Vision Service",
-      "excerpt": "In this learning path, find out how Cognitive Vision Services detects faces, tags and classifies images, and identifies objects.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-classify-images-with-custom-vision-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 1646,
-        "average": 4.678007
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-classify-images.md",
-      "title": "Classify images",
-      "excerpt": "Classify images",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-classify-images/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 10,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-cloud-admin-provision-manage.md",
       "title": "Provision and manage cloud services",
       "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about the different types of resources available on the cloud and the technology behind how they work.",
@@ -1250,6 +1163,87 @@
         "Azure",
         "IoT",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cna-deploy-maintain-cloud-native-apps.md",
+      "title": "Deploy and maintain cloud-native apps with GitHub actions and Azure Pipelines",
+      "excerpt": "This module describes how to deploy and maintain cloud-native apps.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cna-deploy-maintain-cloud-native-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cna-deploy-maintain/",
+      "length": "PT1H38M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cna-orchestrate-containers.md",
+      "title": "Orchestrate containers for cloud-native apps with AKS",
+      "excerpt": "Cloud-native applications are modular in nature, with components separated and self-contained. Components can be encapsulated in containers, such as those created with Docker, or published from an Azure service. Dynamic scaling can then be managed by Kubernetes. We'll learn to decide when Kubernetes is right for our Cloud Native app, and we'll see how to use it as a first building block of our Cloud Native architecture.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cna-orchestrate-containers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-native-apps-orchestrate-containers/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Compute",
+        "Web"
       ]
     }
   ],

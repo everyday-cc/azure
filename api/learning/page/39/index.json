@@ -4,91 +4,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-natural-language-processing.md",
-      "title": "Introduction to Natural Language Processing with PyTorch",
-      "excerpt": "Learn how to handle language and solve natural language processing tasks with PyTorch",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-natural-language-processing/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-natural-language-processing-pytorch/",
-      "length": "PT1H9M",
-      "ratings": {
-        "count": 37,
-        "average": 4.918919
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-anomaly-detector.md",
-      "title": "Introduction to Anomaly Detector",
-      "excerpt": "Discover the Anomaly Detector service that is part of the Azure Decision services offerings.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-anomaly-detector/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-anomaly-detector/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 22,
-        "average": 4.909091
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/anomaly-detector-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-arc-enabled-kubernetes.md",
       "title": "Introduction to Azure Arc enabled Kubernetes",
       "excerpt": "Introduction to Azure Arc enabled Kubernetes",
@@ -789,8 +704,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
       "length": "PT40M",
       "ratings": {
-        "count": 3145,
-        "average": 4.644197
+        "count": 3146,
+        "average": 4.64431
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1184,6 +1099,90 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-endpoint-manager.md",
+      "title": "Introduction to Microsoft Endpoint Manager",
+      "excerpt": "In this module, you'll learn about the basics of Microsoft Endpoint Manager.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-endpoint-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-endpoint-manager/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-endpoint-manager-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-event-hubs.md",
+      "title": "Introduction to Event Hubs",
+      "excerpt": "Azure Event Hubs connects events from any source to your software systems. This acts as a buffer to provide modular solutions that avoid overwhelming your system during traffic spikes, while still enabling near real-time data pipelines. Event Hubs is fast to set up and designed to allow you to focus on drawing insights from data instead of managing infrastructure. Able to process millions of events per second with low latency, Event Hubs is a modern big data message and event ingestion service that can be seamlessly integrated with other Azure and Microsoft services, such as Stream Analytics, Power BI, and Event Grids, along with outside services like Apache Spark.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-event-hubs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-event-hubs/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 6,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
