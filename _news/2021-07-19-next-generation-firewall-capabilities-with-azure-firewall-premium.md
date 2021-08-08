@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/nextgeneration-firewall-capabilit
 webUrl: "https://azure.microsoft.com/blog/nextgeneration-firewall-capabilities-with-azure-firewall-premium/"
 type: article
 quality: 89
-heat: 112
+heat: 109
 published: true
 
 provider:
