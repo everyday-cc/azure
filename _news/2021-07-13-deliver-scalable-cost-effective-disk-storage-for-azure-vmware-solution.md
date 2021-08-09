@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/deliver-scalable-costeffective-di
 webUrl: "https://azure.microsoft.com/blog/deliver-scalable-costeffective-disk-storage-for-azure-vmware-solution/"
 type: article
 quality: 88
-heat: 188
+heat: 189
 published: true
 
 provider:
