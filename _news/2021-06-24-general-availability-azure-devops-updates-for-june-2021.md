@@ -181,6 +181,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure VPN Client for macOS"
+    excerpt: "Azure VPN Client for macOS enables you to utilize features of Azure AD natively, such as multi-factor authentication, conditional access, and user-based policies for you Mac clients."
+    publishedDateTime: 2021-08-09T19:28:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-ga-of-azure-vpn-client-for-macos/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
     excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
     publishedDateTime: 2021-04-15T22:00:21Z

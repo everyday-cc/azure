@@ -189,6 +189,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure VPN Client for macOS"
+    excerpt: "Azure VPN Client for macOS enables you to utilize features of Azure AD natively, such as multi-factor authentication, conditional access, and user-based policies for you Mac clients."
+    publishedDateTime: 2021-08-09T19:28:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-ga-of-azure-vpn-client-for-macos/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Azure Data Explorer adds new geospatial capabilities"
     excerpt: "The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer."
     publishedDateTime: 2021-06-18T16:00:12Z

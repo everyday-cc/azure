@@ -2,26 +2,26 @@
 category: news
 title: "Redapt, Inc Has Earned the Analytics on Advanced Specialization from Microsoft Azure"
 excerpt: "WOODINVILLE, Wash., July 28, 2021 /PRNewswire-PRWeb/ -- Redapt, Inc today announced it has earned the Analytics on Microsoft Azure advanced specialization, a validation of a partner's capability ..."
-publishedDateTime: 2021-07-28T18:11:00Z
-originalUrl: "https://www.goskagit.com/news/state/redapt-inc-has-earned-the-analytics-on-advanced-specialization-from-microsoft-azure/article_0bf912bb-b73b-5f6d-9ff8-5b3d2ecccaa6.html"
-webUrl: "https://www.goskagit.com/news/state/redapt-inc-has-earned-the-analytics-on-advanced-specialization-from-microsoft-azure/article_0bf912bb-b73b-5f6d-9ff8-5b3d2ecccaa6.html"
+publishedDateTime: 2021-07-28T20:29:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/redapt-inc-has-earned-the-analytics-on-advanced-specialization-from-microsoft-azure/article_311cc286-1c9d-5ce5-b365-81655b95c021.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/redapt-inc-has-earned-the-analytics-on-advanced-specialization-from-microsoft-azure/article_311cc286-1c9d-5ce5-b365-81655b95c021.html"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Skagit Valley Herald
-  domain: goskagit.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - Analytics
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
-    width: 1024
-    height: 500
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -113,6 +113,6 @@ related:
         height: 315
         isCached: true
 
-secured: "ZiA01AO/mxIR4KM95j6nTfc8NbF+UR5yDapaVu1+KsdlpilQMIgLCCWspjAk41GWX4X3YQY1Mie1ue689Tw3KwfP9lvsYXGELRVyESZpoauR2TCrF6XPuwpFglkJdday81o0a1b9gvJ/gd7sfjye8AsXmfquTaObGiW1WnJsufzP7/kUOGZjKUEp6wXYDI0f7ppn/KNDFFtFb3a0YkOyPRheDRWyYYIgwRuhfhdj6cbqJ2dSwVcP2l+YApVLoCAylj9wvcI0dELW6F24KBXOR5aWAye4NMy1wEM3SR9xM6wLfWsokuRzSnQaRWnUk03VZxCQiMAL3Yb2niC2wrqOdGzhACwLodYQJIH7WSBoT3c=;Al2TXBzqx1Iqi0LmKFqn0g=="
+secured: "yUKYuQtpC2pU9tiRoo18srXTe6x/IQolyPx96ObdcGisJKES7Mun/LIkShc/gwe3z6E7TUL3Ajx39hY8pVK5y/ceiYAd+/LOrFKOEk+xLqmLkQrXbj/5q5Hpx6Za8DRJNKhFeJaC9UmmaLWBZjqfDnXbtzezG7c0YL7oTp/YBLgb4Md6LYRYeJ4RWXZuXrghfuCfzSG0xCkYx2ZlMHr0FSLovQqazc2yKp9m1rcCsof5ev6c5MwZoWoHUaO5iRJOGJlAYK7n1oLZ/GFwbUoz9mGm/e/6be8M/7B1Y5YGM/8j0/Mdq81L2gzVHSOFM8WAVzghXFTWiQB4D5joaXHLziso+yvrCYpNlDoSvJBNTFg=;ubg777w/f0bNNL8xySNcPA=="
 ---
 

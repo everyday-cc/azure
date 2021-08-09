@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-upd
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-july-2021/"
 type: article
 quality: 104
-heat: 564
+heat: 584
 published: true
 
 provider:
@@ -177,6 +177,15 @@ related:
     excerpt: "You can now use Private Link for Azure Managed HSM to protect sensitive traffic between different Azure and on-premises services.\n\n"
     publishedDateTime: 2021-08-05T18:00:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-managed-hsm-private-link-ga-announcement/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure VPN Client for macOS"
+    excerpt: "Azure VPN Client for macOS enables you to utilize features of Azure AD natively, such as multi-factor authentication, conditional access, and user-based policies for you Mac clients."
+    publishedDateTime: 2021-08-09T19:28:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-ga-of-azure-vpn-client-for-macos/"
     type: article
     provider:
       name: Microsoft

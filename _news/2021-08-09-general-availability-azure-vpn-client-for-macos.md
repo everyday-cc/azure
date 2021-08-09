@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Machine Learning updates for native terminal  "
-excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
-publishedDateTime: 2021-02-17T17:06:59Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
+title: "General availability: Azure VPN Client for macOS"
+excerpt: "Azure VPN Client for macOS enables you to utilize features of Azure AD natively, such as multi-factor authentication, conditional access, and user-based policies for you Mac clients."
+publishedDateTime: 2021-08-09T19:28:38Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-ga-of-azure-vpn-client-for-macos/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-ga-of-azure-vpn-client-for-macos/"
 type: article
-quality: 97
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - AI
 
 related:
   - title: "General availability: Azure API Management updates - July 2021"
@@ -37,6 +36,15 @@ related:
         width: 1055
         height: 434
         isCached: true
+  - title: "General availability: Azure Machine Learning updates for native terminal  "
+    excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
+    publishedDateTime: 2021-02-17T17:06:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
   - title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
     excerpt: "When moving from on premises, you no longer need to split your large files into separate parts to store and process in the cloud. Supporting a single object size up to 200TB removes one complexity when using Azure Storage."
     publishedDateTime: 2021-04-12T16:00:40Z
@@ -181,15 +189,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure VPN Client for macOS"
-    excerpt: "Azure VPN Client for macOS enables you to utilize features of Azure AD natively, such as multi-factor authentication, conditional access, and user-based policies for you Mac clients."
-    publishedDateTime: 2021-08-09T19:28:38Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-ga-of-azure-vpn-client-for-macos/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
     excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
     publishedDateTime: 2021-04-15T22:00:21Z
@@ -250,6 +249,6 @@ related:
         height: 752
         isCached: true
 
-secured: "UBETId48a7quUTfSzcv4jQk0UyVJURsmJIJg7mCl3Z5+OkBII5YA0paecU8P6FsdfbZwixRB43i+R6tekF+ZwPtCoumcfIdfNBL40xwrFLnn0FRt65uBDZ3g//tVQdymTd1N6ENxQ7Bzpr4eBsuXELK+j1UJ+lsphlBkynJTi7U9qsCbaQ+A6TEwUpWJ7XLOUuA3jBRbJ2ZL0wQNs1lo6PAG+BeKIgVwu+QpoD2+0Q7k+sfwK6cBEh174YpI1wWVX6uxw4c+peajxFqRP44H2VQkrpIMXAHYFIsNf640u0wV0HMKNEKEqimxjiXGJkAtT4YcnqDsFq7pNjQRE3ldkzbQXMB4wNb6WnkCxJ2lBco=;9Wtv0gG/5jedWvXGD88I8g=="
+secured: "OqNV1b0hMt8lX63WbojrkjdVPCm1dAdMzc1zH3EMLhkob3vxbhpmQUtTRHhSCCV6XAWhLqyD5yUSBjOci3XDD2NM6s2k7SgxXSNlkvyERGWr1QGsucmCKnXKwyW+65IcMafPz5kNsMuSgcHBJ8Lj77njtqGb1rXGRFSDPIiKj4ouVuQ1nsx0M765T3Amm4CAKsj9B156bkRL8+D75e7OHhSGqA8FXyQAoKWsmglMIcTlq5n78lIkDWCpuWZb25rLNYbe+ROCxwfth1hDacjhF7XmWBQLHPcz40o3l/1j5ZpcWoXqDBWPQcszhUUTIpXqN1mvhMdmPYkNnBaOKsVAGpO81ldJaYSCQE550aCYsYk=;nf0/aujKXxnw8Wx2IUUL2A=="
 ---
 
