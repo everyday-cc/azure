@@ -1,22 +1,22 @@
 ---
 category: news
-title: "London's Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
-excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London's Metropolitan Police Service (the Met) and Microsoft (News - Alert) Azure to transform how the Met investigate crimes with relevant digital evidence from smartphones and computers with the adoption of Magnet REVIEW."
-publishedDateTime: 2021-08-09T12:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/08/09/9426391.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/08/09/9426391.htm"
+title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
+excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Polic"
+publishedDateTime: 2021-08-09T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210809005179/en/London’s-Metropolitan-Police-Selects-Magnet-Forensics-Microsoft-Azure-to-Power-Transformation-of-Digital-Forensic-Evidence-Review"
+webUrl: "https://www.businesswire.com/news/home/20210809005179/en/London’s-Metropolitan-Police-Selects-Magnet-Forensics-Microsoft-Azure-to-Power-Transformation-of-Digital-Forensic-Evidence-Review"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
-secured: "E3wnNNm02M36C7a6ATPYZmymsb3CAp+oIh3LLAIW2YoIh/QapynjyMxf9OiMmxgcqLc8YvqxGvHnyC6Be/pE/WqXhNpym5Ma7msXlZ1wCpU02Hq/nuspDwkBSfglQ84aFOvis+tEnUwEpzCFkjh9XpMooimjjoayIXyko92x/WgdIb5GSK7XiShEbIer5jD4XqQAqL6UTO+2cnwD1SWT3CbWLrNoNsstCQy6nab29rHUaBje8C9uhsAKvAfnLi2OVMKIakXwrfHs46LlOr7kWa75XNZlLozpN6DHJISavNbAU8GrzI29IJc/AVriiTuEWAoculZCiTY95wqi/I8GxXopod5fiJ33IEKoUaJdacg=;ADHdBE2U+bk8o01T8B06zA=="
+secured: "VUkVSSKbQlupnAn8OnnjD3NPr0+1zpfllDwApTNvQ6Lin6zDlYbIKdr940c2DIlcEQ3ioTjIwnJbYU51ry+LdMCk7rElE1B8mrxwRrhOrlSjbp8GqUp8TNPAdlDKyGaEUREUsApgmyIbUBFm0kuLIIH+1YAi979hXWWxtAk0cN90y5/zQwTY5Ob/3mQqM0JVs+75y/eRGnqcW08fofsW6dfJPbnVEBV4DjdFK99ooNsOR/6diFwLIOSh7EzWtAFVAI91lXTgTwii/AdRaznGk6BCq8I+9kLq0Azfgo/LRobwNxMdICx6GBGXhDzCrI5mC84ZSeh8QNOcBLsNwOgxDFX57FAzPYQOZwhLznuF2tg=;c0B8Lt5GFPvDQ7gCVOBePQ=="
 ---
 

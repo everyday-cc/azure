@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 1339
+heat: 1359
 published: true
 
 provider:
@@ -247,6 +247,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
+  - title: "General availability: Introducing global disaster recovery via Azure Site Recovery"
+    excerpt: "Replicate your virtual machines to any Azure region on the planet to safeguard your applications from disaster."
+    publishedDateTime: 2021-08-09T15:51:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/global-dr-with-asr/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
   - title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
     excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
     publishedDateTime: 2021-04-01T15:56:14Z

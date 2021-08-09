@@ -253,6 +253,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
+  - title: "General availability: Introducing global disaster recovery via Azure Site Recovery"
+    excerpt: "Replicate your virtual machines to any Azure region on the planet to safeguard your applications from disaster."
+    publishedDateTime: 2021-08-09T15:51:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/global-dr-with-asr/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
   - title: "General availability: Application Insights integration with App Services for Java & Node.js apps"
     excerpt: "Integration of Azure Monitor application insights with App Services now enables you to monitor your Java & Node.js apps directly from Azure portal, without making any changes to your code, with just a click of a button."
     publishedDateTime: 2021-07-14T16:00:33Z

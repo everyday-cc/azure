@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure mobile app now supports Azure Government"
-excerpt: "You can now manage and monitor you Azure Government subscriptions with the Azure mobile app."
-publishedDateTime: 2021-02-09T23:45:23Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
-webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
+title: "General availability: Introducing global disaster recovery via Azure Site Recovery"
+excerpt: "Replicate your virtual machines to any Azure region on the planet to safeguard your applications from disaster."
+publishedDateTime: 2021-08-09T15:51:57Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/global-dr-with-asr/"
+webUrl: "https://azure.microsoft.com/en-us/updates/global-dr-with-asr/"
 type: article
-quality: 104
+quality: 78
 heat: -1
 published: false
 
@@ -20,13 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Mobile
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/9fe2977f-67c6-4eb0-b476-6ffaff1f7e7f.png"
-    width: 467
-    height: 374
-    isCached: true
+  - Migration
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -47,6 +41,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 115
+  - title: "General availability: Azure mobile app now supports Azure Government"
+    excerpt: "You can now manage and monitor you Azure Government subscriptions with the Azure mobile app."
+    publishedDateTime: 2021-02-09T23:45:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/9fe2977f-67c6-4eb0-b476-6ffaff1f7e7f.png"
+        width: 467
+        height: 374
+        isCached: true
   - title: "General availability: Azure API Management now has named values integration with Azure Key Vault"
     excerpt: "API Management’s named values can now be stored and managed in Azure Key Vault. "
     publishedDateTime: 2021-03-03T17:00:16Z
@@ -245,15 +253,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
-  - title: "General availability: Introducing global disaster recovery via Azure Site Recovery"
-    excerpt: "Replicate your virtual machines to any Azure region on the planet to safeguard your applications from disaster."
-    publishedDateTime: 2021-08-09T15:51:57Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/global-dr-with-asr/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
   - title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
     excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
     publishedDateTime: 2021-04-01T15:56:14Z
@@ -593,6 +592,6 @@ related:
       domain: microsoft.com
     quality: 42
 
-secured: "ZHj8P728ELgfF4+UkgZAxKVsVH9GISYG+bZTzHWKCckw4EzMAYjxR2aAx/pTgTdxdQnTcfuQRHdivAG9ftf4Gu0fTapEPUTOml2FqHSPcrlFqWwLvY048MyuB1f0hO+HpU97ExDKFNigwzkkZ3HEsm4QJa6O4bKc9Tsd7BJ1kVLOxi6ePQ3+m7ynfbyCe7uLmtpsrOD4e+0rHjXjaAgoXW4Mx45Gdhox01rbMXhg9aFDm30smUpxr0PMWVu2oCPrkYqt3r8ixeKMy2YKxF3FHxGtOa7BZg4hICSu/kbhYMYuEHT2LeV0e8QGSoLmBxqj9khoflyF87IN2DP0xL+CmGsbeZbfjIZSG+umXmf98Ec=;E75LJ3Ki5USuosXNgkUKfA=="
+secured: "7ictPShVacIP9erl/eDPrIAGkIfz3FkfkBFEKAYXKADfBN42AaQ0e5Qy3bCNYD2QaEn14F1hJVX7E2IzwvBLkOxM+NNtp5kFKL9Qhmm+kSUe8FB88RNij56SWcqpWHehmuSwSgLQbp0baSVGQr+U0pza5Y8E9Be7LOqjLNOUPRQTHNt6hArTY2UEV8niyFd/BT94Oj4neQdTEqsX0mlD7y2PRXIgGXZtEpLCywa0HiGlEBJqv1iyMcjM7YbgKsfO6Ke9DiG2IeN+LZS8mYpzn8DOJ7thQ6UfevnSTB07aaCursupN9e2yFmFM2dYMkgcGeoinKNxZrtPUf6J+jFLDp7+NDPBZUIsrslAk2s9Ur8=;jLbaJ42rX11QhAUnyorxdA=="
 ---
 
