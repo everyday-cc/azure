@@ -4,6 +4,49 @@
   "page": 49,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-troubleshoot-data-governance.md",
+      "title": "Troubleshoot data governance",
+      "excerpt": "Troubleshoot data governance",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-troubleshoot-data-governance/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-data-governance/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
       "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
       "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
@@ -650,8 +693,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-regression-machine-learning/",
       "length": "PT52M",
       "ratings": {
-        "count": 31,
-        "average": 4.903226
+        "count": 32,
+        "average": 4.90625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -999,8 +1042,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-data-loading-best-practices-azure-synapse-analytics/",
       "length": "PT36M",
       "ratings": {
-        "count": 115,
-        "average": 4.53913
+        "count": 116,
+        "average": 4.543103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1246,41 +1289,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-using-iot-central-with-connected-field-service.md",
-      "title": "Using IoT Central with Connected Field Service for Dynamics 365",
-      "excerpt": "This module will focus on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through building an IoT Central application and escalating the alerts into Dynamics 365.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-using-iot-central-with-connected-field-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iot-central-with-connected-field-service/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 63,
-        "average": 4.698413
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],
