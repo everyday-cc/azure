@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M29S
 publishedDateTime: 2019-04-15T15:10:46Z
-heat: 52
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kfrx0TpCgPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "EK1Ng6+c/2uz661qlxT+OWy15YZ7CwNDFaYUDRdlxhq1tmgWtBKPSEMdfmo3+1PIv07wRCFAGAUxXXIiZisHt05XqgSY6M9ruhhkwBauaQWrJYZUUTqp8O5UjxoXz3w4jchrPImkDEyDIIRbGn0tz3DbRqQtCV4GP1mkbV7BIQfwGJnJIoks13Jux2QkvmMOFf4i4jgDbnKR6wAOm89o92rDx4gQ0zIIDc/WE7UDrbCSATk+hQtEgKkv255LMNbSrYd15BmQfOVxCr4YJmQ7Z6RIkJ47ZqKW41dpQy/tWEv+rv1q5w4M70Xy+YQ+wdhLht8DxJ7hUzoZeHrYG7B/AvjTdZNvasBWwp75MOtXrRmSX4fhUVPcg1FMFxzTo+nLIGgWEL9Xjbh7Dg+Pz0yqnDupiVvSU6+WQeCjE6V1iCI=;aCz+3kdXynK7dKCVIFTKXg=="
+secured: "/O9dMM+KSQAlRiEs+u9Odf9ZpDEtuKsnwClFSvc2Cgm55DJjDEM6Vo3sWwtdoJSzU4CnDijwQeLqJOYkQ9l4QBXJH3FKyUjcgbvBWvbv38jZQIW2kC37NpRUohG6GydGhks6dLl/02NRfI2B9NLk5myt+E58shBDGOnCmaRAycrOpGKvdE5lVM5Z82KV4lvUaQNOxWrwyhOJBVTv4QGPsQcPMGNU8WQTIjUx5jhZ4qulu9vhicK3hgRYEnkWRhb8FPSAhtHWpMqsBEcA1RDdDWRrVfhwwQPNcn9V7z9i7+KN2hFf1OrzfebBXoyIqRGstMrrCSmgBZG0tKye2Kr8Jvb7ORyUZob8jVUoDXSXamJ+lE1MUaE4MEo5b677sUlnOnoNVbvprRKFPKv1hLjxaDVH0DuTCMXtoC55y5+kKBs=;bPn1sQbQmQjUVmEjjKnEmA=="
 ---
 
