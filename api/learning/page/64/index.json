@@ -4,44 +4,6 @@
   "page": 64,
   "value": [
     {
-      "path": "_learning/videos/microsoft-hybrid-data-movement-across-multiple-azure-data-factories-azure-friday.md",
-      "title": "Hybrid data movement across multiple Azure Data Factories | Azure Friday",
-      "excerpt": "Gaurav Malhotra and Scott Hanselman discuss how you can now share a self-hosted Integration Runtime (IR) across multiple data factories and consolidate on a single, highly available, multi-node (up to 4 nodes) self-hosted IR infrastructure. Doing so removes the need for separate, self-hosted IRs per",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-hybrid-data-movement-across-multiple-azure-data-factories-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-hybrid-data-movement-across-multiple-azure-data-factories-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=i1bCkENsaLY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i1bCkENsaLY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M26S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:57:06-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i1bCkENsaLY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-improve-your-productivity-with-azure-tips-and-tricks-azure-friday.md",
       "title": "Improve your productivity with Azure Tips and Tricks | Azure Friday",
       "excerpt": "Learn some of Michael Crump's favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Watch this video to shave time off your coding tasks. [00:35] Demo Start   Azure Tips and Tricks project https://aka.ms/azfr/553/01  Tip 1:",
@@ -1163,6 +1125,45 @@
         "Azure",
         "Security",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday.md",
+      "title": "Optimizing your storage costs with Azure Blob Storage | Azure Friday",
+      "excerpt": "Klaas Langhout shows Scott Hanselman how to use Azure Blob Storage for a variety of cloud workloads while optimizing costs related to controlling capacity and tier, Premium tier for transaction cost savings, choosing the right redundancy, and routing preference.  0:00 – Introduction 0:52 – Presentation",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-optimizing-your-storage-costs-with-azure-blob-storage-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=dcSFOxBXxh4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dcSFOxBXxh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M32S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-23T09:00:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dcSFOxBXxh4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
       ]
     }
   ],
