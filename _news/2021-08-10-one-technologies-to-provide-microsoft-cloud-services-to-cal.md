@@ -1,26 +1,26 @@
 ---
 category: news
-title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
-excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
-publishedDateTime: 2021-07-20T15:50:00Z
-originalUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
-webUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
+title: "One Technologies to provide Microsoft cloud services to Cal"
+excerpt: "Cal has 3.5 million customers and provides services to tens of thousands of businesses. The company says that it chose U-BTech out of a need to concentrate all Microsoft services in the hands of one provider."
+publishedDateTime: 2021-08-10T07:30:00Z
+originalUrl: "https://en.globes.co.il/en/article-One-Technologies-unit-to-provide-Microsoft-cloud-services-to-Cal-1001381159"
+webUrl: "https://en.globes.co.il/en/article-One-Technologies-unit-to-provide-Microsoft-cloud-services-to-Cal-1001381159"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: IT Business Edge
-  domain: itbusinessedge.com
+  name: globes.co.il
+  domain: globes.co.il
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
-    width: 600
-    height: 400
+  - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/ADCFC9C7D25EE979744FF29E8DF2A428_800x392.20180524T153335.jpg"
+    width: 800
+    height: 392
     isCached: true
 
 related:
@@ -72,19 +72,19 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "One Technologies to provide Microsoft cloud services to Cal"
-    excerpt: "Cal has 3.5 million customers and provides services to tens of thousands of businesses. The company says that it chose U-BTech out of a need to concentrate all Microsoft services in the hands of one provider."
-    publishedDateTime: 2021-08-10T07:30:00Z
-    webUrl: "https://en.globes.co.il/en/article-One-Technologies-unit-to-provide-Microsoft-cloud-services-to-Cal-1001381159"
+  - title: "ServiceNow Lends Support to Microsoft Cloud PC Initiative"
+    excerpt: "IT teams that have adopted the ServiceNow ITSM platform will be able to provide support to users of Windows 365 via the Microsoft Teams collaboration service."
+    publishedDateTime: 2021-07-20T15:50:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/servicenow-lends-support-to-microsoft-cloud-pc-initiative/"
     type: article
     provider:
-      name: globes.co.il
-      domain: globes.co.il
+      name: IT Business Edge
+      domain: itbusinessedge.com
     quality: 22
     images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/ADCFC9C7D25EE979744FF29E8DF2A428_800x392.20180524T153335.jpg"
-        width: 800
-        height: 392
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/07/Microsoft-Teams-2.jpeg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
@@ -126,6 +126,6 @@ related:
       domain: business-standard.com
     quality: 13
 
-secured: "2d2Hk8OLdBKVPNBwEEp0+LZ7T+OVaJrSOlYCZ8mOsYX25QKYeEAoL0YlVW+sjmx4IFacaWWrWQh9WMzvMoM/qu/YoesPuOKH79YV5/LAw7Vpe8CQHEcXiujpBZTuwa2dX1/F+zG061/3/U64sZQiKAsbX41ismBgKkrkiwLU6BGXjCROop4Wsx0PAmRtor7wTQIOYZuhIZmotgQnatIfj6IgbnqvsS6JqaPw+k7ADRrG6eLGr7vPXWlOcUKH9YJvX9ZZgLreKYF8QBRxz96eYwOaqpi7XIncVrOlJazE7rVdTFYQGzpkHohgQhCrAzfynxTABDIUSwN18unIeim65AGEpSzlGPSFqaJk4MY0vC14f5PT3dhfnxG2/Bc+lyf/VxHTxNR+/nN3HPL1lV/3JGIXbKsbED88WFFzjKQGilpfK6pDScABzZGJnf0jj9EX0KP2stfCVZcTWFusOLxXPKLG+CaXzakeW2JRQE7r7JCg1nYm3yG3tmlxwSHN5KpNvotnkXCBYyxH5g2+YBGj+w==;cVxRAm4+mmwC8oOk+7Yv8Q=="
+secured: "fjIAmVgtrukAwbi5XUWSWSlBRzRvfLC2yG9gwredczt4lqfLBrYdr2aRjD2pY+kdTEsHXnBXEMgKsVommirzVIknvJU2fe0Ngs+PU5qYewLVyic3KbkGRnXdIPZe+PB+mxSs+13D+7ZV8JUAyzKeCMoDrzi58S/Eykux1vrQ/f/nJWHNGXsGwG4zmwJ10Js5ueHOXxRqFMQ9/eSVwM5UZQvz8cwm6Jbyl5OGzUxw8tntan1Xj/f79qaGSlu9GID+jvX2SoVMuCTcmrBoWY7PTQUoSzV3Eqy7Wqs2h4dTGBLsXjkoR2wzuni8TZY21UYnYmrNEX8cCs94mpf/ruRfikHneBxcnct9agen7CwjJ7o=;1XI/hbnjKuTThYpi/yLVrA=="
 ---
 

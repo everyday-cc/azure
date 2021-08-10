@@ -86,6 +86,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "One Technologies to provide Microsoft cloud services to Cal"
+    excerpt: "Cal has 3.5 million customers and provides services to tens of thousands of businesses. The company says that it chose U-BTech out of a need to concentrate all Microsoft services in the hands of one provider."
+    publishedDateTime: 2021-08-10T07:30:00Z
+    webUrl: "https://en.globes.co.il/en/article-One-Technologies-unit-to-provide-Microsoft-cloud-services-to-Cal-1001381159"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 22
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/ADCFC9C7D25EE979744FF29E8DF2A428_800x392.20180524T153335.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "AT&T: Microsoft cloud deal covers the Edge and network stack, not core network function"
     excerpt: "AT&T has clarified its partnership with Microsoft, emphasizing that it still controls the core of its network. The two companies entered into an expansive partnership in June, with Microsoft acquiring AT&T's Network Cloud division,"
     publishedDateTime: 2021-07-26T13:15:00Z

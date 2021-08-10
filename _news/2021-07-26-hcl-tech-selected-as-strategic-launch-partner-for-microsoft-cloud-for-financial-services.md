@@ -82,6 +82,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "One Technologies to provide Microsoft cloud services to Cal"
+    excerpt: "Cal has 3.5 million customers and provides services to tens of thousands of businesses. The company says that it chose U-BTech out of a need to concentrate all Microsoft services in the hands of one provider."
+    publishedDateTime: 2021-08-10T07:30:00Z
+    webUrl: "https://en.globes.co.il/en/article-One-Technologies-unit-to-provide-Microsoft-cloud-services-to-Cal-1001381159"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 22
+    images:
+      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/ADCFC9C7D25EE979744FF29E8DF2A428_800x392.20180524T153335.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "Amazon Web Services officially launches healthcare cloud program, following lead of Google Cloud and Microsoft Azure"
     excerpt: "Amazon Web Services last week unveiled its official suite of services and partner program for healthcare and life sciences companies, following the likes of Microsoft Azure and Google Cloud last year."
     publishedDateTime: 2021-07-20T08:11:00Z
