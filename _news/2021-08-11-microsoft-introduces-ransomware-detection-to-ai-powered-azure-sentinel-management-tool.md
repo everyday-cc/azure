@@ -1,39 +1,32 @@
 ---
 category: news
-title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
-excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Polic"
-publishedDateTime: 2021-08-09T16:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210809005179/en/London’s-Metropolitan-Police-Selects-Magnet-Forensics-Microsoft-Azure-to-Power-Transformation-of-Digital-Forensic-Evidence-Review"
-webUrl: "https://www.businesswire.com/news/home/20210809005179/en/London’s-Metropolitan-Police-Selects-Magnet-Forensics-Microsoft-Azure-to-Power-Transformation-of-Digital-Forensic-Evidence-Review"
+title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
+excerpt: "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud."
+publishedDateTime: 2021-08-10T18:48:00Z
+originalUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+webUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
 type: article
-quality: 0
-heat: -1
-published: false
+quality: 66
+heat: 146
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: HotHardware
+  domain: hothardware.com
 
 topics:
   - Azure
+  - AI
+
+images:
+  - url: "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg"
+    width: 708
+    height: 399
+    isCached: true
 
 related:
-  - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
-    excerpt: "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud."
-    publishedDateTime: 2021-08-10T18:48:00Z
-    webUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-    ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 66
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg"
-        width: 708
-        height: 399
-        isCached: true
   - title: "CarePoint Health Achieves Operational Simplicity with Rubrik Cloud Data Management and Microsoft Azure"
     excerpt: "CarePoint Health combines the resources of three area hospitals, Bayonne Medical Center, Christ Hospital in Jersey City, and Hoboken University Medical Center, to provide 360 degree coordinated care delivered by the area’s most dedicated doctors, nurses ..."
     publishedDateTime: 2021-08-06T15:54:00Z
@@ -73,7 +66,16 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
+  - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
+    excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Polic"
+    publishedDateTime: 2021-08-09T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210809005179/en/London’s-Metropolitan-Police-Selects-Magnet-Forensics-Microsoft-Azure-to-Power-Transformation-of-Digital-Forensic-Evidence-Review"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "VUkVSSKbQlupnAn8OnnjD3NPr0+1zpfllDwApTNvQ6Lin6zDlYbIKdr940c2DIlcEQ3ioTjIwnJbYU51ry+LdMCk7rElE1B8mrxwRrhOrlSjbp8GqUp8TNPAdlDKyGaEUREUsApgmyIbUBFm0kuLIIH+1YAi979hXWWxtAk0cN90y5/zQwTY5Ob/3mQqM0JVs+75y/eRGnqcW08fofsW6dfJPbnVEBV4DjdFK99ooNsOR/6diFwLIOSh7EzWtAFVAI91lXTgTwii/AdRaznGk6BCq8I+9kLq0Azfgo/LRobwNxMdICx6GBGXhDzCrI5mC84ZSeh8QNOcBLsNwOgxDFX57FAzPYQOZwhLznuF2tg=;c0B8Lt5GFPvDQ7gCVOBePQ=="
+secured: "1lvycEwx+0VwjC08sPYXFLPY0Gzziu1ctgHxPuah2MORSXMrTWlbIYvAiC3iCJrWjtAkHb8bPuB/6ojlsjBeTb761fW2wAQzSHkX/Ss2p0WYUm8a+WmMIj5DxdhILPEQj7aM2+5DihE8onB+HTihYdFe+0Z6RXaAzK94bROTrMPkhnA1pSbxTERoFB8oYpzLdcCqL9L4IkvORkB5xmV1HiKfn0zL7dJcXeC97SRkrHudmlodqlVx3yw0S5r2WLV37XVtEnjE0xbKoOz8C1Yhxvhx+8IH8Ze1oldqSCnhNDqEhgzrJA5Pc++3O6rXgT28TB7ZqxjIl42V/C1yCAAY5t0Ne+hgzmRC/V5K12SQ2mU=;hfL00hCcZfo6BqCqryKzbg=="
 ---
 

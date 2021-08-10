@@ -18,6 +18,22 @@ topics:
   - Azure
 
 related:
+  - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
+    excerpt: "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud."
+    publishedDateTime: 2021-08-10T18:48:00Z
+    webUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 66
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg"
+        width: 708
+        height: 399
+        isCached: true
   - title: "CarePoint Health Achieves Operational Simplicity with Rubrik Cloud Data Management and Microsoft Azure"
     excerpt: "CarePoint Health combines the resources of three area hospitals, Bayonne Medical Center, Christ Hospital in Jersey City, and Hoboken University Medical Center, to provide 360 degree coordinated care delivered by the area’s most dedicated doctors, nurses ..."
     publishedDateTime: 2021-08-06T15:54:00Z
@@ -48,6 +64,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
+    excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Polic"
+    publishedDateTime: 2021-08-09T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210809005179/en/London’s-Metropolitan-Police-Selects-Magnet-Forensics-Microsoft-Azure-to-Power-Transformation-of-Digital-Forensic-Evidence-Review"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "7tE8zf1Q2HghHA6L9tHCnKiNW4Kxzdusoh+v4/vvbwVS6foxSbHCDpQi6o4Xj1uQXEb0bFpW+d6z5yJ2UlPZL2xzjiBM6hc5OanOIgaRKRGDpC/ZMuwvJvZzeMI8S0AVb1pcaEZAosYq9Xct8Cg34kBr0hX1ZBhs9oQczdUJQB4a/FEL05DxmiayS6/iiVpPB9iqSe/utrcMK0UbkCRyuwNMRZxmnnFRAaUi3OvkaWTPsVcEXfx5XvxB7JbmXTd5wwEqUnB7NU8PqpiqD4M1uRN65oUHynsxacYDiwClwgpPeecfeWiqBw5giYW1f+vibMmFxYGDO60GCoONUzKkvN9FVtachpGXiSXvkIXiYX0=;MYIlroR+FUm0jPeBwAzAmQ=="
 ---
