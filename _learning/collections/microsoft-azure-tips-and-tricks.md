@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 102
+heat: 114
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-use-azure-service-bus-topics-azure-tips-and-tricks
   - videos/microsoft-how-to-use-azure-service-bus-queues-azure-tips-and-tricks
   - videos/microsoft-how-to-use-flexible-server-in-azure-database-for-mysql-azure-tips-and-tricks
   - videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks
@@ -184,7 +185,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/ZV4gjVVhee0/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/kfjUSibSico/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
