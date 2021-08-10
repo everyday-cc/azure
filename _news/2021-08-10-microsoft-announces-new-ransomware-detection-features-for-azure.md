@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-excerpt: "It combines the power of Conversa audio processing in Microsoft Azure and Microsoft AI, with seamless support of both cloud and premise-based telephony aligned with frictionless zero touch ..."
-publishedDateTime: 2020-11-20T13:04:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51302890-red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51302890-red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-008.htm"
+title: "Microsoft announces new ransomware detection features for Azure"
+excerpt: "The Fusion detection for ransomware correlates alerts that are potentially associated with ransomware activities."
+publishedDateTime: 2021-08-10T00:22:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+webUrl: "https://www.zdnet.com/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
 type: article
-quality: 29
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - AI
 
 related:
   - title: "Microsoft Azure inherits new VPN features"
@@ -101,17 +106,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft announces new ransomware detection features for Azure"
-    excerpt: "The Fusion detection for ransomware correlates alerts that are potentially associated with ransomware activities."
-    publishedDateTime: 2021-08-10T00:22:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
   - title: "Achieving 100 percent renewable energy with 24/7 monitoring in Microsoft Sweden"
     excerpt: "Today, we are announcing that Microsoft will be the first hyperscale cloud provider to track hourly energy consumption and renewable energy matching in a commercial product using the Vattenfall 24/7 Matching solution for our new datacenter regions in Sweden, which will be available in 2021. "
     publishedDateTime: 2020-11-24T03:10:32Z
@@ -558,6 +552,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
+    excerpt: "It combines the power of Conversa audio processing in Microsoft Azure and Microsoft AI, with seamless support of both cloud and premise-based telephony aligned with frictionless zero touch ..."
+    publishedDateTime: 2020-11-20T13:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51302890-red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 29
   - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
     excerpt: "SAN FRANCISCO, Nov. 25, 2020 /PRNewswire/ -- Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program ..."
     publishedDateTime: 2020-11-25T00:00:00Z
@@ -704,6 +707,6 @@ related:
         height: 512
         isCached: true
 
-secured: "TlA7Go+fx//C+MhaC0s0OPOyTY3QfFOYqlb1T7Dl+WlaseRnz2lyX5Jn79IrKftshtpZo/n0J012TuzFhTTQc304e/9V6hGEDBWSUYkn1IVIHw8O+U8kpi2t+5HmfRx7ROth0ZY+7KswJQd6PZBMEx2kuksApyT6KXj8t/09ZfjAJCFnvjQFbq4pNyp8HyMQQfAmMK/GbpbUSnguKX3T2EBmsolBz4dtBGXjzm0FcTQYcuX5B+Rgb43biCxVPq4gNxGQCBI/MIQ2ymNBI7aoyLp+CRw9RV2AUd8uS+j6yz7SUnGw7FV29KFVg5V25iRumKve1Mzkng1ZwlKsK8505FDeiwXxUEsvGCMzCNJTa/U=;Ls9SWrPMMWSpVeV40qdW4g=="
+secured: "lRCe+Y43sEiLUWmVfKz5IEUEbchUCq20pLk9Cxh7xZyYoZTCEwiU/oZAu5GM5i/VKAjnP1gVSUom/7G45TTaBLhDdtm59RxcePEUvuu9+vDTIs1eUNUhdpaQv+c6+B0r0op4A6GY89idwjT2m6d+sN3tDnGox2rg4jTMaoXg1n6Qu1vsZAlrt2Mqk8plyjaUa8UGkXbAVY2Nrjhyam42MBPh9fi4CTbQMmwYABuY7gJLMRQQlFp3s6L/djDIiA7qcFiiZAl9Yd0HEUaYgx+v5OOZMLuksQ6HcaksqGxBrJJxfbwHhaJNvhJ9sOQGrZpSyfUQQJESQwphaRyA5G7aM191JOBH06l4aWCKRqH7o8Y=;eti95JZYxqHfdutdqsfnJQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
 type: article
 quality: 97
-heat: 1117
+heat: 1137
 published: true
 
 provider:
@@ -96,6 +96,17 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft announces new ransomware detection features for Azure"
+    excerpt: "The Fusion detection for ransomware correlates alerts that are potentially associated with ransomware activities."
+    publishedDateTime: 2021-08-10T00:22:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "Achieving 100 percent renewable energy with 24/7 monitoring in Microsoft Sweden"
     excerpt: "Today, we are announcing that Microsoft will be the first hyperscale cloud provider to track hourly energy consumption and renewable energy matching in a commercial product using the Vattenfall 24/7 Matching solution for our new datacenter regions in Sweden, which will be available in 2021. "
     publishedDateTime: 2020-11-24T03:10:32Z

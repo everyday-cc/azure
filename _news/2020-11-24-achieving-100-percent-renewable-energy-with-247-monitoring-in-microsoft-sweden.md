@@ -112,6 +112,17 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft announces new ransomware detection features for Azure"
+    excerpt: "The Fusion detection for ransomware correlates alerts that are potentially associated with ransomware activities."
+    publishedDateTime: 2021-08-10T00:22:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "How Microsoft Azure will play a crucial role in PUBG Mobile's India comeback"
     excerpt: "Microsoft Azure will be helping PUBG Mobile win a one-way-ticket back to India. With secure server hosting, players won't have to worry about their user data security and a repeated PUBG Mobile ban. The inevitable return of PUBG Mobile in India has sparked a lot of commotion amongst the community,"
     publishedDateTime: 2020-11-20T19:10:00Z
