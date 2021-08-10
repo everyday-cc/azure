@@ -33,6 +33,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Public Preview: Steeltoe .NET Application Support in Azure Spring Cloud"
+    excerpt: "Develop and release applications faster with Steeltoe .NET application support in Azure Spring Cloud."
+    publishedDateTime: 2020-09-22T16:05:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-steeltoe-net-application-support-in-azure-spring-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "So/BYuMjzYTSUaKMyxWGsyiGaqU3uGqwcvEXvJdtl2FdoOMn2bJPOzgCu5CuRZNy9uRYurIHnDHBnMa8wRFGlL+WbIeH8ZO+lL+Mh14MzgubF3tssalRtmIxDTGsOzUEeQlR3mlwu2wl+BthjQVzXCAFtjDLRMN57PmaLWT17WqSPBi8s7p1IjQP+d0R1vA+ZTJEjFdLpT1YD78ND/tmA88TSRRVt6LdN2UjdfmoqkAIc3KuBmge2337DTU027hZrb3CtPuNQ0Z0jdMdmnRjyhA/07vqlJegRytojLiPWN5w7FE3sdqsBOwhixifOtOoy8dAsYbaVQBFQiDfzFDk8rsncrnoub3DggeFa6E8SwM=;D0JrKv2NF40bNhuDrZR56w=="
 ---

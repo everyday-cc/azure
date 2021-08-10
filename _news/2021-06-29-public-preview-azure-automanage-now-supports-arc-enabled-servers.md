@@ -22,10 +22,10 @@ topics:
   - Azure
 
 related:
-  - title: "Limited Preview: New Azure VMs for confidential workloads"
-    excerpt: "New DCsv3 and DCdsv3-series Azure Virtual Machines transform the state-of-the-art for confidential workloads"
-    publishedDateTime: 2021-06-29T17:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-confidential-virtual-machines-sgx/"
+  - title: "Public preview: App Service Managed Certificates now supports apex domains"
+    excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
+    publishedDateTime: 2021-03-17T16:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/"
     type: article
     provider:
       name: Microsoft

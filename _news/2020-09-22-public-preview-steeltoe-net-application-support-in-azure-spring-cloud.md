@@ -22,96 +22,29 @@ topics:
   - Azure
 
 related:
-  - title: "Public Preview: Azure App Service Migration Assistant - Java Tomcat Support"
-    excerpt: "You can now migrate your Java Tomcat web apps to Azure using the Azure App Service Migration Assistant tool."
-    publishedDateTime: 2020-09-22T16:05:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-java-tomcat-support/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Public preview: Azure App Service Migration Assistant PowerShell-based experience "
-    excerpt: "The PowerShell-based experience for the Azure App Service Migration Assistant is now in public preview."
-    publishedDateTime: 2021-07-21T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-powershellbased-experience/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 95
-  - title: "New Azure Orbital, ground station as a service, now in preview"
-    excerpt: "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to schedule contacts with your spacecrafts or satellites and directly ingest data in Azure using Orbital ground stations."
-    publishedDateTime: 2020-09-22T16:05:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-orbital-ground-station-as-a-service-now-in-preview/"
+  - title: "Blazor and C# APIs now supported in Azure Static Web Apps "
+    excerpt: "Developers can now build and publish applications built entirely in .NET with Static Web Apps using Blazor WebAssembly and C# API's."
+    publishedDateTime: 2020-09-22T16:05:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/blazor-and-c-sharp-apis-now-supported-in-azure-static-web-apps/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Preview: Azure Load Balancer now supports cross-region load balancing"
-    excerpt: "Azure Load Balancer now supports load balancing across regions based on health and latency."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/preview-azure-load-balancer-now-supports-crossregion-load-balancing/"
+  - title: "New for Blazor: Azure Static Web Apps Support"
+    excerpt: "With Blazor taking the .NET web development world by storm, one of the first announcements during Microsoft's Ignite 2020 developer/IT event was its new support in Azure Static Web Apps. Blazor, of course, allows for C#-based web development (instead of ..."
+    publishedDateTime: 2020-09-22T17:28:00Z
+    webUrl: "https://visualstudiomagazine.com/Articles/2020/09/22/blazor-static-web-apps.aspx?p=1"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public Preview: JBoss EAP on Azure App Service"
-    excerpt: "A managed JBoss Enterprise Application Platform (EAP) experience is now available in Public Preview on Azure App Service. Deploy your Web Application Archive (WAR) and Enterprise Application Archive (EAR) apps to a PaaS for Java EE apps."
-    publishedDateTime: 2020-10-14T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-jboss-eap-on-azure-app-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Azure Monitor Scheduled Query Rules API 2021-02-01-preview "
-    excerpt: "Scheduled Query Rules API version 2021-02-01-preview is now available and is replacing API version 2020-05-01-preview."
-    publishedDateTime: 2021-08-04T16:03:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-scheduled-query-rules-api-version-20210201preview-and-deprecation-of-api-version-20200501preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
-  - title: "Public preview: AKS start/stop cluster feature"
-    excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
-    publishedDateTime: 2020-09-22T16:05:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-startstop-cluster-feature/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "Public preview: App Service Managed Certificates now supports apex domains"
-    excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
-    publishedDateTime: 2021-03-17T16:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Azure Service Bus support for large messages"
-    excerpt: "You can now send and receive message payloads of up to 100MB in Azure Service Bus premium tier namespaces."
-    publishedDateTime: 2021-07-14T21:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-support-for-large-messages/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Service Bus support for large message payloads"
-    excerpt: "Customers can now send data payloads up to 100 MB is Service Bus Premium."
-    publishedDateTime: 2021-01-21T17:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-bus-support-for-large-message-payloads/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 37
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueSpeedLinesSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "1Q2u49GxlSAzeEWC050NVZeNwcncFGprdetfeIvdKxukE6xOObvS0SxoBpw0YXREbIlS6OdHIgL/CMiaXdg23Nve5ZLu2M1h8eQTMT05tSsN50/+Anhd9LErr7NBcx5Hi0Fy+OZ1oDy2zw6ZzgntF3jjnOuSvK66A4hElzzZ3ltZGBtVXdtrqwkBR9ztEFUirtQlm7WujDhVGlIhXN9Y7WADZmuuxaPQSS2LkvSaliz6J7uAmVaXJFyIz8/uop6L7h4CaKPD2osa7B+4lyC1v3Wovd7dLu6XkQ4vFE19HfKCTXtczI65/PU5H6dgwOSxKLipWR36Qx+7QMJGGXULIzFAaomBI0g+XyGYExuQAuI=;cmaJcSz9sRZW4zEBn0NS7g=="
 ---

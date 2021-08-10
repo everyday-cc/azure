@@ -22,24 +22,56 @@ topics:
   - Azure
 
 related:
-  - title: "Call recording for Azure Communication Services coming soon"
-    excerpt: "Call recording for Azure Communication Services helps to simplify and improve the recording process during calls. "
-    publishedDateTime: 2021-06-14T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/call-recording-for-azure-communication-services-coming-soon/"
+  - title: "Public preview: Azure App Service Migration Assistant PowerShell-based experience "
+    excerpt: "The PowerShell-based experience for the Azure App Service Migration Assistant is now in public preview."
+    publishedDateTime: 2021-07-21T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-powershellbased-experience/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Direct routing for Azure Communication Services coming soon"
-    excerpt: "Developers will be able to use or extend their existing telephony infrastructure to the calling capabilities they build with Azure Communication Services. "
-    publishedDateTime: 2021-06-14T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/direct-routing-for-azure-communication-services-coming-soon/"
+    quality: 95
+  - title: "Public preview: IoT Edge Metrics Collector module 1.0.1 release"
+    excerpt: "This update provides security and reliability improvements, and support for government and regional clouds."
+    publishedDateTime: 2021-07-19T16:51:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge-metrics-collector-module-101-release/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 69
+  - title: "Public preview: Azure Virtual Desktop is now available in the Azure China cloud "
+    excerpt: "Get started today with Azure Virtual Desktop in public preview in Azure China cloud. Deploy and scale Windows desktops and apps on Azure in minutes."
+    publishedDateTime: 2021-07-26T23:31:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-desktop-is-now-available-in-the-azure-china-cloud-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
+  - title: "Public preview: New Application Insights standard test for synthetic monitoring"
+    excerpt: "Azure Monitor Application Insights is introducing a new availability test to handle most of your single request test scenarios."
+    publishedDateTime: 2021-07-14T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-new-application-insights-standard-test-for-synthetic-monitoring/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 48
+  - title: "Preview: Create a Windows VM with Azure Image Builder using PowerShell"
+    excerpt: "Certain features might not be supported or might have constrained capabilities. For more information, see Supplemental Terms of Use for Microsoft Azure Previews. If you don't have an Azure subscription, create a free account before you begin. If you choose ..."
+    publishedDateTime: 2020-06-17T05:00:00Z
+    webUrl: "https://docs.microsoft.com/en-us/azure/virtual-machines/windows/image-builder-powershell"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "frn5EuqofqAFn7FMaZJZsKkmmnQCIol9BLUDgK0V7ZctA6jRfOhN9IlwkEKCuPUfwDwLkOH1NX/aFw2/kTFx2Sr9UdRbuDwDJW7mMP9Me0hkwYAb8GBCcN4KzLTk3cpOc02pXq1ktgECyS5U4p09vZZZqOcHVnLfyHwRl5Ij8C1VwQkj2zSpiPvytHd8BnsyB5tTRzdkSnRTlHB2GgfW43CiYSxf1JxWx/cXrJiklFKsj8Pen9zzbWgN3T7C0tf+3U8GavFuiZwLTgHj9bCpwrLjH/tlJyctswfBYO5ZZr/PnSebFZUL9VhyQnP8Z2TUwGnzVCzpcRHkePApj5+mwxxoXoZ7Vq+GmOuS+C2/cE8=;5UW7KVQ0ycW2gUKcDBwemQ=="
 ---

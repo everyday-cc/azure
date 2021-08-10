@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-powershellbased-experience/"
 type: article
 quality: 95
-heat: -1
-published: false
+heat: 195
+published: true
 
 provider:
   name: Microsoft
@@ -24,96 +24,56 @@ topics:
   - Migration
 
 related:
-  - title: "Public Preview: Azure App Service Migration Assistant - Java Tomcat Support"
-    excerpt: "You can now migrate your Java Tomcat web apps to Azure using the Azure App Service Migration Assistant tool."
-    publishedDateTime: 2020-09-22T16:05:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-java-tomcat-support/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "New Azure Orbital, ground station as a service, now in preview"
-    excerpt: "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to schedule contacts with your spacecrafts or satellites and directly ingest data in Azure using Orbital ground stations."
-    publishedDateTime: 2020-09-22T16:05:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-orbital-ground-station-as-a-service-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Preview: Azure Load Balancer now supports cross-region load balancing"
-    excerpt: "Azure Load Balancer now supports load balancing across regions based on health and latency."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/preview-azure-load-balancer-now-supports-crossregion-load-balancing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public Preview: JBoss EAP on Azure App Service"
-    excerpt: "A managed JBoss Enterprise Application Platform (EAP) experience is now available in Public Preview on Azure App Service. Deploy your Web Application Archive (WAR) and Enterprise Application Archive (EAR) apps to a PaaS for Java EE apps."
-    publishedDateTime: 2020-10-14T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-jboss-eap-on-azure-app-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Azure Monitor Scheduled Query Rules API 2021-02-01-preview "
-    excerpt: "Scheduled Query Rules API version 2021-02-01-preview is now available and is replacing API version 2020-05-01-preview."
-    publishedDateTime: 2021-08-04T16:03:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-scheduled-query-rules-api-version-20210201preview-and-deprecation-of-api-version-20200501preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
-  - title: "Public preview: AKS start/stop cluster feature"
-    excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
-    publishedDateTime: 2020-09-22T16:05:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-startstop-cluster-feature/"
+  - title: "Public preview: IoT Edge Metrics Collector module 1.0.1 release"
+    excerpt: "This update provides security and reliability improvements, and support for government and regional clouds."
+    publishedDateTime: 2021-07-19T16:51:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge-metrics-collector-module-101-release/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Public Preview: Steeltoe .NET Application Support in Azure Spring Cloud"
-    excerpt: "Develop and release applications faster with Steeltoe .NET application support in Azure Spring Cloud."
-    publishedDateTime: 2020-09-22T16:05:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-steeltoe-net-application-support-in-azure-spring-cloud/"
+  - title: "Call recording in public preview for Azure Communication Services "
+    excerpt: "Call recording for Azure Communication Services helps to simplify and improve the recording process during calls. "
+    publishedDateTime: 2021-07-14T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/call-recording-in-public-preview-for-azure-communication-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: App Service Managed Certificates now supports apex domains"
-    excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
-    publishedDateTime: 2021-03-17T16:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/"
+  - title: "Public preview: Azure Virtual Desktop is now available in the Azure China cloud "
+    excerpt: "Get started today with Azure Virtual Desktop in public preview in Azure China cloud. Deploy and scale Windows desktops and apps on Azure in minutes."
+    publishedDateTime: 2021-07-26T23:31:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-desktop-is-now-available-in-the-azure-china-cloud-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Azure Service Bus support for large messages"
-    excerpt: "You can now send and receive message payloads of up to 100MB in Azure Service Bus premium tier namespaces."
-    publishedDateTime: 2021-07-14T21:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-support-for-large-messages/"
+    quality: 62
+  - title: "Public preview: New Application Insights standard test for synthetic monitoring"
+    excerpt: "Azure Monitor Application Insights is introducing a new availability test to handle most of your single request test scenarios."
+    publishedDateTime: 2021-07-14T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-new-application-insights-standard-test-for-synthetic-monitoring/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Service Bus support for large message payloads"
-    excerpt: "Customers can now send data payloads up to 100 MB is Service Bus Premium."
-    publishedDateTime: 2021-01-21T17:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-bus-support-for-large-message-payloads/"
+    quality: 48
+  - title: "Preview: Create a Windows VM with Azure Image Builder using PowerShell"
+    excerpt: "Certain features might not be supported or might have constrained capabilities. For more information, see Supplemental Terms of Use for Microsoft Azure Previews. If you don't have an Azure subscription, create a free account before you begin. If you choose ..."
+    publishedDateTime: 2020-06-17T05:00:00Z
+    webUrl: "https://docs.microsoft.com/en-us/azure/virtual-machines/windows/image-builder-powershell"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "wCkKaLwFA+c0Y8z1pv2xyoKNbFxX7dZ8v1wjETsRb+c/AE0whmca5UWSk8nqq96kBmf9ENpFPEV5PmYDEeg87m3lkfg8nm3DcF16kY8zMzqPs3EP8WFChH7EA0ig5jsTJPom7XgdSLxu+s0TySW4jPz08ZMLE4FeIEJsSTYQezx/YMHREiJyi+mMGDLL4Duh+8/475kKajYSybrsMJHc0KAo3x2uak2PVIqeMoQWS+mVLWv3llt4WeqfqWgZR5GMY8AzKsIbLtczkeIj1mAKXudnHAKgiXFDvJTwIgNNNfSDePZ6Va7a+boYNWDF/kFQR8r8D9yIvukOMLywiDjpXxyhTZBqvz/CZbPb8qtdGoQ=;sI9pyNb7/1VtligH2vNjVA=="
 ---

@@ -127,15 +127,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Public preview: Export Azure Monitor logs to multiple destinations"
-    excerpt: "Logs export can be separated between multiple destinations to overcome destination rate limit and to maintain access control in destinations."
-    publishedDateTime: 2021-05-25T16:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-export-azure-monitor-logs-to-multiple-destinations/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Public preview: Announcing Azure Synapse Link for Dataverse"
     excerpt: "Power your business applications data with analytical and predictive insights."
     publishedDateTime: 2021-05-26T16:00:00Z
@@ -199,15 +190,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
-  - title: "Public preview: Easily onboard Application Insights for Java apps on Azure App Services"
-    excerpt: "Customers writing Java apps on Azure App Services can now onboard to application insights for application monitoring, without making any code changes. App Service Linux, both code-based and custom containers, and App Service Windows code-based are supported. "
-    publishedDateTime: 2021-05-25T16:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-easily-onboard-application-insights-for-java-apps-on-azure-app-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
   - title: "Public preview: Cluster auto-upgrade now respects planned maintenance windows "
     excerpt: "Use cluster auto-upgrade feature while minimizing interruptions. "
     publishedDateTime: 2021-05-25T16:00:23Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcin
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-synapse-pathway-accelerate-your-data-warehouse-migration/"
 type: article
 quality: 91
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - Migration
 
 related:
-  - title: "Public preview: Containerize and migrate apps to Azure Kubernetes Service with Azure Migrate: App Containerization "
-    excerpt: "The new app containerization feature will allow you to migrate your applications to containers on AKS. "
-    publishedDateTime: 2021-03-02T17:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-containerize-and-migrate-apps-to-azure-kubernetes-service-with-azure-migrate-app-containerization/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 79
   - title: "Public preview: Automatic key rotation of customer-managed keys for encrypting Azure managed disks"
     excerpt: "Azure Disk Storage now enables you to automatically update keys for encryption of your data. "
     publishedDateTime: 2021-03-02T17:00:11Z

@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
-  - title: "Public preview: Azure Virtual Desktop is now available in the Azure China cloud "
-    excerpt: "Get started today with Azure Virtual Desktop in public preview in Azure China cloud. Deploy and scale Windows desktops and apps on Azure in minutes."
-    publishedDateTime: 2021-07-26T23:31:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-desktop-is-now-available-in-the-azure-china-cloud-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
 
 secured: "AcTd4eWopWaYZaRFUUIrT3E9GXOzku76qDCke6BAI2/e4EpNs0QW4fZdHP1a3k/wbrSwiIGJhN5VndKTKgtXuzgwWwCGAFm4Zu2OtCkH+3Eaoth0CTJzkumA8FESaAle4vd7UqTvg0ZtoO8qtVIHCZg0yjiEpM3jpEDC2PN/VxR4pDvGB6qv9WaM2ZehO2l1ZaP4XfmesYg8QOr+i5s4QDrYLl/to542tbUhtOeT9NmDsdmHF8exY7WaSFyN7NvTezdu1Wv9sFUVv6lm5N9AqhGVlYsyhrLqHByQJ70HmY0Fq7KZUbjvx9/SslCrOL/2Jqq3FglquAA3SsJn5BwpGg==;FW+a0PILEJ9UYzBfqKRtEQ=="
 ---

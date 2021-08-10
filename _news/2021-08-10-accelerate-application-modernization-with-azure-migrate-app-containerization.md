@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Create AKS clusters without local user accounts "
-excerpt: "You can now disable local user accounts when creating Azure Active Directory integrated Azure Kubernetes Service clusters. "
-publishedDateTime: 2021-07-14T16:00:30Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-create-aks-clusters-without-local-user-accounts-2/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-create-aks-clusters-without-local-user-accounts-2/"
+title: "Accelerate application modernization with Azure Migrate: App Containerization"
+excerpt: "As organizations embark on cloud-centric business transformation to become more agile and operationally efficient, application modernization is fast becoming a cornerstone to realize these goals. In this blog, we will see how the Azure Migrate: App Containerization tool helps you accelerate application"
+publishedDateTime: 2021-08-10T09:00:05Z
+originalUrl: "https://azure.microsoft.com/blog/accelerate-application-modernization-with-azure-migrate-app-containerization/"
+webUrl: "https://azure.microsoft.com/blog/accelerate-application-modernization-with-azure-migrate-app-containerization/"
 type: article
-quality: 69
+quality: 101
 heat: -1
 published: false
 
@@ -20,7 +20,13 @@ provider:
 
 topics:
   - Azure
-  - Containers
+  - Migration
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d42a92ec-759a-42fc-9849-1eb8e681b2c0.jpg"
+    width: 1085
+    height: 570
+    isCached: true
 
 related:
   - title: "Public preview: Containerize apps and migrate to AKS and Azure App Service with Azure Migrate"
@@ -50,20 +56,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
-  - title: "Accelerate application modernization with Azure Migrate: App Containerization"
-    excerpt: "As organizations embark on cloud-centric business transformation to become more agile and operationally efficient, application modernization is fast becoming a cornerstone to realize these goals. In this blog, we will see how the Azure Migrate: App Containerization tool helps you accelerate application"
-    publishedDateTime: 2021-08-10T09:00:05Z
-    webUrl: "https://azure.microsoft.com/blog/accelerate-application-modernization-with-azure-migrate-app-containerization/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 101
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d42a92ec-759a-42fc-9849-1eb8e681b2c0.jpg"
-        width: 1085
-        height: 570
-        isCached: true
   - title: "Public Preview: Azure App Service Migration Assistant - Java Tomcat Support"
     excerpt: "You can now migrate your Java Tomcat web apps to Azure using the Azure App Service Migration Assistant tool."
     publishedDateTime: 2020-09-22T16:05:08Z
@@ -127,6 +119,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Public preview: Create AKS clusters without local user accounts "
+    excerpt: "You can now disable local user accounts when creating Azure Active Directory integrated Azure Kubernetes Service clusters. "
+    publishedDateTime: 2021-07-14T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-create-aks-clusters-without-local-user-accounts-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Public preview: Azure Resource Health support in AKS "
     excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
     publishedDateTime: 2020-08-17T23:01:22Z
@@ -155,6 +156,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "T1sMltcBd/pYjWaQY+BASt1Oj0jdulrrY7mqgVuXUTrnglScRmM5Kkepoxw3f68DHTAH1n6ixcQ2dhqS3yHsk7HnEv9L+snnMxVwAFLElt4H0UOsamuLED54kTRr/VvccjnhbB5L70ELG7XX948/Mk/8EWmw/YGQyNvXWWwC/4NxX/gB2w8NSLscL0a2ykU1hzvj9nAAotBSHvLqOpk6FjADygT3zuMCWltR4GXBi3bl8rt7vBA2AjBP0EP15lsoFJBjjnMM6T/R7rNdYUdl6cdcES1jnROqepfrAa4ag/RywgrIhLBX83r9PGnPm5j5vqPBtkJUQ27RfOl+y/IICb1h1sVukyrCRcHG3Xsk8eA=;CRPp3nd+It/zs7fnECQG/g=="
+secured: "GOGNLgRSSNROAE/dMbfbt0XNV7/tWvbTKRy2azSzz/kyecrXmebrC2gvPCSxV09fqpSOjennFOkJEMz9mtjLHV2ijMGys0E0uxN/wyCYCk2azrl0Nu6fvUc95yghw/PdNfnGY8tsTq4nJb+3KnO33b5b3jkaGnXg4PjX4LEPycQ01zi3r1k7kSW4WSTWxgsQzcxKGwjVX9YUqXbEWlThYbc2ntAPHVT7AAe59q2ULxXMZQKVoLDk+UaD7Hnj/szzirRjgXYNOFdb6nR59Vsjn/uE3USdGAp8cx6rwpo5nfOYEbYz412kT3RHle/VXKvx/ypOOxESGcFCgvJPhmrArUuTmI70tpftwFlKiytP9SM=;T9IcENvz2NmDc4VNRj6iaQ=="
 ---
 

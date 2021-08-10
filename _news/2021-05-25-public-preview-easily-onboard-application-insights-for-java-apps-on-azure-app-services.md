@@ -22,200 +22,137 @@ topics:
   - Azure
 
 related:
-  - title: "Public preview: Log Analytics workspace insights from Azure Monitor"
-    excerpt: "A new workbooks-based insights experience for all log analytics workspaces available per resource, and at scale."
-    publishedDateTime: 2021-05-25T16:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-log-analytics-workspace-insights-from-azure-monitor/"
+  - title: "Public preview: Containerize apps and migrate to AKS and Azure App Service with Azure Migrate"
+    excerpt: "Azure Migrate: App Containerization helps you containerize and migrate ASP.NET and Java web applications to Azure Kubernetes Service and Azure App Service.  "
+    publishedDateTime: 2021-08-10T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-containerize-apps-and-migrate-to-aks-and-azure-app-service-with-azure-migrate/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 107
+  - title: "dPublic preview: Event Grid integration with AKS"
+    excerpt: "Automate AKS operations by subscribing to events and handling them."
+    publishedDateTime: 2021-04-14T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 101
-  - title: "Public preview: Apache Spark 3.0 support in Azure Synapse Analytics"
-    excerpt: "The public preview announced today starts with the foundation based on the open-source Apache Spark 3.0 branch with subsequent updates leading up to a Generally Available version derived from the latest 3.1 branch."
-    publishedDateTime: 2021-05-25T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-apache-spark-30-support-in-azure-synapse-analytics/"
+  - title: "Public preview: Event Grid integration with AKS"
+    excerpt: "Automate AKS operations by subscribing to events and handling them."
+    publishedDateTime: 2021-07-14T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks-3/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
+  - title: "Accelerate application modernization with Azure Migrate: App Containerization"
+    excerpt: "As organizations embark on cloud-centric business transformation to become more agile and operationally efficient, application modernization is fast becoming a cornerstone to realize these goals. In this blog, we will see how the Azure Migrate: App Containerization tool helps you accelerate application"
+    publishedDateTime: 2021-08-10T09:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/accelerate-application-modernization-with-azure-migrate-app-containerization/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d42a92ec-759a-42fc-9849-1eb8e681b2c0.jpg"
+        width: 1085
+        height: 570
+        isCached: true
+  - title: "Public Preview: Azure App Service Migration Assistant - Java Tomcat Support"
+    excerpt: "You can now migrate your Java Tomcat web apps to Azure using the Azure App Service Migration Assistant tool."
+    publishedDateTime: 2020-09-22T16:05:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-java-tomcat-support/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Public preview: Azure Purview powered search in Azure Synapse Analytics workspaces"
-    excerpt: "Enable effortless discovery of trustworthy, valuable data with an Azure Purview powered search within Synapse Studio. "
-    publishedDateTime: 2021-03-02T17:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-powered-search-in-azure-synapse-analytics-workspaces/"
+  - title: "Public preview: Discovery and assessment for ASP.NET web apps with Azure Migrate "
+    excerpt: "Secure your connection to Azure Migrate services with Azure Migrate Private Link "
+    publishedDateTime: 2021-08-10T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-discovery-and-assessment-for-aspnet-web-apps-with-azure-migrate/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 93
-  - title: "Public preview: Azure Cognitive Services Text Analytics Adds Question Answering Feature"
-    excerpt: "The new, standard Question Answering feature provides users the capability to answer questions over a passage of text without having to create knowledgebases and manage additional storage"
-    publishedDateTime: 2021-05-25T16:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cognitive-services-text-analytics-adds-question-answering-feature/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 93
-  - title: "Private preview: NVIDIA GPU Acceleration for Apache Spark™ in Azure Synapse Analytics"
-    excerpt: "Beginning today, this GPU acceleration feature in Azure Synapse is available for private preview by request."
-    publishedDateTime: 2021-05-25T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-preview-nvidia-gpu-acceleration-for-apache-spark-in-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 92
-  - title: "Public preview: Save and share log analytics queries with new query packs in Azure Monitor"
-    excerpt: "Query packs are a new capability within log analytics intended to make creating, saving, managing, and discovering log analytics queries simpler and more efficient."
-    publishedDateTime: 2021-05-25T16:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-save-and-share-log-analytics-queries-with-new-query-packs-in-azure-monitor/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 91
-  - title: "Public preview: Announcing the new Power BI embedded analytics playground "
-    excerpt: "Check out the new Power BI embedded analytics playground (public preview). You can find in the new playground experiences for developer and non-developers to get first-hand experience of Power BI embedded analytics."
-    publishedDateTime: 2021-03-25T15:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/power-bi-embedded-analytics-playground-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b632147b-d3c8-411b-99a2-aab11a42ee3c.gif"
-        width: 1920
-        height: 1078
-        isCached: true
-  - title: "Public preview: Azure Log Analytics in UAE Central & Japan West"
-    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West."
-    publishedDateTime: 2021-01-21T17:03:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-uae-central-japan-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Azure Log Analytics in Australia Central 2 "
-    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2."
-    publishedDateTime: 2021-02-03T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-australia-central-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Azure Log Analytics in South India"
-    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in South India."
-    publishedDateTime: 2021-04-28T23:14:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-norway-west-south-india-france-south/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Azure Stream Analytics: 5 new regions are now generally available"
-    excerpt: "Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data that can be used to get insights, build reports, or trigger alerts and actions. The service is now available in 5 new regions."
-    publishedDateTime: 2021-05-18T17:56:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/2021regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Export Azure Monitor logs to multiple destinations"
-    excerpt: "Logs export can be separated between multiple destinations to overcome destination rate limit and to maintain access control in destinations."
-    publishedDateTime: 2021-05-25T16:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-export-azure-monitor-logs-to-multiple-destinations/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Announcing Azure Synapse Link for Dataverse"
-    excerpt: "Power your business applications data with analytical and predictive insights."
-    publishedDateTime: 2021-05-26T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-synapse-link-for-dataverse/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "General availability: Azure Log Analytics in South India"
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in South India. "
-    publishedDateTime: 2021-05-27T00:22:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-south-india/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public Preview: Azure Log Analytics in Brazil Southeast and Norway East "
-    excerpt: "Brazil Southeast and Norway East are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
-    publishedDateTime: 2020-10-28T16:45:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-brazil-south-east-and-norway-east/"
+    quality: 96
+  - title: "Public preview: AKS support for containerd for Windows server containers"
+    excerpt: "Benefit from enhanced pod creation speed and stability when creating Windows server containers in AKS."
+    publishedDateTime: 2021-05-25T16:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-containerd-for-windows-server-containers/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 83
-  - title: "Cost-optimized diagnostics feature for Azure Cosmos DB in public preview"
-    excerpt: "Improve ingestion latency, query performance, and discoverability by setting up resource-specific diagnostics in log analytics with Azure Cosmos DB cost-optimized diagnostics."
-    publishedDateTime: 2021-05-25T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/costoptimized-diagnostics-feature-for-azure-cosmos-db-in-public-preview/"
+  - title: "Public preview: Azure Monitor Scheduled Query Rules API 2021-02-01-preview "
+    excerpt: "Scheduled Query Rules API version 2021-02-01-preview is now available and is replacing API version 2020-05-01-preview."
+    publishedDateTime: 2021-08-04T16:03:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-scheduled-query-rules-api-version-20210201preview-and-deprecation-of-api-version-20200501preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 83
-  - title: "Public preview: Native support for WebSocket APIs in Azure API Management"
-    excerpt: "Azure API Management announces native support for WebSocket APIs."
-    publishedDateTime: 2021-05-25T16:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-native-support-for-websocket-apis-in-azure-api-management/"
+    quality: 82
+  - title: "Public preview: Containerize and migrate apps to Azure Kubernetes Service with Azure Migrate: App Containerization "
+    excerpt: "The new app containerization feature will allow you to migrate your applications to containers on AKS. "
+    publishedDateTime: 2021-03-02T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-containerize-and-migrate-apps-to-azure-kubernetes-service-with-azure-migrate-app-containerization/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 83
-  - title: "Public preview: Scan and view lineage of data stored in Hive Metastore Database using Azure Purview"
-    excerpt: "Azure Purview now supports automated scanning from a Hive Metastore Database to extract schema and lineage between data. "
-    publishedDateTime: 2021-05-25T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/scan-and-view-lineage-of-data-stored-in-hive-metastore-database-using-azure-purview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 70
-  - title: "A new version of Text Analytics is now in public preview"
-    excerpt: "Text Analytics new API version supports batch processing and healthcare scenarios."
-    publishedDateTime: 2020-11-19T17:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
+    quality: 79
+  - title: "Public preview: Automatic Cluster Upgrades in AKS"
+    excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
+    publishedDateTime: 2021-01-21T17:03:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-cluster-upgrades-in-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Public Preview: Azure Percept DK May (2105) software update is available"
-    excerpt: "Azure Percept DK May (2105) SW update is available. The Azure Percept May update includes improvements for example to security, log rotation fixes, and provisioning experience."
-    publishedDateTime: 2021-05-20T17:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/apdk2105update/"
+  - title: "Public preview: Calico Windows support in AKS"
+    excerpt: "Use Calico network policy with Windows Server on AKS."
+    publishedDateTime: 2021-03-02T17:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-calico-windows-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Public preview: Create AKS clusters without local user accounts "
+    excerpt: "You can now disable local user accounts when creating Azure Active Directory integrated Azure Kubernetes Service clusters. "
+    publishedDateTime: 2021-07-14T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-create-aks-clusters-without-local-user-accounts-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Public preview: Azure Resource Health support in AKS "
+    excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
+    publishedDateTime: 2020-08-17T23:01:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Public preview: Azure Percept DK July (2107) software update is available"
+    excerpt: "The Azure Percept July update includes fixes related to security, Wi-Fi/Network, and OOBE UI localization."
+    publishedDateTime: 2021-08-09T15:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/apdk2107update/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 66
-  - title: "Public preview: Cluster auto-upgrade now respects planned maintenance windows "
-    excerpt: "Use cluster auto-upgrade feature while minimizing interruptions. "
-    publishedDateTime: 2021-05-25T16:00:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-cluster-autoupgrade-now-respects-planned-maintenance-windows/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 48
 
 secured: "YcsP7fvhcoO8YmUeYUzRTnjljcDCoKn4Ec7IGrHsdvD40uO0jMji8Ek9KjZ7BL9uZqPtr1u2juKkDYmfySrFmo1zM/cBZsxtJtBEeivFBd9p0raFgUvqKkjdokUB5nD6krr/dIpA2Frl1GZX9O0Mx5kF5f3wA3nn/57xEE7+jFNz6WUUfKV19ZPNuIRXoDvTNN3HE9BHYaV1+JSw1JNh8JvGE+Ts6hQmgepKS+Lu84Ysrh/RKhktbShYR+kJEUCtWoCc1mLoFGeexKpylh5l4kA8Vxyukk4orzU/V4u3qHgqc9OyVa9uRnVfLKuh72u0fVB74cwim9RuqJeDC2z//xb00dXnFubeyyx4louO1rI=;YltQWa3KMsArHjaKdP0HVQ=="
 ---

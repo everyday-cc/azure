@@ -22,96 +22,51 @@ topics:
   - Azure
 
 related:
-  - title: "Public Preview: Azure App Service Migration Assistant - Java Tomcat Support"
-    excerpt: "You can now migrate your Java Tomcat web apps to Azure using the Azure App Service Migration Assistant tool."
-    publishedDateTime: 2020-09-22T16:05:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-java-tomcat-support/"
+  - title: "Public preview: Azure Key Vault CSI driver support in Azure Kubernetes Service"
+    excerpt: "Azure Key Vault provider for Secrets Store CSI driver allows you to get secret contents stored in an Azure Key Vault instance. Azure Key Vault simplifies the task of securing and using cryptographic keys and other secrets with AKS. \nWith this new feature, you can use the Secrets Store CSI driver interface"
+    publishedDateTime: 2021-01-21T17:01:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
-  - title: "Public preview: Azure App Service Migration Assistant PowerShell-based experience "
-    excerpt: "The PowerShell-based experience for the Azure App Service Migration Assistant is now in public preview."
-    publishedDateTime: 2021-07-21T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-powershellbased-experience/"
+    quality: 97
+  - title: "Public preview: Dynamic IP allocation and enhanced subnet support in AKS"
+    excerpt: "AKS users now have more flexible network configuration options via dynamic IP allocation and support for subnets."
+    publishedDateTime: 2021-01-20T17:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-ip-allocation-and-enhanced-subnet-support-in-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 95
-  - title: "New Azure Orbital, ground station as a service, now in preview"
-    excerpt: "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to schedule contacts with your spacecrafts or satellites and directly ingest data in Azure using Orbital ground stations."
-    publishedDateTime: 2020-09-22T16:05:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-orbital-ground-station-as-a-service-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Preview: Azure Load Balancer now supports cross-region load balancing"
-    excerpt: "Azure Load Balancer now supports load balancing across regions based on health and latency."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/preview-azure-load-balancer-now-supports-crossregion-load-balancing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public Preview: JBoss EAP on Azure App Service"
-    excerpt: "A managed JBoss Enterprise Application Platform (EAP) experience is now available in Public Preview on Azure App Service. Deploy your Web Application Archive (WAR) and Enterprise Application Archive (EAR) apps to a PaaS for Java EE apps."
-    publishedDateTime: 2020-10-14T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-jboss-eap-on-azure-app-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Azure Monitor Scheduled Query Rules API 2021-02-01-preview "
-    excerpt: "Scheduled Query Rules API version 2021-02-01-preview is now available and is replacing API version 2020-05-01-preview."
-    publishedDateTime: 2021-08-04T16:03:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-scheduled-query-rules-api-version-20210201preview-and-deprecation-of-api-version-20200501preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
-  - title: "Public preview: AKS start/stop cluster feature"
-    excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
-    publishedDateTime: 2020-09-22T16:05:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-startstop-cluster-feature/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "Public Preview: Steeltoe .NET Application Support in Azure Spring Cloud"
-    excerpt: "Develop and release applications faster with Steeltoe .NET application support in Azure Spring Cloud."
-    publishedDateTime: 2020-09-22T16:05:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-steeltoe-net-application-support-in-azure-spring-cloud/"
+    quality: 68
+  - title: "Public preview: CSI storage driver support in Azure Kubernetes Service "
+    excerpt: "Azure Kubernetes Service (AKS) now supports Container Storage Interface (CSI), a standard for exposing arbitrary block and file storage systems to containerized workloads on Kubernetes. This offers more flexibility in exposing storage systems in Kubernetes."
+    publishedDateTime: 2020-08-17T23:02:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: App Service Managed Certificates now supports apex domains"
-    excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
-    publishedDateTime: 2021-03-17T16:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/"
+  - title: "New Azure Cloud Services deployment model in public preview"
+    excerpt: "Use Azure Cloud Services (extended support), now in public preview, to increase regional resiliency and gain access to new capabilities that the Azure Resource Manager-based deployment model provides. "
+    publishedDateTime: 2021-01-25T17:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-cloud-services-deployment-model-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Azure Service Bus support for large messages"
-    excerpt: "You can now send and receive message payloads of up to 100MB in Azure Service Bus premium tier namespaces."
-    publishedDateTime: 2021-07-14T21:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-support-for-large-messages/"
+  - title: "Kubernetes resource view is in public preview"
+    excerpt: "Kubernetes resource view allows developers to use point and click navigation to see live, in-depth details of their workloads."
+    publishedDateTime: 2020-08-05T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/kubernetes-resource-view-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 2
 
 secured: "Hx9OeENM4JBaon4j2gjuJgVxF6w05ZW1ICx2m+XJlegsstC6djUfM7/myjisZZMbmXTK5s7Fq2x97cispJGhBL1yqxJZIsbZap0b47f5Mgn5lGsuuMB6H36BPFU/B/2H2vm+ve9Ww8dXf/L1H4TO7TB6oHDBSe+3a1BPAMzveD8xZksCZQXncT4QB+lbb5dmE95IBW0b6bBwCpnqf9u31417Y34SBXXubQuOcy5rwj8oXOwuXa3AzIDjewKQXwJPoJCLOY+C7leGNAjVxjgFerNg3gSHRAETR22Vz2T1geiy3vgCLjZXH2WGsXNqdyBIetaJArhmTfngykeFMT/GXhGMxoHKsuixj+uAFL5cajU=;zoyEG5UvTY1g5VTYCjq4Vg=="
 ---

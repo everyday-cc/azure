@@ -23,91 +23,55 @@ topics:
   - Containers
 
 related:
-  - title: "Public Preview: Azure App Service Migration Assistant - Java Tomcat Support"
-    excerpt: "You can now migrate your Java Tomcat web apps to Azure using the Azure App Service Migration Assistant tool."
-    publishedDateTime: 2020-09-22T16:05:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-java-tomcat-support/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Public preview: Azure App Service Migration Assistant PowerShell-based experience "
-    excerpt: "The PowerShell-based experience for the Azure App Service Migration Assistant is now in public preview."
-    publishedDateTime: 2021-07-21T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-powershellbased-experience/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 95
-  - title: "New Azure Orbital, ground station as a service, now in preview"
-    excerpt: "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to schedule contacts with your spacecrafts or satellites and directly ingest data in Azure using Orbital ground stations."
-    publishedDateTime: 2020-09-22T16:05:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-orbital-ground-station-as-a-service-now-in-preview/"
+  - title: "Public preview: AKS support for Secrets Store Container Storage Interface "
+    excerpt: "Access your secrets securely via the container's file system."
+    publishedDateTime: 2021-05-04T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-secrets-store-container-storage-interface/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Preview: Azure Load Balancer now supports cross-region load balancing"
-    excerpt: "Azure Load Balancer now supports load balancing across regions based on health and latency."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/preview-azure-load-balancer-now-supports-crossregion-load-balancing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public Preview: JBoss EAP on Azure App Service"
-    excerpt: "A managed JBoss Enterprise Application Platform (EAP) experience is now available in Public Preview on Azure App Service. Deploy your Web Application Archive (WAR) and Enterprise Application Archive (EAR) apps to a PaaS for Java EE apps."
-    publishedDateTime: 2020-10-14T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-jboss-eap-on-azure-app-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Azure Monitor Scheduled Query Rules API 2021-02-01-preview "
-    excerpt: "Scheduled Query Rules API version 2021-02-01-preview is now available and is replacing API version 2020-05-01-preview."
-    publishedDateTime: 2021-08-04T16:03:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-scheduled-query-rules-api-version-20210201preview-and-deprecation-of-api-version-20200501preview/"
+  - title: "Public preview: Stateful and 1-minute frequency log alerts in Azure Monitor"
+    excerpt: "Log search based alerts can now be automatically resolved, and query can be evaluated every minute for faster time to fire."
+    publishedDateTime: 2021-04-28T16:02:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-stateful-and-1minute-frequency-log-alerts-in-azure-monitor/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 82
-  - title: "Public Preview: Steeltoe .NET Application Support in Azure Spring Cloud"
-    excerpt: "Develop and release applications faster with Steeltoe .NET application support in Azure Spring Cloud."
-    publishedDateTime: 2020-09-22T16:05:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-steeltoe-net-application-support-in-azure-spring-cloud/"
+  - title: "Preview: AKS support for FIPS compliant nodes "
+    excerpt: "Azure Kubernetes Service makes it easier for you to achieve FedRAMP compliance by supporting FIPS compliant nodes "
+    publishedDateTime: 2021-05-25T16:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/preview-aks-support-for-fips-compliant-nodes/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Public preview: App Service Managed Certificates now supports apex domains"
-    excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
-    publishedDateTime: 2021-03-17T16:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/"
+    quality: 69
+  - title: "Public preview: Ephemeral OS disk support in AKS"
+    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
+    publishedDateTime: 2020-08-17T23:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Azure Service Bus support for large messages"
-    excerpt: "You can now send and receive message payloads of up to 100MB in Azure Service Bus premium tier namespaces."
-    publishedDateTime: 2021-07-14T21:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-support-for-large-messages/"
+    quality: 52
+  - title: "Public preview: Application Insight in South India and West Central US "
+    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in the following list of regions South India West Central US."
+    publishedDateTime: 2021-04-28T23:14:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-norway-west-south-india-and-france-south-and-west-central-us/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Service Bus support for large message payloads"
-    excerpt: "Customers can now send data payloads up to 100 MB is Service Bus Premium."
-    publishedDateTime: 2021-01-21T17:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-bus-support-for-large-message-payloads/"
+    quality: 52
+  - title: "Public Preview: Form Recognizer container support "
+    excerpt: "Announcing the public preview release of Form Recognizer containers. Form Recognizer is now also available in the following docker containers - Layout, Business Card, ID Document, Receipt, Invoice and Custom containers for you to run locally."
+    publishedDateTime: 2021-07-06T18:31:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-form-recognizer-container-support/"
     type: article
     provider:
       name: Microsoft

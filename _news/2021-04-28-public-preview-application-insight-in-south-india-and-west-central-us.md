@@ -31,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Public preview: AKS support for containerd for Windows server containers"
-    excerpt: "Benefit from enhanced pod creation speed and stability when creating Windows server containers in AKS."
-    publishedDateTime: 2021-05-25T16:00:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-containerd-for-windows-server-containers/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 83
   - title: "Public preview: Stateful and 1-minute frequency log alerts in Azure Monitor"
     excerpt: "Log search based alerts can now be automatically resolved, and query can be evaluated every minute for faster time to fire."
     publishedDateTime: 2021-04-28T16:02:01Z
@@ -49,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
+  - title: "Public preview: AKS start/stop cluster feature"
+    excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
+    publishedDateTime: 2020-09-22T16:05:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-startstop-cluster-feature/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Preview: AKS support for FIPS compliant nodes "
     excerpt: "Azure Kubernetes Service makes it easier for you to achieve FedRAMP compliance by supporting FIPS compliant nodes "
     publishedDateTime: 2021-05-25T16:00:21Z
@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Public preview: Ephemeral OS disk support in AKS"
+    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
+    publishedDateTime: 2020-08-17T23:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Public Preview: Form Recognizer container support "
     excerpt: "Announcing the public preview release of Form Recognizer containers. Form Recognizer is now also available in the following docker containers - Layout, Business Card, ID Document, Receipt, Invoice and Custom containers for you to run locally."
     publishedDateTime: 2021-07-06T18:31:41Z

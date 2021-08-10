@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-with-v
 webUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-with-versioning-for-blob-storage-is-now-in-public-preview/"
 type: article
 quality: 82
-heat: 122
+heat: 102
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - Storage
 
 related:
-  - title: "Public preview: Azure Virtual Desktop is now available in the Azure China cloud "
-    excerpt: "Get started today with Azure Virtual Desktop in public preview in Azure China cloud. Deploy and scale Windows desktops and apps on Azure in minutes."
-    publishedDateTime: 2021-07-26T23:31:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-desktop-is-now-available-in-the-azure-china-cloud-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "Azure Blob versioning public preview now available"
     excerpt: ""
     publishedDateTime: 2020-05-15T18:00:20Z

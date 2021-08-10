@@ -31,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
-  - title: "Public preview: New Application Insights standard test for synthetic monitoring"
-    excerpt: "Azure Monitor Application Insights is introducing a new availability test to handle most of your single request test scenarios."
-    publishedDateTime: 2021-07-14T16:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-new-application-insights-standard-test-for-synthetic-monitoring/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 48
 
 secured: "m905YchSNkVIAvYrsVWHC60Y3K+VCCpDURsfBwozJaPmm/S6ErJKsg9ooneI/iyOte+HukoUSb5RmK7ud9jFu/Vljpg8CYAvkQvpwqkOh0hbxO9sf5+f/lOMVwTzMhzsU9dmW7agojPRjtL2GZ/slc89NJOG2WLKqB65wL4g4CquLsAvgx9Xs4B7R2VjM9c1N5igMWlsCEd5lsOla6Je/K/yJbCgsRC9T5+iR65nbQXp0qDkELiijMjFZ2tZon7mu81Inx5XQnNrbJD/dVfHC4dn+CcmUnVeM4CYkIvoYTclKnLh999Kp2+6446FYuqpQ2lACvcp9eW5/Vz5+t/cY8p0VbUc38wG7fG5DRljwFw=;W/dkjCzda+7rjYrdromxLg=="
 ---

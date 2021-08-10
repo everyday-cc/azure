@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
-  - title: "Public preview: Azure Machine Learning Data Labeling – Image Instance Segmentation "
-    excerpt: "Data Labeling in Azure Machine learning gives you a central place to create, manage, and monitor labeling projects."
-    publishedDateTime: 2021-01-28T23:43:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-data-labeling-image-instance-segmentation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
   - title: "Public preview: Dynamic IP allocation and enhanced subnet support in AKS"
     excerpt: "AKS users now have more flexible network configuration options via dynamic IP allocation and support for subnets."
     publishedDateTime: 2021-01-20T17:00:17Z
@@ -66,6 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Service Bus support for large message payloads"
+    excerpt: "Customers can now send data payloads up to 100 MB is Service Bus Premium."
+    publishedDateTime: 2021-01-21T17:01:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-bus-support-for-large-message-payloads/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "w8A9X08ppM+qV4vg0hJuY2+Al51Gt/SBaKBYwbSPEpp3IjyS9pXRHfuN43keIgbVbh72zXXs4x1lA6m7UodOomiJ1B7GPYefNUcNY7pYDFa6ca4XOqRxfsKa/fRBHSnL8g/RAuZXVQmUzsYvBaILdPL+LZ0fzI3Dif3c1cHux7RUN/B1A36+ZQ5L4fd7QvOpE1t36QY7IZnD4G/j+4SsMDPL98HWCXugalqXvKaZkbbkXZnvxqiHvfSeq/wM6AzdWBe9uH4rJx+yaRAgWuSCHFrP3ycCPn/kU4C0C9veglsOpqA7jB8FWqPVu081qwcKhi3y1NPVKGFPMxsowaG79Q==;Tw3dwIVUXGLWx8dG2pT5/w=="
 ---

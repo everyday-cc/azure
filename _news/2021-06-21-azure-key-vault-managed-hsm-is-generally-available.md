@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "New Azure Orbital, ground station as a service, now in preview"
+    excerpt: "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to schedule contacts with your spacecrafts or satellites and directly ingest data in Azure using Orbital ground stations."
+    publishedDateTime: 2020-09-22T16:05:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-orbital-ground-station-as-a-service-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Announcing the public preview of Azure Automanage"
     excerpt: "A new approach to managing Windows Server virtual machines in Azure."
     publishedDateTime: 2020-09-22T16:05:29Z

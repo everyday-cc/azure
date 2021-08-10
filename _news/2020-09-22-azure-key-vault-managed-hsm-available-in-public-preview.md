@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/akv-managed-hsm-public-p
 webUrl: "https://azure.microsoft.com/en-us/updates/akv-managed-hsm-public-preview/"
 type: article
 quality: 84
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Security
 
 related:
+  - title: "New Azure Orbital, ground station as a service, now in preview"
+    excerpt: "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to schedule contacts with your spacecrafts or satellites and directly ingest data in Azure using Orbital ground stations."
+    publishedDateTime: 2020-09-22T16:05:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-orbital-ground-station-as-a-service-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Key Vault Managed HSM is generally available"
     excerpt: "Azure Key Vault Managed HSM (hardware security module) is now generally available. Managed HSM offers a fully managed, highly available, single-tenant, high-throughput, standards-compliant cloud service to safeguard cryptographic keys for your cloud applications, using FIPS 140-2 Level 3 validated HSMs.\n"
     publishedDateTime: 2021-06-21T18:00:20Z

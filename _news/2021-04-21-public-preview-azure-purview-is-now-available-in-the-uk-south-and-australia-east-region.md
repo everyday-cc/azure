@@ -22,15 +22,6 @@ topics:
   - Azure
 
 related:
-  - title: "dPublic preview: Event Grid integration with AKS"
-    excerpt: "Automate AKS operations by subscribing to events and handling them."
-    publishedDateTime: 2021-04-14T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 101
   - title: "Public preview: Azure Machine Learning VS Code Integration "
     excerpt: "Enable the full power of VS Code connected to your Azure Machine Learning Compute with multiple new editing tasks."
     publishedDateTime: 2021-04-14T16:00:33Z
@@ -49,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
-  - title: "Public preview: Event Grid integration with AKS"
-    excerpt: "Automate AKS operations by subscribing to events and handling them."
-    publishedDateTime: 2021-07-14T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks-3/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 101
   - title: "Public preview: API Management and Event Grid integration"
     excerpt: "Azure API Management has now been updated to publish events to Event Grid."
     publishedDateTime: 2021-07-14T16:00:34Z
@@ -67,6 +49,38 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Purview resource set pattern rules available in public preview"
+    excerpt: "Azure Purview is announcing the public preview of resource set pattern rules. A resource set is a single object in the data catalog that represents a large number of assets in storage.  Resource set pattern rules allow you to customize or override how Azure Purview detects which assets are grouped as resource sets and how they are displayed within the catalog."
+    publishedDateTime: 2021-04-20T18:28:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-purview-resource-set-pattern-rules-available-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/efbbf127-6217-4b47-bab5-88af99d166f2.png"
+        width: 1664
+        height: 1080
+        isCached: true
+  - title: "Public preview: Azure Machine Learning - Responsible ML updates"
+    excerpt: "Azure Machine Learning Enhanced Responsible ML Dashboard updates now in public review"
+    publishedDateTime: 2021-02-03T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-responsible-ml-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Public preview: Export Azure Monitor logs to multiple destinations"
+    excerpt: "Logs export can be separated between multiple destinations to overcome destination rate limit and to maintain access control in destinations."
+    publishedDateTime: 2021-05-25T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-export-azure-monitor-logs-to-multiple-destinations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
     excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
     publishedDateTime: 2021-01-21T17:02:50Z
@@ -76,24 +90,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
-  - title: "Public preview: Automatic Cluster Upgrades in AKS"
-    excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
-    publishedDateTime: 2021-01-21T17:03:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-cluster-upgrades-in-aks/"
+  - title: "Public preview: Azure Machine Learning Data Labeling – Image Instance Segmentation "
+    excerpt: "Data Labeling in Azure Machine learning gives you a central place to create, manage, and monitor labeling projects."
+    publishedDateTime: 2021-01-28T23:43:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-data-labeling-image-instance-segmentation/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-  - title: "Public preview: Calico Windows support in AKS"
-    excerpt: "Use Calico network policy with Windows Server on AKS."
-    publishedDateTime: 2021-03-02T17:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-calico-windows-support-in-aks/"
+    quality: 78
+  - title: "Public preview: Azure Spring Cloud New Relic One integration and additional feature updates"
+    excerpt: "Azure Spring Cloud now supports New Relic One for performance monitoring (in preview), reduced minimum app instance sizes, automated app deployments with Terraform and Azure Pipelines, and Azure Virtual Network in Azure China."
+    publishedDateTime: 2021-07-14T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-spring-cloud-new-relic-one-integration-and-additional-feature-updates/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
+    quality: 74
   - title: "Public preview: Application Gateway Mutual Authentication"
     excerpt: "Application Gateway now supports fronted mutual authentication and listener specific SSL policies."
     publishedDateTime: 2021-05-12T18:03:59Z
@@ -103,28 +117,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Public preview: Create AKS clusters without local user accounts "
-    excerpt: "You can now disable local user accounts when creating Azure Active Directory integrated Azure Kubernetes Service clusters. "
-    publishedDateTime: 2021-07-14T16:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-create-aks-clusters-without-local-user-accounts-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "Public preview: Azure Resource Health support in AKS "
-    excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
-    publishedDateTime: 2020-08-17T23:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
+  - title: "Public preview: Azure Confidential Ledger"
+    excerpt: "Create a managed service built on top of the Confidential Consortium Framework that spins up a permissioned blockchain network of nodes within Azure confidential computing."
+    publishedDateTime: 2021-05-25T16:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-confidential-ledger/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Azure Confidential Ledger"
-    excerpt: "Create a managed service built on top of the Confidential Consortium Framework that spins up a permissioned blockchain network of nodes within Azure confidential computing."
-    publishedDateTime: 2021-05-25T16:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-confidential-ledger/"
+  - title: "Public preview: Azure Service Bus support for large messages"
+    excerpt: "You can now send and receive message payloads of up to 100MB in Azure Service Bus premium tier namespaces."
+    publishedDateTime: 2021-07-14T21:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-support-for-large-messages/"
     type: article
     provider:
       name: Microsoft
@@ -157,15 +162,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 55
-  - title: "Public preview: Ephemeral OS disk support in AKS"
-    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
-    publishedDateTime: 2020-08-17T23:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
+  - title: "Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government"
+    excerpt: "Simplify your cost reporting in Azure government using Azure Cost Management + Billing’s cost allocation. "
+    publishedDateTime: 2021-02-12T16:43:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cost-management-billing-s-cost-allocation-now-available-in-azure-government/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 53
   - title: "Public preview: Application Insight in UAE North "
     excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
     publishedDateTime: 2020-11-16T19:09:09Z

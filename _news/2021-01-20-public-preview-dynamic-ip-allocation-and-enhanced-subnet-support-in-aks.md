@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
-  - title: "Public preview: Azure Machine Learning Data Labeling – Image Instance Segmentation "
-    excerpt: "Data Labeling in Azure Machine learning gives you a central place to create, manage, and monitor labeling projects."
-    publishedDateTime: 2021-01-28T23:43:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-data-labeling-image-instance-segmentation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
   - title: "Public preview: CSI storage driver support in Azure Kubernetes Service "
     excerpt: "Azure Kubernetes Service (AKS) now supports Container Storage Interface (CSI), a standard for exposing arbitrary block and file storage systems to containerized workloads on Kubernetes. This offers more flexibility in exposing storage systems in Kubernetes."
     publishedDateTime: 2020-08-17T23:02:45Z
@@ -59,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Service Bus support for large message payloads"
+    excerpt: "Customers can now send data payloads up to 100 MB is Service Bus Premium."
+    publishedDateTime: 2021-01-21T17:01:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-bus-support-for-large-message-payloads/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Kubernetes resource view is in public preview"
     excerpt: "Kubernetes resource view allows developers to use point and click navigation to see live, in-depth details of their workloads."
     publishedDateTime: 2020-08-05T16:00:01Z

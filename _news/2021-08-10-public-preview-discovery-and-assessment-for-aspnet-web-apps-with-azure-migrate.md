@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Create AKS clusters without local user accounts "
-excerpt: "You can now disable local user accounts when creating Azure Active Directory integrated Azure Kubernetes Service clusters. "
-publishedDateTime: 2021-07-14T16:00:30Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-create-aks-clusters-without-local-user-accounts-2/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-create-aks-clusters-without-local-user-accounts-2/"
+title: "Public preview: Discovery and assessment for ASP.NET web apps with Azure Migrate "
+excerpt: "Secure your connection to Azure Migrate services with Azure Migrate Private Link "
+publishedDateTime: 2021-08-10T16:00:05Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-discovery-and-assessment-for-aspnet-web-apps-with-azure-migrate/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-discovery-and-assessment-for-aspnet-web-apps-with-azure-migrate/"
 type: article
-quality: 69
+quality: 96
 heat: -1
 published: false
 
@@ -20,7 +20,8 @@ provider:
 
 topics:
   - Azure
-  - Containers
+  - Migration
+  - Web
 
 related:
   - title: "Public preview: Containerize apps and migrate to AKS and Azure App Service with Azure Migrate"
@@ -73,15 +74,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Public preview: Discovery and assessment for ASP.NET web apps with Azure Migrate "
-    excerpt: "Secure your connection to Azure Migrate services with Azure Migrate Private Link "
-    publishedDateTime: 2021-08-10T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-discovery-and-assessment-for-aspnet-web-apps-with-azure-migrate/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 96
   - title: "Public preview: AKS support for containerd for Windows server containers"
     excerpt: "Benefit from enhanced pod creation speed and stability when creating Windows server containers in AKS."
     publishedDateTime: 2021-05-25T16:00:22Z
@@ -127,6 +119,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Public preview: Create AKS clusters without local user accounts "
+    excerpt: "You can now disable local user accounts when creating Azure Active Directory integrated Azure Kubernetes Service clusters. "
+    publishedDateTime: 2021-07-14T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-create-aks-clusters-without-local-user-accounts-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Public preview: Azure Resource Health support in AKS "
     excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
     publishedDateTime: 2020-08-17T23:01:22Z
@@ -155,6 +156,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "T1sMltcBd/pYjWaQY+BASt1Oj0jdulrrY7mqgVuXUTrnglScRmM5Kkepoxw3f68DHTAH1n6ixcQ2dhqS3yHsk7HnEv9L+snnMxVwAFLElt4H0UOsamuLED54kTRr/VvccjnhbB5L70ELG7XX948/Mk/8EWmw/YGQyNvXWWwC/4NxX/gB2w8NSLscL0a2ykU1hzvj9nAAotBSHvLqOpk6FjADygT3zuMCWltR4GXBi3bl8rt7vBA2AjBP0EP15lsoFJBjjnMM6T/R7rNdYUdl6cdcES1jnROqepfrAa4ag/RywgrIhLBX83r9PGnPm5j5vqPBtkJUQ27RfOl+y/IICb1h1sVukyrCRcHG3Xsk8eA=;CRPp3nd+It/zs7fnECQG/g=="
+secured: "2PZc1K9Gjg2o28SZR+42zlsiI/2WY1Fo/8uk2Qz5JZFlIZPhUCiofvI5Yt518/2Pe/l10j1MzcHoZTLdSPTVOB/2a9d/01x7UPj9UvNJpKj73Xj8/k8kiuX3mAj9Uu5orEDmymsNQBzcTFywyZuMk9b8FCJJoqNyQxoryX0A+DlSQtXNWXtqI02BSVwXYgPMF3xJYaZr3ml1rvERt1bZomdwHJgwBNwW3EVl/B2nTksLBGJfy/UoAWqdDwal5gvN6RvvLyy5FXa6vGVxGul963PvCdIpYG3dMdaefsx8FHWaS05aJ+FeWE1YerP4ix3i3aZZBDwj+Vl8STe4V/eCRpSGer748oER/EcAzKIgA8I=;X6i+RDpbyhQJ0rAe/QmS3A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/private-preview-new-tele
 webUrl: "https://azure.microsoft.com/en-us/updates/private-preview-new-telemetry-for-sap-application-netweaver-in-azure-portal/"
 type: article
 quality: 80
-heat: 120
+heat: 100
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - Management tools
 
 related:
-  - title: "Public preview: New Application Insights standard test for synthetic monitoring"
-    excerpt: "Azure Monitor Application Insights is introducing a new availability test to handle most of your single request test scenarios."
-    publishedDateTime: 2021-07-14T16:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-new-application-insights-standard-test-for-synthetic-monitoring/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 48
   - title: "Public preview: Alerts, Pacemaker cluster (RHEL OS) and data-size for SAP HANA "
     excerpt: "SAP on Azure customers can now set threshold-based alerts on SAP application, databases and clusters though Azur portal with few clicks. \n"
     publishedDateTime: 2021-07-19T15:00:10Z
