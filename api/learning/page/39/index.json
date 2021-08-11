@@ -89,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
       "length": "PT30M",
       "ratings": {
-        "count": 408,
-        "average": 4.8284316
+        "count": 409,
+        "average": 4.8288507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-causes-performance-issues/",
       "length": "PT36M",
       "ratings": {
-        "count": 639,
-        "average": 4.807512
+        "count": 640,
+        "average": 4.8078127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1110,6 +1110,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-explore-sharepoint-online.md",
+      "title": "Explore SharePoint Online",
+      "excerpt": "Explore SharePoint Online",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-sharepoint-online/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-sharepoint-online/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 98,
+        "average": 4.877551
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/sharepoint-explore-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-solutions-for-external-access.md",
       "title": "Explore solutions for external access",
       "excerpt": "Explore solutions for external access",
@@ -1236,49 +1279,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-extend-share-capacity-with-azure-file-sync.md",
-      "title": "Extend your on-premises file share capacity using Azure File Sync",
-      "excerpt": "Evaluate and deploy Azure File Sync to extend the capacity of your on-premises file share.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-extend-share-capacity-with-azure-file-sync/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extend-share-capacity-with-azure-file-sync/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/extend-share-capacity-with-azure-file-sync-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

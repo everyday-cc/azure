@@ -4,6 +4,215 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-az-400-manage-source-control.md",
+      "title": "AZ-400: Manage source control",
+      "excerpt": "Use GitHub to build a modern source control strategy and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-az-400-manage-source-control/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-az-400-manage-source-control/",
+      "length": "PT14H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
+          "title": "Introduction to GitHub",
+          "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-github/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
+          "length": "PT1H12M",
+          "ratings": {
+            "count": 2143,
+            "average": 4.7713485
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-migrate-repository-github.md",
+          "title": "Migrate your repository by using GitHub best practices",
+          "excerpt": "Learn to move your existing project to GitHub from a legacy version control system.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-repository-github/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 564,
+            "average": 4.783688
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/migrate-repository-github-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-upload-project-github.md",
+          "title": "Upload your project by using GitHub best practices",
+          "excerpt": "Learn to upload your existing project to GitHub.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-upload-project-github/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-project-github/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 557,
+            "average": 4.782765
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/upload-project-github-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-changes-pull-requests-github.md",
+          "title": "Manage repository changes by using pull requests on GitHub",
+          "excerpt": "Learn how to manage changes to your repository source by using pull requests.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-changes-pull-requests-github/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 749,
+            "average": 4.7783713
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/manage-changes-pull-requests-github-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 15,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-relational-data-in-azure.md",
       "title": "Azure Data Fundamentals: Explore relational data in Azure",
       "excerpt": "Azure Data Fundamentals: Explore relational data in Azure",
@@ -119,8 +328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
           "length": "PT40M",
           "ratings": {
-            "count": 2540,
-            "average": 4.8082676
+            "count": 2541,
+            "average": 4.8079495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -416,8 +625,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 1108,
-            "average": 4.544224
+            "count": 1110,
+            "average": 4.545045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -460,8 +669,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 908,
-            "average": 4.64978
+            "count": 909,
+            "average": 4.650165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -504,8 +713,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 606,
-            "average": 4.5759077
+            "count": 607,
+            "average": 4.5766063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -892,8 +1101,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/",
           "length": "PT39M",
           "ratings": {
-            "count": 89,
-            "average": 4.752809
+            "count": 90,
+            "average": 4.7555556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -935,7 +1144,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/arm-template-whatif/",
           "length": "PT20M",
           "ratings": {
-            "count": 10,
+            "count": 11,
             "average": 5.0
           },
           "provider": {
@@ -978,8 +1187,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/arm-template-test/",
           "length": "PT37M",
           "ratings": {
-            "count": 55,
-            "average": 4.6545453
+            "count": 56,
+            "average": 4.660714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1106,8 +1315,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/",
           "length": "PT39M",
           "ratings": {
-            "count": 89,
-            "average": 4.752809
+            "count": 90,
+            "average": 4.7555556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1149,7 +1358,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/arm-template-whatif/",
           "length": "PT20M",
           "ratings": {
-            "count": 10,
+            "count": 11,
             "average": 5.0
           },
           "provider": {
@@ -1192,8 +1401,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/arm-template-test/",
           "length": "PT37M",
           "ratings": {
-            "count": 55,
-            "average": 4.6545453
+            "count": 56,
+            "average": 4.660714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1893,8 +2102,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 13952,
-            "average": 4.7651234
+            "count": 13959,
+            "average": 4.7649546
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1936,8 +2145,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3514,
-            "average": 4.678429
+            "count": 3515,
+            "average": 4.6785207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2153,8 +2362,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6919,
-            "average": 4.646047
+            "count": 6920,
+            "average": 4.646098
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2450,8 +2659,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 506,
-            "average": 4.7667985
+            "count": 507,
+            "average": 4.767258
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2540,8 +2749,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 1108,
-            "average": 4.544224
+            "count": 1110,
+            "average": 4.545045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2584,8 +2793,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 908,
-            "average": 4.64978
+            "count": 909,
+            "average": 4.650165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2628,8 +2837,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 606,
-            "average": 4.5759077
+            "count": 607,
+            "average": 4.5766063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3662,8 +3871,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 408,
-            "average": 4.8284316
+            "count": 409,
+            "average": 4.8288507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5338,8 +5547,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
           "length": "PT41M",
           "ratings": {
-            "count": 1597,
-            "average": 4.8065124
+            "count": 1598,
+            "average": 4.8066335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5380,8 +5589,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 1458,
-            "average": 4.7722907
+            "count": 1460,
+            "average": 4.7726026
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5422,8 +5631,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
           "length": "PT54M",
           "ratings": {
-            "count": 1795,
-            "average": 4.734262
+            "count": 1796,
+            "average": 4.73441
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5506,8 +5715,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
           "length": "PT28M",
           "ratings": {
-            "count": 1900,
-            "average": 4.7236843
+            "count": 1901,
+            "average": 4.7238297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5551,8 +5760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 2007,
-            "average": 4.494768
+            "count": 2008,
+            "average": 4.49502
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5597,8 +5806,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-connectors/",
           "length": "PT40M",
           "ratings": {
-            "count": 595,
-            "average": 4.5815125
+            "count": 596,
+            "average": 4.582215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5642,8 +5851,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-logic-apps-using-arm-templates/",
           "length": "PT45M",
           "ratings": {
-            "count": 583,
-            "average": 4.6603775
+            "count": 584,
+            "average": 4.660959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6129,245 +6338,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-build-mixed-reality-digital-twins-with-azure-digital-twins-and-unity.md",
-      "title": "Build mixed reality digital twins with Azure Digital Twins and Unity",
-      "excerpt": "Learn how to create a mixed reality HoloLens 2 application using Azure Digital Twins and Unity, a real-time 3D platform.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-build-mixed-reality-digital-twins-with-azure-digital-twins-and-unity/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-build-mixed-reality-digital-twins-with-azure-digital-twins-and-unity/",
-      "length": "PT3H59M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-set-up-mixed-reality-azure-digital-twins-unity.md",
-          "title": "Set up a mixed reality project for Azure Digital Twins in Unity",
-          "excerpt": "Get step-by-step guidance on how to set up and configure a mixed reality project in Unity for HoloLens 2. Learn about the Azure Digital Twins and SignalR services and common use cases for the Azure platform in Mixed Reality.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-set-up-mixed-reality-azure-digital-twins-unity/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-mixed-reality-azure-digital-twins-unity/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 25,
-            "average": 4.88
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/set-up-mixed-reality-azure-digital-twins-unity-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "IoT",
-            "Integration",
-            "Analytics",
-            "Compute",
-            "Serverless"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-3d-scene-mixed-reality-unity.md",
-          "title": "Build a 3D Scene for mixed reality in Unity",
-          "excerpt": "Learn how to create a 3D Scene in Unity using the Microsoft Maps SDK or static terrain. Get familiar with mixed reality scene design, the Unity interface, and deploying your Unity project to a HoloLens 2.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-3d-scene-mixed-reality-unity/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-3d-scene-mixed-reality-unity/",
-          "length": "PT52M",
-          "ratings": {
-            "count": 19,
-            "average": 4.9473686
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-3d-scene-mixed-reality-unity-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "IoT",
-            "Integration",
-            "Analytics",
-            "Compute",
-            "Serverless"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-3d-assets-mixed-reality-unity.md",
-          "title": "Configure 3D assets for mixed reality in Unity",
-          "excerpt": "Get step-by-step instructions on how to place Prefab 3D assets and models into a Unity scene. Learn about Unity Scriptable Objects and mixed reality design considerations before deploying to a HoloLens 2.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-3d-assets-mixed-reality-unity/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-3d-assets-mixed-reality-unity/",
-          "length": "PT41M",
-          "ratings": {
-            "count": 22,
-            "average": 4.9545455
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/configure-3d-assets-mixed-reality-unity-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "IoT",
-            "Integration",
-            "Analytics",
-            "Compute",
-            "Serverless"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-connect-iot-hololens-azure-digital-twins-unity.md",
-          "title": "Connect IoT data to HoloLens 2 with Azure Digital Twin and Unity",
-          "excerpt": "Stream simulated operational telemetry data from physical assets to Azure Digital Twin and visualize data in Unity and the HoloLens.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-iot-hololens-azure-digital-twins-unity/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-iot-hololens-azure-digital-twins-unity/",
-          "length": "PT1H52M",
-          "ratings": {
-            "count": 18,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/connect-iot-hololens-azure-digital-twins-unity-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "IoT",
-            "Integration",
-            "Analytics",
-            "Compute",
-            "Serverless"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/set-up-mixed-reality-azure-digital-twins-unity-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "IoT",
-        "Integration",
-        "Analytics",
-        "Compute",
-        "Serverless"
       ]
     }
   ],
