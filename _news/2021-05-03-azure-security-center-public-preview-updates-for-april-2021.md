@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/asc-april2021-2/"
 webUrl: "https://azure.microsoft.com/en-us/updates/asc-april2021-2/"
 type: article
 quality: 99
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Security
 
 related:
+  - title: "Azure Security Center: Public preview updates for July 2021"
+    excerpt: "Public preview enhancements and updates released for Azure Security Center in July 2021."
+    publishedDateTime: 2021-07-31T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-july2021-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure SQL—public preview updates for April 2021"
     excerpt: "Public preview enhancements and updates released for Azure SQL in April 2021."
     publishedDateTime: 2021-04-28T16:01:58Z

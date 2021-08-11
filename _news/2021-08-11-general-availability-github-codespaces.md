@@ -1,10 +1,10 @@
 ---
 category: news
-title: "General availability: ExpressRoute Global Reach Pricing Reduction"
-excerpt: "ExpressRoute Global Reach allows you to link ExpressRoute circuits together to make a private network between your on-premises networks. The data transfer price for this offering is now 50% lower."
-publishedDateTime: 2021-06-05T04:00:40Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/grpricing/"
-webUrl: "https://azure.microsoft.com/en-us/updates/grpricing/"
+title: "General availability: GitHub Codespaces"
+excerpt: "GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers."
+publishedDateTime: 2021-08-11T16:00:16Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces/"
 type: article
 quality: 52
 heat: -1
@@ -40,19 +40,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "General availability: GitHub Codespaces and github.dev"
-    excerpt: "GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers. Everyone can also leverage github.dev to browse GitHub repositories and make lightweight code changes."
-    publishedDateTime: 2021-08-11T16:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces-and-githubdev/"
+  - title: "General availability: ExpressRoute Global Reach Pricing Reduction"
+    excerpt: "ExpressRoute Global Reach allows you to link ExpressRoute circuits together to make a private network between your on-premises networks. The data transfer price for this offering is now 50% lower."
+    publishedDateTime: 2021-06-05T04:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/grpricing/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "General availability: GitHub Codespaces"
-    excerpt: "GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers."
+  - title: "General availability: GitHub Codespaces and github.dev"
+    excerpt: "GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers. Everyone can also leverage github.dev to browse GitHub repositories and make lightweight code changes."
     publishedDateTime: 2021-08-11T16:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces/"
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces-and-githubdev/"
     type: article
     provider:
       name: Microsoft
@@ -73,6 +73,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Vxm2TwbX0INCls9RicJ4osw3tWhb0hF5BaS49JJ4/2vZeLghkSJ9eY+9QiKuE+h/Ugu+Gv5AXMaA1WKylk0uVpBmKhHNMjRcd332nHLmLGaEAWKKqmnqDG7IdmXu91rwMksMEcvChyrBXCMzRgBr11hdBST2C1yfVnexUdckFsEVB/FUjTeJKSt2DeFME81VHgAaP+HfAZXdVe9Yjja1SsxN5FlV2TtK+nYMyKTHrmgT8D62bO3p9fnwYBrVxXlHNoxf3NVmSiD/bJTPQ9bjre0Pi1wumMlAn0KCqh7YXUmVd1JLL4AThK9im56vbZ30VWtUFoeVtBuCVrgHujp07fM1IG0lmUwU+N2mvC4DtTw=;qLzSilOBXvmDQI5f4y8QRQ=="
+secured: "OQUgPd7ZrSETq2DYuYpZsmFKe4CtgSAPopwmjMEpjI82iu7caB+UdFBW9RAnWJloCC/II9RJ79Z3+j8L4RX5fKkB2Ax/1hJBJhDCGUXfXOwMdoNz3+QPWnXtDjpTj0F6ShHziqbxB9PNIm3HcV8Fu0fpb9cfOPyxtYik3vI1O3sDyaJe6LLR834zF7/0nI+gkiW4s2zdQgo7l5gxlFYbFhmOGIkJPjXgd+6cQaBr3zvedyQf6tuJw1AHjZ0Dim0QqAjngjVPmeIIAK6Qz6GY+lPvbHFuHRgaHzU1o/Yvfur3Pw1tSwBBlK+E5eWn1v69EuJEMLtoXvkZYGOWj9DK9W3wkEjIFN5Dbksoxc7xJjs=;ez+4N+p33kt5kdhRzx4dmA=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
-excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
-publishedDateTime: 2021-02-03T17:00:01Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
-webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
+title: "Azure Security Center: General availability updates for July 2021"
+excerpt: "New enhancements and updates released for general availability (GA) in Azure Security Center in July 2021."
+publishedDateTime: 2021-07-31T16:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/asc-july2021-1/"
+webUrl: "https://azure.microsoft.com/en-us/updates/asc-july2021-1/"
 type: article
-quality: 87
+quality: 99
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
 topics:
   - Azure
   - Security
-  - Integration
 
 related:
   - title: "General availability: Azure API Management updates - July 2021"
@@ -38,15 +37,6 @@ related:
         width: 1055
         height: 434
         isCached: true
-  - title: "Azure Security Center: General availability updates for July 2021"
-    excerpt: "New enhancements and updates released for general availability (GA) in Azure Security Center in July 2021."
-    publishedDateTime: 2021-07-31T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-july2021-1/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
   - title: "General availability: Azure Machine Learning updates for native terminal  "
     excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
     publishedDateTime: 2021-02-17T17:06:59Z
@@ -74,6 +64,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
+  - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
+    excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
   - title: "General availability: Azure Log Analytics UI updates May 2021"
     excerpt: "Azure Log Analytics for May 2021 include a new and updated experience for custom logs management and pinned parts filter integration."
     publishedDateTime: 2021-05-05T16:00:31Z
@@ -260,6 +259,6 @@ related:
         height: 752
         isCached: true
 
-secured: "4Ag6k+E9HdlSRV61iw82jUGa8nQ+n7eZtbX1w7ipan5k2V8aX93mFEho4gmI5JDpYDBpFBry+QUKQa8q3uQBQIdN9irRGky6zdfWndK92slTFy6tDtDbkXh8p75EifFFpiNSTI79QN2nJmZMW0diX0wut0qOIfSiMLDuY8kxkY7MKNRpxM5YcEL9VHO7VBZlbZ80Z70u2Foa3dPUHJiwmzlZ6iQLFVJKvtRn0aBWyGI6GIPLN70Lj9bl7lvdjYgiTUZGQWHI25mK1UTdd182Om6TLsrowkYG5RrPC45jztZnneUaSBfm9FO4twJH+5etP/c3QdzrNxnErN2wwTrzIV6aci+5L5t9FvoOG0PhDbU=;x2Hz/3jFaWIXHt8LjivCBA=="
+secured: "tQGEGh5ve/lMhGNPB5A6Y9G3FkEz/jkRnq4bImFuUW4QOXrWDxc9SLNmQcx1G5BZY64YWuVwdgiimpVn0znn0apO0DkRjzAKJ0YnVakDCqfedjsiX7X3VPC7BUSR+sNd8w9ufGw5TnQByyidX++AHxrMFMtjKzJZ1LPEB/k6XJT1MkEp31pHFR70LN0C36VPPD9pJ32Ecev9MlToZRMjI5pNSogJqUBKu9BWrPNSRtl692E7/0nYGMyxhz52ZHTqdFAISyx+okFnvjJSn8EWGHYdTrVBftkMVEyo1cjZpavRlu4Fg7UBqoQHf8E32e5y2eYKrKVqD8PqdcPktnpIkWo6ln/1rQCpPIgr24GSLRU=;P9rLWnFF6HXOuSH+S34QxA=="
 ---
 

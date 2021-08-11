@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Security Center: Public preview updates for July 2021"
+    excerpt: "Public preview enhancements and updates released for Azure Security Center in July 2021."
+    publishedDateTime: 2021-07-31T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-july2021-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
 
 secured: "EQH0IXNmPVAdN9YCmqrVJ/UM+Gsi+XBgjY+7zTrJn/FWc6eRaAhP0o+LpIaKyNdxgBR+QrrAfO/OvLo2F27xQSQ1uCGjq619uto1DWSBMg73uDiHHP0BzSihx9aiU4mAvvvWhToBnbqIClpkP9lvWWVx+Jt1xebVoB1y5segm3zGb+QbKgVXuftJz/jCFb+oGXJGDj7HxNZOabaCxTVIsWzL6OMnMjsNqAgo954xyGxzzSGeII3ZbboJxSaa6j4nsyIU0+l4IAIkmmJwIF/Dh6atMsOwPOMlsWH+AgrYtYL7/BBdI3/Y2N+W91kpUfXf6xgdd40eFtM08OSFikgzRxeQ6m+tvQZ3/z64FJnRTRY=;ISvBw4nrhBlNj7Yuya5BqQ=="
 ---

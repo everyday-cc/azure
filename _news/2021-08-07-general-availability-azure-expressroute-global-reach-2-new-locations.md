@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-expressroute-global-reach-2-new-locations/"
 type: article
 quality: 67
-heat: 150
+heat: 170
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
     excerpt: "GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers. Everyone can also leverage github.dev to browse GitHub repositories and make lightweight code changes."
     publishedDateTime: 2021-08-11T16:00:16Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces-and-githubdev/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "General availability: GitHub Codespaces"
+    excerpt: "GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers."
+    publishedDateTime: 2021-08-11T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces/"
     type: article
     provider:
       name: Microsoft

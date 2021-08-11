@@ -37,6 +37,15 @@ related:
         width: 1055
         height: 434
         isCached: true
+  - title: "Azure Security Center: General availability updates for July 2021"
+    excerpt: "New enhancements and updates released for general availability (GA) in Azure Security Center in July 2021."
+    publishedDateTime: 2021-07-31T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-july2021-1/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
     excerpt: "When moving from on premises, you no longer need to split your large files into separate parts to store and process in the cloud. Supporting a single object size up to 200TB removes one complexity when using Azure Storage."
     publishedDateTime: 2021-04-12T16:00:40Z

@@ -1,18 +1,22 @@
 ---
 category: news
 title: "SWARM Now Available in the Microsoft Azure Marketplace"
-excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
-publishedDateTime: 2021-08-11T12:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
-webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+publishedDateTime: 2021-08-11T12:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/swarm-now-available-in-the-microsoft-azure-marketplace-1030718682"
+webUrl: "https://markets.businessinsider.com/news/stocks/swarm-now-available-in-the-microsoft-azure-marketplace-1030718682"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -726,6 +730,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "uxUGHnuNxBTt0BVFhXWtmDcqxK1ZNtoylhOBsVkcS0UEr52s5WSQrvSjeB9immmhgLbQ/nznu44sZwcgqYt3eD85unIgzKaIdiHwkpz8T6qDBBBaMuNU0SC9ESTh7qtgqxRGKAJWyLCjyoXVDbr+VOD2vXlBqNJ8CXHIY3SiDv+BX8n2c0fLbotoTw070PprsOtjNW7JU4FaywJV6baC7Ybf4rd7uVp6NhCCI9UB4xBxdjCsKWFkrUuPy15GdIzzhTLgFYsLZe024wFVSMNf9vkJrMKtssmBtKBbqpPcOvHgDd5TYmmYYMnM+PwbgeEmf+ezhqn/TNzCnT6Wv5FmJAt/D4vuLjkgbar69WMGIIo=;aRtqk/4KUowUH1ZVnESehg=="
+secured: "XBxMvRMdKqRyBjqHL/9BVdNeZKD9cyx8phaNZKxyGZIh0iNJtP3LsKOhD1t16h+VZryewhpFsQObsfnd0slkHCjumWUYbbYWKvj0pvyTL8YfQ0u7FNiW9+MhITpPrypLq53gUoOSGHqY4l5MSXgUvnfd01a0Fa04shFDf2EsEJecwnMld1fh4Ym3o+RYW26CKq4D++ChojXlpXe1XDLUpN5lv7Fx3/WZPZ05wn09DaewKa/HxU8jYBGpsBAgsxyku+o/55/gZZcyV4eK1u6uIiDvs5BNMp/zJ6qX4SvJD8nsW3H4J9/ax8poraf3jrvRBppTGORdsCWjS067lY05BKX2kNWKYi1ZmCfEJlHcmrQ=;NorWlc6mM77p2L76IYet7w=="
 ---
 

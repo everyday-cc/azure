@@ -49,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "General availability: GitHub Codespaces"
+    excerpt: "GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers."
+    publishedDateTime: 2021-08-11T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "ExpressRoute Global Reach: Building your own cloud-based global backbone"
     excerpt: "Connectivity has gone through a fundamental shift as more workloads and services have moved to the Cloud. Traditional enterprise Wide Area Networks (WAN) have been fixed in nature, without the ability to dynamically scale to meet modern customer demands. For customers seeking to increasingly apply a"
     publishedDateTime: 2020-02-27T10:00:01Z

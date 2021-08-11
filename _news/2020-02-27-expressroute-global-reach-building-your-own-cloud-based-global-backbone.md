@@ -65,6 +65,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "General availability: GitHub Codespaces"
+    excerpt: "GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers."
+    publishedDateTime: 2021-08-11T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "bsE1sz/ZmzPeoOAnVNQFxpF8TedK68HMPDhZvXY8xQI44Z1crVl8BwzY8ZqvimTukeNZBoCZ52vmPPpL0z/zCZjWCx3Ve/T2+AE7ok1R45MiTBjXMygnU+042wML5hLgwKCJTL1IfBBQwXKPBru/RQ9KdUzu9LHJNRYecsfVBxQqDODKklU4Q83jnlhHVj/0aB/YMJqD0yH7t1jaIUZUPcXnvIIr/TRUwuXRZf3oRBVVQLO6UCBHLm2R7/UfJzXlxmk164ggNpUEJyotCWH8ae8R6JrooNUpNZwaP9aD7aYPKNv5TToMY7bfJtHRPoWQupe3Iay52x29aAo5hYsXAw==;Z74VX+ZayGaH8ViQnzkymw=="
 ---
