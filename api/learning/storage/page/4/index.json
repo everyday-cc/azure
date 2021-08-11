@@ -4,50 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-gather-metrics-from-blob-storage.md",
-      "title": "Gather metrics from your Azure Blob Storage containers",
-      "excerpt": "Find out how to use Azure Storage Analytics to track the performance of your Blob storage containers and to display that Blob performance in your dashboard.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-gather-metrics-from-blob-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/gather-metrics-blob-storage/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 41,
-        "average": 4.487805
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/gather-metrics-from-blob-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-ha-application-storage-with-grs.md",
       "title": "Make your application storage highly available with read-access geo-redundant storage",
       "excerpt": "In this module, you learn how to make your application storage highly available by ensuring that you can fail over resources if there's an Azure region failure.",
@@ -296,6 +252,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-optimize-performance-and-costs-using-azure-disk-storage.md",
+      "title": "Optimize performance and costs using Azure Disk Storage",
+      "excerpt": "Microsoft Azure Disk Storage offers a range of disk types and capabilities that enable you to optimize application performance and costs in specific scenarios. In this module, you'll learn more about how disk performance works, identify Azure Disk Storage capabilities, and performance-scaling options.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-performance-and-costs-using-azure-disk-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-performance-and-costs-using-azure-disk-storage/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 7,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-organize-blobs-properties-metadata.md",
       "title": "Organize Azure storage blobs with properties and metadata",
       "excerpt": "Find out about Azure storage blob properties and metadata, how to organize blob data, and create an app with ASP.NET to retrieve metadata.",
@@ -303,8 +302,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/organize-blobs-properties-metadata/",
       "length": "PT42M",
       "ratings": {
-        "count": 72,
-        "average": 4.4444447
+        "count": 73,
+        "average": 4.452055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -567,8 +566,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/support-concurrency-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 64,
-        "average": 4.765625
+        "count": 65,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",

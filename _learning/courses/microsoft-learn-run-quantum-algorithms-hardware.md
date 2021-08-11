@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT25M
 ratings:
-  count: 27
-  average: 4.6666665
+  count: 28
+  average: 4.678571
 heat: 50
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "UZRSVyDt7AA90mOT1UTPv52vdSw+LZI+IZ6rYCNd8JVgpzso/rVC+6pOyzUp9ziEuSG5WBLPCDQeitiUI7W3hYLohF3l0cqqPR838C6RrxJqZuJYUBAbSsCoOn1o2a8dlY79eNACtme3bByMrNKVRnVUMUIm88/U9h6P0X6NaVH/AAQASwJeSoeW6+yW8iFLIMmA5fOtwAPv/qVYQzUVjw4Sc1lZc2eVSRvXDRxvRkSSo9uXhRAYfOZ5u+owwD0X54rWd2mf0AZPxYhtwodOdEBXeY6HapLXm7CUyUPfAvcV5EdP3Dy523Durv+YFz0wu2cM9BTvGikHRJ1sF4EYY8Dsf6veiPuf48EpJB4Cfw8kwEkdwZ6yI+omK0A6A40TH0buHJtQth6AodWa3Afq4jkwrD/f0e/a5IFDyBFCppA=;TnSY/V51HSjRwRPeLYFsAg=="
+secured: "FKln8lrS3Aebymrji1mDf1ZHAwxcjyqQE31KwnmpDH/3YHX0FnQeHsJFATcZ45ryRoF2V3fpvFaGzdJsM42MXRyyiMwdBBK43ikeGhEI1PN1t4SO4CU4xQr5NMVegnlUgWHLlJ/FreL8/7KVY1TgauWwtAGcfx+qlMRCYOEdklqjpPbAX6R4oHqyGnPeMjc7gbrgBQo296DryubihX8RgFt+yHAcCrPrNN1pAI6zpDSBjIkAOsmfNiiotqe+ADjbh0JjSYiHH3HkgPHaMt0+lxbTPi/E4LzG9L0ETSQwQ++XO6YW7qOAyKAz1OWUKfnWFQTYkfJMF3k+tlcqz1+F0ztJVBCfMUJzyKqcekZrEullptYQEDjNApPFr35v79Ug2PtE8CA4NSO98mDYExkXAabO+FcCBp9WMPsgKBFpkvA=;BNB3RK+dXBlpT4QHoWqnnQ=="
 ---
 
