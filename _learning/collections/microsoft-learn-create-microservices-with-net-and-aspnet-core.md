@@ -4,7 +4,7 @@ excerpt: "Create independently deployable, highly scalable, and resilient servic
 type: collection
 price: Free
 length: PT7H17M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn
