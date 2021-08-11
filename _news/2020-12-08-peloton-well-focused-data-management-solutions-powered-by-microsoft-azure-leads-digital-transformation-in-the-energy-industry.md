@@ -694,6 +694,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "SWARM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
+    publishedDateTime: 2021-08-11T12:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
   - title: "Microsoft Switzerland launches Dynamics 365, more Power Platform modules and additional Azure services from the Swiss data centers."
     excerpt: "With Dynamics 365 and the Power Platform, Microsoft Switzerland is completing its existing local cloud offering after having launched Microsoft Azure and Microsoft 365 with Teams previously. In addition,"
     publishedDateTime: 2020-12-03T12:43:00Z

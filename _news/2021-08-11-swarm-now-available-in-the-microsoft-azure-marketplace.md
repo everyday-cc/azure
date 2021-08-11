@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
-excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
-publishedDateTime: 2020-12-08T10:10:00Z
-originalUrl: "https://www.crn.com/news/cloud/microsoft-azure-creates-top-secret-government-cloud-as-jedi-battle-rages-on"
-webUrl: "https://www.crn.com/news/cloud/microsoft-azure-creates-top-secret-government-cloud-as-jedi-battle-rages-on"
+title: "SWARM Now Available in the Microsoft Azure Marketplace"
+excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
+publishedDateTime: 2021-08-11T12:33:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
 type: article
-quality: 35
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.crn.com/resources/0264-1108feaab360-3f03b36b0abc-1000/pentagon-front.jpg"
-    width: 610
-    height: 457
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Digital Twins in general availability"
@@ -506,6 +500,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
+    excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
+    publishedDateTime: 2020-12-08T10:10:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-creates-top-secret-government-cloud-as-jedi-battle-rages-on"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 35
+    images:
+      - url: "https://www.crn.com/resources/0264-1108feaab360-3f03b36b0abc-1000/pentagon-front.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "Microsoft Azure and Deutsche Telekom sign seven-year joint growth agreement"
     excerpt: "Deutsche will move most of its IT operations to Microsoft’s cloud by 2025, promote the company’s products and add access to Azure to sales packages"
     publishedDateTime: 2020-12-14T16:01:00Z
@@ -680,15 +688,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "SWARM Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
-    publishedDateTime: 2021-08-11T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
   - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
     excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
     publishedDateTime: 2020-12-08T15:47:00Z
@@ -727,6 +726,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "dIO14hqa9tR1DZfZx3jFqCMb1LpOT9gTu0lXKY1aWAsJ6pHOr6h4lI3Uzcjdai3QaL7gt34JKWKsWRtAVSjL3lESvkg9UAXIl25pQfNL3EF7Xjc0/44uztAqr2rfPjANVgLONpduq9NL/FuYbey7HDg1ECmXeCzVMA7E7JEZNdPDIwDu6YAg0KJYkR3SbpET8IH/wWL2jPC0zc71pRx5GN3h1q7EXiX6B+DRdhpd5pr7BlqCa73iuUz56licBcJ61kdQSKUFEstA7wnMeEGxwMX4N5X3gtTrEYLe0cd5nR1RN12mXCEIoFldbcuz5Xiynv+DONK0LyWKDeq1FAl5UAz05KO0uIjtkb/U1JEhgb5w8fsrF+QvViVkE+aKDhGw7HCJaOJrkOFkYhAIFTeXYBzwv3hzo3D7KFrm4A18c2/0/nVp2CxVulHQWsvS2Zxx9VokGP4QFuaNtOVAKj0vmKoBzM39isj+FLcwsD1RdaMIlcc9K3C5s0VsS1CbKkxs9rdTkCHFbP3lxNbaZAcJ8Q==;Ya8xVVgz4BcfQyOfP2ZGHw=="
+secured: "uxUGHnuNxBTt0BVFhXWtmDcqxK1ZNtoylhOBsVkcS0UEr52s5WSQrvSjeB9immmhgLbQ/nznu44sZwcgqYt3eD85unIgzKaIdiHwkpz8T6qDBBBaMuNU0SC9ESTh7qtgqxRGKAJWyLCjyoXVDbr+VOD2vXlBqNJ8CXHIY3SiDv+BX8n2c0fLbotoTw070PprsOtjNW7JU4FaywJV6baC7Ybf4rd7uVp6NhCCI9UB4xBxdjCsKWFkrUuPy15GdIzzhTLgFYsLZe024wFVSMNf9vkJrMKtssmBtKBbqpPcOvHgDd5TYmmYYMnM+PwbgeEmf+ezhqn/TNzCnT6Wv5FmJAt/D4vuLjkgbar69WMGIIo=;aRtqk/4KUowUH1ZVnESehg=="
 ---
 

@@ -1,11 +1,12 @@
 ---
 category: news
-title: "ExpressRoute Global Reach: Building your own cloud-based global backbone"
-excerpt: "Connectivity has gone through a fundamental shift as more workloads and services have moved to the Cloud. Traditional enterprise Wide Area Networks (WAN) have been fixed in nature, without the ability to dynamically scale to meet modern customer demands. For customers seeking to increasingly apply a"
-publishedDateTime: 2020-02-27T10:00:01Z
-webUrl: "https://azure.microsoft.com/blog/expressroute-global-reach-building-your-own-cloud-based-global-backbone/"
+title: "General availability: GitHub Codespaces and github.dev"
+excerpt: "GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers. Everyone can also leverage github.dev to browse GitHub repositories and make lightweight code changes."
+publishedDateTime: 2021-08-11T16:00:16Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces-and-githubdev/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces-and-githubdev/"
 type: article
-quality: 23
+quality: 52
 heat: -1
 published: false
 
@@ -19,14 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Networking
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/91479b4e-3251-419d-861a-102b91287a1c.png"
-    width: 800
-    height: 450
-    isCached: true
-    title: "ExpressRoute Global Reach: Building your own cloud-based global backbone"
 
 related:
   - title: "General availability: Azure ExpressRoute Global Reach: 2 new locations"
@@ -56,16 +49,21 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "General availability: GitHub Codespaces and github.dev"
-    excerpt: "GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers. Everyone can also leverage github.dev to browse GitHub repositories and make lightweight code changes."
-    publishedDateTime: 2021-08-11T16:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces-and-githubdev/"
+  - title: "ExpressRoute Global Reach: Building your own cloud-based global backbone"
+    excerpt: "Connectivity has gone through a fundamental shift as more workloads and services have moved to the Cloud. Traditional enterprise Wide Area Networks (WAN) have been fixed in nature, without the ability to dynamically scale to meet modern customer demands. For customers seeking to increasingly apply a"
+    publishedDateTime: 2020-02-27T10:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/expressroute-global-reach-building-your-own-cloud-based-global-backbone/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 23
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/91479b4e-3251-419d-861a-102b91287a1c.png"
+        width: 800
+        height: 450
+        isCached: true
 
-secured: "bsE1sz/ZmzPeoOAnVNQFxpF8TedK68HMPDhZvXY8xQI44Z1crVl8BwzY8ZqvimTukeNZBoCZ52vmPPpL0z/zCZjWCx3Ve/T2+AE7ok1R45MiTBjXMygnU+042wML5hLgwKCJTL1IfBBQwXKPBru/RQ9KdUzu9LHJNRYecsfVBxQqDODKklU4Q83jnlhHVj/0aB/YMJqD0yH7t1jaIUZUPcXnvIIr/TRUwuXRZf3oRBVVQLO6UCBHLm2R7/UfJzXlxmk164ggNpUEJyotCWH8ae8R6JrooNUpNZwaP9aD7aYPKNv5TToMY7bfJtHRPoWQupe3Iay52x29aAo5hYsXAw==;Z74VX+ZayGaH8ViQnzkymw=="
+secured: "XQBt9gSSCbKHlLPeM2PPiaP7bQqWBFZkVAJiF0KZKJhp8U4UHBsYdIPMB9q+sfX1cr+L83imp6+CUzRni2hr6Soo0GZHB4o+vTd88icfzOuiY7TbENjBVa5gYok1r912hu3CM3bv9QbfNa3hLTU5SEHpBS3gU8mhFJjYT3RssIivfnAVvY29vLQ/oD92xaxhXUZQWTi7tBVuMBLHaHEgtb8Oh3kyKP1Y5zgHkr7nbZ0wFKArGbksmL3Ln+kphUG7M5jM+wO/V0xMVlfvfINaWDlOc2Tcugmy/kSPqlnrqwUHAACrWGg4O4OPjRXEsvnbXhyLjZuqZ3cJ25PWYs/OcEWQ9I5lyi2bFKg1pmSw5KA=;mi1rWqsuNP6jh0dCgxHS/w=="
 ---
 

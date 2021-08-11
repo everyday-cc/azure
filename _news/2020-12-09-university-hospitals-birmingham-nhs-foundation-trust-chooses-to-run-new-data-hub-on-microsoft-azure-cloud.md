@@ -684,6 +684,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "SWARM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
+    publishedDateTime: 2021-08-11T12:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
   - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
     excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
     publishedDateTime: 2020-12-08T15:47:00Z
