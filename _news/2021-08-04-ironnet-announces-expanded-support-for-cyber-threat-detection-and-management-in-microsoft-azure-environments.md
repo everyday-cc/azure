@@ -64,6 +64,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft Azure unveils automated ransomware detection tool: 5 details"
+    excerpt: "Microsoft has unveiled a ransomware detection feature for its Azure clients. The tool will send alerts to security analysts when it detects potential ransomware activities, according to an Aug. 9 ..."
+    publishedDateTime: 2021-08-10T18:41:00Z
+    webUrl: "https://www.beckershospitalreview.com/cybersecurity/microsoft-azure-unveils-automated-ransomware-detection-tool-5-details.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/cybersecurity/3.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
     excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Polic"
     publishedDateTime: 2021-08-09T16:00:00Z

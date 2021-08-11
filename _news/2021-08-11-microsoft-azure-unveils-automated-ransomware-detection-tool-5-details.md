@@ -1,29 +1,25 @@
 ---
 category: news
-title: "CarePoint Health Achieves Operational Simplicity with Rubrik Cloud Data Management and Microsoft Azure"
-excerpt: "CarePoint Health combines the resources of three area hospitals, Bayonne Medical Center, Christ Hospital in Jersey City, and Hoboken University Medical Center, to provide 360 degree coordinated care delivered by the area’s most dedicated doctors, nurses ..."
-publishedDateTime: 2021-08-06T15:54:00Z
-originalUrl: "https://www.infoworld.com/resources/222727/carepoint-health-achieves-operational-simplicity-with-rubrik-cloud-data-management-and-microsoft-azu"
-webUrl: "https://www.infoworld.com/resources/222727/carepoint-health-achieves-operational-simplicity-with-rubrik-cloud-data-management-and-microsoft-azu"
+title: "Microsoft Azure unveils automated ransomware detection tool: 5 details"
+excerpt: "Microsoft has unveiled a ransomware detection feature for its Azure clients. The tool will send alerts to security analysts when it detects potential ransomware activities, according to an Aug. 9 ..."
+publishedDateTime: 2021-08-10T18:41:00Z
+originalUrl: "https://www.beckershospitalreview.com/cybersecurity/microsoft-azure-unveils-automated-ransomware-detection-tool-5-details.html"
+webUrl: "https://www.beckershospitalreview.com/cybersecurity/microsoft-azure-unveils-automated-ransomware-detection-tool-5-details.html"
 type: article
-quality: 61
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Becker's Hospital Review
+  domain: beckershospitalreview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-    width: 300
+  - url: "https://www.beckershospitalreview.com/images/channels/cybersecurity/3.jpg"
+    width: 400
     height: 300
     isCached: true
 
@@ -44,6 +40,20 @@ related:
         width: 708
         height: 399
         isCached: true
+  - title: "CarePoint Health Achieves Operational Simplicity with Rubrik Cloud Data Management and Microsoft Azure"
+    excerpt: "CarePoint Health combines the resources of three area hospitals, Bayonne Medical Center, Christ Hospital in Jersey City, and Hoboken University Medical Center, to provide 360 degree coordinated care delivered by the area’s most dedicated doctors, nurses ..."
+    publishedDateTime: 2021-08-06T15:54:00Z
+    webUrl: "https://www.infoworld.com/resources/222727/carepoint-health-achieves-operational-simplicity-with-rubrik-cloud-data-management-and-microsoft-azu"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 61
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel"
     excerpt: "Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential ransomware activity using the Fusion machine learning model."
     publishedDateTime: 2021-08-09T21:22:00Z
@@ -59,20 +69,6 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2021/08/09/Azure-Sentinel.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Microsoft Azure unveils automated ransomware detection tool: 5 details"
-    excerpt: "Microsoft has unveiled a ransomware detection feature for its Azure clients. The tool will send alerts to security analysts when it detects potential ransomware activities, according to an Aug. 9 ..."
-    publishedDateTime: 2021-08-10T18:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/cybersecurity/microsoft-azure-unveils-automated-ransomware-detection-tool-5-details.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/cybersecurity/3.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
     excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
@@ -93,6 +89,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "q4GNod6yCnMWFfdxz+UWRc1q6jvxR6nR+uMciOeX9SuYpYnNmoQ92kdA6x/HLbvMaCG6U8bmdwy2EIpTWtGF4SQbZ0pw2HqW3qbMv0qWKcICgpXZOV/3kBu/fmFcm5BIlhVEKyoZ7nr2yv9e6JeGLL3MzAQtx0jtQsa7W6dzDnlOtIeLQPDuVBDLOfWwHjMeNdCjGxAgDuG76jg1nwTgFaMoirkDIBOqeShePjEPaXRjWys4+lqe6A0f4QKGt5Ci4hjHjZH/acSMh1DkOShWjz7m5D7OntfIikSI/Xu/ENsqRM4xGKFx4yb/EZCPLC8cdWtqw1SramUnK5pKG2mXxot/tamk6aOH1R5ekQcsZnk=;Kkl2xipL5alowrbzqBNHNw=="
+secured: "JloO/LW6CwVNc8klWqnj2HMz5T5B4x6GucWiENzz/i0wF12oIdRf8FbRE89gn6GBb4543c66hhiTLrCe0gDu1dkBKAuymFV0vUNhtKoeD+RRGvNsO02v0hQ9CVXtGToaeOLtqh+EYJ5NRXN2yJ2wgdfAGrmTe0ZwJOc5Iby1s0e2Yjm9kQOo0Ckir6Ns0Wq2N90oLSgwHhXeFoZ+jBt3Zso/arTILtSsgzCg2RFMPSnMoBy6qgGqiX0BqltJVycSKPAmfmaKtUEn1p1e/oyWdky88kni/xi980a7ZqkUqCGOc4n3INgdcMWhSOJT0WbU6ejNHPnFGMa/J24UqvY6qUVbRVrE4pBD2x9eZiT6oI0=;GcdoBx3rn4Q3oGOn5iGC8A=="
 ---
 
