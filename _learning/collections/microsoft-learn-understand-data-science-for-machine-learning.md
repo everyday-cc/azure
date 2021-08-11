@@ -4,7 +4,7 @@ excerpt: "Machine learning is enables data scientists make predictions about obj
 type: collection
 price: Free
 length: PT7H25M
-heat: 64
+heat: 62
 
 provider:
   name: Microsoft Learn

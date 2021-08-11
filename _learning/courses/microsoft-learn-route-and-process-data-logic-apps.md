@@ -8,7 +8,7 @@ length: PT56M
 ratings:
   count: 2008
   average: 4.49502
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     height: 400
     isCached: true
 
-secured: "N/Xm7TUxk7kb0pWjrtibLoejnKRt65YYT7cNexIA0Huthh7dNIPc853DJJcXB9/KwaRDH8vIEHJSSFlA9ER7LvIfDxAP3JRKWxn2M7ZF5M1HIq0lqg/JDgqbeLCd0Cz5jOm3Zx9Fa7dCAgoW44oNSa6tnAqo3aFTXPpIJqu0U82mN4KFmyJQHinL6z8W/k/SmBFj266wUB7HcDoL/MDFnWjmMpmktd73i5gxfl4E3OHgcoTFVS55OFrM1m1kvhg7adkZoRYHPNWcwnfzFeo0ZWUwGq3MJyf3jykYyyrfp1JwCZ3xvJgF0P81MQjS9BR4GEkC4FXCjjwbqURoMPFsbUAaAGtIHXDBf7pskTy98eSU3XDrN6sfGgjhr02oSpFcObm3t2cRz7v+T260LhmbXBCl0a5VjDIj5Si3QT1vPoY=;aNlUS3ayYfnzMiKphFJY9A=="
+secured: "1vpNJqWfSfqrbD0y6e5BqQZrDnPyxAF5QnoDGJN3cBtVl+jeJYyOW0fbSIvsZggJNnnrNVwKlLPt/X8S4sTG0LQOwrNgBvuUAZQ05N80PRJycoDLnwKOmmfcgTBr4D4nmH8ndaQOP+deFUUVw/gyqueP6aA1GKEn6oJ0MXGW22xI7LvfptdqkRnFAY3SCrkyxIRJSnWGFXIlazJYanQpjRUComGIkqPyQmfDD7iTtuzPizFSsdy4qQFajqmrAtoCfuJxSZYDTEISyxqRM9DPkFDm05Pf1NcgWaaO7yLshDUWz2jvjbqI3+8BO2ScnOd/CBhshKH9YSMuT2sxy4m/JwWIDZZ5CZa8w4bwUhXFZdcqBEGJzCCy7hWwR9/ZGN/2YrNrEp8e+YsO0LdBkk5aspoWemYvQC+ZhTR+cmyyJL8=;keIVevOLeYysB5+KYWUZhg=="
 ---
 
