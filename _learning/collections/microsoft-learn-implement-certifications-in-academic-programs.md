@@ -4,7 +4,7 @@ excerpt: "Learn how to implement certifications in academic programs."
 type: collection
 price: Free
 length: PT54M
-heat: 50
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,8 @@ levels:
 items:
   - courses/microsoft-learn-academic-program-certifications-define-requirements
   - courses/microsoft-learn-academic-program-certifications-design-program-curricula
+  - courses/microsoft-learn-academic-program-certifications-prepare-program-approval
+  - courses/microsoft-learn-academic-program-certifications-design-program-launch
 
 topics:
   - Azure
