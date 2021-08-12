@@ -4,6 +4,92 @@
   "page": 42,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-hdinsight-configuration-to-build-open-source-analytical-solutions.md",
+      "title": "Choose the correct HDInsight Configuration to build open-source analytics solutions",
+      "excerpt": "Choose the correct HDInsight Configuration to build open-source analytics solutions",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-hdinsight-configuration-to-build-open-source-analytical-solutions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hdinsight-config-open-source-solution/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 222,
+        "average": 4.6306305
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/hdinsight-config-build-oss-analytical-solutions-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-host-build-agent.md",
+      "title": "Host your own build agent in Azure Pipelines",
+      "excerpt": "Work with guidance from the Space Game web team to set up your build agent running on-premises or on an Azure virtual machine running in the cloud.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-host-build-agent/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 2064,
+        "average": 4.723353
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-hpc-storage-considerations.md",
       "title": "Understand factors that influence HPC storage selection in Azure",
       "excerpt": "We'll discuss various factors that influence High Performance Computing (HPC) storage selection in Azure. We'll review NFS, file access, directory services, parallel file systems and hybrid file access considerations.",
@@ -54,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hunt-threats-sentinel/",
       "length": "PT1H5M",
       "ratings": {
-        "count": 126,
-        "average": 4.7619047
+        "count": 127,
+        "average": 4.7637796
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1196,92 +1282,6 @@
         "Azure",
         "Identity",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-office-telemetry.md",
-      "title": "Implement Office Telemetry",
-      "excerpt": "Implement Office Telemetry",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-office-telemetry/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-office-telemetry/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 20,
-        "average": 4.85
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-policy-tips-for-dlp-policies.md",
-      "title": "Implement policy tips for DLP policies",
-      "excerpt": "Implement policy tips for DLP policies",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-policy-tips-for-dlp-policies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-policy-tips-for-dlp-policies/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 6,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

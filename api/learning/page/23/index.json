@@ -4,50 +4,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-deep-learning.md",
-      "title": "Use deep learning models to make predictions about specialized data",
-      "excerpt": "Use convolutional neural networks and recurrent neural networks to analyze and predict images and text with TensorFlow and Keras.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deep-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-deep-learning/",
-      "length": "44 mins",
-      "ratings": {
-        "count": 252,
-        "average": 4.654762
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-deep-learning-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Use deep learning models to make predictions about specialized data",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-define-foundation-pillars.md",
       "title": "Define the foundation pillars of DevOps: Architecture and Technology",
       "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
@@ -220,8 +176,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 2559,
-        "average": 4.7667055
+        "count": 2560,
+        "average": 4.766797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -523,8 +479,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics/",
       "length": "PT50M",
       "ratings": {
-        "count": 66,
-        "average": 4.757576
+        "count": 67,
+        "average": 4.7462687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -690,6 +646,49 @@
         "Management Tools",
         "Networking",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-implement-private-access-to-azure-services.md",
+      "title": "Design and implement private access to Azure Services",
+      "excerpt": "You will learn to design and implement private access to Azure Services with Azure Private Link, and virtual network service endpoints.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-private-access-to-azure-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-to-azure-services/",
+      "length": "PT1H30M",
+      "ratings": {
+        "count": 12,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
       ]
     },
     {

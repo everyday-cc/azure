@@ -729,6 +729,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-app-package-management-using-helm.md",
+      "title": "Application and package management using Helm",
+      "excerpt": "Helm is an application package manager for Kubernetes that you use to standardize and simplify the deployment of cloud-native applications on Kubernetes. Here you'll see how to install third-party packages called Helm charts and how to create and install Helm charts for the workloads your teams develop.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-app-package-management-using-helm/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 335,
+        "average": 4.719403
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/app-package-management-using-helm-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-app-service-autoscale-rules.md",
       "title": "Dynamically meet changing web app performance requirements with autoscale rules",
       "excerpt": "Respond to periods of high activity by incrementally adding resources, and then removing these resources when activity drops, to reduce costs.",
@@ -965,8 +1008,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 362,
-        "average": 4.668508
+        "count": 363,
+        "average": 4.6694217
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1215,49 +1258,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-automate-iot-devices-management-with-azure-iot-hub.md",
-      "title": "Automate IoT devices management with Azure IoT Hub",
-      "excerpt": "Automate IoT devices management with Azure IoT Hub",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-iot-devices-management-with-azure-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-iot-devices-management-with-azure-iot-hub/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 279,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/automate-iot-devices-management-with-azure-iot-hub-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],
