@@ -1,18 +1,18 @@
 ---
 category: news
 title: "SWARM Now Available in the Microsoft Azure Marketplace"
-excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
-publishedDateTime: 2021-08-11T12:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
-webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+publishedDateTime: 2021-08-11T12:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-swarm-now-available-the-microsoft-azure-marketplace-/2021/08/11/9428580.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-swarm-now-available-the-microsoft-azure-marketplace-/2021/08/11/9428580.htm"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -726,6 +726,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "k0jQCJ/9LzpYtIdzRJr0VlKP5ChkMVOeQNtWNwHTb+8euWzS4/DnXc4ju26rVzdi8tjkCZKFOLeqr73IkyPvLJFItRTn5ZLSUeLcaz+Dw0WFwPjkbk/DQoBKaOwvAlcubcJEXAqk5debJRUXnjGKSGzeQgwRGoMYennrkyGT2wbQjZM9tSgG7bqIG0QJ3eecAfJJZkcYGvK82L1+toOIFx//1IXtLh/YQqUWbDc6EyKPqG+hb/pN0Goq4dikn8bZWL5ZmTnuSyyhVofNILGnnPNpsRUb2+QJmKqiAq/1KqVF6zDi40o83dh6sEjjL0YHw3ItB95sKH/g1zxaakmYZwSCL/SmxEocBUNmybBBJVg=;SUSXNpEwrEOXaKHEwVTB4w=="
+secured: "pgmFnn7XH/nU/lqYsY1vzRrKxaTC6cr7pn0cfQw8wfnytHqKNyin1lZuvvmpiwk0kXzXijyCOdkuXfO3vdAF5vhmlb9f/qO3kM/d4obwRTq5QTFVsYknLl3R0gK5rRbm1kMVkbMelmhPC6bDGmWytvKUU+G0JdBQBekJqvPXDty6dUAhLo+viI7Fh0vYS1R2ib7yx08eZalRujOaZpQv1160hBbHm0bO946vwmQF+fNgmwhUBAl4UI4G2C+uINf6uZKW66Ufl/OhVerv9A26YWCZsFZQE5fe1EvK47F2QpxdtWnX9zlxt0iJzr9WfQiq8M+k0HqIUNHq9o7scMwv1VPuygqTdUZ7JVO6eiKqj8M=;6dqf1qhX/FNL8bRiWx1V5Q=="
 ---
 
