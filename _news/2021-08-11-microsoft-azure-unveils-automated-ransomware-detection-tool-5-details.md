@@ -84,19 +84,24 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
+    excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Police Service (the Met) and Microsoft Azure to ..."
+    publishedDateTime: 2021-08-09T12:09:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/london-s-metropolitan-police-selects-magnet-forensics-microsoft-azure-to-power-transformation-of-digital-forensic/article_fe12ac31-b5e6-5091-a14e-b3c845a5a17f.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 7
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
     excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
     publishedDateTime: 2021-08-04T16:30:00Z
     webUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-  - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
-    excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Polic"
-    publishedDateTime: 2021-08-09T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210809005179/en/London’s-Metropolitan-Police-Selects-Magnet-Forensics-Microsoft-Azure-to-Power-Transformation-of-Digital-Forensic-Evidence-Review"
     type: article
     provider:
       name: Business Wire

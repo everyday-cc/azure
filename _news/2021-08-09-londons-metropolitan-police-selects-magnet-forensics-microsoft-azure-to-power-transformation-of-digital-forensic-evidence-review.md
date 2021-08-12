@@ -1,21 +1,27 @@
 ---
 category: news
 title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
-excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Polic"
-publishedDateTime: 2021-08-09T16:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210809005179/en/London’s-Metropolitan-Police-Selects-Magnet-Forensics-Microsoft-Azure-to-Power-Transformation-of-Digital-Forensic-Evidence-Review"
-webUrl: "https://www.businesswire.com/news/home/20210809005179/en/London’s-Metropolitan-Police-Selects-Magnet-Forensics-Microsoft-Azure-to-Power-Transformation-of-Digital-Forensic-Evidence-Review"
+excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Police Service (the Met) and Microsoft Azure to ..."
+publishedDateTime: 2021-08-09T12:09:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/london-s-metropolitan-police-selects-magnet-forensics-microsoft-azure-to-power-transformation-of-digital-forensic/article_fe12ac31-b5e6-5091-a14e-b3c845a5a17f.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/london-s-metropolitan-police-selects-magnet-forensics-microsoft-azure-to-power-transformation-of-digital-forensic/article_fe12ac31-b5e6-5091-a14e-b3c845a5a17f.html"
 type: article
-quality: 0
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
@@ -102,6 +108,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "VUkVSSKbQlupnAn8OnnjD3NPr0+1zpfllDwApTNvQ6Lin6zDlYbIKdr940c2DIlcEQ3ioTjIwnJbYU51ry+LdMCk7rElE1B8mrxwRrhOrlSjbp8GqUp8TNPAdlDKyGaEUREUsApgmyIbUBFm0kuLIIH+1YAi979hXWWxtAk0cN90y5/zQwTY5Ob/3mQqM0JVs+75y/eRGnqcW08fofsW6dfJPbnVEBV4DjdFK99ooNsOR/6diFwLIOSh7EzWtAFVAI91lXTgTwii/AdRaznGk6BCq8I+9kLq0Azfgo/LRobwNxMdICx6GBGXhDzCrI5mC84ZSeh8QNOcBLsNwOgxDFX57FAzPYQOZwhLznuF2tg=;c0B8Lt5GFPvDQ7gCVOBePQ=="
+secured: "fsNvzuHf5OYvdb7S84qwVrxiNWfQa+5XDPazWHq4SgVJPmhbA0BZ3jcg/jICITceTfKdlpliqQbG92r3b9znQM44GaWzXVn8uVE0aUqb2UxCJgEbNEQzqf5e3SiW6o3/EVao0kTo1iFnAYjLAtq0kxn8VkK0IgpiyKYSwjgj1PO2xv0tzm1aCOtT4+phbMDHPV6tvG+2vdAnORN8LTsYo3PKvfa8AhudBXpFp6NVCXemKmvCfS3aTYuBGT9TgmcaiEwMUuAqTJsobqWuIidKPTXSS7KUJkUpboxq9KC4HXqGH8mYn13TTB/EmMypcpqDtUW28KldhBhFWEdHu2RpwkWO2B8JKJU4fxCp36F3WGU=;y4DAZrwAGILS8LZzCjYSKg=="
 ---
 

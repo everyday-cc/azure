@@ -93,14 +93,19 @@ related:
         height: 450
         isCached: true
   - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
-    excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Polic"
-    publishedDateTime: 2021-08-09T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210809005179/en/London’s-Metropolitan-Police-Selects-Magnet-Forensics-Microsoft-Azure-to-Power-Transformation-of-Digital-Forensic-Evidence-Review"
+    excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Police Service (the Met) and Microsoft Azure to ..."
+    publishedDateTime: 2021-08-09T12:09:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/london-s-metropolitan-police-selects-magnet-forensics-microsoft-azure-to-power-transformation-of-digital-forensic/article_fe12ac31-b5e6-5091-a14e-b3c845a5a17f.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 7
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7tE8zf1Q2HghHA6L9tHCnKiNW4Kxzdusoh+v4/vvbwVS6foxSbHCDpQi6o4Xj1uQXEb0bFpW+d6z5yJ2UlPZL2xzjiBM6hc5OanOIgaRKRGDpC/ZMuwvJvZzeMI8S0AVb1pcaEZAosYq9Xct8Cg34kBr0hX1ZBhs9oQczdUJQB4a/FEL05DxmiayS6/iiVpPB9iqSe/utrcMK0UbkCRyuwNMRZxmnnFRAaUi3OvkaWTPsVcEXfx5XvxB7JbmXTd5wwEqUnB7NU8PqpiqD4M1uRN65oUHynsxacYDiwClwgpPeecfeWiqBw5giYW1f+vibMmFxYGDO60GCoONUzKkvN9FVtachpGXiSXvkIXiYX0=;MYIlroR+FUm0jPeBwAzAmQ=="
 ---
