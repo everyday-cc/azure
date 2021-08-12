@@ -4,6 +4,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-configure-network-security-groups.md",
+      "title": "Configure network security groups",
+      "excerpt": "You will learn how to implement network security groups and ensure network security group rules are correctly applied.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-network-security-groups/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-security-groups/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 18,
+        "average": 4.7777777
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-subscriptions.md",
       "title": "Configure subscriptions",
       "excerpt": "You will learn how to configure subscriptions including obtaining a subscription, implementing cost management, and applying resource tags.",
@@ -269,8 +312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 4513,
-        "average": 4.658542
+        "count": 4514,
+        "average": 4.6586175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -305,8 +348,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
       "length": "PT44M",
       "ratings": {
-        "count": 107,
-        "average": 4.7476635
+        "count": 108,
+        "average": 4.7314816
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -774,8 +817,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
       "length": "PT34M",
       "ratings": {
-        "count": 1842,
-        "average": 4.5304017
+        "count": 1843,
+        "average": 4.5306563
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -937,8 +980,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
       "length": "PT49M",
       "ratings": {
-        "count": 937,
-        "average": 4.654216
+        "count": 938,
+        "average": 4.653518
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1229,49 +1272,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage.md",
-      "title": "Introduction to Azure Data Lake storage",
-      "excerpt": "Discover how Data Lake Storage provides a repository where you can upload and store unstructured data bringing new efficiencies to processing big data analytics.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 2183,
-        "average": 4.7081995
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

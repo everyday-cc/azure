@@ -4,6 +4,48 @@
   "page": 24,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-azure-monitoring-for-sap-workloads-azure-vms.md",
+      "title": "Implement Azure Monitoring for SAP workloads on Azure VMs",
+      "excerpt": "Implement Azure Monitoring for SAP workloads on Azure VMs",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-azure-monitoring-for-sap-workloads-azure-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-azure-monitoring-sap-workloads-azure-virtual-machines/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 70,
+        "average": 4.928571
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-monitoring-sap-workloads-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-azure-vm-based-sap-solutions.md",
       "title": "Implement Azure VM-based SAP solutions",
       "excerpt": "Implement Azure VM-based SAP solutions",
@@ -96,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
       "length": "PT47M",
       "ratings": {
-        "count": 1108,
-        "average": 4.7084837
+        "count": 1109,
+        "average": 4.7087464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1217,51 +1259,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-microservices-architecture.md",
-      "title": "Decompose a monolithic application into a microservices architecture",
-      "excerpt": "Improve development agility, deployment, fault tolerance, and scalability by modernizing your application with a microservices architecture.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-microservices-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-architecture/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 342,
-        "average": 4.637427
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/microservices-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Web"
       ]
     }
   ],
