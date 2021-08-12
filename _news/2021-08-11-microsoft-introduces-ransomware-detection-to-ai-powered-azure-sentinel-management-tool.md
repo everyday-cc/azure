@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-det
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
 type: article
 quality: 66
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Permuta's DefenseReady Solution Achieves DoD IL5 ATO in Microsoft's Azure Environment"
+    excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (DefenseReady) has received the DoD IL5 Authority to Operate (ATO)."
+    publishedDateTime: 2021-08-12T15:51:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-permutas-defenseready-solution-achieves-dod-il5-ato-microsofts-/2021/08/12/9430008.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
   - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
     excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
     publishedDateTime: 2021-08-04T16:30:00Z

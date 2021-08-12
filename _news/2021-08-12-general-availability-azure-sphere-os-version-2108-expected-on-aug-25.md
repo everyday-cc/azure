@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Automation Hybrid Worker Extension for Azure and Arc machines is coming soon"
-excerpt: "Onboard Azure automation hybrid workers using hybrid extension for Azure and Arc machines"
-publishedDateTime: 2021-08-06T16:00:06Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-arc-hybrid-extension/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-arc-hybrid-extension/"
+title: "General availability: Azure Sphere OS version 21.08 expected on Aug 25"
+excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
+publishedDateTime: 2021-08-12T15:04:11Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2108-expected-on-aug-25/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2108-expected-on-aug-25/"
 type: article
-quality: 61
+quality: 67
 heat: -1
 published: false
 
@@ -49,16 +49,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Sphere OS version 21.08 expected on Aug 25"
-    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
-    publishedDateTime: 2021-08-12T15:04:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2108-expected-on-aug-25/"
+  - title: "Azure Automation Hybrid Worker Extension for Azure and Arc machines is coming soon"
+    excerpt: "Onboard Azure automation hybrid workers using hybrid extension for Azure and Arc machines"
+    publishedDateTime: 2021-08-06T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-arc-hybrid-extension/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 61
 
-secured: "ltlFHLRRPrDkPoTojhUvjy8ATqoB8FGB1ulsvDx6U/QzPVmSS2f70XxBEO5yboysiHKLb6bXkphkUtIsZfxhf27QmUph4urYfKB8aort22rVz80sQKYrcGD/1s5VfW7CdDT6tyD9CSmVi/7myp9ikn9afzpK7OzZqyml+wCOFzOzb647lrTPduiU6j15x+BnutU2sn/ZsGsPTtaCVnp/O+oT8A44MygO3syZmUzqLKzzvKU2+oKE8hSJhJCOKIGwiaomhk9eAUy2OTrglJyYdPWcLwzX/ubpnAbJ1Wt3mXk4LqiKnLH5JZ7FLatHSc88YNvM7xgkTNmW554xmT+LlBE2BmMgbaUGWk0aQq01gLc=;jhWII+RD8kDsdtduYSSbQA=="
+secured: "cLoTClct04hV80cjdC6quq0edB98oWUuJns8O5ekI2hBCAxGvRMTFvd+xUeSLtQ+1psQsUCCAsGWtRSOcvBsmtGCYKHM58knSFJEtcMCE7q0Ua57nLrr7Q7Mk6RQvEL0/L54XxxkkWlziIUI0AGW7tJkFitLgmx+71iJs5MzUtOsldP2WWAeG5bRPXyba611ZNguUYQarbZfIDF0xoKAAd59ER51/+5kzf8CWdPDJG4QAz/PiEdmJ/aGAVOjWdfNufzdlrR6/Soh//uci+Z6iwgCjYOOou+2g9OAQVwUPkrccopoEw6U9InPGKrZ1w3Kt3JJ8IwfdM936h44x/3Da03UdEtxXA1eByqbBJYFPqE=;AQIAERs9JK9bvpvjeUA1Ag=="
 ---
 

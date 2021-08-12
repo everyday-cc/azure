@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/availability-zones-azure
 webUrl: "https://azure.microsoft.com/en-us/updates/availability-zones-azure-automation-coming-soon/"
 type: article
 quality: 67
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
     excerpt: "Use Azure AD based authentication for Automation public endpoints"
     publishedDateTime: 2021-08-06T16:00:06Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azuread-automation-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Sphere OS version 21.08 expected on Aug 25"
+    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
+    publishedDateTime: 2021-08-12T15:04:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2108-expected-on-aug-25/"
     type: article
     provider:
       name: Microsoft

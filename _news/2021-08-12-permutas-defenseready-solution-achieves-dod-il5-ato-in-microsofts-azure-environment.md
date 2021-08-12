@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel"
-excerpt: "Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential ransomware activity using the Fusion machine learning model."
-publishedDateTime: 2021-08-09T21:22:00Z
-originalUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/"
-webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/"
-ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/amp/"
-cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/amp/"
+title: "Permuta's DefenseReady Solution Achieves DoD IL5 ATO in Microsoft's Azure Environment"
+excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (DefenseReady) has received the DoD IL5 Authority to Operate (ATO)."
+publishedDateTime: 2021-08-12T15:51:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-permutas-defenseready-solution-achieves-dod-il5-ato-microsofts-/2021/08/12/9430008.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-permutas-defenseready-solution-achieves-dod-il5-ato-microsofts-/2021/08/12/9430008.htm"
 type: article
-quality: 57
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Bleeping Computer
-  domain: bleepingcomputer.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.bleepstatic.com/content/hl-images/2021/08/09/Azure-Sentinel.jpg"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
@@ -56,6 +48,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel"
+    excerpt: "Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential ransomware activity using the Fusion machine learning model."
+    publishedDateTime: 2021-08-09T21:22:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/08/09/Azure-Sentinel.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft Azure unveils automated ransomware detection tool: 5 details"
     excerpt: "Microsoft has unveiled a ransomware detection feature for its Azure clients. The tool will send alerts to security analysts when it detects potential ransomware activities, according to an Aug. 9 ..."
     publishedDateTime: 2021-08-10T18:41:00Z
@@ -70,15 +78,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Permuta's DefenseReady Solution Achieves DoD IL5 ATO in Microsoft's Azure Environment"
-    excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (DefenseReady) has received the DoD IL5 Authority to Operate (ATO)."
-    publishedDateTime: 2021-08-12T15:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-permutas-defenseready-solution-achieves-dod-il5-ato-microsofts-/2021/08/12/9430008.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
   - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
     excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
     publishedDateTime: 2021-08-04T16:30:00Z
@@ -98,6 +97,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "/YCfMcnX+SQItJZmU/3bzDEMPHEAS9ALzyNSr6Ao6kOouI//I4NVGeBfyW3c9N6ieTvIeXJwmyerrhpvRC7SSfCe8+KinFGRrPICsh9sTDhZYnSwnI+8QK2zbEbIig9+HGRx9KOQCJEv/9/dj8YgF3ZyilckK+Xjf4yVJ6w30kpWtyRomN1RxOapVPCAzZTY80qlJfiYr+PRb74snIKsnEcc/jsvZ5NEEJ+SlYV85B4VfTlPDxy6jjxYOIEYeP1tZey8cPDa3YPnrLSDg9nh7TS8kRXrAus18QAoq9Ne92duVyNBbZSGm5dvq5eSZU7RW58gbIX3bYu1xwcaieMNF6fOKRM9aVXDgDvc1/hQ98U=;4ONxw5+gx9Z8rNBuuYyBmw=="
+secured: "s4ozcV9oWpEiOkQs3v3PogP+cXFoha7D2j6hCRl0xfeAKBFxvAvYRi2NtGgjQv7GcVhk2ZUZ32ZSdepHTkmMAacgLDlGTRUSsQ23nv4rc26gMy8vwx8bA+6FNY2dpR53ie4C9OPiR3/3Ul58zarufADTuYKlY0ea1PAX4t8qEKjmpo3wD9QvgIjjKUrv1v9e2UMPOv1i8Tkklv+KJQ8BQiOGostYIBwIIdMpSMf+OaRRCpbJBoQxg/opBv5Q2RDd8ur1IQhLeoJIxFXexNglBVLDqXlHfZHV2kCxSAzXRatn7nw9TcHHHB6tDMjdzezeDNoB9b70esSudoisuG/s/QuHnyT0Zm/KsLf3kLirC5o=;ZetjBIDNvLniTbPEI8yjWw=="
 ---
 
