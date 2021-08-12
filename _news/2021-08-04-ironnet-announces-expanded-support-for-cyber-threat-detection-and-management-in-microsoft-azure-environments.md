@@ -78,15 +78,20 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Permuta's DefenseReady Solution Achieves DoD IL5 ATO in Microsoft's Azure Environment"
-    excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (DefenseReady) has received the DoD IL5 Authority to Operate (ATO)."
-    publishedDateTime: 2021-08-12T15:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-permutas-defenseready-solution-achieves-dod-il5-ato-microsofts-/2021/08/12/9430008.htm"
+  - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
+    excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
+    publishedDateTime: 2021-08-12T14:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
     excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Polic"
     publishedDateTime: 2021-08-09T16:00:00Z

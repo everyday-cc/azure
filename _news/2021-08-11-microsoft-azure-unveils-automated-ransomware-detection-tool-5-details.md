@@ -70,15 +70,20 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Permuta's DefenseReady Solution Achieves DoD IL5 ATO in Microsoft's Azure Environment"
-    excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (DefenseReady) has received the DoD IL5 Authority to Operate (ATO)."
-    publishedDateTime: 2021-08-12T15:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-permutas-defenseready-solution-achieves-dod-il5-ato-microsofts-/2021/08/12/9430008.htm"
+  - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
+    excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
+    publishedDateTime: 2021-08-12T14:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
     excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
     publishedDateTime: 2021-08-04T16:30:00Z

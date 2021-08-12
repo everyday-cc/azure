@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Permuta's DefenseReady Solution Achieves DoD IL5 ATO in Microsoft's Azure Environment"
-excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (DefenseReady) has received the DoD IL5 Authority to Operate (ATO)."
-publishedDateTime: 2021-08-12T15:51:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-permutas-defenseready-solution-achieves-dod-il5-ato-microsofts-/2021/08/12/9430008.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-permutas-defenseready-solution-achieves-dod-il5-ato-microsofts-/2021/08/12/9430008.htm"
+title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
+excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
+publishedDateTime: 2021-08-12T14:24:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
 type: article
-quality: 10
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
@@ -97,6 +103,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "s4ozcV9oWpEiOkQs3v3PogP+cXFoha7D2j6hCRl0xfeAKBFxvAvYRi2NtGgjQv7GcVhk2ZUZ32ZSdepHTkmMAacgLDlGTRUSsQ23nv4rc26gMy8vwx8bA+6FNY2dpR53ie4C9OPiR3/3Ul58zarufADTuYKlY0ea1PAX4t8qEKjmpo3wD9QvgIjjKUrv1v9e2UMPOv1i8Tkklv+KJQ8BQiOGostYIBwIIdMpSMf+OaRRCpbJBoQxg/opBv5Q2RDd8ur1IQhLeoJIxFXexNglBVLDqXlHfZHV2kCxSAzXRatn7nw9TcHHHB6tDMjdzezeDNoB9b70esSudoisuG/s/QuHnyT0Zm/KsLf3kLirC5o=;ZetjBIDNvLniTbPEI8yjWw=="
+secured: "vdc7zKd7/5GklQt9WhmQT7ufb93w2b1cOcGTtT1QwtXEtDp4FRn23V8JfR8rC9qmfXnlpmqK99KZQAS287DG+7cQbFNDA0eNwoz+iawp6/Z0bWzweicG9vRgWQeuzpPsZ4bD0fj21+E1vnya4z3BqZLABJK9iRzILpWFTK0PcCif7YMVegIPVH96LxJxVJDFVQrJvQ6DffHETPdTcWlVsdZ3k88WALLqxkXSTqTWw9WqywRQkyd3unllV6qE37upCnOIFZ+LqziDZtl6xF7UpKSRR6rxvdSx5i2iuUzHzrWIeQutiOlRlKMOgUEQ9yTLLDXJtnl12doAv7UFjzCZ6GRJBAe91hQXkbHGJia2tCw=;jjlDjeByBs2Qy9gCG/+hkQ=="
 ---
 
