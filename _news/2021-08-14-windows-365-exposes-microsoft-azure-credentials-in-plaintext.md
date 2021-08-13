@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
-excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
-publishedDateTime: 2021-08-12T14:24:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
+title: "Windows 365 exposes Microsoft Azure credentials in plaintext"
+excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
+publishedDateTime: 2021-08-13T18:24:00Z
+originalUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"
+webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"
+ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
 type: article
-quality: 30
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
+    width: 1800
+    height: 900
     isCached: true
 
 related:
@@ -70,22 +72,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Windows 365 exposes Microsoft Azure credentials in plaintext"
-    excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
-    publishedDateTime: 2021-08-13T18:24:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 57
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "Microsoft Azure unveils automated ransomware detection tool: 5 details"
     excerpt: "Microsoft has unveiled a ransomware detection feature for its Azure clients. The tool will send alerts to security analysts when it detects potential ransomware activities, according to an Aug. 9 ..."
     publishedDateTime: 2021-08-10T18:41:00Z
@@ -99,6 +85,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/cybersecurity/3.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
+    excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
+    publishedDateTime: 2021-08-12T14:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
     excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Police Service (the Met) and Microsoft Azure to ..."
@@ -124,6 +124,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "vdc7zKd7/5GklQt9WhmQT7ufb93w2b1cOcGTtT1QwtXEtDp4FRn23V8JfR8rC9qmfXnlpmqK99KZQAS287DG+7cQbFNDA0eNwoz+iawp6/Z0bWzweicG9vRgWQeuzpPsZ4bD0fj21+E1vnya4z3BqZLABJK9iRzILpWFTK0PcCif7YMVegIPVH96LxJxVJDFVQrJvQ6DffHETPdTcWlVsdZ3k88WALLqxkXSTqTWw9WqywRQkyd3unllV6qE37upCnOIFZ+LqziDZtl6xF7UpKSRR6rxvdSx5i2iuUzHzrWIeQutiOlRlKMOgUEQ9yTLLDXJtnl12doAv7UFjzCZ6GRJBAe91hQXkbHGJia2tCw=;jjlDjeByBs2Qy9gCG/+hkQ=="
+secured: "JeylCeDdY0vl21IMSM1iKpwyG44WqCuQrld10fvx9GlDi1oQzDwPqzb9uHfy44vbAr5lWwdg+lGOwHkhD4Xux5MEXRgVKIrWYfS06NOXpmzYX31NwRikjeT3EFL5Wd+IydqYjT3K82Ck4fDonAdxKAhxU8r8BieDs3QJIVgS3wREJa31XhxsEKDUK7/Ew3BkA87Nc8TNhKZnIrxRIa3Y1MdyZl86Zq/rFyM1pOfZRpFrYyrdC09+/nBBs6vDqf5tLAoQ277CHKe7Sx0rRNxoiLW1YI+OPR4YIBVJ36pgMY+ZwmyKpQpMnqw1hvQKHAffuHLpubl8NbgsZ+WmszUWl641ZxQSqZpoAPIzUyJTANs=;0xlV8bZK6az+Owg4eGlkKw=="
 ---
 
