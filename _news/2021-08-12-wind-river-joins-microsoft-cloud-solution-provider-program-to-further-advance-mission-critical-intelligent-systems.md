@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Wind River Joins Microsoft Cloud Solution Provider Program to Further Advance Mission-Critical Intelligent Systems"
-excerpt: "Wind River ®, a global leader in delivering software for intelligent systems, joins the Microsoft Cloud Solution Provider (CSP (News - Alert)) program to offer its new Wind River Studio platform running on Azure."
-publishedDateTime: 2021-08-12T13:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-wind-river-joins-microsoft-cloud-solution-provider-program-/2021/08/12/9429780.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-wind-river-joins-microsoft-cloud-solution-provider-program-/2021/08/12/9429780.htm"
+excerpt: "Wind River ®, a global leader in delivering software for intelligent systems, joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River Studio platform running on Azure. Studio is a cloud-native platform for the development,"
+publishedDateTime: 2021-08-12T13:00:00Z
+originalUrl: "https://www.financialbuzz.com/wind-river-joins-microsoft-cloud-solution-provider-program-to-further-advance-mission-critical-intelligent-systems/"
+webUrl: "https://www.financialbuzz.com/wind-river-joins-microsoft-cloud-solution-provider-program-to-further-advance-mission-critical-intelligent-systems/"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
 
-secured: "dYL4OLsOLX8XHxWQqbmUokWkxSrxmg0rrKPV+OTQmvpW3AAyeGkPFPtcMfj+cPS+HBaAJDegGgwgDBpt0bn8uitmP5OCOsXnw8rTH/VqNELQwYmlZ3mq6griA0zh8NZee24cmpAo8wScEsX8SI0xG+tGI0P1fTykXhIFogD5G0+BHrswVA6S4qqN7STnrx/egIQJVs+Hm6DMViIFHrcWyHbiVSCpw9PBFp4qE6ZpKAAhHf9+ECbLA6jE+A6e3oL7ZvojqHqiJpnUPpvLM3QRKRsOULm4+UwT/o6CRqUrQbHChroTTZP7l4tIEfuyd1SZTwUYdUSqvKK5SWRSkOmKbftpdAwRNjqCyjcte6w12ls=;2Awu/i/eNaZUxDRjyh5hyw=="
+secured: "0LOOocHCyP5hZMyUiXxa7pY5NAV3+TmnWGHKz8pLWBW4vtKQyVVkCBdEEi2DJhm2mtTGtEGuWi/OFz7usDlwxacW5WbL4743/m7Bu//wn0epqAOXYmKGmCaxsRxfeirEN2AdmPFxeC9rSt8PtSFK3FzE43J5xYRbATxi7mXTIcph7fWD9zjfhX07xWSOp4vbUju1ABlbxytZJZG258ew52O0J2uta4OSIrag1YRW0zx6+0SHxS2zsWplQ5GoOZIqqMpOMimmpYYLsdJxsYG2xJITvFD3zQ/SJdW3EhOiJ3hIMxrHYCJfCE0nCgJI0w6EjbC31mvIKDOtY3z9vFIBT2TL580cvwUz3mAECIoTPYo=;fAj1h9WTA3uuA6/REmGxVQ=="
 ---
 
