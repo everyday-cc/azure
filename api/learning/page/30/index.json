@@ -4,101 +4,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
-      "title": "Implement logging in a .NET Framework ASP.NET web application",
-      "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 40,
-        "average": 4.65
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile",
-        "Management Tools",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aspnet-session.md",
-      "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
-      "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-session/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-session/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 40,
-        "average": 4.675
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms.md",
       "title": "Audit the security of Windows Server IaaS Virtual Machines",
       "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
@@ -670,8 +575,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-artificial-intelligence/",
       "length": "PT59M",
       "ratings": {
-        "count": 4641,
-        "average": 4.7459598
+        "count": 4642,
+        "average": 4.7460146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -784,6 +689,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-azure-cyclecloud-high-performance-computing.md",
+      "title": "Create, customize and manage an HPC cluster in Azure with Azure CycleCloud",
+      "excerpt": "This module explains how to use Azure CycleCloud for high-performance computing. It explains how to install and configure Azure CycleCloud to work with your Azure subscription as well as how to integrate a third-party scheduler. Finally, it covers how to create and deploy a basic HPC cluster on Azure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-cyclecloud-high-performance-computing/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-cyclecloud-high-performance-computing/",
+      "length": "PT1H18M",
+      "ratings": {
+        "count": 8,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-cyclecloud-high-performance-computing-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-data-subject-requests.md",
       "title": "Responding to Data Subject Requests (DSRs)",
       "excerpt": "Learners will know, understand, and be able to describe Data Subject Requests (DSRs). They will also know how to manage DSRs on Azure and Microsoft 365.",
@@ -876,8 +823,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
       "length": "PT30M",
       "ratings": {
-        "count": 2228,
-        "average": 4.7001796
+        "count": 2229,
+        "average": 4.700314
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1274,6 +1221,48 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-stack-hci-plan-deploy-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-stack-hci-technologies.md",
+      "title": "Introduction to Azure Stack HCI core technologies",
+      "excerpt": "This module introduces Azure Stack HCI technologies. You'll learn about the core Azure Stack HCI technologies, including Hyper-V, Windows Server software-defined storage, and Windows Server software-defined networking.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-stack-hci-technologies/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-stack-hci-technologies/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 51,
+        "average": 4.7647057
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-stack-hci-technologies-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
