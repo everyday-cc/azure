@@ -1,27 +1,24 @@
 ---
 category: news
-title: "Collaborative Drug Discovery Joins the Microsoft Cloud Storage Partner Program"
-excerpt: "PRNewswire/ -- Collaborative Drug Discovery (CDD), provider of the CDD Vault web-based research informatics platform, announced that it has officially"
-publishedDateTime: 2020-06-09T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/collaborative-drug-discovery-joins-the-microsoft-cloud-storage-partner-program-301072297.html"
+title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
+excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
+publishedDateTime: 2021-08-13T15:07:00Z
+originalUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
 type: article
-quality: 18
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1177967/Collaborative_Drug_Discovery_Logo.jpg?p=facebook"
-    width: 2498
-    height: 1309
-    isCached: true
-    title: "Collaborative Drug Discovery Joins the Microsoft Cloud Storage Partner Program"
+  - AI
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -63,17 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
-    publishedDateTime: 2021-08-13T15:07:00Z
-    webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
   - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
     excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
     publishedDateTime: 2020-06-09T12:09:00Z
@@ -158,6 +144,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Collaborative Drug Discovery Joins the Microsoft Cloud Storage Partner Program"
+    excerpt: "PRNewswire/ -- Collaborative Drug Discovery (CDD), provider of the CDD Vault web-based research informatics platform, announced that it has officially"
+    publishedDateTime: 2020-06-09T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/collaborative-drug-discovery-joins-the-microsoft-cloud-storage-partner-program-301072297.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1177967/Collaborative_Drug_Discovery_Logo.jpg?p=facebook"
+        width: 2498
+        height: 1309
+        isCached: true
   - title: "Kudelski Security Launches Additional Services for the Microsoft Modern Workplace"
     excerpt: "cloud-first cybersecurity portfolio that supports digital transformation initiatives of global enterprises using private and public cloud services. In addition to providing a dedicated Microsoft focus, Kudelski Security offers clients a combination of proprietary, native cloud security monitoring capabilities as well as teams of experienced ..."
     publishedDateTime: 2020-06-03T15:40:00Z
@@ -216,6 +216,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "DhzymMLWKrBAuSDT2ClCNyZDb/9lhCgvDncQ+VUP8GDwlB8ZGrvsJE1O5Iy/4iM+Fj7A8VFJy6YCvfx9uBaE408AKjDrystO6OSxzHw38fd0hglNZjvC3bFXCPuLEHKCbqyR/lPEJSySYA+plD9+hdt06iUGwPZcdDpSaUUYpkfSpF4e24sxQyp4k+bYF9HclJtBr6mSrkcPUrdbALoLd8e7+PPxB0OAKcg8QBLJ05w+xW8DjrRW1IFp4BVi4bXDfBtIEr4YevRtXaOyy0ALfCguJwSRyDIjD/0gCwLhbrd3O9T7q+LXKLCJP1BsP7cD26VT7TtM8pJ0k+rA4ECTI96QAw5v6VOf0bBUyW2QFhIhXd5zvBAMLOWuzEqd2dAVZhn4CQJmpwVrXZ6XddFlAWNiR97Wf4Ho9qDF+NB2bBbgzxigptwfcGLJmuQ59K9L/ImAEbGaPwMePcQFSZn2UWLynrmbecgY2zvST+CbCU6GMRwzZKvhdAbB5oaIa3qx;FlY0w6ZcvI4af5AnUzGvDg=="
+secured: "fjEHeJv+zURkf3nFDqgCh6IXpzXoeoJNYqEuvhROh2PyGA0ipBDM/lkBLu+pAfZnNOs9S8f3q0bbMP5TlcrT5YKEUi3Lf0mzbt4LSrxxjmVXFMkTaPeg0ZjiEwuIwmFVrfh5vPXLZaQ2/ruOE0VZoP/lFzoF9XTcdVJD/YgiBWs9RWvUkgfN86byCCSU4At6bSK/JfVGNsn16rItnmyQOUdSAIE73uBPQaca+AmYeDg/kVVt985t7873/jdvCemg8fOeonHTi1QlpqV53lk+P492dSK6hTLSVzfzeb06r7eDBico2ME+BqsE2eZZTyhKJX2DhwHdAVubrjWQxXrkBiof5le8jmKb66lOo79E7pk=;cOTX7Ydn9MIMlJfVJYmU7w=="
 ---
 
