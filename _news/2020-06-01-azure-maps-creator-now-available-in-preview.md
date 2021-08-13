@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-
 webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
 type: article
 quality: 93
-heat: 354
+heat: 353
 published: true
 
 provider:
