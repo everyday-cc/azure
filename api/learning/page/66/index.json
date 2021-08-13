@@ -4,124 +4,6 @@
   "page": 66,
   "value": [
     {
-      "path": "_learning/videos/microsoft-security-center-adaptive-application-controls.md",
-      "title": "Security Center Adaptive Application Controls",
-      "excerpt": "Learn how to enable Adaptive Application Controls or Application Whitelisting with Azure Security Center. For more information, visit: http://aka.ms/SecurityCommunity",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-security-center-adaptive-application-controls/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-security-center-adaptive-application-controls/",
-      "originalUrl": "https://youtube.com/watch?v=wWWekI1Y9ck",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wWWekI1Y9ck\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M43S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-03-12T13:18:43-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wWWekI1Y9ck/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-serverless-automation-using-powershell-in-azure-functions-azure-friday.md",
-      "title": "Serverless automation using PowerShell in Azure Functions | Azure Friday",
-      "excerpt": "Eamon O'Reilly joins Scott Hanselman to show how PowerShell in Azure Functions makes it possible for you to automate operational tasks and take advantage of the native Azure integration to deliver and maintain services. [01:150] Demo Start   Azure Functions overview https://aka.ms/azfr/540/01  Create",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-serverless-automation-using-powershell-in-azure-functions-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-serverless-automation-using-powershell-in-azure-functions-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=biTE9PgdOAs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/biTE9PgdOAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M3S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-11T12:21:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/biTE9PgdOAs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-serverless-geo-distributed-applications-with-azure-cosmos-db-azure-friday.md",
-      "title": "Serverless geo-distributed applications with Azure Cosmos DB | Azure Friday",
-      "excerpt": "Matias Quaranta joins Scott Hanselman to share some best practices for creating serverless geo-distributed applications with Azure Cosmos DB. With the native integration between Azure Cosmos DB and Azure Functions, you can create database triggers, input bindings, and output bindings directly from your",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-serverless-geo-distributed-applications-with-azure-cosmos-db-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-serverless-geo-distributed-applications-with-azure-cosmos-db-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=cfZUiVQIhTw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cfZUiVQIhTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M54S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-11T12:22:55-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cfZUiVQIhTw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-siphon-on-hdinsight-kafka-azure-friday.md",
       "title": "Siphon on HDInsight Kafka | Azure Friday",
       "excerpt": "Thomas Alex joins Lara Rubbelke to discuss how Microsoft uses Apache Kafka for HDInsight to power Siphon, a data ingestion service for internal use. Apache Kafka for HDInsight is an enterprise-grade, open-source, streaming ingestion service. Microsoft created Siphon as a highly available and reliable",
@@ -158,6 +40,45 @@
       "topics": [
         "Azure",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday.md",
+      "title": "Testing in production with Azure App Service | Azure Friday",
+      "excerpt": "Byron Tardif joins Scott Hanselman to show how to leverage Azure App Service features to empower your DevOps to achieve sophisticated scenarios like testing in production using deployment slots with just a few clicks.  Azure App Service overview https://aka.ms/azfr/565/01  Set up staging environments",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=MP8fXgxq6xo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MP8fXgxq6xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M36S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-09T00:04:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MP8fXgxq6xo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
       ]
     },
     {
@@ -427,6 +348,44 @@
       "topics": [
         "Azure",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-troubleshoot-and-diagnose-azure-virtual-machines-with-serial-console-azure-friday.md",
+      "title": "Troubleshoot and diagnose Azure Virtual Machines with Serial Console | Azure Friday",
+      "excerpt": "Alfred Sin joins Donovan Brown to discuss the Azure Serial Console, which is now generally available in all public clouds. Serial console enables you to use an interactive shell in situations where you may be unable to SSH or RDP into your VM, which make it super-easy for troubleshooting and self-serve",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-troubleshoot-and-diagnose-azure-virtual-machines-with-serial-console-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-troubleshoot-and-diagnose-azure-virtual-machines-with-serial-console-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=KxKZW3VAcU4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KxKZW3VAcU4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M41S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T16:56:05-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KxKZW3VAcU4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -1161,6 +1120,44 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-what-are-the-benefits-of-power-apps-for-professional-developers-one-dev-question-dona-sarkar.md",
+      "title": "What are the benefits of Power Apps for professional developers? | One Dev Question: Dona Sarkar",
+      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar shares why Power Apps is important for professional developers.   For more information, visit: https://docs.microsoft.com/powerapps/maker/canvas-apps/getting-started/?WT.mc_id=onedevquestion-c9-donasa    Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-what-are-the-benefits-of-power-apps-for-professional-developers-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-what-are-the-benefits-of-power-apps-for-professional-developers-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=FoLb43pu2H8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FoLb43pu2H8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M29S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-20T08:17:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FoLb43pu2H8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
