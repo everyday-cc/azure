@@ -4,6 +4,48 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-cybersecurity.md",
+      "title": "Introduction to cybersecurity",
+      "excerpt": "Evaluate how to defend against the most common cyberthreat.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-cybersecurity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-cybersecurity/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 37,
+        "average": 4.864865
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-hpc.md",
       "title": "Introduction to high-performance computing (HPC) on Azure",
       "excerpt": "Discover the services available on Azure for your high-performance computing workloads.",
@@ -432,8 +474,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 3900,
-        "average": 4.653333
+        "count": 3901,
+        "average": 4.6529093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1215,48 +1257,6 @@
         "Azure",
         "Migration",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-virtual-desktop-deployment-azure-firewall.md",
-      "title": "Protect your Azure Virtual Desktop deployment by using Azure Firewall",
-      "excerpt": "Learn how to deploy and configure Azure Firewall to protect outbound network traffic for Azure Virtual Desktop.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-virtual-desktop-deployment-azure-firewall/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-desktop-deployment-azure-firewall/",
-      "length": "PT1H18M",
-      "ratings": {
-        "count": 70,
-        "average": 4.9
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-desktop-deployment-azure-firewall-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

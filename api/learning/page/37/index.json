@@ -4,6 +4,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-threat-indicators-to-azure-sentinel.md",
+      "title": "Connect threat indicators to Azure Sentinel",
+      "excerpt": "Connect threat indicators to Azure Sentinel",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-threat-indicators-to-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-threat-indicators-to-azure-sentinel/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 62,
+        "average": 4.854839
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-windows-hosts-to-azure-sentinel.md",
       "title": "Connect Windows hosts to Azure Sentinel",
       "excerpt": "Connect Windows hosts to Azure Sentinel",
@@ -1245,49 +1288,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-vm-offer-commercial-marketplace.md",
-      "title": "Create a virtual machine offer for the commercial marketplace",
-      "excerpt": "This module provides a high-level overview of VM offers in the commercial marketplace",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-vm-offer-commercial-marketplace/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-vm-offer-commercial-marketplace/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 14,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],
