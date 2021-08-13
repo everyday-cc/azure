@@ -1,18 +1,18 @@
 ---
 category: news
 title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
-excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
-publishedDateTime: 2021-08-04T16:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
-webUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
+excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."
+publishedDateTime: 2021-08-04T08:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ironnet-announces-expanded-support-for-cyber-threat-detection-and-management-in"
+webUrl: "https://www.nasdaq.com/press-release/ironnet-announces-expanded-support-for-cyber-threat-detection-and-management-in"
 type: article
-quality: 0
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
@@ -96,8 +96,8 @@ related:
         isCached: true
   - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
     excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
-    publishedDateTime: 2021-08-12T14:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
+    publishedDateTime: 2021-08-12T14:05:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-0e67b5143f0752442040fceb7b398d58"
     type: article
     provider:
       name: Associated Press
@@ -123,6 +123,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7tE8zf1Q2HghHA6L9tHCnKiNW4Kxzdusoh+v4/vvbwVS6foxSbHCDpQi6o4Xj1uQXEb0bFpW+d6z5yJ2UlPZL2xzjiBM6hc5OanOIgaRKRGDpC/ZMuwvJvZzeMI8S0AVb1pcaEZAosYq9Xct8Cg34kBr0hX1ZBhs9oQczdUJQB4a/FEL05DxmiayS6/iiVpPB9iqSe/utrcMK0UbkCRyuwNMRZxmnnFRAaUi3OvkaWTPsVcEXfx5XvxB7JbmXTd5wwEqUnB7NU8PqpiqD4M1uRN65oUHynsxacYDiwClwgpPeecfeWiqBw5giYW1f+vibMmFxYGDO60GCoONUzKkvN9FVtachpGXiSXvkIXiYX0=;MYIlroR+FUm0jPeBwAzAmQ=="
+secured: "tGjirvlbxZFL1E4JpoaPKfueSTMCkc6uKdrVsKFJjCtbHYJxuHrPUUO/q8byvu6Y4kWOkedeWdr7xLEn+I5iRNpi32H7OsEmFAZyDrH7K6aSKuHebqK4Bsm2UvEVsttmXZ06RltahBKGIn4HLlJY2p2AvwJNnd7xp/MlqqudcR/nkqRgDOuG0x/0llWn+8KP6p3ZmFhpBUuPNDLEDZgedDM3xdddcRZbcZVkJO3l179F1bKxpWs1kBKvyqa/qwLsD9gjjTtap0q/yr5gPHG9HiI17rPnLp0lwPW1v/gAhLrr1ZZCg38lbMhay19ppT+PqxeRPqDhgHHZB4fiLVQYSX+ulcc+olyGDxkmTOHiBOk=;nMOYVps4xQm6T89NB/WEYA=="
 ---
 

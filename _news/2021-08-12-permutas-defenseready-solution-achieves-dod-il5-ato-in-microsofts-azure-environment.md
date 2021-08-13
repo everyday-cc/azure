@@ -2,9 +2,9 @@
 category: news
 title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
 excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
-publishedDateTime: 2021-08-12T14:24:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
+publishedDateTime: 2021-08-12T14:05:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-0e67b5143f0752442040fceb7b398d58"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-0e67b5143f0752442040fceb7b398d58"
 type: article
 quality: 30
 heat: -1
@@ -86,6 +86,15 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
+    excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."
+    publishedDateTime: 2021-08-04T08:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ironnet-announces-expanded-support-for-cyber-threat-detection-and-management-in"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 38
   - title: "Microsoft Azure unveils automated ransomware detection tool: 5 details"
     excerpt: "Microsoft has unveiled a ransomware detection feature for its Azure clients. The tool will send alerts to security analysts when it detects potential ransomware activities, according to an Aug. 9 ..."
     publishedDateTime: 2021-08-10T18:41:00Z
@@ -114,16 +123,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
-    excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
-    publishedDateTime: 2021-08-04T16:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
-secured: "vdc7zKd7/5GklQt9WhmQT7ufb93w2b1cOcGTtT1QwtXEtDp4FRn23V8JfR8rC9qmfXnlpmqK99KZQAS287DG+7cQbFNDA0eNwoz+iawp6/Z0bWzweicG9vRgWQeuzpPsZ4bD0fj21+E1vnya4z3BqZLABJK9iRzILpWFTK0PcCif7YMVegIPVH96LxJxVJDFVQrJvQ6DffHETPdTcWlVsdZ3k88WALLqxkXSTqTWw9WqywRQkyd3unllV6qE37upCnOIFZ+LqziDZtl6xF7UpKSRR6rxvdSx5i2iuUzHzrWIeQutiOlRlKMOgUEQ9yTLLDXJtnl12doAv7UFjzCZ6GRJBAe91hQXkbHGJia2tCw=;jjlDjeByBs2Qy9gCG/+hkQ=="
+secured: "MgmPI0h/LHXdaGxwSbHQYg4lLvEo328bGLJ6C8iHmJDUdYWFmyVUS2Yko7ZMx8MRNxSXf3BPL/LXMQAealcrfJWfVwFq2zogrPAFF5rSXx9Ca4gvpU1AMUy2ZJui9J+CVaxnYhpMSiv2aQYDoerFPPoY7VNZw5dSHePwV/qHjhK/cRDwK+WkOPdm/MzC9af/6CER05xbMsmlfmRSieAG2mVfPWsydqtntyJ+HIB2nqD4gQSN9+RCrisyYooMZgT4AsMQoXNBn+ZMOOpyURr6sjjkshxtNMwEgYosgjqFTk4AE58JzrSbpFIyAPwa11Z3TyJpANgaurbZ/oXqiWDCjWtYieZU7mXDgHZT83kJYDs=;bnlX9uzi9mJ/wyB/FgeS+g=="
 ---
 

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "SHI Elevates Azure Expert MSP Status, Meeting Stricter Levels of Criteria in Recent Progress Audit"
-excerpt: "SHI International, one of the world's largest technology solutions providers, reaffirmed its Azure Expert MSP status in a rigorous third-party progress audit. After being recognized by Microsoft with the Azure Expert credential in 2020,"
-publishedDateTime: 2021-08-11T18:55:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-shi-elevates-azure-expert-msp-status-meeting-stricter-/2021/08/11/9429099.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-shi-elevates-azure-expert-msp-status-meeting-stricter-/2021/08/11/9429099.htm"
+excerpt: "SHI International, one of the world’s largest technology solutions providers, reaffirmed its Azure Expert MSP status in a rigorous third-party progres"
+publishedDateTime: 2021-08-11T22:50:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210811005779/en/SHI-Elevates-Azure-Expert-MSP-Status-Meeting-Stricter-Levels-of-Criteria-in-Recent-Progress-Audit"
+webUrl: "https://www.businesswire.com/news/home/20210811005779/en/SHI-Elevates-Azure-Expert-MSP-Status-Meeting-Stricter-Levels-of-Criteria-in-Recent-Progress-Audit"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -28,6 +28,6 @@ related:
       domain: morningstar.com
     quality: 3
 
-secured: "sK3va746Q27NwpzLHywcwATBaTUx3zA8aqfUTXBzWttYIsT21SamES3BRJKBgdacoNCZz0TKPihSvw+SdWqrXA+fIt2rQ0wnzNlGIPPgixBIjyDeWY8/lDPbVhYsroONe7MNSc2U8sVezYuLtQVIvUyn/do+PJBKRo4UAHZQTe4ZSSp8BPmWyrV8SMpbTqlW90Beh7Tahdy68T/zfLMMkPHu40acmEuN9UVnMlls7U6pitEZv+TjOTPu2M9EReaRrwzvC/nLYCzL3dKK3htv+fssD2btrhqbax8giiUGOKjq3fF6s2t1ZJ8chmutLaq7F0uwVKJiPWRVqb/1Q8v/BiC0afi3p+NBJIsfi9dFPj4=;9yuptlNrxsvYE4gAiaRiNQ=="
+secured: "5RTghUJz+HbnAFZRrpNS9FpHQg5jYDwMVs7B+4ZVnwTU6ZC421CnH53FHlmZiEBPv9DLKhr4vcr9dHbcvKJKAmW8WkuBeETHG83RpQ6q+ueX3LS+rv12GFtwPb8b9BB2dOKyW9QIXbPzaO4/ND2Nm1sHY/JPh4Le+9RXj7y9LWPF3Dngg1SuRqWK1MN9uITgRWCTLGJsszxdZQiOyojEP0+HmjIz26n9bZWVhRPe1fFSAaYOCn/iuE8vzdzSyOwwCo+FA8vR/6/Omd0Wnw72KpnD2/NoWg+XOU7AZ7HDb3Es3zutvMcdDRpCtmD3xyrXU1G/nEiagAzVXr4XERvvIEdrOIB3mThyQYE5KCGmlOY=;ugOCItOqDIY7pi296Jxlwg=="
 ---
 
