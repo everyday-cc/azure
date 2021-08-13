@@ -8,7 +8,7 @@ length: PT55M
 ratings:
   count: 1561
   average: 4.7648945
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "/xb15BpOfS2Cg16SL7IewtzHGy8h9JXJ2L+fnFla59/o2kyEAkvihk0czjSwwLHiKPjrZPr2vRLzLcJmIAB9R9H2Hb2qPhxbY14nd0GQkC6xC1WfnYz3EPMOAqLmbNpFBIRbXAJDWNnPJ9TBpawxM7//nUUYQtTAwk4bxNGN/Cw5hcvNWK3qDDZVlSAPe2vv2bQXbzDy0KHV6MhdZtkwu5xpFjPVNCxJly5/yP3wwMC6sUnM857sTltE/l8KYhSGv+HhBOGa7STbQ7r/euZFMxOpAyi18MKtQFlGmfAmONTyjrDjKEDoZpu+9y4/rwcLmLuXXni6Qrq2UUM/De/EcXEIiUgWGGA4+NwwNkAxVoyYbLzAyZyHwDW/gqVXUmjpdgi9S6OFu2wB2UVAi8wZmG1m4eSdT3CAJlN9LREBKl0=;J+OsmlCzvknF1yp1SUlwWQ=="
+secured: "Jur06cq5vmB3Ld9Zs0rsMEPxhxUEhu9FF+tF8maSGnVplLw6uGWz1LK5/zXrg31GNdXrmRHOwn/ZbgYJbuKs1icLOs78vPPGivx7KMQlumueTTAIXGlgMiQGn/4M6RgWP5YOyEoy+Ctv+EyeTVmfOFvWaWcp9TSnRTHmCdamOG7As/u540gw+va+JKm0xp1QaX0ZEgbKn/pgw5hL/7/vJR2YvBVEv9eCOkL+DhZ5Hf2dnJi4iCIcrgWiw8RfBuL47PZu1t+t69jXI8AEUpgGy08xGd888G4kh+mMdWqigqvhBWKMsGc1VcMLdtHhNMqRx2FgN2ambicVZKiCCYZDqx35HpH271nV6jfZOsRAmvi2WcBUds2g+NM3fprCZwpTUVs+4bGwZ62nScamhZaVamYBQI4h35lKMdjqEcRFP9U=;hvIRRVdw8wHKD7dmCfdv/w=="
 ---
 
