@@ -113,6 +113,20 @@ related:
         width: 792
         height: 418
         isCached: true
+  - title: "General availability: Azure IoT Central new and updated features—July 2021"
+    excerpt: "July updates include enhancements to device information displays and new features to help you manage your IoT Edge devices."
+    publishedDateTime: 2021-08-13T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-july-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 102
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/44be7cf6-3ee3-45ee-b480-ec8db413b051.png"
+        width: 1010
+        height: 637
+        isCached: true
   - title: "Azure IoT Central new and updated features—August 2020"
     excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."
     publishedDateTime: 2020-09-14T19:00:14Z
