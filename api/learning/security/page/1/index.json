@@ -4,219 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-azure-for-researchers-part-2-cloud-security-and-cost-management.md",
-      "title": "Azure for Researchers part 2: Cloud Security and Cost Management",
-      "excerpt": "In this learning path, you'll learn how to ensure your Azure consumption is planned and predictable by using cost prediction and budgets, and how to ensure your application secrets and virtual machines are safe from unauthorized access.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-azure-for-researchers-part-2-cloud-security-and-cost-management/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-azure-for-researchers-part-2-cloud-security-and-cost-management/",
-      "length": "PT2H22M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
-          "title": "Protect against security threats on Azure",
-          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
-          "length": "PT23M",
-          "ratings": {
-            "count": 14048,
-            "average": 4.764878
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 88,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-network-connectivity-azure.md",
-          "title": "Secure network connectivity on Azure",
-          "excerpt": "Learn about the Azure services you can use to help ensure that your network is safe, secure, and trusted.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-network-connectivity-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
-          "length": "PT32M",
-          "ratings": {
-            "count": 10177,
-            "average": 4.7844157
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 86,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-plan-manage-azure-costs.md",
-          "title": "Plan and manage your Azure costs",
-          "excerpt": "Migration to the cloud presents new ways to think about your IT expenses. This module teaches you about the factors that influence cost and tools you can use to help estimate and manage your cloud spend.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-manage-azure-costs/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 9529,
-            "average": 4.8081646
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 77,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/review-planning-managing-costs-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
-          "title": "Analyze costs and create budgets with Azure Cost Management",
-          "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 2386,
-            "average": 4.7095556
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-implement-resource-management-security-in-azure.md",
       "title": "Implement resource management security in Azure",
       "excerpt": "Learn how to secure resources using policy, role-based access control, and other Azure services",
@@ -248,8 +35,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 14048,
-            "average": 4.764878
+            "count": 14052,
+            "average": 4.7648735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -291,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4220,
-            "average": 4.7590046
+            "count": 4228,
+            "average": 4.7592244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -334,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43793,
-            "average": 4.7200923
+            "count": 43795,
+            "average": 4.720105
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -369,8 +156,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 7566,
-            "average": 4.6913824
+            "count": 7567,
+            "average": 4.6914234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -387,7 +174,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 55,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -400,6 +187,219 @@
       ],
       "size": 6,
       "heat": 92,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-azure-for-researchers-part-2-cloud-security-and-cost-management.md",
+      "title": "Azure for Researchers part 2: Cloud Security and Cost Management",
+      "excerpt": "In this learning path, you'll learn how to ensure your Azure consumption is planned and predictable by using cost prediction and budgets, and how to ensure your application secrets and virtual machines are safe from unauthorized access.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-azure-for-researchers-part-2-cloud-security-and-cost-management/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-azure-for-researchers-part-2-cloud-security-and-cost-management/",
+      "length": "PT2H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
+          "title": "Protect against security threats on Azure",
+          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 14052,
+            "average": 4.7648735
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 88,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-network-connectivity-azure.md",
+          "title": "Secure network connectivity on Azure",
+          "excerpt": "Learn about the Azure services you can use to help ensure that your network is safe, secure, and trusted.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-network-connectivity-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 10178,
+            "average": 4.784437
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 75,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-plan-manage-azure-costs.md",
+          "title": "Plan and manage your Azure costs",
+          "excerpt": "Migration to the cloud presents new ways to think about your IT expenses. This module teaches you about the factors that influence cost and tools you can use to help estimate and manage your cloud spend.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-manage-azure-costs/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 9533,
+            "average": 4.8080354
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 72,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/review-planning-managing-costs-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
+          "title": "Analyze costs and create budgets with Azure Cost Management",
+          "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 2386,
+            "average": 4.7095556
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 90,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
@@ -448,8 +448,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 14048,
-            "average": 4.764878
+            "count": 14052,
+            "average": 4.7648735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -491,8 +491,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 10177,
-            "average": 4.7844157
+            "count": 10178,
+            "average": 4.784437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -509,7 +509,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 86,
+          "heat": 75,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
@@ -552,8 +552,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 14048,
-        "average": 4.764878
+        "count": 14052,
+        "average": 4.7648735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -673,7 +673,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 62,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
@@ -699,8 +699,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3522,
-            "average": 4.6785917
+            "count": 3523,
+            "average": 4.678683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -778,8 +778,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 16443,
-            "average": 4.724442
+            "count": 16444,
+            "average": 4.724337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -796,7 +796,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 63,
+          "heat": 58,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
@@ -815,7 +815,7 @@
         }
       ],
       "size": 6,
-      "heat": 74,
+      "heat": 69,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
@@ -831,216 +831,6 @@
         "Azure",
         "Management Tools",
         "Compute",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-implement-network-security-in-azure.md",
-      "title": "Implement network security in Azure",
-      "excerpt": "Learn how to configure, protect, and isolate your networks in Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-implement-network-security-in-azure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-implement-network-security-in-azure/",
-      "length": "PT5H27M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-secure-network-connectivity-azure.md",
-          "title": "Secure network connectivity on Azure",
-          "excerpt": "Learn about the Azure services you can use to help ensure that your network is safe, secure, and trusted.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-network-connectivity-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
-          "length": "PT32M",
-          "ratings": {
-            "count": 10177,
-            "average": 4.7844157
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 86,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
-          "title": "Configure the network for your virtual machines",
-          "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
-          "length": "PT1H34M",
-          "ratings": {
-            "count": 9045,
-            "average": 4.660586
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 58,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 9456,
-            "average": 4.6734347
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
-          "title": "Encrypt network traffic end to end with Azure Application Gateway",
-          "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
-          "length": "PT1H17M",
-          "ratings": {
-            "count": 1456,
-            "average": 4.6572804
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Networking",
         "Security"
       ]
     },
@@ -1095,7 +885,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 62,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
@@ -1139,7 +929,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 56,
+          "heat": 58,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1156,8 +946,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3522,
-            "average": 4.6785917
+            "count": 3523,
+            "average": 4.678683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1199,8 +989,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 2037,
-            "average": 4.594011
+            "count": 2038,
+            "average": 4.59421
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1230,7 +1020,7 @@
         }
       ],
       "size": 6,
-      "heat": 67,
+      "heat": 69,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
@@ -1283,8 +1073,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 14048,
-            "average": 4.764878
+            "count": 14052,
+            "average": 4.7648735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1344,7 +1134,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 56,
+          "heat": 58,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1441,7 +1231,7 @@
         }
       ],
       "size": 7,
-      "heat": 67,
+      "heat": 69,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
@@ -1492,8 +1282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 3043,
-            "average": 4.717713
+            "count": 3044,
+            "average": 4.7178054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1510,7 +1300,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
@@ -1535,8 +1325,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43793,
-            "average": 4.7200923
+            "count": 43795,
+            "average": 4.720105
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1570,8 +1360,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 942,
-            "average": 4.6549892
+            "count": 943,
+            "average": 4.6553555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1588,7 +1378,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
@@ -1614,8 +1404,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1342,
-            "average": 4.7585692
+            "count": 1344,
+            "average": 4.758929
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1658,7 +1448,7 @@
         }
       ],
       "size": 11,
-      "heat": 64,
+      "heat": 66,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
@@ -1905,7 +1695,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 63,
+          "heat": 64,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/describe-identity-principles-and-concepts-social.png",
@@ -1986,12 +1776,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure.md",
-      "title": "Architect secure infrastructure in Azure",
-      "excerpt": "Learn about the tools and services available on Azure to ensure your resources are secure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/",
-      "length": "PT6H37M",
+      "path": "_learning/collections/microsoft-learn-implement-network-security-in-azure.md",
+      "title": "Implement network security in Azure",
+      "excerpt": "Learn how to configure, protect, and isolate your networks in Azure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-implement-network-security-in-azure/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-implement-network-security-in-azure/",
+      "length": "PT5H27M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -2005,19 +1795,62 @@
         ]
       },
       "levels": [
+        "Beginner",
         "Intermediate"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-resolve-threats-with-azure-security-center.md",
-          "title": "Resolve security threats with Azure Security Center",
-          "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-resolve-threats-with-azure-security-center/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
-          "length": "PT44M",
+          "path": "_learning/courses/microsoft-learn-secure-network-connectivity-azure.md",
+          "title": "Secure network connectivity on Azure",
+          "excerpt": "Learn about the Azure services you can use to help ensure that your network is safe, secure, and trusted.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-network-connectivity-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
+          "length": "PT32M",
           "ratings": {
-            "count": 1735,
-            "average": 4.620173
+            "count": 10178,
+            "average": 4.784437
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 75,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
+          "title": "Configure the network for your virtual machines",
+          "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
+          "length": "PT1H34M",
+          "ratings": {
+            "count": 9045,
+            "average": 4.660586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2035,9 +1868,45 @@
             "Intermediate"
           ],
           "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Networking"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
+          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
+          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 9456,
+            "average": 4.6734347
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -2048,19 +1917,20 @@
           "price": "Free",
           "topics": [
             "Azure",
+            "Networking",
             "Security"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-          "title": "Secure your Azure virtual machine disks",
-          "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
-          "length": "PT1H1M",
+          "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
+          "title": "Encrypt network traffic end to end with Azure Application Gateway",
+          "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
+          "length": "PT1H17M",
           "ratings": {
-            "count": 3820,
-            "average": 4.7041883
+            "count": 1456,
+            "average": 4.6572804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2077,98 +1947,31 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
-          "title": "Manage secrets in your server apps with Azure Key Vault",
-          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 2037,
-            "average": 4.594011
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
           ],
-          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Security",
-            "Compute",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
-          "title": "Secure your Azure resources with role-based access control (RBAC)",
-          "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 7566,
-            "average": 4.6913824
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Identity"
+            "Networking"
           ]
         }
       ],
-      "size": 8,
+      "size": 5,
       "heat": 63,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -2177,11 +1980,9 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
         "Management Tools",
         "Networking",
-        "Security",
-        "Databases"
+        "Security"
       ]
     },
     {
@@ -2216,8 +2017,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 14048,
-            "average": 4.764878
+            "count": 14052,
+            "average": 4.7648735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2259,8 +2060,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 3522,
-            "average": 4.6785917
+            "count": 3523,
+            "average": 4.678683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2363,7 +2164,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
@@ -2404,12 +2205,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql.md",
-      "title": "SC-200 part 4: Create queries for Azure Sentinel using Kusto Query Language (KQL)",
-      "excerpt": "SC-200 part 4: Create queries for Azure Sentinel using Kusto Query Language (KQL)",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql/",
-      "length": "PT2H3M",
+      "path": "_learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure.md",
+      "title": "Architect secure infrastructure in Azure",
+      "excerpt": "Learn about the tools and services available on Azure to ensure your resources are secure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/",
+      "length": "PT6H37M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -2427,15 +2228,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-construct-kql-statements.md",
-          "title": "Construct KQL statements for Azure Sentinel",
-          "excerpt": "Construct KQL statements for Azure Sentinel",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-construct-kql-statements/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/construct-kusto-query-language-statements/",
-          "length": "PT36M",
+          "path": "_learning/courses/microsoft-learn-resolve-threats-with-azure-security-center.md",
+          "title": "Resolve security threats with Azure Security Center",
+          "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-resolve-threats-with-azure-security-center/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
+          "length": "PT44M",
           "ratings": {
-            "count": 278,
-            "average": 4.7805758
+            "count": 1735,
+            "average": 4.620173
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2452,12 +2253,12 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -2470,58 +2271,15 @@
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-analyze-results-kql.md",
-          "title": "Analyze query results using KQL",
-          "excerpt": "Analyze query results using KQL",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-results-kql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-results-kusto-query-language/",
-          "length": "PT30M",
+          "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
+          "title": "Secure your Azure virtual machine disks",
+          "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
+          "length": "PT1H1M",
           "ratings": {
-            "count": 239,
-            "average": 4.794979
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-multi-table-statements-kql.md",
-          "title": "Build multi-table statements using KQL",
-          "excerpt": "Build multi-table statements using KQL",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-multi-table-statements-kql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-multi-table-statements-kusto-query-language/",
-          "length": "PT21M",
-          "ratings": {
-            "count": 216,
-            "average": 4.787037
+            "count": 3820,
+            "average": 4.7041883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2539,32 +2297,26 @@
             "Intermediate"
           ],
           "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Security"
+            "Compute",
+            "Storage",
+            "Management Tools"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-work-with-data-kql.md",
-          "title": "Work with data in Azure Sentinel using Kusto Query Language",
-          "excerpt": "Work with data in Azure Sentinel using Kusto Query Language",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-work-with-data-kql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-kusto-query-language/",
-          "length": "PT36M",
+          "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
+          "title": "Manage secrets in your server apps with Azure Key Vault",
+          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
+          "length": "PT46M",
           "ratings": {
-            "count": 296,
-            "average": 4.760135
+            "count": 2038,
+            "average": 4.59421
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2579,33 +2331,63 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Security"
+            "Security",
+            "Compute",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
+          "title": "Secure your Azure resources with role-based access control (RBAC)",
+          "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 7567,
+            "average": 4.6914234
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Identity"
           ]
         }
       ],
-      "size": 4,
-      "heat": 62,
+      "size": 8,
+      "heat": 61,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -2614,51 +2396,11 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
-      "title": "Microsoft Azure Well-Architected Framework - Security",
-      "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-well-architected-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 5105,
-        "average": 4.7643485
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security"
+        "Compute",
+        "Management Tools",
+        "Networking",
+        "Security",
+        "Databases"
       ]
     },
     {
@@ -2710,7 +2452,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
@@ -2753,7 +2495,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 55,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
@@ -2820,8 +2562,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
           "length": "PT29M",
           "ratings": {
-            "count": 2558,
-            "average": 4.635262
+            "count": 2559,
+            "average": 4.6354046
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2838,7 +2580,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
@@ -3006,7 +2748,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
@@ -3050,7 +2792,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
@@ -3069,432 +2811,10 @@
         }
       ],
       "size": 7,
-      "heat": 61,
+      "heat": 60,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-sc-200-part-5-configure-your-azure-sentinel-environment.md",
-      "title": "SC-200 part 5: Configure your Azure Sentinel environment",
-      "excerpt": "SC-200 part 5: Configure your Azure Sentinel environment",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-sc-200-part-5-configure-your-azure-sentinel-environment/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-sc-200-part-5-configure-your-azure-sentinel-environment/",
-      "length": "PT1H54M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
-          "title": "Introduction to Azure Sentinel",
-          "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 859,
-            "average": 4.798603
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-manage-azure-sentinel-workspaces.md",
-          "title": "Create and manage Azure Sentinel workspaces",
-          "excerpt": "Create and manage Azure Sentinel workspaces",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-azure-sentinel-workspaces/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-azure-sentinel-workspaces/",
-          "length": "PT31M",
-          "ratings": {
-            "count": 288,
-            "average": 4.78125
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-query-logs-azure-sentinel.md",
-          "title": "Query logs in Azure Sentinel",
-          "excerpt": "Query logs in Azure Sentinel",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-logs-azure-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-logs-azure-sentinel/",
-          "length": "PT18M",
-          "ratings": {
-            "count": 275,
-            "average": 4.7709093
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-watchlists-azure-sentinel.md",
-          "title": "Use watchlists in Azure Sentinel",
-          "excerpt": "Use watchlists in Azure Sentinel",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-watchlists-azure-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-watchlists-azure-sentinel/",
-          "length": "PT18M",
-          "ratings": {
-            "count": 251,
-            "average": 4.804781
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel.md",
-      "title": "SC-200 part 7: Create detections and perform investigations using Azure Sentinel",
-      "excerpt": "SC-200 part 7: Create detections and perform investigations using Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel/",
-      "length": "PT4H40M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
-          "title": "Threat detection with Azure Sentinel analytics",
-          "excerpt": "Threat detection with Azure Sentinel analytics",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 156,
-            "average": 4.769231
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-threat-response-sentinel-playbooks.md",
-          "title": "Threat response with Azure Sentinel playbooks",
-          "excerpt": "Provide an introduction to implementing threat response with Azure Sentinel playbooks.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-threat-response-sentinel-playbooks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/",
-          "length": "PT52M",
-          "ratings": {
-            "count": 29,
-            "average": 4.8965516
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/threat-response-sentinel-playbooks-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
-          "title": "Security incident management in Azure Sentinel",
-          "excerpt": "Security incident management in Azure Sentinel",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
-          "length": "PT1H5M",
-          "ratings": {
-            "count": 137,
-            "average": 4.781022
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel.md",
-          "title": "Use entity behavior analytics in Azure Sentinel",
-          "excerpt": "Use entity behavior analytics in Azure Sentinel",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-entity-behavior-analytics-azure-sentinel/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 87,
-            "average": 4.8390803
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -4819,6 +4139,426 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql.md",
+      "title": "SC-200 part 4: Create queries for Azure Sentinel using Kusto Query Language (KQL)",
+      "excerpt": "SC-200 part 4: Create queries for Azure Sentinel using Kusto Query Language (KQL)",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql/",
+      "length": "PT2H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-construct-kql-statements.md",
+          "title": "Construct KQL statements for Azure Sentinel",
+          "excerpt": "Construct KQL statements for Azure Sentinel",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-construct-kql-statements/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/construct-kusto-query-language-statements/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 278,
+            "average": 4.7805758
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-results-kql.md",
+          "title": "Analyze query results using KQL",
+          "excerpt": "Analyze query results using KQL",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-results-kql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-results-kusto-query-language/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 239,
+            "average": 4.794979
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-multi-table-statements-kql.md",
+          "title": "Build multi-table statements using KQL",
+          "excerpt": "Build multi-table statements using KQL",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-multi-table-statements-kql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-multi-table-statements-kusto-query-language/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 216,
+            "average": 4.787037
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-work-with-data-kql.md",
+          "title": "Work with data in Azure Sentinel using Kusto Query Language",
+          "excerpt": "Work with data in Azure Sentinel using Kusto Query Language",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-work-with-data-kql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-kusto-query-language/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 296,
+            "average": 4.760135
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-sc-200-part-5-configure-your-azure-sentinel-environment.md",
+      "title": "SC-200 part 5: Configure your Azure Sentinel environment",
+      "excerpt": "SC-200 part 5: Configure your Azure Sentinel environment",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-sc-200-part-5-configure-your-azure-sentinel-environment/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-sc-200-part-5-configure-your-azure-sentinel-environment/",
+      "length": "PT1H54M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
+          "title": "Introduction to Azure Sentinel",
+          "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-sentinel/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 859,
+            "average": 4.798603
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-manage-azure-sentinel-workspaces.md",
+          "title": "Create and manage Azure Sentinel workspaces",
+          "excerpt": "Create and manage Azure Sentinel workspaces",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-azure-sentinel-workspaces/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-azure-sentinel-workspaces/",
+          "length": "PT31M",
+          "ratings": {
+            "count": 288,
+            "average": 4.78125
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-query-logs-azure-sentinel.md",
+          "title": "Query logs in Azure Sentinel",
+          "excerpt": "Query logs in Azure Sentinel",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-logs-azure-sentinel/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-logs-azure-sentinel/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 275,
+            "average": 4.7709093
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-use-watchlists-azure-sentinel.md",
+          "title": "Use watchlists in Azure Sentinel",
+          "excerpt": "Use watchlists in Azure Sentinel",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-watchlists-azure-sentinel/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-watchlists-azure-sentinel/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 251,
+            "average": 4.804781
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-sc-200-part-6-connect-logs-to-azure-sentinel.md",
       "title": "SC-200 part 6: Connect logs to Azure Sentinel",
       "excerpt": "SC-200 part 6: Connect logs to Azure Sentinel",
@@ -5019,6 +4759,222 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel.md",
+      "title": "SC-200 part 7: Create detections and perform investigations using Azure Sentinel",
+      "excerpt": "SC-200 part 7: Create detections and perform investigations using Azure Sentinel",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel/",
+      "length": "PT4H40M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
+          "title": "Threat detection with Azure Sentinel analytics",
+          "excerpt": "Threat detection with Azure Sentinel analytics",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 156,
+            "average": 4.769231
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-threat-response-sentinel-playbooks.md",
+          "title": "Threat response with Azure Sentinel playbooks",
+          "excerpt": "Provide an introduction to implementing threat response with Azure Sentinel playbooks.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-threat-response-sentinel-playbooks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/",
+          "length": "PT52M",
+          "ratings": {
+            "count": 29,
+            "average": 4.8965516
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/threat-response-sentinel-playbooks-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
+          "title": "Security incident management in Azure Sentinel",
+          "excerpt": "Security incident management in Azure Sentinel",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
+          "length": "PT1H5M",
+          "ratings": {
+            "count": 137,
+            "average": 4.781022
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel.md",
+          "title": "Use entity behavior analytics in Azure Sentinel",
+          "excerpt": "Use entity behavior analytics in Azure Sentinel",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-entity-behavior-analytics-azure-sentinel/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 87,
+            "average": 4.8390803
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security",
+            "Analytics"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -5241,6 +5197,50 @@
       "topics": [
         "Azure",
         "IoT",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
+      "title": "Microsoft Azure Well-Architected Framework - Security",
+      "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-well-architected-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 5105,
+        "average": 4.7643485
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
         "Security"
       ]
     },

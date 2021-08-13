@@ -4,212 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-      "title": "Execute an Azure Function with triggers",
-      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-      "length": "PT1H23M",
-      "ratings": {
-        "count": 5339,
-        "average": 4.7321596
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-host-domain-azure-dns.md",
-      "title": "Host your domain on Azure DNS",
-      "excerpt": "Learn how to host your domain on Azure DNS.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-host-domain-azure-dns/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 4404,
-        "average": 4.804496
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/host-domain-azure-dns-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
-      "title": "Improve incident response with alerting on Azure",
-      "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-incident-response-with-alerting-on-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 3203,
-        "average": 4.692476
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-      "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-      "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 9456,
-        "average": 4.6734347
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday.md",
-      "title": "How to choose which services to use in Azure | Azure Friday",
-      "excerpt": "In this video, Azure MVP Barry Luijbregts chats with Scott Hanselman about how he goes about choosing the right services in Azure to run his applications and store his data.   For more information, see:  • Overview of Azure services https://aka.ms/azfr/435/01  • Pluralsight course: Microsoft Azure for",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=ZpK_lv6HJkQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpK_lv6HJkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M20S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-07-16T11:53:16-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZpK_lv6HJkQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-create-host-and-share-packages-with-azure-artifacts-azure-tips-and-tricks.md",
       "title": "How to create, host, and share packages with Azure Artifacts | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Azure Artifacts, an Azure DevOps service, to set up a feed for sharing packages with your team.    For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD in credit. Create your free account",
@@ -284,177 +78,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-azure-for-the-data-engineer.md",
-      "title": "Azure for the Data Engineer",
-      "excerpt": "This learning path guides data engineers through the evolving benefits your organization gains with Azure cloud data platform technologies.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-azure-for-the-data-engineer/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-azure-for-the-data-engineer/",
-      "length": "PT1H51M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-evolving-world-of-data.md",
-          "title": "Understand the evolving world of data",
-          "excerpt": "Discover how data systems and roles are evolving and explore the differences between on-premises and cloud data solutions using sample business cases.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-evolving-world-of-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
-          "length": "PT28M",
-          "ratings": {
-            "count": 7270,
-            "average": 4.7083907
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-survey-the-azure-data-platform.md",
-          "title": "Survey the services on the Azure Data platform",
-          "excerpt": "Explore the broad array of Azure technologies that analyze text or images and relational, nonrelational, or streaming data.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-survey-the-azure-data-platform/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 6398,
-            "average": 4.7056894
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/survey-the-azure-data-platform-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
-          "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
-          "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-data-engineering-processes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
-          "length": "PT25M",
-          "ratings": {
-            "count": 6897,
-            "average": 4.740757
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
-        "Compute"
       ]
     },
     {
@@ -592,8 +215,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 6757,
-        "average": 4.637413
+        "count": 6759,
+        "average": 4.6373725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -625,41 +248,6 @@
       "topics": [
         "Azure",
         "Storage",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-control-azure-services-with-cli.md",
-      "title": "Control Azure services with the CLI",
-      "excerpt": "Learn the steps to install the Azure CLI locally, create a website, and manage Azure resources using the CLI.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-control-azure-services-with-cli/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 6268,
-        "average": 4.7734523
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Management Tools"
       ]
     },
@@ -699,15 +287,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
-      "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
-      "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-data-engineering-processes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
-      "length": "PT25M",
+      "path": "_learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365.md",
+      "title": "Describe the identity and access management capabilities of Microsoft 365",
+      "excerpt": "Describe the identity and access management capabilities of Microsoft 365",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
+      "length": "PT29M",
       "ratings": {
-        "count": 6897,
-        "average": 4.740757
+        "count": 492,
+        "average": 4.8191056
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -727,9 +315,9 @@
       "heat": 56,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/describe-the-identity-and-access-management-capabilities-of-microsoft-365-social.png",
+          "width": 642,
+          "height": 324,
           "isCached": true
         }
       ],
@@ -737,7 +325,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Identity"
       ]
     },
     {
@@ -783,15 +372,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-transact-sql.md",
-      "title": "Introduction to Transact-SQL",
-      "excerpt": "Introduction to Transact-SQL",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-transact-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
-      "length": "PT56M",
+      "path": "_learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad.md",
+      "title": "Explore the access management capabilities of Azure AD",
+      "excerpt": "Explore the access management capabilities of Azure AD",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
+      "length": "PT15M",
       "ratings": {
-        "count": 276,
-        "average": 4.786232
+        "count": 368,
+        "average": 4.8288045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -811,7 +400,7 @@
       "heat": 56,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/explore-the-access-management-capabilities-of-azure-ad-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
@@ -822,7 +411,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "Identity"
       ]
     },
     {
@@ -866,159 +455,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
-      "title": "Top 5 security items to consider before pushing to production",
-      "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 8215,
-        "average": 4.6786366
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
-      "title": "Core Cloud Services - Manage services with the Azure portal",
-      "excerpt": "Get acquainted with the Azure cloud platform through the Azure portal, where you create and manage all of your Azure resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-tour-azure-portal-features/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
-      "length": "PT1H13M",
-      "ratings": {
-        "count": 398,
-        "average": 4.736181
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure.md",
-      "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
-      "excerpt": "Learn how to investigate and diagnose problems in your Azure virtual networks by using Network Watcher and other tools.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 4313,
-        "average": 4.627869
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-azure-network-infrastructure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday.md",
-      "title": "Getting started with Azure Static Web Apps | Azure Friday",
-      "excerpt": "Anthony Chu joins Scott Hanselman to show how to build, debug, and deploy a full-stack serverless application in minutes with Azure Static Web Apps.  0:00 – Introduction 0:55 – Overview 3:03 – Demo - basic stuff 12:48 – Demo - a little more advanced 18:41 – Wrap-up  🔗 What is Azure Static Web Apps?",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=AMhhuBixb4o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AMhhuBixb4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M25S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-07-30T05:51:16-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AMhhuBixb4o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Web"
       ]
     },
     {
@@ -1148,6 +584,136 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode.md",
+      "title": "Build a web app with Blazor WebAssembly and Visual Studio Code",
+      "excerpt": "Learn how to set up your development environment and build your first WebAssembly app with Blazor, Visual Studio Code, and C#.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 1984,
+        "average": 4.705645
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-blazor-webassembly-and-vs-code-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
+      "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+      "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 3044,
+        "average": 4.7178054
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload.md",
+      "title": "Choose the right disk storage for your virtual machine workload",
+      "excerpt": "Azure provides a variety of disk storage options for virtual machine workloads. Identify the features of capabilities of each type to ensure your application performs optimally.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 3982,
+        "average": 4.7498746
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
       "title": "Understand virtualization",
       "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
@@ -1232,15 +798,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute.md",
-      "title": "Connect your on-premises network to the Microsoft global network by using ExpressRoute",
-      "excerpt": "Connect your on-premises systems and users to Azure and Office 365 by using ExpressRoute for private, dedicated, and guaranteed throughput connectivity.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-control-azure-services-with-cli.md",
+      "title": "Control Azure services with the CLI",
+      "excerpt": "Learn the steps to install the Azure CLI locally, create a website, and manage Azure resources using the CLI.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-control-azure-services-with-cli/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
+      "length": "PT34M",
       "ratings": {
-        "count": 6136,
-        "average": 4.7226205
+        "count": 6268,
+        "average": 4.7734523
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1258,20 +824,12 @@
         "Beginner"
       ],
       "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-expressroute-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking"
+        "Management Tools"
       ]
     },
     {
@@ -1282,8 +840,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/",
       "length": "PT43M",
       "ratings": {
-        "count": 304,
-        "average": 4.7105265
+        "count": 306,
+        "average": 4.712418
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1318,49 +876,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
-      "title": "Create Azure users and groups in Azure Active Directory",
-      "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 6302,
-        "average": 4.7443666
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-describe-identity-protection-governance-capabilities-of-azure-ad.md",
       "title": "Describe the identity protection and governance capabilities of Azure AD",
       "excerpt": "Describe the identity protection and governance capabilities of Azure AD",
@@ -1368,8 +883,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
       "length": "PT29M",
       "ratings": {
-        "count": 497,
-        "average": 4.8249497
+        "count": 498,
+        "average": 4.825301
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1400,6 +915,367 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
+      "title": "Design a holistic monitoring strategy on Azure",
+      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 3099,
+        "average": 4.650855
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
+      "title": "Execute an Azure Function with triggers",
+      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
+      "length": "PT1H23M",
+      "ratings": {
+        "count": 5339,
+        "average": 4.7321596
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-basic-services-identity-types-of-azure-active-directory-azure-ad.md",
+      "title": "Explore the services and identity types of Azure AD",
+      "excerpt": "Explore the services and identity types of Azure AD",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-basic-services-identity-types-of-azure-active-directory-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 460,
+        "average": 4.826087
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-basic-services-identity-types-azure-active-directory-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
+      "title": "Build a containerized web application with Docker",
+      "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 3972,
+        "average": 4.6356997
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
+      "title": "Introduction to GitHub",
+      "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
+      "length": "PT1H12M",
+      "ratings": {
+        "count": 2155,
+        "average": 4.7712297
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-users-and-groups-in-aad.md",
+      "title": "Manage users and groups in Azure Active Directory",
+      "excerpt": "Manage users and groups in Azure Active Directory",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-users-and-groups-in-aad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 6565,
+        "average": 4.740289
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-network-fundamentals.md",
+      "title": "Fundamentals of computer networking",
+      "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-network-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 6405,
+        "average": 4.7383294
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup.md",
+      "title": "Protect your virtual machines by using Azure Backup",
+      "excerpt": "Use Azure Backup to help protect the data for on-premises servers, virtual machines, virtualized workloads, SQL Server, Azure Files, and more.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 5513,
+        "average": 4.7435155
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools",
+        "Storage",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
+      "title": "Secure your Azure resources with role-based access control (RBAC)",
+      "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 7567,
+        "average": 4.6914234
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
         "Identity"
       ]
     }

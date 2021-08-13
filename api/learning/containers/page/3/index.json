@@ -4,218 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-aks-optimize-compute-costs.md",
-      "title": "Optimize compute costs on Azure Kubernetes Service (AKS)",
-      "excerpt": "Explore strategies that you can use on Azure to optimize your cloud-native application-development process by using Azure Kubernetes Service (AKS).",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-optimize-compute-costs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 200,
-        "average": 4.665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-compute-costs-on-azure-kubernetes-service-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aks-secrets-configure-app.md",
-      "title": "Manage Application Configuration and Secrets in Azure Kubernetes Service (AKS)",
-      "excerpt": "Learn how to securely store application secrets and configurations using native Kubernetes resources in Azure Kubernetes Service (AKS).",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-secrets-configure-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-secrets-configure-app/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 50,
-        "average": 4.74
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aks-workshop.md",
-      "title": "Azure Kubernetes Service Workshop",
-      "excerpt": "In this workshop, you'll go through tasks to deploy a multicontainer application to Kubernetes on Azure Kubernetes Service (AKS).",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-workshop/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-workshop/",
-      "length": "PT2H25M",
-      "ratings": {
-        "count": 420,
-        "average": 4.747619
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aks-workshop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-app-package-management-using-helm.md",
-      "title": "Application and package management using Helm",
-      "excerpt": "Helm is an application package manager for Kubernetes that you use to standardize and simplify the deployment of cloud-native applications on Kubernetes. Here you'll see how to install third-party packages called Helm charts and how to create and install Helm charts for the workloads your teams develop.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-app-package-management-using-helm/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 335,
-        "average": 4.719403
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/app-package-management-using-helm-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
-      "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
-      "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 33,
-        "average": 4.5454545
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
       "title": "Implement logging in a .NET Framework ASP.NET web application",
       "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
@@ -311,6 +99,58 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
+      "title": "Architect full-stack applications and automate deployments with GitHub",
+      "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 21,
+        "average": 4.7619047
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/automate-deployments-github-actions-azure-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration",
+        "Web",
+        "Containers",
+        "Mobile",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-container-instances-sidecar.md",
       "title": "Secure your apps by using the sidecar configuration in Azure Container Instances",
       "excerpt": "Roll out Azure Container Instances into an Azure Virtual Network. You will evolve a basic container group into a more sophisticated configuration leveraging sidecar and initialization containers, as well as use private link to access other Azure PaaS resources.",
@@ -345,6 +185,41 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
+      "title": "Build and store container images with Azure Container Registry",
+      "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 3095,
+        "average": 4.643942
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -521,6 +396,50 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-kubernetes.md",
+      "title": "Automate multi-container Kubernetes deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for multiple containers to Kubernetes.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-kubernetes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 485,
+        "average": 4.6742268
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-kubernetes-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
         "Containers"
       ]
     },
@@ -750,6 +669,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-investigate-container-for-use-with-cognitive-services.md",
+      "title": "Investigate container for use with Cognitive Services",
+      "excerpt": "Learn about Container support in Cognitive Services allowing the use of APIs available in Azure and enable flexibility in where to deploy and host the services with Docker containers.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-investigate-container-for-use-with-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/investigate-container-for-use-cognitive-services/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 66,
+        "average": 4.742424
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/investigate-container-for-use-with-cognitive-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
       "title": "Choose an Azure service for deploying your Java application",
       "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
@@ -868,6 +831,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-microservices-aspnet-core.md",
+      "title": "Create and deploy a cloud-native ASP.NET Core microservice",
+      "excerpt": "This module guides you through containerizing an ASP.NET Core microservice and deploying it to Azure Kubernetes Service.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-microservices-aspnet-core/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 372,
+        "average": 4.6182795
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-aspnet-core-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

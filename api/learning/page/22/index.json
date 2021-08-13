@@ -4,100 +4,138 @@
   "page": 22,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-host-web-sites-github-pages.md",
-      "title": "Create and host web sites by using GitHub Pages",
-      "excerpt": "Learn how to host your personal, organization, and project sites for free with GitHub Pages.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-host-web-sites-github-pages/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-host-web-sites-github-pages/",
-      "length": "PT1H12M",
-      "ratings": {
-        "count": 557,
-        "average": 4.83842
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/create-host-web-sites-github-pages-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-language-understanding-app.md",
-      "title": "Create a Language Understanding app",
-      "excerpt": "Create a Language Understanding app",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-language-understanding-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-understanding-app/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 14,
-        "average": 4.928571
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-manage-azure-sentinel-workspaces.md",
-      "title": "Create and manage Azure Sentinel workspaces",
-      "excerpt": "Create and manage Azure Sentinel workspaces",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-azure-sentinel-workspaces/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-azure-sentinel-workspaces/",
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-backup.md",
+      "title": "Introduction to Azure Backup",
+      "excerpt": "Evaluate whether Azure Backup is appropriate to use for your backup needs and describe how the features of Azure Backup work to provide backup solutions for your needs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-backup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-backup/",
       "length": "PT31M",
       "ratings": {
-        "count": 288,
-        "average": 4.78125
+        "count": 14,
+        "average": 4.571429
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics.md",
+      "title": "Introduction to Azure Synapse Analytics",
+      "excerpt": "Introduction to Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 365,
+        "average": 4.780822
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-virtual-networks.md",
+      "title": "Introduction to Azure virtual networks",
+      "excerpt": "In this module, you will learn how to design and implement fundamental Azure Networking resources such as virtual networks, public and private IPs, DNS, virtual network peering, routing, and Azure Virtual NAT.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-virtual-networks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-virtual-networks/",
+      "length": "PT1H18M",
+      "ratings": {
+        "count": 74,
+        "average": 4.7972975
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-load-balancing-non-https-traffic-azure.md",
+      "title": "Load balance non-HTTP(S) traffic in Azure",
+      "excerpt": "You will learn the different load balancer options in Azure and how to choose and implement the right Azure solution for non-HTTP(S) traffic.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-load-balancing-non-https-traffic-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balancing-non-https-traffic-azure/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 20,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -128,19 +166,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security"
+        "Networking"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
-      "title": "Create a release pipeline in Azure Pipelines",
-      "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
-      "length": "PT1H4M",
+      "path": "_learning/courses/microsoft-learn-m365-identity-secure-administrators.md",
+      "title": "Secure administrator accounts in Azure Active Directory",
+      "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-secure-administrators/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
+      "length": "PT21M",
       "ratings": {
-        "count": 1344,
-        "average": 4.707589
+        "count": 3442,
+        "average": 4.7826843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,12 +193,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -171,19 +209,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "DevOps"
+        "Identity"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-data-estate-migration-and-modernization.md",
-      "title": "Microsoft data estate migration and modernization",
-      "excerpt": "Establishing a modern data estate is a foundational step toward digital transformation. A modern data estate enables timely insights and decision making across all your data, and sets the foundation for AI. A data estate is all of the data an organization owns. When you migrate this data to the cloud or modernize your environment on-premises you can gain important insights to fuel innovation.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-data-estate-migration-and-modernization/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-estate-migration-and-modernization/",
-      "length": "PT36M",
+      "path": "_learning/courses/microsoft-learn-m365-identity-zero-trust.md",
+      "title": "Embrace Zero Trust with Azure Active Directory",
+      "excerpt": "Learn about the Zero Trust model and how to implement Zero Trust into your organization.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-zero-trust/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/",
+      "length": "PT35M",
       "ratings": {
-        "count": 4510,
-        "average": 4.71796
+        "count": 4074,
+        "average": 4.827197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -198,14 +236,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/data-estate-migration-and-modernization-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/embrace-zero-trust-social.png",
+          "width": 643,
+          "height": 324,
           "isCached": true
         }
       ],
@@ -214,19 +252,62 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Migration"
+        "Identity"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deep-learning.md",
-      "title": "Use deep learning models to make predictions about specialized data",
-      "excerpt": "Use convolutional neural networks and recurrent neural networks to analyze and predict images and text with TensorFlow and Keras.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deep-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-deep-learning/",
-      "length": "44 mins",
+      "path": "_learning/courses/microsoft-learn-manage-azure-ad-identity-protection.md",
+      "title": "Manage Azure AD Identity Protection",
+      "excerpt": "Manage Azure AD Identity Protection",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-azure-ad-identity-protection/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
+      "length": "PT45M",
       "ratings": {
-        "count": 252,
-        "average": 4.654762
+        "count": 476,
+        "average": 4.815126
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-changes-pull-requests-github.md",
+      "title": "Manage repository changes by using pull requests on GitHub",
+      "excerpt": "Learn how to manage changes to your repository source by using pull requests.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-changes-pull-requests-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 751,
+        "average": 4.778961
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -246,10 +327,51 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-deep-learning-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Use deep learning models to make predictions about specialized data",
+          "url": "https://docs.microsoft.com/learn/achievements/github/manage-changes-pull-requests-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps.md",
+      "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
+      "excerpt": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 335,
+        "average": 4.80597
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-your-language-understanding-intelligent-service-luis-apps-social.png",
+          "width": 642,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -262,15 +384,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-define-foundation-pillars.md",
-      "title": "Define the foundation pillars of DevOps: Architecture and Technology",
-      "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-define-foundation-pillars/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/",
-      "length": "PT16M",
+      "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
+      "title": "Manage secrets in your server apps with Azure Key Vault",
+      "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
+      "length": "PT46M",
       "ratings": {
-        "count": 1879,
-        "average": 4.7461414
+        "count": 2038,
+        "average": 4.59421
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -293,19 +415,63 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Security",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-site-reliability.md",
+      "title": "Manage site reliability",
+      "excerpt": "Learn how to manage site reliability.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-site-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 696,
+        "average": 4.724138
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
         "DevOps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
-      "title": "Deploy Azure SQL Database",
-      "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-azure-sql-database/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
-      "length": "PT48M",
+      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
+      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
+      "length": "PT21M",
       "ratings": {
-        "count": 2274,
-        "average": 4.7880387
+        "count": 13079,
+        "average": 4.7674136
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -320,35 +486,27 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-azure-sql-database-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "Identity"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-kubernetes.md",
-      "title": "Automate multi-container Kubernetes deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for multiple containers to Kubernetes.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-kubernetes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/",
-      "length": "PT56M",
+      "path": "_learning/courses/microsoft-learn-microsoft-approach-to-ai.md",
+      "title": "Examine the Microsoft approach to artificial intelligence",
+      "excerpt": "Learn how Microsoft creates products, services, and solutions to help organizations leverage AI. Understand how these technologies relate to business problems.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-microsoft-approach-to-ai/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-approach-to-ai/",
+      "length": "PT54M",
       "ratings": {
-        "count": 485,
-        "average": 4.6742268
+        "count": 1098,
+        "average": 4.700364
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -368,94 +526,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-kubernetes-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure.md",
-      "title": "Deploy MariaDB, MySQL, and PostgreSQL on Azure",
-      "excerpt": "Compare Open Source Azure Database offerings with Azure SQL Server offerings. Configure an Open Source database and configure high availability and security options.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 2560,
-        "average": 4.766797
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-mariadb-mysql-and-postgresql-on-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device.md",
-      "title": "Deploy a pre-built module to the Edge device",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 716,
-        "average": 4.5614524
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/deploy-pre-built-module-iot-edge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/microsoft-approach-to-ai-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -466,104 +537,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT"
+        "AI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-resources-different-scopes.md",
-      "title": "Deploy resources to subscriptions, management groups, and tenants by using Bicep",
-      "excerpt": "Learn how to deploy resources to subscription, management group, and tenant scopes within your Bicep code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-resources-different-scopes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-resources-scopes-bicep/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-microsoft-responsible-ai-practices.md",
+      "title": "Discuss practices for responsible AI at Microsoft",
+      "excerpt": "Discover how to translate your organization’s ethical principles into actionable guidance and tools for engineering teams and how AI can improve lives worldwide",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-microsoft-responsible-ai-practices/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
+      "length": "PT1H17M",
       "ratings": {
-        "count": 9,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-sap-certified-offerings.md",
-      "title": "Deploy SAP certified offerings on Azure",
-      "excerpt": "Azure provides a scalable, compliant, and enterprise-proven platform for a range of SAP workloads. In this module, you explore the platform compliance criteria that is stipulated by SAP before deploying SAP solutions in Azure, and look at the different options for deploying SAP in Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-sap-certified-offerings/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sap-certified-offerings/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 628,
-        "average": 4.8184714
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-sap-certified-offerings-for-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
-      "title": "Deploy SQL Server in a virtual machine",
-      "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-sql-server-virtual-machine/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 2917,
-        "average": 4.777854
+        "count": 533,
+        "average": 4.716698
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -583,31 +569,112 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/microsoft-responsible-ai-practices-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
+      "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+      "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
+      "length": "PT1H24M",
+      "ratings": {
+        "count": 1633,
+        "average": 4.4960194
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
         "Databases",
-        "Compute"
+        "Migration",
+        "Management Tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
-      "title": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "excerpt": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data.md",
+      "title": "Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts",
+      "excerpt": "Learn how to monitor the health of your Azure VMs by using Azure Metrics Explorer and metric alerts.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
+      "length": "PT43M",
       "ratings": {
-        "count": 311,
-        "average": 4.620579
+        "count": 1449,
+        "average": 4.7087646
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage.md",
+      "title": "Monitor, diagnose, and troubleshoot your Azure storage",
+      "excerpt": "Monitor, diagnose, and troubleshoot your Azure storage",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 1900,
+        "average": 4.608421
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -627,7 +694,136 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-lazy-evaluation-other-performance-features-azure-databricks-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-diagnose-and-troubleshoot-azure-storage-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-maintain-azure-active-directory.md",
+      "title": "Monitor and maintain Azure Active Directory",
+      "excerpt": "Monitor and maintain Azure Active Directory",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-maintain-azure-active-directory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 251,
+        "average": 4.816733
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory.md",
+      "title": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/code-free-transformation-scale/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 343,
+        "average": 4.3002915
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-code-free-transformation-scale-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks.md",
+      "title": "Perform machine learning with Azure Databricks",
+      "excerpt": "Perform machine learning with Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-machine-learning-with-azure-databricks/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 127,
+        "average": 4.6220474
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-machine-learning-with-azure-databricks-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -643,15 +839,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
-      "title": "Design a geographically distributed application",
-      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-plan-design-integration-of-enterprise-apps-for-sso.md",
+      "title": "Plan and design the integration of enterprise apps for SSO",
+      "excerpt": "Plan and design the integration of enterprise apps for SSO",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-design-integration-of-enterprise-apps-for-sso/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
+      "length": "PT24M",
       "ratings": {
-        "count": 1052,
-        "average": 4.7043724
+        "count": 204,
+        "average": 4.8284316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -669,47 +865,9 @@
         "Advanced"
       ],
       "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics.md",
-      "title": "Design hybrid transactional and analytical processing using Azure Synapse Analytics",
-      "excerpt": "Design hybrid transactional and analytical processing using Azure Synapse Analytics",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 67,
-        "average": 4.7462687
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-transactional-and-analytical-processing-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -720,19 +878,20 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics"
+        "Identity",
+        "Integration"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-implement-hybrid-networking.md",
-      "title": "Design and implement hybrid networking",
-      "excerpt": "You will learn how to design and implement hybrid networking solutions such as Site-to-Site VPN connections, Point-to-Site VPN connections, Azure Virtual WAN, and Virtual WAN hubs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-hybrid-networking/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-hybrid-networking/",
-      "length": "PT1H3M",
+      "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
+      "title": "Plan, implement, and administer conditional access",
+      "excerpt": "Plan, implement, and administer conditional access",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
+      "length": "PT60M",
       "ratings": {
-        "count": 36,
-        "average": 4.861111
+        "count": 90,
+        "average": 4.866667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -747,7 +906,7 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Advanced"
       ],
       "heat": 51,
       "images": [
@@ -763,19 +922,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking"
+        "Identity"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-implement-network-monitoring.md",
-      "title": "Design and implement network monitoring",
-      "excerpt": "You will learn to design and implement network monitoring solutions such as Azure Monitor and Network watcher.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-network-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-monitoring/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines.md",
+      "title": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
+      "excerpt": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/",
+      "length": "PT29M",
       "ratings": {
-        "count": 22,
-        "average": 4.818182
+        "count": 221,
+        "average": 4.529412
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -795,141 +954,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-implement-network-security-monitoring.md",
-      "title": "Design and implement network security",
-      "excerpt": "You will learn to design and implement network security solutions such as Azure DDoS, Azure Firewall, Network Security Groups, and Web Application Firewall.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-network-security-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-security-monitoring/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 15,
-        "average": 4.733333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-implement-private-access-to-azure-services.md",
-      "title": "Design and implement private access to Azure Services",
-      "excerpt": "You will learn to design and implement private access to Azure Services with Azure Private Link, and virtual network service endpoints.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-private-access-to-azure-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-to-azure-services/",
-      "length": "PT1H30M",
-      "ratings": {
-        "count": 13,
-        "average": 4.8461537
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-multidimensional-schema-to-optimize-analytical-workloads.md",
-      "title": "Design a multidimensional schema to optimize analytical workloads",
-      "excerpt": "Design a multidimensional schema to optimize analytical workloads",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-multidimensional-schema-to-optimize-analytical-workloads/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-multidimensional-schema-to-optimize-analytical-workloads/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 120,
-        "average": 4.725
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-multi-dimensional-schema-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-pipelines-social.png",
           "width": 1280,
           "height": 641,
           "isCached": true
@@ -944,15 +969,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-detect-language-text-analytics-api.md",
-      "title": "Detect language with the text analytics API",
-      "excerpt": "Language detection is useful for content stores that collect arbitrary text, where language is unknown. You can parse the results of this analysis to determine which language is used in the input document.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-detect-language-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-language-text-analytics-api/",
-      "length": "PT18M",
+      "path": "_learning/courses/microsoft-learn-protect-identities-with-aad-idp.md",
+      "title": "Protect your identities with Azure AD Identity Protection",
+      "excerpt": "Use the advanced detection and remediation of identity-based threats to protect your Azure Active Directory identities and applications from compromise.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-identities-with-aad-idp/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
+      "length": "PT34M",
       "ratings": {
-        "count": 385,
-        "average": 4.7584414
+        "count": 1087,
+        "average": 4.793928
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -972,260 +997,9 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere.md",
-      "title": "Develop secure IoT Solutions for Azure Sphere with IoT Central",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-central/",
-      "length": "PT1H29M",
-      "ratings": {
-        "count": 294,
-        "average": 4.802721
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/develop-secure-iot-solutions-with-azure-sphere-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-enterprise-scale-operations.md",
-      "title": "Enterprise-scale architecture operational design principles",
-      "excerpt": "Enterprise-scale architecture operational design principles",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-enterprise-scale-operations/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-operations/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 430,
-        "average": 4.8186045
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-operations-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-execute-existing-ssis-packages-azure-data-factory.md",
-      "title": "Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline",
-      "excerpt": "Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-execute-existing-ssis-packages-azure-data-factory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-existing-ssis-packages-azure-data-factory/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 213,
-        "average": 4.539906
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/execute-existing-ssis-packages-azure-data-factory-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explain-devops-continous-delivery-quality.md",
-      "title": "Explain DevOps Continuous Delivery and Continuous Quality",
-      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explain-devops-continous-delivery-quality/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 1772,
-        "average": 4.743228
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explain-machine-learning-models-with-azure-machine-learning.md",
-      "title": "Explain machine learning models with Azure Machine Learning",
-      "excerpt": "Many decisions made by organizations and automated systems today are based on predictions made by machine learning models. It's increasingly important to be able to understand the factors that influence the predictions models make.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explain-machine-learning-models-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 626,
-        "average": 4.7396164
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explain-machine-learning-models-with-azure-machine-learning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad.md",
-      "title": "Explore the access management capabilities of Azure AD",
-      "excerpt": "Explore the access management capabilities of Azure AD",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
-      "length": "PT15M",
-      "ratings": {
-        "count": 367,
-        "average": 4.8283377
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-the-access-management-capabilities-of-azure-ad-social.png",
-          "width": 641,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/protect-identities-with-aad-idp-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -1238,15 +1012,103 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-azure-synapse-studio.md",
-      "title": "Explore Azure Synapse Studio",
-      "excerpt": "Explore Azure Synapse Studio",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-azure-synapse-studio/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-synapse-studio/",
-      "length": "PT43M",
+      "path": "_learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery.md",
+      "title": "Protect your Azure infrastructure with Azure Site Recovery",
+      "excerpt": "Provide disaster recovery for your Azure infrastructure by managing and orchestrating replication, failover, and failback of Azure virtual machines with Azure Site Recovery.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
+      "length": "PT59M",
       "ratings": {
-        "count": 183,
-        "average": 4.661202
+        "count": 1732,
+        "average": 4.591224
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-infrastructure-with-azure-site-recovery-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Migration",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery.md",
+      "title": "Protect your on-premises infrastructure from disasters with Azure Site Recovery",
+      "excerpt": "Provide disaster recovery for your on-premises infrastructure by managing and orchestrating replication, failover, and failback of VMware virtual machines, Hyper-V virtual machines, and physical servers with Azure Site Recovery.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 1382,
+        "average": 4.647612
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-on-premises-infrastructure-with-azure-site-recovery-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Migration",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-provide-disaster-recovery-replicate-storage-data.md",
+      "title": "Provide disaster recovery by replicating storage data across regions and failing over to secondary location",
+      "excerpt": "Learn how to provide disaster recovery by replicating storage data across regions and failing over to secondary location.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-provide-disaster-recovery-replicate-storage-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 1611,
+        "average": 4.803228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1266,7 +1128,94 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-azure-synapse-studio-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/provide-disaster-recovery-replicate-storage-data-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
+      "title": "Publish and manage your APIs with Azure API Management",
+      "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 153,
+        "average": 4.732026
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-static-web-app-api-preview-url.md",
+      "title": "Publish an API to Azure Static Web Apps",
+      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-api-preview-url/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-api-preview-url/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 115,
+        "average": 4.652174
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-api-preview-url-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1277,7 +1226,44 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics"
+        "Compute",
+        "Serverless",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-python-flask-build-ai-web-app.md",
+      "title": "Build an AI web app by using Python and Flask",
+      "excerpt": "Use Python, Flask, and Azure Cognitive Services to build a web app that incorporates AI",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-python-flask-build-ai-web-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 808,
+        "average": 4.767327
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

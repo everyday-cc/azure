@@ -4,52 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-migrate-app-service-migration-assistant.md",
-      "title": "Migrate an on-premises web application to Azure App Service",
-      "excerpt": "Use the Azure App Service Migration Assistant to assess the readiness of a web app to be deployed on App Service, and perform the migration.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-app-service-migration-assistant/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-app-service-migration-assistant/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 135,
-        "average": 4.762963
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Migration",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms.md",
       "title": "Migrate on-premises Windows Server instances to Azure IaaS virtual machines",
       "excerpt": "You'll be able to plan a migration and select appropriate server migration tools. You will also learn how to use Azure Migrate, how to assess physical servers, and how to migrate those servers.",
@@ -181,15 +135,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data.md",
-      "title": "Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts",
-      "excerpt": "Learn how to monitor the health of your Azure VMs by using Azure Metrics Explorer and metric alerts.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
-      "length": "PT43M",
+      "path": "_learning/courses/microsoft-learn-monitor-java-azure.md",
+      "title": "Monitoring Java applications on Azure",
+      "excerpt": "Learn how to use monitoring for your Java applications on Azure",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-java-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-java-azure/",
+      "length": "PT60M",
       "ratings": {
-        "count": 1449,
-        "average": 4.7087646
+        "count": 9,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -204,14 +158,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -221,8 +175,7 @@
       "topics": [
         "Azure",
         "Compute",
-        "DevOps",
-        "Management Tools"
+        "Web"
       ]
     },
     {
@@ -313,6 +266,50 @@
         "Management Tools",
         "Storage",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-protect-vm-settings-with-dsc.md",
+      "title": "Protect your virtual machine settings with Azure Automation State Configuration",
+      "excerpt": "Learn how to protect your virtual machine settings with Azure Automation State Configuration",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-vm-settings-with-dsc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 1351,
+        "average": 4.6972613
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-vm-settings-with-dsc-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
       ]
     },
     {
@@ -528,50 +525,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api.md",
-      "title": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps",
-      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps. Use Visual Studio Code to create and run the web app locally.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 525,
-        "average": 4.6990476
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-publish-static-web-app-authentication.md",
       "title": "Authenticate users with Azure Static Web Apps",
       "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with API and authentication using Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
@@ -614,6 +567,43 @@
         "Compute",
         "Serverless",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
+      "title": "Secure your Azure virtual machine disks",
+      "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 3820,
+        "average": 4.7041883
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage",
+        "Management Tools"
       ]
     },
     {

@@ -4,49 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-configure-network-routing-endpoints.md",
-      "title": "Configure network routing and endpoints",
-      "excerpt": "You will learn how to configure routes including endpoints and private links.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-network-routing-endpoints/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-routing-endpoints/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 14,
-        "average": 4.928571
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
       "title": "Design a hybrid network architecture on Azure",
       "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
@@ -133,6 +90,52 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-implement-network-security-monitoring.md",
+      "title": "Design and implement network security",
+      "excerpt": "You will learn to design and implement network security solutions such as Azure DDoS, Azure Firewall, Network Security Groups, and Web Application Firewall.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-network-security-monitoring/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-security-monitoring/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 15,
+        "average": 4.733333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
+        "Networking",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
       "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
       "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
@@ -162,49 +165,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway.md",
-      "title": "Load balance your web service traffic with Application Gateway",
-      "excerpt": "Improve application resilience by distributing load across multiple servers and use path-based routing to direct web traffic.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
-      "length": "PT1H32M",
-      "ratings": {
-        "count": 3901,
-        "average": 4.6529093
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/load-balance-web-traffic-with-application-gateway-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -648,15 +608,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-implement-network-security-monitoring.md",
-      "title": "Design and implement network security",
-      "excerpt": "You will learn to design and implement network security solutions such as Azure DDoS, Azure Firewall, Network Security Groups, and Web Application Firewall.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-network-security-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-security-monitoring/",
-      "length": "PT1H26M",
+      "path": "_learning/courses/microsoft-learn-design-implement-private-access-to-azure-services.md",
+      "title": "Design and implement private access to Azure Services",
+      "excerpt": "You will learn to design and implement private access to Azure Services with Azure Private Link, and virtual network service endpoints.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-private-access-to-azure-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-to-azure-services/",
+      "length": "PT1H30M",
       "ratings": {
-        "count": 15,
-        "average": 4.733333
+        "count": 13,
+        "average": 4.8461537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -687,22 +647,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking",
-        "Security"
+        "Networking"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-implement-private-access-to-azure-services.md",
-      "title": "Design and implement private access to Azure Services",
-      "excerpt": "You will learn to design and implement private access to Azure Services with Azure Private Link, and virtual network service endpoints.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-implement-private-access-to-azure-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-private-access-to-azure-services/",
-      "length": "PT1H30M",
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-virtual-networks.md",
+      "title": "Introduction to Azure virtual networks",
+      "excerpt": "In this module, you will learn how to design and implement fundamental Azure Networking resources such as virtual networks, public and private IPs, DNS, virtual network peering, routing, and Azure Virtual NAT.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-virtual-networks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-virtual-networks/",
+      "length": "PT1H18M",
       "ratings": {
-        "count": 13,
-        "average": 4.8461537
+        "count": 74,
+        "average": 4.7972975
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -717,7 +674,7 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 51,
       "images": [
@@ -776,51 +733,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
-      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
-      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
-      "length": "PT1H38M",
-      "ratings": {
-        "count": 1827,
-        "average": 4.7487683
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
         "Networking"
       ]
     },
@@ -1121,15 +1033,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-vpn-gateway.md",
-      "title": "Configure VPN Gateway",
-      "excerpt": "You will learn how to create VPN gateways and securely connect your company sites to Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-vpn-gateway/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-vpn-gateway/",
-      "length": "PT39M",
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
+      "title": "Microsoft Azure Well-Architected Framework - Reliability",
+      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
+      "length": "PT59M",
       "ratings": {
-        "count": 15,
-        "average": 4.9333334
+        "count": 1280,
+        "average": 4.760156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1149,7 +1061,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1160,7 +1072,13 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking"
+        "Storage",
+        "Databases",
+        "Management Tools",
+        "Migration",
+        "Networking",
+        "Compute",
+        "Web"
       ]
     },
     {
@@ -1432,6 +1350,86 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-dns-for-windows-server-iaas-vms.md",
+      "title": "Implement DNS for Windows Server IaaS VMs",
+      "excerpt": "Implement DNS for Windows Server IaaS VMs",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-dns-for-windows-server-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 46,
+        "average": 4.804348
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-dns-for-windows-server-iaas-vm-social.png",
+          "width": 642,
+          "height": 324,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-bastion.md",
+      "title": "Introduction to Azure Bastion",
+      "excerpt": "Describe how Azure Bastion provides secure and seamless connectivity to your VMs directly in the Azure portal. Determine whether Azure Bastion can replace your administrative jump boxes.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-bastion/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-bastion/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 25,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

@@ -4,224 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
-      "title": "Introduction to the Azure Machine Learning SDK",
-      "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 3153,
-        "average": 4.6451
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-classical-machine-learning.md",
-      "title": "Build classical machine learning models with supervised learning",
-      "excerpt": "Supervised learning is a form of machine learning where an algorithm learns from examples of data. We progressively paint a picture of how supervised learning automatically generates a model that can make predictions about the real world. We also touch on how these models are tested, and difficulties that can arise when training them.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-classical-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-classical-machine-learning/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 56,
-        "average": 4.892857
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-machine-learning.md",
-      "title": "Introduction to machine learning",
-      "excerpt": "A high-level overview of machine learning for people with little or no knowledge of computer science and statistics. You’ll be introduced to some essential concepts, explore data, and interactively go through the machine learning life-cycle - using Python to train, save, and use a machine learning model like we would in the real world.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-machine-learning/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 134,
-        "average": 4.8880596
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-read-write-data-azure-databricks.md",
-      "title": "Read and write data in Azure Databricks",
-      "excerpt": "Read and write data in Azure Databricks",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-read-write-data-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 609,
-        "average": 4.5763545
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/read-write-data-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-spark-architecture-fundamentals.md",
-      "title": "Spark architecture fundamentals",
-      "excerpt": "Spark architecture fundamentals",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-spark-architecture-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 912,
-        "average": 4.6502194
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-synthesize-text-input-speech.md",
       "title": "Synthesize Text Input to Speech",
       "excerpt": "Learn how to synthesize text to speech using the Speech-to-Text service.",
@@ -251,49 +33,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/synthesize-text-input-speech-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-translate-text-with-translator-service.md",
-      "title": "Translate text with the Translator service",
-      "excerpt": "Translate text with the Translator service",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-translate-text-with-translator-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translator-service/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 23,
-        "average": 4.826087
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -347,12 +86,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-integrate-azure-synapse-analytics-with-azure-data-and-ai-services.md",
-      "title": "Integrate Azure Synapse Analytics with Azure Data and AI services",
-      "excerpt": "Integrate Azure Synapse Analytics with Azure Data and AI services",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-integrate-azure-synapse-analytics-with-azure-data-and-ai-services/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-integrate-azure-synapse-analytics-with-azure-data-and-ai-services/",
-      "length": "PT1H46M",
+      "path": "_learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government.md",
+      "title": "Identify guiding principles for responsible AI in government",
+      "excerpt": "It's imperative to reflect on the implications of AI in Government. Discover guidelines to set up principles and a governance model in your organization.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-identify-guiding-principles-for-responsible-ai-in-government/",
+      "length": "PT2H55M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -370,15 +109,58 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-build-reports-using-power-bi-within-azure-synapse-analytics.md",
-          "title": "Build reports using Power BI within Azure Synapse Analytics",
-          "excerpt": "Build reports using Power BI within Azure Synapse Analytics",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-reports-using-power-bi-within-azure-synapse-analytics/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-reports-using-power-bi-azure-synapse-analytics/",
-          "length": "PT53M",
+          "path": "_learning/courses/microsoft-learn-responsible-ai-guiding-principles.md",
+          "title": "Identify guiding principles for responsible AI",
+          "excerpt": "Explore six principles to guide AI development and use - fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-responsible-ai-guiding-principles/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
+          "length": "PT56M",
           "ratings": {
-            "count": 11,
-            "average": 4.3636365
+            "count": 1202,
+            "average": 4.674709
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices-government.md",
+          "title": "Identify governing practices for responsible AI in government",
+          "excerpt": "Learn guiding principles for governments, and how to choose and operationalize a governance system to responsibly and successfully use AI in the public sector.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices-government/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices-government/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 318,
+            "average": 4.77044
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -398,9 +180,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-reports-with-pbi-social.png",
-              "width": 1280,
-              "height": 641,
+              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-government-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -409,19 +191,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Analytics"
+            "AI"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-integrate-machine-learning-within-azure-synapse-analytics.md",
-          "title": "Integrate machine learning within Azure Synapse Analytics",
-          "excerpt": "Integrate machine learning within Azure Synapse Analytics",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-integrate-machine-learning-within-azure-synapse-analytics/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-machine-learning-azure-synapse-analytics/",
-          "length": "PT53M",
+          "path": "_learning/courses/microsoft-learn-microsoft-responsible-ai-practices.md",
+          "title": "Discuss practices for responsible AI at Microsoft",
+          "excerpt": "Discover how to translate your organization’s ethical principles into actionable guidance and tools for engineering teams and how AI can improve lives worldwide",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-microsoft-responsible-ai-practices/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
+          "length": "PT1H17M",
           "ratings": {
-            "count": 13,
-            "average": 4.923077
+            "count": 533,
+            "average": 4.716698
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -441,9 +223,9 @@
           "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-integrate-machine-learning-social.png",
-              "width": 1280,
-              "height": 641,
+              "url": "https://docs.microsoft.com/learn/achievements/microsoft-responsible-ai-practices-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -452,18 +234,17 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Analytics",
             "AI"
           ]
         }
       ],
-      "size": 2,
+      "size": 3,
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-reports-with-pbi-social.png",
-          "width": 1280,
-          "height": 641,
+          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -472,7 +253,177 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-identify-principles-and-practices-for-responsible-ai.md",
+      "title": "Identify principles and practices for responsible AI",
+      "excerpt": "It's imperative to reflect on the implications of AI in business. Discover Microsoft guidelines to set up principles and a governance model in your enterprise.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-identify-principles-and-practices-for-responsible-ai/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-identify-principles-and-practices-for-responsible-ai/",
+      "length": "PT2H48M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-responsible-ai-guiding-principles.md",
+          "title": "Identify guiding principles for responsible AI",
+          "excerpt": "Explore six principles to guide AI development and use - fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-responsible-ai-guiding-principles/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 1202,
+            "average": 4.674709
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices.md",
+          "title": "Identify governing practices for responsible AI",
+          "excerpt": "Learn guiding principles for organizations, and how to choose and operationalize a governance system to responsibly and successfully use AI in the enterprise.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 535,
+            "average": 4.6523366
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-microsoft-responsible-ai-practices.md",
+          "title": "Discuss practices for responsible AI at Microsoft",
+          "excerpt": "Discover how to translate your organization’s ethical principles into actionable guidance and tools for engineering teams and how AI can improve lives worldwide",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-microsoft-responsible-ai-practices/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
+          "length": "PT1H17M",
+          "ratings": {
+            "count": 533,
+            "average": 4.716698
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/microsoft-responsible-ai-practices-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "AI"
       ]
     },
@@ -520,58 +471,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-video.md",
-      "title": "Analyze video",
-      "excerpt": "Analyze video",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-video/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-video/",
-      "length": "PT48M",
+      "path": "_learning/courses/microsoft-learn-create-manage-cognitive-services.md",
+      "title": "Create and manage Cognitive Services",
+      "excerpt": "Azure Cognitive Services enable developers to easily add cognitive features into their applications. Learn how to configure and manage these services for your AI application needs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
+      "length": "PT44M",
       "ratings": {
-        "count": 12,
-        "average": 4.9166665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics.md",
-      "title": "Track wild polar bears with AI",
-      "excerpt": "Detect and track polar bears through photos using AI, then use Power BI to show where polar bears are being spotted.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-ml-model-with-azure-stream-analytics/",
-      "length": "PT1H20M",
-      "ratings": {
-        "count": 341,
-        "average": 4.692082
+        "count": 110,
+        "average": 4.7363634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -591,138 +499,9 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/build-ml-model-with-azure-stream-analytics-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-classify-images.md",
-      "title": "Classify images",
-      "excerpt": "Classify images",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-classify-images/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 12,
-        "average": 4.9166665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-bot-with-bot-framework-composer.md",
-      "title": "Create a Bot with the Bot Framework Composer",
-      "excerpt": "User the Bot Framework Composer to quickly and easily build sophisticated conversational bots without writing code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-bot-with-bot-framework-composer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 157,
-        "average": 4.7643313
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search.md",
-      "title": "Create an enrichment pipeline with Azure Cognitive Search",
-      "excerpt": "Use the power of artificial intelligence to enrich your data and find new insights.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
-      "length": "PT1H1M",
-      "ratings": {
-        "count": 96,
-        "average": 4.6979165
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-an-enrichment-pipeline-social.png",
-          "width": 643,
-          "height": 321,
           "isCached": true
         }
       ],
@@ -732,22 +511,19 @@
       "topics": [
         "Azure",
         "AI",
-        "Compute",
-        "Serverless",
-        "Storage",
-        "Web"
+        "Containers"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-language-understanding-app.md",
-      "title": "Create a Language Understanding app",
-      "excerpt": "Create a Language Understanding app",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-language-understanding-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-understanding-app/",
-      "length": "PT55M",
+      "path": "_learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory.md",
+      "title": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "excerpt": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
+      "length": "PT33M",
       "ratings": {
-        "count": 14,
-        "average": 4.928571
+        "count": 248,
+        "average": 4.552419
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -767,7 +543,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/create-production-workloads-azure-databricks-azure-data-factory-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -778,6 +554,7 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Analytics",
         "AI"
       ]
     },
@@ -826,15 +603,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
-      "title": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "excerpt": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
+      "title": "Describe Azure Databricks",
+      "excerpt": "Describe Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
+      "length": "PT53M",
       "ratings": {
-        "count": 311,
-        "average": 4.620579
+        "count": 1113,
+        "average": 4.545373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -854,7 +631,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-lazy-evaluation-other-performance-features-azure-databricks-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -914,50 +691,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explain-machine-learning-models-with-azure-machine-learning.md",
-      "title": "Explain machine learning models with Azure Machine Learning",
-      "excerpt": "Many decisions made by organizations and automated systems today are based on predictions made by machine learning models. It's increasingly important to be able to understand the factors that influence the predictions models make.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explain-machine-learning-models-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 626,
-        "average": 4.7396164
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explain-machine-learning-models-with-azure-machine-learning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-extract-key-phrases-text-analytics-api.md",
       "title": "Extract key phrases from text with the text analytics API",
       "excerpt": "Automatically extract key phrases to quickly identify the main points in documents or text.",
@@ -1002,15 +735,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-integrate-machine-learning-within-azure-synapse-analytics.md",
-      "title": "Integrate machine learning within Azure Synapse Analytics",
-      "excerpt": "Integrate machine learning within Azure Synapse Analytics",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-integrate-machine-learning-within-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-machine-learning-azure-synapse-analytics/",
-      "length": "PT53M",
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
+      "title": "Introduction to the Azure Machine Learning SDK",
+      "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
+      "length": "PT40M",
       "ratings": {
-        "count": 13,
-        "average": 4.923077
+        "count": 3153,
+        "average": 4.6451
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1025,14 +758,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-integrate-machine-learning-social.png",
-          "width": 1280,
-          "height": 641,
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -1041,8 +774,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
-        "AI"
+        "AI",
+        "Developer tools"
       ]
     },
     {
@@ -1085,93 +818,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-data-for-machine-learning.md",
-      "title": "Introduction to data for machine learning",
-      "excerpt": "The power of machine learning models comes from the data that is used to train them. Through content and exercises, we explore how to understand your data, how to encode it so that the computer can interpret it properly, how to clean it of errors, and tips that will help you create models that perform well.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-data-for-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-for-machine-learning/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 38,
-        "average": 4.8157897
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-investigate-container-for-use-with-cognitive-services.md",
-      "title": "Investigate container for use with Cognitive Services",
-      "excerpt": "Learn about Container support in Cognitive Services allowing the use of APIs available in Azure and enable flexibility in where to deploy and host the services with Docker containers.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-investigate-container-for-use-with-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/investigate-container-for-use-cognitive-services/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 66,
-        "average": 4.742424
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/investigate-container-for-use-with-cognitive-services-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
         "AI"
       ]
     },
@@ -1305,6 +951,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks.md",
+      "title": "Perform machine learning with Azure Databricks",
+      "excerpt": "Perform machine learning with Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-machine-learning-with-azure-databricks/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 127,
+        "average": 4.6220474
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-machine-learning-with-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-python-flask-build-ai-web-app.md",
       "title": "Build an AI web app by using Python and Flask",
       "excerpt": "Use Python, Flask, and Azure Cognitive Services to build a web app that incorporates AI",
@@ -1336,6 +1026,50 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-read-write-data-azure-databricks.md",
+      "title": "Read and write data in Azure Databricks",
+      "excerpt": "Read and write data in Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-read-write-data-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 609,
+        "average": 4.5763545
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/read-write-data-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
         "AI"
       ]
     },
@@ -1381,6 +1115,470 @@
         "Azure",
         "AI",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-spark-architecture-fundamentals.md",
+      "title": "Spark architecture fundamentals",
+      "excerpt": "Spark architecture fundamentals",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-spark-architecture-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 912,
+        "average": 4.6502194
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
+      "title": "Train a machine learning model with Azure Machine Learning",
+      "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 162,
+        "average": 4.5925927
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-train-machine-learning-model.md",
+      "title": "Train a machine learning model",
+      "excerpt": "Train a machine learning model",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-train-machine-learning-model/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-machine-learning-model/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 109,
+        "average": 4.6788993
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/train-machine-learning-model-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-understand-classification-machine-learning.md",
+      "title": "Create and understand classification models in machine learning",
+      "excerpt": "Classification means assigning items into categories, or can also be thought of automated decision making. Here we introduce classification models through logistic regression, providing you with a stepping-stone toward more complex and exciting classification methods.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-understand-classification-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-classification-machine-learning/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 21,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
+      "title": "Work with Compute in Azure Machine Learning",
+      "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 1141,
+        "average": 4.6687117
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps.md",
+      "title": "Use containers for your Language Understanding Intelligent Service (LUIS) Apps",
+      "excerpt": "The Language Understanding (LUIS) container loads your trained or published Language Understanding model. As a LUIS app, the docker container provides access to the query predictions from the container's API endpoints",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 448,
+        "average": 4.763393
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-containers-for-your-language-understanding-intelligent-service-luis-apps-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-language-understanding-speech.md",
+      "title": "Use Language Understanding with Speech",
+      "excerpt": "Use Language Understanding with Speech",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-language-understanding-speech/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-language-understanding-speech/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 19,
+        "average": 4.8421054
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
+      "title": "Work with DataFrames in Azure Databricks",
+      "excerpt": "Work with DataFrames in Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 494,
+        "average": 4.643725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-machine-learning-service-azure-tips-and-tricks.md",
+      "title": "How to get started with Azure Machine Learning Service | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to get started with the Azure Machine Learning Service and how you can use it from Visual Studio Code.   For more tips and tricks, visit: http://azuredev.tips  Get started with 12 months of free services and $200 USD in credit.  Create your free account",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-get-started-with-azure-machine-learning-service-azure-tips-and-tricks/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-get-started-with-azure-machine-learning-service-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=8EGJP7RPe1A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8EGJP7RPe1A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M5S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-06-11T09:02:52-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8EGJP7RPe1A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-build-a-qna-solution.md",
+      "title": "Build a QnA solution",
+      "excerpt": "Build a QnA solution",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-build-a-qna-solution/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-build-a-qna-solution/",
+      "length": "PT36M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-build-qna-solution-qna-maker.md",
+          "title": "Build a QnA solution with QnA Maker",
+          "excerpt": "Build a QnA solution with QnA Maker",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-qna-solution-qna-maker/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-qna-solution-qna-maker/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 16,
+            "average": 4.625
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 1,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

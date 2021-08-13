@@ -4,6 +4,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-data-protection-privacy.md",
+      "title": "Intro to data protection and privacy regulations",
+      "excerpt": "Learn and understand the key terms and concepts of data protection, privacy regulation, and data processing. Describe, at a high level, the key Azure technologies that pertain to data protection and compliance.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-data-protection-privacy/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-protection-privacy/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 15,
+        "average": 4.866667
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-azure-identity-protection.md",
       "title": "Examine Azure Identity Protection",
       "excerpt": "Examine Azure Identity Protection",
@@ -652,49 +695,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-m365-threat-safeguard.md",
-      "title": "Safeguard your environment with Azure Advanced Threat Protection",
-      "excerpt": "Learn about the Azure Advanced Threat Protection component of Microsoft Threat Protection.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-threat-safeguard/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 2376,
-        "average": 4.8312287
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/safeguard-your-environment-with-microsoft-azure-advanced-threat-protection-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-advanced-ediscovery.md",
       "title": "Manage Advanced eDiscovery",
       "excerpt": "Manage Advanced eDiscovery",
@@ -769,6 +769,49 @@
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
+      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
+      "excerpt": "Learn how to manage device identity by using Azure AD join and Enterprise State Roaming.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 2953,
+        "average": 4.700305
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -1089,51 +1132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
       "length": "PT48M",
       "ratings": {
-        "count": 312,
-        "average": 4.820513
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-maintain-azure-active-directory.md",
-      "title": "Monitor and maintain Azure Active Directory",
-      "excerpt": "Monitor and maintain Azure Active Directory",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-maintain-azure-active-directory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 251,
-        "average": 4.816733
+        "count": 313,
+        "average": 4.8178916
       },
       "provider": {
         "name": "Microsoft Learn",

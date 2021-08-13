@@ -4,6 +4,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
+      "title": "Explore Azure compute services",
+      "excerpt": "Learn about the different services that are available in Azure Compute.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-compute-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 21741,
+        "average": 4.769422
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 120,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 21733,
-            "average": 4.769521
+            "count": 21741,
+            "average": 4.769422
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -79,8 +124,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 16622,
-            "average": 4.6370473
+            "count": 16628,
+            "average": 4.6368775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 14674,
-            "average": 4.7747717
+            "count": 14682,
+            "average": 4.77469
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 19811,
-            "average": 4.7328253
+            "count": 19816,
+            "average": 4.732691
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -183,7 +228,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 109,
+          "heat": 92,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -205,7 +250,7 @@
         }
       ],
       "size": 4,
-      "heat": 130,
+      "heat": 110,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
@@ -227,51 +272,6 @@
         "Analytics",
         "AI",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
-      "title": "Explore Azure compute services",
-      "excerpt": "Learn about the different services that are available in Azure Compute.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-compute-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 21733,
-        "average": 4.769521
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 120,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Containers"
       ]
     },
     {
@@ -305,8 +305,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4220,
-            "average": 4.7590046
+            "count": 4228,
+            "average": 4.7592244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 21874,
-            "average": 4.7089696
+            "count": 21876,
+            "average": 4.7089505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -366,7 +366,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 79,
+          "heat": 74,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -383,8 +383,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 6404,
-            "average": 4.7386007
+            "count": 6405,
+            "average": 4.7383294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -447,7 +447,7 @@
         }
       ],
       "size": 9,
-      "heat": 92,
+      "heat": 88,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
@@ -541,8 +541,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-resources-tools/",
           "length": "PT21M",
           "ratings": {
-            "count": 146,
-            "average": 4.732877
+            "count": 151,
+            "average": 4.7350993
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -583,8 +583,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-azure-resource-manager/",
           "length": "PT30M",
           "ratings": {
-            "count": 90,
-            "average": 4.766667
+            "count": 92,
+            "average": 4.7608695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -667,8 +667,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
           "length": "PT1H11M",
           "ratings": {
-            "count": 7389,
-            "average": 4.7390714
+            "count": 7390,
+            "average": 4.739107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -685,7 +685,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 57,
+          "heat": 58,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -784,8 +784,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 16443,
-            "average": 4.724442
+            "count": 16444,
+            "average": 4.724337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -802,7 +802,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 63,
+          "heat": 58,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
@@ -845,7 +845,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 55,
+          "heat": 54,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -943,8 +943,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3971,
-            "average": 4.63586
+            "count": 3972,
+            "average": 4.6356997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1013,8 +1013,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 3094,
-            "average": 4.643827
+            "count": 3095,
+            "average": 4.643942
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1031,7 +1031,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1121,8 +1121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 3043,
-            "average": 4.717713
+            "count": 3044,
+            "average": 4.7178054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1139,7 +1139,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
@@ -1164,8 +1164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43793,
-            "average": 4.7200923
+            "count": 43795,
+            "average": 4.720105
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1199,8 +1199,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 942,
-            "average": 4.6549892
+            "count": 943,
+            "average": 4.6553555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1217,7 +1217,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
@@ -1243,8 +1243,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1342,
-            "average": 4.7585692
+            "count": 1344,
+            "average": 4.758929
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1287,7 +1287,7 @@
         }
       ],
       "size": 11,
-      "heat": 64,
+      "heat": 66,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
@@ -1353,180 +1353,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-administer-containers-in-azure.md",
-      "title": "Administer containers in Azure",
-      "excerpt": "With this learning path, you'll create and manage your Azure Container Instances, and see how they can be used to provide elastic scale for Kubernetes.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-administer-containers-in-azure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-administer-containers-in-azure/",
-      "length": "PT5H10M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
-          "title": "Introduction to Docker containers",
-          "excerpt": "Introduction to Docker containers",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-docker-containers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
-          "length": "PT32M",
-          "ratings": {
-            "count": 5883,
-            "average": 4.680435
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
-          "title": "Build a containerized web application with Docker",
-          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
-          "length": "PT57M",
-          "ratings": {
-            "count": 3971,
-            "average": 4.63586
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
-          "title": "Build and store container images with Azure Container Registry",
-          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 3094,
-            "average": 4.643827
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
-          "title": "Run Docker containers with Azure Container Instances",
-          "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 7149,
-            "average": 4.7166038
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 62,
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-104-deploy-and-manage-azure-compute-resources.md",
       "title": "AZ-104: Deploy and manage Azure compute resources",
       "excerpt": "Learn how to deploy and configure Azure compute resources and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -1575,7 +1401,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1686,7 +1512,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-app-service-plans/",
           "length": "PT21M",
           "ratings": {
-            "count": 13,
+            "count": 14,
             "average": 5.0
           },
           "provider": {
@@ -1809,8 +1635,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
           "length": "PT53M",
           "ratings": {
-            "count": 1383,
-            "average": 4.642082
+            "count": 1384,
+            "average": 4.642341
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1870,7 +1696,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 55,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
@@ -1913,7 +1739,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1933,6 +1759,180 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-administer-containers-in-azure.md",
+      "title": "Administer containers in Azure",
+      "excerpt": "With this learning path, you'll create and manage your Azure Container Instances, and see how they can be used to provide elastic scale for Kubernetes.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-administer-containers-in-azure/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-administer-containers-in-azure/",
+      "length": "PT5H10M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
+          "title": "Introduction to Docker containers",
+          "excerpt": "Introduction to Docker containers",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-docker-containers/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 5883,
+            "average": 4.680435
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
+          "title": "Build a containerized web application with Docker",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
+          "length": "PT57M",
+          "ratings": {
+            "count": 3972,
+            "average": 4.6356997
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
+          "title": "Build and store container images with Azure Container Registry",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 3095,
+            "average": 4.643942
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
+          "title": "Run Docker containers with Azure Container Instances",
+          "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 7149,
+            "average": 4.7166038
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 61,
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
@@ -2157,225 +2157,6 @@
         "Containers",
         "Compute",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-provision-and-manage-azure-cognitive-services.md",
-      "title": "Provision and manage Azure Cognitive Services",
-      "excerpt": "Learn about Cognitive Services and the important role they play in developing AI infused applications.  This learning path will introduce you to creating, managing, and deploying Cognitive Services in the Azure portal or through containers.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-provision-and-manage-azure-cognitive-services/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-provision-and-manage-azure-cognitive-services/",
-      "length": "PT2H7M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-manage-cognitive-services.md",
-          "title": "Create and manage Cognitive Services",
-          "excerpt": "Azure Cognitive Services enable developers to easily add cognitive features into their applications. Learn how to configure and manage these services for your AI application needs.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-cognitive-services/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 110,
-            "average": 4.7363634
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-cognitive-services.md",
-          "title": "Secure Cognitive Services",
-          "excerpt": "Learn how to secure Cognitive Services to prevent data loss and privacy violations for user data that may be a part of the solution.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-cognitive-services/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-cognitive-services/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 77,
-            "average": 4.753247
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-cognitive-services-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-monitor-cognitive-services.md",
-          "title": "Monitor Cognitive Services",
-          "excerpt": "Monitor Cognitive Services",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-cognitive-services/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-cognitive-services/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 21,
-            "average": 4.857143
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-investigate-container-for-use-with-cognitive-services.md",
-          "title": "Investigate container for use with Cognitive Services",
-          "excerpt": "Learn about Container support in Cognitive Services allowing the use of APIs available in Azure and enable flexibility in where to deploy and host the services with Docker containers.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-investigate-container-for-use-with-cognitive-services/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/investigate-container-for-use-cognitive-services/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 66,
-            "average": 4.742424
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/investigate-container-for-use-with-cognitive-services-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers",
-            "AI"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Containers",
-        "Management Tools"
       ]
     },
     {
@@ -2633,7 +2414,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-aspnet-core-social.png",
@@ -2850,7 +2631,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -3227,16 +3008,12 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
-      "title": "Introduction to Azure Kubernetes Service",
-      "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 4996,
-        "average": 4.644716
-      },
+      "path": "_learning/collections/microsoft-learn-provision-and-manage-azure-cognitive-services.md",
+      "title": "Provision and manage Azure Cognitive Services",
+      "excerpt": "Learn about Cognitive Services and the important role they play in developing AI infused applications.  This learning path will introduce you to creating, managing, and deploying Cognitive Services in the Azure portal or through containers.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-provision-and-manage-azure-cognitive-services/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-provision-and-manage-azure-cognitive-services/",
+      "length": "PT2H7M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -3250,23 +3027,203 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 55,
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-manage-cognitive-services.md",
+          "title": "Create and manage Cognitive Services",
+          "excerpt": "Azure Cognitive Services enable developers to easily add cognitive features into their applications. Learn how to configure and manage these services for your AI application needs.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-cognitive-services/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 110,
+            "average": 4.7363634
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-cognitive-services.md",
+          "title": "Secure Cognitive Services",
+          "excerpt": "Learn how to secure Cognitive Services to prevent data loss and privacy violations for user data that may be a part of the solution.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-cognitive-services/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-cognitive-services/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 78,
+            "average": 4.75641
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-cognitive-services-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-monitor-cognitive-services.md",
+          "title": "Monitor Cognitive Services",
+          "excerpt": "Monitor Cognitive Services",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-cognitive-services/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-cognitive-services/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 21,
+            "average": 4.857143
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-investigate-container-for-use-with-cognitive-services.md",
+          "title": "Investigate container for use with Cognitive Services",
+          "excerpt": "Learn about Container support in Cognitive Services allowing the use of APIs available in Azure and enable flexibility in where to deploy and host the services with Docker containers.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-investigate-container-for-use-with-cognitive-services/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/investigate-container-for-use-cognitive-services/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 66,
+            "average": 4.742424
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/investigate-container-for-use-with-cognitive-services-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers",
+            "AI"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers"
+        "AI",
+        "Containers",
+        "Management Tools"
       ]
     },
     {
@@ -3277,8 +3234,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 1342,
-        "average": 4.7585692
+        "count": 1344,
+        "average": 4.758929
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3320,15 +3277,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
-      "title": "Deploy and run a containerized web app with Azure App Service",
-      "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-run-container-app-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
+      "title": "Introduction to Azure Kubernetes Service",
+      "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
+      "length": "PT25M",
       "ratings": {
-        "count": 5452,
-        "average": 4.6426997
+        "count": 4996,
+        "average": 4.644716
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3348,7 +3305,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-run-container-app-service-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -3359,8 +3316,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Web",
         "Containers"
       ]
     },
@@ -3443,85 +3398,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
-      "title": "Build and store container images with Azure Container Registry",
-      "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 3094,
-        "average": 4.643827
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-manage-cognitive-services.md",
-      "title": "Create and manage Cognitive Services",
-      "excerpt": "Azure Cognitive Services enable developers to easily add cognitive features into their applications. Learn how to configure and manage these services for your AI application needs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 110,
-        "average": 4.7363634
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
       "title": "Introduction to Kubernetes",
       "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
@@ -3529,8 +3405,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
       "length": "PT53M",
       "ratings": {
-        "count": 1383,
-        "average": 4.642082
+        "count": 1384,
+        "average": 4.642341
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3823,15 +3699,50 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
-      "title": "Architect full-stack applications and automate deployments with GitHub",
-      "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
+      "title": "Deploy a containerized application on Azure Kubernetes Service",
+      "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
+      "length": "PT1H4M",
       "ratings": {
-        "count": 21,
-        "average": 4.7619047
+        "count": 527,
+        "average": 4.759013
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-azure-container-instances.md",
+      "title": "Configure Azure Container Instances",
+      "excerpt": "You will learn how to configure Azure Container Instances including container groups.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-container-instances/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-container-instances/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 11,
+        "average": 4.909091
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3851,9 +3762,9 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/automate-deployments-github-actions-azure-social.png",
-          "width": 641,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -3862,16 +3773,94 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration",
-        "Web",
-        "Containers",
-        "Mobile",
-        "DevOps"
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-azure-kubernetes-service.md",
+      "title": "Configure Azure Kubernetes Service",
+      "excerpt": "You will learn how to configure Azure Kubernetes including networking, storage, and scaling.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-kubernetes-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-kubernetes-service/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 10,
+        "average": 4.9
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-cognitive-services.md",
+      "title": "Create and manage Cognitive Services",
+      "excerpt": "Azure Cognitive Services enable developers to easily add cognitive features into their applications. Learn how to configure and manage these services for your AI application needs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 110,
+        "average": 4.7363634
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Containers"
       ]
     }
   ],

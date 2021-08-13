@@ -4,15 +4,15 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-extend-share-capacity-with-azure-file-sync.md",
-      "title": "Extend your on-premises file share capacity using Azure File Sync",
-      "excerpt": "Evaluate and deploy Azure File Sync to extend the capacity of your on-premises file share.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-extend-share-capacity-with-azure-file-sync/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extend-share-capacity-with-azure-file-sync/",
-      "length": "PT1H16M",
+      "path": "_learning/courses/microsoft-learn-ha-application-storage-with-grs.md",
+      "title": "Make your application storage highly available with read-access geo-redundant storage",
+      "excerpt": "In this module, you learn how to make your application storage highly available by ensuring that you can fail over resources if there's an Azure region failure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-ha-application-storage-with-grs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
+      "length": "PT34M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 1843,
+        "average": 4.5306563
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,7 +32,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/extend-share-capacity-with-azure-file-sync-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/ha-application-storage-with-grs-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -44,50 +44,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-gather-metrics-from-blob-storage.md",
-      "title": "Gather metrics from your Azure Blob Storage containers",
-      "excerpt": "Find out how to use Azure Storage Analytics to track the performance of your Blob storage containers and to display that Blob performance in your dashboard.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-gather-metrics-from-blob-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/gather-metrics-blob-storage/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 41,
-        "average": 4.487805
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/gather-metrics-from-blob-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Containers"
       ]
     },
     {
@@ -519,6 +475,43 @@
         "Databases",
         "Storage",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
+      "title": "Secure your Azure virtual machine disks",
+      "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 3820,
+        "average": 4.7041883
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage",
+        "Management Tools"
       ]
     },
     {

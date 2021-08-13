@@ -4,174 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-lambda-architecture-iot-solutions.md",
-      "title": "Introduction to implementing lambda architecture for IoT solutions",
-      "excerpt": "An overview of the concepts and resources behind storage technologies used in IoT applications on Azure. After completing the module, you can determine when to use Blob storage, Data Lake storage, Azure Cosmos DB, and Time Series Insights.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-lambda-architecture-iot-solutions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 628,
-        "average": 4.665605
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Storage",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db.md",
-      "title": "Introduction to open source database migration to Azure Cosmos DB",
-      "excerpt": "An introduction to migrating an open-source database to Azure Cosmos DB",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 91,
-        "average": 4.7362638
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-azure-paas-resources-using-automated-methods.md",
-      "title": "Manage Azure PaaS resources using automated methods",
-      "excerpt": "Explore SQL automation for Azure SQL Database and Open Source databases. Configure elastic jobs and Azure Policy.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-azure-paas-resources-using-automated-methods/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-paas-resources-using-automated-methods/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 158,
-        "average": 4.626582
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-azure-paas-resources-using-automated-methods-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines.md",
-      "title": "Manage database changes in Azure Pipelines",
-      "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-in-azure-pipelines/",
-      "length": "PT1H14M",
-      "ratings": {
-        "count": 769,
-        "average": 4.650195
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-microservices-data-aspnet-core.md",
       "title": "Use managed data stores in a cloud-native ASP.NET Core microservices app",
       "excerpt": "This module guides you through implementing Azure-managed data stores in an ASP.NET Core microservices app.",
@@ -345,6 +177,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql.md",
+      "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
+      "excerpt": "Migrate on-premises PostgreSQL to Azure Database for PostgreSQL",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 111,
+        "average": 4.882883
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances.md",
       "title": "Migrate SQL Workloads to Azure Managed Instances",
       "excerpt": "Migrate SQL Workloads to Azure Managed Instances",
@@ -474,6 +349,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-modify-data-with-transact-sql.md",
+      "title": "Modify data with T-SQL",
+      "excerpt": "Modify data with T-SQL",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-modify-data-with-transact-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-data-with-transact-sql/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 112,
+        "average": 4.866071
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-monitor-azure-cosmos-db.md",
       "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
       "excerpt": "Learn how to measure the performance of your NoSQL Azure Cosmos DB database, by monitoring, partitioning, and indexing",
@@ -505,6 +423,51 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-persist-data-ef-core.md",
+      "title": "Persist and retrieve relational data with Entity Framework Core",
+      "excerpt": "This module guides you through creating a data access project, connecting to a relational database, and writing CRUD queries.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-persist-data-ef-core/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/",
+      "length": "PT1H4M",
+      "ratings": {
+        "count": 1233,
+        "average": 4.649635
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/persist-data-ef-core-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
         "Databases"
       ]
     },
@@ -595,95 +558,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics.md",
-      "title": "Query Azure Cosmos DB with Apache Spark for Azure Synapse Analytics",
-      "excerpt": "Query Azure Cosmos DB with Apache Spark for Azure Synapse Analytics",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 61,
-        "average": 4.6885247
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics.md",
-      "title": "Query Azure Cosmos DB with SQL Serverless for Azure Synapse Analytics",
-      "excerpt": "Query Azure Cosmos DB with SQL Serverless for Azure Synapse Analytics",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 81,
-        "average": 4.703704
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Serverless",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-query-multiple-tables-with-joins.md",
       "title": "Combine multiple tables with JOINs in T-SQL",
       "excerpt": "Combine multiple tables with JOINs in T-SQL",
@@ -691,8 +565,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 132,
-        "average": 4.8257575
+        "count": 133,
+        "average": 4.819549
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -812,6 +686,42 @@
         "Databases",
         "Storage",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
+      "title": "Secure your Azure SQL Database",
+      "excerpt": "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-your-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 4924,
+        "average": 4.542242
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases"
       ]
     },
     {
@@ -942,6 +852,85 @@
       "topics": [
         "Azure",
         "Storage",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache.md",
+      "title": "Work with mutable and partial data in Azure Cache for Redis",
+      "excerpt": "Learn how to create transactions, manage memory, and use the cache-aside pattern with Azure Cache for Redis",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/",
+      "length": "PT1H5M",
+      "ratings": {
+        "count": 942,
+        "average": 4.6571126
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-write-subqueries.md",
+      "title": "Write Subqueries in T-SQL",
+      "excerpt": "Write Subqueries in T-SQL",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-write-subqueries/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-subqueries/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 88,
+        "average": 4.840909
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Databases"
       ]
     },
