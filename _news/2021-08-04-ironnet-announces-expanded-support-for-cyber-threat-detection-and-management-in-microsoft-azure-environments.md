@@ -2,17 +2,17 @@
 category: news
 title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
 excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."
-publishedDateTime: 2021-08-04T12:32:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
-webUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
+publishedDateTime: 2021-08-04T08:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ironnet-announces-expanded-support-for-cyber-threat-detection-and-management-in"
+webUrl: "https://www.nasdaq.com/press-release/ironnet-announces-expanded-support-for-cyber-threat-detection-and-management-in"
 type: article
-quality: 0
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
@@ -139,6 +139,6 @@ related:
         height: 630
         isCached: true
 
-secured: "oACzoCbJkyBQue9vAJekPAM71zUCVLoEhkCgvZPc/hR2IELZ7ExY5omBWW6AOr5FxbhJMOM+Fbq9CzWdJoP1xxtfovXXosANfaXl0956f0wzOc4O/JBwgh0auVeNKF09YaAcuZWjEFcY0vedOSvm5JXCsv2gheuq55VEWx7kW7G+WoSQzRcTykBO5rpzreYk22SOZe5Pd6DhpbUzLrkqFXsRHfjffb4HeaxAojJ+wBYTDrpUcb+qFbttaoJ2iPMdznP0tn9gNNmOiWswEASukr5wf2IQpHJhYkNBZRvRQJ/NHgKmQzcYCf6DZcDgqg4vs4qS3lv1jcVMpvTScZ9GAcnngNYpAtJlDPueqAJVkmU=;sztH6tMMgWZmony1uL/iIA=="
+secured: "G2LNlDfnz2lRQ3P6B9MS8G38t894ZAe6nbcrOeO6H/fhTF9oUxjjhIxRuDBbLWqWQaI9LScCnR9DrCfl6OkIpj76+dwD80xjLJR389rsxLZ0vO+3Xsgb9H4WEuDsbqqoQgoTZyHHEd3tX82MvZIjtb3qzMX9tj0o4NW1jeUMA8KIHKP8cWaq1u98tWEi2Uw4gtWHg33Br0PLSVBoz+ygtP+ghzJsI7Z76FJStRH8s/011CHcf+e9gIaIxhODQht/eF0kzeT7/cLlarL47ZO9mKgNrofG7t6ffdLFgJMsoHsBLz66uAYsjx0p6VQdUsjcXgHomRAmemmiOlLZuHxa6SGbJ1b3LAmVWzTNHebD+ME=;t0+OdcbsfPrehG/AVMu2UA=="
 ---
 
