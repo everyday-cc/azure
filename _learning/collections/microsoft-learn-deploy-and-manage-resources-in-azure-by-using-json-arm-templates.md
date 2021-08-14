@@ -4,7 +4,7 @@ excerpt: "Learn how JSON ARM templates enable you to manage both basic and compl
 type: collection
 price: Free
 length: PT4H36M
-heat: 61
+heat: 66
 
 provider:
   name: Microsoft Learn
