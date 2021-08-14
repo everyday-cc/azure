@@ -2,9 +2,9 @@
 category: news
 title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
 excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
-publishedDateTime: 2021-08-12T14:05:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-0e67b5143f0752442040fceb7b398d58"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-0e67b5143f0752442040fceb7b398d58"
+publishedDateTime: 2021-08-12T14:24:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
 type: article
 quality: 30
 heat: -1
@@ -140,6 +140,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "MgmPI0h/LHXdaGxwSbHQYg4lLvEo328bGLJ6C8iHmJDUdYWFmyVUS2Yko7ZMx8MRNxSXf3BPL/LXMQAealcrfJWfVwFq2zogrPAFF5rSXx9Ca4gvpU1AMUy2ZJui9J+CVaxnYhpMSiv2aQYDoerFPPoY7VNZw5dSHePwV/qHjhK/cRDwK+WkOPdm/MzC9af/6CER05xbMsmlfmRSieAG2mVfPWsydqtntyJ+HIB2nqD4gQSN9+RCrisyYooMZgT4AsMQoXNBn+ZMOOpyURr6sjjkshxtNMwEgYosgjqFTk4AE58JzrSbpFIyAPwa11Z3TyJpANgaurbZ/oXqiWDCjWtYieZU7mXDgHZT83kJYDs=;bnlX9uzi9mJ/wyB/FgeS+g=="
+secured: "rMvktxEj9Hunzg23MHlsvId4ULV5XsWHEiSskR8GdoFtv+tDk8DpFafukeRVeEorzvZ0QVN1hiDQ/hyQb5m6RaATWMuBY8YpqXN+/YMHYDzJ6rwEws2QGoh5eqdXUk2XiuNlQavf8/XC8e+LhSJDWU2iQKvIGAcqODTFOtmAifp+9vgY+lU9owIwhPM5Je1aJq0kqUpuIkmdJfmNzuGjGmmLQLOKIJQLtqO+VWpqaoIMR9TuZr3BY/aZRm7+Fw+V1AelPFsrIcoeyRV70IwXnwjNmRYOne0ka7Ia6rkuKuz9+oAcHBj7Ju0Y4kFWZn51oUgbMdwzD7TYXkH2DVgd2CraBKobqMmodgUCcdSHHK0=;isjcCMtemurBsfMZDXlRSQ=="
 ---
 
