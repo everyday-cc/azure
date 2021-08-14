@@ -4,91 +4,6 @@
   "page": 50,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices.md",
-      "title": "Identify governing practices for responsible AI",
-      "excerpt": "Learn guiding principles for organizations, and how to choose and operationalize a governance system to responsibly and successfully use AI in the enterprise.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 535,
-        "average": 4.6523366
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-responsible-bots.md",
-      "title": "Create a chat bot to help students learn with Azure Bot Service",
-      "excerpt": "Learn how to build responsible conversational UI by using bots.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-responsible-bots/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-bots/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 96,
-        "average": 4.6354165
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/advocates/responsible-bots-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-responsible-conversational-ai.md",
       "title": "Discover Microsoft guidelines for responsible conversational AI development",
       "excerpt": "Learn Microsoft guidelines for the development of responsible conversational AI, such as chat bots and voice-controlled systems.",
@@ -635,6 +550,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-rust-introduction.md",
+      "title": "What is Rust",
+      "excerpt": "A quick introduction to Rust language features and how Rust compares with other programming languages.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-rust-introduction/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-introduction/",
+      "length": "PT16M",
+      "ratings": {
+        "count": 43,
+        "average": 4.837209
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-get-started-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-rust-modules-packages-crates.md",
       "title": "Explore modules, packages, and third-party crates",
       "excerpt": "Learn about how to effectively use modules and how to integrate with packages and third-party crates.",
@@ -666,6 +623,48 @@
           "url": "https://docs.microsoft.com/learn/achievements/rust-modules-packages-crates-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-rust-set-up-environment.md",
+      "title": "Set up the Rust development environment",
+      "excerpt": "Learn how to set up the Rust development environment, write a program, and use the Cargo build system.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-rust-set-up-environment/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-set-up-environment/",
+      "length": "PT16M",
+      "ratings": {
+        "count": 28,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-get-started-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],
