@@ -1,32 +1,47 @@
 ---
 category: news
-title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
-excerpt: "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud."
-publishedDateTime: 2021-08-10T18:48:00Z
-originalUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-webUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+title: "Windows 365 exposes Microsoft Azure credentials in plain-text"
+excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
+publishedDateTime: 2021-08-13T18:24:00Z
+originalUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/"
+webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/"
+ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/amp/"
 type: article
-quality: 66
-heat: 226
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: HotHardware
-  domain: hothardware.com
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg"
-    width: 708
-    height: 399
+  - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
+    width: 1800
+    height: 900
     isCached: true
 
 related:
+  - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
+    excerpt: "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud."
+    publishedDateTime: 2021-08-10T18:48:00Z
+    webUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 66
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg"
+        width: 708
+        height: 399
+        isCached: true
   - title: "CarePoint Health Achieves Operational Simplicity with Rubrik Cloud Data Management and Microsoft Azure"
     excerpt: "CarePoint Health combines the resources of three area hospitals, Bayonne Medical Center, Christ Hospital in Jersey City, and Hoboken University Medical Center, to provide 360 degree coordinated care delivered by the area’s most dedicated doctors, nurses ..."
     publishedDateTime: 2021-08-06T15:54:00Z
@@ -55,22 +70,6 @@ related:
     images:
       - url: "https://www.bleepstatic.com/content/hl-images/2021/08/09/Azure-Sentinel.jpg"
         width: 1600
-        height: 900
-        isCached: true
-  - title: "Windows 365 exposes Microsoft Azure credentials in plain-text"
-    excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
-    publishedDateTime: 2021-08-13T18:24:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 57
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
-        width: 1800
         height: 900
         isCached: true
   - title: "Windows 365 exposes Microsoft Azure credentials in plaintext"
@@ -141,6 +140,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "1lvycEwx+0VwjC08sPYXFLPY0Gzziu1ctgHxPuah2MORSXMrTWlbIYvAiC3iCJrWjtAkHb8bPuB/6ojlsjBeTb761fW2wAQzSHkX/Ss2p0WYUm8a+WmMIj5DxdhILPEQj7aM2+5DihE8onB+HTihYdFe+0Z6RXaAzK94bROTrMPkhnA1pSbxTERoFB8oYpzLdcCqL9L4IkvORkB5xmV1HiKfn0zL7dJcXeC97SRkrHudmlodqlVx3yw0S5r2WLV37XVtEnjE0xbKoOz8C1Yhxvhx+8IH8Ze1oldqSCnhNDqEhgzrJA5Pc++3O6rXgT28TB7ZqxjIl42V/C1yCAAY5t0Ne+hgzmRC/V5K12SQ2mU=;hfL00hCcZfo6BqCqryKzbg=="
+secured: "3seN0XEmxEYtCneRWV+A4o8GbQJnb+fAM3BG/nf+FQdsSUJsULbLJmVm1cptwxzOpDXqVatK5kvuo+o7oY2J/7il7v5gn0qsdHneZgfllmgooVhQezIHMyW4s8+baUjA+qYzzpW+HynvQ/67RWCqoAWHoFS8e2YVVZibykpPLXA/zzjNQ6vmTaeTm/aGdB3+qiuAxx59fBXPRQ8kNadX7ZP4cwn6ueNcdmZvrrWlWgqse358v6kNd8CFt83O4drr/3SvR2oAitJpclWJhSc8LNWuzxBFpdWfvSk1qOA8OXcpxGmwaUTK8xW6lSqPiAZiVhuxJs+HR3Ir22wT7jlIthD2k2ViZJGYDsB8f72SVYI=;1AS04saVTJaZC/BvOp9CcA=="
 ---
 
