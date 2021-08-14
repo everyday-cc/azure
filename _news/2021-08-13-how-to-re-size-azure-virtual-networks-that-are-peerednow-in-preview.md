@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/how-to-resize-azure-virtual-netwo
 webUrl: "https://azure.microsoft.com/blog/how-to-resize-azure-virtual-networks-that-are-peered-now-in-preview/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
