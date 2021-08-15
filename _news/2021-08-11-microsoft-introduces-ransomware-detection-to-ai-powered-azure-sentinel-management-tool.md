@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-det
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
 type: article
 quality: 66
-heat: 231
+heat: 229
 published: true
 
 provider:
