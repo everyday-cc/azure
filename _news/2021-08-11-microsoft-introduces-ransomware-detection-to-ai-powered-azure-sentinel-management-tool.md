@@ -89,6 +89,15 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
+    excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."
+    publishedDateTime: 2021-08-04T08:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ironnet-announces-expanded-support-for-cyber-threat-detection-and-management-in"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 38
   - title: "Microsoft Azure unveils automated ransomware detection tool: 5 details"
     excerpt: "Microsoft has unveiled a ransomware detection feature for its Azure clients. The tool will send alerts to security analysts when it detects potential ransomware activities, according to an Aug. 9 ..."
     publishedDateTime: 2021-08-10T18:41:00Z
@@ -131,15 +140,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
-    excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
-    publishedDateTime: 2021-08-04T16:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "1lvycEwx+0VwjC08sPYXFLPY0Gzziu1ctgHxPuah2MORSXMrTWlbIYvAiC3iCJrWjtAkHb8bPuB/6ojlsjBeTb761fW2wAQzSHkX/Ss2p0WYUm8a+WmMIj5DxdhILPEQj7aM2+5DihE8onB+HTihYdFe+0Z6RXaAzK94bROTrMPkhnA1pSbxTERoFB8oYpzLdcCqL9L4IkvORkB5xmV1HiKfn0zL7dJcXeC97SRkrHudmlodqlVx3yw0S5r2WLV37XVtEnjE0xbKoOz8C1Yhxvhx+8IH8Ze1oldqSCnhNDqEhgzrJA5Pc++3O6rXgT28TB7ZqxjIl42V/C1yCAAY5t0Ne+hgzmRC/V5K12SQ2mU=;hfL00hCcZfo6BqCqryKzbg=="
 ---
