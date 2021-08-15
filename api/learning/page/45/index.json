@@ -4,40 +4,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-optimize-web-app-with-redis.md",
-      "title": "Optimize your web applications by caching read-only data with Redis",
-      "excerpt": "Use Redis caching in Azure to reduce the load on databases. Apply different caching architectures to support larger loads in distributed and high-volume environments.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-web-app-with-redis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 472,
-        "average": 4.754237
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-optimize-wvd.md",
       "title": "Optimize Windows Virtual Desktop in Microsoft Azure",
       "excerpt": "Learn the steps to optimize Windows Virtual Desktop, including how to take advantage of new storage, file management, and automated scaling options.",
@@ -846,50 +812,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-plan-your-migration-to-microsoft-365.md",
-      "title": "Plan your migration to Microsoft 365",
-      "excerpt": "Plan your migration to Microsoft 365",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-your-migration-to-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-migration-to-microsoft-365/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 26,
-        "average": 4.8076925
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Migration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-plan-your-premises-infrastructure-for-microsoft-365.md",
       "title": "Plan your on-premises infrastructure for Microsoft 365",
       "excerpt": "Plan your on-premises infrastructure for Microsoft 365",
@@ -1263,6 +1185,91 @@
       "topics": [
         "Azure",
         "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-prepare-your-windows-10-devices-for-co-management.md",
+      "title": "Prepare your Windows 10 devices for Co-management",
+      "excerpt": "Prepare your Windows 10 devices for Co-management",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-prepare-your-windows-10-devices-for-co-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-windows-10-devices-for-co-management/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 13,
+        "average": 4.923077
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-preparing-migrate-sap-workloads-azure.md",
+      "title": "Prepare to migrate SAP workloads to Azure",
+      "excerpt": "This module provides details on the important steps prior to deploying SAP workloads to Azure: project preparation and planning, pilot, non-production, production preparation, go live, and post production.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-preparing-migrate-sap-workloads-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-migrate-sap-workloads/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 409,
+        "average": 4.789731
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/preparing-migrate-sap-workloads-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
