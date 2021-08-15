@@ -4,6 +4,143 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-access-blob-storage-metrics-from-code.md",
+      "title": "Access Metrics from your Azure Blob Storage Containers Programmatically",
+      "excerpt": "Discover how to use Azure Monitor to gather performance metrics and then configure and access those metrics from .NET application code.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-access-blob-storage-metrics-from-code/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-blob-storage-metrics-from-code/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 42,
+        "average": 4.642857
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/access-blob-storage-metrics-from-code-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-optimize-data-warehouse-storage-azure-synapse-analytics.md",
+      "title": "Analyze and optimize data warehouse storage in Azure Synapse Analytics",
+      "excerpt": "Analyze and optimize data warehouse storage in Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-optimize-data-warehouse-storage-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-optimize-data-warehouse-storage-azure-synapse-analytics/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 71,
+        "average": 4.5915494
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-synaps-analytics-optimize-data-warehouse-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
+      "title": "Microsoft Azure Well-Architected Framework - Reliability",
+      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 1281,
+        "average": 4.7572207
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases",
+        "Management Tools",
+        "Migration",
+        "Networking",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks.md",
       "title": "Caching and performance in Azure storage disks",
       "excerpt": "Learn about Azure VM disk performance and how to enable caching to help optimize read and write access to storage.",
@@ -284,8 +421,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 165,
-        "average": 4.581818
+        "count": 166,
+        "average": 4.572289
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -827,49 +964,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-export-data-with-azure-import-export.md",
-      "title": "Export large amounts of data from Azure by using Azure Import/Export",
-      "excerpt": "Learn how and when to use Azure Import/Export to copy large amounts of data from Azure",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-export-data-with-azure-import-export/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 1955,
-        "average": 4.779028
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/export-data-with-azure-import-export-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-extend-share-capacity-with-azure-file-sync.md",
       "title": "Extend your on-premises file share capacity using Azure File Sync",
       "excerpt": "Evaluate and deploy Azure File Sync to extend the capacity of your on-premises file share.",
@@ -954,49 +1048,6 @@
         "Azure",
         "Storage",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-ha-application-storage-with-grs.md",
-      "title": "Make your application storage highly available with read-access geo-redundant storage",
-      "excerpt": "In this module, you learn how to make your application storage highly available by ensuring that you can fail over resources if there's an Azure region failure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-ha-application-storage-with-grs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 1845,
-        "average": 4.5300813
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ha-application-storage-with-grs-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     },
     {
@@ -1252,49 +1303,6 @@
         "Azure",
         "Storage",
         "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-optimize-blob-storage-costs.md",
-      "title": "Optimize storage performance and costs using Blob storage tiers",
-      "excerpt": "Learn what the different storage tiers are for blob storage and how they can improve performance and reduce costs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-blob-storage-costs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-archive-costs-blob-storage/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 109,
-        "average": 4.59633
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-blob-storage-costs-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

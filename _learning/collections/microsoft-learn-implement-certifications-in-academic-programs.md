@@ -4,7 +4,7 @@ excerpt: "Learn how to implement certifications in academic programs."
 type: collection
 price: Free
 length: PT54M
-heat: 62
+heat: 60
 
 provider:
   name: Microsoft Learn

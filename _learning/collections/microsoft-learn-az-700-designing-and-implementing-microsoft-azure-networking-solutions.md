@@ -4,7 +4,7 @@ excerpt: "AZ-700 Designing and Implementing Microsoft Azure Networking Solutions
 type: collection
 price: Free
 length: PT9H27M
-heat: 61
+heat: 62
 
 provider:
   name: Microsoft Learn
