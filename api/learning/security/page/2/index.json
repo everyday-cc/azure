@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 9464,
-        "average": 4.6728654
+        "count": 9465,
+        "average": 4.6727943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 5113,
-        "average": 4.7637396
+        "count": 5114,
+        "average": 4.763786
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -142,8 +142,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
       "length": "PT27M",
       "ratings": {
-        "count": 306,
-        "average": 4.866013
+        "count": 307,
+        "average": 4.8664494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -208,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 306,
-            "average": 4.866013
+            "count": 307,
+            "average": 4.8664494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -379,8 +379,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
           "length": "PT27M",
           "ratings": {
-            "count": 306,
-            "average": 4.866013
+            "count": 307,
+            "average": 4.8664494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -520,6 +520,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-configure-network-security-groups.md",
+      "title": "Configure network security groups",
+      "excerpt": "You will learn how to implement network security groups and ensure network security group rules are correctly applied.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-network-security-groups/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-security-groups/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 22,
+        "average": 4.7727275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
       "title": "Configure security policies to manage data",
       "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
@@ -570,8 +613,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-storage-security/",
       "length": "PT27M",
       "ratings": {
-        "count": 24,
-        "average": 4.7916665
+        "count": 25,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1829,49 +1872,6 @@
       },
       "levels": [
         "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-multi-table-statements-kql.md",
-      "title": "Build multi-table statements using KQL",
-      "excerpt": "Build multi-table statements using KQL",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-multi-table-statements-kql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-multi-table-statements-kusto-query-language/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 216,
-        "average": 4.787037
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
       ],
       "heat": 50,
       "images": [
