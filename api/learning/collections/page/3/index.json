@@ -4,425 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure.md",
-      "title": "Migrate ASP.NET Apps to Azure",
-      "excerpt": "Migrate ASP.NET web applications and their data to Azure App Service and Azure SQL Database to take advantage of the cloud.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure/",
-      "length": "PT2H0M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure.md",
-          "title": "Introduction to migrating ASP.NET apps to Azure",
-          "excerpt": "Migrating an ASP.NET application from on-premises to Azure, along with a supporting Azure SQL database, can provide many advantages, but also challenges. Learn how to evaluate the migration process to determine if it’s right for your application.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-migrating-aspnet-apps-azure/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 64,
-            "average": 4.890625
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
-          "title": "Host a web application with Azure App service",
-          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 6945,
-            "average": 4.64622
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 57,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-provision-azure-sql-db.md",
-          "title": "Provision an Azure SQL database to store application data",
-          "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-provision-azure-sql-db/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 5692,
-            "average": 4.6683064
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-app-service-migration-assistant.md",
-          "title": "Migrate an on-premises web application to Azure App Service",
-          "excerpt": "Use the Azure App Service Migration Assistant to assess the readiness of a web app to be deployed on App Service, and perform the migration.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-app-service-migration-assistant/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-app-service-migration-assistant/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 135,
-            "average": 4.762963
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web",
-            "Migration",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory.md",
-      "title": "Protect identity and access with Azure Active Directory",
-      "excerpt": "The **Identity and Access learning path** covers the latest identity and access technologies, tools for strengthening authentication, and guidance on identity protection within your organization. Microsoft access and identity technologies enable you to secure your organization’s identity, whether it is on-premises or in the cloud, and empower your users to work securely from any location.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/",
-      "length": "PT2H52M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-m365-identity-overview.md",
-          "title": "Define identity and access management in Azure Active Directory",
-          "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-overview/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
-          "length": "PT15M",
-          "ratings": {
-            "count": 638,
-            "average": 4.7523513
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-m365-identity-provisioning.md",
-          "title": "Simplify access and identity provisioning with Azure Active Directory",
-          "excerpt": "Learn about identity governance and how you can safeguard access to your organization’s data.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-provisioning/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 5313,
-            "average": 4.7713156
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
-          "title": "Strengthen authentication (conditional access) with Azure Active Directory",
-          "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-authentication/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 4800,
-            "average": 4.7883334
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-m365-identity-secure-administrators.md",
-          "title": "Secure administrator accounts in Azure Active Directory",
-          "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-secure-administrators/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
-          "length": "PT21M",
-          "ratings": {
-            "count": 3442,
-            "average": 4.7826843
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-sc-900-part-2-describe-the-capabilities-of-microsoft-identity-and-access-management-solutions.md",
       "title": "SC-900 part 2: Describe the capabilities of Microsoft Identity and access management solutions",
       "excerpt": "SC-900 part 2: Describe the capabilities of Microsoft Identity and access management solutions",
@@ -702,8 +283,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3981,
-            "average": 4.636021
+            "count": 3982,
+            "average": 4.6358614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -958,8 +539,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 7578,
-            "average": 4.691871
+            "count": 7579,
+            "average": 4.6919117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1466,8 +1047,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-blob-storage/",
           "length": "PT30M",
           "ratings": {
-            "count": 29,
-            "average": 4.827586
+            "count": 30,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2438,6 +2019,225 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-data-engineering-with-azure-databricks.md",
+      "title": "Data engineering with Azure Databricks",
+      "excerpt": "Data engineering with Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-data-engineering-with-azure-databricks/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-data-engineering-with-azure-databricks/",
+      "length": "PT10H32M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
+          "title": "Describe Azure Databricks",
+          "excerpt": "Describe Azure Databricks",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
+          "length": "PT53M",
+          "ratings": {
+            "count": 1120,
+            "average": 4.5473213
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-spark-architecture-fundamentals.md",
+          "title": "Spark architecture fundamentals",
+          "excerpt": "Spark architecture fundamentals",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-spark-architecture-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 915,
+            "average": 4.651366
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-read-write-data-azure-databricks.md",
+          "title": "Read and write data in Azure Databricks",
+          "excerpt": "Read and write data in Azure Databricks",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-read-write-data-azure-databricks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
+          "length": "PT60M",
+          "ratings": {
+            "count": 610,
+            "average": 4.5770493
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/read-write-data-azure-databricks-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
+          "title": "Work with DataFrames in Azure Databricks",
+          "excerpt": "Work with DataFrames in Azure Databricks",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 495,
+            "average": 4.6444445
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics",
+            "AI"
+          ]
+        }
+      ],
+      "size": 15,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service.md",
       "title": "Deploy a website to Azure with Azure App Service",
       "excerpt": "In this learning path, get acquainted with using Azure App Service to create and deploy your website without underlying servers, storage or network assets.",
@@ -2748,8 +2548,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
           "length": "PT60M",
           "ratings": {
-            "count": 406,
-            "average": 4.7413793
+            "count": 407,
+            "average": 4.742015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3250,8 +3050,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 14116,
-            "average": 4.7650185
+            "count": 14118,
+            "average": 4.764981
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3662,6 +3462,225 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-perform-data-science-with-azure-databricks.md",
+      "title": "Perform data science with Azure Databricks",
+      "excerpt": "Perform data science with Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-perform-data-science-with-azure-databricks/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-perform-data-science-with-azure-databricks/",
+      "length": "PT8H25M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
+          "title": "Describe Azure Databricks",
+          "excerpt": "Describe Azure Databricks",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
+          "length": "PT53M",
+          "ratings": {
+            "count": 1120,
+            "average": 4.5473213
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-spark-architecture-fundamentals.md",
+          "title": "Spark architecture fundamentals",
+          "excerpt": "Spark architecture fundamentals",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-spark-architecture-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 915,
+            "average": 4.651366
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-read-write-data-azure-databricks.md",
+          "title": "Read and write data in Azure Databricks",
+          "excerpt": "Read and write data in Azure Databricks",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-read-write-data-azure-databricks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
+          "length": "PT60M",
+          "ratings": {
+            "count": 610,
+            "average": 4.5770493
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/read-write-data-azure-databricks-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
+          "title": "Work with DataFrames in Azure Databricks",
+          "excerpt": "Work with DataFrames in Azure Databricks",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 495,
+            "average": 4.6444445
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics",
+            "AI"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services.md",
       "title": "Process natural language with Azure Cognitive Language Services",
       "excerpt": "Process natural language with Azure Cognitive Language Services",
@@ -3999,8 +4018,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
           "length": "PT60M",
           "ratings": {
-            "count": 406,
-            "average": 4.7413793
+            "count": 407,
+            "average": 4.742015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4334,8 +4353,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-machine-learning/",
           "length": "PT52M",
           "ratings": {
-            "count": 143,
-            "average": 4.874126
+            "count": 145,
+            "average": 4.875862
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5577,7 +5596,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
@@ -5792,7 +5811,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
@@ -6007,7 +6026,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
