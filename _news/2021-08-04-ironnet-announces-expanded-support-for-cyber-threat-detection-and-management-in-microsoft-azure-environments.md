@@ -1,18 +1,18 @@
 ---
 category: news
 title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
-excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."
-publishedDateTime: 2021-08-04T08:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ironnet-announces-expanded-support-for-cyber-threat-detection-and-management-in"
-webUrl: "https://www.nasdaq.com/press-release/ironnet-announces-expanded-support-for-cyber-threat-detection-and-management-in"
+excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
+publishedDateTime: 2021-08-04T16:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
+webUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
 type: article
-quality: 38
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -139,6 +139,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Aw6DLyXxsfqyR1Vm56u5eHOXtvl/Wc1a4+xzBEMIRyyltvekangEPgu3s+Vw59DEllUJd/8cILhNLfYHfVQjBF5aJYTh5pn+VhmR4Bia5cxdwLk2m1ofun4ZlEf2cHJArDM3JUnVfZxYBdVTqDxP9xKQxxy/5rwJIkqVbKRiSwLkjBQIEwVViAvayGIGP8dFNP2tIiGlzT5qXYmPXpBn5Fw5YOxzPUKP7XSVFWDx4kZQHaBpNkLCrv8NarXTtF4eeG7n5IkNP4MsA/jsvLUmK0papl/eduA78qUrJgEW7Id1yrAd3Ok1wtuA+BY2k2CdOYVVwCjkqDLeAJvzpxl/+5fy9j4ICGiAav37zCU/6Lk=;xxIdadDdwbzIz1lEXvz7MA=="
+secured: "oG4AZ/Hb4cgnP/8KNj//KkVmK8UIUCwq3d4KSryyJh19uiAMlehN6SyrWZyZnVOBRaxcaXYWe5dnsvUc92FfrhlwlMi3g6T6tE+O0zo9dSDANUTlYqeUr8lEBjF5FAWvwAUCQOKFxD0NIYkj6QPk5QoMKnxRwYL604yGJzPRwHR8DDymmFqzvt1Qko8UCHlKJKsTIEidrS3os2m6FfnAwfculs51OUeY6Q0F6E8D+LybkFytLH87KB0YG2eIOZLLzhetovHJTDvwcRLwZGU6VnTlmM/YFaQFDKHDlFjQw4855zyVq68AzukC5cLiZ4XCQP5t5OB3er7aK1Id2cnXS8kIsX4nX50Ppvkwf4eP/2I=;EutuWKgHp1JXqSv6SxJ8gQ=="
 ---
 

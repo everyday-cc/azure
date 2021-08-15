@@ -102,15 +102,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
-    excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."
-    publishedDateTime: 2021-08-04T08:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ironnet-announces-expanded-support-for-cyber-threat-detection-and-management-in"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 38
   - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
     excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
     publishedDateTime: 2021-08-12T14:24:00Z
@@ -139,6 +130,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
+    excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preven"
+    publishedDateTime: 2021-08-04T16:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "JloO/LW6CwVNc8klWqnj2HMz5T5B4x6GucWiENzz/i0wF12oIdRf8FbRE89gn6GBb4543c66hhiTLrCe0gDu1dkBKAuymFV0vUNhtKoeD+RRGvNsO02v0hQ9CVXtGToaeOLtqh+EYJ5NRXN2yJ2wgdfAGrmTe0ZwJOc5Iby1s0e2Yjm9kQOo0Ckir6Ns0Wq2N90oLSgwHhXeFoZ+jBt3Zso/arTILtSsgzCg2RFMPSnMoBy6qgGqiX0BqltJVycSKPAmfmaKtUEn1p1e/oyWdky88kni/xi980a7ZqkUqCGOc4n3INgdcMWhSOJT0WbU6ejNHPnFGMa/J24UqvY6qUVbRVrE4pBD2x9eZiT6oI0=;GcdoBx3rn4Q3oGOn5iGC8A=="
 ---
