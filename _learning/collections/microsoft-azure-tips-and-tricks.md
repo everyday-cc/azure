@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 98
+heat: 97
 
 provider:
   name: Microsoft
@@ -13,6 +13,56 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-use-azure-service-bus-topics-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-service-bus-queues-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-flexible-server-in-azure-database-for-mysql-azure-tips-and-tricks
+  - videos/microsoft-how-to-build-blazor-and-c-apis-in-azure-static-web-apps-azure-tips-and-tricks
+  - videos/microsoft-how-to-build-serverless-apis-with-azure-functions-azure-tips-and-tricks
+  - videos/microsoft-how-to-perform-opinion-mining-with-azure-cognitive-services-azure-tips-and-tricks
+  - videos/microsoft-how-to-deploy-azure-cognitive-services-in-containers-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-neural-text-to-speech-in-azure-azure-tips-and-tricks
+  - videos/microsoft-how-to-be-productive-with-github-codespaces-azure-tips-and-tricks
+  - videos/microsoft-how-to-create-custom-handlers-for-azure-functions-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-natural-language-understanding-in-azure-azure-tips-and-tricks
+  - videos/microsoft-how-to-migrate-your-mysql-database-to-the-cloud-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-health-bot-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-digital-twins-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-metrics-advisor-azure-tips-and-tricks
+  - videos/microsoft-how-to-develop-apps-with-microsoft-azure-database-for-postgresql-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-azure-container-registry-for-deploying-net-core-apps-azure-tips-and-tricks
+  - videos/microsoft-how-to-run-logic-apps-in-a-docker-container-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-blob-versioning-in-azure-storage-azure-tips-and-tricks
+  - videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud-azure-tips-and-tricks
+  - videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks
+  - videos/microsoft-how-to-create-faster-and-smarter-apps-with-net-5-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks
+  - videos/microsoft-how-to-automatically-manage-azure-blobs-lifecycles-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-the-vs-code-logic-apps-extension-to-create-stateless-workflows-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-github-actions-from-azure-app-service-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks
+  - videos/microsoft-how-to-get-started-with-azure-communication-services-part-1-of-2-azure-tips-and-tricks
+  - videos/microsoft-how-to-run-c-notebooks-with-azure-cosmos-db-azure-tips-and-tricks
+  - videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks
+  - videos/microsoft-how-to-work-with-azure-cosmos-db-with-powershell-azure-tips-and-tricks
+  - videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks
+  - videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks
+  - videos/microsoft-5-things-you-didnt-know-about-azure-cognitive-services-azure-tips-and-tricks
+  - videos/microsoft-5-things-you-didnt-know-about-azure-sql-database-azure-tips-and-tricks
+  - videos/microsoft-5-things-you-didnt-know-about-azure-app-service-azure-tips-and-tricks
+  - videos/microsoft-how-to-secure-a-blazor-application-with-azure-active-directory-azure-tips-and-tricks
+  - videos/microsoft-how-to-add-azure-feature-flags-to-angular-projects-azure-tips-and-tricks
+  - videos/microsoft-how-to-configure-advanced-threat-protection-in-azure-sql-database-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-a-graphql-on-azure-azure-tips-and-tricks
+  - videos/microsoft-blazor-and-azure-functions-for-serverless-websites-azure-tips-and-tricks
+  - videos/microsoft-a-lap-around-the-new-azure-vm-extension-azure-tips-and-tricks
+  - videos/microsoft-creating-a-private-chat-room-with-jitsi-on-microsoft-azure-vm-azure-tips-and-tricks
+  - videos/microsoft-a-lap-around-azure-kung-fu-toolkit-azure-tips-and-tricks
+  - videos/microsoft-getting-started-with-azure-static-web-apps-azure-tips-and-tricks
+  - videos/microsoft-how-developers-and-teams-can-learn-to-work-remotely-azure-tips-and-tricks
+  - videos/microsoft-learn-how-to-get-started-with-azure-static-web-apps-azure-tips-and-tricks
+  - videos/microsoft-learn-how-to-get-started-with-windows-powertoys-azure-tips-and-tricks
+  - videos/microsoft-get-started-with-windows-package-manager-winget-azure-tips-and-tricks
+  - videos/microsoft-a-lap-around-windows-terminal-10-azure-tips-and-tricks
   - videos/microsoft-how-to-use-azure-service-bus-topics-azure-tips-and-tricks
   - videos/microsoft-how-to-use-azure-service-bus-queues-azure-tips-and-tricks
   - videos/microsoft-how-to-use-flexible-server-in-azure-database-for-mysql-azure-tips-and-tricks
