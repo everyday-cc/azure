@@ -1,36 +1,51 @@
 ---
 category: news
-title: "Pure Storage extends public cloud block storage to Microsoft Azure"
-excerpt: "Storage technology pioneer Pure Storage this morning said its software for managing public cloud block storage is available on Microsoft's Azure cloud computing service, adding to Pure's existing offering for Amazon AWS. Pure has defined itself as a ..."
-publishedDateTime: 2021-03-17T01:39:00Z
-originalUrl: "https://www.zdnet.com/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
-webUrl: "https://www.zdnet.com/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
+title: "How to use chaos engineering in Microsoft Azure"
+excerpt: "Complex systems need to be resilient, and we need to use tools like chaos engineering to ensure that resilience. Learn about Azure Chaos Studio."
+publishedDateTime: 2021-08-16T09:00:00Z
+originalUrl: "https://www.techrepublic.com/article/how-to-use-chaos-engineering-in-microsoft-azure/"
+webUrl: "https://www.techrepublic.com/article/how-to-use-chaos-engineering-in-microsoft-azure/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-use-chaos-engineering-in-microsoft-azure/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-use-chaos-engineering-in-microsoft-azure/"
 type: article
-quality: 114
-heat: 3594
-published: true
+quality: 97
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
+  name: TechRepublic
+  domain: techrepublic.com
   images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/techrepublic.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - Storage
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/r/2020/10/27/6f243821-b6da-4a8c-967e-de7654891543/thumbnail/1200x675/6c5bd02248d7e74a487a2dfbd682b463/20201027-pure-larry.jpg"
+  - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/12/eb2e4ada-71dc-4dcf-8630-6e7faa8868c3/resize/1200x/10e7166cee61b6f851ebc77ab9623583/developer-workload-devops-team-tech-worker-it-staff.jpg"
     width: 1200
-    height: 675
+    height: 800
     isCached: true
 
 related:
+  - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
+    excerpt: "Storage technology pioneer Pure Storage this morning said its software for managing public cloud block storage is available on Microsoft's Azure cloud computing service, adding to Pure's existing offering for Amazon AWS. Pure has defined itself as a ..."
+    publishedDateTime: 2021-03-17T01:39:00Z
+    webUrl: "https://www.zdnet.com/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 114
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2020/10/27/6f243821-b6da-4a8c-967e-de7654891543/thumbnail/1200x675/6c5bd02248d7e74a487a2dfbd682b463/20201027-pure-larry.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft set to close Azure Blockchain Service"
     excerpt: "Microsoft has announced that it will shutter its Azure Blockchain service later this year, allowing users to migrate their ledger data by September 10, 2021. Blockchain is the technology ..."
     publishedDateTime: 2021-05-14T19:10:00Z
@@ -252,22 +267,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/yLhMvxwzBIBkOpGKZ_cC_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMx/https://s.yimg.com/os/creatr-uploaded-images/2021-03/e66885b0-85d5-11eb-8fdf-7439cfd9b5f9"
         width: 2000
         height: 1330
-        isCached: true
-  - title: "How to use chaos engineering in Microsoft Azure"
-    excerpt: "Complex systems need to be resilient, and we need to use tools like chaos engineering to ensure that resilience. Learn about Azure Chaos Studio."
-    publishedDateTime: 2021-08-16T09:00:00Z
-    webUrl: "https://www.techrepublic.com/article/how-to-use-chaos-engineering-in-microsoft-azure/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-use-chaos-engineering-in-microsoft-azure/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-use-chaos-engineering-in-microsoft-azure/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 97
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/12/eb2e4ada-71dc-4dcf-8630-6e7faa8868c3/resize/1200x/10e7166cee61b6f851ebc77ab9623583/developer-workload-devops-team-tech-worker-it-staff.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy"
     excerpt: "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning."
@@ -2377,6 +2376,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "tmZnoIWrwLETLv/uvRQ5G+bD4LQ7UQI1ttcM/Sv5x6WmBQKTxH5EJhG7C9K3wCmg/FQfo5q7zqoMP68faVNFa5ENyT/ResdfiIF7B5iVPy4ElRcxvGcnNuzhIz6eCMXWjdsy6RfsDRUifkIrlvngtzvGDDDRaR3C6lQA7GZv5Ic0lKYjaVbL6rmFw1G+7KUf2es4Y8UqUzG6YTyUNqM/lyOqBIsSQVqxuYA9MoOJv5vDbBzekucZ+EWQguJyg6XnAfs1ZuMVrs6O9aAt83gm7Exo8mkZMfcA1oswmlh/XbPhEsHPl2ydCWf4486WxfGUNa47iDrtlO0exLBr/jF/c1aCKS4K44IVDPUqOzM/LWcItNNcUgWsSNgjEj91F0vySSkPZviIb9hgtZ3u+byKG9T4sSvatKBdOevmUEoHv2hna5aKIZ4yl4KzYaMraPUpuuIx1ub2N9eYbnANZGbIAVGeaDNOXBx7us23OjyU0CdiSOjA1TwDRa1v+eHXMip0i4GL3caSNsCfuZ1cMHfIZg==;QFSoQ3igiQrwpDIhHUIKUA=="
+secured: "gDMIeqxaUqESpyGTStveOrH7O/mqBxDf7pOivS/ssvN8lRJU9w1W68pR6aRHRY16rNSYRWdijPQQRrSrretRHJpHKHz6QthH7oRdlapEO7VL8/Xmlyx/7KHMRlyH2FGt8tNpNzEPzCcYy+2/3xM7LyOLuh0rkJO6dFLxJhGh5rJvwF4pACApjvL/Z1B0i3F5+eojxH4cQ5O068qkv6OK9zJtyv3oo0dLteZRxjf/w4L+1NSWpe4yI7+4rxO1LhZMOZl0JxOPTUP27a77AVrU/4BbZdBbqrOb9yFVH3M7gLqfqiZxeMN9bBetKfePBYAHRm/EzD1O6kqmhHSn5cVtqAj0U1Bs39U5RGZERViVQBk=;Ox+3WbfWrsDh+tQe+gognA=="
 ---
 

@@ -253,6 +253,22 @@ related:
         width: 2000
         height: 1330
         isCached: true
+  - title: "How to use chaos engineering in Microsoft Azure"
+    excerpt: "Complex systems need to be resilient, and we need to use tools like chaos engineering to ensure that resilience. Learn about Azure Chaos Studio."
+    publishedDateTime: 2021-08-16T09:00:00Z
+    webUrl: "https://www.techrepublic.com/article/how-to-use-chaos-engineering-in-microsoft-azure/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-use-chaos-engineering-in-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-use-chaos-engineering-in-microsoft-azure/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/12/eb2e4ada-71dc-4dcf-8630-6e7faa8868c3/resize/1200x/10e7166cee61b6f851ebc77ab9623583/developer-workload-devops-team-tech-worker-it-staff.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy"
     excerpt: "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning."
     publishedDateTime: 2021-03-15T06:56:00Z
