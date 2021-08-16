@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/how-to-resize-azure-virtual-netwo
 webUrl: "https://azure.microsoft.com/blog/how-to-resize-azure-virtual-networks-that-are-peered-now-in-preview/"
 type: article
 quality: 87
-heat: 91
+heat: 111
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1670
     height: 587
     isCached: true
+
+related:
+  - title: "Placement polices now in public preview for Azure VMware Solution "
+    excerpt: "Placement policies enable admins to specify constraints or rules when allocating Virtual Machines within an Azure VMware Solution private cloud. With this update the creation and assignment of vSphere Distributed Resource Scheduler (DRS) rules for running Virtual Machines in an Azure VMware Solution"
+    publishedDateTime: 2021-08-16T18:32:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/placement-polices-now-in-public-preview-for-azure-vmware-solution/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "sv4qmuQsCQ7VjDyumIAIzy41VLqe9xJvoN5xpvogZC5uN5XltiJ6zbjYi+3KSy0nJX+BHzi77nerdzFAeABMj9ZI4rFDImIGHfmzZm2ArkbX2Uqc4XJnuCUDnrC5tYmTJiU69FISAx6KLE6daaWePi0erWRYe0M9uvcaye7B7tuOIpmNUTFNH7B8obMK54MPmKXjfS4OQ3LLoCMsnpcCG2CN8ZggDdlPv9TaDq+SX5cFyje9ZgPOb5NBkA7PuEzpi2K7cAE5XOJ82Wi0UxpqnijAEUyqRfQYWUReu48AWGRZZFUbkMJ5l8cefptij0HVT4IHomkQLBVZ+DQR8hiism6How9Hh4UeCcUVON0TJms=;sce4wEODla92R/2hPYEKKQ=="
 ---
