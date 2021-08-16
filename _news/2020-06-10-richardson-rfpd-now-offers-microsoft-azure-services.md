@@ -137,6 +137,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace. Aug 16, 2021 8:30 AM ET. Legal Newswire POWERED BY LAW.COM . Innovating the way"
+    publishedDateTime: 2021-08-16T12:30:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Claro Enterprise Solutions Designated as a Microsoft Azure ExpressRoute Partner for Miami Peering Location"
     excerpt: "Claro Enterprise Solutions, a leading technology services company, today announced that it has been named a Microsoft Azure"
     publishedDateTime: 2020-06-16T13:00:00Z

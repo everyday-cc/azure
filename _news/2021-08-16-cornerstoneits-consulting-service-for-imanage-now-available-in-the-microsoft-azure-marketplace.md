@@ -1,28 +1,40 @@
 ---
 category: news
-title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
-excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
-publishedDateTime: 2020-06-10T23:35:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
+excerpt: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace. Aug 16, 2021 8:30 AM ET. Legal Newswire POWERED BY LAW.COM . Innovating the way"
+publishedDateTime: 2021-08-16T12:30:00Z
+originalUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
+webUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
 type: article
-quality: 73
-heat: 393
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Law
+  domain: law.com
 
 topics:
   - Azure
 
+images:
+  - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
+    width: 256
+    height: 256
+    isCached: true
+
 related:
+  - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
+    publishedDateTime: 2020-06-10T23:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
   - title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
     excerpt: "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2020-06-25T13:00:00Z
@@ -132,20 +144,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace. Aug 16, 2021 8:30 AM ET. Legal Newswire POWERED BY LAW.COM . Innovating the way"
-    publishedDateTime: 2021-08-16T12:30:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Claro Enterprise Solutions Designated as a Microsoft Azure ExpressRoute Partner for Miami Peering Location"
     excerpt: "Claro Enterprise Solutions, a leading technology services company, today announced that it has been named a Microsoft Azure"
     publishedDateTime: 2020-06-16T13:00:00Z
@@ -232,6 +230,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "/hISVyc3CYTNjS0FPVDpgMbn8UdeKxD0flBrwKbVNN5sQ/TAk7Gb7s5gusabeYBFdUXZdxUNAw5+VlMl65oLBD1LLSEixEe1JHN1kEep0pdll+p/c5LC7OKEN4lsOzqlrdRfIJSBTvcskBmzMSh7Z8Tq45UT0J15TEnxV0XvsoieA3NolYycR1WBbmNBImkcx5bgoWLDLYBMUVOOu8kT/P/KYa1HOR1EpsKmPe8MpJiS38JfOVgrYbqzhHDQIg0Qf+WVU+/Gpz4IN32YDsMbIyrm04LsGDH6QSBZtLp8iiwkLcB6vhwhnVm1GTYTsEQI;Hksodcc4AXtkQX1pqflbRw=="
+secured: "mLUhKJ5o/8tehmO4EBzCfdEhapDbH6Qxchu5CF37IoXFhsdZSNNhh9ZpnOY9q6xUn0n9KrDE+JswSvbYu7f8gwx0sKVHDd5gjjfLANV9mm//E+Tu1qBjk2+3ekCT8/moCU8llb937QBbzWauKel2RyKl4Cr3Md5+FA2vHULkDRz+TTztKVti9dvGv0eV/vt4JCrq6g4WaxwyuGXZcdrxckUERkQrc/MQHIqC52MDw+/D5pDufCVhvbsZbayjrD9bNoU9O+bcxNivcCNUFla5GcyM7OYbgH6XfeCDc5pzmaYIpS7nQG7bog0KcI2ohoB+W6/2WLzK3R0ocxcJM86+UszntzSmMPuAreAIc1LeQE0=;nWyAh71pYcNUAAxfCLPE6Q=="
 ---
 
