@@ -8,7 +8,7 @@ length: PT48M
 ratings:
   count: 3658
   average: 4.6869874
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Developer tools
 
-secured: "kCj7pMZ7WUrrov/i8qEbeB6Hs9Z6QdwEyC0Vv2wXU77ZQZ/RGG1kKP/IihZ6OTZyIM+/tGyV0w2g4D1DWDDULVKquRPThcmAwhv5EGGJg5aDxgjJhq1tCBva+7xjaxLrybAuj3+Xw75Rgmnt8WkzPfHLsJnoaCXpmAaYylNzIeWALzFVNwV0wrE0sy9UY4wImu3Vt2tM8OxQnqSVChCzJtZA16pl8zPKRsvWHFaZI2Az5KuegMMzGVi+l1xyisZ/K6GvlH3JcxDP5rhskh31Gh0B4zKeJBGZd6Ay//l6kDoqmDaliarvSl9JzRXsAv4BYfK+1S4mJ28aAjOfssb0JZwPL8gB4iX1ife1fnyLXWtlUDOsouno/WGHa1eQHRvnTIkAEiS7LeI+U9oTb7NDBBDBUFvLYB0CVUCzSVAK0RI=;eqyvIg1EKQYiHXwYV9qevg=="
+secured: "jGkNFi579R3avNOg0kGXtayejpGM3tTcgiqs0ETzcBYQrnMPKJRcK2xmvBiWH5+SYa4o+GGzCejK4ckxAZgJk4b2PmQIVLcqpx6Iq/1RWnw+KVhSBd+6O9w0blUyQtfUv6HBgM7H98F0Vuluk1usXn2Up2dU3Nu7uye17/SaqWTaXKvhX00mD5THvfPAyYCSBGfyaVJsTLKxaDQrXJhc0tny5hbquH69vCfwFMDHhNYBt9dJBUNGepyofCSqJbvyiGmFMU6obrDlPWaFHlqsJslEA2kjnTpekDjz9dUwhdttXaGQbJewBIKvtoRnEUpko8YHrZQA5PwgB2RhQEYy5iQgN+QU4igG2nIiyhEkom2QndZy35Khu/wyFi89Wht/dq802i37XunhIV82b0BeND17xJDySsa7N5LU4VDkhV0=;Gz5xO//mARZXgxfTfra71g=="
 ---
 
