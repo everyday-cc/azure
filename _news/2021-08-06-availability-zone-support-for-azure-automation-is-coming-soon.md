@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/availability-zones-azure
 webUrl: "https://azure.microsoft.com/en-us/updates/availability-zones-azure-automation-coming-soon/"
 type: article
 quality: 67
-heat: 150
+heat: 147
 published: true
 
 provider:
