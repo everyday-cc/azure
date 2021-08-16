@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 89556,
-        "average": 4.795692
+        "count": 89597,
+        "average": 4.7956853
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 89556,
-            "average": 4.795692
+            "count": 89597,
+            "average": 4.7956853
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 33155,
-            "average": 4.7885084
+            "count": 33175,
+            "average": 4.7884855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -161,8 +161,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 19964,
-            "average": 4.7325187
+            "count": 19976,
+            "average": 4.732529
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -207,8 +207,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 21994,
-            "average": 4.7697554
+            "count": 22004,
+            "average": 4.7695875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,6 +265,173 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-6-describe-azure-cost-management-and-service-level-agreements.md",
+      "title": "Azure Fundamentals part 6: Describe Azure cost management and service level agreements",
+      "excerpt": "Learn about the factors that influence cost, tools you can use to help estimate and manage your cloud spend, and how Azure's service-level agreements (SLAs) can impact your application design decisions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-azure-fundamentals-part-6-describe-azure-cost-management-and-service-level-agreements/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-azure-fundamentals-part-6-describe-azure-cost-management-and-service-level-agreements/",
+      "length": "PT1H46M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-plan-manage-azure-costs.md",
+          "title": "Plan and manage your Azure costs",
+          "excerpt": "Migration to the cloud presents new ways to think about your IT expenses. This module teaches you about the factors that influence cost and tools you can use to help estimate and manage your cloud spend.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-manage-azure-costs/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 9622,
+            "average": 4.808148
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 75,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/review-planning-managing-costs-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-choose-azure-services-sla-lifecycle.md",
+          "title": "Choose the right Azure services by examining SLAs and service lifecycle",
+          "excerpt": "Learn about service-level agreements (SLAs) in Azure, and how they can affect your application design decisions. See how to access preview services and learn how they affect your planning.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-choose-azure-services-sla-lifecycle/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 10543,
+            "average": 4.8004365
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 154,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-azure-service-level-agreements-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 154,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/review-planning-managing-costs-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-azure-services-sla-lifecycle.md",
+      "title": "Choose the right Azure services by examining SLAs and service lifecycle",
+      "excerpt": "Learn about service-level agreements (SLAs) in Azure, and how they can affect your application design decisions. See how to access preview services and learn how they affect your planning.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-choose-azure-services-sla-lifecycle/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 10543,
+        "average": 4.8004365
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 154,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-azure-service-level-agreements-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-get-started-with-artificial-intelligence-on-azure.md",
       "title": "Get started with artificial intelligence on Azure",
       "excerpt": "Artificial Intelligence (AI) empowers amazing new solutions and experiences; and Microsoft Azure provides easy to use services to help you get started.",
@@ -295,8 +462,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 21881,
-            "average": 4.7513366
+            "count": 21886,
+            "average": 4.7513022
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -357,8 +524,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 21881,
-        "average": 4.7513366
+        "count": 21886,
+        "average": 4.7513022
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -458,8 +625,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 89556,
-            "average": 4.795692
+            "count": 89597,
+            "average": 4.7956853
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -500,8 +667,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 54387,
-            "average": 4.819828
+            "count": 54418,
+            "average": 4.8198576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -544,8 +711,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 33155,
-            "average": 4.7885084
+            "count": 33175,
+            "average": 4.7884855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -608,8 +775,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 54387,
-        "average": 4.819828
+        "count": 54418,
+        "average": 4.8198576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -690,8 +857,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 33155,
-        "average": 4.7885084
+        "count": 33175,
+        "average": 4.7884855
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -726,18 +893,16 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-sql-case-studies.md",
-      "title": "Putting it all together with Azure SQL",
-      "excerpt": "Putting it all together with Azure SQL",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-sql-case-studies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-case-studies/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 399,
-        "average": 4.7619047
-      },
+      "path": "_learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday.md",
+      "title": "Issue and accept verifiable credentials using Azure Active Directory | Azure Friday",
+      "excerpt": "Sydney Morton joins Scott Hanselman to show how verifiable credentials enable you to own and prove who you are in the digital world. See how to enable decentralized identity through seamless user and developer experiences.  ⏩ 0:00 – Intro ⏩ 0:37 – Overview ⏩ 3:01 – Demo – end user experience ⏩ 6:14 –",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=xtEXx67J41o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xtEXx67J41o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M4S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -748,36 +913,34 @@
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
+      "publishedDateTime": "2021-07-16T03:08:56-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-case-studies-social.png",
-          "width": 643,
-          "height": 324,
+          "url": "https://i.ytimg.com/vi/xtEXx67J41o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "Identity"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-cmu-cloud-elasticity.md",
-      "title": "Scale your cloud resources with elasticity",
-      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Discover what cloud elasticity means and different ways to scale your cloud resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cmu-cloud-elasticity/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-elasticity/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight.md",
+      "title": "Manage enterprise security in HDInsight",
+      "excerpt": "Manage enterprise security in HDInsight",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-enterprise-security-hdinsight/",
+      "length": "PT37M",
       "ratings": {
-        "count": 94,
-        "average": 4.882979
+        "count": 84,
+        "average": 4.642857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -792,12 +955,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-cloud-elasticity-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/manage-enterprise-security-in-hdinsight-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -807,22 +970,19 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Analytics",
+        "Security"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
-      "title": "Plan, implement, and administer conditional access",
-      "excerpt": "Plan, implement, and administer conditional access",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 91,
-        "average": 4.8681316
-      },
+      "path": "_learning/collections/microsoft-azure-friday.md",
+      "title": "Azure Friday",
+      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-azure-friday/",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -833,24 +993,176 @@
           }
         ]
       },
-      "levels": [
-        "Advanced"
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-enable-zero-trust-with-azure-ad-pim-and-azure-lighthouse-azure-friday.md",
+          "title": "Enable Zero Trust with Azure AD PIM and Azure Lighthouse | Azure Friday",
+          "excerpt": "Azure AD Privileged Identity Management integration in Azure Lighthouse is now in public preview.  Meagan Olsen and Saif Kayani show Scott Hanselman how partners can now use just-in-time access permissions, combined with MFA, to securely deliver secure managed services.  0:00 – Introduction 0:43 – Overview",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-enable-zero-trust-with-azure-ad-pim-and-azure-lighthouse-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-enable-zero-trust-with-azure-ad-pim-and-azure-lighthouse-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=gC4wmZf7dAI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gC4wmZf7dAI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT18M54S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-08-06T07:22:20-07:00",
+          "heat": 103,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/gC4wmZf7dAI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday.md",
+          "title": "Getting started with Azure Static Web Apps | Azure Friday",
+          "excerpt": "Anthony Chu joins Scott Hanselman to show how to build, debug, and deploy a full-stack serverless application in minutes with Azure Static Web Apps.  0:00 – Introduction 0:55 – Overview 3:03 – Demo - basic stuff 12:48 – Demo - a little more advanced 18:41 – Wrap-up  🔗 What is Azure Static Web Apps?",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=AMhhuBixb4o",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AMhhuBixb4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT20M25S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-30T05:51:16-07:00",
+          "heat": 61,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/AMhhuBixb4o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-quantum-programming-with-q-and-running-on-hardware-with-azure-quantum-azure-friday.md",
+          "title": "Quantum programming with Q# and running on hardware with Azure Quantum | Azure Friday",
+          "excerpt": "Mariia Mykhailova joins Scott Hanselman to discuss quantum computing and quantum programming with Microsoft Quantum Development Kit (QDK), from writing Q# code to running it on hardware via Azure Quantum.  ⏩ 0:00 – Intro ⏩ 0:51 – Overview ⏩ 5:43 – From algorithm to coding and unit tests ⏩ 20:58 – Jupyter",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-quantum-programming-with-q-and-running-on-hardware-with-azure-quantum-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-quantum-programming-with-q-and-running-on-hardware-with-azure-quantum-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=c9Df90CVHkc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9Df90CVHkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT35M19S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-23T15:35:12-07:00",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/c9Df90CVHkc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday.md",
+          "title": "Issue and accept verifiable credentials using Azure Active Directory | Azure Friday",
+          "excerpt": "Sydney Morton joins Scott Hanselman to show how verifiable credentials enable you to own and prove who you are in the digital world. See how to enable decentralized identity through seamless user and developer experiences.  ⏩ 0:00 – Intro ⏩ 0:37 – Overview ⏩ 3:01 – Demo – end user experience ⏩ 6:14 –",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=xtEXx67J41o",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xtEXx67J41o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M4S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-16T03:08:56-07:00",
+          "heat": 132,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/xtEXx67J41o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
       ],
-      "heat": 130,
+      "size": 269,
+      "heat": 123,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/gC4wmZf7dAI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free",
+      "type": "collection",
       "topics": [
-        "Azure",
-        "Identity"
+        "Azure"
       ]
     },
     {
@@ -919,8 +1231,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 142795,
-            "average": 4.703169
+            "count": 142796,
+            "average": 4.703171
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1036,8 +1348,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 21994,
-        "average": 4.7697554
+        "count": 22004,
+        "average": 4.7695875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1104,8 +1416,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 21994,
-            "average": 4.7697554
+            "count": 22004,
+            "average": 4.7695875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1149,8 +1461,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 16800,
-            "average": 4.636845
+            "count": 16807,
+            "average": 4.636818
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1192,8 +1504,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 14824,
-            "average": 4.7744875
+            "count": 14826,
+            "average": 4.774248
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1235,8 +1547,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 19964,
-            "average": 4.7325187
+            "count": 19976,
+            "average": 4.732529
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1772,8 +2084,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 12619,
-            "average": 4.792931
+            "count": 12623,
+            "average": 4.7929177
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1815,8 +2127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 13545,
-            "average": 4.7856035
+            "count": 13551,
+            "average": 4.785551
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1858,8 +2170,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 9517,
-            "average": 4.7866974
+            "count": 9524,
+            "average": 4.7867494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1905,8 +2217,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 10246,
-            "average": 4.7317
+            "count": 10249,
+            "average": 4.7316813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2207,8 +2519,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 5407,
-            "average": 4.722397
+            "count": 5408,
+            "average": 4.7222633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2270,8 +2582,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 5407,
-        "average": 4.722397
+        "count": 5408,
+        "average": 4.7222633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2336,8 +2648,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 14183,
-            "average": 4.7650003
+            "count": 14186,
+            "average": 4.76505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2379,8 +2691,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 10266,
-            "average": 4.7842393
+            "count": 10267,
+            "average": 4.7842603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2421,8 +2733,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 9621,
-            "average": 4.808128
+            "count": 9622,
+            "average": 4.808148
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2549,8 +2861,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 14183,
-            "average": 4.7650003
+            "count": 14186,
+            "average": 4.76505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2592,8 +2904,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 10266,
-            "average": 4.7842393
+            "count": 10267,
+            "average": 4.7842603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2697,8 +3009,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 14183,
-        "average": 4.7650003
+        "count": 14186,
+        "average": 4.76505
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2775,8 +3087,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 2638,
-        "average": 4.7282033
+        "count": 2639,
+        "average": 4.727927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2808,92 +3120,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-storage-fundamentals.md",
-      "title": "Explore Azure Storage services",
-      "excerpt": "Learn about the different storage options that are available in Azure Storage.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-storage-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 14824,
-        "average": 4.7744875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 89,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-storage-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-networking-fundamentals.md",
-      "title": "Explore Azure networking services",
-      "excerpt": "Learn about the core networking resources that are available in Azure, such as Virtual Networks, VPN Gateway, and ExpressRoute.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-networking-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 16800,
-        "average": 4.636845
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 88,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-networking-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],
