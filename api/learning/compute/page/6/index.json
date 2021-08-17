@@ -4,6 +4,174 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-develop-azure-functions-app-with-maven-plugin.md",
+      "title": "Develop an App using the Maven Plugin for Azure Functions",
+      "excerpt": "Use the Maven Plugin for Azure Functions to create a cloud-based function that is triggered when certain values are passed in the HTTP request, and outputs a log entry to track the activity.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-develop-azure-functions-app-with-maven-plugin/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-azure-functions-app-with-maven-plugin/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 42,
+        "average": 4.642857
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
+      "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
+      "excerpt": "Find out how to develop an Azure Function in Visual Studio with a test framework to create, deploy, and test this scalable and secure service.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 2673,
+        "average": 4.700711
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-azure-dsvm-types.md",
+      "title": "Explore the types of Azure Data Science Virtual Machines",
+      "excerpt": "You learn about the types of Azure Data Science Virtual Machines (DSVM) and when to use each type.  You will learn about the Windows-based and Linux-based DSVMs which each support different needs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-azure-dsvm-types/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-dsvm-types/",
+      "length": "25 mins",
+      "ratings": {
+        "count": 891,
+        "average": 4.654321
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/explore-azure-dsvm-types-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Explore the types of Azure Data Science Virtual Machines",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-generic-views.md",
+      "title": "Use generic views in Django",
+      "excerpt": "Learn how to use generic views in Django.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-generic-views/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django-generic-views/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 27,
+        "average": 4.888889
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-get-started.md",
       "title": "Get started with Django",
       "excerpt": "Django is one of the most popular Python web frameworks. Explore its benefits, learn how to install it, and create your first project.",
@@ -100,8 +268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/",
       "length": "PT50M",
       "ratings": {
-        "count": 46,
-        "average": 4.804348
+        "count": 47,
+        "average": 4.808511
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -367,8 +535,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/",
       "length": "PT53M",
       "ratings": {
-        "count": 37,
-        "average": 4.783784
+        "count": 38,
+        "average": 4.763158
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1140,184 +1308,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-java-azure.md",
-      "title": "Monitoring Java applications on Azure",
-      "excerpt": "Learn how to use monitoring for your Java applications on Azure",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-java-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-java-azure/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 9,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances.md",
-      "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
-      "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 64,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-windows-server-iaas-vms-and-hybrid-instances-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms.md",
-      "title": "Plan and deploy Windows Server IaaS Virtual Machines",
-      "excerpt": "You'll be able to describe Azure compute and storage in relation to Azure VMs, and deploy Azure VMs by using the Azure portal, Azure CLI, or templates.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 32,
-        "average": 4.8125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps.md",
-      "title": "Publish a web app to Azure by using the Maven Plugin for Azure App Service",
-      "excerpt": "Use the Maven plugin for Azure App Service to develop a Java web app and deploy the app to Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-web-app-with-maven-plugin-for-azure-app-service/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 36,
-        "average": 4.6944447
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-app-with-maven-plugin-for-azure-web-apps-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],

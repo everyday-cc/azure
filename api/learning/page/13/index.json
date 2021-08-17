@@ -4,6 +4,350 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-iot-strategy-and-solutions.md",
+      "title": "Microsoft Azure IoT strategy and solutions",
+      "excerpt": "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-iot-strategy-and-solutions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 6620,
+        "average": 4.737613
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-branch-merge-git.md",
+      "title": "Edit code through branching and merging in Git",
+      "excerpt": "Level up your Git knowledge by learning about how to keep code separate using branches and how to merge them later",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-branch-merge-git/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/branch-merge-git/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 1391,
+        "average": 4.734723
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/branch-merge-git-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-app-with-scale-sets.md",
+      "title": "Build a scalable application with virtual machine scale sets",
+      "excerpt": "Enable your application to automatically adjust to changes in load while minimizing costs with virtual machine scale sets.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-app-with-scale-sets/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 6851,
+        "average": 4.7314262
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-scalable-application-with-azure-virtual-machine-scale-sets-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
+      "title": "Build Azure Resource Manager templates",
+      "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-azure-vm-templates/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 9690,
+        "average": 4.673684
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-azure-resource-manager-template-vs-code-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
+      "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+      "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 3054,
+        "average": 4.718402
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-an-agile-approach.md",
+      "title": "Choose an Agile approach to software development",
+      "excerpt": "Learn with the Space Game web team how to use Azure Boards to implement Agile software practices along with DevOps transparency and collaboration.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-choose-an-agile-approach/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 6436,
+        "average": 4.752952
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload.md",
+      "title": "Choose the right disk storage for your virtual machine workload",
+      "excerpt": "Azure provides a variety of disk storage options for virtual machine workloads. Identify the features of capabilities of each type to ensure your application performs optimally.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 3992,
+        "average": 4.7497497
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-azure-kubernetes-service.md",
+      "title": "Configure Azure Kubernetes Service",
+      "excerpt": "You will learn how to configure Azure Kubernetes including networking, storage, and scaling.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-kubernetes-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-kubernetes-service/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 19,
+        "average": 4.894737
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-resources-arm-templates.md",
       "title": "Configure resources with Azure Resource Manager templates",
       "excerpt": "Configure resources with Azure Resource Manager templates",
@@ -11,8 +355,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-resources-arm-templates/",
       "length": "PT21M",
       "ratings": {
-        "count": 87,
-        "average": 4.862069
+        "count": 88,
+        "average": 4.8636365
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -89,8 +433,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machine-extensions/",
       "length": "PT18M",
       "ratings": {
-        "count": 22,
-        "average": 4.7272725
+        "count": 23,
+        "average": 4.7391305
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -176,8 +520,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
       "length": "PT29M",
       "ratings": {
-        "count": 507,
-        "average": 4.820513
+        "count": 508,
+        "average": 4.820866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -427,8 +771,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 2170,
-        "average": 4.769585
+        "count": 2171,
+        "average": 4.7696915
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -879,8 +1223,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 408,
-        "average": 4.7377453
+        "count": 409,
+        "average": 4.738386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -904,319 +1248,6 @@
       "topics": [
         "Azure",
         "Management Tools",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure.md",
-      "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
-      "excerpt": "Learn how to investigate and diagnose problems in your Azure virtual networks by using Network Watcher and other tools.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 4326,
-        "average": 4.626445
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-azure-network-infrastructure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-an-introduction-to-decentralized-identities-azure-friday.md",
-      "title": "An introduction to decentralized identities | Azure Friday",
-      "excerpt": "Danny Strockis joins Scott Hanselman to discuss decentralized identity, which gives users ownership of their digital identities and data by leveraging permissionless distributed ledgers.  04:07 - Authentication concept 10:30 - Demo  Decentralized identity – Own your own identity https://aka.ms/azfr/566/01",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-an-introduction-to-decentralized-identities-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-an-introduction-to-decentralized-identities-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=r28GeXkxn0w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r28GeXkxn0w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M1S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-15T14:33:29-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r28GeXkxn0w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-an-introduction-to-the-microsoft-identity-platform-azure-friday.md",
-      "title": "An introduction to the Microsoft identity platform | Azure Friday",
-      "excerpt": "Christos Matskas joins Scott Hanselman to show how the Microsoft identity platform enables you to add identity authentication and authorization to your solution in a few easy steps.  0:00 – Introduction 3:19 – Overview of the Microsoft identity platform 10:50 – Demo: ASP.NET Core Web App with AAD authentication",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-an-introduction-to-the-microsoft-identity-platform-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-an-introduction-to-the-microsoft-identity-platform-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=sn9HWh-rg9o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sn9HWh-rg9o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M19S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-24T19:55:59-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sn9HWh-rg9o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-create-a-guided-tour-of-your-codebase-using-codetour-extension-for-vs-code-azure-tips-and-tricks.md",
-      "title": "Create a guided tour of your codebase using CodeTour extension for VS Code | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, you’ll learn how to create a guided code tour for your codebase right inside of Visual Studio Code to ease the collaboration, contribution, and onboarding someone new to your code project.    For more tips and tricks, visit: https://aka.ms/azuretipsandtricks",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-create-a-guided-tour-of-your-codebase-using-codetour-extension-for-vs-code-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-create-a-guided-tour-of-your-codebase-using-codetour-extension-for-vs-code-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=8MWz1BcspNM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8MWz1BcspNM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M10S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-08T08:14:56-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8MWz1BcspNM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-create-a-function-app-azure-portal-series.md",
-      "title": "How to create a function app | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, learn how to create a function app using the Azure Portal.    Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal   And make sure to keep an eye on our Azure Portal \"How to\"",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-create-a-function-app-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-create-a-function-app-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=BEIZKCDElMs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BEIZKCDElMs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M59S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-12-18T09:00:07-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BEIZKCDElMs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-create-a-http-trigger-with-azure-logic-apps-azure-tips-and-tricks.md",
-      "title": "How to create a HTTP Trigger with Azure Logic Apps | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to create a HTTP Request Trigger that is inside an Azure Logic App. You will also learn how to apply a JSON Schema to validate the HTTP Requests.     For more tips and tricks, visit: http://azuredev.tips/    Get started with 12 months of free services",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-create-a-http-trigger-with-azure-logic-apps-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-create-a-http-trigger-with-azure-logic-apps-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=oIwDgJPmVCg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oIwDgJPmVCg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M4S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-13T10:57:14-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oIwDgJPmVCg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-create-app-services-in-the-azure-portal-azure-portal-series.md",
-      "title": "How to create App Services in the Azure portal | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to create web apps using the Azure App service in the Azure portal.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal     And make sure to keep an eye",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-create-app-services-in-the-azure-portal-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-create-app-services-in-the-azure-portal-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=dHTzv-zY17I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dHTzv-zY17I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M53S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-03T09:54:47-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dHTzv-zY17I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-deploy-your-web-app-using-github-actions-azure-portal-series.md",
-      "title": "How to deploy your web app using GitHub Actions | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, learn how to deploy Azure web apps using GitHub Actions.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal    And make sure to keep an eye on our Azure Portal \"How to\"",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-deploy-your-web-app-using-github-actions-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-deploy-your-web-app-using-github-actions-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=b2oyxbSbLPA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b2oyxbSbLPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M13S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-04-14T08:59:45-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/b2oyxbSbLPA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Management tools"
       ]
     }

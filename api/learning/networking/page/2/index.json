@@ -4,16 +4,18 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series.md",
-      "title": "How to create a load balancer | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to configure load balancers and how to add virtual machines to them in the Azure Portal.   Try out these features in the Azure portal: https://ms.portal.azure.com/#home   Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=-VMPzVoo5Nk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-VMPzVoo5Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M48S",
+      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
+      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
+      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
+      "length": "PT1H38M",
+      "ratings": {
+        "count": 1832,
+        "average": 4.745633
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -24,22 +26,25 @@
           }
         ]
       },
-      "publishedDateTime": "2019-04-24T12:51:39-07:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-VMPzVoo5Nk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools",
+        "DevOps",
+        "Management Tools",
         "Networking"
       ]
     },
@@ -179,14 +184,14 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-virtual-networks.md",
-      "title": "Configure virtual networks",
-      "excerpt": "You will learn to configure virtual networks and subnets, including IP addressing.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-virtual-networks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-networks/",
-      "length": "PT30M",
+      "path": "_learning/courses/microsoft-learn-configure-network-routing-endpoints.md",
+      "title": "Configure network routing and endpoints",
+      "excerpt": "You will learn how to configure routes including endpoints and private links.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-network-routing-endpoints/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-routing-endpoints/",
+      "length": "PT27M",
       "ratings": {
-        "count": 27,
+        "count": 18,
         "average": 4.888889
       },
       "provider": {
@@ -222,15 +227,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-vnet-peering.md",
-      "title": "Configure virtual network peering",
-      "excerpt": "You will learn to configure a VNet peering connection and address transit and connectivity concerns.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-vnet-peering/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-vnet-peering/",
-      "length": "PT21M",
+      "path": "_learning/courses/microsoft-learn-configure-virtual-networks.md",
+      "title": "Configure virtual networks",
+      "excerpt": "You will learn to configure virtual networks and subnets, including IP addressing.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-virtual-networks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-networks/",
+      "length": "PT30M",
       "ratings": {
-        "count": 22,
-        "average": 4.8636365
+        "count": 27,
+        "average": 4.888889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -482,6 +487,46 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday.md",
+      "title": "Azure Load Balancer insights using Azure Monitor for Networks | Azure Friday",
+      "excerpt": "Erich Robinson-Tillenburg joins Scott Hanselman to demo and explain health monitoring and configuration analysis for Azure Load Balancer using Azure Monitor for Networks, a central hub that provides access to health and connectivity monitoring for all your network resources.  0:00 – Overview 1:16 – Load",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=qfzOTNKYTgU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qfzOTNKYTgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M15S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-02T08:55:07-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qfzOTNKYTgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-defend-against-denial-of-service-attacks-with-azure-ddos-protection-azure-friday.md",
       "title": "How to defend against denial of service attacks with Azure DDoS Protection | Azure Friday",
       "excerpt": "Distributed denial of service (DDoS) attacks are rampant and it's not a question of if a business will be impacted but when. Anupam Vij shows Scott Hanselman how Azure DDoS Protection Standard can protect your applications against targeted DDoS attacks and why it is critical for every business running",
@@ -522,6 +567,84 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday.md",
+      "title": "How to use Azure Orbital to communicate with your satellites | Azure Friday",
+      "excerpt": "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to communicate with your spacecraft or satellite constellations, downlink and uplink data, process your data in the cloud, chain services with Azure services in unique scenarios, and generate products for your customers.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=MqgjSBKAxIg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MqgjSBKAxIg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M25S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-19T13:04:04-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MqgjSBKAxIg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday.md",
+      "title": "Using Azure Cross-region Load Balancer for high availability scenarios | Azure Friday",
+      "excerpt": "Irene Huang joins Scott Hanselman to show him Cross-region Load Balancer, which recently became available for Public Preview. Cross-region Load Balancer is a Public layer-4 network load balancer serving as a single point of contact for global traffic. It provides efficient routing by leveraging Microsoft's",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=3awUwUIv950",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3awUwUIv950\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-26T08:29:39-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3awUwUIv950/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-implement-windows-server-iaas-vm-networking.md",
       "title": "Implement Windows Server IaaS VM networking",
       "excerpt": "In this learning path, you’ll learn about Azure IaaS networking and identity. After completing the learning path, you’ll be able to implement IP addressing, manage DNS, and deploy and manage domain controllers in Azure.",
@@ -552,8 +675,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/",
           "length": "PT53M",
           "ratings": {
-            "count": 37,
-            "average": 4.783784
+            "count": 38,
+            "average": 4.763158
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -596,8 +719,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/",
           "length": "PT50M",
           "ratings": {
-            "count": 46,
-            "average": 4.804348
+            "count": 47,
+            "average": 4.808511
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -743,15 +866,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-network-routing-endpoints.md",
-      "title": "Configure network routing and endpoints",
-      "excerpt": "You will learn how to configure routes including endpoints and private links.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-network-routing-endpoints/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-routing-endpoints/",
-      "length": "PT27M",
+      "path": "_learning/courses/microsoft-learn-configure-vnet-peering.md",
+      "title": "Configure virtual network peering",
+      "excerpt": "You will learn to configure a VNet peering connection and address transit and connectivity concerns.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-vnet-peering/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-vnet-peering/",
+      "length": "PT21M",
       "ratings": {
-        "count": 18,
-        "average": 4.888889
+        "count": 22,
+        "average": 4.8636365
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1106,8 +1229,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-network-security-monitoring/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 16,
-        "average": 4.5
+        "count": 17,
+        "average": 4.529412
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1285,8 +1408,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/",
       "length": "PT50M",
       "ratings": {
-        "count": 46,
-        "average": 4.804348
+        "count": 47,
+        "average": 4.808511
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1319,127 +1442,6 @@
         "Azure",
         "Management Tools",
         "Compute",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-bastion.md",
-      "title": "Introduction to Azure Bastion",
-      "excerpt": "Describe how Azure Bastion provides secure and seamless connectivity to your VMs directly in the Azure portal. Determine whether Azure Bastion can replace your administrative jump boxes.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-bastion/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-bastion/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 27,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-load-balancing-https-traffic-azure.md",
-      "title": "Load balance HTTP(S) traffic in Azure",
-      "excerpt": "You will learn how to design load balancer solutions for HTTP(S) traffic and how to implement Azure Application gateway and Azure Front Door.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-load-balancing-https-traffic-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balancing-https-traffic-azure/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 22,
-        "average": 4.7727275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-load-balancing-non-https-traffic-azure.md",
-      "title": "Load balance non-HTTP(S) traffic in Azure",
-      "excerpt": "You will learn the different load balancer options in Azure and how to choose and implement the right Azure solution for non-HTTP(S) traffic.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-load-balancing-non-https-traffic-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balancing-non-https-traffic-azure/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 20,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Networking"
       ]
     }

@@ -4,6 +4,84 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway.md",
+      "title": "Connect your on-premises network to Azure with VPN Gateway",
+      "excerpt": "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 8625,
+        "average": 4.634783
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer.md",
+      "title": "Create a Clustering Model with Azure Machine Learning designer",
+      "excerpt": "Clustering is an unsupervised machine learning technique used to group similar entities based on their features. Learn how to create clustering models using Azure Machine Learning designer.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-clustering-model-azure-machine-learning-designer/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 209,
+        "average": 4.7177033
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer.md",
       "title": "Create a Regression Model with Azure Machine Learning designer",
       "excerpt": "Regression is a supervised machine learning technique used to predict numeric values. Learn how to create regression models using Azure Machine Learning designer.",
@@ -46,8 +124,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 6914,
-        "average": 4.8543534
+        "count": 6917,
+        "average": 4.854272
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -218,8 +296,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 6601,
-        "average": 4.740342
+        "count": 6602,
+        "average": 4.7403817
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -254,14 +332,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series.md",
-      "title": "How to create an Azure SQL database | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to create an Azure SQL Database in the Azure Portal and how you can be more productive in Azure.    Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=p7X8lH_XMtI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p7X8lH_XMtI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M27S",
+      "path": "_learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday.md",
+      "title": "How to choose which services to use in Azure | Azure Friday",
+      "excerpt": "In this video, Azure MVP Barry Luijbregts chats with Scott Hanselman about how he goes about choosing the right services in Azure to run his applications and store his data.   For more information, see:  • Overview of Azure services https://aka.ms/azfr/435/01  • Pluralsight course: Microsoft Azure for",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=ZpK_lv6HJkQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpK_lv6HJkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M20S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -274,11 +352,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-08T09:00:08-07:00",
+      "publishedDateTime": "2018-07-16T11:53:16-07:00",
       "heat": 58,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/p7X8lH_XMtI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZpK_lv6HJkQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -288,9 +366,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Management tools",
-        "Databases"
+        "Azure"
       ]
     },
     {
@@ -301,8 +377,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 5123,
-        "average": 4.76381
+        "count": 5124,
+        "average": 4.7638564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -345,8 +421,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 1246,
-        "average": 4.6789727
+        "count": 1247,
+        "average": 4.678428
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -387,8 +463,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-role-based-access-control/",
       "length": "PT27M",
       "ratings": {
-        "count": 46,
-        "average": 4.7173915
+        "count": 47,
+        "average": 4.7234044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -471,8 +547,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 6775,
-        "average": 4.6376386
+        "count": 6776,
+        "average": 4.637544
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -558,8 +634,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 3121,
-        "average": 4.6504326
+        "count": 3122,
+        "average": 4.6505446
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,8 +679,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
       "length": "PT54M",
       "ratings": {
-        "count": 1847,
-        "average": 4.739036
+        "count": 1848,
+        "average": 4.7386365
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -679,8 +755,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/",
       "length": "PT33M",
       "ratings": {
-        "count": 581,
-        "average": 4.829604
+        "count": 583,
+        "average": 4.8301888
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -714,14 +790,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-ingest-prepare-transform-using-azure-databricks-data-factory-azure-friday.md",
-      "title": "Ingest, prepare & transform using Azure Databricks & Data Factory | Azure Friday",
-      "excerpt": "Today's business managers depend heavily on reliable data integration systems that run complex ETL/ELT workflows (extract, transform/load and load/transform data). Gaurav Malhotra joins Scott Hanselman to discuss how you can iteratively build, debug, deploy, and monitor your data integration workflows",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-ingest-prepare-transform-using-azure-databricks-data-factory-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-ingest-prepare-transform-using-azure-databricks-data-factory-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=CZQOxPY7UuA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CZQOxPY7UuA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M5S",
+      "path": "_learning/videos/microsoft-how-to-use-azure-bastion-to-connect-securely-to-your-azure-vms-azure-friday.md",
+      "title": "How to use Azure Bastion to connect securely to your Azure VMs | Azure Friday",
+      "excerpt": "Using a bastion host can help limit threats such as port scanning and other types of malware targeting your VMs. Ashish Jain joins Scott Hanselman to show how Azure Bastion gives you secure and seamless RDP and SSH access to your virtual machines. Now you can securely access your VMs over SSL from the",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-use-azure-bastion-to-connect-securely-to-your-azure-vms-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-use-azure-bastion-to-connect-securely-to-your-azure-vms-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=WElUQm02BTU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WElUQm02BTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M40S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -734,11 +810,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-07T16:04:44-07:00",
+      "publishedDateTime": "2019-10-17T22:50:45-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CZQOxPY7UuA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WElUQm02BTU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -782,8 +858,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 7294,
-            "average": 4.7082534
+            "count": 7295,
+            "average": 4.7082934
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -930,8 +1006,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 8522,
-        "average": 4.7206054
+        "count": 8524,
+        "average": 4.720671
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1015,8 +1091,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 142800,
-        "average": 4.7031794
+        "count": 142802,
+        "average": 4.7031837
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1085,8 +1161,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/",
       "length": "PT43M",
       "ratings": {
-        "count": 330,
-        "average": 4.70303
+        "count": 332,
+        "average": 4.6897593
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1170,8 +1246,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 7294,
-        "average": 4.7082534
+        "count": 7295,
+        "average": 4.7082934
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1212,8 +1288,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 5357,
-        "average": 4.731753
+        "count": 5358,
+        "average": 4.731803
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1282,93 +1358,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-      "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-      "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 9476,
-        "average": 4.6728578
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
-      "title": "Secure your Azure Storage account",
-      "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 11190,
-        "average": 4.6827526
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

@@ -4,6 +4,229 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-build-the-intelligent-edge-with-azure-iot-edge.md",
+      "title": "Build the intelligent edge with Azure IoT Edge",
+      "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-build-the-intelligent-edge-with-azure-iot-edge/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-build-the-intelligent-edge-with-azure-iot-edge/",
+      "length": "PT3H5M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate",
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-iot-edge.md",
+          "title": "Introduction to Azure IoT Edge",
+          "excerpt": "University of Oxford",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-iot-edge/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 1323,
+            "average": 4.69161
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-edge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device.md",
+          "title": "Deploy a pre-built module to the Edge device",
+          "excerpt": "University of Oxford",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 718,
+            "average": 4.561281
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/deploy-pre-built-module-iot-edge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-set-up-iot-edge-gateway.md",
+          "title": "Set up an IoT Edge Gateway",
+          "excerpt": "This module is theoretical and will walk you through how an IoT Edge device can be used as a gateway.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-set-up-iot-edge-gateway/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-iot-edge-gateway/",
+          "length": "PT1H40M",
+          "ratings": {
+            "count": 342,
+            "average": 4.5584793
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/set-up-iot-edge-gateway-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-edge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Management Tools",
+        "Storage",
+        "Databases",
+        "Integration",
+        "Compute",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-cognitive-services.md",
+      "title": "Create and manage Cognitive Services",
+      "excerpt": "Azure Cognitive Services enable developers to easily add cognitive features into their applications. Learn how to configure and manage these services for your AI application needs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 113,
+        "average": 4.743363
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
       "title": "Introduction to Kubernetes",
       "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
@@ -91,14 +314,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday.md",
-      "title": "Azure Arc enabled Kubernetes with GitOps | Azure Friday",
-      "excerpt": "Lior Kamrat shows Scott Hanselman how Azure Arc enabled Kubernetes provides an easy way to apply GitOps configurations on Kubernetes clusters deployed outside of Azure, which enables you to control and govern those clusters and applications using GitHub repositories as the \"single source of truth.\"",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=4fT47TKprFQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fT47TKprFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M",
+      "path": "_learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday.md",
+      "title": "60 seconds to a Linkerd service mesh on AKS | Azure Friday",
+      "excerpt": "See just how easy it is to deploy a service mesh to your AKS cluster. William Morgan, maintainer of the open source service mesh Linkerd, joins Scott Hanselman to demonstrate just how easy it is to deploy Linkerd. Together they explore how to debug a live microservices application using the service mesh,",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=f8R3Y_geZwU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f8R3Y_geZwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M45S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -111,11 +334,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-04T10:44:01-08:00",
+      "publishedDateTime": "2019-06-11T12:22:40-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/f8R3Y_geZwU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -130,14 +353,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-run-an-app-inside-a-container-image-with-docker-azure-tips-and-tricks.md",
-      "title": "How to run an app inside a container image with Docker | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to create a container based on an image, and then create a running app inside of it. Once you get set up with Docker on your local dev machine by installing the Docker desktop application for your operating system, you can easily run an app.   For more",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-run-an-app-inside-a-container-image-with-docker-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-run-an-app-inside-a-container-image-with-docker-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=lpr2tO-FCEw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lpr2tO-FCEw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M8S",
+      "path": "_learning/videos/microsoft-autoscale-applications-on-kubernetes-with-kubernetes-event-driven-autoscaling-keda-azure-friday.md",
+      "title": "Autoscale applications on Kubernetes with Kubernetes Event-Driven Autoscaling (KEDA) | Azure Friday",
+      "excerpt": "Do you want to scale your workloads on Kubernetes without having to worry about the details? Do you want to run Azure Functions anywhere and easily scale it yourself? Tom Kerkhove shows Scott Hanselman how Kubernetes Event-Driven Autoscaling (KEDA) makes application autoscaling dead simple.  0:00 – Introduction",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-autoscale-applications-on-kubernetes-with-kubernetes-event-driven-autoscaling-keda-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-autoscale-applications-on-kubernetes-with-kubernetes-event-driven-autoscaling-keda-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=TftaxqNFsZY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TftaxqNFsZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M14S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -150,11 +373,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-07-16T15:13:45-07:00",
+      "publishedDateTime": "2021-02-26T07:44:18-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lpr2tO-FCEw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TftaxqNFsZY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -169,14 +392,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday.md",
-      "title": "Using Azure Container Registry for building and deploying .NET Core Apps | Azure Friday",
-      "excerpt": "You probably know that Azure Container Registry enables you to store and manage container images securely, but did you know it can also be used as a part of your DevOps pipelines? Jeremy Likness shows Scott Hanselman how ACR can manage your images and even build them for you in the cloud.   0:00 – Overview",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=VcZH6AWhUGk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VcZH6AWhUGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M50S",
+      "path": "_learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday.md",
+      "title": "Deploy your Web App in Windows Containers on Azure App Service | Azure Friday",
+      "excerpt": "Windows Container support is available in preview in Azure App Service. By deploying applications via Windows Containers in Azure App Service you can install your dependencies inside the container, call APIs currently blocked by the Azure App Service sandbox and use the power of containers to migrate",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=Fe_AYBD5m0I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fe_AYBD5m0I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M48S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -189,11 +412,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-09T15:20:08-07:00",
+      "publishedDateTime": "2019-07-10T08:31:31-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/VcZH6AWhUGk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Fe_AYBD5m0I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -204,6 +427,206 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Compute",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-arc-enabled-kubernetes.md",
+      "title": "How to get started with Azure Arc enabled Kubernetes",
+      "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to get started with Azure Arc enabled Kubernetes.  Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal   Make sure to keep an eye on our Azure Portal \"How to\" Series",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-get-started-with-azure-arc-enabled-kubernetes/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-get-started-with-azure-arc-enabled-kubernetes/",
+      "originalUrl": "https://youtube.com/watch?v=d4F83oblkWk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d4F83oblkWk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M23S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-06-03T10:18:58-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d4F83oblkWk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks.md",
+      "title": "How to start and stop clusters with Azure Kubernetes Service | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to start and stop clusters with Microsoft Azure Kubernetes Service   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=0f3lo56h4tg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0f3lo56h4tg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M6S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-09T08:01:17-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0f3lo56h4tg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks.md",
+      "title": "How to use Deployment Slots in Azure App Service for Containers | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Deployment Slots in Microsoft Azure App Service for Containers.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=5rR5C4Z5dU4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5rR5C4Z5dU4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M9S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-16T08:00:05-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5rR5C4Z5dU4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday.md",
+      "title": "How to use Prometheus to monitor containers in Azure Monitor | Azure Friday",
+      "excerpt": "Keiko Harada joins Scott Hanselman to show how to use Prometheus to monitor containers in Azure Monitor.  Prometheus is a popular open source metric monitoring solution and is a part of Cloud Native Compute Foundation.  Customers who like the extensive metrics which Prometheus provides on Kubernetes",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=5ARJ6DzqTYE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ARJ6DzqTYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M30S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-14T15:31:28-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5ARJ6DzqTYE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday.md",
+      "title": "Serverless containers with Azure Container Instances (ACI) | Azure Friday",
+      "excerpt": "In this episode, Azure CTO Mark Russinovich joins Scott Hanselman to show how you can use Azure Container Instances (ACI) to host a containerized application. Mark deploys an image processing container in three ways: as a standalone ACI container, as part of a Logic Apps workflow, and as the backend",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=7G_oDLON7Us",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7G_oDLON7Us\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M33S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-03T14:26:47-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7G_oDLON7Us/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
         "Containers"
       ]
     },
@@ -1137,307 +1560,6 @@
       "topics": [
         "Azure",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
-      "title": "Build and store container images with Azure Container Registry",
-      "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 3097,
-        "average": 4.6441717
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cna-orchestrate-containers.md",
-      "title": "Orchestrate containers for cloud-native apps with AKS",
-      "excerpt": "Cloud-native applications are modular in nature, with components separated and self-contained. Components can be encapsulated in containers, such as those created with Docker, or published from an Azure service. Dynamic scaling can then be managed by Kubernetes. We'll learn to decide when Kubernetes is right for our Cloud Native app, and we'll see how to use it as a first building block of our Cloud Native architecture.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cna-orchestrate-containers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-native-apps-orchestrate-containers/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-application-kubernetes-arc.md",
-      "title": "Implement Azure App Service on Kubernetes with Arc",
-      "excerpt": "Azure App Service on Kubernetes with Azure Arc enables implementation of Azure application-platform services on customer-managed, Arc-onboarded Kubernetes clusters. Azure App Service is one you can implement.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-application-kubernetes-arc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-application-kubernetes-arc/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 7,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-web-app-with-refreshable-models.md",
-      "title": "Build a Web App with Refreshable Machine Learning Models",
-      "excerpt": "Build a web app powered by machine learning models trained using Custom Vision AI service, and learn how to refresh them with GitHub Actions.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-web-app-with-refreshable-models/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-web-app-with-refreshable-models/",
-      "length": "PT1H22M",
-      "ratings": {
-        "count": 38,
-        "average": 4.394737
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-elastic-cloud-kubernetes-azure.md",
-      "title": "Deploy Elastic Cloud on Kubernetes on Azure Kubernetes Service",
-      "excerpt": "Deploy Elastic Cloud on Kubernetes (ECK) on Azure Kubernetes Service (AKS) to build applications that run Linux systems and provide built-in search capabilities on a fully managed cluster.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-elastic-cloud-kubernetes-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-elastic-cloud-kubernetes-azure/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 6,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-kubernetes.md",
-      "title": "Automate multi-container Kubernetes deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for multiple containers to Kubernetes.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-kubernetes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 486,
-        "average": 4.670782
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-kubernetes-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-for-performance-and-scalability.md",
-      "title": "Design for performance and scalability in Azure",
-      "excerpt": "Scaling your system to handle load, identifying network bottlenecks, and optimizing your storage performance are important to ensure your users have the best experience. Learn how to make your application perform at its best.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-for-performance-and-scalability/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-performance-and-scalability-in-azure/",
-      "length": "48 mins",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-for-performance-and-scalability-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Design for performance and scalability in Azure",
-          "isCached": true
-        },
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Design for performance and scalability in Azure",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Databases",
-        "Serverless",
-        "Containers",
-        "Networking"
       ]
     }
   ],

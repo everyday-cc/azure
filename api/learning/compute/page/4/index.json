@@ -4,51 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-configure-virtual-machine-backups.md",
-      "title": "Configure virtual machine backups",
-      "excerpt": "You will learn how to configure virtual machine backups including restore operations.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-virtual-machine-backups/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machine-backups/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 13,
-        "average": 4.6153846
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data.md",
       "title": "Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts",
       "excerpt": "Learn how to monitor the health of your Azure VMs by using Azure Metrics Explorer and metric alerts.",
@@ -101,8 +56,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
       "length": "PT54M",
       "ratings": {
-        "count": 1353,
-        "average": 4.6977086
+        "count": 1354,
+        "average": 4.6971936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -145,8 +100,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
       "length": "PT45M",
       "ratings": {
-        "count": 1567,
-        "average": 4.633695
+        "count": 1568,
+        "average": 4.633291
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -224,14 +179,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series.md",
-      "title": "How to easily manage your virtual machine | Azure Portal Series",
-      "excerpt": "In this episode of the #Azure Portal \"How To\" series, learn about the new virtual machine (VM) overview experience, including new ways to quickly get started using your virtual machine.   Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=vQClJHt2ulQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vQClJHt2ulQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M31S",
+      "path": "_learning/videos/microsoft-azure-app-service-web-apps-azure-friday.md",
+      "title": "Azure App Service Web Apps | Azure Friday",
+      "excerpt": "Byron Tardif joins Scott Hanselman to discuss Azure App Service Web Apps, the best way to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=jCfJWYocz1M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jCfJWYocz1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M33S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -244,11 +199,130 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-08T12:59:13-08:00",
+      "publishedDateTime": "2018-08-14T14:03:24-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/vQClJHt2ulQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jCfJWYocz1M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources.md",
+      "title": "Azure Friday | Azure App Service with Hybrid Connections to On-premises Resources",
+      "excerpt": "Christina Compy joins Scott Hanselman to talk about the recently relaunched App Service Hybrid Connections. This feature enables your apps in the App Service to reach resources on other networks. Those other networks can be in Azure, on-premises or networks in other cloud providers.   Azure App Service",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources/",
+      "originalUrl": "https://youtube.com/watch?v=y_zAJZC_8Yk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y_zAJZC_8Yk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M54S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-10-10T13:58:05-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y_zAJZC_8Yk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday.md",
+      "title": "Deploy your Web App in Windows Containers on Azure App Service | Azure Friday",
+      "excerpt": "Windows Container support is available in preview in Azure App Service. By deploying applications via Windows Containers in Azure App Service you can install your dependencies inside the container, call APIs currently blocked by the Azure App Service sandbox and use the power of containers to migrate",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=Fe_AYBD5m0I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fe_AYBD5m0I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M48S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-10T08:31:31-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Fe_AYBD5m0I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-add-and-secure-a-custom-domain-on-your-app-service-web-app-azure-portal-series.md",
+      "title": "How to add and secure a custom domain on your App Service web app | Azure Portal Series",
+      "excerpt": "In this video, learn about Azure best practices on how to add a custom domain to your web app and how to secure your custom domain with an App Service Managed Certificate.   Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-add-and-secure-a-custom-domain-on-your-app-service-web-app-azure-portal-series/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-add-and-secure-a-custom-domain-on-your-app-service-web-app-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=bXP6IvNYISw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bXP6IvNYISw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M6S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-01T12:22:25-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bXP6IvNYISw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -342,6 +416,46 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks.md",
+      "title": "How to use Deployment Slots in Azure App Service for Containers | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Deployment Slots in Microsoft Azure App Service for Containers.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=5rR5C4Z5dU4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5rR5C4Z5dU4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M9S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-16T08:00:05-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5rR5C4Z5dU4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-use-grub-and-the-azure-serial-console-on-a-linux-virtual-machine-azure-tips-and-tricks.md",
       "title": "How to use GRUB and the Azure Serial Console on a Linux Virtual Machine | Azure Tips and Tricks",
       "excerpt": "In this video of the Azure Tips and Tricks series, Ken from the Azure Serial Console team will show you how to enable GRUB on your RHEL VM. You will also learn how to use GRUB to enter single user mode.   For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services",
@@ -417,6 +531,46 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday.md",
+      "title": "Operational best practices for web apps on Azure App Service | Azure Friday",
+      "excerpt": "Azure App Service hosts millions of apps, serves trillions of requests per day, and has an SLA of 99.95%. But what should you do when your app has issues in production? Byron Tardif joins Scott Hanselman to discuss some operational best practices for running your web apps on Azure App Service.  0:00",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=JAqoLC2dv-M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JAqoLC2dv-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-05T17:09:42-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JAqoLC2dv-M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
       ]
     },
     {
@@ -948,8 +1102,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/",
           "length": "PT53M",
           "ratings": {
-            "count": 37,
-            "average": 4.783784
+            "count": 38,
+            "average": 4.763158
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -992,8 +1146,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/",
           "length": "PT50M",
           "ratings": {
-            "count": 46,
-            "average": 4.804348
+            "count": 47,
+            "average": 4.808511
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1212,8 +1366,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11190,
-            "average": 4.6827526
+            "count": 11191,
+            "average": 4.6826916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1906,177 +2060,6 @@
         "Azure",
         "Compute",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-spring-cloud-workshop.md",
-      "title": "Azure Spring Cloud workshop",
-      "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-spring-cloud-workshop/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
-      "length": "PT1H24M",
-      "ratings": {
-        "count": 518,
-        "average": 4.430502
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-3d-scene-mixed-reality-unity.md",
-      "title": "Build a 3D Scene for mixed reality in Unity",
-      "excerpt": "Learn how to create a 3D Scene in Unity using the Microsoft Maps SDK or static terrain. Get familiar with mixed reality scene design, the Unity interface, and deploying your Unity project to a HoloLens 2.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-3d-scene-mixed-reality-unity/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-3d-scene-mixed-reality-unity/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 19,
-        "average": 4.9473686
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-3d-scene-mixed-reality-unity-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "IoT",
-        "Integration",
-        "Analytics",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
-      "title": "Build Serverless APIs with Azure Functions",
-      "excerpt": "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 296,
-        "average": 4.689189
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
-      "title": "Deploy a Java web app to Azure",
-      "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-webapp-java-tomcat/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-java-webapp-to-app-service-linux/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 48,
-        "average": 4.6875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],

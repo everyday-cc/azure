@@ -4,6 +4,786 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-m365-identity-provisioning.md",
+      "title": "Simplify access and identity provisioning with Azure Active Directory",
+      "excerpt": "Learn about identity governance and how you can safeguard access to your organization’s data.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-provisioning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 5313,
+        "average": 4.7713156
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-maintain-secure-repository-github.md",
+      "title": "Maintain a secure repository by using GitHub best practices",
+      "excerpt": "Learn best practices for building, hosting, and maintaining a secure repository on GitHub.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-maintain-secure-repository-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/maintain-secure-repository-github/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 567,
+        "average": 4.7671957
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/maintain-secure-repository-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
+      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
+      "excerpt": "Learn how to manage device identity by using Azure AD join and Enterprise State Roaming.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 2960,
+        "average": 4.700338
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
+      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 13087,
+        "average": 4.767479
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-your-azure-iot-hub-with-metrics-alerts.md",
+      "title": "Manage your Azure IoT Hub with alerts and metrics",
+      "excerpt": "Learn about metrics, alerts, diagnostics, and logs. Create an Azure IoT Hub, an app to send vibration telemetry, and then create and test some metrics and alerts.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-your-azure-iot-hub-with-metrics-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-iot-hub-with-metrics-alerts/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 312,
+        "average": 4.6634617
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/manage-your-azure-iot-hub-with-metrics-alerts-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
+      "title": "Monitor GitHub events by using a webhook with Azure Functions",
+      "excerpt": "Discover the benefits of webhooks when you trigger an Azure function with a GitHub webhook and parse the payload for insights.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 2587,
+        "average": 4.6567454
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-github-events-with-a-function-triggered-by-a-webhook-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-move-azure-resources-to-another-resource-group.md",
+      "title": "Move Azure resources to another resource group",
+      "excerpt": "Learn how to identify Azure resources you can move, and how to move them to a new resource group.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-move-azure-resources-to-another-resource-group/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 3711,
+        "average": 4.675559
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
+      "title": "Fundamentals of network security",
+      "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-network-fundamentals-2/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 4932,
+        "average": 4.7404704
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-optimize-data-warehouse-query-performance-azure-synapse-analytics.md",
+      "title": "Optimize data warehouse query performance in Azure Synapse Analytics",
+      "excerpt": "Optimize data warehouse query performance in Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-data-warehouse-query-performance-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-data-warehouse-query-performance-azure-synapse-analytics/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 123,
+        "average": 4.699187
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/optimize-data-warehouse-query-performance-in-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-predict-flight-delays-with-python.md",
+      "title": "Predict flight delays by creating a machine learning model in Python",
+      "excerpt": "Import airline arrival data into a Jupyter notebook and use Pandas to clean it. Then, build a machine learning model with Scikit-Learn and use Matplotlib to visualize output.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-predict-flight-delays-with-python/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-flight-delays-with-python/",
+      "length": "51 mins",
+      "ratings": {
+        "count": 1706,
+        "average": 4.714537
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/predict-flight-delays-with-python-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Predict flight delays by creating a machine learning model in Python",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
+      "title": "Run Docker containers with Azure Container Instances",
+      "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 7155,
+        "average": 4.7162824
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-run-quality-tests-build-pipeline.md",
+      "title": "Run quality tests in your build pipeline by using Azure Pipelines",
+      "excerpt": "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-run-quality-tests-build-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
+      "length": "PT1H22M",
+      "ratings": {
+        "count": 3497,
+        "average": 4.734058
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-quality-tests-when-your-application-builds-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-rust-set-up-environment.md",
+      "title": "Set up the Rust development environment",
+      "excerpt": "Learn how to set up the Rust development environment, write a program, and use the Cargo build system.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-rust-set-up-environment/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-set-up-environment/",
+      "length": "PT16M",
+      "ratings": {
+        "count": 38,
+        "average": 4.868421
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-get-started-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage.md",
+      "title": "Store application data with Azure Blob storage",
+      "excerpt": "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 4415,
+        "average": 4.5535674
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-synthesize-text-input-speech.md",
+      "title": "Synthesize Text Input to Speech",
+      "excerpt": "Learn how to synthesize text to speech using the Speech-to-Text service.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-synthesize-text-input-speech/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/synthesize-text-input-speech/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 520,
+        "average": 4.665385
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/synthesize-text-input-speech-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements.md",
+      "title": "Create a threat model using data-flow diagram elements",
+      "excerpt": "Data-flow diagrams are graphical representations of your system and should specify each element, their interactions and context.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 494,
+        "average": 4.7449393
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-a-threat-model-using-data-flow-diagram-elements-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-tm-introduction-to-threat-modeling.md",
+      "title": "Introduction to threat modeling",
+      "excerpt": "Explore the four high-level steps of threat modeling.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-tm-introduction-to-threat-modeling/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 690,
+        "average": 4.749275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
+      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
+      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
+      "length": "PT1H38M",
+      "ratings": {
+        "count": 1832,
+        "average": 4.745633
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-typescript-generics.md",
+      "title": "Define generics in TypeScript",
+      "excerpt": "Learn how to define generics in TypeScript.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-typescript-generics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/typescript-generics/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 61,
+        "average": 4.6065574
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-unsupervised-learning.md",
       "title": "Use unsupervised learning to analyze unlabeled data",
       "excerpt": "Use unsupervised learning methods to predict groupings in data. Use variations of k-means clustering and spectral clustering to analyze and visualize difficult data sets.",
@@ -125,14 +905,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-an-overview-of-azure-blueprints-azure-friday.md",
-      "title": "An overview of Azure Blueprints | Azure Friday",
-      "excerpt": "Alex Frankel (@sonofdiesel) joins Scott Hanselman (@shanselman) to discuss Azure Blueprints. Environment creation can be a long and error prone process. Azure Blueprints helps you deploy and update cloud environments in a repeatable manner using composable artifacts such as policies, role-based access",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-an-overview-of-azure-blueprints-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-an-overview-of-azure-blueprints-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=cQ9D-d6KkMY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cQ9D-d6KkMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M46S",
+      "path": "_learning/videos/microsoft-an-overview-of-azure-integration-services-azure-friday.md",
+      "title": "An overview of Azure Integration Services | Azure Friday",
+      "excerpt": "Azure Integration Services brings together API Management, Logic Apps, Service Bus, and Event Grid as a reliable, scalable platform for integrating on-premises and cloud-based applications, data, and processes across your enterprise. [04:41] Demo Start   Azure Integration Services overview https://aka.ms/azfr/527/01",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-an-overview-of-azure-integration-services-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-an-overview-of-azure-integration-services-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=sbqhJsWhKAs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sbqhJsWhKAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M46S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -145,49 +925,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-27T17:00:16-08:00",
+      "publishedDateTime": "2019-02-27T17:01:03-08:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cQ9D-d6KkMY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-app-service-web-apps-azure-friday.md",
-      "title": "Azure App Service Web Apps | Azure Friday",
-      "excerpt": "Byron Tardif joins Scott Hanselman to discuss Azure App Service Web Apps, the best way to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=jCfJWYocz1M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jCfJWYocz1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-14T14:03:24-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jCfJWYocz1M/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/sbqhJsWhKAs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -198,8 +940,124 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Web"
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday.md",
+      "title": "Azure AD Managed Service Identity | Azure Friday",
+      "excerpt": "Arturo Lucatero joins Donovan Brown to discuss Azure AD Managed Service Identity, which can be used to authenticate to any service that supports Azure AD authentication. For more information, see: What is Managed Service Identity (MSI) for Azure resources? (docs): https://docs.microsoft.com/azure/active-directory/managed-service-identity/overview",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=bBi1bll2928",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bBi1bll2928\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-14T14:03:31-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bBi1bll2928/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday.md",
+      "title": "Azure Arc enabled Kubernetes with GitOps | Azure Friday",
+      "excerpt": "Lior Kamrat shows Scott Hanselman how Azure Arc enabled Kubernetes provides an easy way to apply GitOps configurations on Kubernetes clusters deployed outside of Azure, which enables you to control and govern those clusters and applications using GitHub repositories as the \"single source of truth.\"",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=4fT47TKprFQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fT47TKprFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-04T10:44:01-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-azure-data-lake-storage-gen2-overview-azure-friday.md",
+      "title": "Azure Data Lake Storage Gen2 overview | Azure Friday",
+      "excerpt": "James Baker joins Lara Rubbelke to introduce Azure Data Lake Storage Gen2, which is redefining cloud storage for big data analytics due to multi-modal (object store and file system) access and combining the best qualities of a dedicated analytics file system with those of a cloud-scale object store.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-data-lake-storage-gen2-overview-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-data-lake-storage-gen2-overview-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=McJj_N-pjgI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/McJj_N-pjgI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M32S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-14T14:03:38-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/McJj_N-pjgI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
       ]
     },
     {
@@ -319,14 +1177,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-friday-azure-iot-hub.md",
-      "title": "Azure Friday | Azure IoT Hub",
-      "excerpt": "Olivier Bloch joins Scott Hanselman to discuss Azure IoT and how it is more than just about connecting IoT devices and sending telemetry to the Cloud. They also talk about Azure IoT device topics such as twins, provisioning, and lifecycle management.  For more information, see:  Azure IoT Hub - http://aka.ms/azureiotgetstarted",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-friday-azure-iot-hub/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-friday-azure-iot-hub/",
-      "originalUrl": "https://youtube.com/watch?v=smuZaZZXKsU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/smuZaZZXKsU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M47S",
+      "path": "_learning/videos/microsoft-create-dependent-pipelines-in-your-azure-data-factory-azure-friday.md",
+      "title": "Create dependent pipelines in your Azure Data Factory | Azure Friday",
+      "excerpt": "Data integration is complex and has many moving parts that spans across hybrid data environments. Typically, data integration projects have dependencies upstream and downstream making dependencies an important aspect to consider in any job scheduling.  Gaurav Malhotra joins Scott Hanselman to show how",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-create-dependent-pipelines-in-your-azure-data-factory-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-create-dependent-pipelines-in-your-azure-data-factory-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=4A4lv5XGI98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4A4lv5XGI98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M32S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -339,245 +1197,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-12-11T10:16:28-08:00",
+      "publishedDateTime": "2019-07-31T07:32:54-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/smuZaZZXKsU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-build-serverless-apis-with-azure-functions-azure-friday.md",
-      "title": "Build serverless APIs with Azure Functions | Azure Friday",
-      "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can build highly scalable serverless APIs with Azure Functions.  0:00 – Overview 1:09 – What \"serverless\" really means 4:00 – A closer look at Azure Functions 7:29 – Azure Functions Live Metrics 10:45 – Thinking downstream of Azure Functions 13:52 – Using",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-build-serverless-apis-with-azure-functions-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-build-serverless-apis-with-azure-functions-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=499iCgNLDDE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/499iCgNLDDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M35S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-01T09:48:41-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/499iCgNLDDE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday.md",
-      "title": "Cognitive Search - Azure Search with AI | Azure Friday",
-      "excerpt": "Jacob Jedryszek joins Scott Hanselman to talk about about using Cognitive Services with Azure Search with your mobile and web apps. Skip hiring search experts who know what an inverted index is. Don't worry about distributed systems expertise to scale your service to handle large amount of data. And",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=6kw8SHwxp9c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kw8SHwxp9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M24S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-05T22:02:39-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6kw8SHwxp9c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-continuous-integration-and-deployment-using-azure-data-factory-azure-friday.md",
-      "title": "Continuous integration and deployment using Azure Data Factory | Azure Friday",
-      "excerpt": "Gaurav Malhotra joins Scott Hanselman to discuss how you can follow industry-leading best practices to do continuous integration and deployment for your Extract Transform/Load (ETL) and Extract Load/Transform (ELT) workflows to multiple environments such as Dev, Test, Prod, and more.  For more information:",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-continuous-integration-and-deployment-using-azure-data-factory-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-continuous-integration-and-deployment-using-azure-data-factory-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=WhUAX8YxxLk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WhUAX8YxxLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-17T08:27:49-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WhUAX8YxxLk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-full-stack-end-to-end-monitoring-with-azure-monitor-azure-friday.md",
-      "title": "Full-stack end-to-end monitoring with Azure Monitor | Azure Friday",
-      "excerpt": "Rahul Bagaria joins Lara Rubbelke to discuss Azure Monitor, which now includes Log Analytics and Application Insights. Azure Monitor provides full stack monitoring tools for collecting and analyzing telemetry that allow you to maximize the performance and availability of your cloud and on-premises resources",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-full-stack-end-to-end-monitoring-with-azure-monitor-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-full-stack-end-to-end-monitoring-with-azure-monitor-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=B5X7M0WlOtY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B5X7M0WlOtY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M3S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:56:13-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B5X7M0WlOtY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-build-and-deploy-your-first-app-with-azure-sdk-for-java-azure-tips-and-tricks.md",
-      "title": "How to build and deploy your first app with Azure SDK for Java | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to easily create and run the Java application in Azure SDK.    For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: http://azure.com/free",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-build-and-deploy-your-first-app-with-azure-sdk-for-java-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-build-and-deploy-your-first-app-with-azure-sdk-for-java-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=5tBRF46Qelc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5tBRF46Qelc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M54S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-06T08:07:35-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5tBRF46Qelc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-connect-and-deliver-services-privately-on-azure-with-azure-private-link-azure-friday.md",
-      "title": "How to connect and deliver services privately on Azure with Azure Private Link | Azure Friday",
-      "excerpt": "Narayan Anamalai joins Donovan Brown to introduce Azure Private Link. In this episode, Narayan demonstrates how you can secure Azure PaaS resources and your Azure network using Private Link, and provide protection against data exfiltration.  8:45 - Demo  Azure Private Link overview https://aka.ms/azfr/610/01",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-connect-and-deliver-services-privately-on-azure-with-azure-private-link-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-connect-and-deliver-services-privately-on-azure-with-azure-private-link-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=AZ0iFcyPDkc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AZ0iFcyPDkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M54S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-14T00:21:54-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AZ0iFcyPDkc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4A4lv5XGI98/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -588,592 +1212,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series.md",
-      "title": "How to create a load balancer | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to configure load balancers and how to add virtual machines to them in the Azure Portal.   Try out these features in the Azure portal: https://ms.portal.azure.com/#home   Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=-VMPzVoo5Nk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-VMPzVoo5Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M48S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-24T12:51:39-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-VMPzVoo5Nk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-create-an-azure-kubernetes-service-cluster-in-the-azure-portal-azure-portal-series.md",
-      "title": "How to create an Azure Kubernetes Service cluster in the Azure Portal | Azure Portal Series",
-      "excerpt": "The Azure Portal allows you to quickly get started with Kubernetes and containers. In this video of the Azure Portal “How To” Series, learn how to easily create an Azure Kubernetes Service cluster.   Try out these features in the Azure portal: https://ms.portal.azure.com/#home   Keep connected on Twitter:",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-create-an-azure-kubernetes-service-cluster-in-the-azure-portal-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-create-an-azure-kubernetes-service-cluster-in-the-azure-portal-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=OP4L0es8WNo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OP4L0es8WNo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M5S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-20T10:21:55-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OP4L0es8WNo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-export-your-resources-to-csv-using-the-azure-portal-azure-portal-series.md",
-      "title": "How to export your resources to CSV using the Azure Portal | Azure Portal Series",
-      "excerpt": "The Azure Portal allows you to customize the information you'd like to export. In this video of the Azure Portal \"How To\" Series, learn how to easily export your files to CSV.   Try out these features in the Azure portal: https://portal.azure.com     Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-export-your-resources-to-csv-using-the-azure-portal-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-export-your-resources-to-csv-using-the-azure-portal-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=Kfrx0TpCgPc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kfrx0TpCgPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M29S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-15T08:10:46-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Kfrx0TpCgPc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-generate-ssh-public-key-to-log-into-linux-vm-azure-tips-and-tricks.md",
-      "title": "How to generate SSH public key to log into Linux VM | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to generate SSH public keys to log into a Linux VM with Cloud Shell and BASH on Windows 10. Watch how you can automatically log into a VM without having to put in a password if you SSH into the server.  For more tips and tricks, visit: http://azuredev.tips/",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-generate-ssh-public-key-to-log-into-linux-vm-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-generate-ssh-public-key-to-log-into-linux-vm-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=16bUZ43CGxs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/16bUZ43CGxs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M52S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-30T08:51:09-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/16bUZ43CGxs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-1-of-2-azure-tips-and-tricks.md",
-      "title": "How to get started with Azure Communication Services (Part 1 of 2) | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Microsoft Azure Communication Services for chat and how to build a chat app.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-1-of-2-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-1-of-2-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=W-YWJYCS6YI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W-YWJYCS6YI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M31S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-05T08:00:03-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/W-YWJYCS6YI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks.md",
-      "title": "How to host a static website with Azure Storage | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how you can host a static website running in Azure Storage in a few steps.     For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=gYpNC_tdbQQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gYpNC_tdbQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M51S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-02T08:44:54-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gYpNC_tdbQQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-pin-content-to-your-azure-portal-dashboard-azure-portal-series.md",
-      "title": "How to pin content to your Azure portal dashboard | Azure Portal Series",
-      "excerpt": "In this episode of the #Azure Portal “How To” Series, learn how to pin content on the portal for easier access and monitoring. We'll go over how to choose a dashboard to pin to and the differences between a private and a shared dashboard.   Try out these features in the Azure portal: https://portal.azure.com",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-pin-content-to-your-azure-portal-dashboard-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-pin-content-to-your-azure-portal-dashboard-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=eyOJkhYItSg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eyOJkhYItSg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M51S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-05T03:57:56-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eyOJkhYItSg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-push-a-container-image-to-a-docker-repo-azure-tips-and-tricks.md",
-      "title": "How to push a container image to a Docker Repo | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to push a container image to a Docker Repo. Once you've signed up for a Docker account, you can easily come to the Docker Hub and push your containers to your registry.   For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-push-a-container-image-to-a-docker-repo-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-push-a-container-image-to-a-docker-repo-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=r_tGl4zF1ZQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r_tGl4zF1ZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M39S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-16T14:18:57-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r_tGl4zF1ZQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-quickly-connect-to-windows-vms-using-rdp-azure-tips-and-tricks.md",
-      "title": "How to quickly connect to Windows VMs using RDP | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to quickly connect to Windows Virtual Machines (VMs) with Remote Desktop Protocol (RDP). Watch how easy and fast it is to connect to your virtual machines in Azure.   For more tips and tricks, visit: http://azuredev.tips/  Get started with 12",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-quickly-connect-to-windows-vms-using-rdp-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-quickly-connect-to-windows-vms-using-rdp-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=RXS9F7yy4A8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RXS9F7yy4A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-14T09:49:00-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RXS9F7yy4A8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-share-sql-tables-and-views-using-azure-data-share-azure-friday.md",
-      "title": "How to share SQL tables and views using Azure Data Share | Azure Friday",
-      "excerpt": "Jie Feng joins Scott Hanselman to show how to share SQL tables and views using Azure Data Share. Azure Data Share now supports snapshot-based sharing for SQL-based sources, including Azure SQL Database and SQL Data Warehouse. Data Providers can use Azure Data Share to share tables and views with their",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-share-sql-tables-and-views-using-azure-data-share-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-share-sql-tables-and-views-using-azure-data-share-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=a-21ryrpOFY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a-21ryrpOFY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M41S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-29T07:03:52-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/a-21ryrpOFY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-troubleshoot-common-virtual-machine-issues-azure-portal-series.md",
-      "title": "How to troubleshoot common virtual machine issues | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, learn how to troubleshoot common virtual machine issues using the diagnose and solve experience of the Azure Portal.    Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-troubleshoot-common-virtual-machine-issues-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-troubleshoot-common-virtual-machine-issues-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=MAJrN-2IPY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MAJrN-2IPY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M12S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-12-19T09:00:10-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MAJrN-2IPY8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-use-azure-functions-and-secure-configuration-with-azure-key-vault-azure-tips-and-tricks.md",
-      "title": "How to use Azure Functions and secure configuration with Azure Key Vault | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to use secure configuration for Azure Functions with Azure Key Vault.  For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-use-azure-functions-and-secure-configuration-with-azure-key-vault-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-use-azure-functions-and-secure-configuration-with-azure-key-vault-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=6HKj5hOuD00",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6HKj5hOuD00\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M52S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-26T08:16:32-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6HKj5hOuD00/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks.md",
-      "title": "How to use Azure Monitor Application Insights to record custom events | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Azure Monitor Application Insights to make your application logging smarter with Custom Event Tracking.   For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=iTRILNstmFI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iTRILNstmFI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M56S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-19T08:12:44-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iTRILNstmFI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-use-the-azure-activity-log-azure-portal-series.md",
-      "title": "How to use the Azure Activity Log | Azure Portal Series",
-      "excerpt": "The Azure Activity Log informs you of the who, the what and the when for operations in your Azure resources. In this video of the Azure Portal “How To” Series, learn what activity logs are in the Azure Portal, how to access it, and how to make use of them.   Try out these features in the Azure portal:",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-use-the-azure-activity-log-azure-portal-series/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-use-the-azure-activity-log-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=ACVpH6C_NL8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ACVpH6C_NL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M9S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-03T10:04:36-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ACVpH6C_NL8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday.md",
-      "title": "Implement serverless APIs with Azure Functions and Azure API Management | Azure Friday",
-      "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly deploy and manage your Serverless API's using OpenAPI and API Management.  0:00 – Overview 0:40 – OpenAPI definition (fka Swagger) 2:15 – Using API Management to build an OpenAPI definition 3:48 – Reviewing the generated OpenAPI definition",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=4fPRxveXGXw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fPRxveXGXw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-01T09:48:59-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4fPRxveXGXw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Integration"
       ]
     }
   ],

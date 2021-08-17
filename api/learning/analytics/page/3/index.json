@@ -4,6 +4,97 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deep-learning-with-horovod-distributed-training.md",
+      "title": "Deep learning with Horovod for distributed training",
+      "excerpt": "Deep learning with Horovod for distributed training",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deep-learning-with-horovod-distributed-training/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deep-learning-with-horovod-distributed-training/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 96,
+        "average": 4.1354165
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deep-learning-with-horovod-distributed-training-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-event-driven-real-time.md",
+      "title": "Build a real-time event-driven Java solution on Azure",
+      "excerpt": "Send event based telemetric data in real time to Cosmos DB using Azure Functions and Event Hub.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-event-driven-real-time/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-real-time-event-driven-app/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 37,
+        "average": 4.5675673
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Analytics",
+        "Databases",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-describe-azure-databricks-best-practices.md",
       "title": "Describe Azure Databricks best practices",
       "excerpt": "Describe Azure Databricks best practices",
@@ -1201,85 +1292,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-object-detection-lva-edge-device.md",
-      "title": "Object detection on Edge devices with Live Video Analytics using YOLO model",
-      "excerpt": "This module helps learner to deploy object detection solution using Live Video Analytics on IoT Edge.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-object-detection-lva-edge-device/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/object-detection-iot-edge-live-video-analytics/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 5,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-operationalize-your-azure-data-factory-pipelines.md",
-      "title": "Operationalize your Azure Data Factory or Azure Synapse Pipeline",
-      "excerpt": "Operationalize your Azure Data Factory or Azure Synapse Pipeline",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-operationalize-your-azure-data-factory-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/operationalize-azure-data-factory-pipelines/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 188,
-        "average": 4.4680853
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/operationalize-your-azure-data-factory-pipelines-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

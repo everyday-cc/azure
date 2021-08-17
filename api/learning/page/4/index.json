@@ -4,83 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-azure-virtual-machines.md",
-      "title": "Introduction to Azure virtual machines",
-      "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 21928,
-        "average": 4.7091846
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 66,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-azure-resources-tools.md",
-      "title": "Configure Azure resources with tools",
-      "excerpt": "You will learn how to select a tooling option such as Azure portal, Azure PowerShell, Azure CLI, or Azure Cloud Shell.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-resources-tools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-resources-tools/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 196,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-administer-containers-in-azure.md",
       "title": "Administer containers in Azure",
       "excerpt": "With this learning path, you'll create and manage your Azure Container Instances, and see how they can be used to provide elastic scale for Kubernetes.",
@@ -371,8 +294,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machine-extensions/",
           "length": "PT18M",
           "ratings": {
-            "count": 22,
-            "average": 4.7272725
+            "count": 23,
+            "average": 4.7391305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -432,7 +355,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -502,8 +425,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-active-directory/",
           "length": "PT27M",
           "ratings": {
-            "count": 63,
-            "average": 4.6825395
+            "count": 64,
+            "average": 4.6875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -714,8 +637,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 899,
-            "average": 4.8509455
+            "count": 900,
+            "average": 4.85
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1103,8 +1026,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 16479,
-        "average": 4.7009525
+        "count": 16482,
+        "average": 4.7010074
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1139,8 +1062,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
       "length": "PT44M",
       "ratings": {
-        "count": 7916,
-        "average": 4.724735
+        "count": 7919,
+        "average": 4.724713
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1182,8 +1105,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 5123,
-        "average": 4.833496
+        "count": 5124,
+        "average": 4.8335285
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1225,8 +1148,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 3666,
-        "average": 4.8126025
+        "count": 3669,
+        "average": 4.8127556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1339,6 +1262,199 @@
         "Azure",
         "Management tools",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-azure-portal-how-to-series.md",
+      "title": "Azure Portal “How To” Series",
+      "excerpt": "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-azure-portal-how-to-series/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-azure-portal-how-to-series/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-how-to-organize-subscriptions-with-management-groups.md",
+          "title": "How to organize subscriptions with Management Groups",
+          "excerpt": "In this episode of the Azure Portal “How-to” series, learn the benefits of organizing your subscriptions into a hierarchal structure of management groups. We’ll show you how to create management groups to group and govern subscription activity, policies, security, role assignments and cost.    - Try",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-organize-subscriptions-with-management-groups/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-organize-subscriptions-with-management-groups/",
+          "originalUrl": "https://youtube.com/watch?v=4v9_6duE25s",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4v9_6duE25s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M56S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-01T09:24:20-07:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/4v9_6duE25s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management tools"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-capture-a-vm-image-and-use-it-from-the-image-gallery.md",
+          "title": "How to capture a VM image and use it from the image gallery",
+          "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to create an image from your virtual machine. We’ll show how you can then use that image to create more virtual machines and replicate the image across Microsoft Azure regions.    - Try out these features in the Azure portal: https://portal.azure.com",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-capture-a-vm-image-and-use-it-from-the-image-gallery/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-capture-a-vm-image-and-use-it-from-the-image-gallery/",
+          "originalUrl": "https://youtube.com/watch?v=ukqbeiejLYE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ukqbeiejLYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M9S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-06-24T16:45:44-07:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ukqbeiejLYE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management tools"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-quick-command-tips-for-copying-pasting-and-more.md",
+          "title": "Quick command tips for copying, pasting, and more",
+          "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to quickly and easily copy the current view's title, print the current view, or go full screen increasing focus on the current view.   - Try out these features in the Azure portal: https://portal.azure.com  - Keep connected on Twitter: https://twitter.com/AzurePortal",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-quick-command-tips-for-copying-pasting-and-more/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-quick-command-tips-for-copying-pasting-and-more/",
+          "originalUrl": "https://youtube.com/watch?v=bSjGzCtFXZA",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bSjGzCtFXZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M22S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-06-17T09:07:35-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/bSjGzCtFXZA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management tools"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks.md",
+          "title": "How to build a graph and use links in Azure Workbooks",
+          "excerpt": "In this episode of the Azure Portal “How-to” series, learn how to create a hive cluster in Microsoft Azure workbooks for high-density views and how to use links in workbooks to show other workbooks or to reference Azure portal blades.    - Try out these features in the Azure portal: https://portal.azure.com",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-build-a-graph-and-use-links-in-azure-workbooks/",
+          "originalUrl": "https://youtube.com/watch?v=ODHczGpGmEQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ODHczGpGmEQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT11M20S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-06-10T09:09:17-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ODHczGpGmEQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management tools"
+          ]
+        }
+      ],
+      "size": 57,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4v9_6duE25s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure",
+        "Management tools"
       ]
     },
     {
@@ -1792,8 +1908,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43821,
-            "average": 4.7201343
+            "count": 43822,
+            "average": 4.7201405
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1871,8 +1987,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 1352,
-            "average": 4.760355
+            "count": 1353,
+            "average": 4.7605324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2523,8 +2639,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
           "length": "PT29M",
           "ratings": {
-            "count": 507,
-            "average": 4.820513
+            "count": 508,
+            "average": 4.820866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2585,8 +2701,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 4394,
-        "average": 4.8331814
+        "count": 4396,
+        "average": 4.8332577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2627,8 +2743,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 5585,
-        "average": 4.8356314
+        "count": 5586,
+        "average": 4.8356605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2669,8 +2785,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 8668,
-        "average": 4.7346563
+        "count": 8669,
+        "average": 4.734687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3056,8 +3172,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 445,
-            "average": 4.757303
+            "count": 446,
+            "average": 4.7578473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3228,8 +3344,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 9630,
-            "average": 4.8082037
+            "count": 9633,
+            "average": 4.8082633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3399,8 +3515,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 14200,
-            "average": 4.7652817
+            "count": 14208,
+            "average": 4.7654138
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3617,8 +3733,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 3121,
-            "average": 4.6504326
+            "count": 3122,
+            "average": 4.6505446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4234,6 +4350,194 @@
         "Azure",
         "IoT",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-one-dev-question-on-azure.md",
+      "title": "One Dev Question on Azure",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-one-dev-question-on-azure/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-one-dev-question-on-azure/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal.md",
+          "title": "The relationship between an authorization request and tokens | One Dev Question: Hirsch Singhal",
+          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains how authorization requests are connected to access tokens and refresh tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols?WT.mc_id=onedevquestion-c9-AzureIdent",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/",
+          "originalUrl": "https://youtube.com/watch?v=jEEwN7XAtUo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jEEwN7XAtUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M46S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-07-01T08:04:20-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero.md",
+          "title": "What types of managed identities exist? | One Dev Question: Arturo Lucatero",
+          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on managed identities for Azure resources, explains the different types of managed identities in the Microsoft identity platform.   For more information, visit: https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/",
+          "originalUrl": "https://youtube.com/watch?v=OzqpxeD3fG0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzqpxeD3fG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M10S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-30T08:05:33-07:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/OzqpxeD3fG0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal.md",
+          "title": "The difference between, ID, access, refresh, and session tokens? | One Dev Question: Hirsch Singhal",
+          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains the difference between identity, access, refresh, and session tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/access-tokens?WT.mc_id=onedevquestion-c9-AzureIdent",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/",
+          "originalUrl": "https://youtube.com/watch?v=41vmzPdbfXM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/41vmzPdbfXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M11S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-29T08:03:22-07:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/41vmzPdbfXM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero.md",
+          "title": "What types of Azure RBAC role definitions exist? | One Dev Question: Arturo Lucatero",
+          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on Azure role-based access control (RBAC), explains the various types of Azure role-based access control definitions.    For more information, visit: https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/",
+          "originalUrl": "https://youtube.com/watch?v=I1mefHptRgo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I1mefHptRgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M25S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-25T08:03:44-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/I1mefHptRgo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 65,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure"
       ]
     }
   ],

@@ -4,14 +4,386 @@
   "page": 49,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-safeguard-data-sector.md",
-      "title": "Safeguard public sector data with Azure",
-      "excerpt": "Conceptual introduction to data residency and sovereignty and overview of the options provided by Azure for public agencies to protect their data in the cloud.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-safeguard-data-sector/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/safeguard-data-sector/",
-      "length": "PT42M",
+      "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-eclipse.md",
+      "title": "Publish a web app to Azure by using Azure Toolkit for Eclipse",
+      "excerpt": "Create a web app in Eclipse and deploy the app to Azure by using Azure Toolkit for Eclipse.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-eclipse/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-azure-toolkit-eclipse/",
+      "length": "PT49M",
       "ratings": {
-        "count": 6,
+        "count": 15,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-azure-web-app-with-azure-toolkit-eclipse-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-intellij.md",
+      "title": "Publish a web app to Azure by using Azure Toolkit for IntelliJ",
+      "excerpt": "In this module, you will learn how to use Azure to host your Java web apps, built by using IntelliJ IDEA.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-intellij/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-azure-toolkit-intellij/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 22,
+        "average": 4.7272725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-a-web-app-to-azure-by-using-azure-toolkit-for-intellij-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio.md",
+      "title": "Publish a web app to Azure with Visual Studio",
+      "excerpt": "Learn how to use Azure App Service to create a new ASP.NET-based web app, then publish and update directly from Visual Studio.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 3658,
+        "average": 4.6869874
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-express-node-app-service-vscode.md",
+      "title": "Create and publish a web application with Azure App Service and Visual Studio Code",
+      "excerpt": "In this module, you'll learn how to create and publish webapps to Azure App Service from Visual Studio Code.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-express-node-app-service-vscode/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-publish-webapp-app-service-vs-code/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 43,
+        "average": 4.8139534
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet.md",
+      "title": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
+      "excerpt": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api-dotnet/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 198,
+        "average": 4.757576
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-and-api-dotnet-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api.md",
+      "title": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps",
+      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps. Use Visual Studio Code to create and run the web app locally.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 528,
+        "average": 4.7007575
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-static-web-app-api-preview-url.md",
+      "title": "Publish an API to Azure Static Web Apps",
+      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-api-preview-url/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-api-preview-url/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 116,
+        "average": 4.6551723
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-api-preview-url-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-static-web-app-authentication.md",
+      "title": "Authenticate users with Azure Static Web Apps",
+      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with API and authentication using Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-authentication/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-authentication/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 47,
+        "average": 4.5531917
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-authentication-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-python-flask-build-ai-web-app.md",
+      "title": "Build an AI web app by using Python and Flask",
+      "excerpt": "Use Python, Flask, and Azure Cognitive Services to build a web app that incorporates AI",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-python-flask-build-ai-web-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 812,
+        "average": 4.7684727
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-python-object-oriented-programming.md",
+      "title": "Object-oriented programming in Python",
+      "excerpt": "Learn more about object-oriented programming with this next-steps module in Python.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-python-object-oriented-programming/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 777,
         "average": 4.6666665
       },
       "provider": {
@@ -30,78 +402,23 @@
         "Beginner"
       ],
       "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Identity",
-        "Security",
-        "DevOps",
-        "Management Tools"
+        "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-sap-hana-azure-compute-network-storage.md",
-      "title": "SAP HANA on Azure Compute, Network, and Storage",
-      "excerpt": "AP HANA on Azure (Large Instances) provides virtual machines for deploying and running SAP HANA. This module explores the SAP HANA on Azure (Large Instances) solution that builds on assigned, non -shared host/server bare -metal hardware.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-sap-hana-azure-compute-network-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/sap-hana-azure-compute-network-storage/",
-      "length": "PT52M",
+      "path": "_learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit.md",
+      "title": "Create your first Q# program by using the Quantum Development Kit",
+      "excerpt": "Get started with Q# programming by building a quantum random number generator.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/",
+      "length": "PT48M",
       "ratings": {
-        "count": 621,
-        "average": 4.7665057
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/sap-hana-azure-compute-network-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-save-money-with-azure-reserved-instances.md",
-      "title": "Save money with Azure Reserved Instances",
-      "excerpt": "Learn how to use plan for, buy, and manage Azure reservations to save money.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-save-money-with-azure-reserved-instances/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/save-money-with-azure-reserved-instances/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 185,
-        "average": 4.7405405
+        "count": 398,
+        "average": 4.80402
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -121,7 +438,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/save-money-with-azure-reservations-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/quantum/qsharp-create-first-quantum-development-kit-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -131,63 +448,19 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-scan-open-source.md",
-      "title": "Scan open source components for vulnerabilities and license ratings in Azure Pipelines",
-      "excerpt": "Scan open-source components for security vulnerabilities and assess their license ratings when your application builds in Azure Pipelines.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-scan-open-source/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scan-open-source/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 2027,
-        "average": 4.7148495
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-security-and-compliance-in-your-build-pipeline-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps",
         "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-schedule-tasks-using-sql-server-agent.md",
-      "title": "Schedule tasks using SQL Server Agent",
-      "excerpt": "Explore SQL automation for scheduled tasks and automatic alerts for SQL Server and Managed Instance. Configure extended event sessions for tracing activities.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-schedule-tasks-using-sql-server-agent/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/schedule-tasks-using-sql-server-agent/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing.md",
+      "title": "Explore the key concepts of quantum computing by using Q#",
+      "excerpt": "Learn the fundamental concepts of quantum computing by using tools in Q# and the Quantum Development Kit.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-explore-key-concepts-quantum-computing/",
+      "length": "PT58M",
       "ratings": {
-        "count": 143,
-        "average": 4.6293707
+        "count": 100,
+        "average": 4.77
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -202,12 +475,12 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/schedule-tasks-using-sql-server-agent-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/quantum/qsharp-explore-key-concepts-quantum-computing-social.png",
           "width": 642,
           "height": 321,
           "isCached": true
@@ -217,365 +490,19 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-sci-asc.md",
-      "title": "Improve your cloud security posture with Azure Security Center",
-      "excerpt": "Learn how you can strengthen your security posture through Azure Security Center.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-sci-asc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-security-azure-security-center/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 438,
-        "average": 4.8333335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-search-for-content-security-compliance-center.md",
-      "title": "Search for content in the Microsoft 365 compliance center",
-      "excerpt": "Search for content in the Microsoft 365 compliance center",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-search-for-content-security-compliance-center/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/search-for-content-security-compliance-center/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 6,
-        "average": 4.8333335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-search-organize-repository-history-github.md",
-      "title": "Search and organize repository history by using GitHub",
-      "excerpt": "Learn to search and organize repository history by using filters, blame, and cross-linking on GitHub.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-search-organize-repository-history-github/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/search-organize-repository-history-github/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 628,
-        "average": 4.8009553
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/search-organize-repository-history-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
         "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
-      "title": "Secure your application by using OpenID Connect and Azure AD",
-      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 2739,
-        "average": 4.6768894
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-aspnet-core-identity.md",
-      "title": "Secure an ASP.NET Core web app with the Identity framework",
-      "excerpt": "Add authentication and authorization to an ASP.NET Core web app using the Identity framework.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-aspnet-core-identity/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
-      "length": "PT1H8M",
-      "ratings": {
-        "count": 1323,
-        "average": 4.5086923
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/secure-aspnet-core-identity-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-cloud-resources.md",
-      "title": "Secure your cloud resources with access control",
-      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about digital identities and how they can be managed and synchronized within an organization.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-cloud-resources/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-secure-cloud-resources/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 301,
-        "average": 4.707641
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/secure-cloud-resources-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-cognitive-services.md",
-      "title": "Secure Cognitive Services",
-      "excerpt": "Learn how to secure Cognitive Services to prevent data loss and privacy violations for user data that may be a part of the solution.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-cognitive-services/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 79,
-        "average": 4.759494
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-cognitive-services-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-data-at-rest.md",
-      "title": "Introduction to securing data at rest on Azure",
-      "excerpt": "Identify the data in your organization and store it on Azure. Store secrets securely, and use client-side encryption and Storage Service Encryption to help protect your data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-data-at-rest/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/",
+      "path": "_learning/courses/microsoft-learn-query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics.md",
+      "title": "Query Azure Cosmos DB with Apache Spark for Azure Synapse Analytics",
+      "excerpt": "Query Azure Cosmos DB with Apache Spark for Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics/",
       "length": "PT30M",
       "ratings": {
-        "count": 386,
-        "average": 4.7098446
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-data-at-rest-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Storage",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-data-manage-users-azure-synapse-serverless-sql-pools.md",
-      "title": "Secure data and manage users in Azure Synapse serverless SQL pools",
-      "excerpt": "Secure data and manage users in Azure Synapse serverless SQL pools",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-data-manage-users-azure-synapse-serverless-sql-pools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-manage-users-azure-synapse-serverless-sql-pools/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 49,
-        "average": 4.7959185
+        "count": 61,
+        "average": 4.6885247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -595,7 +522,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-data-and-manage-users-in-azure-synapse-serverless-sql-pools-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -607,19 +534,19 @@
       "topics": [
         "Azure",
         "Analytics",
-        "Serverless"
+        "Databases"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics.md",
-      "title": "Secure a data warehouse in Azure Synapse Analytics",
-      "excerpt": "Secure a data warehouse in Azure Synapse Analytics",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-warehouse-azure-synapse-analytics/",
-      "length": "PT30M",
+      "path": "_learning/courses/microsoft-learn-query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics.md",
+      "title": "Query Azure Cosmos DB with SQL Serverless for Azure Synapse Analytics",
+      "excerpt": "Query Azure Cosmos DB with SQL Serverless for Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics/",
+      "length": "PT21M",
       "ratings": {
-        "count": 125,
-        "average": 4.592
+        "count": 82,
+        "average": 4.695122
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -639,9 +566,54 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-a-data-warehouse-in-azure-synapse-analytics-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-query-azure-sql-data-warehouse.md",
+      "title": "Query data in Azure Synapse Analytics",
+      "excerpt": "Learn how to issue simple queries against Azure Synapse Analytics and how to visualize the data in both Excel and Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-azure-sql-data-warehouse/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-sql-data-warehouse/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 1505,
+        "average": 4.6392026
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/query-azure-sql-data-warehouse-badge-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -654,15 +626,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-responsible-conversational-ai.md",
-      "title": "Discover Microsoft safety guidelines for responsible conversational AI development",
-      "excerpt": "Learn Microsoft development guidelines for fair and secure responsible conversational AI.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-responsible-conversational-ai/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-responsible-conversational-ai/",
-      "length": "PT36M",
+      "path": "_learning/courses/microsoft-learn-query-data-lake-using-azure-synapse-serverless-sql-pools.md",
+      "title": "Query data in the lake using Azure Synapse serverless SQL pools",
+      "excerpt": "Query data in the lake using Azure Synapse serverless SQL pools",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-data-lake-using-azure-synapse-serverless-sql-pools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-data-lake-using-azure-synapse-serverless-sql-pools/",
+      "length": "PT46M",
       "ratings": {
-        "count": 19,
-        "average": 4.894737
+        "count": 45,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -682,9 +654,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-responsible-conversational-ai-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/query-data-in-the-lake-using-azure-synapse-serverless-sql-pools-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -693,19 +665,20 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "Analytics",
+        "Serverless"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-vms-with-security-center.md",
-      "title": "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center",
-      "excerpt": "Stop hackers from getting into your Windows and Linux servers. In this module, you’ll discover how to protect VMs and servers with Azure Security Center",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-vms-with-security-center/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-query-data-sentinel.md",
+      "title": "Query, visualize, and monitor data in Azure Sentinel",
+      "excerpt": "Describe how to query, visualize, and monitor data in Azure Sentinel.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-data-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-data-sentinel/",
+      "length": "PT48M",
       "ratings": {
-        "count": 192,
-        "average": 4.7552085
+        "count": 129,
+        "average": 4.713178
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -720,14 +693,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-vms-with-azure-security-center-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/query-data-sentinel-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -740,104 +713,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-securing-you-basics-beyond.md",
-      "title": "Securing you: Basics and beyond",
-      "excerpt": "Learn how to secure yourself from common online threats and protect your identity at work and home.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-securing-you-basics-beyond/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securing-you-basics-beyond/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-query-logs-azure-sentinel.md",
+      "title": "Query logs in Azure Sentinel",
+      "excerpt": "Query logs in Azure Sentinel",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-logs-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-logs-azure-sentinel/",
+      "length": "PT18M",
       "ratings": {
-        "count": 42,
-        "average": 4.857143
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/security/securing-you-basics-beyond-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-send-crop-weather-alerts.md",
-      "title": "Help remote farmers protect their crops with text message weather alerts using Azure Functions",
-      "excerpt": "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-send-crop-weather-alerts/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-crop-weather-alerts/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 17,
-        "average": 4.352941
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web",
-        "Serverless",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-send-location-over-sms-from-mobile-using-azure-functions-twilio.md",
-      "title": "Share your location as a text message using Azure Functions and Twilio",
-      "excerpt": "Learn how to use location tracking on your phone mixed with Azure Functions and Twilio to share your location with your friends as a text message.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-send-location-over-sms-from-mobile-using-azure-functions-twilio/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-location-over-sms-using-azure-functions-twilio/",
-      "length": "PT1H9M",
-      "ratings": {
-        "count": 39,
-        "average": 4.769231
+        "count": 276,
+        "average": 4.771739
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -855,46 +739,9 @@
         "Intermediate"
       ],
       "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-serve-data-from-azure-synapse-serverless-sql-pool.md",
-      "title": "Serve the data from Azure Synapse serverless SQL pool",
-      "excerpt": "Serve the data from Azure Synapse serverless SQL pool",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-serve-data-from-azure-synapse-serverless-sql-pool/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serve-data-from-azure-synapse-serverless-sql-pool/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 34,
-        "average": 4.647059
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/serve-the-data-from-azure-synapse-serverless-sql-pool-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -905,193 +752,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
-        "Serverless"
+        "Security"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-set-up-cors-website-storage.md",
-      "title": "Core Cloud Services - Set up CORS for your website and storage assets",
-      "excerpt": "Set up Cross-Origin Resource Sharing (CORS) for your Azure website and storage assets in order to allow cross-domain access to your resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-set-up-cors-website-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-cors-website-storage/",
-      "length": "PT60M",
+      "path": "_learning/courses/microsoft-learn-query-multiple-tables-with-joins.md",
+      "title": "Combine multiple tables with JOINs in T-SQL",
+      "excerpt": "Combine multiple tables with JOINs in T-SQL",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-multiple-tables-with-joins/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
+      "length": "PT1H2M",
       "ratings": {
-        "count": 103,
-        "average": 4.737864
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/setup-cors-for-your-website-and-storage-assets-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-set-up-mixed-reality-azure-digital-twins-unity.md",
-      "title": "Set up a mixed reality project for Azure Digital Twins in Unity",
-      "excerpt": "Get step-by-step guidance on how to set up and configure a mixed reality project in Unity for HoloLens 2. Learn about the Azure Digital Twins and SignalR services and common use cases for the Azure platform in Mixed Reality.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-set-up-mixed-reality-azure-digital-twins-unity/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-mixed-reality-azure-digital-twins-unity/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 26,
-        "average": 4.8461537
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/set-up-mixed-reality-azure-digital-twins-unity-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "IoT",
-        "Integration",
-        "Analytics",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central.md",
-      "title": "Set up rules and take action on telemetry data in Azure IoT Central",
-      "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 243,
-        "average": 4.6255145
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-shift-express-api-azure-functions.md",
-      "title": "Refactor Node.js and Express APIs to Serverless APIs with Azure Functions",
-      "excerpt": "Refactor Node.js and Express APIs from a server-based architecture to serverless APIs with Azure Functions. Create a new Azure Functions application with TypeScript/JavaScript using Visual Studio Code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-shift-express-api-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/shift-nodejs-express-apis-serverless/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 121,
-        "average": 4.785124
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-simplify-cloud-procurement-governance-azure-marketplace.md",
-      "title": "Simplify cloud procurement and governance with Azure Marketplace",
-      "excerpt": "Overview of using Azure Marketplace for cloud procurement and governance for customers",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-simplify-cloud-procurement-governance-azure-marketplace/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simplify-cloud-procurement-governance-azure-marketplace/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 36,
-        "average": 4.9166665
+        "count": 137,
+        "average": 4.8248177
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1121,87 +794,20 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Databases"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-simulate-distribution-regression-coefficients.md",
-      "title": "Simulate the distribution of regression coefficients",
-      "excerpt": "Learn",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-simulate-distribution-regression-coefficients/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simulate-distribution-regression-coefficients/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-react-to-state-changes-using-event-grid.md",
+      "title": "React to state changes in your Azure services by using Event Grid",
+      "excerpt": "Build a serverless application architecture, automate your operations, and integrate applications by handling Azure events with Event Grid.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-react-to-state-changes-using-event-grid/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/",
+      "length": "PT33M",
       "ratings": {
-        "count": 76,
-        "average": 4.736842
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-simulate-generate-empirical-distributions-python.md",
-      "title": "Simulate and generate empirical distributions in Python",
-      "excerpt": "Learn how to simulate and generate empirical distributions in Python",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-simulate-generate-empirical-distributions-python/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simulate-generate-empirical-distributions-python/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 100,
-        "average": 4.74
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-solve-graph-coloring-problems-grovers-search.md",
-      "title": "Solve graph coloring problems by using Grover's search",
-      "excerpt": "Learn how Grover's algorithm can help you solve search problems such as graph coloring problems.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-solve-graph-coloring-problems-grovers-search/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/solve-graph-coloring-problems-grovers-search/",
-      "length": "PT2H34M",
-      "ratings": {
-        "count": 56,
-        "average": 4.75
+        "count": 657,
+        "average": 4.5920854
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1221,9 +827,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/quantum/solve-graph-coloring-problems-grovers-search-social.png",
-          "width": 642,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/react-to-state-changes-using-event-grid-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -1231,19 +837,394 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Integration",
+        "IoT",
+        "Blockchain"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-solve-job-shop-optimization-azure-quantum.md",
-      "title": "Solve a job shop scheduling optimization problem by using Azure Quantum",
-      "excerpt": "Learn how to use Azure Quantum's optimization service to solve a job shop scheduling problem.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-solve-job-shop-optimization-azure-quantum/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/solve-job-shop-optimization-azure-quantum/",
-      "length": "PT50M",
+      "path": "_learning/courses/microsoft-learn-read-text-images-documents-with-computer-vision-service.md",
+      "title": "Read Text in Images and Documents with the Computer Vision Service",
+      "excerpt": "Azure's Computer Vision service uses advanced algorithms to process images and return information based on the visual features you're interested in. This module teaches you how to use the Azure Computer Vision's OCR API and Read API.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-read-text-images-documents-with-computer-vision-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-images-documents-with-computer-vision-service/",
+      "length": "PT36M",
       "ratings": {
-        "count": 23,
-        "average": 4.826087
+        "count": 28,
+        "average": 4.642857
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-read-write-data-azure-databricks.md",
+      "title": "Read and write data in Azure Databricks",
+      "excerpt": "Read and write data in Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-read-write-data-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 610,
+        "average": 4.5770493
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/read-write-data-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-recognize-voices-with-speaker-recognition.md",
+      "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
+      "excerpt": "This module guides you through learning about speaker recognition and how to use the Speaker Recognition APIs to identify specific people through their voices.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-recognize-voices-with-speaker-recognition/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-voices-with-speaker-recognition/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 929,
+        "average": 4.4940796
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/recognize-voices-with-speaker-recognition-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer Tools",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-recommend-system-feedback-mechanisms.md",
+      "title": "Recommend and design system feedback mechanisms",
+      "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-recommend-system-feedback-mechanisms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 392,
+        "average": 4.6734695
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-register-and-deploy-model-with-amls.md",
+      "title": "Deploy real-time machine learning services with Azure Machine Learning",
+      "excerpt": "Learn how to register and deploy ML models as real-rim services with the Azure Machine Learning service.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-register-and-deploy-model-with-amls/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 1486,
+        "average": 4.653432
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/register-and-deploy-model-with-amls-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service.md",
+      "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 64,
+        "average": 4.734375
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-remediate-azure-defender-security-alerts.md",
+      "title": "Remediate security alerts using Azure Defender",
+      "excerpt": "Remediate security alerts using Azure Defender",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-remediate-azure-defender-security-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 324,
+        "average": 4.8487654
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub.md",
+      "title": "Remotely monitor and control devices with Azure IoT Hub",
+      "excerpt": "Create an IoT Hub device app, and a back-end service app. As a scenario, we use the monitoring, and controlling, of the temperature and humidity of a cheese cave.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 351,
+        "average": 4.6951566
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment.md",
+      "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/",
+      "length": "PT1H10M",
+      "ratings": {
+        "count": 86,
+        "average": 4.72093
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-render-a-model-with-azure-remote-rendering-and-unity.md",
+      "title": "Render a model with Azure Remote Rendering",
+      "excerpt": "Create an Azure Remote Rendering session and render a 3D model.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-render-a-model-with-azure-remote-rendering-and-unity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/render-model-azure-remote-rendering-unity/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 20,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",

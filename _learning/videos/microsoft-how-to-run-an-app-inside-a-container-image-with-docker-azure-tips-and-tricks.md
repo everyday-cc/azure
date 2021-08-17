@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M8S
 publishedDateTime: 2019-07-16T22:13:45Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lpr2tO-FCEw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "m8ZEsvgCk4UNKBdmWMwtK1LLvYwA086GX1nMXc7tEAU9J1/6qOsaMnMkTD58xio1w4dBLaJC64WszEPltuMLNgVlyZVHrAqjkxwf9BU+750si8ED57yeSFORcgyOVg1Gkr/3ETLYdbtT+HmYa7SVpDesLDTydU+nt8mFDS9g1SQgG1Ix+DTGQ2igwgnxcVDvOy46bxKjblk4roSPBHfhZzUo9YAf64c802a8VEJJmIEHnCHRJPti6fgCN1pOt6O5qC3xSezxkjq8aMvKbDO3C/mfI0uXutL1Dd0i0BqmQo3cTPkDL3JALwi7NbPsGi2vlajYu5oKJykOdKoK5doA+wcUtmnBJM8BggKT8DlcqFxHuXPvfw4SqrY174pqxwPFvncJzXi0sTAtnT8n9AEfZlLCP3PB2GyI6k+ne2wp+98=;uMpu8zxoIlGMOYZv7gwYUg=="
+secured: "6FvM8uhKjVz1VPN+bkSGKsxCPVRPU9m/iDy8YvwSm+MX7pbBxl+/4XEAKkyMFwNlIJDTcX72q4i+n40cHrJmj2fFKNaUBCxPrzILLH1UmqlGw6IVzYiAFH7TBz/FnNk8Di0KWkTaenlQAbf6ffqyFVCOuPTUvKkJAIx+/s+NRl6J4MJ4rrpfbvStee2XhbFV/Ojhi1xU7NRTVunkkftn5yWECX9MHyj5xLxp8syl41laIiyeOHFAKcilb+XD5Fh9rEyU/bs8mNC3F4ilqB0NwVFOfFiaPFE8dfJWo36CHx3eA2SYVMVCe8Ynyd4eNh8AfngdtAWd9n3n6JuSC3AmWnS9HJUhHcxNSIxTw6e4BLdaurebhmgXHKIcl1/aD+bV4Bf63j0D5gvwZMThn6vVDBiS07bxBxMvfdWisbD43iQ=;KjF+zwlvXbEWfJDWdJYDqA=="
 ---
 
