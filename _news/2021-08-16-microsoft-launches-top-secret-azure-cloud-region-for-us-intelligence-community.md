@@ -43,6 +43,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
+  - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
+    excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
+    publishedDateTime: 2021-08-17T12:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 49
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "z1k41QHkfa3cpyKv8HnXNpX5RQvWT7xNp5JLZOKQyfKOTp/RMr1R1b548/vJe7SHvJDadY5U6LxVS2fzldySNEPKOde1/xII2FFlgMZ3VFDmj+I0nazuNTCNKuLl1fq43BtZBeuF7d4+vDBEXmygsIJQAmsiOhcAFGR+X+6l4x2Rfi7PqEd+1AYpfrWK84XAic4S1vA4Wee2z+dQa0jCXTjsBcONc8DRCCEJSnukervPL0gYwDHIbZhZksTL/Dx88BnzRGvkSam1DJePuRBwYh49ddoh7/BhGggvBBfrw6quEW/QgAdyxHhiNisGilKisoKSCKIfYHgRmYSyyLjCW7ux60Kdsyp83i6lhPv/5HE=;lBDgqFGZl7+r+bc6c1gafQ=="
 ---

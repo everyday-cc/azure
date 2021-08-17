@@ -1,18 +1,18 @@
 ---
 category: news
-title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
-excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."
-publishedDateTime: 2021-08-04T12:32:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
-webUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
+title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
+excerpt: "Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC,"
+publishedDateTime: 2021-08-17T13:53:00Z
+originalUrl: "https://www.design-reuse.com/news/50459/xpeedic-eda-cloud-platform-microsoft-azure.html"
+webUrl: "https://www.design-reuse.com/news/50459/xpeedic-eda-cloud-platform-microsoft-azure.html"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
   - Azure
@@ -138,15 +138,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
-    excerpt: "Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC,"
-    publishedDateTime: 2021-08-17T13:53:00Z
-    webUrl: "https://www.design-reuse.com/news/50459/xpeedic-eda-cloud-platform-microsoft-azure.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 17
   - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
     excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Police Service (the Met) and Microsoft Azure to ..."
     publishedDateTime: 2021-08-09T12:09:00Z
@@ -161,7 +152,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
+    excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."
+    publishedDateTime: 2021-08-04T12:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210804005258/en/IronNet-Announces-Expanded-Support-for-Cyber-Threat-Detection-and-Management-in-Microsoft-Azure-Environments"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "D4XhxN9SLuOUkqLkRXvuPAM9ZtREpz6VY1gFUU99z1EfXPewpX4PL/5AsgHLzDoyG4fjglSJo1K4cDdnkId6Qblx+Sitwv0hnj2nlPulUjx5vrgwYgDx1XgGWub7F10rBcfZFbNT3+1BO5V0iyyHXYOj+dtZm3BHJO2J5vCNOn2ntflyhzvY5ORRCHpFXxaNuVoM9q25WDf9mmAyGA88oSvCFDUU5wFTN3L1kQJrrAzxDgQ2TCSP2loG8w5cjV8tg+5wMAZndXBcjeZWof6qPHlpjYNOv0HvoFCMt0Wi3/TYS1Pbpc0olTL+CjwNoegofIvHkkPvZ/wCWPhP7Yl8WUm3bOeObwa9392WAj3xlK8=;pYKHYvu8azTt01GTYIqUdg=="
+secured: "BnSccobs0OAN6pU5CvLjskDEEPoA2wXXJccA5lDGf/fe9C+Tks+2eV6B++R0P+s9ig2du89aZGF+ExXI8NA5qCqzeearyHMTMRj5MssSNlk2KXyoV31X+eo1HtEZHxsBfLJQUBdaw/ZUg2JAJAuFbGWpHhh2tmwVKj+8ZNpIrF3LgLfHkUHU3Ck+liIK1f2ifTGM71h8AXEkBL0O524rdfV/NrGwy/x2d2vEU1QnYgEJzQfSmfsu1O+c6Bsyzlqj6+9s2GY6fLSXnwnuLldZGzR27ZbM1bhahfALfpple3WIGVWWKSIpCcVbhF1DNXOy9NhsiB+9xiNTkWhatCg2nypIGa4sSQwz7gT8d0LzDu4=;trqtuk4RjSyetxkniuPm7A=="
 ---
 
