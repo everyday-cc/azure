@@ -36,6 +36,22 @@ related:
         width: 520
         height: 374
         isCached: true
+  - title: "Global Cloud Marketplace Market Shows Enormous Growth with Leading Players GMS – Gordano Ltd., Microsoft Azure, IBM, Salesforce"
+    excerpt: "Gordano Ltd., Microsoft Azure, IBM, Salesforce, VMware Cloud. Get a Free Sample PDF for Professional Insights:  The “Global Cloud Marketplace Market Analysis to 2028” is a specialized and in-depth study of the technology,"
+    publishedDateTime: 2021-08-17T05:49:00Z
+    webUrl: "https://manometcurrent.com/global-cloud-marketplace-market-shows-enormous-growth-with-leading-players-gms-gordano-ltd-microsoft-azure-ibm-salesforce/"
+    ampWebUrl: "https://manometcurrent.com/global-cloud-marketplace-market-shows-enormous-growth-with-leading-players-gms-gordano-ltd-microsoft-azure-ibm-salesforce/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-cloud-marketplace-market-shows-enormous-growth-with-leading-players-gms-gordano-ltd-microsoft-azure-ibm-salesforce/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 29
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Service-Centric-Cloud-ERP-Suite-Market-Including-Key-Players-Market-Share-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
 
 secured: "E7Xo65fvcmFOgTW7T/TrZz223EdDRDjF+XafVpdlBS+EOaYCkzZ751Puhp8X52xfgD/LWCgSIvFdhI3/Iaca7UybgmJnSb26vKPAa8YDuFkcH+0TYadbLoi7EVyVpWUYWxR80Fe0d1aX6eS1VCQEi3R9UvNwIXvpS3U0VbOWKRMDtdxJsT6q/Ss1gOvpkw0lr5uMl7fd+XpVpp9TseV8yb07lJL4EG/8v5skfz/gZzTfroJ1LI/XeCSKaCm33T/H+vc40QsdAgyx1ackwqfFH1JeTwQM8wWgoEVQ62Bx+v4W1BElvzUiUV/YYfRnbrvcW4KeNb8umxFfjRkf82rQyCm/CprgEiMM/oEt4jgk8sc=;FRRPDzc3U/BOj20hKSu9xw=="
 ---

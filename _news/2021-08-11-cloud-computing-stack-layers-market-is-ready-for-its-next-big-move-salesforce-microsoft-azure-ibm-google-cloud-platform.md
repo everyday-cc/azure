@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Cloud Marketplace Market Shows Enormous Growth with Leading Players GMS – Gordano Ltd., Microsoft Azure, IBM, Salesforce"
+    excerpt: "Gordano Ltd., Microsoft Azure, IBM, Salesforce, VMware Cloud. Get a Free Sample PDF for Professional Insights:  The “Global Cloud Marketplace Market Analysis to 2028” is a specialized and in-depth study of the technology,"
+    publishedDateTime: 2021-08-17T05:49:00Z
+    webUrl: "https://manometcurrent.com/global-cloud-marketplace-market-shows-enormous-growth-with-leading-players-gms-gordano-ltd-microsoft-azure-ibm-salesforce/"
+    ampWebUrl: "https://manometcurrent.com/global-cloud-marketplace-market-shows-enormous-growth-with-leading-players-gms-gordano-ltd-microsoft-azure-ibm-salesforce/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-cloud-marketplace-market-shows-enormous-growth-with-leading-players-gms-gordano-ltd-microsoft-azure-ibm-salesforce/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 29
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Service-Centric-Cloud-ERP-Suite-Market-Including-Key-Players-Market-Share-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Cloud Computing Stack Layers Market Experience a Tremendous Growth in Near Future | Salesforce, Microsoft Azure, IBM, Google Cloud Platform"
     excerpt: "The ‘ Cloud Computing Stack Layers market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges,"
     publishedDateTime: 2021-08-12T02:44:00Z

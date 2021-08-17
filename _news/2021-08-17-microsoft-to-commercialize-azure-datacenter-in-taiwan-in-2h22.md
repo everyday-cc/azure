@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure unveils automated ransomware detection tool: 5 details"
-excerpt: "Microsoft has unveiled a ransomware detection feature for its Azure clients. The tool will send alerts to security analysts when it detects potential ransomware activities, according to an Aug. 9 ..."
-publishedDateTime: 2021-08-10T18:41:00Z
-originalUrl: "https://www.beckershospitalreview.com/cybersecurity/microsoft-azure-unveils-automated-ransomware-detection-tool-5-details.html"
-webUrl: "https://www.beckershospitalreview.com/cybersecurity/microsoft-azure-unveils-automated-ransomware-detection-tool-5-details.html"
+title: "Microsoft to commercialize Azure datacenter in Taiwan in 2H22"
+excerpt: "Microsoft is scheduled to kick off operations at its new Azure datacenter in Taiwan in the second half of 2022, which may prompt other web service giants including Amazon Web Services (AWS) to accelerate building similar facilities in the country,"
+publishedDateTime: 2021-08-17T06:30:00Z
+originalUrl: "https://digitimes.com/news/a20210817PD202.html"
+webUrl: "https://digitimes.com/news/a20210817PD202.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Becker's Hospital Review
-  domain: beckershospitalreview.com
+  name: Digi Times
+  domain: digitimes.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.beckershospitalreview.com/images/channels/cybersecurity/3.jpg"
-    width: 400
-    height: 300
+  - url: "https://digitimes.com/newsshow/20210817PD202_files/1_b.jpg"
+    width: 640
+    height: 427
     isCached: true
 
 related:
@@ -102,19 +102,19 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "Microsoft to commercialize Azure datacenter in Taiwan in 2H22"
-    excerpt: "Microsoft is scheduled to kick off operations at its new Azure datacenter in Taiwan in the second half of 2022, which may prompt other web service giants including Amazon Web Services (AWS) to accelerate building similar facilities in the country,"
-    publishedDateTime: 2021-08-17T06:30:00Z
-    webUrl: "https://digitimes.com/news/a20210817PD202.html"
+  - title: "Microsoft Azure unveils automated ransomware detection tool: 5 details"
+    excerpt: "Microsoft has unveiled a ransomware detection feature for its Azure clients. The tool will send alerts to security analysts when it detects potential ransomware activities, according to an Aug. 9 ..."
+    publishedDateTime: 2021-08-10T18:41:00Z
+    webUrl: "https://www.beckershospitalreview.com/cybersecurity/microsoft-azure-unveils-automated-ransomware-detection-tool-5-details.html"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 37
     images:
-      - url: "https://digitimes.com/newsshow/20210817PD202_files/1_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://www.beckershospitalreview.com/images/channels/cybersecurity/3.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
     excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
@@ -154,6 +154,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "JloO/LW6CwVNc8klWqnj2HMz5T5B4x6GucWiENzz/i0wF12oIdRf8FbRE89gn6GBb4543c66hhiTLrCe0gDu1dkBKAuymFV0vUNhtKoeD+RRGvNsO02v0hQ9CVXtGToaeOLtqh+EYJ5NRXN2yJ2wgdfAGrmTe0ZwJOc5Iby1s0e2Yjm9kQOo0Ckir6Ns0Wq2N90oLSgwHhXeFoZ+jBt3Zso/arTILtSsgzCg2RFMPSnMoBy6qgGqiX0BqltJVycSKPAmfmaKtUEn1p1e/oyWdky88kni/xi980a7ZqkUqCGOc4n3INgdcMWhSOJT0WbU6ejNHPnFGMa/J24UqvY6qUVbRVrE4pBD2x9eZiT6oI0=;GcdoBx3rn4Q3oGOn5iGC8A=="
+secured: "V3gtFnQUWinFhK3hLiY+83G51bwo2Fo9/lqwJ3RDQxE1+RC1sFKSc7QJNTXGD2udPbGNp4SYQ+q71hzzS1ZE6L0zJ7e8/7zF4zJHNN8tiIbtuWE/WGCcZoDEYR7nUGqvJdBeA8x7AbNJQolXBMQaoHU1XLUfzyTrNt/5EDA5MEkUR+z6CqDt2CRIfVywAO4akchzD3xHx0DKD7YD8kTaYrCqQn0M0Xwdsqhk47l7u2xTU/Wc/GjKwtUjGwyR0f6beVKpOc2BHnesfdFFqSJmI/nmemjny9tPH6PjbUpV/+NZxvFcXJnnBzxJh/PLncvb66SykYjx3XxsyNXhxhvbmVwN76X6v9bDZRpSKkquNbk=;4MSSAzNay5LtN5NUU+5jEw=="
 ---
 

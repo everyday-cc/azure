@@ -116,6 +116,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Microsoft to commercialize Azure datacenter in Taiwan in 2H22"
+    excerpt: "Microsoft is scheduled to kick off operations at its new Azure datacenter in Taiwan in the second half of 2022, which may prompt other web service giants including Amazon Web Services (AWS) to accelerate building similar facilities in the country,"
+    publishedDateTime: 2021-08-17T06:30:00Z
+    webUrl: "https://digitimes.com/news/a20210817PD202.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://digitimes.com/newsshow/20210817PD202_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
     excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
     publishedDateTime: 2021-08-12T14:24:00Z

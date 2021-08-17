@@ -116,6 +116,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Microsoft to commercialize Azure datacenter in Taiwan in 2H22"
+    excerpt: "Microsoft is scheduled to kick off operations at its new Azure datacenter in Taiwan in the second half of 2022, which may prompt other web service giants including Amazon Web Services (AWS) to accelerate building similar facilities in the country,"
+    publishedDateTime: 2021-08-17T06:30:00Z
+    webUrl: "https://digitimes.com/news/a20210817PD202.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://digitimes.com/newsshow/20210817PD202_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
     excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Police Service (the Met) and Microsoft Azure to ..."
     publishedDateTime: 2021-08-09T12:09:00Z
