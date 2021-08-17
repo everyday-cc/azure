@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Microsoft named a Leader in Forrester Wave: Function-as-a-Service Platforms"
-excerpt: "There are some use cases of serverless that need to be stateful—such as long-running workflows, human approved processes, and e-commerce shopping cart applications. Durable Functions, an extension to the Azure Functions runtime that brings stateful and orchestration capabilities to serverless functions."
-publishedDateTime: 2021-03-30T09:00:14Z
-originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-forrester-wave-functionasaservice-platforms/"
-webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-forrester-wave-functionasaservice-platforms/"
+title: "Microsoft named a Leader in The Forrester Wave™: Streaming Analytics, Q2 2021"
+excerpt: "Today, we are announcing that Microsoft has been named a Leader in The Forrester Wave™: Streaming Analytics, Q2 2021. We believe this report truly reflects the market momentum of Azure Stream Analytics, satisfied customers, a growing partner ecosystem, and the overall strength of our Azure cloud platform."
+publishedDateTime: 2021-08-17T09:00:12Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-streaming-analytics-q2-2021/"
+webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-streaming-analytics-q2-2021/"
 type: article
-quality: 72
-heat: -1
-published: false
+quality: 86
+heat: 146
+published: true
 
 provider:
   name: Microsoft
@@ -20,28 +20,28 @@ provider:
 
 topics:
   - Azure
-  - IoT
+  - Analytics
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/963b247c-c1ef-4c66-af26-6e77621d8b30.png"
-    width: 259
-    height: 259
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b05f91f0-afa4-4b6d-9a08-1e70dba99d6e.gif"
+    width: 580
+    height: 768
     isCached: true
 
 related:
-  - title: "Microsoft named a Leader in The Forrester Wave™: Streaming Analytics, Q2 2021"
-    excerpt: "Today, we are announcing that Microsoft has been named a Leader in The Forrester Wave™: Streaming Analytics, Q2 2021. We believe this report truly reflects the market momentum of Azure Stream Analytics, satisfied customers, a growing partner ecosystem, and the overall strength of our Azure cloud platform."
-    publishedDateTime: 2021-08-17T09:00:12Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-streaming-analytics-q2-2021/"
+  - title: "Microsoft named a Leader in Forrester Wave: Function-as-a-Service Platforms"
+    excerpt: "There are some use cases of serverless that need to be stateful—such as long-running workflows, human approved processes, and e-commerce shopping cart applications. Durable Functions, an extension to the Azure Functions runtime that brings stateful and orchestration capabilities to serverless functions."
+    publishedDateTime: 2021-03-30T09:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-forrester-wave-functionasaservice-platforms/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 86
+    quality: 72
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b05f91f0-afa4-4b6d-9a08-1e70dba99d6e.gif"
-        width: 580
-        height: 768
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/963b247c-c1ef-4c66-af26-6e77621d8b30.png"
+        width: 259
+        height: 259
         isCached: true
   - title: "Microsoft named a leader in The Forrester New Wave: Functions-as-a-Service Platforms"
     excerpt: "We’re excited to share that Forrester has named Microsoft as a leader in the inaugural report, The Forrester New Wave™: Function-As-A-Service Platforms, Q1 2020 based on their evaluation of Azure Functions and integrated development tooling. We believe Forrester’s findings reflect the strong momentum"
@@ -72,6 +72,6 @@ related:
         height: 827
         isCached: true
 
-secured: "MxNNf8gflZx8B8I/CRtl8Tey470cmkE0YUbcGkzHEyykWeQQQBGLj94boWcVXktC4GFrmdYQbQzP+Gp3f6a3KiR8RjoZBrO04zy8kkUAQ+oNRIK+HyKWS5kAKpIjc9cQ135jUb5/dQHrCfNyF8TvRNBgfM5KQjzTiT8d7cyYP1FzJAdBhx72jS/rfirTTDWI/yz0dYs3HA30PS7WmTMUusMWYfaCPC6Gpoyjor4A/50+BtooR0a8OExV9GteKcQymWnF+NtMXCPLwPf8LHcd5pA+BZ2J8Rx5HPuhiEOIjKkSorLNI7Nwj7MloKc/o3/Z+OzPr7k4EuYkdB0uQfDjyHsKcRA9BEtfBfMyEtLwZEc=;G4+JZ3+Q2npJ0lmFVrlLAg=="
+secured: "clpISTxF9uRiJL4gdHMuFZZKPCAWAPaaw6YdBq6ZBml4i12IFf5hQx0uO0EpUo3LJ0Rxu/iG0nsmwzpQl6rnkYbi+waMj9jmGrEis4KqytjmCg9zMq6inecJZh+eacMaOO/j7jIWqLoqWFUvOCcbZ58kQZH7yQ+ssfBjG++BfFuewmsnUWLUZHKfDWRm7NI2+QI22q8cafd6nOfk17OWfBSfb/C/p/KGhNNzWfceeGRAe6LTzgS6Kpzr0kj/Mog7X4sqgjgfKDSvpbt1cAEm9vml9SwiVkfWoPuDiUKXUIvwJ+uLBqidhWPeYj8RBbG1GIMIZpG5PhE+sCqBU9r8qu8vWl1M15gLtG2GsLTL98M=;l55WM56AxWlBtMoAOLICkw=="
 ---
 

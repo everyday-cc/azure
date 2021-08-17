@@ -31,6 +31,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 107
+  - title: "Discover and assess ASP.NET apps at-scale with Azure Migrate"
+    excerpt: "Azure Migrate is your central place in the Azure portal that provides a unified experience to discover, assess, and migrate your servers, databases, and web apps to Azure. Today, we are announcing the preview of at-scale, agentless discovery, and assessment of ASP.NET web apps to help you migrate ASP.NET"
+    publishedDateTime: 2021-08-17T08:00:11Z
+    webUrl: "https://azure.microsoft.com/blog/discover-and-assess-aspnet-apps-atscale-with-azure-migrate/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/19fdb699-3333-480a-a27b-57caa8680546.png"
+        width: 851
+        height: 355
+        isCached: true
   - title: "dPublic preview: Event Grid integration with AKS"
     excerpt: "Automate AKS operations by subscribing to events and handling them."
     publishedDateTime: 2021-04-14T16:00:07Z

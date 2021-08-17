@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Easily onboard Application Insights for Java apps on Azure App Services"
-excerpt: "Customers writing Java apps on Azure App Services can now onboard to application insights for application monitoring, without making any code changes. App Service Linux, both code-based and custom containers, and App Service Windows code-based are supported. "
-publishedDateTime: 2021-05-25T16:00:25Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-easily-onboard-application-insights-for-java-apps-on-azure-app-services/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-easily-onboard-application-insights-for-java-apps-on-azure-app-services/"
+title: "Discover and assess ASP.NET apps at-scale with Azure Migrate"
+excerpt: "Azure Migrate is your central place in the Azure portal that provides a unified experience to discover, assess, and migrate your servers, databases, and web apps to Azure. Today, we are announcing the preview of at-scale, agentless discovery, and assessment of ASP.NET web apps to help you migrate ASP.NET"
+publishedDateTime: 2021-08-17T08:00:11Z
+originalUrl: "https://azure.microsoft.com/blog/discover-and-assess-aspnet-apps-atscale-with-azure-migrate/"
+webUrl: "https://azure.microsoft.com/blog/discover-and-assess-aspnet-apps-atscale-with-azure-migrate/"
 type: article
-quality: 59
+quality: 104
 heat: -1
 published: false
 
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - Azure
+  - Migration
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/19fdb699-3333-480a-a27b-57caa8680546.png"
+    width: 851
+    height: 355
+    isCached: true
 
 related:
   - title: "Public preview: Containerize apps and migrate to AKS and Azure App Service with Azure Migrate"
@@ -31,20 +38,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 107
-  - title: "Discover and assess ASP.NET apps at-scale with Azure Migrate"
-    excerpt: "Azure Migrate is your central place in the Azure portal that provides a unified experience to discover, assess, and migrate your servers, databases, and web apps to Azure. Today, we are announcing the preview of at-scale, agentless discovery, and assessment of ASP.NET web apps to help you migrate ASP.NET"
-    publishedDateTime: 2021-08-17T08:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/discover-and-assess-aspnet-apps-atscale-with-azure-migrate/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/19fdb699-3333-480a-a27b-57caa8680546.png"
-        width: 851
-        height: 355
-        isCached: true
   - title: "dPublic preview: Event Grid integration with AKS"
     excerpt: "Automate AKS operations by subscribing to events and handling them."
     publishedDateTime: 2021-04-14T16:00:07Z
@@ -167,7 +160,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
+  - title: "Public preview: Easily onboard Application Insights for Java apps on Azure App Services"
+    excerpt: "Customers writing Java apps on Azure App Services can now onboard to application insights for application monitoring, without making any code changes. App Service Linux, both code-based and custom containers, and App Service Windows code-based are supported. "
+    publishedDateTime: 2021-05-25T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-easily-onboard-application-insights-for-java-apps-on-azure-app-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
 
-secured: "YcsP7fvhcoO8YmUeYUzRTnjljcDCoKn4Ec7IGrHsdvD40uO0jMji8Ek9KjZ7BL9uZqPtr1u2juKkDYmfySrFmo1zM/cBZsxtJtBEeivFBd9p0raFgUvqKkjdokUB5nD6krr/dIpA2Frl1GZX9O0Mx5kF5f3wA3nn/57xEE7+jFNz6WUUfKV19ZPNuIRXoDvTNN3HE9BHYaV1+JSw1JNh8JvGE+Ts6hQmgepKS+Lu84Ysrh/RKhktbShYR+kJEUCtWoCc1mLoFGeexKpylh5l4kA8Vxyukk4orzU/V4u3qHgqc9OyVa9uRnVfLKuh72u0fVB74cwim9RuqJeDC2z//xb00dXnFubeyyx4louO1rI=;YltQWa3KMsArHjaKdP0HVQ=="
+secured: "++OykYNfTHHNsyhAPcD1sANpA6Vjhlh4mPBmZJpENj+37ZXKc838SX+p+zhfRvDyaJQC3LpPS0UTxxX1uKFxCtKkVmYt0FrVi2IAi2XEwuFwlCSU7HXKvt7FYFiYIUYisB3loueQbmMO5aTf9ZZ72+Cw6bv10m3+NLr4NjDWFPEsZyuWRjnFogvqqNC2/hv37QQaNfv942Dcf0+4aF2E6XOa6sM7/aGflR8vNhmwSDF1HNnQbELx/FefSpzh/QXki6UHoSSoRbGlt1KyrrUzppQIoaPn9HyCAQ2SH20oJmFiFNayeAbGwbZMp0qJf5dhq6uHgYCDCszjDkldMSH6SqkIFFGuCw6jvr4xK5J3DOg=;6eLsQ1adTfXg5fGi8yBjEA=="
 ---
 

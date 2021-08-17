@@ -145,13 +145,13 @@ related:
         height: 450
         isCached: true
   - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
-    excerpt: "Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC,"
-    publishedDateTime: 2021-08-17T13:53:00Z
-    webUrl: "https://www.design-reuse.com/news/50459/xpeedic-eda-cloud-platform-microsoft-azure.html"
+    excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
+    publishedDateTime: 2021-08-17T12:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
   - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
     excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."
