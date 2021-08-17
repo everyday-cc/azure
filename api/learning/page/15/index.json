@@ -429,8 +429,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 1355,
-        "average": 4.7608857
+        "count": 1356,
+        "average": 4.761062
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -564,15 +564,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-azure-load-balancer.md",
-      "title": "Configure Azure Load Balancer",
-      "excerpt": "You will learn how to configure an internal or public load balancer.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-load-balancer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-load-balancer/",
-      "length": "PT33M",
+      "path": "_learning/courses/microsoft-learn-configure-expressroute-virtual-wan.md",
+      "title": "Configure ExpressRoute and Virtual WAN",
+      "excerpt": "You will learn how to configure ExpressRoute and Virtual WAN to provide connection services.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-expressroute-virtual-wan/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-expressroute-virtual-wan/",
+      "length": "PT24M",
       "ratings": {
-        "count": 19,
-        "average": 4.9473686
+        "count": 20,
+        "average": 4.85
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -604,50 +604,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-file-folder-backups.md",
-      "title": "Configure file and folder backups",
-      "excerpt": "You will learn how to configure backup and restore policies that meet your company's regulatory needs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-file-folder-backups/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-file-folder-backups/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 16,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage"
       ]
     },
     {
@@ -788,8 +744,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 3531,
-        "average": 4.6779947
+        "count": 3532,
+        "average": 4.6780863
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1094,8 +1050,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 2803,
-        "average": 4.6164823
+        "count": 2804,
+        "average": 4.615906
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1225,8 +1181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 4147,
-        "average": 4.7687483
+        "count": 4149,
+        "average": 4.768619
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1268,8 +1224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 3211,
-        "average": 4.6916847
+        "count": 3212,
+        "average": 4.6911583
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1331,6 +1287,48 @@
         "Beginner"
       ],
       "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-cybersecurity.md",
+      "title": "Introduction to cybersecurity",
+      "excerpt": "Evaluate how to defend against the most common cyberthreat.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-cybersecurity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-cybersecurity/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 50,
+        "average": 4.88
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
