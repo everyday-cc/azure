@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 9625,
-            "average": 4.808104
+            "count": 9628,
+            "average": 4.8081636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/",
           "length": "PT27M",
           "ratings": {
-            "count": 10549,
-            "average": 4.800455
+            "count": 10552,
+            "average": 4.800512
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -136,8 +136,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/",
       "length": "PT27M",
       "ratings": {
-        "count": 10549,
-        "average": 4.800455
+        "count": 10552,
+        "average": 4.800512
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -178,8 +178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
       "length": "PT43M",
       "ratings": {
-        "count": 9625,
-        "average": 4.808104
+        "count": 9628,
+        "average": 4.8081636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -245,196 +245,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-azure-friday.md",
-      "title": "Azure Friday",
-      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-azure-friday/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-enable-zero-trust-with-azure-ad-pim-and-azure-lighthouse-azure-friday.md",
-          "title": "Enable Zero Trust with Azure AD PIM and Azure Lighthouse | Azure Friday",
-          "excerpt": "Azure AD Privileged Identity Management integration in Azure Lighthouse is now in public preview.  Meagan Olsen and Saif Kayani show Scott Hanselman how partners can now use just-in-time access permissions, combined with MFA, to securely deliver secure managed services.  0:00 – Introduction 0:43 – Overview",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-enable-zero-trust-with-azure-ad-pim-and-azure-lighthouse-azure-friday/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-enable-zero-trust-with-azure-ad-pim-and-azure-lighthouse-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=gC4wmZf7dAI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gC4wmZf7dAI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT18M54S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-08-06T07:22:20-07:00",
-          "heat": 103,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/gC4wmZf7dAI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday.md",
-          "title": "Getting started with Azure Static Web Apps | Azure Friday",
-          "excerpt": "Anthony Chu joins Scott Hanselman to show how to build, debug, and deploy a full-stack serverless application in minutes with Azure Static Web Apps.  0:00 – Introduction 0:55 – Overview 3:03 – Demo - basic stuff 12:48 – Demo - a little more advanced 18:41 – Wrap-up  🔗 What is Azure Static Web Apps?",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=AMhhuBixb4o",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AMhhuBixb4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT20M25S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-30T05:51:16-07:00",
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/AMhhuBixb4o/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-quantum-programming-with-q-and-running-on-hardware-with-azure-quantum-azure-friday.md",
-          "title": "Quantum programming with Q# and running on hardware with Azure Quantum | Azure Friday",
-          "excerpt": "Mariia Mykhailova joins Scott Hanselman to discuss quantum computing and quantum programming with Microsoft Quantum Development Kit (QDK), from writing Q# code to running it on hardware via Azure Quantum.  ⏩ 0:00 – Intro ⏩ 0:51 – Overview ⏩ 5:43 – From algorithm to coding and unit tests ⏩ 20:58 – Jupyter",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-quantum-programming-with-q-and-running-on-hardware-with-azure-quantum-azure-friday/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-quantum-programming-with-q-and-running-on-hardware-with-azure-quantum-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=c9Df90CVHkc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9Df90CVHkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT35M19S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-23T15:35:12-07:00",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/c9Df90CVHkc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday.md",
-          "title": "Issue and accept verifiable credentials using Azure Active Directory | Azure Friday",
-          "excerpt": "Sydney Morton joins Scott Hanselman to show how verifiable credentials enable you to own and prove who you are in the digital world. See how to enable decentralized identity through seamless user and developer experiences.  ⏩ 0:00 – Intro ⏩ 0:37 – Overview ⏩ 3:01 – Demo – end user experience ⏩ 6:14 –",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/index.json",
-          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=xtEXx67J41o",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xtEXx67J41o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT14M4S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-16T03:08:56-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/xtEXx67J41o/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 269,
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gC4wmZf7dAI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -833,8 +643,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
       "length": "PT22M",
       "ratings": {
-        "count": 10655,
-        "average": 4.7721257
+        "count": 10659,
+        "average": 4.772211
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -870,6 +680,196 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-azure-friday.md",
+      "title": "Azure Friday",
+      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-azure-friday/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-enable-zero-trust-with-azure-ad-pim-and-azure-lighthouse-azure-friday.md",
+          "title": "Enable Zero Trust with Azure AD PIM and Azure Lighthouse | Azure Friday",
+          "excerpt": "Azure AD Privileged Identity Management integration in Azure Lighthouse is now in public preview.  Meagan Olsen and Saif Kayani show Scott Hanselman how partners can now use just-in-time access permissions, combined with MFA, to securely deliver secure managed services.  0:00 – Introduction 0:43 – Overview",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-enable-zero-trust-with-azure-ad-pim-and-azure-lighthouse-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-enable-zero-trust-with-azure-ad-pim-and-azure-lighthouse-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=gC4wmZf7dAI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gC4wmZf7dAI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT18M54S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-08-06T07:22:20-07:00",
+          "heat": 98,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/gC4wmZf7dAI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday.md",
+          "title": "Getting started with Azure Static Web Apps | Azure Friday",
+          "excerpt": "Anthony Chu joins Scott Hanselman to show how to build, debug, and deploy a full-stack serverless application in minutes with Azure Static Web Apps.  0:00 – Introduction 0:55 – Overview 3:03 – Demo - basic stuff 12:48 – Demo - a little more advanced 18:41 – Wrap-up  🔗 What is Azure Static Web Apps?",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=AMhhuBixb4o",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AMhhuBixb4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT20M25S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-30T05:51:16-07:00",
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/AMhhuBixb4o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-quantum-programming-with-q-and-running-on-hardware-with-azure-quantum-azure-friday.md",
+          "title": "Quantum programming with Q# and running on hardware with Azure Quantum | Azure Friday",
+          "excerpt": "Mariia Mykhailova joins Scott Hanselman to discuss quantum computing and quantum programming with Microsoft Quantum Development Kit (QDK), from writing Q# code to running it on hardware via Azure Quantum.  ⏩ 0:00 – Intro ⏩ 0:51 – Overview ⏩ 5:43 – From algorithm to coding and unit tests ⏩ 20:58 – Jupyter",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-quantum-programming-with-q-and-running-on-hardware-with-azure-quantum-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-quantum-programming-with-q-and-running-on-hardware-with-azure-quantum-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=c9Df90CVHkc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9Df90CVHkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT35M19S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-23T15:35:12-07:00",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/c9Df90CVHkc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday.md",
+          "title": "Issue and accept verifiable credentials using Azure Active Directory | Azure Friday",
+          "excerpt": "Sydney Morton joins Scott Hanselman to show how verifiable credentials enable you to own and prove who you are in the digital world. See how to enable decentralized identity through seamless user and developer experiences.  ⏩ 0:00 – Intro ⏩ 0:37 – Overview ⏩ 3:01 – Demo – end user experience ⏩ 6:14 –",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/index.json",
+          "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=xtEXx67J41o",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xtEXx67J41o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M4S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-16T03:08:56-07:00",
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/xtEXx67J41o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 269,
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gC4wmZf7dAI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure.md",
       "title": "Architect infrastructure operations in Azure",
       "excerpt": "Learn how to monitor, analyze, and manage the ongoing operation of your infrastructure in Azure.",
@@ -900,8 +900,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43818,
-            "average": 4.720138
+            "count": 43821,
+            "average": 4.7201343
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -935,8 +935,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4302,
-            "average": 4.759182
+            "count": 4306,
+            "average": 4.7594056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -978,8 +978,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 3120,
-            "average": 4.650641
+            "count": 3121,
+            "average": 4.6504326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1312,8 +1312,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-resources-tools/",
           "length": "PT21M",
           "ratings": {
-            "count": 195,
-            "average": 4.748718
+            "count": 196,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1354,8 +1354,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-azure-resource-manager/",
           "length": "PT30M",
           "ratings": {
-            "count": 113,
-            "average": 4.7699113
+            "count": 114,
+            "average": 4.7719297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1598,8 +1598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 6599,
-            "average": 4.7402635
+            "count": 6600,
+            "average": 4.740303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1830,8 +1830,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 9625,
-            "average": 4.808104
+            "count": 9628,
+            "average": 4.8081636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2093,8 +2093,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 9034,
-        "average": 4.760239
+        "count": 9035,
+        "average": 4.760266
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2376,8 +2376,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 6599,
-            "average": 4.7402635
+            "count": 6600,
+            "average": 4.740303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2419,8 +2419,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 3816,
-            "average": 4.754979
+            "count": 3817,
+            "average": 4.755043
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2757,8 +2757,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 9836,
-            "average": 4.6685643
+            "count": 9838,
+            "average": 4.668632
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2794,8 +2794,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 5355,
-            "average": 4.731839
+            "count": 5356,
+            "average": 4.7318892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2915,8 +2915,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 8520,
-            "average": 4.7206573
+            "count": 8522,
+            "average": 4.7206054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2957,8 +2957,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 8666,
-            "average": 4.734595
+            "count": 8668,
+            "average": 4.7346563
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2992,8 +2992,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 6433,
-            "average": 4.752992
+            "count": 6434,
+            "average": 4.7528753
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3109,8 +3109,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 8520,
-            "average": 4.7206573
+            "count": 8522,
+            "average": 4.7206054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3151,8 +3151,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 8666,
-            "average": 4.734595
+            "count": 8668,
+            "average": 4.7346563
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3186,8 +3186,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 6433,
-            "average": 4.752992
+            "count": 6434,
+            "average": 4.7528753
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3559,8 +3559,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 8666,
-            "average": 4.734595
+            "count": 8668,
+            "average": 4.7346563
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3719,8 +3719,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 22023,
-            "average": 4.7697406
+            "count": 22032,
+            "average": 4.769789
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3842,8 +3842,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/",
           "length": "PT43M",
           "ratings": {
-            "count": 328,
-            "average": 4.710366
+            "count": 330,
+            "average": 4.70303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4353,8 +4353,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 10272,
-            "average": 4.784365
+            "count": 10273,
+            "average": 4.784386
           },
           "provider": {
             "name": "Microsoft Learn",
