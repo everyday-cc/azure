@@ -476,6 +476,20 @@ related:
         width: 576
         height: 288
         isCached: true
+  - title: "Wind River to Offer its New Studio Platform on Microsoft Azure"
+    excerpt: "Wind River on Monday announced that it joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River"
+    publishedDateTime: 2021-08-17T02:11:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20545-wind-river-to-offer-its-new-studio-platform-on-microsoft-azure"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/e13669b01c070f8ad51d23d6edc47b9d.jpg?t=20210817_020957"
+        width: 752
+        height: 408
+        isCached: true
   - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
     excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
     publishedDateTime: 2020-11-23T11:29:00Z

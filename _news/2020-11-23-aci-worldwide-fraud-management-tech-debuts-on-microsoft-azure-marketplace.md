@@ -482,6 +482,20 @@ related:
         width: 576
         height: 288
         isCached: true
+  - title: "Wind River to Offer its New Studio Platform on Microsoft Azure"
+    excerpt: "Wind River on Monday announced that it joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River"
+    publishedDateTime: 2021-08-17T02:11:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20545-wind-river-to-offer-its-new-studio-platform-on-microsoft-azure"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/e13669b01c070f8ad51d23d6edc47b9d.jpg?t=20210817_020957"
+        width: 752
+        height: 408
+        isCached: true
   - title: "PUBG Mobile India fans plead Microsoft Azure, PUBG Corporation on Twitter in hope of an official announcement"
     excerpt: "The fate of PUBG Mobile still hangs in the balance with no news yet of a confirmed release date so far. The game is set to include features and changes specific to the Indian version of the game. The rise of mobile gaming in India can be attributed to a single game: PUBG Mobile."
     publishedDateTime: 2020-11-26T08:23:00Z
