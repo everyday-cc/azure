@@ -1,0 +1,50 @@
+---
+category: news
+title: "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS"
+excerpt: "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform"
+publishedDateTime: 2021-08-17T13:25:00Z
+originalUrl: "https://seekingalpha.com/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+webUrl: "https://seekingalpha.com/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+ampWebUrl: "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+type: article
+quality: 57
+heat: 97
+published: true
+
+provider:
+  name: Seeking Alpha
+  domain: seekingalpha.com
+
+topics:
+  - Azure
+
+images:
+  - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+    width: 1200
+    height: 1200
+    isCached: true
+
+related:
+  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
+    excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
+    publishedDateTime: 2021-08-17T15:02:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/08/17/9431959.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+  - title: "Wind River Joins Microsoft Cloud Solution Provider Program to Further Advance Mission-Critical Intelligent Systems"
+    excerpt: "Wind River ®, a global leader in delivering software for intelligent systems, joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River Studio platform running on Azure. Studio is a cloud-native platform for the development,"
+    publishedDateTime: 2021-08-12T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/wind-river-joins-microsoft-cloud-solution-provider-program-to-further-advance-mission-critical-intelligent-systems/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
+
+secured: "j7y4ZGGD/lZ1vhm/1KxndS/+7MVTbVQZVA9zTVNoT7A+qp80ThQnoY080Hi2JDGwcuda6iegWUkMGshRXAvrQy35MqFS4/6wlzNrSuLaZnvWzj/v+YUoNKndGXASD5SEN+FNrKXsFWnJftKmoo1mQui0BlEp37tK+IDlRAIeh7ZbhHTYzTREQh+bTc+VRnrGsqHfoKZmx3onNafPKMFruvvladMFpk463chcY4jE/S9KNPyFOs3vN+qXguasaX4n2hH2LLT9+t4VRLoexr86AT58kdAuNSZqz025I+EjooU2pP8Yw8EFNhsco33XMZc7A0PIdGMvrjPacn88WHCE4ao96cAl/CRVyA/nfTJwamw=;QHvnXspkpb3tMrXoM7lHxQ=="
+---
+

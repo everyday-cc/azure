@@ -7,7 +7,7 @@ originalUrl: "https://cloud-computing.tmcnet.com/news/2021/08/17/9431959.htm"
 webUrl: "https://cloud-computing.tmcnet.com/news/2021/08/17/9431959.htm"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - Integration
 
 related:
+  - title: "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS"
+    excerpt: "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform"
+    publishedDateTime: 2021-08-17T13:25:00Z
+    webUrl: "https://seekingalpha.com/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 57
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Wind River Joins Microsoft Cloud Solution Provider Program to Further Advance Mission-Critical Intelligent Systems"
     excerpt: "Wind River ®, a global leader in delivering software for intelligent systems, joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River Studio platform running on Azure. Studio is a cloud-native platform for the development,"
     publishedDateTime: 2021-08-12T13:00:00Z

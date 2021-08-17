@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft 'Azure Government Top Secret' Goes GA"
+    excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
+    publishedDateTime: 2021-08-17T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "z1k41QHkfa3cpyKv8HnXNpX5RQvWT7xNp5JLZOKQyfKOTp/RMr1R1b548/vJe7SHvJDadY5U6LxVS2fzldySNEPKOde1/xII2FFlgMZ3VFDmj+I0nazuNTCNKuLl1fq43BtZBeuF7d4+vDBEXmygsIJQAmsiOhcAFGR+X+6l4x2Rfi7PqEd+1AYpfrWK84XAic4S1vA4Wee2z+dQa0jCXTjsBcONc8DRCCEJSnukervPL0gYwDHIbZhZksTL/Dx88BnzRGvkSam1DJePuRBwYh49ddoh7/BhGggvBBfrw6quEW/QgAdyxHhiNisGilKisoKSCKIfYHgRmYSyyLjCW7ux60Kdsyp83i6lhPv/5HE=;lBDgqFGZl7+r+bc6c1gafQ=="
 ---

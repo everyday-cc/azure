@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Microsoft launches Azure Government Top Secret for US national security contracts"
-excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
-publishedDateTime: 2021-08-17T12:29:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
+title: "Microsoft 'Azure Government Top Secret' Goes GA"
+excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
+publishedDateTime: 2021-08-17T20:16:00Z
+originalUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
+webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
 type: article
-quality: 49
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
-  - Security
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -48,19 +47,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
-  - title: "Microsoft 'Azure Government Top Secret' Goes GA"
-    excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
-    publishedDateTime: 2021-08-17T20:16:00Z
-    webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
+  - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
+    excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
+    publishedDateTime: 2021-08-17T12:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 49
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
-        width: 647
-        height: 450
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
@@ -74,6 +73,6 @@ related:
       domain: computerweekly.com
     quality: 32
 
-secured: "DQ2SxuD56Ez6CN5K+qbdMSmYlhC4HU2KjhLmXSY4p1cipiUJ46x7NA6RPDu7mEHziXOYi2zmcEYRTMiRZfrQmFRPjsnCB5nnR8ImwTWEEYR04ajyHg3ansaR3631Zc4PY/BzE4eVkzn4deXPNMKwi15t6PaQd1fN62T5my8XnWxdFwsTat3LwiNwSmRfpzUJ2afN5b/sepNbedEQW4aWHRqhA/q38b7IjQhGAI5ntV8MGasgcc9ATx5E7pPgb2U0sJj0Ej5u0hTGUXjCwkNT06Xuyv5B3IP66PqkZ4Zy9xTAOeBxoeDvSyhnTy640mixT1RFhOPcF4eqMgIMEIrAjTVLhtDopcOpYkFQ6QD3cHnH3dJ4Ztqw27iWLT/Tr67Yct054GZBaWyHkdwO+rYib13it4CuT+cNHA+PGIv99MIr6eovDIu+Vrk6Dcc2RGPslB1qFzWh1p0ErAv8nCyO2upzSYt7ouIKv4qkbEiKQcu+GMgE29bE5CwLrggrwUQfckCmarBi4BSvo302sClLzA==;4Z6/Nm4MnHkX41+674cHqw=="
+secured: "wkAPbUolVk6Y0PTDZIuQNCwKNaimWX3V+AQNjMnHi0QtI8otmbYB9qLvT0K5bT4fYvvIsqa2GFbYO41m4IFToTe/fSkC8gnGz446uxsBtHUKws+vzhwoBLLKQ2YcPwNk+ygRruv2jmjHwVC3eP504mxc8F1lq2AnLFXVPbvYcaBI+UhatJNH/KyeWUbzpDnSmGyDSgMUhOWSV5jCiAZjQtLxfyTY7lSUcsLWYa2DNuCBL5OShpWoGQ2AIVkVS+VbFie7Dh2J5VjdbJPKbh3Nq9aRfEu5PW+9eoIQWwhiFmrwHIij+EQ7St9SE7L0E51HH++iSW+fW1jN0cgVLifjz9XA5bjZYP6UkimFuLb/pZU=;4KE5WrfW/ZuCB0EHXU2O2Q=="
 ---
 
