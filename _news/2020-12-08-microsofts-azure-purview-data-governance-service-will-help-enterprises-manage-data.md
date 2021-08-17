@@ -90,6 +90,20 @@ related:
         width: 1413
         height: 794
         isCached: true
+  - title: "Microsoft Azure Government Top Secret has hit general availability"
+    excerpt: "Microsoft has announced that Azure Government Top Secret, its cloud offering dealing with modernizing infrastructure and data management tooling for classified U.S. Government operations, has hit GA."
+    publishedDateTime: 2021-08-17T03:44:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 77
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/08/1629183549_2b62ae85-b75c-450d-9d5d-8a11108c2d45_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Microsoft introduces steps to improve internet routing security"
     excerpt: "The internet runs on the Border Gateway Protocol (BGP). A network or autonomous system (AS) is bound to trust, accept, and propagate the routes advertised by its peers without questioning its provenance. "
     publishedDateTime: 2020-12-09T08:00:13Z

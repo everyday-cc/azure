@@ -88,6 +88,20 @@ related:
         width: 1413
         height: 794
         isCached: true
+  - title: "Microsoft Azure Government Top Secret has hit general availability"
+    excerpt: "Microsoft has announced that Azure Government Top Secret, its cloud offering dealing with modernizing infrastructure and data management tooling for classified U.S. Government operations, has hit GA."
+    publishedDateTime: 2021-08-17T03:44:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 77
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/08/1629183549_2b62ae85-b75c-450d-9d5d-8a11108c2d45_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
     excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
     publishedDateTime: 2020-12-07T16:04:00Z

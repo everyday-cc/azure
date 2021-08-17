@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Microsoft introduces steps to improve internet routing security"
-excerpt: "The internet runs on the Border Gateway Protocol (BGP). A network or autonomous system (AS) is bound to trust, accept, and propagate the routes advertised by its peers without questioning its provenance. "
-publishedDateTime: 2020-12-09T08:00:13Z
-originalUrl: "https://azure.microsoft.com/blog/microsoft-introduces-steps-to-improve-internet-routing-security/"
-webUrl: "https://azure.microsoft.com/blog/microsoft-introduces-steps-to-improve-internet-routing-security/"
+title: "Microsoft Azure Government Top Secret has hit general availability"
+excerpt: "Microsoft has announced that Azure Government Top Secret, its cloud offering dealing with modernizing infrastructure and data management tooling for classified U.S. Government operations, has hit GA."
+publishedDateTime: 2021-08-17T03:44:00Z
+originalUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
+webUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
 type: article
-quality: 71
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: Neowin
+  domain: neowin.net
   images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/neowin.net-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - Security
-  - Networking
+
+images:
+  - url: "https://cdn.neow.in/news/images/uploaded/2021/08/1629183549_2b62ae85-b75c-450d-9d5d-8a11108c2d45_story.jpg"
+    width: 760
+    height: 428
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Digital Twins in general availability"
@@ -86,20 +90,6 @@ related:
         width: 1413
         height: 794
         isCached: true
-  - title: "Microsoft Azure Government Top Secret has hit general availability"
-    excerpt: "Microsoft has announced that Azure Government Top Secret, its cloud offering dealing with modernizing infrastructure and data management tooling for classified U.S. Government operations, has hit GA."
-    publishedDateTime: 2021-08-17T03:44:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 77
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/08/1629183549_2b62ae85-b75c-450d-9d5d-8a11108c2d45_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
     excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
     publishedDateTime: 2020-12-07T16:04:00Z
@@ -114,6 +104,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft introduces steps to improve internet routing security"
+    excerpt: "The internet runs on the Border Gateway Protocol (BGP). A network or autonomous system (AS) is bound to trust, accept, and propagate the routes advertised by its peers without questioning its provenance. "
+    publishedDateTime: 2020-12-09T08:00:13Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-introduces-steps-to-improve-internet-routing-security/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
   - title: "Microsoft Azure Purview provides unified data governance"
     excerpt: "Announcing the public preview of a unified data governance service to maximize business value of data."
     publishedDateTime: 2020-12-09T17:58:14Z
@@ -746,6 +745,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "SYkOc+gyQZQCWEiW+QZK3vFVYk+3HWrlv9SmrQ7G+mcfRysLx8HCoNLxCryiwfKLrxuGaBqdTJIOZU/A7XnpYT31t2BQsf6QnAHaLJA2Pg8rRldFteHx6doPExu2HYJ5p/6EJnY4dsPMOSnam5pcnQ2C4k2iH63m/9XZYoRkgY4OoC+zsZeyQpTb3ynerQ+3GExfwsFaCsfPbFQcHpXD7nK+7YSqbPHdotX4RHzDuBxpdTD1FqAAr9f1/o/zsuj24s1NmdE78xHVith6nPrKZeoP9BIVDEMnVhG6P9p1LsZuVwyGRtPm3bTBgWuMenQUlzvdqmcIrIm81LTHXhnsVdoZSLN4tcee1Sdpv0kgpd8=;aqS+MQZ9FE4v9tJXPwFt0g=="
+secured: "c83wMu2ckzk00JpE8NzWodPjig3oY35q8kkU0BJV4A0ImIs9GoL0zzr8iwnpkbJU8cwVy691nmk5CDHKLb9iLhpNL3orLS5jR5SnQf6lpQKtKMTph7AiTXhSzeTXmlBYAGVNMlZrb4Y9y4wDQlQV6QeHyl1E36v7tKNlTa0JHGnk8Y9i63nIqEJ80sE7sU2lv1DusB6NgS400cukMK3MD8oFQYu1iLTSFqQtF1lMrZHK+HXHRbWN3tiLWTJMtRV2YlTFOC2JG8oBqZQOSYLgnzlFn31S5gCSkWVr6eEIW66F+Z7xYYkTM/kE7PiyNczN3NyPO+rVEr4U2rKVLE5jSgrQriNkwQen/W16Rhdowq0=;0jzjWJuaca6H1nCs00alPw=="
 ---
 
