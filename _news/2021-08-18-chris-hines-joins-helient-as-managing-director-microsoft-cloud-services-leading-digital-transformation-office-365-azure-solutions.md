@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
-excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
-publishedDateTime: 2021-08-12T14:24:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
+title: "Chris Hines Joins Helient As Managing Director, Microsoft Cloud Services Leading Digital Transformation, Office 365 & Azure Solutions"
+excerpt: "PHILADELPHIA, Aug. 17, 2021 /PRNewswire-PRWeb/ -- Helient Systems LLC (Helient) is pleased to announce Chris Hines has joined the company as Managing Director, Microsoft Cloud Services. Formerly the General Manager of the Microsoft business unit of a large ..."
+publishedDateTime: 2021-08-17T19:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_27cae7e4-cedb-52b5-b6f2-847f8989f45a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_27cae7e4-cedb-52b5-b6f2-847f8989f45a.html"
 type: article
-quality: 30
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -130,6 +130,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
+    excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
+    publishedDateTime: 2021-08-12T14:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-56f416b3567ec2737036b14ca7e726a9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
     excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
     publishedDateTime: 2021-08-17T12:16:00Z
@@ -153,20 +167,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chris Hines Joins Helient As Managing Director, Microsoft Cloud Services Leading Digital Transformation, Office 365 & Azure Solutions"
-    excerpt: "PHILADELPHIA, Aug. 17, 2021 /PRNewswire-PRWeb/ -- Helient Systems LLC (Helient) is pleased to announce Chris Hines has joined the company as Managing Director, Microsoft Cloud Services. Formerly the General Manager of the Microsoft business unit of a large ..."
-    publishedDateTime: 2021-08-17T19:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_27cae7e4-cedb-52b5-b6f2-847f8989f45a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 6
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
     excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."
     publishedDateTime: 2021-08-04T12:32:00Z
@@ -177,6 +177,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "rMvktxEj9Hunzg23MHlsvId4ULV5XsWHEiSskR8GdoFtv+tDk8DpFafukeRVeEorzvZ0QVN1hiDQ/hyQb5m6RaATWMuBY8YpqXN+/YMHYDzJ6rwEws2QGoh5eqdXUk2XiuNlQavf8/XC8e+LhSJDWU2iQKvIGAcqODTFOtmAifp+9vgY+lU9owIwhPM5Je1aJq0kqUpuIkmdJfmNzuGjGmmLQLOKIJQLtqO+VWpqaoIMR9TuZr3BY/aZRm7+Fw+V1AelPFsrIcoeyRV70IwXnwjNmRYOne0ka7Ia6rkuKuz9+oAcHBj7Ju0Y4kFWZn51oUgbMdwzD7TYXkH2DVgd2CraBKobqMmodgUCcdSHHK0=;isjcCMtemurBsfMZDXlRSQ=="
+secured: "VwWFGec4NrTxrslzKIBgVi4T6cm193Fqy18w9TmuVI/RMnqalMR2/t1OCRGeDrRYg9xqs1MVETMDfPIM1VZ0uzd8OTWOa5yvuzm2GlcOmFOzGKH/bvYWiD2Tz2/1gvGxHqeQsI8XtIQiO3CWj5/ho5CQri1BKpOz9XaGPTU+GG70yjOYBN017SkyQ2lKxMiP5vqmK+Q6VMCG39SSGeXqKZdxzBudsXP9BQJGVL0feGiGUUNwXXomfhgvKdJ/gYaTgAMyFJJyqDSmDcYvR84dWigJ4elc+adeXG+gwroEzGRNFj4U9iEOs11L93W1jjlJLSCKbE1L/DMIDKXAKYFqjV8BBjhigYnJ5QK33D+Z5iI=;Kz7USXpzGPS2ZasvvS+++w=="
 ---
 

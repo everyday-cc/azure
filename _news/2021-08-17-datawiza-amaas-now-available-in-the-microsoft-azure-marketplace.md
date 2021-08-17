@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Microsoft Azure Data VP Rohan Kumar: ‘It's Not Just About The Innovation Piece’"
-excerpt: "Amid the coronavirus pandemic, discussions about the cloud and digital transformation have turned a lot more toward value creation and total cost of ownership, Kumar says."
-publishedDateTime: 2020-06-10T16:02:00Z
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-azure-data-vp-rohan-kumar-it-s-not-just-about-the-innovation-piece-"
+title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
+excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-08-17T13:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
 type: article
-quality: 33
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.crn.com/resources/025e-0f9e7f014024-ea501a6b983f-1000/rohan_kumar.jpg"
-    width: 499
-    height: 499
-    isCached: true
-    title: "Microsoft Azure Data VP Rohan Kumar: ‘It's Not Just About The Innovation Piece’"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -116,6 +110,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Microsoft Azure Data VP Rohan Kumar: ‘It's Not Just About The Innovation Piece’"
+    excerpt: "Amid the coronavirus pandemic, discussions about the cloud and digital transformation have turned a lot more toward value creation and total cost of ownership, Kumar says."
+    publishedDateTime: 2020-06-10T16:02:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-azure-data-vp-rohan-kumar-it-s-not-just-about-the-innovation-piece-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 33
+    images:
+      - url: "https://www.crn.com/resources/025e-0f9e7f014024-ea501a6b983f-1000/rohan_kumar.jpg"
+        width: 499
+        height: 499
+        isCached: true
   - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
     excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
     publishedDateTime: 2020-06-16T07:20:00Z
@@ -204,15 +212,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 17
-  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-08-17T13:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
     publishedDateTime: 2020-06-06T19:22:00Z
@@ -239,6 +238,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "MS6hfeviofoI/EfUJg5cLDjByNdLNq+OOGNifjEN2mDrGBSawTqeXPS4orBX+7dt6OD63tstAiBvwOenaum3U216Inr5ZccA5vjJlJFvgXOrVs6aaOyHEvh06JdzCqaHUG6bTpEwd+oAWA1h2fMqsGyl7lJENS6AtkE5/DHgcozDfaYAf1+rcZrsNrpj9uOv6AOp1pVObZj97A0B8xCeZWqLDcBD4lXmmsM58965WuMl6B8GotMB5sW2OFjWADgO/8xXq/6fEO1RrcRmWnnHIk2krnOZ+U23ksIAEGjXcCLt+coKG+tlqQgiONhszdeOnzkmvpNG3UTfmnbEugq9CBRUp9fNCa7VePxqqoAnUURpuYSxJUzpp+kWDpV5LgcecOSnYirkStUom/cCCTVExcrRuOzJC45vjIke6GZab/J+SQ+JD46lppKPazndFKhFH5/K54z2UJ6mj9Ie3pXmGiXDIGTB5GnXjQSySFC7ewjy6NJRHryG4idFwCC/Yw4b;/+R3AtDh29mAzsBLkDfR2Q=="
+secured: "HEpTGe0pNrh3qBInwpRm2aqT7fAmo6w25Los6rl1iyrnekyv8SUK4hyDYfKGTKdFWrSatDcFKkV/hg9kl+sKY5SMTNQL+pl0FZrz/+NZxHg/t+HuNFktEF2bSu+Ed7Rwwl3edReLQNW/gE1ifwFOXMpVYbcPEd8sWlKYzCc9KeKTyrCnlEw2suRzFELo2UbZAqzGSEKx3kowSG8XuKEGw/JBgCoQV5kAonAg1q3AOoq6RY8yErmw+UGb300vcEe/MSHXiPz3KVE66eImoFvwFhi1fNfF9reqqvLGP0yRz410HFIV5JRgrEXzs6Uih4fqZo2uC7NL1n+54DgUYQyZBp0AyI83C74rpHl6Q5iqjv0=;fjrYaNQ8Y8L4LZsZwLglWw=="
 ---
 

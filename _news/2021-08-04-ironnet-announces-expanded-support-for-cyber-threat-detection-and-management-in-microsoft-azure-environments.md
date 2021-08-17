@@ -161,6 +161,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chris Hines Joins Helient As Managing Director, Microsoft Cloud Services Leading Digital Transformation, Office 365 & Azure Solutions"
+    excerpt: "PHILADELPHIA, Aug. 17, 2021 /PRNewswire-PRWeb/ -- Helient Systems LLC (Helient) is pleased to announce Chris Hines has joined the company as Managing Director, Microsoft Cloud Services. Formerly the General Manager of the Microsoft business unit of a large ..."
+    publishedDateTime: 2021-08-17T19:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_27cae7e4-cedb-52b5-b6f2-847f8989f45a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 6
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "D4XhxN9SLuOUkqLkRXvuPAM9ZtREpz6VY1gFUU99z1EfXPewpX4PL/5AsgHLzDoyG4fjglSJo1K4cDdnkId6Qblx+Sitwv0hnj2nlPulUjx5vrgwYgDx1XgGWub7F10rBcfZFbNT3+1BO5V0iyyHXYOj+dtZm3BHJO2J5vCNOn2ntflyhzvY5ORRCHpFXxaNuVoM9q25WDf9mmAyGA88oSvCFDUU5wFTN3L1kQJrrAzxDgQ2TCSP2loG8w5cjV8tg+5wMAZndXBcjeZWof6qPHlpjYNOv0HvoFCMt0Wi3/TYS1Pbpc0olTL+CjwNoegofIvHkkPvZ/wCWPhP7Yl8WUm3bOeObwa9392WAj3xlK8=;pYKHYvu8azTt01GTYIqUdg=="
 ---
