@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-17T09:00:12Z
 originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-streaming-analytics-q2-2021/"
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-streaming-analytics-q2-2021/"
 type: article
-quality: 86
-heat: 146
+quality: 88
+heat: 148
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - Analytics
+  - IoT
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b05f91f0-afa4-4b6d-9a08-1e70dba99d6e.gif"
