@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
 type: article
 quality: 99
-heat: 419
+heat: 479
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
+  - title: "Azure Database for MySQL - Flexible Server: Eight new regions supported "
+    excerpt: " The public preview Azure Database for MySQL - Flexible Server (Preview) is now supported in eight additional regions."
+    publishedDateTime: 2021-08-18T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-eight-new-regions-supported/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
   - title: "Azure Database for MySQL - Flexible Server: PowerShell Module in public preview"
     excerpt: "Use PowerShell to manage dependent resources and Azure Database for MySQL-  Flexible Servers. "
     publishedDateTime: 2021-05-12T16:00:20Z
@@ -68,6 +77,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
+  - title: "Azure Database for MySQL - Flexible Server: Standby Zone selection in public preview"
+    excerpt: "Choose your standby server zone location for Azure Database for MySQL – Flexible Server."
+    publishedDateTime: 2021-08-18T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-standby-zone-selection-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
+  - title: "Azure Database for MySQL - Flexible Server: Burstable credit metrics in public preview "
+    excerpt: "Azure Database for MySQL – Flexible Server enables users to monitor burstable credits using Azure monitor."
+    publishedDateTime: 2021-08-18T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-burstable-credit-metrics-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "Azure Database for MySQL – Single Server: Planned maintenance notifications in general availability"
     excerpt: "Setup alerts on the Azure portal to be notified about planned deployments with planned maintenance notifications for Azure Database for MySQL – Single Server."
     publishedDateTime: 2021-06-09T16:00:41Z

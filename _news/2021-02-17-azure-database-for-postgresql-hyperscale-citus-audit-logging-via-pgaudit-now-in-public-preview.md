@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 89
+  - title: "Azure Database for PostgreSQL – Hyperscale (Citus): Managed PgBouncer now generally available"
+    excerpt: "PgBouncer, a popular connection pooler for Postgres, is now part of the Azure Database for PostgreSQL - Hyperscale (Citus) managed service."
+    publishedDateTime: 2021-08-18T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-managed-pgbouncer-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
   - title: "Azure Database for PostgreSQL – Hyperscale (Citus) same region read replicas in public preview"
     excerpt: "Now you can create read replicas of your Hyperscale (Citus) server group for enhanced read scalability."
     publishedDateTime: 2021-04-14T16:01:07Z
@@ -86,6 +95,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 87
+  - title: "Azure Database for PostgreSQL - Hyperscale (Citus): Support for Citus 10 now generally available"
+    excerpt: "The support of Citus 10, with columnar storage and more, is now included in Azure Database for PostgreSQL – Hyperscale (Citus), a managed service running the open source Postgres database on Azure."
+    publishedDateTime: 2021-08-18T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-support-for-citus-10-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
   - title: "Public preview: Azure Database for PostgreSQL – Hyperscale (Citus) support for PostgreSQL 12 and 13"
     excerpt: "Create Azure Database for PostgreSQL - Hyperscale (Citus) server groups with Postgres 12 and Postgres 13, in addition to previously supported Postgres 11."
     publishedDateTime: 2021-05-25T16:00:16Z

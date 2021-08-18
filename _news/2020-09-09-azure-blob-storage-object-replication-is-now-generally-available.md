@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 699
+heat: 679
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
     excerpt: "Administrators can set a retention policy and recover data from a deletion of a blob container without contacting support"
     publishedDateTime: 2021-07-12T16:00:02Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-container-soft-delete-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Azure Blob storage - Inventory generally availability"
-    excerpt: "Administrators can enable a daily or weekly inventory to be created to gain understanding of their blobs and containers."
-    publishedDateTime: 2021-08-17T23:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-inventory-generally-availability/"
     type: article
     provider:
       name: Microsoft

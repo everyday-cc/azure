@@ -165,6 +165,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 89
+  - title: "Azure Database for PostgreSQL - Flexible Server: Burstable credit metrics in public preview "
+    excerpt: "Flexible Server enables users to monitor burstable credits using Azure monitor on Azure Database for PostgreSQL, a managed service running the open source Postgres database."
+    publishedDateTime: 2021-08-18T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-burstable-credit-metrics-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
+  - title: "Azure Database for PostgreSQL – Flexible Server: New regions now available in public preview "
+    excerpt: "You can now provision Azure Database for PostgreSQL - Flexible Server in five new regions"
+    publishedDateTime: 2021-08-18T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-new-regions-now-available-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
   - title: "The public preview of Azure Database for MySQL – Flexible Server is available in two new regions"
     excerpt: "France Central and Brazil South regions are now available deployment options for the public preview of Azure Database for MySQL – Flexible Server."
     publishedDateTime: 2021-04-28T16:01:37Z

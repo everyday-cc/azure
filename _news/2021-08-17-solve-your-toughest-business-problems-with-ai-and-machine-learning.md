@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-17T10:00:12Z
 originalUrl: "https://azure.microsoft.com/blog/solve-your-toughest-business-problems-with-ai-and-machine-learning/"
 webUrl: "https://azure.microsoft.com/blog/solve-your-toughest-business-problems-with-ai-and-machine-learning/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - AI
+  - Analytics
 
 secured: "4jRXZ9srlk29Br7B3IWQsD5UX1pqhMMDnqZIByIZfffzkPbKWWsIuT3gqsrwvgCWvo+q+EQR0oZ/LStLDm0Z+chyWK+6Fw2az9nEMixytSnqS+pB3nfWzXVQcn03er2sJDEME6PIaY6IkvU2U5cHK6bEqG9yUpWoLNcEiKHhcQrIex++RVpG8FY5I7H1nv7cIxTKwyuRrOghX6YfCWnA2fs6cgswkhFaNsWTR8AvnbIisVeuvNZugF+oZ8AHYGQl34VfBGpQ9rEnSulMnPLjNd2mrXvEHbPyqXWs02ZANI1Y9EYJSErZIiXB+aiggWJvcX4+Dh9oDa0ubIFVhtppE0zGwzIW164/BYNfFvKKz7k=;TD93EJf4LeYLC+1buvC9WA=="
 ---

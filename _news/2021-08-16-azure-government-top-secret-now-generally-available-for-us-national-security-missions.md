@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/azure-government-top-secret-now-g
 webUrl: "https://azure.microsoft.com/blog/azure-government-top-secret-now-generally-available-for-us-national-security-missions/"
 type: article
 quality: 97
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -29,54 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Azure VM extension upgrade capabilities now generally available"
-    excerpt: "Automatic extension upgrade provides safe and automatic upgrades for extensions on Azure Virtual Machines and Virtual Machine Scale Sets, keeping your environments more secure and up to date."
-    publishedDateTime: 2021-08-11T15:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/automatic-extension-upgrade-now-available/"
+  - title: "Mounting Azure Storage as a local share for web apps deployed on App Service is generally available"
+    excerpt: "This new capability enables mounting Azure Storage as a network share in a built-in Linux container or a custom Linux container deployed to App Service for Linux."
+    publishedDateTime: 2021-08-18T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/mounting-azure-storage-as-a-local-share-for-web-apps-deployed-on-app-service-is-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 66
-  - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
-    excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
-    publishedDateTime: 2021-08-17T12:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
+    quality: 104
+  - title: "Azure Blob storage - Inventory generally availability"
+    excerpt: "Administrators can enable a daily or weekly inventory to be created to gain understanding of their blobs and containers."
+    publishedDateTime: 2021-08-17T23:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-inventory-generally-availability/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 49
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft 'Azure Government Top Secret' Goes GA"
-    excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
-    publishedDateTime: 2021-08-17T20:16:00Z
-    webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
-    excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
-    publishedDateTime: 2021-08-16T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community"
-    ampWebUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 32
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
 
 secured: "IZ+O51NtfEjKZk7GD2sQmf80nhvxA1R2ne2nWXae2MVXbnAvag/1BxAcvGuB17R5OZIkcWRoobgYEFBsRiT4yXxYZFT2RY15e+10sYrihcO4Sd7xhM0j5Z83ahm/5ngopuqZl7jionuEpnlztRM4MJRKCBbG7CGaD5XAQVr5Ux01RO8pOjG8F1ofhjQthBVB5JXI9o9Eqb4wd88j86w0NI8XcZgaw74QpPdELS0uC24Pty1WXMjs+9xtHaxCH4B9U/xPGB0UtdnUPjugfqrvORjpmbVuxaja8G4jBXR18fVzltXLF3VDo6payLAPNnLmfQAVsRBPXU+TEbWfcBbvKWvBOBYPA5wPOx2++joQrJc=;8MzDeXrcbv9bHZEl/yvUjA=="
 ---

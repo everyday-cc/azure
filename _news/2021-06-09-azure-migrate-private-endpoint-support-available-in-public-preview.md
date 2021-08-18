@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-private-en
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-private-endpoint-support-available-in-public-preview/"
 type: article
 quality: 84
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Migration
 
 related:
+  - title: "Azure Static Web Apps adds public preview support for Private Endpoints "
+    excerpt: "Secure your static web apps with Private Endpoints by limiting exposure to the public internet."
+    publishedDateTime: 2021-08-18T16:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-static-web-apps-adds-public-preview-support-for-private-endpoints/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "Azure Digital Twins Explorer available in public preview"
     excerpt: "Visual developer tool for exploring your digital twin is now available as a web application."
     publishedDateTime: 2021-06-02T17:00:06Z

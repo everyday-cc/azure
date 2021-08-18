@@ -102,6 +102,36 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Avaya, Microsoft announce integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
+    excerpt: "The companies have announced the integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS."
+    publishedDateTime: 2021-08-18T06:39:00Z
+    webUrl: "https://www.itweb.co.za/content/GxwQD71ZJBNMlPVo"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/GxwQD71ZJBNMlPVo"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/GxwQD71ZJBNMlPVo"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 57
+    images:
+      - url: "https://lh3.googleusercontent.com/z5OfrBnxum0G4sy1X-he2-kNZSrtFrbC1noY8PBCsOI-QuFuuqPWFTS3PIh2jMLJhgZxGuuNexVbC4vvC-rzZ1M=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
+    excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
+    publishedDateTime: 2021-08-17T12:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 49
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Azure unveils automated ransomware detection tool: 5 details"
     excerpt: "Microsoft has unveiled a ransomware detection feature for its Azure clients. The tool will send alerts to security analysts when it detects potential ransomware activities, according to an Aug. 9 ..."
     publishedDateTime: 2021-08-10T18:41:00Z
@@ -115,6 +145,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/cybersecurity/3.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Microsoft 'Azure Government Top Secret' Goes GA"
+    excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
+    publishedDateTime: 2021-08-17T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Microsoft Taps SES' Next-Gen MEO Satellite for Azure Cloud Services"
     excerpt: "SES announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
@@ -130,20 +174,28 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T06:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES's O3b mPOWER medium earth orbit satellite system to provide additional network diversity, service resiliency and gigabit connectivity as more critical workloads move to"
+    publishedDateTime: 2021-08-18T06:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/b22550665/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22550665"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22550665"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+  - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
+    excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
+    publishedDateTime: 2021-08-16T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community"
+    ampWebUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 32
   - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
     excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
     publishedDateTime: 2021-08-12T14:24:00Z

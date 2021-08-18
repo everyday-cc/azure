@@ -30,6 +30,60 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 114
+  - title: "Azure Database for PostgreSQL - Hyperscale (Citus): Basic tier now generally available"
+    excerpt: "You can now run Hyperscale (Citus) on a single node with Hyperscale (Citus) Basic for Azure Database for PostgreSQL, a managed service running the open source Postgres database."
+    publishedDateTime: 2021-08-18T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-basic-tier-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
+  - title: "Azure Database for PostgreSQL - Hyperscale (Citus): PostgreSQL 12 & 13 now generally available "
+    excerpt: "Create Azure Database for PostgreSQL - Hyperscale (Citus) server groups with Postgres 12 and Postgres 13, in addition to previously supported Postgres 11."
+    publishedDateTime: 2021-08-18T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-postgresql-12-13-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+  - title: "Azure Database for PostgreSQL - Hyperscale (Citus): Columnar compression now generally available"
+    excerpt: "Included with Citus 10, columnar compression is now supported in the Hyperscale (Citus) option in Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure."
+    publishedDateTime: 2021-08-18T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-columnar-compression-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+  - title: "Azure Database for PostgreSQL – Hyperscale (Citus): Server group restart now generally available"
+    excerpt: "The restart server group capability is now available for Hyperscale (Citus) on Azure Database for PostgreSQL, a managed service running the Postgres open-source database on Azure."
+    publishedDateTime: 2021-08-18T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-server-group-restart-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+  - title: "Azure Database for PostgreSQL - Hyperscale (Citus): Same region read replicas now generally available"
+    excerpt: "Now you can create read replicas of your Hyperscale (Citus) server group for enhanced read scalability with Azure Database for PostgreSQL, a managed service running the open source Postgres database."
+    publishedDateTime: 2021-08-18T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-same-region-read-replicas-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Database for PostgreSQL | Scheduled maintenance for Hyperscale (Citus) now generally available"
+    excerpt: "Now Hyperscale (Citus) supports custom maintenance schedules with Azure Database for PostgreSQL, a managed service running the open source Postgres database."
+    publishedDateTime: 2021-08-18T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-maintenance-schedules-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Transparent Data Encryption with customer-managed keys for SQL Database Hyperscale"
     excerpt: "This feature enables bring your own key (BYOK) support for data protection at rest, using Azure Key Vault, for Azure SQL Database Hyperscale customers. "
     publishedDateTime: 2020-12-09T17:00:17Z

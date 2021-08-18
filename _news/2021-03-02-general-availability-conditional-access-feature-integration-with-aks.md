@@ -75,6 +75,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "General availability: CSI storage driver support on Azure Kubernetes Service "
+    excerpt: "Natively leverage storage systems in Kubernetes using Container Storage Interface storage drivers."
+    publishedDateTime: 2021-08-18T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-csi-storage-driver-support-on-azure-kubernetes-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
   - title: "General availability: Azure monitor for containers now supports Pods & Replica set live logs in AKS resource view"
     excerpt: "View live logs of your pods & replica-sets in Azure Kubernetes Service(AKS) resource view. Filter, search, and troubleshoot your pods and replica-sets."
     publishedDateTime: 2021-03-05T21:00:08Z
@@ -84,6 +93,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 95
+  - title: "General availability: Public DNS support for private Azure Kubernetes Service clusters "
+    excerpt: "Simplify name resolution to your AKS clusters without compromising your Kubernetes API server security."
+    publishedDateTime: 2021-08-18T16:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-public-dns-support-for-private-azure-kubernetes-service-clusters/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
+  - title: "General availability: AKS support for Kubernetes 1.21"
+    excerpt: "Azure Kubernetes Service (AKS) users can now benefit from enhancements and capabilities in Kubernetes 1.21."
+    publishedDateTime: 2021-08-18T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-aks-support-for-kubernetes-121-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Assessments for migration to Azure VMware Solution "
     excerpt: "You can seamlessly migrate your VMware applications to Azure with ease due to assessments for migration to Azure VMware Solution."
     publishedDateTime: 2021-03-02T17:00:15Z
