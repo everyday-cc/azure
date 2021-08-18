@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
-excerpt: "Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system ..."
-publishedDateTime: 2021-08-17T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/xpeedic-eda-cloud-platform-on-microsoft-azure/"
-webUrl: "https://www.financialbuzz.com/xpeedic-eda-cloud-platform-on-microsoft-azure/"
+excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
+publishedDateTime: 2021-08-17T12:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -182,17 +182,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES's O3b mPOWER medium earth orbit satellite system to provide additional network diversity, service resiliency and gigabit connectivity as more critical workloads move to"
-    publishedDateTime: 2021-08-18T06:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/b22550665/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22550665"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22550665"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -256,6 +245,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "6oVZBXfCY7dXZkukIuDGAEzM1c5fSImpo5vPZ/MON138Rn6DBARmKGl4O+i26JxqG5NNC7F5/zmWjWV/e2iInNvQb1MAglmvbXpfEIjfjC/yRrOmAV6BFOUJSuNIjV87kNfW/uqYEUC7PycVW7nWbgYIOiVQgDYgggbF+yHDhLnDVxHQPSTGhOI8JCy928qm/X8zmo7euYV5zesgcDqmvQz1ZxyYqBz7shC3uV41b1GWG2PD+bQPCQ7+bHdKCepT5R3jwkx44OmQ72UTDhj0eJOvUcXGeM/1GNemLHF/zDMlQMOq9F6dGiOUPVqcs6nhMKj0mLbXrQ1X9BdYIzHI/OkSiYAqoXUAsNnMltQvZag=;R8WY+h6VIpibvO591TQrDg=="
+secured: "E681cFPifLXNmLAtWFxR1O6R1whTfnvT1Zb3Dz+j0diZ41RnrBPMJ2mIATncdLccPNQnOK9kT5vGMxK1h87l5CGV4c1pJcWfcvyhzkMrjNEQrG8ErQximO47SsJP/Suq7NMzN5HO60rFq3nX/kP6VjXpIGNjfg61fEvfqHlrHd23OvWxfPqxnlQJE+lLX+I4+ANSjeXlLZAZ11t/+pvdDAXLBTxdcRaIHN2OHvdYkGkOgW1SZEN6oJI55+6D0X5kb/dS5DTbuDzEqsKq9SaWucjjs6zXmaxIro9T1trQ4EBsx4eS8nh1CGBHkIcBanWVte+BzcMt3QOXWVCudRpPft7HOUI6kvhu/5eDQfkvcLM=;26Gp/qdy3gXJDjJc0MT6EQ=="
 ---
 

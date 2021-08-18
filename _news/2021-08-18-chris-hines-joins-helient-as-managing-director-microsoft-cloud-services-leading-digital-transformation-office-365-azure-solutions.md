@@ -188,17 +188,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES's O3b mPOWER medium earth orbit satellite system to provide additional network diversity, service resiliency and gigabit connectivity as more critical workloads move to"
-    publishedDateTime: 2021-08-18T06:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/b22550665/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22550665"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22550665"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -225,13 +214,13 @@ related:
         height: 450
         isCached: true
   - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
-    excerpt: "Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system ..."
-    publishedDateTime: 2021-08-17T12:00:00Z
-    webUrl: "https://www.financialbuzz.com/xpeedic-eda-cloud-platform-on-microsoft-azure/"
+    excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
+    publishedDateTime: 2021-08-17T12:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
   - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
     excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Police Service (the Met) and Microsoft Azure to ..."

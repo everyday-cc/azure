@@ -34,10 +34,33 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
+    excerpt: "Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that"
+    publishedDateTime: 2021-08-18T18:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/1597470/Cirrus_Identity_Logo.jpg?p=facebook"
+        width: 868
+        height: 454
+        isCached: true
+  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-18T09:20:00Z
+    webUrl: "https://www.afp.com/en/news/1314/sess-o3b-mpower-tapped-microsoft-azure-network-cloud-services-202108170059261"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 17
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-    publishedDateTime: 2021-08-17T15:02:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/08/17/9431959.htm"
+    publishedDateTime: 2021-08-17T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
     type: article
     provider:
       name: TMCnet

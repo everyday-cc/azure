@@ -116,20 +116,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-08-17T13:07:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
     excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
     publishedDateTime: 2020-06-16T07:20:00Z
@@ -217,6 +203,15 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
+    quality: 17
+  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-08-17T13:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"

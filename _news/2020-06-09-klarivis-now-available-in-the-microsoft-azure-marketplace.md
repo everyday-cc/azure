@@ -102,20 +102,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-08-17T13:07:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Azure Data VP Rohan Kumar: ‘It's Not Just About The Innovation Piece’"
     excerpt: "Amid the coronavirus pandemic, discussions about the cloud and digital transformation have turned a lot more toward value creation and total cost of ownership, Kumar says."
     publishedDateTime: 2020-06-10T16:02:00Z
@@ -217,6 +203,15 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
+    quality: 17
+  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-08-17T13:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
   - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
     excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
