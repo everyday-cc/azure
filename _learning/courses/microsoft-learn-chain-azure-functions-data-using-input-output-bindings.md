@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H10M
 ratings:
-  count: 4161
-  average: 4.5462627
-heat: 51
+  count: 4162
+  average: 4.546372
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -28,6 +28,6 @@ topics:
   - Serverless
   - Storage
 
-secured: "+A+YT0oxXSSEqts0VTAe1U1JYMtC4wSP0Rvt+dbGZsYeDABDm08LQAghUlcsbE1zZCfkkFrzmsWEFK1dhKFRNwJonw7FwKFD5BxbR4BSF+KVTfYrX6A4szb3T4lRHYyAdjupWm92yuYnfpQWG84Eq+eQf+o24wMjfylX7J6YMu9JRzKc3yEdIDveG5ojMZCybxlD4FPcrcXnfzXpMNALQdnYPfW7E+Aq1nTndFM0Wa1yI8GJ4cPdz0z300wlzxe7nzgB8DuAwc16ydWUm5cjv9XgUK42IaYjtP+8albjz4StjWg3/I+4nYa8dq3ip4An8UgFz4ddQ261AJkBDRHU65Wm28bHjwSZYv/H9YlUb/gXOmo1hLAgPNm7trOpjh+xs8QgzVljsrZ8FSRwvdHiTtbFXMDk1UhwC/NBOKhdNWM=;d7hJiULsnCQbTEf5a7msDg=="
+secured: "ssGTPTCZHK6Oe0SXujnk0z5Kv6J7Ii9kGHmL4qDgwF1qxH7CVT1urf/0o3p524TUlw+0398Z/yPFSivNh8psJTtzYjrF6W60LXgCMHoOqNoHC1nmC3FudE75Ec7bL22zjRQTRBpRtGZoAUA/bvXkkjHUIr6OqBfTG+V/zuRLLJ5yaxwddvGsc0xisPfbU7IRjfWvH5FZTUtHW6K7tr+Vy+a8JpN5+ujQXR2p3UyXsl5pwvMq4Y3bQ8DjgqicXN8FEXXKv9rL5mWZcCqPikR2jpuXoKt6JUlB7vUydaj/piy6xNQzf4TAQPqp5qNl1HeWevdMlunDzQpJ/0wYWARBGB5odI6WwZ7xfvglDJuf4SsMZU93crolQfWjk9wXqi0wJIxQ++GQj7PWG0ce7h9ehCVMBYPE+bGd6Vngc+IOrhY=;j8V2z/OL3HiBPD7sxZJ/eA=="
 ---
 
