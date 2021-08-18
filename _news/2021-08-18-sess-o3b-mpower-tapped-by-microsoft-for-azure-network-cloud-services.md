@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Chris Hines Joins Helient As Managing Director, Microsoft Cloud Services Leading Digital Transformation, Office 365 & Azure Solutions"
-excerpt: "PHILADELPHIA, Aug. 17, 2021 /PRNewswire-PRWeb/ -- Helient Systems LLC (Helient) is pleased to announce Chris Hines has joined the company as Managing Director, Microsoft Cloud Services. Formerly the General Manager of the Microsoft business unit of a large ..."
-publishedDateTime: 2021-08-17T19:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_27cae7e4-cedb-52b5-b6f2-847f8989f45a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_27cae7e4-cedb-52b5-b6f2-847f8989f45a.html"
+title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+excerpt: "SES's O3b mPOWER medium earth orbit satellite system to provide additional network diversity, service resiliency and gigabit connectivity as more critical workloads move to"
+publishedDateTime: 2021-08-18T06:50:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/b22550665/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/b22550665/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services"
+ampWebUrl: "https://www.benzinga.com/amp/content/22550665"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22550665"
 type: article
-quality: 6
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
@@ -144,17 +140,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES's O3b mPOWER medium earth orbit satellite system to provide additional network diversity, service resiliency and gigabit connectivity as more critical workloads move to"
-    publishedDateTime: 2021-08-18T06:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/b22550665/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22550665"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22550665"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
     excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
     publishedDateTime: 2021-08-12T14:24:00Z
@@ -192,6 +177,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chris Hines Joins Helient As Managing Director, Microsoft Cloud Services Leading Digital Transformation, Office 365 & Azure Solutions"
+    excerpt: "PHILADELPHIA, Aug. 17, 2021 /PRNewswire-PRWeb/ -- Helient Systems LLC (Helient) is pleased to announce Chris Hines has joined the company as Managing Director, Microsoft Cloud Services. Formerly the General Manager of the Microsoft business unit of a large ..."
+    publishedDateTime: 2021-08-17T19:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_27cae7e4-cedb-52b5-b6f2-847f8989f45a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 6
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
     excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."
     publishedDateTime: 2021-08-04T12:32:00Z
@@ -202,6 +201,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "VwWFGec4NrTxrslzKIBgVi4T6cm193Fqy18w9TmuVI/RMnqalMR2/t1OCRGeDrRYg9xqs1MVETMDfPIM1VZ0uzd8OTWOa5yvuzm2GlcOmFOzGKH/bvYWiD2Tz2/1gvGxHqeQsI8XtIQiO3CWj5/ho5CQri1BKpOz9XaGPTU+GG70yjOYBN017SkyQ2lKxMiP5vqmK+Q6VMCG39SSGeXqKZdxzBudsXP9BQJGVL0feGiGUUNwXXomfhgvKdJ/gYaTgAMyFJJyqDSmDcYvR84dWigJ4elc+adeXG+gwroEzGRNFj4U9iEOs11L93W1jjlJLSCKbE1L/DMIDKXAKYFqjV8BBjhigYnJ5QK33D+Z5iI=;Kz7USXpzGPS2ZasvvS+++w=="
+secured: "rq0FX+7uVD3Z9alDxu8hwvvuCHHju+Dzx3cVLv1nWKO4bZTO1aI15/+oQMQQ78/2K53OzyWxcAW1TVHNsrkt5kGPlnClfeToKQW1T9zg1u/hCec2mmJU7Wu1ek4rW+7Ysf+owutP39iKQzQEsA8t89Uysdig70L/YwHovEPYjtWGP+oLTwkLkjlpgU+kGKjm0xozZa30krgW7onMCiDkxJjlXq9wa4mhY7lAA76/CS2SRhSBDIhulqBp1kIoE4TAfoaLgVwQYlzZdX2yTk5kh9batCc6yc+YiCW24MVdZH1fUyJnyihYJUuaY/hR1hEnFjSv5fC3iI8QU7+cw3CUkntsuTDmwFycNbna6JiNC9U=;heFXesuJ6HopizqWegt0YQ=="
 ---
 

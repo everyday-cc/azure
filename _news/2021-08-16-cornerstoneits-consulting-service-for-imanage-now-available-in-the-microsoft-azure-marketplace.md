@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
-excerpt: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace. Aug 16, 2021 8:30 AM ET. Legal Newswire POWERED BY LAW.COM . Innovating the way"
-publishedDateTime: 2021-08-16T12:30:00Z
+excerpt: "New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment ..."
+publishedDateTime: 2021-08-16T12:44:00Z
 originalUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
 webUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
 type: article
@@ -239,6 +239,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "4SSs01NaXF8jojF4Pnm36bsvvA010zKRSmlx+7aw0IcDhttzQfBQLOWX3x2EkTxE7QTpNxT+hrOmIGJZtbFNrFW6sLeZePXh9/2PlgCGuIl2CgRJnzjQLE7syFrCwPeZwJHOziDhqrOKJsTP4eKFNYvyIHBGYg1IBkjDsloqRljcWU/KeHRazb0hykPrFetOpPa9CIf2HRwXY7zZDmihgbW4ksSCQ8cCPOb7wm7OzV753S+ZGoH5J+FaR+PqboK/PqEcc5xpSSwSO3YNQiHmFBW9yPtc7fc5hZNsWeyuRT6MrpVsFd92BsOmVmHEyRA5LPK5bwCGWtq0vL0mtyAmnSITQjDoGd/xQESMtrUL4usgGwf7ri7q9WSAxCEAQXVspWqHWH10VX5AwdMW9gk2+kq14h/Hicfz7mToeOcdZVKZCCjKeoKcBKVSGq0/LEq5VsbTmAeFnWdCSP/ZAWacmcUqIpxy39Ok61qNerGbFMNkcgUe4/MFmFXeDxW15tvGqbpvsSs5SW0DiLLoK/GG6w==;xxnjdMxFNMzjAakKAZypbA=="
+secured: "SiVuw5DPTHM/KqW/mbzDr1Ba/pWwW6uyfe3Q+5C75UOn51jXdfgPHEoYdJlfWYlAfa6uhzE+FVcAm+Aqb2UjRseXXvHH4ombkHoHkHkWkoVI3CSPWKLbqZHOo33vQc4tdXzF8+Eldemr7Vzw3jQzbHvvP1dOeiozdGOv4rlt42ztJcHt1qvcgviijaDUd/iR/93Sri2zoXn7MCJfBJXOvgzNZ6p5Q5o8tvIwMW17zdjd7nZFLdzjoAFsYefG75GCvlawARTeoY+9Iqpo7DtoIK+lfYlf1SdLo+K5gd/9p7iFqbGVZzx3+WNfQ7UlBixf6z9AGd5n6zCMntQZgNMNBFnfVlMMdjsaqN/dk/guj8Y=;yikZaAbTsXvTY9pzxxaSAA=="
 ---
 

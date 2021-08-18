@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Microsoft Azure Purview provides unified data governance"
-excerpt: "Announcing the public preview of a unified data governance service to maximize business value of data."
-publishedDateTime: 2020-12-09T17:58:14Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-purview-provides-unified-data-governance/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-purview-provides-unified-data-governance/"
+title: "SWARM Now Available in the Microsoft Azure Marketplace"
+excerpt: "Aug. 11, 2021 /PRNewswire/ -- SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing ..."
+publishedDateTime: 2021-08-12T02:03:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/swarm-now-available-in-the-microsoft-azure-marketplace-1030718682"
+webUrl: "https://markets.businessinsider.com/news/stocks/swarm-now-available-in-the-microsoft-azure-marketplace-1030718682"
 type: article
-quality: 67
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -121,6 +121,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 71
+  - title: "Microsoft Azure Purview provides unified data governance"
+    excerpt: "Announcing the public preview of a unified data governance service to maximize business value of data."
+    publishedDateTime: 2020-12-09T17:58:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-purview-provides-unified-data-governance/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Microsoft Azure Attestation is now generally available"
     excerpt: "Verify the identity and security posture of a platform before you interact with it."
     publishedDateTime: 2021-02-03T17:00:01Z
@@ -178,15 +187,6 @@ related:
         width: 1000
         height: 696
         isCached: true
-  - title: "SWARM Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Aug. 11, 2021 /PRNewswire/ -- SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing ..."
-    publishedDateTime: 2021-08-12T02:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/swarm-now-available-in-the-microsoft-azure-marketplace-1030718682"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Become a certified Microsoft Azure expert with 42 hours of training for $35"
     excerpt: "The 2021 Complete Microsoft Azure Certification Prep Bundle helps you become a certified expert with 42 hours of training, and it's now just $34.99 for a limited time. Studies show that around ..."
     publishedDateTime: 2020-12-12T17:27:00Z
@@ -753,6 +753,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "5HQmlguY4tm3hArrOPl3NHewKoZdqgLMN0LI4GQWN7VBznIiqcyiaBKsFL+aU1pUTKVoCBBWIjwLZj/hAjuZTkyFkOBT93UsVGo2wJdFoIYsCa85ijoxXtiCZLMVBw7UwL1i5eMqkcBPpdp91sTYdrq51ssa94pjwtJ+c2O0z8N3wKsFjWEOvFGsRLNvOKIi0RKA/Nb6fU9MamIvOyDJg2nMmsxGSrf5wlsm+bTvADGHFSZQxhD2kDZ8C/hy2AKB2Yx4Km3HbeTa1hD2bbJIeFGtEmycBJ3tMw/B2XlEwwFbzU/A9iZ1XY6Iy0HxQRrOnDFG4Bz0hNeiB8GWpI/CdtkqbPyCECpETWh5UG6RRlw=;1w9GzF70AQsq5Z5FQ3munQ=="
+secured: "O5+5Z1+V+ZIgLaW5t6BQMwH2GtRhCe6SXBa0WwYEC8BM3QJMWslkQZZJMTD4Qj0fepYIqEvySCxSepGj92PAAv6Ai1CFmQ8Vko48bnMqRLAeU8kiyRoxHSdlQIi1A9MuBZIrQOdmU5bbp3bUHvguDGDJYSbLN3pXf33C42nAbHZXBcy/EaKhm9daoVK3pjs1nAyeUx1fLE9TE0IwzQWltNJu8SE+BdzvnlcIDDmJnNPAy1LRh8Ygj24Bc2wniP58bDlS3Faz7FXFg3HqVZZwSZ8U+HVNCgUnxKG6bNF4c1hiLQhzKcE4g0ImtTXAJTuj43vhdP260vNi3TEstR6lyTuiq6/IXo7nx+Ilo2y3AyM=;B/NQb3TKG+aUnTfmkNcJ+g=="
 ---
 
