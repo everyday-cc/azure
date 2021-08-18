@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Blob storage - Inventory generally availability"
+    excerpt: "Administrators can enable a daily or weekly inventory to be created to gain understanding of their blobs and containers."
+    publishedDateTime: 2021-08-17T23:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-inventory-generally-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Append blob support in Azure Data Lake Storage is now generally available"
     excerpt: "Applications can now create append blobs in addition to block blobs in Azure Data Lake Storage accounts and append to them using Append Block operations. Applications that need to add information to existing files efficiently and continuously can leverage append blobs."
     publishedDateTime: 2021-05-06T17:00:00Z

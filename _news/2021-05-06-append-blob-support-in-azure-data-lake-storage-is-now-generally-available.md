@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Blob storage - Inventory generally availability"
+    excerpt: "Administrators can enable a daily or weekly inventory to be created to gain understanding of their blobs and containers."
+    publishedDateTime: 2021-08-17T23:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-inventory-generally-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure Blob versioning is now general available "
     excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
     publishedDateTime: 2020-08-31T20:00:37Z

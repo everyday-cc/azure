@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Backup Reports is now generally available"
-excerpt: "Gain visibility into backup job statistics, consumption trends and optimization opportunities across your Recovery Services vaults."
-publishedDateTime: 2021-03-02T17:00:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/backup-reports-is-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/backup-reports-is-now-generally-available/"
+title: "Azure Blob storage - Inventory generally availability"
+excerpt: "Administrators can enable a daily or weekly inventory to be created to gain understanding of their blobs and containers."
+publishedDateTime: 2021-08-17T23:00:21Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-inventory-generally-availability/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-inventory-generally-availability/"
 type: article
-quality: 52
+quality: 99
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Storage
 
 related:
   - title: "Azure Blob storage object replication is now generally available"
@@ -53,15 +54,6 @@ related:
     excerpt: "Administrators can set a retention policy and recover data from a deletion of a blob container without contacting support"
     publishedDateTime: 2021-07-12T16:00:02Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-container-soft-delete-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Azure Blob storage - Inventory generally availability"
-    excerpt: "Administrators can enable a daily or weekly inventory to be created to gain understanding of their blobs and containers."
-    publishedDateTime: 2021-08-17T23:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-inventory-generally-availability/"
     type: article
     provider:
       name: Microsoft
@@ -252,6 +244,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Backup Reports is now generally available"
+    excerpt: "Gain visibility into backup job statistics, consumption trends and optimization opportunities across your Recovery Services vaults."
+    publishedDateTime: 2021-03-02T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/backup-reports-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Object replication public preview for Azure Blob storage"
     excerpt: ""
     publishedDateTime: 2020-05-21T15:44:37Z
@@ -298,6 +299,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "YsNZOxYXL4S1jSIMF4zrsGcX+5/v1CaHviHZJYXaEZTtdesgilBofBQppwrg2HV/hF3nEuhvsjdFvtkmwz1QKI/3gXW8NKfascCTouCIsJrQkN1eaC83etKawhgBlPLe/Z9unWZQ5PSsGYvlHHNmmnn9ZToizTU4XhsQ4XcDYA9oGywmtXjhl5vbYceDr85jtF9vVHZ8345ERSNIE6u9b3g5h6Jr5zMODDyzVfnfvIOYp/HA3qhurpZrijR6VB7eCVOJOnVdJAxcuwOI22SoZXsp9oz1GCV6K5HrpgAb7S0UixnfCcmu+1PT9m3/g3bRE/RgRGTIXaN/ZRpF5YREz+BPpPHRSoHsfqpqJrLUC0Q=;jlXwdVWGRHbeYCmLgeJY4g=="
+secured: "J9CzjGhpdB+fJNd5XR/QrcLV3xyQhn2Gtfk1+U0Wv9L6R281hXvRpQ5NMXzWWzhTmpy/ezEx9B3s6BYqF2t+c8Wv6vk4ohaGq1e0Oc2eMT9gIn0E8DzJD79C4q7cc2MrK7X84ylqO/+V1hYl6V3LiZE+WOTwiPEDXrmne7nq6V6oQe7BMplgYYS9NsdxEoAeWD2QiWqGVoCALssaWJueSMliacMlj3Zb54rtdjLm+U4jy5Ec90zE04TLcnwQZ3iXJ8Fj2p68Fg8t4VqTbRZpd7E0+GDzLztBwwoCgc03ZqEWaiXsWigdlhCsOwAq0HXyJ+98NJgVjcHHeHUlEBJIwoCs9axYRAomJoRSR2hNGCY=;5JBLQ7hRMA6MJ3dIAk2Ffg=="
 ---
 
