@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
 type: article
 quality: 57
-heat: 98
+heat: 97
 published: true
 
 provider:
