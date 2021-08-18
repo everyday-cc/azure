@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
-excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
-publishedDateTime: 2021-08-17T12:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
+excerpt: "Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system ..."
+publishedDateTime: 2021-08-17T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/xpeedic-eda-cloud-platform-on-microsoft-azure/"
+webUrl: "https://www.financialbuzz.com/xpeedic-eda-cloud-platform-on-microsoft-azure/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
@@ -204,6 +204,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "7hc8Q7/x4VOPU7tQbYEXNADEqVpe7q8om9NqolQPLf56a+h9t/kJUiIJa8DYc2sMogHR5S0CFnMVY0PzdhjMDiRTV+dogBLnZ3N47+nl5J5RqFtgh44thmbDyr8+EiWD/8XwjdYqdOJ5Q4u4uDLJm2YXVdbQ5G5rLHT2PyonpLgj0QvcoyPIq3J6hw+Vx2hx0+Qmku6pfyoGOfqbovNrBezcBVOeVPpsGobSjCOCzQqqhbTp+NGWSvvgfNrTvYtq85J0lTjgY+dEd7DEMRoY8vgd7OuotKdu7yJYgZaUBBxy5zWXBKv4HYEcR0RccmFozRBdMHwyEarYiNrtxGtwA+S8FME942PLWrtFybtSP/M=;k2Vr7hxR/4vSZl7CbCyOVg=="
+secured: "6oVZBXfCY7dXZkukIuDGAEzM1c5fSImpo5vPZ/MON138Rn6DBARmKGl4O+i26JxqG5NNC7F5/zmWjWV/e2iInNvQb1MAglmvbXpfEIjfjC/yRrOmAV6BFOUJSuNIjV87kNfW/uqYEUC7PycVW7nWbgYIOiVQgDYgggbF+yHDhLnDVxHQPSTGhOI8JCy928qm/X8zmo7euYV5zesgcDqmvQz1ZxyYqBz7shC3uV41b1GWG2PD+bQPCQ7+bHdKCepT5R3jwkx44OmQ72UTDhj0eJOvUcXGeM/1GNemLHF/zDMlQMOq9F6dGiOUPVqcs6nhMKj0mLbXrQ1X9BdYIzHI/OkSiYAqoXUAsNnMltQvZag=;R8WY+h6VIpibvO591TQrDg=="
 ---
 

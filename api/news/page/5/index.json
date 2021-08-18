@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-28-azure-ultra-disk-is-now-generally-available-in-north-central-us.md",
+      "title": "Azure Ultra Disk is now generally available in North Central US",
+      "excerpt": "Azure Ultra Disk, which offers high performance along with sub-millisecond latency for your data-intensive and transaction-heavy workloads, is now available in North Central US.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-is-now-generally-available-in-north-central-us/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-is-now-generally-available-in-north-central-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T09:02:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-using-pulumi-30-to-manage-azure-infrastructure.md",
       "title": "Using Pulumi 3.0 to manage Azure infrastructure",
       "excerpt": "The Pulumi IaC (infrastructure-as-code) platform takes an interesting route to delivering cloud infrastructures. Instead of using a domain-specific language like Bicep or declarative configurations like Azure’s ARM templates,",
@@ -1135,50 +1177,6 @@
         "Azure",
         "DevOps",
         "Web"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-public-preview-zone-redundant-configuration-for-azure-sql-database-serverless-compute-tier.md",
-      "title": "Public preview: Zone redundant configuration for Azure SQL Database serverless compute tier",
-      "excerpt": "Make your serverless Azure SQL databases resilient to a much larger set of failures, including catastrophic datacenter outages, without any changes of the application logic by selecting zone redundancy.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-zone-redundant-configuration-for-azure-sql-database-serverless-compute-tier/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-zone-redundant-configuration-for-azure-sql-database-serverless-compute-tier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 481,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T09:01:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Databases"
       ]
     }
   ],
