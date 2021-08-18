@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft to commercialize Azure datacenter in Taiwan in 2H22"
-excerpt: "Microsoft is scheduled to kick off operations at its new Azure datacenter in Taiwan in the second half of 2022, which may prompt other web service giants including Amazon Web Services (AWS) to accelerate building similar facilities in the country,"
-publishedDateTime: 2021-08-17T06:30:00Z
-originalUrl: "https://digitimes.com/news/a20210817PD202.html"
-webUrl: "https://digitimes.com/news/a20210817PD202.html"
+title: "Microsoft Taps SES' Next-Gen MEO Satellite for Azure Cloud Services"
+excerpt: "SES announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
+publishedDateTime: 2021-08-18T00:49:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/20544-microsoft-taps-ses-next-gen-meo-satellite-for-azure-cloud-services"
+webUrl: "https://www.thefastmode.com/technology-solutions/20544-microsoft-taps-ses-next-gen-meo-satellite-for-azure-cloud-services"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Digi Times
-  domain: digitimes.com
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://digitimes.com/newsshow/20210817PD202_files/1_b.jpg"
-    width: 640
-    height: 427
+  - url: "https://www.thefastmode.com/media/k2/items/src/554597a1e4eae85d3c93ce1ca6d40d2f.jpg?t=20210818_004732"
+    width: 752
+    height: 408
     isCached: true
 
 related:
@@ -116,19 +116,19 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft Taps SES' Next-Gen MEO Satellite for Azure Cloud Services"
-    excerpt: "SES announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
-    publishedDateTime: 2021-08-18T00:49:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20544-microsoft-taps-ses-next-gen-meo-satellite-for-azure-cloud-services"
+  - title: "Microsoft to commercialize Azure datacenter in Taiwan in 2H22"
+    excerpt: "Microsoft is scheduled to kick off operations at its new Azure datacenter in Taiwan in the second half of 2022, which may prompt other web service giants including Amazon Web Services (AWS) to accelerate building similar facilities in the country,"
+    publishedDateTime: 2021-08-17T06:30:00Z
+    webUrl: "https://digitimes.com/news/a20210817PD202.html"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
+      name: Digi Times
+      domain: digitimes.com
     quality: 37
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/554597a1e4eae85d3c93ce1ca6d40d2f.jpg?t=20210818_004732"
-        width: 752
-        height: 408
+      - url: "https://digitimes.com/newsshow/20210817PD202_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
     excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
@@ -191,6 +191,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "tqxUsC3l6eFmHQrNo03GWrSGSNsnNz4AkOCRvR/sthhZIjE4IfQ+7U4J2lkBIcRXI42vurJWcDSAa/vd7ukMISZVGjW6VBvkdgy7eJB267fhmI250IGXsq6Z6VqjuLRqyvcVnLnJEt+TRTvft2ItVqMgfUzbZjZeRAN5WbvRQr357E/tKYdF8/G6eEpehaek8Z4fjAN0KCEWtnvywDi0Nqpmq1nu5zOv/XchmAd25gGfVGq8lt7Xcxo+Z0GZzl5OnKaNGi83O+AQS+Dq1EYQzsSMmtmQ4dAM+yG8NTm7Yb9E+zcu5oORhKHsBIN5MIGPcBfLTAnW85F/0438o67/wxOqecdWjtoZcWrTLDdvZRPv8tfbUCEoKdOAwJmS0nGOYs1Afo4TRIKGvO0KQFZK1QP/51lJ0SOc0dBTmNEg3UaXEnBAH36eQbSZBnnVTqGE05G74PetW7JYmwD5Q0pqIweDZYj793O7sBderthe4KS7eCtzLc7iYq9AdgjzjCwunIArcjoVEh8QkmmEX7UwnA==;WEQmoVJ/mo6Wd2Zz33I8fg=="
+secured: "F9NWD9pvuXUNEhcbYmLrWGUN6kFZX3hntYoyNHFuTskLh12iUtVvhzAMMyXtbCbGtGe80UC85UGje54Dcgggm3c3MrVwvNrwzc+UK2CKxxrpA5wEfVodQqv44KhPlFl4b/qWsesfq3kJox+bcem8bH3sXVslnaE3InOuAZaVs0XWZJa1Lv4RpQrAn2IoSngSdAtG9V9qMN6WAeYLqRjRHO1/Nde8bF7TfBwW6hMSILhmDs0YhRol1kUYO5AKWqybf3L5yw+LTrZ1Vnk3gkRTaeJl3al4/OWA3KbqcrZVVIa3zkivak6QiJWpnYF9LX8AQc5zb3S5e/U+KNpMXj118Vv3gAc31f/pNWXsU/pX+eA=;rnY6qqqttQDMtI8PF8pjtA=="
 ---
 

@@ -120,6 +120,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Microsoft Taps SES' Next-Gen MEO Satellite for Azure Cloud Services"
+    excerpt: "SES announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
+    publishedDateTime: 2021-08-18T00:49:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20544-microsoft-taps-ses-next-gen-meo-satellite-for-azure-cloud-services"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/554597a1e4eae85d3c93ce1ca6d40d2f.jpg?t=20210818_004732"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
     excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
     publishedDateTime: 2021-08-12T14:24:00Z

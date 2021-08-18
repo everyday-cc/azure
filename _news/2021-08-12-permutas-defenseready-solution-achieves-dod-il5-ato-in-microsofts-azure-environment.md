@@ -130,6 +130,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Microsoft Taps SES' Next-Gen MEO Satellite for Azure Cloud Services"
+    excerpt: "SES announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
+    publishedDateTime: 2021-08-18T00:49:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20544-microsoft-taps-ses-next-gen-meo-satellite-for-azure-cloud-services"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/554597a1e4eae85d3c93ce1ca6d40d2f.jpg?t=20210818_004732"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
     excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
     publishedDateTime: 2021-08-17T12:16:00Z
