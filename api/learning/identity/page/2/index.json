@@ -2655,8 +2655,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
           "length": "PT32M",
           "ratings": {
-            "count": 527,
-            "average": 4.806452
+            "count": 528,
+            "average": 4.806818
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3275,8 +3275,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 514,
-        "average": 4.819066
+        "count": 516,
+        "average": 4.8197675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3318,8 +3318,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 6607,
-        "average": 4.740427
+        "count": 6608,
+        "average": 4.740466
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3361,8 +3361,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 5130,
-        "average": 4.7641325
+        "count": 5131,
+        "average": 4.7641788
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3487,8 +3487,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-active-directory/",
       "length": "PT27M",
       "ratings": {
-        "count": 65,
-        "average": 4.6923075
+        "count": 67,
+        "average": 4.641791
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3523,45 +3523,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday.md",
-      "title": "Issue and accept verifiable credentials using Azure Active Directory | Azure Friday",
-      "excerpt": "Sydney Morton joins Scott Hanselman to show how verifiable credentials enable you to own and prove who you are in the digital world. See how to enable decentralized identity through seamless user and developer experiences.  ⏩ 0:00 – Intro ⏩ 0:37 – Overview ⏩ 3:01 – Demo – end user experience ⏩ 6:14 –",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=xtEXx67J41o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xtEXx67J41o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M4S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-07-16T03:08:56-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xtEXx67J41o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-basic-services-identity-types-of-azure-active-directory-azure-ad.md",
       "title": "Explore the services and identity types of Azure AD",
       "excerpt": "Explore the services and identity types of Azure AD",
@@ -3569,8 +3530,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
       "length": "PT26M",
       "ratings": {
-        "count": 474,
-        "average": 4.829114
+        "count": 475,
+        "average": 4.8273683
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3845,6 +3806,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
+      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
+      "excerpt": "Learn how to manage device identity by using Azure AD join and Enterprise State Roaming.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 2962,
+        "average": 4.7002025
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
