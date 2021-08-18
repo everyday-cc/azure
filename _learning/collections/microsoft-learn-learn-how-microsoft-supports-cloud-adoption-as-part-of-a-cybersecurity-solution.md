@@ -4,7 +4,7 @@ excerpt: "The cloud fundamentally changes everything. Traditionally, ownership a
 type: collection
 price: Free
 length: PT1H38M
-heat: 76
+heat: 79
 
 provider:
   name: Microsoft Learn
