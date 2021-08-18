@@ -4,49 +4,6 @@
   "page": 51,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices.md",
-      "title": "Identify governing practices for responsible AI",
-      "excerpt": "Learn guiding principles for organizations, and how to choose and operationalize a governance system to responsibly and successfully use AI in the enterprise.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 535,
-        "average": 4.6523366
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-responsible-bots.md",
       "title": "Create a chat bot to help students learn with Azure Bot Service",
       "excerpt": "Learn how to build responsible conversational UI by using bots.",
@@ -1072,8 +1029,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/search-organize-repository-history-github/",
       "length": "PT38M",
       "ratings": {
-        "count": 628,
-        "average": 4.8009553
+        "count": 629,
+        "average": 4.799682
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1279,6 +1236,49 @@
         "Azure",
         "Analytics",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-responsible-conversational-ai.md",
+      "title": "Discover Microsoft safety guidelines for responsible conversational AI development",
+      "excerpt": "Learn Microsoft development guidelines for fair and secure responsible conversational AI.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-responsible-conversational-ai/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-responsible-conversational-ai/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 19,
+        "average": 4.894737
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-responsible-conversational-ai-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],
