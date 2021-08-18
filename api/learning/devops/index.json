@@ -4,16 +4,12 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
-      "title": "Implement logging in a .NET Framework ASP.NET web application",
-      "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 40,
-        "average": 4.65
-      },
+      "path": "_learning/collections/microsoft-learn-protect-public-sector-data-in-azure.md",
+      "title": "Protect public sector data in Azure",
+      "excerpt": "Learn to design conceptual architecture for data classifications using data residency for Microsoft 365 and Dynamics 365 services while utilizing Azure regions and Customer lockbox. Manage breach notifications in Service Trust Portal and Azure Security Center. And encrypt data throughout its lifecycle.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-protect-public-sector-data-in-azure/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-protect-public-sector-data-in-azure/",
+      "length": "PT41M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -29,25 +25,116 @@
       "levels": [
         "Intermediate"
       ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-design-secure-environment-government.md",
+          "title": "Design cloud solutions for the public sector",
+          "excerpt": "Introduction to the stakes and options for implementing Azure to safeguard public sector data.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-secure-environment-government/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-secure-environment-government/",
+          "length": "PT15M",
+          "ratings": {
+            "count": 16,
+            "average": 4.75
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-encrypt-sector-data.md",
+          "title": "Encrypt public sector data in Azure",
+          "excerpt": "Overview of the options available for managing encryption keys and encrypting data throughout its lifecycle, with special attention to public sector.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-encrypt-sector-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/encrypt-sector-data/",
+          "length": "PT26M",
+          "ratings": {
+            "count": 17,
+            "average": 4.882353
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security",
+            "Networking",
+            "Identity",
+            "Storage",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 2,
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile",
         "Management Tools",
+        "IoT",
+        "Identity",
+        "Security",
         "DevOps"
       ]
     },
@@ -82,8 +169,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
           "length": "PT25M",
           "ratings": {
-            "count": 12733,
-            "average": 4.792115
+            "count": 12740,
+            "average": 4.792229
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -125,8 +212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 13637,
-            "average": 4.7858033
+            "count": 13641,
+            "average": 4.7858663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -168,8 +255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
           "length": "PT20M",
           "ratings": {
-            "count": 9600,
-            "average": 4.786875
+            "count": 9607,
+            "average": 4.78703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -215,8 +302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 10329,
-            "average": 4.7316294
+            "count": 10332,
+            "average": 4.731707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -284,8 +371,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
       "length": "PT22M",
       "ratings": {
-        "count": 10737,
-        "average": 4.7722826
+        "count": 10740,
+        "average": 4.7723465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -328,8 +415,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 10329,
-        "average": 4.7316294
+        "count": 10332,
+        "average": 4.731707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -429,8 +516,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4365,
-            "average": 4.7583046
+            "count": 4367,
+            "average": 4.758415
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -472,8 +559,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 3126,
-            "average": 4.650352
+            "count": 3127,
+            "average": 4.6504636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -517,8 +604,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 3218,
-            "average": 4.6911125
+            "count": 3219,
+            "average": 4.6912084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -604,8 +691,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 21972,
-            "average": 4.7090845
+            "count": 21973,
+            "average": 4.7090974
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -799,8 +886,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 8546,
-            "average": 4.720922
+            "count": 8547,
+            "average": 4.720955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -993,8 +1080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 8546,
-            "average": 4.720922
+            "count": 8547,
+            "average": 4.720955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1497,8 +1584,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 1264,
-            "average": 4.754747
+            "count": 1265,
+            "average": 4.7549405
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1639,8 +1726,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
           "length": "PT55M",
           "ratings": {
-            "count": 1572,
-            "average": 4.7665396
+            "count": 1574,
+            "average": 4.766836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1673,8 +1760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 3218,
-            "average": 4.6911125
+            "count": 3219,
+            "average": 4.6912084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1760,8 +1847,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
           "length": "PT35M",
           "ratings": {
-            "count": 700,
-            "average": 4.7314286
+            "count": 701,
+            "average": 4.7318115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1847,8 +1934,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 3126,
-            "average": 4.650352
+            "count": 3127,
+            "average": 4.6504636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1937,8 +2024,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 6823,
-            "average": 4.739997
+            "count": 6824,
+            "average": 4.740035
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2048,8 +2135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 8546,
-        "average": 4.720922
+        "count": 8547,
+        "average": 4.720955
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2375,8 +2462,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 3126,
-            "average": 4.650352
+            "count": 3127,
+            "average": 4.6504636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2465,8 +2552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/",
           "length": "PT45M",
           "ratings": {
-            "count": 1255,
-            "average": 4.6406374
+            "count": 1256,
+            "average": 4.6409235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3240,8 +3327,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 2245,
-            "average": 4.7327394
+            "count": 2246,
+            "average": 4.732858
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4348,8 +4435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 2245,
-            "average": 4.7327394
+            "count": 2246,
+            "average": 4.732858
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4740,8 +4827,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 6823,
-        "average": 4.739997
+        "count": 6824,
+        "average": 4.740035
       },
       "provider": {
         "name": "Microsoft Learn",
