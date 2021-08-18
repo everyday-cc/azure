@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
 type: article
 quality: 57
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 868
         height: 454
         isCached: true
-  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T09:20:00Z
-    webUrl: "https://www.afp.com/en/news/1314/sess-o3b-mpower-tapped-microsoft-azure-network-cloud-services-202108170059261"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 17
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
     publishedDateTime: 2021-08-17T12:15:00Z

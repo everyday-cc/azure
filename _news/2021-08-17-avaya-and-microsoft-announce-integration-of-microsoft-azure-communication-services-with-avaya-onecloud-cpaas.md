@@ -49,15 +49,6 @@ related:
         width: 868
         height: 454
         isCached: true
-  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T09:20:00Z
-    webUrl: "https://www.afp.com/en/news/1314/sess-o3b-mpower-tapped-microsoft-azure-network-cloud-services-202108170059261"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 17
   - title: "Wind River Joins Microsoft Cloud Solution Provider Program to Further Advance Mission-Critical Intelligent Systems"
     excerpt: "Wind River ®, a global leader in delivering software for intelligent systems, joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River Studio platform running on Azure. Studio is a cloud-native platform for the development,"
     publishedDateTime: 2021-08-12T13:00:00Z

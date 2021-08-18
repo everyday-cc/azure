@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-det
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
 type: article
 quality: 66
-heat: 386
+heat: 406
 published: true
 
 provider:
@@ -208,6 +208,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 17
+  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-18T01:50:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210817005926/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 17
   - title: "London’s Metropolitan Police Selects Magnet Forensics, Microsoft Azure to Power Transformation of Digital Forensic Evidence Review"
     excerpt: "Magnet Forensics, a developer of digital investigation software used globally, is proud to announce its collaboration with London’s Metropolitan Police Service (the Met) and Microsoft Azure to ..."

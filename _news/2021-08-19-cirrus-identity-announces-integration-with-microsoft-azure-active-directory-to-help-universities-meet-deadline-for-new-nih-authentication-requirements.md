@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T09:20:00Z
-    webUrl: "https://www.afp.com/en/news/1314/sess-o3b-mpower-tapped-microsoft-azure-network-cloud-services-202108170059261"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 17
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
     publishedDateTime: 2021-08-17T12:15:00Z
@@ -70,6 +61,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "5jNZ4pkY5EOrf2dF4EwYHF1arhVK7cBDk4rbqIbzv3maBYpJEoAj+9D+pGe7voFcrAN2rEsfnC2tkZebHUTLvrCOd1w0jCoS2DtJwle4zIT40cQwOVPZ95vgvEtuCaTmahxHur2l5R3XsqOftlq666WKxFdW4674l9KO23oG9JwdBZpKXAEU7/QFrh+v0gx83u3E4lDJyLAwzt4A5IOn36kaIwV4DcjK658qYaunJzNuwDizJALaR8v6twwTIUH9P+uf6cYFHHoof46LW/gw5xG0/xPvjlaI4LFhbwCw6LP0K9msQiKrH1MvfJ/P3YpIG9uomY5hXxVJvfVHq9mtfWo2Mq6vlkXUcgKT5e3QCHc=;7s4M7AByy50umgP0yUVCjQ=="
+secured: "PsNJj+IjOflpDshhZAM8EaOkZgyeuXI18oO1oreb+DNLVaqP26RUX0DjXmly7REGyRcGFEpMnsFLsz8poL/RSUoLKMf9wA6uJYi//DSA3XqhTaa1X8e3nTzQkIRypDR1LBvK/2Vr/oHSxf9gjA+AAxvC0Ck3vNLtFRORJYhH+6uy4xtn0d1bQruLhvO+0EKP42uSXin7KBS6HgIynAEdM21Vosaw4K8WC5s7nQvzxCGzpF5YcWX/d1q6P9QKStchdYoBSoiu21WQdH47I5LDFpBNUnchb37EWHU5GUlH41DhcN8BsiJowXjd3uHQgRxMLYliM2ylmHBH0bkmXr0R9gQA8TN6uyRuRuZ041BEJyp7X3Q6HVluCaSl9Q3UbostYTPiiWP/v/jD53J2lzdSkawZ7TEQFwSwCY2H8E9+gRiuqVgO+doRt08n5vSK2FMRGUOKQjgc5w9XNn73D4yO2wZ9cJPQM0SLzLA+2VVkKpa6BT1in+wQh9DhNNgG9DNqPc4/bCs4Jy08x7jkgyPzVg==;43w+TgDTt/6hvho+AC5X/w=="
 ---
 

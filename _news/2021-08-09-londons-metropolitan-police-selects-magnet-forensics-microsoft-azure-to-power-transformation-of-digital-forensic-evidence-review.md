@@ -222,6 +222,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-18T01:50:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210817005926/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
   - title: "Chris Hines Joins Helient As Managing Director, Microsoft Cloud Services Leading Digital Transformation, Office 365 & Azure Solutions"
     excerpt: "PHILADELPHIA, Aug. 17, 2021 /PRNewswire-PRWeb/ -- Helient Systems LLC (Helient) is pleased to announce Chris Hines has joined the company as Managing Director, Microsoft Cloud Services. Formerly the General Manager of the Microsoft business unit of a large ..."
     publishedDateTime: 2021-08-17T19:00:00Z
