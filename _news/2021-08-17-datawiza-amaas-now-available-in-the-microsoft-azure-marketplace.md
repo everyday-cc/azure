@@ -2,20 +2,26 @@
 category: news
 title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
 excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-08-17T13:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
+publishedDateTime: 2021-08-17T13:07:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -238,6 +244,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "HEpTGe0pNrh3qBInwpRm2aqT7fAmo6w25Los6rl1iyrnekyv8SUK4hyDYfKGTKdFWrSatDcFKkV/hg9kl+sKY5SMTNQL+pl0FZrz/+NZxHg/t+HuNFktEF2bSu+Ed7Rwwl3edReLQNW/gE1ifwFOXMpVYbcPEd8sWlKYzCc9KeKTyrCnlEw2suRzFELo2UbZAqzGSEKx3kowSG8XuKEGw/JBgCoQV5kAonAg1q3AOoq6RY8yErmw+UGb300vcEe/MSHXiPz3KVE66eImoFvwFhi1fNfF9reqqvLGP0yRz410HFIV5JRgrEXzs6Uih4fqZo2uC7NL1n+54DgUYQyZBp0AyI83C74rpHl6Q5iqjv0=;fjrYaNQ8Y8L4LZsZwLglWw=="
+secured: "VrkCmaxyVB+0LNNIMTiz/QBsrpyCoXNPmGKMMfadxoKywD4O/RV24x9BJSUFBB7Z4I86s8cRbZ6n6KmltDfg8F84ufeVj2Civn3K/gijkBdgeE3hy97wh5GoCOTyyRUvVdwDx3L7Iv9Gt3l7dSaHPfcJGalNWBinBHhmscEcdODPKqsPIqjaBjrqll2Te5te3nnk4fyDiRcIkb4LTNt/HKzPvPSaYO0O+ILhivBThNEjVvhzX+Gp5A+ZAuzKdsli/OKehNs9eifBjw/DB27JGHM38u1h1ZfMGl1amlHMJOGybJRzRu0ErZNm7WofTC0q9QcyfwDniM5+QtL2zdKQfmyAZ2bM+DQTZloLCXPmnxM=;nzXKrFXZnyy0HWRJ8Mi8mA=="
 ---
 
