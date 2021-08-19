@@ -184,20 +184,17 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T06:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES's O3b mPOWER medium earth orbit satellite system to provide additional network diversity, service resiliency and gigabit connectivity as more critical workloads move to"
+    publishedDateTime: 2021-08-18T06:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/b22550665/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22550665"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22550665"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Permuta’s DefenseReady Solution Achieves DoD IL5 ATO in Microsoft’s Azure Environment"
     excerpt: "Permuta, the leading software platform company for federal workforce management and operational excellence, announces that its flagship software product (Defense Ready) has received the DoD IL5 Authority to Operate (ATO)."
     publishedDateTime: 2021-08-12T14:24:00Z

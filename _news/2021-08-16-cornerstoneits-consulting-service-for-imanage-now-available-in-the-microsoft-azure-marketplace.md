@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
-excerpt: "New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment ..."
-publishedDateTime: 2021-08-16T12:44:00Z
-originalUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
-webUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
+excerpt: "Innovating the way IT departments shop for services. New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment offer ..."
+publishedDateTime: 2021-08-16T13:31:00Z
+originalUrl: "https://ipsnews.net/business/2021/08/16/cornerstone-its-consulting-service-for-imanage-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://ipsnews.net/business/2021/08/16/cornerstone-its-consulting-service-for-imanage-now-available-in-the-microsoft-azure-marketplace/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Law
-  domain: law.com
+  name: Inter Press Service
+  domain: ipsnews.net
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
-    width: 256
-    height: 256
+  - url: "https://icrowdnewswire.com/wp-content/uploads/2021/08/5935-300x300-1.png"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -244,6 +244,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "St2vHB0zxTVCVMNKhaeOhUbhq0hUvbJuK/tT5Y33n2rybIm5D/5jdlOxAHtW8edtbJeyeD9IJzo8V62zBCGb2c7jh/4Jp/kDOE+SL0Fnr3OCsSayHux7tAkeUEZisOASnffW8W1fiIpY5o+rluBCbJiIUKWY+mpGrvgk67Sro4E0ww7BoGnWhd02YV4yNYJgM/z61BSUZrzeM1o/f7U9+8OcgZLcEcr9gYSRpYRY/G9hSdRMfYZ2/wuJzZCkZR3P6Z5H5ePE/SlX2IhczcEcGX5wHNAuxg8jSb7KKlVMYkGtqerOng8p19DJOyOYupjv2JqX6wxRqHNf3/RFH7a7hZpVgXDltN50ueLBwY8+zRM=;402fUf9T7LGkUqzXp9UXKw=="
+secured: "zcL6Q3rQxiWbM9y5sWdpZ+RiCwKp5WeHNVyuAbYctubdLfmvH8l562HoZmPQvu0f2KN2IPpBDRajIyQJRexgwvWV4Fg4F06EePzxTYcOqoya3Y0JDmJTVMso7N53Y781VdZ9BkCxdZH12/LzW7bu98b4MMzJfkulSD4QxSW6uWTUa9tNfK9Ffl9ClY/X8l9bQFtD8Z0V7/wi4ss8SyG69m1cWDnESxGboLPlh96iILMO+KBCg96B1SRR8vnXGPpL2oHGSXPe2Zy/Z+UIuuA4uWAajx4JrS9ruHcpxjSZPLcuP7KIwLpgeqfinDs/D+IknFNZ/ox2mSnmi+HIE4e8LQ+xhJiOQNDfZphdIrEclrw=;sBes06d7PEtJvDcO5VJ8gg=="
 ---
 

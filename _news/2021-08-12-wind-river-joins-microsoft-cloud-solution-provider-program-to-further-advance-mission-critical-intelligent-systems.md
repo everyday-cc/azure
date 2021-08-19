@@ -57,6 +57,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
+    publishedDateTime: 2021-08-18T18:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
 
 secured: "0LOOocHCyP5hZMyUiXxa7pY5NAV3+TmnWGHKz8pLWBW4vtKQyVVkCBdEEi2DJhm2mtTGtEGuWi/OFz7usDlwxacW5WbL4743/m7Bu//wn0epqAOXYmKGmCaxsRxfeirEN2AdmPFxeC9rSt8PtSFK3FzE43J5xYRbATxi7mXTIcph7fWD9zjfhX07xWSOp4vbUju1ABlbxytZJZG258ew52O0J2uta4OSIrag1YRW0zx6+0SHxS2zsWplQ5GoOZIqqMpOMimmpYYLsdJxsYG2xJITvFD3zQ/SJdW3EhOiJ3hIMxrHYCJfCE0nCgJI0w6EjbC31mvIKDOtY3z9vFIBT2TL580cvwUz3mAECIoTPYo=;fAj1h9WTA3uuA6/REmGxVQ=="
 ---

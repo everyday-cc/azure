@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
 type: article
 quality: 57
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
+    publishedDateTime: 2021-08-18T18:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
   - title: "Wind River Joins Microsoft Cloud Solution Provider Program to Further Advance Mission-Critical Intelligent Systems"
     excerpt: "Wind River ®, a global leader in delivering software for intelligent systems, joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River Studio platform running on Azure. Studio is a cloud-native platform for the development,"
     publishedDateTime: 2021-08-12T13:00:00Z

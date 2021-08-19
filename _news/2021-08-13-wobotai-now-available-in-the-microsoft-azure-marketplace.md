@@ -145,18 +145,18 @@ related:
         height: 630
         isCached: true
   - title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment ..."
-    publishedDateTime: 2021-08-16T12:44:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
+    excerpt: "Innovating the way IT departments shop for services. New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment offer ..."
+    publishedDateTime: 2021-08-16T13:31:00Z
+    webUrl: "https://ipsnews.net/business/2021/08/16/cornerstone-its-consulting-service-for-imanage-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: Inter Press Service
+      domain: ipsnews.net
     quality: 24
     images:
-      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
-        width: 256
-        height: 256
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/08/5935-300x300-1.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Claro Enterprise Solutions Designated as a Microsoft Azure ExpressRoute Partner for Miami Peering Location"
     excerpt: "Claro Enterprise Solutions, a leading technology services company, today announced that it has been named a Microsoft Azure"
