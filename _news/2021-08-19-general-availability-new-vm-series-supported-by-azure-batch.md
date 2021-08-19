@@ -1,10 +1,10 @@
 ---
 category: news
-title: "General availability: Azure Data Explorer and subnet delegation"
-excerpt: "Injecting an Azure Data Explorer cluster into a virtual network has never been easier."
-publishedDateTime: 2021-06-17T16:00:24Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/adx-vnet-subnetdelegation/"
-webUrl: "https://azure.microsoft.com/en-us/updates/adx-vnet-subnetdelegation/"
+title: "General availability: New VM series supported by Azure Batch"
+excerpt: "Take advantage of VM sizes that are now available when creating your Batch pools."
+publishedDateTime: 2021-08-19T17:00:02Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-august2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-august2021/"
 type: article
 quality: 67
 heat: -1
@@ -428,6 +428,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Data Explorer and subnet delegation"
+    excerpt: "Injecting an Azure Data Explorer cluster into a virtual network has never been easier."
+    publishedDateTime: 2021-06-17T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/adx-vnet-subnetdelegation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Azure Automation Customer Managed Keys "
     excerpt: "Encrypt your Automation account assests using Customer-managed keys. "
     publishedDateTime: 2021-07-12T16:00:03Z
@@ -450,15 +459,6 @@ related:
     excerpt: "The 21.07 update includes heap memory allocation tracking, time sync changes, and support for service principles."
     publishedDateTime: 2021-07-21T22:00:06Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "General availability: New VM series supported by Azure Batch"
-    excerpt: "Take advantage of VM sizes that are now available when creating your Batch pools."
-    publishedDateTime: 2021-08-19T17:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-august2021/"
     type: article
     provider:
       name: Microsoft
@@ -600,6 +600,6 @@ related:
       domain: microsoft.com
     quality: 42
 
-secured: "7hxUbwwhzr/5e6blP0q6nL4lx1VKT0Z2RmPkXefiSAVSZwrehj4yI3DZVA9ehrnVb4clHm+xfUIR9ceZfRndsPpyLxp8y08WiXgap8ZjPZ2D0JrxB/wjNPGsZErl4qFpzt/kfa2CCjuC/UUT630Ur3NKIYJMf6muNXRu4ZuHNDBzJ2KoUWsDT5yUFmIlQ9X8SQqAqRtHuhUfQtnzZfWxS+BU8vwBSG1iVg4shYWJzRePPghPRaHleAM9GbR900/FsrzjBao4WQgsANVQO2Y+pR1/7LR00qysTzBddldFO9FMsC7WuiUXhsnsPWrJsEFkDfNx+sFzu/ZzvBKbh/Bas4wY54xWsPDOF5LmK6a8ktk=;nTsS/O/audH8/mI5GY6hRw=="
+secured: "CBYM7/9D6ztDNguO82hEPeg4Gz2Yl9AvpE5Rp5T5nviZBnVMi1HCbVPbJP9SXTfARA9C9Wj5CxElw2V8QfjItiVkVSWGndrTtzGIgBTzwylAe8JGxLM8hJRi/UZZeaQkqa4Gl0gzkGMGvjUmAwGGttAItDKjDG8DIIlm1BC9OlvdyEBG+LeVTtU3Y5cOv9M8ZL2VyToM02MD6Cu5cL7Trpb0B5jq9NPW1ApkLEbpIi2JYGG1sNakDRW9YYhmV7jq9DPvWY7GX+X2/Xvk1fpNjBsuVx4EKj6mN0XJ+imcGtKS79SvzEDjIcGeYTP3DszPiroB/lJjaJ0qYrZWCC6fC7uQP96P0e1rYlecFhDaG/g=;oxipBqOLfVSmZ0DMERItVQ=="
 ---
 

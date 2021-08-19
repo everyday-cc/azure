@@ -1,12 +1,12 @@
 ---
 category: news
-title: "NC-series Azure Virtual Machines will be retired by 31 August 2022"
-excerpt: "Transition to new HPC virtual machines by 31 August 2022."
-publishedDateTime: 2021-08-18T15:27:38Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
-webUrl: "https://azure.microsoft.com/en-us/updates/ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+title: "NV-series and NV_Promo Azure Virtual Machines will be retired by 31 August 2022"
+excerpt: "Move to GPU accelerated virtual machines by 31 August 2022."
+publishedDateTime: 2021-08-19T15:37:21Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/nvseries-and-nvpromo-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+webUrl: "https://azure.microsoft.com/en-us/updates/nvseries-and-nvpromo-azure-virtual-machines-will-be-retired-by-31-august-2022/"
 type: article
-quality: 67
+quality: 63
 heat: -1
 published: false
 
@@ -40,16 +40,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "NV-series and NV_Promo Azure Virtual Machines will be retired by 31 August 2022"
-    excerpt: "Move to GPU accelerated virtual machines by 31 August 2022."
-    publishedDateTime: 2021-08-19T15:37:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/nvseries-and-nvpromo-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+  - title: "NC-series Azure Virtual Machines will be retired by 31 August 2022"
+    excerpt: "Transition to new HPC virtual machines by 31 August 2022."
+    publishedDateTime: 2021-08-18T15:27:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 63
+    quality: 67
 
-secured: "ffQ4Ni+3k5A9WRQ39hRMZcQFjdRLkrGtniGNKy5ukKGNA+AFzmCvlmtKW7r7xMQvvedVTjzTHG7fJ7VLFspq3yyILATD79wOzLTRssvGTIlxysL52jBdWeswTODUKNARKpWUfOJ75GPX3gzofsDNSCa0kbs3f98ugQKylkUL+6fSxeo6lpNwgFtPI+nAW2NUYzrEsHqYxu67wZqA8O1KkFl0UJS0/yt7vy5W9fdFXcSPHyZ1ioPr6WT2KdY3FP2z4l7pF9jQEtJ8Y/IPqdo0ypH5CTAvi+qdygQ83osXLHLtnzg7HHsRG7LxikkK7c3x8MvxlkR6B62/u67bATLrsm2DMWKVxySeO1kZx3mGTTg=;HEECdvz0bJnC8skn4YWGug=="
+secured: "ztP8CHyyxhdBijJa3ETTyBil3yKk9oi/jGmhIco3aVPpFXKpcTIe5+9pxL6/pe3AMR8wNRp2vFDgUn8qXpMWAfdV0VkR5/V179tjuDcSXXYzNey0/ELKtq9Z617pvgJZEiYsAAaNBUxtbLupE/vZLnXaADxZ/zT7ubEocgavwP/cSjuxVqlb/bONJSa0aO2mqRlbFZyZDHi2IH2YYiEq+BIRSc74av5vT9Fcik4pFMSZR9N1F1SgXZ7VtBTXgx9dQn4Hj0NiJTln8bNXGIbKwrMIw403AnSv+Q9tz/i+Z3zBM+uRYJ8HbTLLIipb+3Cg9V7QoSjaMVlPPS2Oj8JsQBhLpb31h+zrNYcIvSAjftI=;OvM/Rmeos/EmCAHeWfWULQ=="
 ---
 

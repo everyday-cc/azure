@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 1359
+heat: 1379
 published: true
 
 provider:
@@ -454,6 +454,15 @@ related:
     excerpt: "The 21.07 update includes heap memory allocation tracking, time sync changes, and support for service principles."
     publishedDateTime: 2021-07-21T22:00:06Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: New VM series supported by Azure Batch"
+    excerpt: "Take advantage of VM sizes that are now available when creating your Batch pools."
+    publishedDateTime: 2021-08-19T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-august2021/"
     type: article
     provider:
       name: Microsoft

@@ -41,15 +41,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 92
-  - title: "Log Analytics Agent for Windows August 2020 release is now available"
-    excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
-    publishedDateTime: 2020-09-02T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-windows-august-2020-release-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "Azure Routing Preference is now generally available "
     excerpt: "Choice matters when it comes to cloud. Routing preference enables network service tiers for internet bound traffic, letting you to optimize for performance or cost."
     publishedDateTime: 2021-03-09T16:00:35Z

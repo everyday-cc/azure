@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Chris Hines Joins Helient As Managing Director, Microsoft Cloud Services Leading Digital Transformation, Office 365 & Azure Solutions"
-excerpt: "PHILADELPHIA, Aug. 17, 2021 /PRNewswire-PRWeb/ -- Helient Systems LLC (Helient) is pleased to announce Chris Hines has joined the company as Managing Director, Microsoft Cloud Services. Formerly the General Manager of the Microsoft business unit of a large ..."
+excerpt: "Helient Systems LLC (Helient) is pleased to announce Chris Hines has joined the company as Managing Director, Microsoft Cloud Services."
 publishedDateTime: 2021-08-17T19:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_27cae7e4-cedb-52b5-b6f2-847f8989f45a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_27cae7e4-cedb-52b5-b6f2-847f8989f45a.html"
+originalUrl: "https://www.indianagazette.com/news/state/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_eb908073-a34e-517d-9fa8-6f666ee66ac3.html"
+webUrl: "https://www.indianagazette.com/news/state/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_eb908073-a34e-517d-9fa8-6f666ee66ac3.html"
 type: article
 quality: 6
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Indiana Gazette
+  domain: indianagazette.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://bloximages.newyork1.vip.townnews.com/indianagazette.com/content/tncms/custom/image/c7a2337e-54f6-11e7-a069-27b302f33e37.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -122,6 +122,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "VwWFGec4NrTxrslzKIBgVi4T6cm193Fqy18w9TmuVI/RMnqalMR2/t1OCRGeDrRYg9xqs1MVETMDfPIM1VZ0uzd8OTWOa5yvuzm2GlcOmFOzGKH/bvYWiD2Tz2/1gvGxHqeQsI8XtIQiO3CWj5/ho5CQri1BKpOz9XaGPTU+GG70yjOYBN017SkyQ2lKxMiP5vqmK+Q6VMCG39SSGeXqKZdxzBudsXP9BQJGVL0feGiGUUNwXXomfhgvKdJ/gYaTgAMyFJJyqDSmDcYvR84dWigJ4elc+adeXG+gwroEzGRNFj4U9iEOs11L93W1jjlJLSCKbE1L/DMIDKXAKYFqjV8BBjhigYnJ5QK33D+Z5iI=;Kz7USXpzGPS2ZasvvS+++w=="
+secured: "8ZG0G58WpFTX5yk3iv/iFgy8EYJUSNGK6d/mI/aEVy1IGGEM8MQlkm/AeTwEgaPV7S34/o947MQnXDC+iDip3r0ThMCmTDQHYs9F2b16V9pSliPyiOJU9MZGaPcHE5IkflYEwQxtWk//3PcZWuoWGyo0pAOQdz/P+bFAeaAXFL9v2Ga1VMXUM1v80DP0+ARAlZ47SH9SBYP1SCW5cV1VfpV0RktVtY3aROMm81Zw9IfFjr3DOAbc+qIO8TM7MQQpuY0bu+NvDJoPiBgOFVuvbzP9Y46jf2WMN80WlrERKIO4eSfQNlqJjX5LHlyS+W6hSzeQv0Xp/kUn59snvoU2vfQowrOO7M/FZH/KeQfiwCQ=;VR8J1oIdyyp/Hgk4Si3MNQ=="
 ---
 

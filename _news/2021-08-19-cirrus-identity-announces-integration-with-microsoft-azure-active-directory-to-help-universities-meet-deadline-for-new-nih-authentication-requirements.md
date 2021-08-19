@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-excerpt: "Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that"
-publishedDateTime: 2021-08-18T18:49:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
-webUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
+excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
+publishedDateTime: 2021-08-18T19:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
+webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
 type: article
-quality: 46
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Identity
   - Integration
-
-images:
-  - url: "https://mma.prnewswire.com/media/1597470/Cirrus_Identity_Logo.jpg?p=facebook"
-    width: 868
-    height: 454
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -372,6 +370,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "PsNJj+IjOflpDshhZAM8EaOkZgyeuXI18oO1oreb+DNLVaqP26RUX0DjXmly7REGyRcGFEpMnsFLsz8poL/RSUoLKMf9wA6uJYi//DSA3XqhTaa1X8e3nTzQkIRypDR1LBvK/2Vr/oHSxf9gjA+AAxvC0Ck3vNLtFRORJYhH+6uy4xtn0d1bQruLhvO+0EKP42uSXin7KBS6HgIynAEdM21Vosaw4K8WC5s7nQvzxCGzpF5YcWX/d1q6P9QKStchdYoBSoiu21WQdH47I5LDFpBNUnchb37EWHU5GUlH41DhcN8BsiJowXjd3uHQgRxMLYliM2ylmHBH0bkmXr0R9gQA8TN6uyRuRuZ041BEJyp7X3Q6HVluCaSl9Q3UbostYTPiiWP/v/jD53J2lzdSkawZ7TEQFwSwCY2H8E9+gRiuqVgO+doRt08n5vSK2FMRGUOKQjgc5w9XNn73D4yO2wZ9cJPQM0SLzLA+2VVkKpa6BT1in+wQh9DhNNgG9DNqPc4/bCs4Jy08x7jkgyPzVg==;43w+TgDTt/6hvho+AC5X/w=="
+secured: "E2p0HL8uc5ZOUR/MyVPfSxVrik985281YUaJIbMuAeTQQ2KVoKr6ZwXMUsa1VpCV95pCbagyU/IwDYBAt2JuRbOsXtWsVSx40UBucCBtk8GVxy1iNU8wP9soyX2bgvUT2HeercomRXEtf2aucVOk2XGbpfqrwLtcc729lAaUjGU8lnsZxvvYK/lzDZMKEkUdJZSMwEw2yoGUEkStMDAr32Ku9XGUon7JB77GPGYpbe2K1OYMbQfZsqdAL1QyT7QXmiySHQSdtfpAPo70Qlw3A8Bp811JZaNmBYXr4BWFpgcn1Hycm9nEkpkxytJ2dF7rkoqAPDtvyV0M5oMPUY0u/LGePzLh4g8OvNUbplIzWtI=;ZZ96oBbGRyMhSmUP2k9AFA=="
 ---
 

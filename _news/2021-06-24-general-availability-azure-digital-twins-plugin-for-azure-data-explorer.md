@@ -464,6 +464,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: New VM series supported by Azure Batch"
+    excerpt: "Take advantage of VM sizes that are now available when creating your Batch pools."
+    publishedDateTime: 2021-08-19T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-august2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Updated App Service Authentication portal experience is now generally available"
     excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
     publishedDateTime: 2021-04-01T21:02:34Z

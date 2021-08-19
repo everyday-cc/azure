@@ -40,6 +40,15 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
+    excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
+    publishedDateTime: 2021-08-18T19:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Windows 365 exposes Microsoft Azure credentials in plain-text"
     excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
     publishedDateTime: 2021-08-13T18:24:00Z
@@ -144,20 +153,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-    excerpt: "Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that"
-    publishedDateTime: 2021-08-18T18:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 46
-    images:
-      - url: "https://mma.prnewswire.com/media/1597470/Cirrus_Identity_Logo.jpg?p=facebook"
-        width: 868
-        height: 454
         isCached: true
   - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
     excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
@@ -370,6 +365,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "yUIOMly8tX+GN+kQbRPVUjLfGLyAEDOdp0/c9UIxSbOeXapsnF38QzXrrU9xzmXVl8ZKjiU6K5LhuE6rFWlytFvtJ+pVXW7ZKxe7gPELcyGqJHj3pozMQoYWMYU3L/udYrCPVDcCndY2a0iLTJwi6erpl85kwZV7TAmGJeR/hcoec6Tb2xlLhi3Z1F6MA/IIuKLWrYqvlWtzaAXd5DMXssYLsMRAN2Nx5Jd/YGhJeEEFmkYZtcge07bOqL4QF+9AaZoIUaGNU0SPVaGfobFtsLg46UIi9Ro5OA7TU+9rXBoiO2Y/Rc/KD+0IsokHpiemKidNF4eFrc4NAc70XNAy0RngeSLdENY1BdZAyzMt+zQ=;98dp1tGZFIxGq4POIDWf8Q=="
+secured: "Q9dch7bUFNIpdtHaSsJaW2Ji9TUrmQlSc3NihH1fKm3qcdV2Mj24nhX9C/+0BiAAIGRigldNUgZUAvQVD0TWqfwnzAwzEIdcTY/YcH+ONSD8tcnA12qYoAD1OBsm64vjE1JWZ0mlO/EdnZHR6f48Ix+nluGzKg4vGn3bx96OlQHyVjqnWbNkgZj3u8SaInWMdI6OeywTKsoFZYJ1D4w/To/ukISNr7LYWv5SsWwZ/yE/X4+0bl4IafWt9yg/Uvoos0ySK34HzoLXCCMmO4gG8IOs/4/jGpq5hVvFy846197m4sM57LG5qVsxEUwP+D/bA2MdVQJqJFKtcHG7k5Z4GsApnfQxNwopaPTJQXDXaeo=;sMmjyiGK+HK74JrNW0plRg=="
 ---
 

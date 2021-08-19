@@ -42,15 +42,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 92
-  - title: "Log Analytics Agent for Windows August 2020 release is now available"
-    excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
-    publishedDateTime: 2020-09-02T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-windows-august-2020-release-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "Log Analytics Windows Agent for Winter 2021 now generally available"
     excerpt: "Update to the newest Windows Agent. Now available with support fixes and a new troubleshooting tool."
     publishedDateTime: 2021-04-12T16:00:37Z

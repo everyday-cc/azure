@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-30T16:00:01Z
 webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-quick-start-content-is-moving-to-the-overview-page/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-    excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
-    publishedDateTime: 2020-07-24T23:16:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
+  - title: "We're retiring the Log Analytics agent in Azure Monitor on 31 August 2024"
+    excerpt: "Start using the Azure Monitor agent instead of the Log Analytics agent before 31 August 2024. "
+    publishedDateTime: 2021-08-19T15:40:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
-        width: 400
-        height: 300
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
+  - title: "Log Analytics Agent for Windows August 2020 release is now available"
+    excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
+    publishedDateTime: 2020-09-02T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-windows-august-2020-release-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
 
 secured: "gGbQyzHLnRDIi634v9HIzc1wRmHWwL+nSCAjQwNAtdMLQIVgl3hdeV4kX9MSX1e69JM1VZ89XvBM2A6Df4ds8DmeSTttmCrZdszBQ0x7r0RQJJDMv/XhB/qG8gFPUPmCA3Pd47dXT7pJFQF/hu8dM/YvVRS4iL2AKOhejFT0gy3pjpjnc02Uiauq127o4uFmHDRFpnL7Lb4vXvCaPRTsSCvzAmqdGD4f8o0KrU/rj4ISfie2lRFgCSg+HOe2maQrLHKBiHS8jCp9tAx7+/Am9cLWcdWnSksSsJ04FoH1g8Xay3iuxXMl3iYbJVKMQRL3GthwvqzNZi8ko3NWuGkD0A==;kXG5kCrhZU+XRG7FVfw4mw=="
 ---
