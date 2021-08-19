@@ -4,6 +4,48 @@
   "page": 23,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-advisor.md",
+      "title": "Intro to Azure Advisor",
+      "excerpt": "Introduction to Azure Advisor and how to get recommendations for Azure Services.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-advisor/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-advisor/",
+      "length": "PT16M",
+      "ratings": {
+        "count": 11,
+        "average": 4.818182
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-mixed-reality.md",
       "title": "Introduction to Mixed Reality",
       "excerpt": "Mixed Reality is transforming the nature of on-the-job training, game development, and consumer application development. Build a foundation in the core concepts, terminology, and design processes unique to the augmented reality, virtual reality, and Mixed Reality development space. Get familiar with HoloLens, Windows Mixed Reality immersive headsets, bodystorming prototypes, and the most common use-cases for Mixed Reality content.",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-mixed-reality/",
       "length": "PT41M",
       "ratings": {
-        "count": 348,
-        "average": 4.75
+        "count": 349,
+        "average": 4.750716
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -141,8 +183,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-solutions/",
       "length": "PT26M",
       "ratings": {
-        "count": 37,
-        "average": 4.5945945
+        "count": 39,
+        "average": 4.5897436
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -653,8 +695,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "PT46M",
       "ratings": {
-        "count": 2044,
-        "average": 4.594423
+        "count": 2046,
+        "average": 4.594819
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -732,8 +774,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 2506,
-        "average": 4.7494016
+        "count": 2507,
+        "average": 4.7491026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1228,49 +1270,6 @@
         "DevOps",
         "Management Tools",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-plan-implement-manage-access-review.md",
-      "title": "Plan, implement, and manage access review",
-      "excerpt": "Plan, implement, and manage access review",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-implement-manage-access-review/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 197,
-        "average": 4.791878
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

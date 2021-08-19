@@ -315,8 +315,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-runs-on-trust/",
       "length": "PT30M",
       "ratings": {
-        "count": 5735,
-        "average": 4.7410636
+        "count": 5736,
+        "average": 4.741109
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -693,6 +693,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances.md",
+      "title": "Migrate SQL Workloads to Azure Managed Instances",
+      "excerpt": "Migrate SQL Workloads to Azure Managed Instances",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-managed-instances/",
+      "length": "PT1H4M",
+      "ratings": {
+        "count": 133,
+        "average": 4.706767
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-managed-instances-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     },
     {
@@ -1244,48 +1287,6 @@
         "Azure",
         "Storage",
         "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-n-tier-architecture.md",
-      "title": "Tour the N-tier architecture style for your application",
-      "excerpt": "Discover the benefits of a Resource Manager template to deploy an application in an N-tier architecture and review best practices for deployments of this style.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-n-tier-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/n-tier-architecture/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 689,
-        "average": 4.8127723
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/n-tier-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

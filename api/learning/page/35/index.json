@@ -4,6 +4,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code.md",
+      "title": "Copy and move blobs from one container or storage account to another from the command line and in code",
+      "excerpt": "Learn how to utilize .NET Storage Client library, AzCopy, and Azure CLI utilities to copy and move blobs between contains and storage accounts both synchronously and asynchronously.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/copy-blobs-from-command-line-and-code/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 203,
+        "average": 4.600985
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/copy-blobs-from-command-line-and-code-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-cosmos-db-java-app.md",
       "title": "Build a Java app for Azure Cosmos DB",
       "excerpt": "Learn how to create a Java application to store and query data in Azure Cosmos DB",
@@ -493,8 +536,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-host-web-sites-github-pages/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 559,
-        "average": 4.8389983
+        "count": 560,
+        "average": 4.839286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -967,8 +1010,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/",
       "length": "PT55M",
       "ratings": {
-        "count": 991,
-        "average": 4.6750755
+        "count": 992,
+        "average": 4.675403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1002,8 +1045,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
       "length": "PT33M",
       "ratings": {
-        "count": 250,
-        "average": 4.552
+        "count": 251,
+        "average": 4.549801
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1247,51 +1290,6 @@
         "Compute",
         "Containers",
         "Mobile"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-your-first-app-with-azure-maps.md",
-      "title": "Create your first route finding app with Azure Maps",
-      "excerpt": "Learn about writing code to interact with Azure Maps. Develop and test a fun app using JavaScript and Visual Studio Code to find the best route for a truck, car, or bicycle. The route is from the west coast of the USA, to the east coast. You will see how routes change based on vehicle. And, for trucks, how routes vary if the contents are hazardous. You will get the chance to add in your own locations.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-your-first-app-with-azure-maps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-app-with-azure-maps/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 25,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/create-your-first-app-with-azure-maps-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web"
       ]
     }
   ],

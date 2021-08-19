@@ -4,6 +4,48 @@
   "page": 42,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-improve-reliability-monitoring.md",
+      "title": "Improve your reliability with modern operations practices: Monitoring",
+      "excerpt": "Learn how to use monitoring to help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-improve-reliability-monitoring/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-monitoring/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 143,
+        "average": 4.804196
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-monitoring-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-improve-reliability-scaling.md",
       "title": "Improve your reliability with modern operations practices: Capacity planning and scaling",
       "excerpt": "Learn about capacity planning and scaling practices that can help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
@@ -826,8 +868,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-commercial-marketplace/",
       "length": "PT30M",
       "ratings": {
-        "count": 1435,
-        "average": 4.7923346
+        "count": 1437,
+        "average": 4.7926235
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1233,48 +1275,6 @@
       "topics": [
         "Azure",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-arc-for-servers.md",
-      "title": "Introduction to Azure Arc enabled servers",
-      "excerpt": "This module introduces you to Azure Arc enabled servers and describes its characteristics, capabilities, and use cases.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-arc-for-servers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-arc-for-servers/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 30,
-        "average": 4.8333335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-arc-for-servers-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

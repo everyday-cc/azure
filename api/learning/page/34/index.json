@@ -4,6 +4,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-configure-azure-application-gateway.md",
+      "title": "Configure Azure Application Gateway",
+      "excerpt": "You will learn how to configure an Azure Application Gateway.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-application-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-application-gateway/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 21,
+        "average": 4.952381
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-azure-load-balancer.md",
       "title": "Configure Azure Load Balancer",
       "excerpt": "You will learn how to configure an internal or public load balancer.",
@@ -966,8 +1009,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-threat-indicators-to-azure-sentinel/",
       "length": "PT23M",
       "ratings": {
-        "count": 65,
-        "average": 4.8461537
+        "count": 66,
+        "average": 4.848485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1262,49 +1305,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code.md",
-      "title": "Copy and move blobs from one container or storage account to another from the command line and in code",
-      "excerpt": "Learn how to utilize .NET Storage Client library, AzCopy, and Azure CLI utilities to copy and move blobs between contains and storage accounts both synchronously and asynchronously.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/copy-blobs-from-command-line-and-code/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 203,
-        "average": 4.600985
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/copy-blobs-from-command-line-and-code-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

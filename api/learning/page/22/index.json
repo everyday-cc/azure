@@ -4,6 +4,50 @@
   "page": 22,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-manage-cognitive-services.md",
+      "title": "Create and manage Cognitive Services",
+      "excerpt": "Azure Cognitive Services enable developers to easily add cognitive features into their applications. Learn how to configure and manage these services for your AI application needs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 115,
+        "average": 4.747826
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-multi-stage-pipeline.md",
       "title": "Create a multistage pipeline by using Azure Pipelines",
       "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
@@ -229,8 +273,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "PT42M",
       "ratings": {
-        "count": 2847,
-        "average": 4.7302423
+        "count": 2849,
+        "average": 4.7300806
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -272,8 +316,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-sql-server-query-plans/",
       "length": "PT54M",
       "ratings": {
-        "count": 774,
-        "average": 4.748062
+        "count": 775,
+        "average": 4.748387
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -401,8 +445,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-implement-hybrid-networking/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 43,
-        "average": 4.860465
+        "count": 44,
+        "average": 4.8636365
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -688,8 +732,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-performance-based-design/",
       "length": "PT50M",
       "ratings": {
-        "count": 1596,
-        "average": 4.7725563
+        "count": 1597,
+        "average": 4.772699
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -938,8 +982,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/",
       "length": "PT28M",
       "ratings": {
-        "count": 220,
-        "average": 4.672727
+        "count": 221,
+        "average": 4.6696835
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1025,8 +1069,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
       "length": "PT60M",
       "ratings": {
-        "count": 409,
-        "average": 4.743276
+        "count": 410,
+        "average": 4.743902
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1155,8 +1199,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/",
       "length": "PT34M",
       "ratings": {
-        "count": 660,
-        "average": 4.516667
+        "count": 661,
+        "average": 4.5113463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1232,48 +1276,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-advisor.md",
-      "title": "Intro to Azure Advisor",
-      "excerpt": "Introduction to Azure Advisor and how to get recommendations for Azure Services.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-advisor/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-advisor/",
-      "length": "PT16M",
-      "ratings": {
-        "count": 11,
-        "average": 4.818182
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
