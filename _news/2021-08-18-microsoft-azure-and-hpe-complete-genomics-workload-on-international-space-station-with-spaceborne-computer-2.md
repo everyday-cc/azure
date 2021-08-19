@@ -313,7 +313,7 @@ related:
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
     publishedDateTime: 2021-08-18T14:34:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
     type: article
     provider:
       name: Associated Press

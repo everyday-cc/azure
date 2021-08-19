@@ -303,7 +303,7 @@ related:
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
     publishedDateTime: 2021-08-18T14:34:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
     type: article
     provider:
       name: Associated Press
@@ -374,6 +374,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "YhkGzU2dJcSUgWstOkEyelsSkdb8e5gXOXBt5r1Tt8G0D/42yzjR9lJgnPboIyaEJvpiqStHE68jgAOJ032ZuZ0jWFChc7eb+4uhf8Dn7TlovMOcstyn5DAvEtwlMzZscU4N4mv1eJL2XQPFJMv+51k4UlpcQ6usmLOmT9eU/I+Lcz+fvAiXxXdO5xpPiSbAI4un6VdwaPA4pgt7n0om2e8IaQyxR1CNx7mv0FeYIiPI2V4xsEIpY/jrklm8DFjMso+YQGElFIVXiYPQr4y5bWJ3kn+HIXtnx2QsACGpCGASf4V/Iue9l/dH4mPkAB+7yqFYeHUTbBb2MvGh1laQNfpnhLSwn8TIFAm1kPI4U/c=;18harq6H32kEP+D722dagw=="
+secured: "eYWS5VDl9nV7vl57O0wy/OmbqR42+Y45vbu9d+GHLKhuNXhaLAKC2HyuyCHOQXlA/JzixwPv90x3kXBAR7iX55bwndS3QDi1MXifqtPan/8v304NXYVvbyyspphevfMm+aw7L+eF/gr4TDDBanH5uQPqUFAenmrptwTLtR1gNSWdMeHC6CAaEcLKeUxZwUIucp6pUiXXzpwbFz8wa27qXoTjvk/ie3RPyLl01OhD/1Oe4sp2S0PFAiFK+ItOPG/zhhJz4xgtNC8GxRC+403bKc62rKWfsb7kdtMQyuIU6Z2SbiQDebVnCQTl+I0xaFr2mSWEloclHtv8tYNKhcQPSiV4b2aIqTysF91MBuhFOY9PDqIG1looX9hTz0ZFDqduzOEgGEAzeFieH1arEbmUV/pYQTAIq5vcPPL/VmZbgXNtSNdz9tqZs8+OuR045enbStgS3mC7vbbwBhdC6nmnru3aiuK2U8c7KONk6b45Lacey6R/rr6wH4pzjvpet1dsL3CoIWwcfaPl58rXsx3Gig==;zWaNX5rgtGqsfHm5oOIXgg=="
 ---
 
