@@ -36,15 +36,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-    excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
-    publishedDateTime: 2021-08-18T19:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Windows 365 exposes Microsoft Azure credentials in plain-text"
     excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
     publishedDateTime: 2021-08-13T18:24:00Z
@@ -149,6 +140,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
+    excerpt: "Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that"
+    publishedDateTime: 2021-08-18T18:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/1597470/Cirrus_Identity_Logo.jpg?p=facebook"
+        width: 868
+        height: 454
         isCached: true
   - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
     excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
@@ -327,6 +332,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Quorum set to deploy XSellerator dealerships on Microsoft Azure"
+    excerpt: "Leveraging the Microsoft Azure cloud platform eliminates the need for on-premise servers or a Quorum-hosted solution. “Quorum is now actively marketing and selling the Microsoft Azure cloud platform to existing and prospective XSellerator DMS customers ..."
+    publishedDateTime: 2021-08-19T18:24:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/08/19/quorum-set-to-deploy-xsellerator-dealerships-on-microsoft-azure"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
     publishedDateTime: 2021-08-17T12:15:00Z
@@ -336,6 +350,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
+    excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"
+    publishedDateTime: 2021-08-19T13:42:00Z
+    webUrl: "https://www.indianweb2.com/2021/08/microsoft-azure-powered-climate-tech.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 5
+    images:
+      - url: "https://1.bp.blogspot.com/-QBOkxmsOyzk/YR5fdHLy4vI/AAAAAAAAEgM/kVBA0w3Nno8kViq-DBWTW9SweLCBtSq4QCLcBGAsYHQ/s16000/atmos-device.jpeg"
+        width: 1065
+        height: 588
+        isCached: true
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
     publishedDateTime: 2021-08-18T18:34:00Z

@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
-excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
-publishedDateTime: 2021-08-17T12:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
+title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
+excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"
+publishedDateTime: 2021-08-19T13:42:00Z
+originalUrl: "https://www.indianweb2.com/2021/08/microsoft-azure-powered-climate-tech.html"
+webUrl: "https://www.indianweb2.com/2021/08/microsoft-azure-powered-climate-tech.html"
 type: article
-quality: 17
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: indianweb2.com
+  domain: indianweb2.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://1.bp.blogspot.com/-QBOkxmsOyzk/YR5fdHLy4vI/AAAAAAAAEgM/kVBA0w3Nno8kViq-DBWTW9SweLCBtSq4QCLcBGAsYHQ/s16000/atmos-device.jpeg"
+    width: 1065
+    height: 588
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -332,6 +338,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
+    excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
+    publishedDateTime: 2021-08-17T12:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Quorum set to deploy XSellerator dealerships on Microsoft Azure"
     excerpt: "Leveraging the Microsoft Azure cloud platform eliminates the need for on-premise servers or a Quorum-hosted solution. “Quorum is now actively marketing and selling the Microsoft Azure cloud platform to existing and prospective XSellerator DMS customers ..."
     publishedDateTime: 2021-08-19T18:24:00Z
@@ -350,20 +365,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
-  - title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
-    excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"
-    publishedDateTime: 2021-08-19T13:42:00Z
-    webUrl: "https://www.indianweb2.com/2021/08/microsoft-azure-powered-climate-tech.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 5
-    images:
-      - url: "https://1.bp.blogspot.com/-QBOkxmsOyzk/YR5fdHLy4vI/AAAAAAAAEgM/kVBA0w3Nno8kViq-DBWTW9SweLCBtSq4QCLcBGAsYHQ/s16000/atmos-device.jpeg"
-        width: 1065
-        height: 588
-        isCached: true
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
     publishedDateTime: 2021-08-18T18:34:00Z
@@ -392,6 +393,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "E681cFPifLXNmLAtWFxR1O6R1whTfnvT1Zb3Dz+j0diZ41RnrBPMJ2mIATncdLccPNQnOK9kT5vGMxK1h87l5CGV4c1pJcWfcvyhzkMrjNEQrG8ErQximO47SsJP/Suq7NMzN5HO60rFq3nX/kP6VjXpIGNjfg61fEvfqHlrHd23OvWxfPqxnlQJE+lLX+I4+ANSjeXlLZAZ11t/+pvdDAXLBTxdcRaIHN2OHvdYkGkOgW1SZEN6oJI55+6D0X5kb/dS5DTbuDzEqsKq9SaWucjjs6zXmaxIro9T1trQ4EBsx4eS8nh1CGBHkIcBanWVte+BzcMt3QOXWVCudRpPft7HOUI6kvhu/5eDQfkvcLM=;26Gp/qdy3gXJDjJc0MT6EQ=="
+secured: "errMH+i2N8sNYDk/MUSHGl2GlAivZXefzPo8HjqHDWOXmWFzL7s/0ZL5GTq9En0rwuhkC6dpBYzhChLLFSFuKgx92mtFH4rYDAau1vMy1goqiSsFvV44spQETDqDNos7RaE5LugHl/TIt28bahba+D1hNdBmv/17Ag1uCaFZndvE5sS0zUik8nvE/iRpCv8qwQ5sOPPGWkH3Av1UP98WKU9fG+sGiiYAexgw/dn5H2pdnDRaNbvv4noV+DevaoSCmWur3Fco7tkSI/LUEfxGwC8K8UbnDPcseaNQWW1VNM4YjiasbLlV4rrAgWUTqH8PeOGMXCh9Mac5DiemM68N6K7HMthWgWi+G1DIjEfo4a8=;xURTmhxeEvBRLiu5qkKxlw=="
 ---
 

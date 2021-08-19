@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
-publishedDateTime: 2021-08-18T19:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
-webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
+excerpt: "Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that"
+publishedDateTime: 2021-08-18T18:49:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
+webUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
 type: article
-quality: 66
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Identity
   - Integration
+
+images:
+  - url: "https://mma.prnewswire.com/media/1597470/Cirrus_Identity_Logo.jpg?p=facebook"
+    width: 868
+    height: 454
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -333,6 +335,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Quorum set to deploy XSellerator dealerships on Microsoft Azure"
+    excerpt: "Leveraging the Microsoft Azure cloud platform eliminates the need for on-premise servers or a Quorum-hosted solution. “Quorum is now actively marketing and selling the Microsoft Azure cloud platform to existing and prospective XSellerator DMS customers ..."
+    publishedDateTime: 2021-08-19T18:24:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/08/19/quorum-set-to-deploy-xsellerator-dealerships-on-microsoft-azure"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
     publishedDateTime: 2021-08-17T12:15:00Z
@@ -342,6 +353,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
+    excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"
+    publishedDateTime: 2021-08-19T13:42:00Z
+    webUrl: "https://www.indianweb2.com/2021/08/microsoft-azure-powered-climate-tech.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 5
+    images:
+      - url: "https://1.bp.blogspot.com/-QBOkxmsOyzk/YR5fdHLy4vI/AAAAAAAAEgM/kVBA0w3Nno8kViq-DBWTW9SweLCBtSq4QCLcBGAsYHQ/s16000/atmos-device.jpeg"
+        width: 1065
+        height: 588
+        isCached: true
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
     publishedDateTime: 2021-08-18T18:34:00Z
@@ -370,6 +395,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "E2p0HL8uc5ZOUR/MyVPfSxVrik985281YUaJIbMuAeTQQ2KVoKr6ZwXMUsa1VpCV95pCbagyU/IwDYBAt2JuRbOsXtWsVSx40UBucCBtk8GVxy1iNU8wP9soyX2bgvUT2HeercomRXEtf2aucVOk2XGbpfqrwLtcc729lAaUjGU8lnsZxvvYK/lzDZMKEkUdJZSMwEw2yoGUEkStMDAr32Ku9XGUon7JB77GPGYpbe2K1OYMbQfZsqdAL1QyT7QXmiySHQSdtfpAPo70Qlw3A8Bp811JZaNmBYXr4BWFpgcn1Hycm9nEkpkxytJ2dF7rkoqAPDtvyV0M5oMPUY0u/LGePzLh4g8OvNUbplIzWtI=;ZZ96oBbGRyMhSmUP2k9AFA=="
+secured: "lSLw6peIyEI1ygQwGgEStfrpo5NrUyLe95oaNIskYcbA2IlpI282Dowjz6PheUw1De/jIbDMtw/0LEWv3qNQdeuSnmHyXqF3LHujJpq3cu3TIUveK5ZBQe/KTmQAMAenqIHb6uaUh7bfQmzw4XRlhcFSUoHQvGwcD+R4X6AySpUg+OANBDlOfXGp+mUP842qFWnUt+thfs4K8ehh8ly2H20O5yDbjlQJDPD0LEGYiI7lZS/9k0qyAvvRXnrXYudbvu5GK50HRMicxIQfgbrMXO702SeVY4P2Vy2M8uFkpA2AWplSJmy8PdcBTbwgp/g8ZKlw7YzHYRLt086ouBVwhtlnQyJUaxr3ovFGQQImXmE=;MA5plZBqrh6XkMLI7WYNEw=="
 ---
 

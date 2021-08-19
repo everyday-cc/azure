@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
-excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
-publishedDateTime: 2021-08-17T12:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
+title: "Quorum set to deploy XSellerator dealerships on Microsoft Azure"
+excerpt: "Leveraging the Microsoft Azure cloud platform eliminates the need for on-premise servers or a Quorum-hosted solution. “Quorum is now actively marketing and selling the Microsoft Azure cloud platform to existing and prospective XSellerator DMS customers ..."
+publishedDateTime: 2021-08-19T18:24:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/08/19/quorum-set-to-deploy-xsellerator-dealerships-on-microsoft-azure"
+webUrl: "https://stockhouse.com/news/press-releases/2021/08/19/quorum-set-to-deploy-xsellerator-dealerships-on-microsoft-azure"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - Azure
@@ -332,14 +332,14 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Quorum set to deploy XSellerator dealerships on Microsoft Azure"
-    excerpt: "Leveraging the Microsoft Azure cloud platform eliminates the need for on-premise servers or a Quorum-hosted solution. “Quorum is now actively marketing and selling the Microsoft Azure cloud platform to existing and prospective XSellerator DMS customers ..."
-    publishedDateTime: 2021-08-19T18:24:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/08/19/quorum-set-to-deploy-xsellerator-dealerships-on-microsoft-azure"
+  - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
+    excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
+    publishedDateTime: 2021-08-17T12:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
@@ -392,6 +392,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "E681cFPifLXNmLAtWFxR1O6R1whTfnvT1Zb3Dz+j0diZ41RnrBPMJ2mIATncdLccPNQnOK9kT5vGMxK1h87l5CGV4c1pJcWfcvyhzkMrjNEQrG8ErQximO47SsJP/Suq7NMzN5HO60rFq3nX/kP6VjXpIGNjfg61fEvfqHlrHd23OvWxfPqxnlQJE+lLX+I4+ANSjeXlLZAZ11t/+pvdDAXLBTxdcRaIHN2OHvdYkGkOgW1SZEN6oJI55+6D0X5kb/dS5DTbuDzEqsKq9SaWucjjs6zXmaxIro9T1trQ4EBsx4eS8nh1CGBHkIcBanWVte+BzcMt3QOXWVCudRpPft7HOUI6kvhu/5eDQfkvcLM=;26Gp/qdy3gXJDjJc0MT6EQ=="
+secured: "yBhiOd+emzaBFykO9ZYHzAd+bkvsDmIdIL0ceOEhLpdTEG32EweDFg1pTsT2nniKUUKo61Hz9mi/EuPkrpI6fTDbxUF20x3SiJS2CqzINOV+Kog0M9S7IBQ/QkZgaM8A3MfBxRxv/xwOF5+4ulYYrmArQeqnurvh+2eDU43Q4EmqZfamQOJ931hpIvaaYsdxZCIVBajcGAmKY72DfNU/CBOl70ILppxEMItHaPldVUfFTNS174Bz4KP93XPIKRM/3HcKqxPpY7317ZqjyayFpbTG2wQjaMB5kk+obi83LUMgWP+ooxyqWwA+iTmQPQU1lobnvqmCmaDHmc+hPzS2HQjPafzADxilF1udzb0UT/s=;wIFSTwjF1ou7sud1AlXzxw=="
 ---
 
