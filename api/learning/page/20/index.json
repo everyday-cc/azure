@@ -4,45 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_learning/videos/microsoft-how-to-run-an-app-inside-a-container-image-with-docker-azure-tips-and-tricks.md",
-      "title": "How to run an app inside a container image with Docker | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to create a container based on an image, and then create a running app inside of it. Once you get set up with Docker on your local dev machine by installing the Docker desktop application for your operating system, you can easily run an app.   For more",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-run-an-app-inside-a-container-image-with-docker-azure-tips-and-tricks/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-run-an-app-inside-a-container-image-with-docker-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=lpr2tO-FCEw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lpr2tO-FCEw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M8S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-16T15:13:45-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lpr2tO-FCEw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-troubleshoot-common-virtual-machine-issues-azure-portal-series.md",
       "title": "How to troubleshoot common virtual machine issues | Azure Portal Series",
       "excerpt": "In this video of the Azure Portal “How To” Series, learn how to troubleshoot common virtual machine issues using the diagnose and solve experience of the Azure Portal.    Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal",
@@ -1019,8 +980,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-git/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 929,
-            "average": 4.8051667
+            "count": 930,
+            "average": 4.8053765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1272,8 +1233,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11208,
-            "average": 4.682816
+            "count": 11209,
+            "average": 4.682844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1738,6 +1699,49 @@
       "topics": [
         "Azure",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-climate-data-with-azure-notebooks.md",
+      "title": "Analyze climate data with Azure Notebooks",
+      "excerpt": "Create an Azure Notebook and use three popular Python libraries to analyze climate data collected by NASA, then share it.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-climate-data-with-azure-notebooks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-climate-data-with-azure-notebooks/",
+      "length": "45 mins",
+      "ratings": {
+        "count": 1912,
+        "average": 4.714958
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/analyze-climate-data-with-azure-notebooks-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Analyze climate data with Azure Notebooks",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

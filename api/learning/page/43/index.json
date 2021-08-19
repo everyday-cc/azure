@@ -4,48 +4,6 @@
   "page": 43,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-arc.md",
-      "title": "Introduction to Azure Arc",
-      "excerpt": "Introduction to Azure Arc",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-arc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-arc/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 54,
-        "average": 4.851852
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-arc-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-bastion.md",
       "title": "Introduction to Azure Bastion",
       "excerpt": "Describe how Azure Bastion provides secure and seamless connectivity to your VMs directly in the Azure portal. Determine whether Azure Bastion can replace your administrative jump boxes.",
@@ -53,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-bastion/",
       "length": "PT26M",
       "ratings": {
-        "count": 27,
-        "average": 5.0
+        "count": 28,
+        "average": 4.964286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -620,8 +578,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-monitor/",
       "length": "PT49M",
       "ratings": {
-        "count": 38,
-        "average": 4.8421054
+        "count": 39,
+        "average": 4.8461537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1173,6 +1131,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-edge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-iot.md",
+      "title": "Introduction to Azure IoT",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-iot/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 802,
+        "average": 4.735661
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

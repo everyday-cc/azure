@@ -4,49 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-sql-high-availability.md",
-      "title": "Deploy highly available solutions by using Azure SQL",
-      "excerpt": "In this module, you'll learn how to deploy highly available solutions by using Azure SQL. You'll also look at architectures and how they affect availability.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-sql-high-availability/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-high-availability/",
-      "length": "PT1H34M",
-      "ratings": {
-        "count": 275,
-        "average": 4.76
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-high-availability-social.png",
-          "width": 642,
-          "height": 325,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
       "title": "Introduction to Azure SQL",
       "excerpt": "This module introduces Azure SQL. Learn about various deployment options and service tiers and what to use for your organization.",
@@ -1285,6 +1242,49 @@
       "topics": [
         "Azure",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
+      "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
+      "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 5713,
+        "average": 4.7586207
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
       ]
     }
   ],

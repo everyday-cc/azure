@@ -4,49 +4,6 @@
   "page": 38,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-differentiate-azure-management-tools.md",
-      "title": "Differentiate Azure management tools",
-      "excerpt": "In this module, we'll showcase Azure portal, Azure PowerShell, Azure CLI, and Azure Cloud Shell. We'll also look at Azure Advisor, which provides recommendations on high availability, security, performance, and cost.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-differentiate-azure-management-tools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/differentiate-azure-management-tools/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Differentiate Azure management tools",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-discover-azure-government.md",
       "title": "Discover the potential of Azure for government",
       "excerpt": "Discussion of the benefits of the public cloud for public sector agencies, with special attention to how Azure can be helpful to them.",
@@ -227,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-external-access-with-b2c/",
       "length": "PT16M",
       "ratings": {
-        "count": 116,
-        "average": 4.6465516
+        "count": 117,
+        "average": 4.649573
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -567,8 +524,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/",
       "length": "PT34M",
       "ratings": {
-        "count": 306,
-        "average": 4.781046
+        "count": 307,
+        "average": 4.781759
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1275,6 +1232,49 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr.md",
+      "title": "Explore IaaS and PaaS platform tools for high availability and disaster recovery",
+      "excerpt": "Deploy Windows Server Failover Cluster and AGs in Azure and hybrid environments. Configure temporal tables, geo-replication and auto failover groups.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-iaas-paas-platform-tools-for-high-availability-disaster-recovery/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 123,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-iaas-and-paas-platform-tools-for-ha-dr-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

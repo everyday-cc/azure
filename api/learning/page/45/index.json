@@ -434,8 +434,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
       "length": "PT25M",
       "ratings": {
-        "count": 94,
-        "average": 4.819149
+        "count": 95,
+        "average": 4.8210526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -910,6 +910,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
+      "title": "Strengthen authentication (conditional access) with Azure Active Directory",
+      "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-authentication/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 4800,
+        "average": 4.7883334
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-machine-learning-architectures-and-hyperparameters.md",
       "title": "Select and customize architectures and hyperparameters using random forest",
       "excerpt": "Explore how altering the architecture of more complex models can bring about more effective results.",
@@ -1247,49 +1290,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-azure-stack-hci-virtual-machine-workloads.md",
-      "title": "Manage Azure Stack HCI virtual machine workloads",
-      "excerpt": "Manage Azure Stack HCI virtual machine workloads",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-azure-stack-hci-virtual-machine-workloads/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-stack-hci-virtual-machine-workloads/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 9,
-        "average": 4.888889
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],

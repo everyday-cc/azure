@@ -4,49 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
-      "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
-      "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 5711,
-        "average": 4.7585363
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-cybersecurity.md",
       "title": "Introduction to cybersecurity",
       "excerpt": "Evaluate how to defend against the most common cyberthreat.",
@@ -287,8 +244,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-virtual-networks/",
       "length": "PT1H18M",
       "ratings": {
-        "count": 86,
-        "average": 4.8255816
+        "count": 87,
+        "average": 4.816092
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -630,8 +587,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/",
       "length": "PT32M",
       "ratings": {
-        "count": 1168,
-        "average": 4.7508564
+        "count": 1169,
+        "average": 4.751069
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -716,8 +673,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
       "length": "PT59M",
       "ratings": {
-        "count": 1742,
-        "average": 4.5895524
+        "count": 1743,
+        "average": 4.589214
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -804,8 +761,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 5699,
-        "average": 4.668714
+        "count": 5700,
+        "average": 4.6687717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1038,8 +995,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
       "length": "PT33M",
       "ratings": {
-        "count": 922,
-        "average": 4.6496744
+        "count": 924,
+        "average": 4.6493506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1243,6 +1200,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-understand-regression-machine-learning.md",
+      "title": "Train and understand regression models in machine learning",
+      "excerpt": "Regression is arguably the most widely used machine learning technique, commonly underlying scientific discoveries, business planning, and stock market analytics. This learning material takes a dive into some common regression analyses, both simple and more complex, and provides some insight on how to assess model performance.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-understand-regression-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-regression-machine-learning/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 39,
+        "average": 4.8717947
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

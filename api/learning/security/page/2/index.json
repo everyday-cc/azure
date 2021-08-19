@@ -4,6 +4,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-describe-security-concepts-methodologies.md",
+      "title": "Describe security concepts and methodologies",
+      "excerpt": "Describe security concepts and methodologies",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-security-concepts-methodologies/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 1613,
+        "average": 4.8121514
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
       "title": "Top 5 security items to consider before pushing to production",
       "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
@@ -46,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 3540,
-        "average": 4.6782484
+        "count": 3541,
+        "average": 4.678057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -89,8 +132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-storage-security/",
       "length": "PT27M",
       "ratings": {
-        "count": 37,
-        "average": 4.7297297
+        "count": 38,
+        "average": 4.736842
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -133,8 +176,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 3129,
-        "average": 4.650687
+        "count": 3131,
+        "average": 4.650591
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -178,8 +221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 9486,
-        "average": 4.6729918
+        "count": 9488,
+        "average": 4.673061
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-security-groups/",
       "length": "PT21M",
       "ratings": {
-        "count": 33,
-        "average": 4.757576
+        "count": 34,
+        "average": 4.7647057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1457,194 +1500,6 @@
         "Azure",
         "Security",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio.md",
-      "title": "Migrate an ASP.NET web application to Azure with Visual Studio",
-      "excerpt": "Migrate an ASP.NET web application to Azure with Visual Studio",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/",
-      "length": "PT1H17M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
-          "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
-          "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 33,
-            "average": 4.5454545
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
-          "title": "Implement logging in a .NET Framework ASP.NET web application",
-          "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 40,
-            "average": 4.65
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile",
-            "Management Tools",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aspnet-session.md",
-          "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
-          "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aspnet-session/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-session/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 40,
-            "average": 4.675
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Security",
-        "Databases",
-        "Developer tools"
       ]
     }
   ],

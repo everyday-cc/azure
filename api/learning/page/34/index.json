@@ -566,49 +566,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-connect-common-event-format-cef-logs-to-azure-sentinel.md",
-      "title": "Connect Common Event Format logs to Azure Sentinel",
-      "excerpt": "Connect Common Event Format logs to Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-common-event-format-cef-logs-to-azure-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-common-event-format-logs-to-azure-sentinel/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 51,
-        "average": 4.8627453
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-connect-data-to-azure-sentinel-with-data-connectors.md",
       "title": "Connect data to Azure Sentinel using data connectors",
       "excerpt": "Connect data to Azure Sentinel using data connectors",
@@ -1305,6 +1262,49 @@
       "topics": [
         "Azure",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cosmos-db-java-app.md",
+      "title": "Build a Java app for Azure Cosmos DB",
+      "excerpt": "Learn how to create a Java application to store and query data in Azure Cosmos DB",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cosmos-db-java-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-java-app/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 36,
+        "average": 4.8055553
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cosmos-db-java-app-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

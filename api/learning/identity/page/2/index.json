@@ -4,229 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-implement-a-windows-server-hybrid-cloud-infrastructure.md",
-      "title": "Implement a Windows Server hybrid cloud infrastructure",
-      "excerpt": "You will learn how to address problems relating to the migration of on-premises workloads into Azure. After completing the learning path, you will be able to implement a hybrid Azure infrastructure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-implement-a-windows-server-hybrid-cloud-infrastructure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-implement-a-windows-server-hybrid-cloud-infrastructure/",
-      "length": "PT7H10M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-implement-hybrid-network-infrastructure.md",
-          "title": "Implement hybrid network infrastructure",
-          "excerpt": "You'll learn to connect your on-premises environment to Azure, implement subnets and routing between your on-premises and cloud environments, and ensure that workloads in the cloud and on-premises perform DNS resolution to locate each other.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-hybrid-network-infrastructure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-network-infrastructure/",
-          "length": "PT1H9M",
-          "ratings": {
-            "count": 53,
-            "average": 4.792453
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-network-infrastructure-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server.md",
-          "title": "Implement hybrid identity with Windows Server",
-          "excerpt": "Implement hybrid identity with Windows Server",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-identity-windows-server/",
-          "length": "PT1H49M",
-          "ratings": {
-            "count": 67,
-            "average": 4.6567163
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms.md",
-          "title": "Migrate on-premises Windows Server instances to Azure IaaS virtual machines",
-          "excerpt": "You'll be able to plan a migration and select appropriate server migration tools. You will also learn how to use Azure Migrate, how to assess physical servers, and how to migrate those servers.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-premises-windows-server-instances-azure-iaas-virtual-machines/",
-          "length": "PT41M",
-          "ratings": {
-            "count": 35,
-            "average": 4.7714286
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-windows-server-instances-to-azure-iaas-vms-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-implement-hybrid-file-server-infrastructure.md",
-          "title": "Implement a hybrid file server infrastructure",
-          "excerpt": "In this module, you’ll learn to deploy Azure File Sync, migrate from DFS, and use Storage Migration Services to migrate file servers to Azure.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-hybrid-file-server-infrastructure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-file-server-infrastructure/",
-          "length": "PT1H32M",
-          "ratings": {
-            "count": 40,
-            "average": 4.675
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-a-hybrid-file-server-infrastructure-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Storage",
-            "Compute"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-network-infrastructure-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Management Tools",
-        "Storage",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-implement-an-authentication-and-access-management-solution.md",
       "title": "Implement an Authentication and Access Management solution",
       "excerpt": "Implement an Authentication and Access Management solution",
@@ -1120,7 +897,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1362,8 +1139,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
           "length": "PT25M",
           "ratings": {
-            "count": 94,
-            "average": 4.819149
+            "count": 95,
+            "average": 4.8210526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3670,8 +3447,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 7613,
-        "average": 4.6923685
+        "count": 7614,
+        "average": 4.6918836
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3706,8 +3483,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-active-directory/",
       "length": "PT27M",
       "ratings": {
-        "count": 81,
-        "average": 4.6419754
+        "count": 84,
+        "average": 4.642857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3749,8 +3526,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 6345,
-        "average": 4.744523
+        "count": 6347,
+        "average": 4.7446036
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3835,8 +3612,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 6612,
-        "average": 4.740472
+        "count": 6613,
+        "average": 4.740511
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3871,49 +3648,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365.md",
-      "title": "Describe the identity and access management capabilities of Microsoft 365",
-      "excerpt": "Describe the identity and access management capabilities of Microsoft 365",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 523,
-        "average": 4.8164434
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-the-identity-and-access-management-capabilities-of-microsoft-365-social.png",
-          "width": 642,
-          "height": 324,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-describe-identity-protection-governance-capabilities-of-azure-ad.md",
       "title": "Describe the identity protection and governance capabilities of Azure AD",
       "excerpt": "Describe the identity protection and governance capabilities of Azure AD",
@@ -3921,8 +3655,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
       "length": "PT29M",
       "ratings": {
-        "count": 518,
-        "average": 4.820463
+        "count": 519,
+        "average": 4.8208094
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4212,6 +3946,88 @@
       "topics": [
         "Azure",
         "Management Tools",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
+      "title": "Secure your application by using OpenID Connect and Azure AD",
+      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 2748,
+        "average": 4.67722
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday.md",
+      "title": "Issue and accept verifiable credentials using Azure Active Directory | Azure Friday",
+      "excerpt": "Sydney Morton joins Scott Hanselman to show how verifiable credentials enable you to own and prove who you are in the digital world. See how to enable decentralized identity through seamless user and developer experiences.  ⏩ 0:00 – Intro ⏩ 0:37 – Overview ⏩ 3:01 – Demo – end user experience ⏩ 6:14 –",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-issue-and-accept-verifiable-credentials-using-azure-active-directory-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=xtEXx67J41o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xtEXx67J41o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M4S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-16T03:08:56-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xtEXx67J41o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Identity"
       ]
     }
