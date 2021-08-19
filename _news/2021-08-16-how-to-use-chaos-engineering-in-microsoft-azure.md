@@ -1769,6 +1769,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Guild Group transitions to Microsoft Azure"
+    excerpt: "Financial service provider Guild Group has led a major overhaul of its digital platforms—transitioning core systems off a private cloud and into Microsoft Azure. Working with SXiQ, which specialises in cloud applications,"
+    publishedDateTime: 2021-08-18T01:04:00Z
+    webUrl: "https://itwire.com/cloud/guild-group-transitions-to-microsoft-azure.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 37
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/588ca1086d268b3d8ceba138f2c87344_M.jpg"
+        width: 375
+        height: 226
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z

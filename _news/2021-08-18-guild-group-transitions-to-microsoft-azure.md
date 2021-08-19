@@ -1,26 +1,26 @@
 ---
 category: news
-title: "DH2i Simplifies High Availability Across Microsoft Azure Cloud"
-excerpt: "DxEnterprise’s DH2i makes it simpler for IT teams to achieve high availability of Microsoft SQL Server databases."
-publishedDateTime: 2021-03-26T16:39:00Z
-originalUrl: "https://www.itbusinessedge.com/cloud/dh2i-simplifies-high-availability-across-microsoft-azure-cloud/"
-webUrl: "https://www.itbusinessedge.com/cloud/dh2i-simplifies-high-availability-across-microsoft-azure-cloud/"
+title: "Guild Group transitions to Microsoft Azure"
+excerpt: "Financial service provider Guild Group has led a major overhaul of its digital platforms—transitioning core systems off a private cloud and into Microsoft Azure. Working with SXiQ, which specialises in cloud applications,"
+publishedDateTime: 2021-08-18T01:04:00Z
+originalUrl: "https://itwire.com/cloud/guild-group-transitions-to-microsoft-azure.html"
+webUrl: "https://itwire.com/cloud/guild-group-transitions-to-microsoft-azure.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: IT Business Edge
-  domain: itbusinessedge.com
+  name: ITWire
+  domain: itwire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/03/SQL.jpeg"
-    width: 1500
-    height: 1000
+  - url: "https://itwire.com/media/k2/items/cache/588ca1086d268b3d8ceba138f2c87344_M.jpg"
+    width: 375
+    height: 226
     isCached: true
 
 related:
@@ -1516,6 +1516,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "DH2i Simplifies High Availability Across Microsoft Azure Cloud"
+    excerpt: "DxEnterprise’s DH2i makes it simpler for IT teams to achieve high availability of Microsoft SQL Server databases."
+    publishedDateTime: 2021-03-26T16:39:00Z
+    webUrl: "https://www.itbusinessedge.com/cloud/dh2i-simplifies-high-availability-across-microsoft-azure-cloud/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 37
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/03/SQL.jpeg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Microsoft's Azure Cloud facility in Doha complete"
     excerpt: "we concluded a strategic partnership with Microsoft to establish a regional centre in Qatar for Microsoft Azure Cloud,” he said. Having such data centres in Qatar, HE al-Sulaiti added, encourages local companies to benefit from such an investment and ..."
     publishedDateTime: 2021-04-06T20:16:00Z
@@ -1764,20 +1778,6 @@ related:
       - url: "https://www.channelfutures.com/files/2021/07/cloud-communications-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Guild Group transitions to Microsoft Azure"
-    excerpt: "Financial service provider Guild Group has led a major overhaul of its digital platforms—transitioning core systems off a private cloud and into Microsoft Azure. Working with SXiQ, which specialises in cloud applications,"
-    publishedDateTime: 2021-08-18T01:04:00Z
-    webUrl: "https://itwire.com/cloud/guild-group-transitions-to-microsoft-azure.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 37
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/588ca1086d268b3d8ceba138f2c87344_M.jpg"
-        width: 375
-        height: 226
         isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
@@ -2386,6 +2386,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "5L7OijTC0P4W1U0KfVW0+d+tASGwPoIv7ekTycdQOAo0BzGVHsHBbqoXMgUdtGVdw09g1t254axec2j2WP0QbculCvq36Rc7qmBOuJYoYFZUBKFxvwLdoavi9H6d4dhmgqPM6ppRX0J9OV3NKrxZ7HHqVe94BvunqjLr5p2iJhzcDd2Ujd+T7sJUeMDavGD74Bs4PfnKtrDkW8OjTpRrZ2iJ1UBn0Vtkot5QhqeWPGXzOER9pSl6WUbG5BiOhqozwVmYmopp/76BuSRCJ7Fggp7/u8rVfGkBhCuEEFYdjmCkO9UCRfD0gHgjWItODQxejCe5bkN/dqYWY2Vcx5DxT6mmpU1BJOxj3Nfp8EvouNE=;htfmyXoxdES5vDUJ6F+yIQ=="
+secured: "TPAWjgGn5cCm72nYGbFbf7BqFjptTbbPzVYV1RzadbF/Mr/9ji/ODc6CLuAXOHzlnD8mOn+BWBmoHPqTe3/2AFD3yJodDdn5LgwFiZmdlapbdbAvsmP8JmW6ig74UOEdYtp+vJxnjPyMZSSBHkYw7lk+CFPJtj5UFnfXzBOAPkCcJ3qBa8vNcXcARJzhBXmvQ1C36RnnaZSy1ufdadn2LTvcPbcee6oVnkNDITVTkyokF/W4exi3Lag4PLHW5LO46b7xbiSpJlPbZ125xD7h4ebjC0MEXpimx339QyuwRRYu9rYdb/clnHs1nggO8w6JpXVWK9POqXhouTdyeEPaK5gAv2aZgPl0gOJ35KbAne8=;14Chp/vti+WJU2DkCaG5Lg=="
 ---
 
