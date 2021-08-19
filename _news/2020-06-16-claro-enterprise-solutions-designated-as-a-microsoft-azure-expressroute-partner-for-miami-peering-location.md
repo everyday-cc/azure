@@ -159,18 +159,18 @@ related:
         height: 630
         isCached: true
   - title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Innovating the way IT departments shop for services. New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment offer ..."
-    publishedDateTime: 2021-08-16T13:31:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/16/cornerstone-its-consulting-service-for-imanage-now-available-in-the-microsoft-azure-marketplace/"
+    excerpt: "New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment ..."
+    publishedDateTime: 2021-08-16T12:44:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
+      name: Law
+      domain: law.com
     quality: 24
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/08/5935-300x300-1.png"
-        width: 300
-        height: 300
+      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Collaborative Drug Discovery Joins the Microsoft Cloud Storage Partner Program"
     excerpt: "PRNewswire/ -- Collaborative Drug Discovery (CDD), provider of the CDD Vault web-based research informatics platform, announced that it has officially"
