@@ -77,7 +77,6 @@ items:
   - videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday
   - videos/microsoft-go-serverless-containers-with-kubernetes-and-virtual-nodes-azure-friday
   - videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday
-  - videos/microsoft-manage-and-govern-your-hybrid-servers-using-azure-arc-azure-friday
   - videos/microsoft-azure-cosmos-db-free-tier-and-autopilot-azure-friday
   - videos/microsoft-using-api-server-authorized-ip-ranges-to-secure-your-cluster-azure-friday
   - videos/microsoft-end-to-end-iot-device-security-with-azure-sphere-azure-friday
