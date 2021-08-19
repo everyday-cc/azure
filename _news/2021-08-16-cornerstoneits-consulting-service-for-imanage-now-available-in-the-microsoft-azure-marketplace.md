@@ -104,6 +104,22 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES yesterday announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system – O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-19T10:00:00Z
+    webUrl: "https://www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/"
+    ampWebUrl: "https://www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/amp/"
+    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/amp/"
+    type: article
+    provider:
+      name: Hellenic Shipping News Worldwide
+      domain: hellenicshippingnews.com
+    quality: 57
+    images:
+      - url: "https://www.hellenicshippingnews.com/wp-content/uploads/2021/08/c0df7c52-7418-1c7b-d6ca-65d3bc75528a.jpg"
+        width: 700
+        height: 300
+        isCached: true
   - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
     excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
     publishedDateTime: 2021-08-13T15:07:00Z
@@ -354,6 +370,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "hvhwffxKCHL/uzFx5XbahIfjrjg7V+GkRq446bkSzgAMh5jr0czqiTELaUIXIw7sGsw/Gg4sX0ZahgomzZ4DZMS9Yz7ZH2xeniVuBeqb49p6E9NwxCu7W1nPNBWzt1lx+R9xjCQ/iCUoCdFCubk1eDYpHcnQkKHecxsqGWOmMCDI+cJLRKsLnmPripsPJ8jDNIPySL6YJ97yDlpc4A0PY0fQ+xs++MjUHu+fTWfgYKupPkflXU+zOSGCFK1ApOI+yBvXhBJ5FDrN5NATXk/KlNAO17l1fEt5sOvDwjseZhRs1v5kq0xfWyaacFEUzNkQ9HV0aWlspyLKLgcas98fs/jrSAW5Spqv8iTjPdQ6B/o=;kZwfViKtTBRIyBGtRgg+Gg=="
+secured: "g9tXX0q5ndb7W/KGNqzCScI+6sFFkn/FSM2FM+VGpF1fJqQZmadDgc1zqE1D41/7SirA0nOttsAJPrKzLwaSqWfrJa+v2PeHEn15Bj3ZpstmJ6mNcj4004IFM96pTICUuv3hiqFPbQgHyh+pdszs5ALsc0/XMeXPy/QVh9MfsbDJXT2oD+Dk+o6BDDOxDHzylocSR35eo5g01WrVF4WRuY8NxE3us+xMVXQuziktAMd+nqu+Ewf/b81jSUvXpoOIasfffkxXzWGUZD0q9DXsWz+Mo4zkyOSO2HHoIO4/s2smlMlrLuifPfnsSONzl7fpZcD9UpgMgk3JxTpYTd8DwMz2fIKvxl4eLoyZNwSE49k=;lciUH3yV9SW90dPFNc4mlA=="
 ---
 

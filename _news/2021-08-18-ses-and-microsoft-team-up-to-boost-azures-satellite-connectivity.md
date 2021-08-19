@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microso
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
 type: article
 quality: 97
-heat: 597
+heat: 619
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
       - url: "https://lh3.googleusercontent.com/z5OfrBnxum0G4sy1X-he2-kNZSrtFrbC1noY8PBCsOI-QuFuuqPWFTS3PIh2jMLJhgZxGuuNexVbC4vvC-rzZ1M=w816-h428"
         width: 761
         height: 428
+        isCached: true
+  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES yesterday announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system – O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-19T10:00:00Z
+    webUrl: "https://www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/"
+    ampWebUrl: "https://www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/amp/"
+    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/amp/"
+    type: article
+    provider:
+      name: Hellenic Shipping News Worldwide
+      domain: hellenicshippingnews.com
+    quality: 57
+    images:
+      - url: "https://www.hellenicshippingnews.com/wp-content/uploads/2021/08/c0df7c52-7418-1c7b-d6ca-65d3bc75528a.jpg"
+        width: 700
+        height: 300
         isCached: true
   - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
     excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"

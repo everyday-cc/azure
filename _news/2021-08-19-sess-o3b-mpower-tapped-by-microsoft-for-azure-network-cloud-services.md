@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
-publishedDateTime: 2021-08-18T18:34:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
-webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
+title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+excerpt: "SES yesterday announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system – O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+publishedDateTime: 2021-08-19T10:00:00Z
+originalUrl: "https://www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/"
+webUrl: "https://www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/"
+ampWebUrl: "https://www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/amp/"
+cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/amp/"
 type: article
-quality: 2
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Hellenic Shipping News Worldwide
+  domain: hellenicshippingnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.hellenicshippingnews.com/wp-content/uploads/2021/08/c0df7c52-7418-1c7b-d6ca-65d3bc75528a.jpg"
+    width: 700
+    height: 300
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -97,22 +105,6 @@ related:
       - url: "https://lh3.googleusercontent.com/z5OfrBnxum0G4sy1X-he2-kNZSrtFrbC1noY8PBCsOI-QuFuuqPWFTS3PIh2jMLJhgZxGuuNexVbC4vvC-rzZ1M=w816-h428"
         width: 761
         height: 428
-        isCached: true
-  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES yesterday announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system – O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-19T10:00:00Z
-    webUrl: "https://www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 57
-    images:
-      - url: "https://www.hellenicshippingnews.com/wp-content/uploads/2021/08/c0df7c52-7418-1c7b-d6ca-65d3bc75528a.jpg"
-        width: 700
-        height: 300
         isCached: true
   - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
     excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
@@ -350,6 +342,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
+    publishedDateTime: 2021-08-18T18:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
   - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
     excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
     publishedDateTime: 2021-06-30T06:50:00Z
@@ -369,6 +370,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "saN2YMsmPVYca58Yu086gIl/6EsD5dHrHYl4nd6XJCwbOVX5er3Y1TVAZoN92q3gaRYiHGg4NwKkJz8u2owBIGW1zqGW8Nwn8JqJE4dOzkCD1x9y52ko73qcqfuJWVQnFve1V/gx0jyGR1QLdPJdmiRRsQxm2OQNUZU/cMMpQ5/nUkbpGSbLqwCgVdVdFm3RCW6LyWm1HIsaIRQjcnerFDxV1uzVfFCVBhLfFZEHgR/A9zC+gAICco4/cyusIZBUjRBStc3gEWxZ0M8/yz1WruLRy+DRhj/KqysUVIhAZq0ILHS/kVrdhic27vxgtDZ4P9+sj1W6z9Qa6CVGNe1QxfQTvueOKp9Yf/q/xt7rH+U=;/5TBNquHhEpBEe3WJcxfUQ=="
+secured: "yg2ftCdIsN+Dw3+ElSTn3pKNN6GAonFSpOEehTtp+EYIZltUJGCy8QP/pOGite1MR9KtHnUa74ufafbkkHqQcAeDLRenqnfVgHYhmW+1EsUUbsa4LYO70nAfz8vMQmx4ZR92B7080QwDVxiOfZURhI04nfPZUfWT3HBm40f7VhoAsApLr46QH7Oj3SoYV6TUi4TWSw2TzEipfbTR3gWHTA617rCNPMeD9Vb1tR73QfsCwdpmOdLEWSzRS0jDVUhs869XsqVb68v+vI5/fxV4yim57JUSNS2fu8NDnI6Ww2U77pAqb5UuxwzeNgwBMLGOurjc5dPEdGi4FcFE5hulGSSsOuJkNiW+O3Xg00VWIr4=;33ddctTQ9WW4DL0BtXkM9g=="
 ---
 
