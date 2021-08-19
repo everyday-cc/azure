@@ -49,15 +49,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Sphere OS version 21.08 expected on Aug 25"
-    excerpt: "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
-    publishedDateTime: 2021-08-12T15:04:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2108-expected-on-aug-25/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
 
 secured: "ltlFHLRRPrDkPoTojhUvjy8ATqoB8FGB1ulsvDx6U/QzPVmSS2f70XxBEO5yboysiHKLb6bXkphkUtIsZfxhf27QmUph4urYfKB8aort22rVz80sQKYrcGD/1s5VfW7CdDT6tyD9CSmVi/7myp9ikn9afzpK7OzZqyml+wCOFzOzb647lrTPduiU6j15x+BnutU2sn/ZsGsPTtaCVnp/O+oT8A44MygO3syZmUzqLKzzvKU2+oKE8hSJhJCOKIGwiaomhk9eAUy2OTrglJyYdPWcLwzX/ubpnAbJ1Wt3mXk4LqiKnLH5JZ7FLatHSc88YNvM7xgkTNmW554xmT+LlBE2BmMgbaUGWk0aQq01gLc=;jhWII+RD8kDsdtduYSSbQA=="
 ---
