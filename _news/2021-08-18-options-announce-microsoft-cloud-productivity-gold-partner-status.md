@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Windows 365 exposes Microsoft Azure credentials in plaintext"
-excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
-publishedDateTime: 2021-08-13T18:24:00Z
-originalUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"
-webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"
-ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
-cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
+title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+publishedDateTime: 2021-08-18T14:34:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
 type: article
-quality: 57
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Bleeping Computer
-  domain: bleepingcomputer.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
-    width: 1800
-    height: 900
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -48,6 +46,22 @@ related:
     webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/"
     ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/amp/"
     cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
+        width: 1800
+        height: 900
+        isCached: true
+  - title: "Windows 365 exposes Microsoft Azure credentials in plaintext"
+    excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
+    publishedDateTime: 2021-08-13T18:24:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
     type: article
     provider:
       name: Bleeping Computer
@@ -280,20 +294,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
-    publishedDateTime: 2021-08-18T14:34:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
     excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
     publishedDateTime: 2021-08-18T15:16:00Z
@@ -354,6 +354,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "ZhTyqieHIvImscrPD+qdnkoyqDa0dONi0IChU/ojrpzflm/PkevaTItFqHVAdwTeUe0VsaEvioTo07at884s6I0SNFwBW0TWCvxw6uTmP1I2o4R4f50p9zlrLne7zXz0LT00Chpx9UDkVFb+1qxMe9EbVxJeDzJrkPfoMNTIVwMZvZaZ/22MpQCCW6q/bE2K/WpZKgKLY44mkW9uP42lxP7eDqv5h6Lia2lRXBFUNJO/rv+3gJElvW1cfcEWepqi3ZHz9L+rl6MynwKR+ter7EphJZFd38NSQOikZ8JgiDpthJwPZ0/Iw4JXTYdjd4D8a7OVl8LJCju7XMB3UyaLwd9GqHpGWQwLpWYuvFHbJe8p8DqT3HgmrVvOArTrV+LBDfuGqEeTReNAFmQ816ko/axbgISld+WhZuQzurOazLAGcoAArx3AGv7DoqRtQYva/Eba8+soeJNnQOi6rnbFzWvgKvokipv75TM3geLyeNF2KHpp2LAaWDBa0svV90MZtNASWkMPL55LlFPK2uoV3A==;tx3eTb6OyDhTegrOdUpkpw=="
+secured: "zSx3KO57kQNy7xhqU7oNZ69/tycTHNrFkxG1+fMb2EHmuybF0GTot/1jrpRRZwnXZ26iIscpOLvWtMD/vfJ0MBnwkQclZ3BHNi1FNG5CMIWYH0BmK62O7GQC37/JIDylUN5NXbvnfceP/1ugbuVMNKnPzhEgrMSkiHRtDaGJRT3rn0hAXk3ztBs/PBwI2Htx2GvsVWQWL2W5i7SjO+KZrh6l58DqADKSVaoR3VoRnFBDPQ6NSjpeqNslBHWk33HH5x04i1pe6883cs8xVNJBpp689Z9V6xx1cQVkxCbV+P6lIVETXFRreXQ348gFsSHKoLlyYxm2aDqt52eamy3D3HmXMuxwkMH3WqhRXZyhdzk=;joCAsbubUxvreQeaeZgSmQ=="
 ---
 

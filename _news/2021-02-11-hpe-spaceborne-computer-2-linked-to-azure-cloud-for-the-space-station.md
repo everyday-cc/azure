@@ -38,20 +38,6 @@ related:
         width: 624
         height: 350
         isCached: true
-  - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
-    excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
-    publishedDateTime: 2021-08-18T15:16:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-hpe-complete-genomics-workload-on-international-space-station-with-spaceborne-computer-2/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 18
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Do54zEOAiauyjRKRy4hMNtd4kW3OzWuajyNFfn89zPHcJYezWFfkczmGR7TS2hZcMtpAYe7jB9frCTtn+MAwlUwcqylaKOSsQuayVXcsHZoizAeNxnpSecikUie4agmrwS4eBVLQvABOX3WhEaprpatIbF8hDk3UkQlH+QXx/LHB6ioU8T0IFXL2yE6CTa/SdDy+HBOzcP38ktteI8mGiOU8FpnJz8ArGE9biXMRyKskEzOfjGJ2kX8qGRomIH74kwPlhGy5/3jrBrBSAoj2i/UCQRpSePLRYOGwmDXJiBeLzMSqACpjGsU8bTm2Dg+YYv2vQAN0qiY+YNpfUuyvgnZV3+Uz4dhQ5btyuh8zeg0=;P9IUjZWybu02PCFI7vQ4BQ=="
 ---

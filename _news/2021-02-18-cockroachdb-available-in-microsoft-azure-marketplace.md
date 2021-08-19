@@ -218,20 +218,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "As Microsoft Azure Evolves, Channel Opportunities Expand"
-    excerpt: "Fueled by its Azure business, Microsoft is poised to be well positioned in the office productivity space for years to come, and channel partners are going to benefit as a result. This was a clear ..."
-    publishedDateTime: 2021-02-18T00:00:00Z
-    webUrl: "https://www.channelpartnersonline.com/blog/as-microsoft-azure-evolves-channel-opportunities-expand/"
-    type: article
-    provider:
-      name: Channel Partners
-      domain: channelpartnersonline.com
-    quality: 37
-    images:
-      - url: "https://www.channelpartnersonline.com/files/2017/06/Cloud-Computing1-770x285.jpg"
-        width: 770
-        height: 285
-        isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "NEW YORK, Feb. 18, 2021 /PRNewswire/ -- Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Microsoft Azure Expert Managed ..."
     publishedDateTime: 2021-02-18T10:02:00Z

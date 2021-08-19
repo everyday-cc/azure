@@ -208,20 +208,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "As Microsoft Azure Evolves, Channel Opportunities Expand"
-    excerpt: "Fueled by its Azure business, Microsoft is poised to be well positioned in the office productivity space for years to come, and channel partners are going to benefit as a result. This was a clear ..."
-    publishedDateTime: 2021-02-18T00:00:00Z
-    webUrl: "https://www.channelpartnersonline.com/blog/as-microsoft-azure-evolves-channel-opportunities-expand/"
-    type: article
-    provider:
-      name: Channel Partners
-      domain: channelpartnersonline.com
-    quality: 37
-    images:
-      - url: "https://www.channelpartnersonline.com/files/2017/06/Cloud-Computing1-770x285.jpg"
-        width: 770
-        height: 285
-        isCached: true
   - title: "CockroachDB Available in Microsoft Azure Marketplace"
     excerpt: "NEW YORK, Feb. 16, 2021 /PRNewswire/ -- Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for ..."
     publishedDateTime: 2021-02-17T17:20:00Z

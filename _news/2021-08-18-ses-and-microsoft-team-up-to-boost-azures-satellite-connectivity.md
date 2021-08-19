@@ -1,53 +1,57 @@
 ---
 category: news
-title: "Windows 365 exposes Microsoft Azure credentials in plaintext"
-excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
-publishedDateTime: 2021-08-13T18:24:00Z
-originalUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"
-webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"
-ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
-cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
+title: "SES and Microsoft team up to boost Azure's satellite connectivity"
+excerpt: "Microsoft has teamed with SES Satellites to enhance its Azure Orbital solutions. Microsoft will leverage SES’s medium Earth orbit (MEO) system, O3b mPOWER, as part of their partnership to boost Azure’s satellite connectivity."
+publishedDateTime: 2021-08-18T16:18:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity"
+webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity"
+ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 97
+heat: 597
+published: true
 
 provider:
-  name: Bleeping Computer
-  domain: bleepingcomputer.com
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
-    width: 1800
-    height: 900
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629303595/itpro/SES_Banner_With_Lines_4k_High.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
-  - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
-    excerpt: "Microsoft has teamed with SES Satellites to enhance its Azure Orbital solutions. Microsoft will leverage SES’s medium Earth orbit (MEO) system, O3b mPOWER, as part of their partnership to boost Azure’s satellite connectivity."
-    publishedDateTime: 2021-08-18T16:18:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 97
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629303595/itpro/SES_Banner_With_Lines_4k_High.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Windows 365 exposes Microsoft Azure credentials in plain-text"
     excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
     publishedDateTime: 2021-08-13T18:24:00Z
     webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/"
     ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/amp/"
     cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
+        width: 1800
+        height: 900
+        isCached: true
+  - title: "Windows 365 exposes Microsoft Azure credentials in plaintext"
+    excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
+    publishedDateTime: 2021-08-13T18:24:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
     type: article
     provider:
       name: Bleeping Computer
@@ -354,6 +358,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "ZhTyqieHIvImscrPD+qdnkoyqDa0dONi0IChU/ojrpzflm/PkevaTItFqHVAdwTeUe0VsaEvioTo07at884s6I0SNFwBW0TWCvxw6uTmP1I2o4R4f50p9zlrLne7zXz0LT00Chpx9UDkVFb+1qxMe9EbVxJeDzJrkPfoMNTIVwMZvZaZ/22MpQCCW6q/bE2K/WpZKgKLY44mkW9uP42lxP7eDqv5h6Lia2lRXBFUNJO/rv+3gJElvW1cfcEWepqi3ZHz9L+rl6MynwKR+ter7EphJZFd38NSQOikZ8JgiDpthJwPZ0/Iw4JXTYdjd4D8a7OVl8LJCju7XMB3UyaLwd9GqHpGWQwLpWYuvFHbJe8p8DqT3HgmrVvOArTrV+LBDfuGqEeTReNAFmQ816ko/axbgISld+WhZuQzurOazLAGcoAArx3AGv7DoqRtQYva/Eba8+soeJNnQOi6rnbFzWvgKvokipv75TM3geLyeNF2KHpp2LAaWDBa0svV90MZtNASWkMPL55LlFPK2uoV3A==;tx3eTb6OyDhTegrOdUpkpw=="
+secured: "YhkGzU2dJcSUgWstOkEyelsSkdb8e5gXOXBt5r1Tt8G0D/42yzjR9lJgnPboIyaEJvpiqStHE68jgAOJ032ZuZ0jWFChc7eb+4uhf8Dn7TlovMOcstyn5DAvEtwlMzZscU4N4mv1eJL2XQPFJMv+51k4UlpcQ6usmLOmT9eU/I+Lcz+fvAiXxXdO5xpPiSbAI4un6VdwaPA4pgt7n0om2e8IaQyxR1CNx7mv0FeYIiPI2V4xsEIpY/jrklm8DFjMso+YQGElFIVXiYPQr4y5bWJ3kn+HIXtnx2QsACGpCGASf4V/Iue9l/dH4mPkAB+7yqFYeHUTbBb2MvGh1laQNfpnhLSwn8TIFAm1kPI4U/c=;18harq6H32kEP+D722dagw=="
 ---
 

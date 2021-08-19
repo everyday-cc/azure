@@ -179,20 +179,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Head of Microsoft Azure Space set to lead White House Space Council"
-    excerpt: "Microsoft's Chirag Parikh has been proposed as the executive secretary of the US National Space Council by Vice President Kamala Harris. The council is officially led by the VP, but the day-to-day leadership comes from the executive secretary."
-    publishedDateTime: 2021-08-04T08:33:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/head-of-microsoft-azure-space-set-to-lead-white-house-space-council/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Collibra Data Intelligence Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "NEW YORK and BRUSSELS, Aug. 4, 2021 /PRNewswire/ -- Collibra, the Data Intelligence company, announced the availability of the Collibra Data Intelligence Cloud in the Microsoft Azure Marketplace ..."
     publishedDateTime: 2021-08-04T13:04:00Z

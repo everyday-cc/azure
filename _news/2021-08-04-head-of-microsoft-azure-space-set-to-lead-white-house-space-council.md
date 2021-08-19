@@ -24,259 +24,335 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's greatest advantage is its cloud business, Azure: Bluebox"
-    excerpt: "William de Gale, lead portfolio manager at BlueBox, discusses Microsoft's latest earnings. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
-    publishedDateTime: 2021-07-28T09:23:00Z
-    webUrl: "https://www.cnbc.com/video/2021/07/28/microsofts-greatest-advantage-is-its-cloud-business-azure-bluebox.html"
+  - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
+    excerpt: "Microsoft has teamed with SES Satellites to enhance its Azure Orbital solutions. Microsoft will leverage SES’s medium Earth orbit (MEO) system, O3b mPOWER, as part of their partnership to boost Azure’s satellite connectivity."
+    publishedDateTime: 2021-08-18T16:18:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 77
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 97
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106917937-16274675284ED4-SBEU-070821-WilliamdeGale.jpg?v=1627467527"
-        width: 1920
-        height: 1080
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629303595/itpro/SES_Banner_With_Lines_4k_High.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "STL delivers Cloud-Native OSS/BSS Solution Powered by Microsoft Azure"
-    excerpt: "STL (NSE: STLTECH), an industry leading integrator of digital networks, will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure. This solution will give telcos the agility they need for building future-ready applications through its Digital BSS Platform."
-    publishedDateTime: 2021-07-29T14:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stl-delivers-cloud-native-oss-bss-solution-powered-by-microsoft-azure-1030662108"
+  - title: "Windows 365 exposes Microsoft Azure credentials in plain-text"
+    excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
+    publishedDateTime: 2021-08-13T18:24:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1584294/OSS_solution.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Asset Panda Adds SSO to New Microsoft Azure Active Directory Integration"
-    excerpt: "Only 6 weeks after launching its Azure Active Directory (AD) integration, asset tracking software company Asset Panda introduces Azure AD Single Sign-on (SSO)."
-    publishedDateTime: 2021-07-22T16:20:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/asset-panda-adds-sso-to-new-microsoft-azure-active-directory-integration/article_e0af3c37-4e1f-55ba-b20b-93876f939c95.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 70
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft Buys CloudKnox Security to Boost Azure Active Directory Service"
-    excerpt: "Microsoft on Wednesday announced the acquisition of CloudKnox Security, a maker of 'cloud infrastructure entitlement management' solutions for organizations using various cloud services."
-    publishedDateTime: 2021-07-21T20:16:00Z
-    webUrl: "https://redmondmag.com/articles/2021/07/21/microsoft-buys-cloudknox-security.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 70
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130808REDPoseySafe.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "3 Reasons Microsoft Needs to Reveal Azure's Financials"
-    excerpt: "Microsoft (NASDAQ: MSFT) posted its fourth-quarter earnings on July 27. Its revenue rose 21% year-over-year to $46.2 billion, clearing expectations by $1.9 billion, as its earnings jumped 49% to $2.17 per share and beat estimates by $0."
-    publishedDateTime: 2021-08-03T16:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-reasons-microsoft-needs-to-reveal-azures-financials-2021-08-03"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
     quality: 57
-  - title: "A Microsoft Azure Space director becomes executive secretary of the National Space Council"
-    excerpt: "Chirag Parikh is set to lead the U.S. National Space Council. He previously served as senior director for Azure Space."
-    publishedDateTime: 2021-08-02T17:26:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-space-director-becomes-executive-secretary-national-space-council?amp"
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
+        width: 1800
+        height: 900
+        isCached: true
+  - title: "Windows 365 exposes Microsoft Azure credentials in plaintext"
+    excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
+    publishedDateTime: 2021-08-13T18:24:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/amp/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 47
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
+        width: 1800
+        height: 900
         isCached: true
-  - title: "KnowledgeLake Now Supports Microsoft Azure Government"
-    excerpt: "KnowledgeLake, a provider of document capture and processing solutions, now supports the Microsoft Azure for Government platform to securely automate critical business processes while ensuring regulatory compliance in the cloud. Organizations using Azure ..."
-    publishedDateTime: 2021-07-21T15:03:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070"
+  - title: "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS"
+    excerpt: "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform"
+    publishedDateTime: 2021-08-17T13:25:00Z
+    webUrl: "https://seekingalpha.com/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 37
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 57
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png"
-        width: 480
-        height: 610
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
         isCached: true
-  - title: "Macquarie Cloud claims Microsoft Azure kudos with new accreditation"
-    excerpt: "“I am particularly proud of our talented team who achieved the Azure Expert MSP badge in record time,” he added. According to Macquarie, the Microsoft MSP designation means that the company ..."
-    publishedDateTime: 2021-07-23T02:32:00Z
-    webUrl: "https://www.arnnet.com.au/article/690013/macquarie-cloud-claims-microsoft-azure-kudos-new-accreditation/"
+  - title: "Avaya, Microsoft announce integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
+    excerpt: "The companies have announced the integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS."
+    publishedDateTime: 2021-08-18T06:39:00Z
+    webUrl: "https://www.itweb.co.za/content/GxwQD71ZJBNMlPVo"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/GxwQD71ZJBNMlPVo"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/GxwQD71ZJBNMlPVo"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 57
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
-        width: 740
-        height: 493
+      - url: "https://lh3.googleusercontent.com/z5OfrBnxum0G4sy1X-he2-kNZSrtFrbC1noY8PBCsOI-QuFuuqPWFTS3PIh2jMLJhgZxGuuNexVbC4vvC-rzZ1M=w816-h428"
+        width: 761
+        height: 428
         isCached: true
-  - title: "Microsoft Azure and Google Cloud go head-to-head in quarterly results"
-    excerpt: "CTO of public cloud at cloud MSP Ensono, Gordon McKenna, said that he believes Microsoft's strategy is heading in the right direction as a real competitor to Amazon. \"With an emphasis on Azure applications, remote workplace and a boost from Microsoft Teams ..."
-    publishedDateTime: 2021-07-28T14:29:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4035136/microsoft-azure-google-cloud-head-head-quarterly-results"
+  - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
+    publishedDateTime: 2021-08-13T15:07:00Z
+    webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
     type: article
     provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 37
-    images:
-      - url: "https://www.channelweb.co.uk/api/v1/wps/70c19f9/33818a82-673b-4131-9790-53a752462fcc/8/Google-Cloud-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "Microsoft – Azure Is Our Favourite Colour"
-    excerpt: "Microsoft Corporation (NASDAQ:MSFT) released its Q4 numbers just after the US market closed on Tuesday. Once again growth was dominated"
-    publishedDateTime: 2021-07-27T21:17:00Z
-    webUrl: "https://www.valuewalk.com/microsoft-azure-is-our-favourite-colour/"
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+  - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
+    excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
+    publishedDateTime: 2021-08-17T12:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
     type: article
     provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 37
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 49
     images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2019/11/microsoft_1573064972.jpg"
-        width: 1280
-        height: 960
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "STL Taps Microsoft Azure for Cloud-Native OSS/BSS"
-    excerpt: "STL this week announced that it will provide cloud-native OSS/BSS solutions for telecom service providers, leveraging Microsoft Azure"
-    publishedDateTime: 2021-07-31T01:09:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20394-stl-taps-microsoft-azure-for-cloud-native-oss-bss"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/565a5248171893269886f5048571f2d3.jpg?t=20210731_010122"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Microsoft, Ooredoo Qatar Launch Smart City Solution on Azure Cloud"
-    excerpt: "Microsoft Qatar alongside a global consortium of partners led by Ooredoo to bring to life the TASMU Platform, a one-of-a-kind smart city solution. Built on Microsoft’s highly available, scalable, and secure Azure cloud infrastructure,"
-    publishedDateTime: 2021-08-03T01:17:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20412-microsoft-ooredoo-qatar-launch-smart-city-solution-on-azure-cloud"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/715ddc1874442cb7bd52b023b55e436d.jpg?t=20210803_011246"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Collibra Data Intelligence Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "NEW YORK and BRUSSELS, Aug. 4, 2021 /PRNewswire/ -- Collibra, the Data Intelligence company, announced the availability of the Collibra Data Intelligence Cloud in the Microsoft Azure Marketplace ..."
-    publishedDateTime: 2021-08-04T13:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/collibra-data-intelligence-cloud-now-available-in-the-microsoft-azure-marketplace-301348087.html"
+  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
+    excerpt: "Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that"
+    publishedDateTime: 2021-08-18T18:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 32
+    quality: 46
     images:
-      - url: "https://mma.prnewswire.com/media/238849/collibra_logo.jpg?p=facebook"
-        width: 2159
-        height: 1132
+      - url: "https://mma.prnewswire.com/media/1597470/Cirrus_Identity_Logo.jpg?p=facebook"
+        width: 868
+        height: 454
         isCached: true
-  - title: "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure"
-    excerpt: "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure."
-    publishedDateTime: 2021-07-22T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure"
+  - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
+    excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
+    publishedDateTime: 2020-06-18T20:18:00Z
+    webUrl: "https://rcpmag.com/articles/2020/06/18/microsoft-acquires-adrm.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/1014vsm_Bowytz.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "As Microsoft Azure Evolves, Channel Opportunities Expand"
+    excerpt: "Fueled by its Azure business, Microsoft is poised to be well positioned in the office productivity space for years to come, and channel partners are going to benefit as a result. This was a clear ..."
+    publishedDateTime: 2021-02-18T00:00:00Z
+    webUrl: "https://www.channelpartnersonline.com/blog/as-microsoft-azure-evolves-channel-opportunities-expand/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2017/06/Cloud-Computing1-770x285.jpg"
+        width: 770
+        height: 285
+        isCached: true
+  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-08-17T13:07:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Microsoft to commercialize Azure datacenter in Taiwan in 2H22"
+    excerpt: "Microsoft is scheduled to kick off operations at its new Azure datacenter in Taiwan in the second half of 2022, which may prompt other web service giants including Amazon Web Services (AWS) to accelerate building similar facilities in the country,"
+    publishedDateTime: 2021-08-17T06:30:00Z
+    webUrl: "https://digitimes.com/news/a20210817PD202.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://digitimes.com/newsshow/20210817PD202_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Microsoft 'Azure Government Top Secret' Goes GA"
+    excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
+    publishedDateTime: 2021-08-17T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft Taps SES' Next-Gen MEO Satellite for Azure Cloud Services"
+    excerpt: "SES announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
+    publishedDateTime: 2021-08-18T00:49:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20544-microsoft-taps-ses-next-gen-meo-satellite-for-azure-cloud-services"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/554597a1e4eae85d3c93ce1ca6d40d2f.jpg?t=20210818_004732"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-18T06:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Space Broadband Wars Heat Up: SES Connects Azure Cloud, Cruise Ships"
+    excerpt: "O3b mPOWER network as a “goldilocks” broadband satellite solution, offering advantages over geosynchronous Earth orbit (GEO) and low Earth orbit (LEO) constellations from SpaceX, OneWeb, and Telesat."
+    publishedDateTime: 2021-08-18T13:59:00Z
+    webUrl: "https://datacenterfrontier.com/space-broadband-wars-heat-up-ses-connects-azure-cloud-cruise-ships/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 37
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2021/08/ses-mpower.jpg"
+        width: 740
+        height: 449
+        isCached: true
+  - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
+    excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
+    publishedDateTime: 2021-08-16T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community"
+    ampWebUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 32
+  - title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment ..."
+    publishedDateTime: 2021-08-16T12:44:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+    publishedDateTime: 2021-08-18T14:34:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
+    excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
+    publishedDateTime: 2021-08-18T15:16:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-hpe-complete-genomics-workload-on-international-space-station-with-spaceborne-computer-2/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 18
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
+    excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
+    publishedDateTime: 2021-08-17T12:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-xpeedic-eda-cloud-platform-microsoft-azure-/2021/08/17/9431876.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
+    excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
+    publishedDateTime: 2021-08-17T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
+    publishedDateTime: 2021-08-18T18:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 29
-  - title: "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research"
-    excerpt: "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work."
-    publishedDateTime: 2021-07-21T12:34:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical"
+    quality: 2
+  - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
+    excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
+    publishedDateTime: 2021-06-30T06:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
     type: article
     provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 26
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW"
-        width: 884
-        height: 543
-        isCached: true
-  - title: "Latest DP-900 Dumps - Microsoft Azure Fundamentals Real Exam Questions And Accurate Answers (2021)"
-    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like DP-900 specialists. As a result of this, IT certifications, for example DP-900 Microsoft Azure Data Fundamentals Exam,"
-    publishedDateTime: 2021-07-25T05:08:00Z
-    webUrl: "https://www.madinamerica.com/author/get-dp-900-exam/"
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+  - title: "Wind River Joins Microsoft Cloud Solution Provider Program to Further Advance Mission-Critical Intelligent Systems"
+    excerpt: "Wind River ®, a global leader in delivering software for intelligent systems, joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River Studio platform running on Azure. Studio is a cloud-native platform for the development,"
+    publishedDateTime: 2021-08-12T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/wind-river-joins-microsoft-cloud-solution-provider-program-to-further-advance-mission-critical-intelligent-systems/"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 23
-    images:
-      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Latest AZ-304 Dumps - Microsoft Azure Solutions Architect Real Exam Questions And Accurate Answers (2021)"
-    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-304 specialists. As a result of this, IT certifications, for example AZ-304 Microsoft Azure Architect Design Exam,"
-    publishedDateTime: 2021-07-27T20:13:00Z
-    webUrl: "https://www.madinamerica.com/author/try-az-304-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 20
-    images:
-      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Latest DP-203 Dumps - Microsoft Azure Data Engineer Associate Real Exam Questions And Accurate Answers [2021]"
-    excerpt: "Pass you Microsoft DP-203 exam in just one go with DumpsArchive DP-203 dumps pdf. It's the truth that “The present world is changing very fast - many new things are being discovered every day. With this increased technical and digital advancement,"
-    publishedDateTime: 2021-07-24T23:10:00Z
-    webUrl: "https://www.madinamerica.com/author/new-dp-203-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 18
-    images:
-      - url: "http://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Microsoft Azure Cloud Growth Soars: How Navisite Can Help You Take Full Advantage for Your Business"
-    excerpt: "In the battle of the clouds, Microsoft continues to gain momentum. The company just reported its Q4 2021 earnings, highlighting the continued strength of its growing cloud empire-which saw Azure revenue growth of 51% and its commercial cloud revenue up 36% from a year ago."
-    publishedDateTime: 2021-07-28T17:00:00Z
-    webUrl: "https://www.publicnow.com/view/24AA1F5A9748B83B8F19BBE3BF187CE6A85C59C3"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 3
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "g9wn2vQFDXrFAxUxnltAWhnnN6Tr2GFFRoexu3+aSouyvPDg/5dK8tEk1de+Cp1OHRGEgdKOHDoBP21m2IoxP4tgczZcVBVCcViJEFTeTd8+rVE+gQ+JwBECEPoBmErxrH8LAAAC1GDlj+TsyVy3E9nGs5H36/YdT2+IBWw543ZdbGHhX8H9KCVOIa81P0xz3MvU8d5tTtxsIBDduHff9ANJ5VRyF1E/tu2Bs7Pj5Dk5PEGB+Keoa0Be1TPHt9/esBExksCJPEuafx8D9VdEDJm65oqC6tvL8O5EPFDJ3zioHjLWyQBy70fwXUDgRMfQhkumZb7exGtA++8l4A6EBEBxvR9fkgY/bBvyxhFiqPpqTFHSIqVPtg7j0kUvmAuRkYlUH3Nnk7rf2fQ72DRgAwLpweLZnNnwCnZPZZF3yckmj0r9fdx7leD98IotWay+V/YgFTBsiScJzY5wugrpw1p6WC1szV4wYLEXL0m7GDxOggP25BNhXPXkIatOjxNoyizMzBb/NmJZrAUxnWrs0w==;S1PuHPr5sZVo1ejLRwe3rw=="
 ---
