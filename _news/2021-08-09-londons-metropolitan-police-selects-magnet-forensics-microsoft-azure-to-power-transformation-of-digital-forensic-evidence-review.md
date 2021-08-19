@@ -188,6 +188,17 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES's O3b mPOWER medium earth orbit satellite system to provide additional network diversity, service resiliency and gigabit connectivity as more critical workloads move to"
+    publishedDateTime: 2021-08-18T06:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/b22550665/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22550665"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22550665"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -221,15 +232,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 17
-  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T01:50:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210817005926/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
     quality: 17
   - title: "Chris Hines Joins Helient As Managing Director, Microsoft Cloud Services Leading Digital Transformation, Office 365 & Azure Solutions"
     excerpt: "PHILADELPHIA, Aug. 17, 2021 /PRNewswire-PRWeb/ -- Helient Systems LLC (Helient) is pleased to announce Chris Hines has joined the company as Managing Director, Microsoft Cloud Services. Formerly the General Manager of the Microsoft business unit of a large ..."

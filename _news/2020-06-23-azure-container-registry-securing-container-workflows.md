@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-container-registry-securing
 webUrl: "https://azure.microsoft.com/blog/azure-container-registry-securing-container-workflows/"
 type: article
 quality: 106
-heat: 107
+heat: 106
 published: true
 
 provider:
