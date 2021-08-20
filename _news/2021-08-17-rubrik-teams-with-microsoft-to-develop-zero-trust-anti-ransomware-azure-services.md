@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
-excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-publishedDateTime: 2021-08-17T12:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
+title: "Rubrik teams with Microsoft to develop Zero Trust anti-ransomware Azure services"
+excerpt: "Microsoft has made an investment in Rubrik as part of a strategic deal involving co-development of Zero Trust anti-ransomware services in the Azure public cloud with joint go-to-market activities. The two companies will provide Microsoft 365 and hybrid cloud data protection and integrated cloud services on Azure."
+publishedDateTime: 2021-08-17T16:06:00Z
+originalUrl: "https://blocksandfiles.com/2021/08/17/rubrik-gets-microsoft-equity-investment-as-two-build-zero-trust-anti-ransomware-azure-services/"
+webUrl: "https://blocksandfiles.com/2021/08/17/rubrik-gets-microsoft-equity-investment-as-two-build-zero-trust-anti-ransomware-azure-services/"
 type: article
-quality: 15
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: blocksandfiles
+  domain: blocksandfiles.com
 
 topics:
   - Azure
-  - Integration
+
+images:
+  - url: "https://blocksandfiles.com/wp-content/uploads/2021/02/Microsoft-365.jpg"
+    width: 950
+    height: 633
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -291,20 +296,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 32
-  - title: "Rubrik teams with Microsoft to develop Zero Trust anti-ransomware Azure services"
-    excerpt: "Microsoft has made an investment in Rubrik as part of a strategic deal involving co-development of Zero Trust anti-ransomware services in the Azure public cloud with joint go-to-market activities. The two companies will provide Microsoft 365 and hybrid cloud data protection and integrated cloud services on Azure."
-    publishedDateTime: 2021-08-17T16:06:00Z
-    webUrl: "https://blocksandfiles.com/2021/08/17/rubrik-gets-microsoft-equity-investment-as-two-build-zero-trust-anti-ransomware-azure-services/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 32
-    images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2021/02/Microsoft-365.jpg"
-        width: 950
-        height: 633
-        isCached: true
   - title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
     excerpt: "New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment ..."
     publishedDateTime: 2021-08-16T12:44:00Z
@@ -365,6 +356,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
+  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
+    excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
+    publishedDateTime: 2021-08-17T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
   - title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
     excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"
     publishedDateTime: 2021-08-19T13:42:00Z
@@ -407,6 +407,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "YP4Y9X/G9SnFlWqImsqVVR/qmQpB5ekHr9oSXORm+UEVeLY0m+Al//SoC/HeJFxgUK0/Oc974/FGEQfuilwAvK83TGHmfI1HgKDPpJ8AvxK+gVnSCujPEca/7U8oN8cD3jiPAHJM8nf7F5H1mdE7KAdTtifMmleLN6j1dbM74ACSVgJYptpEUEAWvMdMgrpufNJdEO0kJstxMGAOshsVFqxfRQsMmX0PmOejKUsB1CcuPbrb2qsI5RwJM/UQzLti6Ce9phg6+/TbcwCH9X0+fNjHqlgtZdyRDvFDT8pPZVZRUPbeh2lDUll473piNSZIelzIlMu0TZWmKTLKFwy6pq+5pOs1/UQWO66eDVgEOho=;aG5guIUCi1s/aqetl13Aqw=="
+secured: "cqM9RiRXEETO950ANh9XTg4z9vJqds14feJXvg6GEBjNP3VAvN6UbCuBnogBogvw5yqDg622rCOadXDtBOYN530mPQTsT0PZBAak7dqN5IIBZy5rmw3KP/ub4Znt8d4rGDVy46xnAWMENZgsnQ7mRiGbdzLYthHH2LjoRWpq0AsMQL+jMP68mAVC9ygck7gKOjdOP2+bH/w01eWxYJddwgdE+P3Zmym2HqntB+T21LIl70OtaenAHw+LJf7/Opxsu16Sca/1O4mN/vlMzl57qdUoswCSXm42FdfpJmWLkbxJ+SovqXiCxsvzgx9MwF98j7tEr2riCEyvhbjTf8gsTBszGeoIdWbbew7SeJobiPM=;A+z2qQggFbKrA9wxzu9hdA=="
 ---
 

@@ -132,18 +132,18 @@ related:
         height: 630
         isCached: true
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-    excerpt: "Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that"
-    publishedDateTime: 2021-08-18T18:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
+    excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
+    publishedDateTime: 2021-08-18T18:50:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 46
     images:
-      - url: "https://mma.prnewswire.com/media/1597470/Cirrus_Identity_Logo.jpg?p=facebook"
-        width: 868
-        height: 454
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
     excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
@@ -282,6 +282,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 32
+  - title: "Rubrik teams with Microsoft to develop Zero Trust anti-ransomware Azure services"
+    excerpt: "Microsoft has made an investment in Rubrik as part of a strategic deal involving co-development of Zero Trust anti-ransomware services in the Azure public cloud with joint go-to-market activities. The two companies will provide Microsoft 365 and hybrid cloud data protection and integrated cloud services on Azure."
+    publishedDateTime: 2021-08-17T16:06:00Z
+    webUrl: "https://blocksandfiles.com/2021/08/17/rubrik-gets-microsoft-equity-investment-as-two-build-zero-trust-anti-ransomware-azure-services/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 32
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/02/Microsoft-365.jpg"
+        width: 950
+        height: 633
+        isCached: true
   - title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
     excerpt: "New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment ..."
     publishedDateTime: 2021-08-16T12:44:00Z
