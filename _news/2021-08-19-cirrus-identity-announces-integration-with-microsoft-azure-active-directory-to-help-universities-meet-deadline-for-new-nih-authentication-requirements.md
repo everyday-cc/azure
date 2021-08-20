@@ -3,8 +3,8 @@ category: news
 title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
 excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
 publishedDateTime: 2021-08-18T18:50:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
-webUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
+originalUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
+webUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
 type: article
 quality: 46
 heat: -1
@@ -313,18 +313,18 @@ related:
         height: 256
         isCached: true
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwid."
     publishedDateTime: 2021-08-18T14:34:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
+    webUrl: "https://us.acrofan.com/detail.php?number=518127"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 22
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
     excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
@@ -409,6 +409,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "DGiSPKfMwuNd6UK1zxfNG0WOY/+VzQyVpfpxVqW83Uzjjjn/bqB7XorRII4EN/Xjb6UeKpZIDLJWJ5df88maRClgtRN0ZQ7KZQ3D9KpBPsNnQmJ+/OCQKZhpVVI/ljUoJsNTv2qydPSgRu3/lKWkbRiBy05hea3ejw7G6zbFzZuvqH/jShR19KmkLnWxg1RCh1acceyaMl04PY5/JbMEkx9/qHMa1xrb/RqZk/T6am1aH5IoWl/VwSKdQ3hxbYX9oLyR24mvwCP2JXX9zuAbyxO0PyqcK4j+AFO+fJkzs8ncDuQt1enPHopBUbJrLRItGqvI++rBGCYihWpE7ZECkdLOfAfew12HdReJ3N/YcQw=;n5AKesuMxWW6L0XRTuIiWA=="
+secured: "Mic7DWTcMtBAFoK98z8mvRRgWmSbv3FdoXyAVdrI+MsdvLxzLWF+TSn7PCNMHcENLuU2QrNHquieQoevB00SLc8B4qZJNZN/iCn/JqHvqRJPAZ79XvKnKyF8kIF49iFZpQSpyfp0yiZlR+7yl+czC6ac/XG1O9rvEsnX4JsgfJUCRabuH2bwwkCX3dP1IrxIt2RlHEhB5g2bbLyXeNTs/NQbG2PkBdyVBxCFC4/Vt8LLJJlp2dGVw1yMsob9iRiiF/CG29Ww0asKU59Fu9EspCvIrcMizAVDN8KR+Ie6hOpdBY6UPL4tlzbv3bLOOjznxPtdTMcWdjQhgqxFQImzZJY82DbjTRxBWPz0s0JwkS8=;2apFti2EJyuK8NAp11J3Jg=="
 ---
 

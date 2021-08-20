@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwid."
 publishedDateTime: 2021-08-18T14:34:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
-webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
+originalUrl: "https://us.acrofan.com/detail.php?number=518127"
+webUrl: "https://us.acrofan.com/detail.php?number=518127"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -148,7 +148,7 @@ related:
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
     publishedDateTime: 2021-08-18T18:50:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
+    webUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
     type: article
     provider:
       name: Associated Press
@@ -407,6 +407,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "5yXNNxPPJAv044h5LTBKdw1Ie1H+o8GQ/89/l+bctfKpDItfoltaVEEhbkjyqhTi8nwrOl3lztGaXn3AbKlZYZclbvw74y3gM8itvJHzIlbyb1omVPt1uXiFuld3GzxQeE+ptrJ6GIboWu8u7MtBs343+JwGs8kykSPVXOUF6qhGwBnemIkeQRKBPwJuH56s6MH0e16cXpY5blpf4ENf4j4PjNJnbQVdPlVYzjBTkUPEGjk5wgPJnjCbtkOzjrjM9IJthbnlwy/s6vqVa9mfoH/hPcwQ3fTuley8EpVPp64QyuJS7YcySWBuCT+Yr2UmNzjQXT3VLSgbMrCmQ4N9yqsrxSIDfKzrGAjo0/2kpp4=;ZkQqfNIljUNRKVutZBhvxA=="
+secured: "oU6PmWcXxhirPRQYSNb8ndZZPhDln4RotRSTmXeSgZY15Yg0aK0X4PpArDa/StHs++WJdlK+D8eItDt3mCrQ/D+RbvC/jsInofrfllK6xWw81eHonPd3Uyt0LRD8glFSo9QHOx3/VsVFxVmzIj1f1jQHkQ2b5MYFz6KLGZRlCebTOj6rgfmFgOPaSFFZ+1uHzITJiKw3FNiN266yvW9hD8RcQ+upmeVNTrD1KeDY0QgcTe1Sv+f/8/DMiuw24np6WxthDRkg/wj7MpdyQUGjCpUrRgqQ9rnScBNTZcHCfu66A+pl4M2O84QAKo1DZq9WwhmrBoS1dqni1y2ekBcCpSgNRtedH/k7qb1iYLmJn8E=;lNWOMkyfOhgiy4Y/BEFoMg=="
 ---
 
