@@ -259,20 +259,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T06:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Space Broadband Wars Heat Up: SES Connects Azure Cloud, Cruise Ships"
     excerpt: "O3b mPOWER network as a “goldilocks” broadband satellite solution, offering advantages over geosynchronous Earth orbit (GEO) and low Earth orbit (LEO) constellations from SpaceX, OneWeb, and Telesat."
     publishedDateTime: 2021-08-18T13:59:00Z
@@ -349,6 +335,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES ( News - Alert) today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft ( News - Alert) plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-18T06:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Quorum set to deploy XSellerator dealerships on Microsoft Azure"
     excerpt: "Leveraging the Microsoft Azure cloud platform eliminates the need for on-premise servers or a Quorum-hosted solution. “Quorum is now actively marketing and selling the Microsoft Azure cloud platform to existing and prospective XSellerator DMS customers ..."
     publishedDateTime: 2021-08-19T18:24:00Z
@@ -418,6 +413,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "aClnEOijTOxfsObsLy4yOMC/oxddC0yYqbv2DrDDgz82c+s1EbUubREnFigttBaRLguh9Q+owe7UD0Rr70+LM+NKUz8RCIycvqHuhH5HGRAt185VQeirMS/kksQA2T4JuXchfAbIeb/rMaDdhT9ODxDRPMlIpIymYtLAwXDXughJTH5mN+Qmo2w8wlYBt6NdHlhgl7lPEyWVSjYZzEgke6eE989MXW6FXF5O0Tekfp67uPArtwCQ0Fpny9Ikl3NTIxvjnl1fBfhWHKATy56ljpoXJgEjT/OyjGpcXzOAhoc2lY6zyg/X4FZ5+J1AYRQlyPw2aNMrGdBjwsBdomGpjx1Zd8PRiJ0RA2BRfw3lGKc=;y9qrIlpW0uUs9ccQWQTPTw=="
+secured: "ByolpLkJkt78djJ68Dn9LlYwx3GJAVpU/keUmscyfuRPxoLsF3IgTRJ3Xpzx8nYd+sdPiLsI1rhfAL7eV6Qs3jst5BV/AuxGa6VUGGaMGwiYwDHQCUuNfZN7gJkDq9xxZSoYlq9y/YD/QaHCsb8eWTMS6yCKqNfVSR6PkhL+wEB8Aw3T5WWIFKgy4iBjevv55UxRQNHqG92Fywq6T2C/HjAeMzUjqGvJ22aSJDvgn9+yEYPuGMK480MJyIqAp4pqk4xsNZ51xX/QyDxK5J7JLeO79WrVyX42+rNqFn1NhYtS4IBB05NfFODrqyxqCLpw6dBDOAinhDRAedfAW7q+LNGVBr2K1XOYEk1cpG84l88=;sApVsTgSZjmRlT7vHr1ang=="
 ---
 

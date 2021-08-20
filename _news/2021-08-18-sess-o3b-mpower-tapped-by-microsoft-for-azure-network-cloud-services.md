@@ -1,27 +1,21 @@
 ---
 category: news
-title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-publishedDateTime: 2021-08-18T06:51:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
-webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+excerpt: "SES ( News - Alert) today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft ( News - Alert) plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+publishedDateTime: 2021-08-18T06:52:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -413,6 +407,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "MAuQdmmC+cGcg0rRFz9cXmnaCqgW56D5FVmkzFCO6gdhq8LtOdn+Q2Ql10ID1UVqiLB0Gn2RbOVDFFYyXU6443lVm0cNubDUQjYTm0pptdz3X6hl+v1LamK+clFQhYYckNjPxEXaL4/E9yggc19/OzQUAHk1tm31193Ceaa1BeYwE7iPFzjxMY24t2gquDirYnExEOF1tc6cBJmCqat1d0diWcc557wp8//j+6MZTuAAS05V0oR8vyGlOrlZzkrxzZr3rWkE11Y0o3XLKdTxWAtHuAF2RQRbSjdTfhtSmPR6MrvGCRpBfLkeBr6UqZYC5MP517zuD4CjMVjJUsF5Qh5b+wjlMC/Zs0ZXvbgrJA0=;jWW9KqdF2qtIgmqeImXTqA=="
+secured: "sXOIpdYmoybGHUHXkioSV3ywXz7HX9XhDzizIPiD6hNNcTKQd/oab46uEGWg4NAYhhP4BKv05OprSfxLK4tL5pI0tlYqMFzEG/hyxglIWi9kFLCD9NnX9Shct1FjBzTLXa46/0ZvdNFk13ytyFNguNjuvLdUUOo8LbsO+VCUrlaAHUFdA68tdCLIHtPJ61SgngtfGpQHY/NoneEa2e/XnohSnVgHTvDnpoEA1+HnQb+QXQpRoEKbLbvV4d+mnwaQrYzJJO/KWTza7r2Gqt1NUtwINzuoTW5h7bn8Ocj82XYbLBcGcQmn5XdkcJi4GkIQx6Edyy7gln8UXGjyu72c1sHJNj8D1LACoCtcryXPkRI=;8/mnuTCNYjtfSAFa/nFjig=="
 ---
 
