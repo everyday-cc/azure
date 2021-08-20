@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Blob storage - Inventory generally availability"
-excerpt: "Administrators can enable a daily or weekly inventory to be created to gain understanding of their blobs and containers."
-publishedDateTime: 2021-08-17T23:00:21Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-inventory-generally-availability/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-inventory-generally-availability/"
+title: "Azure Blob storage - Last access time tracking now generally available"
+excerpt: "This feature helps administrators control costs through the automatic tiering and deletion of blobs via tiering including when the data was last read."
+publishedDateTime: 2021-08-19T23:00:04Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-last-access-time-tracking-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-last-access-time-tracking-now-generally-available/"
 type: article
 quality: 99
 heat: -1
@@ -32,10 +32,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 104
-  - title: "Azure Blob storage - Last access time tracking now generally available"
-    excerpt: "This feature helps administrators control costs through the automatic tiering and deletion of blobs via tiering including when the data was last read."
-    publishedDateTime: 2021-08-19T23:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-last-access-time-tracking-now-generally-available/"
+  - title: "Azure Blob storage - Inventory generally availability"
+    excerpt: "Administrators can enable a daily or weekly inventory to be created to gain understanding of their blobs and containers."
+    publishedDateTime: 2021-08-17T23:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-inventory-generally-availability/"
     type: article
     provider:
       name: Microsoft
@@ -56,6 +56,6 @@ related:
         height: 578
         isCached: true
 
-secured: "J9CzjGhpdB+fJNd5XR/QrcLV3xyQhn2Gtfk1+U0Wv9L6R281hXvRpQ5NMXzWWzhTmpy/ezEx9B3s6BYqF2t+c8Wv6vk4ohaGq1e0Oc2eMT9gIn0E8DzJD79C4q7cc2MrK7X84ylqO/+V1hYl6V3LiZE+WOTwiPEDXrmne7nq6V6oQe7BMplgYYS9NsdxEoAeWD2QiWqGVoCALssaWJueSMliacMlj3Zb54rtdjLm+U4jy5Ec90zE04TLcnwQZ3iXJ8Fj2p68Fg8t4VqTbRZpd7E0+GDzLztBwwoCgc03ZqEWaiXsWigdlhCsOwAq0HXyJ+98NJgVjcHHeHUlEBJIwoCs9axYRAomJoRSR2hNGCY=;5JBLQ7hRMA6MJ3dIAk2Ffg=="
+secured: "Yv8gag/wM0IbKxnjkr3w1j0pa6DD6YJ0GZllHlt1cidtrWhIraJ+XrZaBGWyGZ8x3sYyDhe87yBYIEmPKNIgmoM+SHRelChdxnGeYz53SXtemet6L78Nek7XAWfN0N0bH4ctSeZ0vtc/o70zM8x0N1F4mu/CeslAXid7IU3lqemUocR7YyTA7/DTs/2EHOE8WoNVlhWpIQnnhb5yMYHXckfPSxzIfOpLu51hrrscysqM2ikhfpQPoGGFkMtaiOTlO6tsGiYEsxj0RtPSAqYx04GSzJrsPdre0aAuPoAdLXM0VLfx0d19gPSW2PSszpvzl5S0t68FTp7GOBIFQ+8K2ULadUotS/EiJmvDQAniTvg=;jPQnpcz0CUOrn+b4lzcROA=="
 ---
 

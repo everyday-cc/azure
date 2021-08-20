@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/mounting-azure-storage-a
 webUrl: "https://azure.microsoft.com/en-us/updates/mounting-azure-storage-as-a-local-share-for-web-apps-deployed-on-app-service-is-generally-available/"
 type: article
 quality: 104
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -29,6 +29,15 @@ related:
     excerpt: "Administrators can enable a daily or weekly inventory to be created to gain understanding of their blobs and containers."
     publishedDateTime: 2021-08-17T23:00:21Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-inventory-generally-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure Blob storage - Last access time tracking now generally available"
+    excerpt: "This feature helps administrators control costs through the automatic tiering and deletion of blobs via tiering including when the data was last read."
+    publishedDateTime: 2021-08-19T23:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-last-access-time-tracking-now-generally-available/"
     type: article
     provider:
       name: Microsoft

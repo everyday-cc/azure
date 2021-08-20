@@ -47,6 +47,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Blob storage - Last access time tracking now generally available"
+    excerpt: "This feature helps administrators control costs through the automatic tiering and deletion of blobs via tiering including when the data was last read."
+    publishedDateTime: 2021-08-19T23:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-last-access-time-tracking-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
 
 secured: "IZ+O51NtfEjKZk7GD2sQmf80nhvxA1R2ne2nWXae2MVXbnAvag/1BxAcvGuB17R5OZIkcWRoobgYEFBsRiT4yXxYZFT2RY15e+10sYrihcO4Sd7xhM0j5Z83ahm/5ngopuqZl7jionuEpnlztRM4MJRKCBbG7CGaD5XAQVr5Ux01RO8pOjG8F1ofhjQthBVB5JXI9o9Eqb4wd88j86w0NI8XcZgaw74QpPdELS0uC24Pty1WXMjs+9xtHaxCH4B9U/xPGB0UtdnUPjugfqrvORjpmbVuxaja8G4jBXR18fVzltXLF3VDo6payLAPNnLmfQAVsRBPXU+TEbWfcBbvKWvBOBYPA5wPOx2++joQrJc=;8MzDeXrcbv9bHZEl/yvUjA=="
 ---
