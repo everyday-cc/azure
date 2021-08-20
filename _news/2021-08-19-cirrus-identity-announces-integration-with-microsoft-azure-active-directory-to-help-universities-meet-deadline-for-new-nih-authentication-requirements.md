@@ -203,6 +203,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-08-17T13:07:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft to commercialize Azure datacenter in Taiwan in 2H22"
     excerpt: "Microsoft is scheduled to kick off operations at its new Azure datacenter in Taiwan in the second half of 2022, which may prompt other web service giants including Amazon Web Services (AWS) to accelerate building similar facilities in the country,"
     publishedDateTime: 2021-08-17T06:30:00Z
@@ -312,20 +326,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwid."
-    publishedDateTime: 2021-08-18T14:34:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=518127"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 22
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
     excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
     publishedDateTime: 2021-08-18T15:16:00Z
@@ -340,15 +340,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-08-17T13:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
     excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
     publishedDateTime: 2021-08-17T12:16:00Z
@@ -391,6 +382,15 @@ related:
         height: 588
         isCached: true
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft (News - Alert) Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+    publishedDateTime: 2021-08-18T14:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-options-announce-microsoft-cloud-productivity-gold-partner-status-/2021/08/18/9433476.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
     publishedDateTime: 2021-08-18T18:34:00Z
     webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
@@ -418,6 +418,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "fTdex4TLAjAyA40hbfY3vKkKzBF000lL83Kk4BgCXlSVXwzHEqZUy8wIbO+OfV2U8/qNC68L5gwlO5EvrYJFyrnjXvB0L5JhOwXIuv/YBhEQ211r9KL+Snju8Gk1yP7plirBNGOK2J7fuuO0BbeBHDkuh+Eqs9SSpTR/3WngZgnih4RMqWvVjU6kd5clE/AP63647H4/KBZg0RjmNnX9jFedhTUfjQTabKx349uVJFMjg8Ya2uyCzJ7FFnYmH2g89gPHpcvWiPNS1FsxDJxmt6gwYGQ9mQ9wBUx4b04BYlSfhIXZov1T4woFoU8w7p9Ojx8aYBjW+BZ7TEM4Nnwr+3+idRuSYCpoTC4vMnevNWs=;0luGcgh++/6j58fqjz6mfA=="
+secured: "aClnEOijTOxfsObsLy4yOMC/oxddC0yYqbv2DrDDgz82c+s1EbUubREnFigttBaRLguh9Q+owe7UD0Rr70+LM+NKUz8RCIycvqHuhH5HGRAt185VQeirMS/kksQA2T4JuXchfAbIeb/rMaDdhT9ODxDRPMlIpIymYtLAwXDXughJTH5mN+Qmo2w8wlYBt6NdHlhgl7lPEyWVSjYZzEgke6eE989MXW6FXF5O0Tekfp67uPArtwCQ0Fpny9Ikl3NTIxvjnl1fBfhWHKATy56ljpoXJgEjT/OyjGpcXzOAhoc2lY6zyg/X4FZ5+J1AYRQlyPw2aNMrGdBjwsBdomGpjx1Zd8PRiJ0RA2BRfw3lGKc=;y9qrIlpW0uUs9ccQWQTPTw=="
 ---
 

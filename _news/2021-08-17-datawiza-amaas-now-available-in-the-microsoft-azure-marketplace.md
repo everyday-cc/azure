@@ -2,20 +2,26 @@
 category: news
 title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
 excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-08-17T13:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
+publishedDateTime: 2021-08-17T13:07:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -315,20 +321,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwid."
-    publishedDateTime: 2021-08-18T14:34:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=518127"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 22
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
     excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
     publishedDateTime: 2021-08-18T15:16:00Z
@@ -385,6 +377,15 @@ related:
         height: 588
         isCached: true
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft (News - Alert) Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+    publishedDateTime: 2021-08-18T14:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-options-announce-microsoft-cloud-productivity-gold-partner-status-/2021/08/18/9433476.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
     publishedDateTime: 2021-08-18T18:34:00Z
     webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
@@ -412,6 +413,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "wT/lNaV3lpfTKS8pkoWOAjswfRKT/RCxFN6H3rHeyDbNa1oxBf0RzJ6u8McP/KG8x7uYicCjOn+3JHsxv2ckHc0mvEZbIJ2jKZb+gsHlTQ5E6QwTi29YTvK/QOxZMbprTJwr0ZGBBfg97X/sdrX8fdvcElP/jRDo/8Q3+C45lrfP6XD0ovp2oYvlBkJruzZGQ4vX4tJgWPbkSyIrsZZSWRY8LQBZhkuNGEs/U/hk1pX++cpqFpemuOVLvpFSih3Cltyyu/NlvKqtiNIQH8xEnaMk0A8FwFsUVw6lu3G9Wh1MRovVJQgmnMMRjf/Jhta1vgXszAA7G1FdueQBV9s8N1/iBKXo7jjKLN1HiP18S0o=;oEZ/TIvq59QoRww0DbQPfg=="
+secured: "lQrg8pfzKkoMM7KltsYzeru3R2nh4yyAROR0Ew1erXrK6LHEP5V8bLILvuuboga4k8KKSRRJfAPgslxPPB+YxnS3voh/c8Pu6fc76ZO4RFKVMYbVdNYmpxdlvtZlGJXZenHUfi7jYQIkfkaSbKKFTuTWp/rO5S0BCKLxqm1koNmRpHwosDwoZ5ixkRyugCt22PAbVfdm2TO77Q8U6Dz8vmRlhkPnCWhk0KvkURaTLOzynGpDYTH8fCynu2SshT8t06jPf5zpDhaO8X5vD0vx5yjOFVL/qV55CTe3YjCZoaRZrgY5wropxGYRVo6fyQ/Eg+XuF2RKxUXiGy7sN053dW08Ro3Pvi/A1arDm2rXFeY=;ARLjjHdJ55qzTlvziOD7cQ=="
 ---
 

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwid."
-publishedDateTime: 2021-08-18T14:34:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=518127"
-webUrl: "https://us.acrofan.com/detail.php?number=518127"
+excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft (News - Alert) Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+publishedDateTime: 2021-08-18T14:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-options-announce-microsoft-cloud-productivity-gold-partner-status-/2021/08/18/9433476.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-options-announce-microsoft-cloud-productivity-gold-partner-status-/2021/08/18/9433476.htm"
 type: article
-quality: 22
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -212,6 +206,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-08-17T13:07:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft to commercialize Azure datacenter in Taiwan in 2H22"
     excerpt: "Microsoft is scheduled to kick off operations at its new Azure datacenter in Taiwan in the second half of 2022, which may prompt other web service giants including Amazon Web Services (AWS) to accelerate building similar facilities in the country,"
     publishedDateTime: 2021-08-17T06:30:00Z
@@ -335,15 +343,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-08-17T13:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
     excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
     publishedDateTime: 2021-08-17T12:16:00Z
@@ -413,6 +412,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "oU6PmWcXxhirPRQYSNb8ndZZPhDln4RotRSTmXeSgZY15Yg0aK0X4PpArDa/StHs++WJdlK+D8eItDt3mCrQ/D+RbvC/jsInofrfllK6xWw81eHonPd3Uyt0LRD8glFSo9QHOx3/VsVFxVmzIj1f1jQHkQ2b5MYFz6KLGZRlCebTOj6rgfmFgOPaSFFZ+1uHzITJiKw3FNiN266yvW9hD8RcQ+upmeVNTrD1KeDY0QgcTe1Sv+f/8/DMiuw24np6WxthDRkg/wj7MpdyQUGjCpUrRgqQ9rnScBNTZcHCfu66A+pl4M2O84QAKo1DZq9WwhmrBoS1dqni1y2ekBcCpSgNRtedH/k7qb1iYLmJn8E=;lNWOMkyfOhgiy4Y/BEFoMg=="
+secured: "C6UlzLcPSRUUNPliJ3HsnNmBOFp2x0WPw4uxj2kmGCEhk3RaAtMSajoOqXPXfDaC7o5W/6y3ZVumQFPcE66e023I0aYcLtUvXSMLHz5xAVzoHm6cm5nv+guN2+BM010NNRYazlgDpZBndfnTzl0Lpll5I0RPbUhYE5ygE1t+pWfgxoDvZhSZUs8lBsDdoNPhI/Am25zBqrXne6+vlh5Gs938aevHg6QOiwJTGcfrCI1Nt/GpblBK1EqzDihJaDrHQYCkeFZ3JRk9EOMp1nlrjHw8mtJfXN4eIuYtU3lA9L6S28bP1vl6f6GwDC9oxTUpVqnBsBTEgOtmkTw4oEn4dgVQJ484/MZIuBfbwO0qfkc=;9s7meHtEF1f+QpxVzXWubA=="
 ---
 
