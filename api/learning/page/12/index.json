@@ -402,8 +402,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
           "length": "PT54M",
           "ratings": {
-            "count": 1878,
-            "average": 4.742279
+            "count": 1879,
+            "average": 4.7424164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -570,8 +570,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 6936,
-            "average": 4.741061
+            "count": 6937,
+            "average": 4.740666
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -883,8 +883,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3975,
-        "average": 4.518994
+        "count": 3976,
+        "average": 4.5191145
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -927,8 +927,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 1370,
-        "average": 4.761314
+        "count": 1371,
+        "average": 4.761488
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1004,50 +1004,6 @@
         "Integration",
         "IoT",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload.md",
-      "title": "Choose the right disk storage for your virtual machine workload",
-      "excerpt": "Azure provides a variety of disk storage options for virtual machine workloads. Identify the features of capabilities of each type to ensure your application performs optimally.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 4009,
-        "average": 4.749813
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Storage"
       ]
     },
     {
@@ -1143,8 +1099,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-storage-security/",
       "length": "PT27M",
       "ratings": {
-        "count": 38,
-        "average": 4.736842
+        "count": 39,
+        "average": 4.717949
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1273,8 +1229,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-networks/",
       "length": "PT30M",
       "ratings": {
-        "count": 41,
-        "average": 4.878049
+        "count": 42,
+        "average": 4.8809524
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1359,8 +1315,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "PT25M",
       "ratings": {
-        "count": 6936,
-        "average": 4.741061
+        "count": 6937,
+        "average": 4.740666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1680,6 +1636,48 @@
       "topics": [
         "Azure",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
+      "title": "Introduction to GitHub",
+      "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
+      "length": "PT1H12M",
+      "ratings": {
+        "count": 2187,
+        "average": 4.771376
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
