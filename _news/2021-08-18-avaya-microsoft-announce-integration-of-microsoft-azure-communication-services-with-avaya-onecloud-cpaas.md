@@ -43,6 +43,31 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
+    excerpt: "Aug. 18, 2021 /PRNewswire/ -- On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active ..."
+    publishedDateTime: 2021-08-18T19:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+  - title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
+    excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
+    publishedDateTime: 2021-08-19T20:59:00Z
+    webUrl: "https://www.avepoint.com/blog/protect/microsoft-cloud-app-security/"
+    ampWebUrl: "https://www.avepoint.com/blog/protect/microsoft-cloud-app-security/?amp"
+    cdnAmpWebUrl: "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/protect/microsoft-cloud-app-security/?amp"
+    type: article
+    provider:
+      name: AvePoint
+      domain: avepoint.com
+    quality: 59
+    images:
+      - url: "https://www.avepoint.com/blog/wp-content/uploads/2020/09/cloud-computing-security-concept-safety-concept-picture-id1267295694.jpg"
+        width: 1024
+        height: 585
+        isCached: true
   - title: "Windows 365 exposes Microsoft Azure credentials in plain-text"
     excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
     publishedDateTime: 2021-08-13T18:24:00Z
@@ -131,20 +156,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-    excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
-    publishedDateTime: 2021-08-18T18:50:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
     excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."

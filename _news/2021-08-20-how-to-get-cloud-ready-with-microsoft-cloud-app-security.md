@@ -1,21 +1,30 @@
 ---
 category: news
-title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
-excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
-publishedDateTime: 2021-06-30T06:50:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
-webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
+title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
+excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
+publishedDateTime: 2021-08-19T20:59:00Z
+originalUrl: "https://www.avepoint.com/blog/protect/microsoft-cloud-app-security/"
+webUrl: "https://www.avepoint.com/blog/protect/microsoft-cloud-app-security/"
+ampWebUrl: "https://www.avepoint.com/blog/protect/microsoft-cloud-app-security/?amp"
+cdnAmpWebUrl: "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/protect/microsoft-cloud-app-security/?amp"
 type: article
-quality: 1
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: AvePoint
+  domain: avepoint.com
 
 topics:
   - Azure
+  - Security
+
+images:
+  - url: "https://www.avepoint.com/blog/wp-content/uploads/2020/09/cloud-computing-security-concept-safety-concept-picture-id1267295694.jpg"
+    width: 1024
+    height: 585
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -43,22 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
-    excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
-    publishedDateTime: 2021-08-19T20:59:00Z
-    webUrl: "https://www.avepoint.com/blog/protect/microsoft-cloud-app-security/"
-    ampWebUrl: "https://www.avepoint.com/blog/protect/microsoft-cloud-app-security/?amp"
-    cdnAmpWebUrl: "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/protect/microsoft-cloud-app-security/?amp"
-    type: article
-    provider:
-      name: AvePoint
-      domain: avepoint.com
-    quality: 59
-    images:
-      - url: "https://www.avepoint.com/blog/wp-content/uploads/2020/09/cloud-computing-security-concept-safety-concept-picture-id1267295694.jpg"
-        width: 1024
-        height: 585
-        isCached: true
   - title: "Windows 365 exposes Microsoft Azure credentials in plain-text"
     excerpt: "A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz."
     publishedDateTime: 2021-08-13T18:24:00Z
@@ -407,6 +400,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 2
+  - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
+    excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
+    publishedDateTime: 2021-06-30T06:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629006127/en/Microsoft-SES-and-GRC-Showcase-Azure-Cloud-for-Remote-Missions-via-Secure-GovSat-Connectivity-Service"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
   - title: "Wind River Joins Microsoft Cloud Solution Provider Program to Further Advance Mission-Critical Intelligent Systems"
     excerpt: "Wind River ®, a global leader in delivering software for intelligent systems, joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River Studio platform running on Azure. Studio is a cloud-native platform for the development,"
     publishedDateTime: 2021-08-12T13:00:00Z
@@ -417,6 +419,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "rikbuKz7dzST8NLRghe4HY4TIOBibgxH7gme2o+SoVjkXA8fBFdQ4TgzYwlJKrq+f02snJ07rnbI+PfCIa9RXMSMivL7kUZHzuFTgcbDra4z23+py19TyqjC3tP/dLjq7oOwMI+uV+HcH9zcLZO4Wdue8FnDh1/TZObBzNq+b34ap5Mca8YpvXulbe6nMaO/z3LXgARZO1C+lg3deih3M6W2ux3YTnWk9suMGFUDSOVZz74TzN8MHkAX8BQ07dFgyC4a9d7nDMI5ifwelR0uA2nccIijjfzxP9c3gBV87g0e9/wBKH/OMbOxlGgmweXxNdpa6syfc0/5a0J77uN++pI/lddHYt84AtrIjS4OC0hx+cGyhOU+yNtQnh6WeYeSkQ9gXoWXFhW4l1ZFIq3VlB4C5Q/TItCO09mW0gzBCQ/d5IAbepv9vUJHdNj+j8AYIEoMbvocxOfgpADwSWNG7EOcem46QhOwPtuO8w2GyFV2JOR7apQLZhz3wK532alkvcZHuzKGefUxli2oUfPFwA==;SpaRgovmUTW+gJnodWPHgg=="
+secured: "6mGlnpidPUMjQbvi5r3RS/r3sCQqpVsmi/jPVdfcR3co/yDUbEj/lQ1lF43YFhs62W4b+4OgA1n9B+YfHVHGA9Cgyvxf7RUHvr8Y4gGCXmkEQLrxfjLnu6paVwOW+EyEFr7Yr7ejiOtFjYU3JDj4jkNErUu+5CgVOlP08KfICFsgQdVhVZMnUFgAVJvMJ1v9M/gtHxuIgTbZTlL0Y9vs2Xq5U2PoirmpE86t0DDiILhm5cd2B5ZxGCCP9gZz97iPIKpxGF02Aa4smEO61NYesIwQWPgmfAL3FL/38VEy/lRUUYI17mloNhpsIH2V+T/Evse3x9W5hV6loNmhw23S5b9bQeIJfff9NzgJ5QS+b1U=;vcjvH/fgpj/8A8uaWA7hkw=="
 ---
 
