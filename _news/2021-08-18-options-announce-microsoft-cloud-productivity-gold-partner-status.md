@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft (News - Alert) Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
-publishedDateTime: 2021-08-18T14:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-options-announce-microsoft-cloud-productivity-gold-partner-status-/2021/08/18/9433476.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-options-announce-microsoft-cloud-productivity-gold-partner-status-/2021/08/18/9433476.htm"
+excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+publishedDateTime: 2021-08-18T14:34:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
+webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -34,15 +40,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-    excerpt: "Aug. 18, 2021 /PRNewswire/ -- On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active ..."
-    publishedDateTime: 2021-08-18T19:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
     excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
     publishedDateTime: 2021-08-19T20:59:00Z
@@ -164,6 +161,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
+    excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
+    publishedDateTime: 2021-08-18T18:50:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
     excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
     publishedDateTime: 2020-06-18T20:18:00Z
@@ -262,6 +273,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-18T06:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Space Broadband Wars Heat Up: SES Connects Azure Cloud, Cruise Ships"
     excerpt: "O3b mPOWER network as a “goldilocks” broadband satellite solution, offering advantages over geosynchronous Earth orbit (GEO) and low Earth orbit (LEO) constellations from SpaceX, OneWeb, and Telesat."
     publishedDateTime: 2021-08-18T13:59:00Z
@@ -338,15 +363,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES ( News - Alert) today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft ( News - Alert) plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T06:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Quorum set to deploy XSellerator dealerships on Microsoft Azure"
     excerpt: "Leveraging the Microsoft Azure cloud platform eliminates the need for on-premise servers or a Quorum-hosted solution. “Quorum is now actively marketing and selling the Microsoft Azure cloud platform to existing and prospective XSellerator DMS customers ..."
     publishedDateTime: 2021-08-19T18:24:00Z
@@ -358,8 +374,8 @@ related:
     quality: 17
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-    publishedDateTime: 2021-08-17T12:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
+    publishedDateTime: 2021-08-17T15:02:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/08/17/9431959.htm"
     type: article
     provider:
       name: TMCnet
@@ -407,6 +423,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "C6UlzLcPSRUUNPliJ3HsnNmBOFp2x0WPw4uxj2kmGCEhk3RaAtMSajoOqXPXfDaC7o5W/6y3ZVumQFPcE66e023I0aYcLtUvXSMLHz5xAVzoHm6cm5nv+guN2+BM010NNRYazlgDpZBndfnTzl0Lpll5I0RPbUhYE5ygE1t+pWfgxoDvZhSZUs8lBsDdoNPhI/Am25zBqrXne6+vlh5Gs938aevHg6QOiwJTGcfrCI1Nt/GpblBK1EqzDihJaDrHQYCkeFZ3JRk9EOMp1nlrjHw8mtJfXN4eIuYtU3lA9L6S28bP1vl6f6GwDC9oxTUpVqnBsBTEgOtmkTw4oEn4dgVQJ484/MZIuBfbwO0qfkc=;9s7meHtEF1f+QpxVzXWubA=="
+secured: "jyz/Gv8v19SiXgsDsBaUCTZ6jPWbUAFo9H28HqjvgyneKwJ/vZ75E4u+dZCkxlKCdcj0Ozh215t3wIhUGe87yudAZHl5oQf+HYU4aWH1pZm0rUw+Nfcab8fLS9yvRxWbYDKIDZKJg+Ry82OLQUVopafO0PWXToS+8lao7fEY0MRoIdFH1xhqcXkjDsjw7AU1i4Dp67gBCPHaHxoBmF5vjeZl1pAXpDajsn2Quz4/e97LfX/+jlx4L6T2PFVD3g020xRqJcf+viy8Y1zZ9kc17EQC2enDZ8TEMbUt4Onp+/nYACT5rXiyVOI5R2TKCOlwI02F3a+m7St3uhTGDC3omAqcPWaok5AULethrP+paBs=;lJCKk2m1YGHwFnQ+l9rKuw=="
 ---
 

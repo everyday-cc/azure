@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-excerpt: "Aug. 18, 2021 /PRNewswire/ -- On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active ..."
-publishedDateTime: 2021-08-18T19:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
-webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
+excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
+publishedDateTime: 2021-08-18T18:50:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
+webUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
 type: article
-quality: 66
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - Identity
   - Integration
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -259,6 +261,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-18T06:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Space Broadband Wars Heat Up: SES Connects Azure Cloud, Cruise Ships"
     excerpt: "O3b mPOWER network as a “goldilocks” broadband satellite solution, offering advantages over geosynchronous Earth orbit (GEO) and low Earth orbit (LEO) constellations from SpaceX, OneWeb, and Telesat."
     publishedDateTime: 2021-08-18T13:59:00Z
@@ -312,6 +328,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+    publishedDateTime: 2021-08-18T14:34:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
     excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
     publishedDateTime: 2021-08-18T15:16:00Z
@@ -335,15 +365,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES ( News - Alert) today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft ( News - Alert) plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T06:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Quorum set to deploy XSellerator dealerships on Microsoft Azure"
     excerpt: "Leveraging the Microsoft Azure cloud platform eliminates the need for on-premise servers or a Quorum-hosted solution. “Quorum is now actively marketing and selling the Microsoft Azure cloud platform to existing and prospective XSellerator DMS customers ..."
     publishedDateTime: 2021-08-19T18:24:00Z
@@ -355,8 +376,8 @@ related:
     quality: 17
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-    publishedDateTime: 2021-08-17T12:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
+    publishedDateTime: 2021-08-17T15:02:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/08/17/9431959.htm"
     type: article
     provider:
       name: TMCnet
@@ -376,15 +397,6 @@ related:
         width: 1065
         height: 588
         isCached: true
-  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft (News - Alert) Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
-    publishedDateTime: 2021-08-18T14:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-options-announce-microsoft-cloud-productivity-gold-partner-status-/2021/08/18/9433476.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
     publishedDateTime: 2021-08-18T18:34:00Z
@@ -413,6 +425,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "ByolpLkJkt78djJ68Dn9LlYwx3GJAVpU/keUmscyfuRPxoLsF3IgTRJ3Xpzx8nYd+sdPiLsI1rhfAL7eV6Qs3jst5BV/AuxGa6VUGGaMGwiYwDHQCUuNfZN7gJkDq9xxZSoYlq9y/YD/QaHCsb8eWTMS6yCKqNfVSR6PkhL+wEB8Aw3T5WWIFKgy4iBjevv55UxRQNHqG92Fywq6T2C/HjAeMzUjqGvJ22aSJDvgn9+yEYPuGMK480MJyIqAp4pqk4xsNZ51xX/QyDxK5J7JLeO79WrVyX42+rNqFn1NhYtS4IBB05NfFODrqyxqCLpw6dBDOAinhDRAedfAW7q+LNGVBr2K1XOYEk1cpG84l88=;sApVsTgSZjmRlT7vHr1ang=="
+secured: "W4Lw2G/ql0wrFWfZuCEXprBv+zjIQDanX1IuBrZDQVqPRzyoWO/ADPX5g+V78PEtWbv6B0ra76cvooMHsi5aqSpzQnf7mkfDDXqN4gAnJHvw8LGFgKKugnXJkr1TAwyNjtU2reIMSEIcq8RX89LgUB0jN0KDBrKcaO+sR4OUucTaeatj+ZuEM55DdBWvmeeTVesnHjwyQaB4BEc+79kE/HZ5E4L6c41sMXbtztSaRDnbRRMxCU3wEgq8v30czi56cONrYEV45n8DgJgTR9VE3RGv8LaqwEFl3ptSVh03B8eZy4m1R7iwbeiLQwTF/3owhxYu1NZS2T9CnE981LHCgkP/d0RX+autk7zEYJj/jV4=;8ddS/Enr43ms3Ivsfvs5HA=="
 ---
 

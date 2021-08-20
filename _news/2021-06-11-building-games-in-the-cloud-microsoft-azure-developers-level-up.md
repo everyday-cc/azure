@@ -426,19 +426,16 @@ related:
         height: 600
         isCached: true
   - title: "Cloud4Wi Now Available in the Microsoft Azure Marketplace"
-    excerpt: "NEW YORK, Aug. 3, 2021 /PRNewswire-PRWeb/ -- Cloud4Wi, industry leader in location-based marketing solutions, today announced the availability of Cloud4Wi in the Microsoft Azure Marketplace ..."
-    publishedDateTime: 2021-08-03T10:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloud4wi-now-available-in-the-microsoft-azure-marketplace/article_5766801c-5b2d-5f16-8d1f-528d23acc0fa.html"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Cloud4Wi to take advantage of the scalability, reliability and agility of Azure to drive application development and"
+    publishedDateTime: 2021-08-03T10:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/p22291676/cloud4wi-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22291676"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22291676"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Renesas extends support for Microsoft Azure RTOS across 32-bit MCU families"
     excerpt: "Renesas Electronics has said that all customers designing with mainstream Renesas 32-bit MCU families will now have access to the Microsoft Azure Real-Time Operating System (RTOS) embedded development suite."
     publishedDateTime: 2021-06-15T07:58:00Z

@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Cloud4Wi Now Available in the Microsoft Azure Marketplace"
-excerpt: "NEW YORK, Aug. 3, 2021 /PRNewswire-PRWeb/ -- Cloud4Wi, industry leader in location-based marketing solutions, today announced the availability of Cloud4Wi in the Microsoft Azure Marketplace ..."
-publishedDateTime: 2021-08-03T10:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloud4wi-now-available-in-the-microsoft-azure-marketplace/article_5766801c-5b2d-5f16-8d1f-528d23acc0fa.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloud4wi-now-available-in-the-microsoft-azure-marketplace/article_5766801c-5b2d-5f16-8d1f-528d23acc0fa.html"
+excerpt: "Microsoft Azure customers worldwide now gain access to Cloud4Wi to take advantage of the scalability, reliability and agility of Azure to drive application development and"
+publishedDateTime: 2021-08-03T10:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/p22291676/cloud4wi-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/p22291676/cloud4wi-now-available-in-the-microsoft-azure-marketplace"
+ampWebUrl: "https://www.benzinga.com/amp/content/22291676"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22291676"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Building Games In The Cloud, Microsoft Azure Developers Level Up"
@@ -673,6 +669,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "q/CbyqoBT5xO24utu7/WrYXqkrxGh1cbwd48GYs+pHGVWTAwwzDQStXBRE5Ad704po92C5VQZvA/11btQ90BYhgf93eWFFfAxo+clGiZGXhppbKZMC5guMnhtNKo/Nj+AgNdUWM4c78DeHqCjbOOGJUxk9mMU4QHv7J7HAip+ktP6rLowva5rxH82lLqXZtDM3oPFdYXtTFp1LR67vuWxMUTr+JSGWl7zv+lHiTNJid9kCDsqOhg26Tbxuj2iuZowkVmHquYuJlaQZYLNP6+AAnDkmVLW+My1PwAuG6urPTbHxJv9YVLUnyK0dwD0pQRSz2QRQKfAloxax675FDhnLsio4GZFhlZFKJmnqY+tZo=;gPljb4Uzs+kLx8/QXFMESA=="
+secured: "fyrkHGWOfDOi/sewEZ8dgOQ2o90tGOwRqg4VSQR89HaHYOuWrcyUTcSxp8N62gnhi+mVFx8G6rKodk+dDMs3gz2NeyuSZ+OFOT2v+wpGeLLVNWfB/aQiOstHaZEKj0gZS1YfVL6yh7W3j/RYnhrnekcJxjCU1Ejx1F6lHU8mxU0P05OjIAKBiXImTQd5D9x6w258SDy5eluC+Ij2xvpY5QToxeEQsp0e6IqHa/Cxs3yqH+zKNcPe014RpEZgwG0zTbhl+F9i56RGLDpU/xJ1PQDh08c4S4RPeQnebgZpUeKoTSl4qQk/LCBHVeR2VgNzOAjxkEo72iwGgtwP53laWE/JTE7kFhAUv3j0t8YgAV8=;VX8tiJlMRttwRRr6/vrDjA=="
 ---
 
