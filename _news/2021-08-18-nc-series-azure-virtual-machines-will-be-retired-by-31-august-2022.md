@@ -40,6 +40,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "H-series Azure Virtual Machines will be retired by 31 August 2022"
+    excerpt: "Migrate to HPC, GP, or RAM optimized VMs by 31 August 2022"
+    publishedDateTime: 2021-08-20T16:45:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "NC v2-series Azure Virtual Machines will be retired by 31 August 2022 "
+    excerpt: "Transition to new HPC virtual machines by 31 August 2022."
+    publishedDateTime: 2021-08-20T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/nc-v2series-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "NV-series and NV_Promo Azure Virtual Machines will be retired by 31 August 2022"
     excerpt: "Move to GPU accelerated virtual machines by 31 August 2022."
     publishedDateTime: 2021-08-19T15:37:21Z
@@ -49,6 +67,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Release annotations using API keys will be retired on 31 August 2024"
+    excerpt: "Transition to new release annotations without using API keys in Application Insights."
+    publishedDateTime: 2021-08-20T16:41:48Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/transition-to-new-release-annotations-in-application-insights/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "ffQ4Ni+3k5A9WRQ39hRMZcQFjdRLkrGtniGNKy5ukKGNA+AFzmCvlmtKW7r7xMQvvedVTjzTHG7fJ7VLFspq3yyILATD79wOzLTRssvGTIlxysL52jBdWeswTODUKNARKpWUfOJ75GPX3gzofsDNSCa0kbs3f98ugQKylkUL+6fSxeo6lpNwgFtPI+nAW2NUYzrEsHqYxu67wZqA8O1KkFl0UJS0/yt7vy5W9fdFXcSPHyZ1ioPr6WT2KdY3FP2z4l7pF9jQEtJ8Y/IPqdo0ypH5CTAvi+qdygQ83osXLHLtnzg7HHsRG7LxikkK7c3x8MvxlkR6B62/u67bATLrsm2DMWKVxySeO1kZx3mGTTg=;HEECdvz0bJnC8skn4YWGug=="
 ---

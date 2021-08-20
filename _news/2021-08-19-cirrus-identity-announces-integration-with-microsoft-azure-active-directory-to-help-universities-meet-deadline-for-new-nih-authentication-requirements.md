@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
-publishedDateTime: 2021-08-18T18:50:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
-webUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
+excerpt: "Aug. 18, 2021 /PRNewswire/ -- On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active ..."
+publishedDateTime: 2021-08-18T19:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
+webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
 type: article
-quality: 46
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Identity
   - Integration
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -315,32 +313,18 @@ related:
         height: 633
         isCached: true
   - title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment ..."
-    publishedDateTime: 2021-08-16T12:44:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
+    excerpt: "On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment offer, iManage on Azure Migration. The iManage Knowledge Work Platform is a trusted solution for secure,"
+    publishedDateTime: 2021-08-16T13:30:00Z
+    webUrl: "https://ipsnews.net/business/2021/08/16/cornerstone-its-consulting-service-for-imanage-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: Inter Press Service
+      domain: ipsnews.net
     quality: 24
     images:
-      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
-        width: 256
-        height: 256
-        isCached: true
-  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
-    publishedDateTime: 2021-08-18T14:34:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/08/5935-300x300-1.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
     excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
@@ -398,6 +382,15 @@ related:
         height: 588
         isCached: true
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+    publishedDateTime: 2021-08-18T14:34:00Z
+    webUrl: "https://www.financialbuzz.com/options-announce-microsoft-cloud-productivity-gold-partner-status/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 2
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
     publishedDateTime: 2021-08-18T18:34:00Z
     webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
@@ -425,6 +418,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "W4Lw2G/ql0wrFWfZuCEXprBv+zjIQDanX1IuBrZDQVqPRzyoWO/ADPX5g+V78PEtWbv6B0ra76cvooMHsi5aqSpzQnf7mkfDDXqN4gAnJHvw8LGFgKKugnXJkr1TAwyNjtU2reIMSEIcq8RX89LgUB0jN0KDBrKcaO+sR4OUucTaeatj+ZuEM55DdBWvmeeTVesnHjwyQaB4BEc+79kE/HZ5E4L6c41sMXbtztSaRDnbRRMxCU3wEgq8v30czi56cONrYEV45n8DgJgTR9VE3RGv8LaqwEFl3ptSVh03B8eZy4m1R7iwbeiLQwTF/3owhxYu1NZS2T9CnE981LHCgkP/d0RX+autk7zEYJj/jV4=;8ddS/Enr43ms3Ivsfvs5HA=="
+secured: "cM0ozyk7Zlg+mH0S2i/fzIKOCVYNa5Dx7Er3ole9U9q4H3WSvFW+Aki6482+pNGWeOmbNUB8x7J2xL35AmyKoSGaku6w9eRwaouvB08/lDUtLe15JCWZ4MubzTj9Rr9seiK4Uls9cvBvu0A4pXIIM1psZTE07K1VlhUmSLtttsQn01Y2uP6GH70K6dBPaJedGkXEiTDxHWbvSWqx0zddO13L1CSPog1uzOj+3HOZ5cRpK02V+orAU2bJlekKRYi3pTUTxzclrhwdnOTxHC9la8ZFLK+DiONmIUPcmEe44FOrFHr7HXETOc9PYUbufR2jpXR3NV/3Q8E2h+qao99BSuSQ46fFKKyq4cFTxLsOYNE=;/UYoRlicMXDYxFohxJexFw=="
 ---
 

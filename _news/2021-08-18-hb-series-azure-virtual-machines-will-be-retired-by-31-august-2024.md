@@ -40,6 +40,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "H-series Azure Virtual Machines will be retired by 31 August 2022"
+    excerpt: "Migrate to HPC, GP, or RAM optimized VMs by 31 August 2022"
+    publishedDateTime: 2021-08-20T16:45:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "NC v2-series Azure Virtual Machines will be retired by 31 August 2022 "
+    excerpt: "Transition to new HPC virtual machines by 31 August 2022."
+    publishedDateTime: 2021-08-20T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/nc-v2series-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "NV-series and NV_Promo Azure Virtual Machines will be retired by 31 August 2022"
     excerpt: "Move to GPU accelerated virtual machines by 31 August 2022."
     publishedDateTime: 2021-08-19T15:37:21Z
@@ -49,6 +67,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Release annotations using API keys will be retired on 31 August 2024"
+    excerpt: "Transition to new release annotations without using API keys in Application Insights."
+    publishedDateTime: 2021-08-20T16:41:48Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/transition-to-new-release-annotations-in-application-insights/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "My6rQvZdL/p4HiPeL2e9QR2Bbxmescq/RBpgQpyGZo8G8s6eUvhx/A1WzyO372PbKLwNdQxUj5rIghujqK7PCs5D92vzr5le4krXj2FvbLFU1nnDN3D8JOCKrD98i0d2gWw5Y5wuHDOyw9tbKBOIykrVxol0nvOvrdz4InBiNYNENk7dZsFDi0w2sRIEuX2up6lpHm+r43yXX4B/GbugSQ33RaDM5FnqxCWp4cf7Fn6L9SN2ANCcRzTbOCqD6BdNFjI4eTu506VhFJ+ffvUXSFJ762tjn8H9H3ducYmX9BftUBJHTAtFdT6g4/UYboSlFVYjb9lk3q7miCl2s1Q1YeX7Dv6xDRfbCA5ylEQ1FXM=;7Ds6OIObPhguWpxRfVZPZg=="
 ---

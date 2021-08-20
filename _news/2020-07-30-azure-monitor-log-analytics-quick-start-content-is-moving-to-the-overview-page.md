@@ -36,6 +36,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 100
+  - title: "Version 2.x of the Azure Cosmos DB .NET SDK will be retired on 31 August 2024 "
+    excerpt: "Update your Azure Cosmos DB .NET SDK to version 3 by 31 August 2024. "
+    publishedDateTime: 2021-08-20T16:49:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/action-required-update-your-azure-cosmos-db-net-sdk-to-version-3-by-31-august-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
   - title: "Log Analytics Agent for Windows August 2020 release is now available"
     excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
     publishedDateTime: 2020-09-02T16:00:03Z

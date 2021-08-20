@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Select Azure Cognitive Search skills will be retired on 31 August 2024"
-excerpt: "Upgrade your skills to version 3 of Azure Cognitive Search sentiment analysis and entity recognition skills."
-publishedDateTime: 2021-08-17T17:15:42Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-select-azure-cognitive-search-skills-will-be-retired-on-31-august-2024/"
-webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-select-azure-cognitive-search-skills-will-be-retired-on-31-august-2024/"
+title: "H-series Azure Virtual Machines will be retired by 31 August 2022"
+excerpt: "Migrate to HPC, GP, or RAM optimized VMs by 31 August 2022"
+publishedDateTime: 2021-08-20T16:45:12Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/hseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+webUrl: "https://azure.microsoft.com/en-us/updates/hseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
 type: article
-quality: 84
-heat: 204
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,9 +20,17 @@ provider:
 
 topics:
   - Azure
-  - AI
 
 related:
+  - title: "Select Azure Cognitive Search skills will be retired on 31 August 2024"
+    excerpt: "Upgrade your skills to version 3 of Azure Cognitive Search sentiment analysis and entity recognition skills."
+    publishedDateTime: 2021-08-17T17:15:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-select-azure-cognitive-search-skills-will-be-retired-on-31-august-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "HB-series Azure Virtual Machines will be retired by 31 August 2024"
     excerpt: "Transition to new HPC virtual machines by 31 August 2024."
     publishedDateTime: 2021-08-18T15:24:37Z
@@ -36,15 +44,6 @@ related:
     excerpt: "Transition to new HPC virtual machines by 31 August 2022."
     publishedDateTime: 2021-08-18T15:27:38Z
     webUrl: "https://azure.microsoft.com/en-us/updates/ncseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "H-series Azure Virtual Machines will be retired by 31 August 2022"
-    excerpt: "Migrate to HPC, GP, or RAM optimized VMs by 31 August 2022"
-    publishedDateTime: 2021-08-20T16:45:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/hseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
     type: article
     provider:
       name: Microsoft
@@ -78,6 +77,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "1hEy9UXapBoMT6PtOHzXUHaSmHkOPtcnUbbvzDgYdTjSKxkHQNFeLuxQp1oOjTPUCbsIotTdEzvF/9B8wpRGZ7i/yqaDtSiny54Hzx+UNtZCuL8aFRFLexTkix3whmv7diGOtNiq4Rl3KDY/6cMD/QRSIDgRvFj/JRDRc4Wj3iPObRQnUwj9jHPTetMGKQT6hYaQV8bM3qmMalCw9SohfnQHctRAKsSLhq9OvJvq10noQHbC3MkKaxRpHWZMdxZp5pIR5KuunVlHRXnocgy037GQygnQFQe/3OC87m8i1g1cn4ld+KreJ+ZHb9ERNY3Q/QQlhmPhVwGCTWrIFYx4PHwKzGo7l/NeEEUyVhzw1kg=;FbOj0ArXYW9pjlTBZZbFjw=="
+secured: "kBIuXgt+RlBT9SU9cAx9Vxutkuc6LA36dg/zEol4wqBYf41LLEaXUWziJuQaUGVSIkEhU8S2oLql9Xkb67HtPRWy/HE0xuHf3k06m33+lX3spV8NEYsexKOLYmFXTnSXOCW5668D+Cs7+VspSs+fMZ83mIqmpOfldighX0mvmZMbZrSzzVixanS//X8fWkSDDa3bHRFbCtsuAq+Itct5NXPgtwiDVu/lNsvU1mP8woxYj9V/aoH/Q82iNXHZOjhApKEb31NKv/d/TsxHDZdrBeKh7DyieUonulkuPOEBpaWZWpaNoMNZ2rbJ+p5HC9uO6O0OBAQgy0MyeyU6jYpFMF+C4UvQWj6DLUQFhZhIo9g=;8X2b6BaYv7DSJwBEGLDF2Q=="
 ---
 

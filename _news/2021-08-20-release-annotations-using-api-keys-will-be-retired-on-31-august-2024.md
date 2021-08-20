@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Select Azure Cognitive Search skills will be retired on 31 August 2024"
-excerpt: "Upgrade your skills to version 3 of Azure Cognitive Search sentiment analysis and entity recognition skills."
-publishedDateTime: 2021-08-17T17:15:42Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-select-azure-cognitive-search-skills-will-be-retired-on-31-august-2024/"
-webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-select-azure-cognitive-search-skills-will-be-retired-on-31-august-2024/"
+title: "Release annotations using API keys will be retired on 31 August 2024"
+excerpt: "Transition to new release annotations without using API keys in Application Insights."
+publishedDateTime: 2021-08-20T16:41:48Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/transition-to-new-release-annotations-in-application-insights/"
+webUrl: "https://azure.microsoft.com/en-us/updates/transition-to-new-release-annotations-in-application-insights/"
 type: article
-quality: 84
-heat: 204
-published: true
+quality: 52
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,9 +20,17 @@ provider:
 
 topics:
   - Azure
-  - AI
 
 related:
+  - title: "Select Azure Cognitive Search skills will be retired on 31 August 2024"
+    excerpt: "Upgrade your skills to version 3 of Azure Cognitive Search sentiment analysis and entity recognition skills."
+    publishedDateTime: 2021-08-17T17:15:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-select-azure-cognitive-search-skills-will-be-retired-on-31-august-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "HB-series Azure Virtual Machines will be retired by 31 August 2024"
     excerpt: "Transition to new HPC virtual machines by 31 August 2024."
     publishedDateTime: 2021-08-18T15:24:37Z
@@ -68,16 +76,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
-  - title: "Release annotations using API keys will be retired on 31 August 2024"
-    excerpt: "Transition to new release annotations without using API keys in Application Insights."
-    publishedDateTime: 2021-08-20T16:41:48Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/transition-to-new-release-annotations-in-application-insights/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
-secured: "1hEy9UXapBoMT6PtOHzXUHaSmHkOPtcnUbbvzDgYdTjSKxkHQNFeLuxQp1oOjTPUCbsIotTdEzvF/9B8wpRGZ7i/yqaDtSiny54Hzx+UNtZCuL8aFRFLexTkix3whmv7diGOtNiq4Rl3KDY/6cMD/QRSIDgRvFj/JRDRc4Wj3iPObRQnUwj9jHPTetMGKQT6hYaQV8bM3qmMalCw9SohfnQHctRAKsSLhq9OvJvq10noQHbC3MkKaxRpHWZMdxZp5pIR5KuunVlHRXnocgy037GQygnQFQe/3OC87m8i1g1cn4ld+KreJ+ZHb9ERNY3Q/QQlhmPhVwGCTWrIFYx4PHwKzGo7l/NeEEUyVhzw1kg=;FbOj0ArXYW9pjlTBZZbFjw=="
+secured: "f3a56Z+ok/0KxYjqPxbjkndW2keGH7UJ1tAUV8TfpHm81ECZjiEulf1aYeB9uG7qgdwvXLqW5akx6HdjYWpeOSPlOWTorx6Ql/kA/byneglOB7UW+6lkoPj03Bqn0uhQbmmR/OoyNmNBAylIm5ft43Z+0z+pAM7nVHF20m9ixE6vG7cWOUpgbsu+tRS9S2+chmL43bMQzGToqiDeyDtP/uMkMRvH2gcoyRpw/LK7gy2FF7LCsyeWfdDEqiaAYk/5nII1PoY+eyHqp3xiI6Zf/RXiQK0hBA5PnxsSPzgzROfZdtZwEkQEHMZd8BfYk56zb3CUB1jgxUwkgrueH6flWv3TREIPptme5tLoCab74qg=;mvgeY6eUjxgLU/8D4Dch5A=="
 ---
 
