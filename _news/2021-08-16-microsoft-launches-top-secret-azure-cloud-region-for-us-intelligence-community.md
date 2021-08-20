@@ -307,18 +307,18 @@ related:
         height: 633
         isCached: true
   - title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment offer, iManage on Azure Migration. The iManage Knowledge Work Platform is a trusted solution for secure,"
-    publishedDateTime: 2021-08-16T13:30:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/16/cornerstone-its-consulting-service-for-imanage-now-available-in-the-microsoft-azure-marketplace/"
+    excerpt: "New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment ..."
+    publishedDateTime: 2021-08-16T12:44:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2900781"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
+      name: Law
+      domain: law.com
     quality: 24
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/08/5935-300x300-1.png"
-        width: 300
-        height: 300
+      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
     excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
