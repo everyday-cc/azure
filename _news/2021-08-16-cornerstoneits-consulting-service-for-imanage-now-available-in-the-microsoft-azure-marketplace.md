@@ -212,20 +212,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-08-17T13:07:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft to commercialize Azure datacenter in Taiwan in 2H22"
     excerpt: "Microsoft is scheduled to kick off operations at its new Azure datacenter in Taiwan in the second half of 2022, which may prompt other web service giants including Amazon Web Services (AWS) to accelerate building similar facilities in the country,"
     publishedDateTime: 2021-08-17T06:30:00Z
@@ -349,6 +335,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-08-17T13:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
     excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
     publishedDateTime: 2021-08-17T12:16:00Z
@@ -418,6 +413,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "QJGgMv4zY4257li3i09G11EWQKVkxx2qS3p/WFILZNWRTzpCye123HhR57jqjbrijTSRxu6iHpvaMC8631DtNHYzpIHRtMLlHdJgmcXuwRu92DBPe7A6S7aX8ECCscBrJNUXjVtTmiAk1kRl+RLlXmxY6LP4SgsWS+qUhxyrlyDGYjPN/YANIbiRnfuWDdNDrqM/v0oWhmTbZCL/IOyeyQvx+L24EGiqa9w+2sYEaF/2XRgRiSNY/chOSbN5XJZcKG9zvPw0/gmytZi7qKn7OLmMnM1wsCz9XZRqx4JJt+TBTP24DjcrbNRXkG9bg7p3/Et+b6EVIbXr90TvhdX9ECeE1rn8D/uo1UUDUqEjNCs=;qg5VcFYBdmg4wqnkiT6iIQ=="
+secured: "ztz5qafL6o/bFyr8iSbaY3q4By8P0i/0r+hdgaIcQWE3yUBYWPl671R4V3l6Roqc0FvrprhyhK3XvTnsr3hWSUF2ob7Oc5GysLrvEudPUOpNQ81jKI4GTmmynx+98hvM21IXlI/E5s8NXrjNCoUz9ZpFQvdxkNrYQLMqnOi2kx54RFxXqBWhcAiELILZ/tUXFMODFnpPrU60qZhze88OlZme+bujSP72XGDlK/+3KVAmab6j5RYRFwz0lQpZIZciNQFDt1Q0yl1sVLTQncqnidBUqhgphdshZrydjwCsGWDl76UlgMUbeYBbPTjIqDfJeQ39RXs8FtM8F1HnMg4maSPUCwoiKhnoKbI1lkNm364=;55E6+4/Ln0aEVQ82Lma0Wg=="
 ---
 

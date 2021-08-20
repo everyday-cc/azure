@@ -2,26 +2,20 @@
 category: news
 title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
 excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-08-17T13:07:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
+publishedDateTime: 2021-08-17T13:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-datawiza-amaas-now-available-the-microsoft-azure-marketplace-/2021/08/17/9432236.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -418,6 +412,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "hfH5r4DJSD3Ifz3wgg5KBqqCINIWMuSQOcnNcrvz2F3WIng279ni4el7QaLdm1vVIBEyCiXHyIturIHguJBky2Z1Cy5Ks8CJjtYvucERHVFtb4+8REF7pB8Q5t0xJsKQE8FehVO9P7yNswZc6VKkzFyL7G/lEDL62fG4+ZnHXkI0iirQMoj1mWss2kKEboQeC7A9tbsFVny0vp/uy387yIMNC8lsZDnxg6OJgdUlEcRhpMw+cqDgNcHwvFZl2d3OcFkYjwztYbisvqNXbz5CmfkJkyGvR/9iNt3aFBtk5vJTxdZ0iO7o3WhJip441he+VrJoRBjnMuxoIb6dJC3VgX2YCVMidlZ+K5x8vIakB9k=;Q/f5tQ+KL85Y7bwbIJcOGA=="
+secured: "wT/lNaV3lpfTKS8pkoWOAjswfRKT/RCxFN6H3rHeyDbNa1oxBf0RzJ6u8McP/KG8x7uYicCjOn+3JHsxv2ckHc0mvEZbIJ2jKZb+gsHlTQ5E6QwTi29YTvK/QOxZMbprTJwr0ZGBBfg97X/sdrX8fdvcElP/jRDo/8Q3+C45lrfP6XD0ovp2oYvlBkJruzZGQ4vX4tJgWPbkSyIrsZZSWRY8LQBZhkuNGEs/U/hk1pX++cpqFpemuOVLvpFSih3Cltyyu/NlvKqtiNIQH8xEnaMk0A8FwFsUVw6lu3G9Wh1MRovVJQgmnMMRjf/Jhta1vgXszAA7G1FdueQBV9s8N1/iBKXo7jjKLN1HiP18S0o=;oEZ/TIvq59QoRww0DbQPfg=="
 ---
 
