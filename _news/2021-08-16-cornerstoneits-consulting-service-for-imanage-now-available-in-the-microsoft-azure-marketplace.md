@@ -346,6 +346,20 @@ related:
         width: 950
         height: 633
         isCached: true
+  - title: "Microsoft Goes Live with ‘Top Secret’ Azure Cloud for Feds — Redmond Channel Partner"
+    excerpt: "Azure Government Top Secret, Microsoft ‘s cloud offering for U.S. government agencies and their solution providers, is now generally available. Microsoft designed Azure Government to be a physically isolated instance of its Azure cloud platform that’s available only to U."
+    publishedDateTime: 2021-08-17T20:15:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-goes-live-with-top-secret-azure-cloud-for-feds-redmond-channel-partner/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 30
+    images:
+      - url: "https://rcpmag.com/articles/2021/08/17/-/media/ECG/redmondmag/Images/IntroImages2016/130926REDMackieEuropeCourt.ashx"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
     excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
     publishedDateTime: 2021-08-18T15:16:00Z

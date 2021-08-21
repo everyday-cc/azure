@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure first cloud to gain orbit with O3b mPOWER"
-excerpt: "Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital systems, which integrate satellite connectivity with Azure services. Microsoft will use SES ..."
-publishedDateTime: 2021-08-19T14:14:00Z
-originalUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER"
-webUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER"
-ampWebUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
-cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
+title: "Microsoft Goes Live with ‘Top Secret’ Azure Cloud for Feds — Redmond Channel Partner"
+excerpt: "Azure Government Top Secret, Microsoft ‘s cloud offering for U.S. government agencies and their solution providers, is now generally available. Microsoft designed Azure Government to be a physically isolated instance of its Azure cloud platform that’s available only to U."
+publishedDateTime: 2021-08-17T20:15:00Z
+originalUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-goes-live-with-top-secret-azure-cloud-for-feds-redmond-channel-partner/"
+webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-goes-live-with-top-secret-azure-cloud-for-feds-redmond-channel-partner/"
 type: article
-quality: 37
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Computer Weekly
-  domain: computerweekly.com
+  name: fintechzoom
+  domain: fintechzoom.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://rcpmag.com/articles/2021/08/17/-/media/ECG/redmondmag/Images/IntroImages2016/130926REDMackieEuropeCourt.ashx"
+    width: 647
+    height: 450
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -306,6 +310,17 @@ related:
         width: 740
         height: 449
         isCached: true
+  - title: "Microsoft Azure first cloud to gain orbit with O3b mPOWER"
+    excerpt: "Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital systems, which integrate satellite connectivity with Azure services. Microsoft will use SES ..."
+    publishedDateTime: 2021-08-19T14:14:00Z
+    webUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER"
+    ampWebUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 37
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -330,20 +345,6 @@ related:
       - url: "https://blocksandfiles.com/wp-content/uploads/2021/02/Microsoft-365.jpg"
         width: 950
         height: 633
-        isCached: true
-  - title: "Microsoft Goes Live with ‘Top Secret’ Azure Cloud for Feds — Redmond Channel Partner"
-    excerpt: "Azure Government Top Secret, Microsoft ‘s cloud offering for U.S. government agencies and their solution providers, is now generally available. Microsoft designed Azure Government to be a physically isolated instance of its Azure cloud platform that’s available only to U."
-    publishedDateTime: 2021-08-17T20:15:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-goes-live-with-top-secret-azure-cloud-for-feds-redmond-channel-partner/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 30
-    images:
-      - url: "https://rcpmag.com/articles/2021/08/17/-/media/ECG/redmondmag/Images/IntroImages2016/130926REDMackieEuropeCourt.ashx"
-        width: 647
-        height: 450
         isCached: true
   - title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
     excerpt: "New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment ..."
@@ -451,6 +452,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "Xj6b29w3b0uzUmibQFwVvqeqorsnUmFes+wRR+q+ZzWmNo2S5n5ob811ol7PdIIOP3bwOLyRY+/Ve1gqEMp0fuvN/ev64798AYSGov3ouyzMhbR14Z9oG5rVLLcAAonENaxMvrIFsE+6HNRWXe9O6CM9Kbfdo5VZMoAv+iaqyzUWBRoiK3Hj72WkM+MgzBm/lHu1egfsMUL1Nx8HCQxZXwBrKAl3IPdUz/d7PORQK/tPV8aSwj7R/HGCJ0WN/G6OOlcbSXX6VZ2NdTWYOItYDhuX2NpN6o5TUPTqnoua+ZH2W7tTa2tdxzJYf7d39P8G1krubhsARdpcSsezeyt+crw1EtQIUohs7QT2s3gFmuA=;/9rXKYAhSWRjDWFaq+p2Ng=="
+secured: "YU1xIXD/QzDS4V2N9+Nnbh+Bz4AG06GTK+cxO+qkGvhRnuoLC7K4+zQuEY4Fn21QLKC/tuCG05poIKJpHOvts+20Gjwaxgq/8O+ncE8mb16dGgH/i+t7JCnnvb2eZCDgGyeKlYOGrHCodBtIlQPv0kHSE/iaIqg3EkopM3+UF//K6qF0Pqhfkg1ExB8wmXJ8d6ZEfkyvUfvIVO8CbjRLqXSx4vAzqRmZ4+2jBFIKhCb8K6jsYjNluTRMSX7Gdd4ZJebJc+OfQloSXiN/fE5/p+yB5XY32DCKP03ZYgxvk+M2fAAQ+wout9fsw32UVOavHG0q2/VRDufVI/+E1ZtQR2p1w/QbPJ8L9C5SNq+eRQY=;QwVL8JTlXalQkJMMBPLRmg=="
 ---
 

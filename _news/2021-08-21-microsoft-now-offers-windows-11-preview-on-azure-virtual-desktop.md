@@ -1,27 +1,29 @@
 ---
 category: news
-title: "How to use Microsoft Sysmon, Azure Sentinel to log security events"
-excerpt: "Microsoft's Sysmon and Azure Sentinel are easy and inexpensive ways to log events on your network. Here's how to get started with them."
-publishedDateTime: 2020-05-27T10:06:00Z
-webUrl: "https://www.csoonline.com/article/3543835/how-to-use-microsoft-sysmon-azure-sentinel-to-log-security-events.html"
+title: "Microsoft now offers Windows 11 preview on Azure Virtual Desktop"
+excerpt: "Microsoft customers can use the Azure Virtual Desktop (formerly Windows Virtual Desktop) to virtualize a Windows 11 preview desktop on Azure virtual machines."
+publishedDateTime: 2021-08-21T15:45:00Z
+originalUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-offers-windows-11-preview-on-azure-virtual-desktop/"
+webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-offers-windows-11-preview-on-azure-virtual-desktop/"
+ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-offers-windows-11-preview-on-azure-virtual-desktop/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-now-offers-windows-11-preview-on-azure-virtual-desktop/amp/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: CSOonline
-  domain: csoonline.com
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.idgesg.net/images/article/2020/05/cloud-security-expert_casb_binary_cloud-computing_cloud-security_by-metamorworks-getty-100803072-orig-copy-100843071-large.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.bleepstatic.com/content/hl-images/2021/07/08/Windows-11.jpg"
+    width: 3840
+    height: 2160
     isCached: true
-    title: "How to use Microsoft Sysmon, Azure Sentinel to log security events"
 
 related:
   - title: "Microsoft Updates Windows, Azure Tools with an Eye on The Future"
@@ -639,22 +641,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft now offers Windows 11 preview on Azure Virtual Desktop"
-    excerpt: "Microsoft customers can use the Azure Virtual Desktop (formerly Windows Virtual Desktop) to virtualize a Windows 11 preview desktop on Azure virtual machines."
-    publishedDateTime: 2021-08-21T15:45:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-offers-windows-11-preview-on-azure-virtual-desktop/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-offers-windows-11-preview-on-azure-virtual-desktop/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-now-offers-windows-11-preview-on-azure-virtual-desktop/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 57
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2021/07/08/Windows-11.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
   - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
     excerpt: "RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions,"
     publishedDateTime: 2020-05-22T00:21:00Z
@@ -1222,6 +1208,20 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-UK.jpg"
         width: 1000
         height: 750
+        isCached: true
+  - title: "How to use Microsoft Sysmon, Azure Sentinel to log security events"
+    excerpt: "Microsoft's Sysmon and Azure Sentinel are easy and inexpensive ways to log events on your network. Here's how to get started with them."
+    publishedDateTime: 2020-05-27T10:06:00Z
+    webUrl: "https://www.csoonline.com/article/3543835/how-to-use-microsoft-sysmon-azure-sentinel-to-log-security-events.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/05/cloud-security-expert_casb_binary_cloud-computing_cloud-security_by-metamorworks-getty-100803072-orig-copy-100843071-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft Gives Azure Lighthouse MSP Tool Some Attention"
     excerpt: "Microsoft Azure Chief Technology Officer Mark Russinovich provided an update on Azure Lighthouse progress in a blog post in the wake of Build, Microsoft's biggest annual conference for developers."
@@ -1998,6 +1998,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "iKxIOsSLTZ+o8GopnJGT3Ncv/Ud3fCXKCK0JmJMa//8BviA6mH4aCWduyFRfuWh1ikfhpcjJVvJKJLd3FOQdeYCvJCQHd3k/5hCttnKvoEtcINSJDktKf8C72JWG1nicHFUOjcS+VOWcu+e6GiSkZSe5thNIYfrSaHAWt67t95xSeKIpyQHN64BtxWU31bxWsEJ18kS1Cgd/SWdPm4tEn0sC7yocySvGOi+k6OQ0AYxOYpZYee1e+1WVQbauJjpumnmIEj0Gffw48Noj97Io1JaqAi05lzeoMHrSnd+kzp3dW4rMXP0pPGVwLOs3zQqc;k/qQXzkwXA1twJ1JqcIxXw=="
+secured: "MbWcS6Fw5Oon5dRZ33FEYzFw5w5VANnvGJ5iJIVUq7nmOz99jDfBwwVZm5IyxcouAnAfQEjSHPl9ABKGEyYdFVmkd35i+i/jnV9OrgOOiqVzpBYS8py401hR2uBKaN1cBdWOeqYwU2D/yI0cHL375eqxt65d0qbMGwjEAW/wkZyCsZzmMVU3Z5riOEoRtW7c5qEcPbhHUWk6XNxfwR29MbmBXgOgGcb3d7l/KK75E7vBJ/dgStFpBUqALDmmZQ8X2B2GirI0whMt5xNDMDPmTBJFiPvonp8VezkIU3TnIjNhFj1CGlW97FRaILrmjH+PsiQuf5ldCBvUOTX7MjK0mY9lysjDTKK8GPE+Hxg67cI=;RjjdCmRCqADSSmbSieuhtQ=="
 ---
 

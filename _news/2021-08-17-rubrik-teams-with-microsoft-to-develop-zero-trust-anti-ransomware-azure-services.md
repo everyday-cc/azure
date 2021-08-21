@@ -332,6 +332,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 32
+  - title: "Microsoft Goes Live with ‘Top Secret’ Azure Cloud for Feds — Redmond Channel Partner"
+    excerpt: "Azure Government Top Secret, Microsoft ‘s cloud offering for U.S. government agencies and their solution providers, is now generally available. Microsoft designed Azure Government to be a physically isolated instance of its Azure cloud platform that’s available only to U."
+    publishedDateTime: 2021-08-17T20:15:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-goes-live-with-top-secret-azure-cloud-for-feds-redmond-channel-partner/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 30
+    images:
+      - url: "https://rcpmag.com/articles/2021/08/17/-/media/ECG/redmondmag/Images/IntroImages2016/130926REDMackieEuropeCourt.ashx"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Cornerstone.IT’s Consulting Service for iManage Now Available in the Microsoft Azure Marketplace"
     excerpt: "New York, NY — August 16, 2021 — On the heels of announcing Remote Desktop Pro as its first solution in the Microsoft Azure Marketplace, Cornerstone.IT has released a free two-week assessment ..."
     publishedDateTime: 2021-08-16T12:44:00Z
