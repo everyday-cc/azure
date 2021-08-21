@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
-excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-publishedDateTime: 2021-08-17T12:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
+title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
+excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
+publishedDateTime: 2021-08-17T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
+webUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
@@ -277,20 +277,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T06:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Space Broadband Wars Heat Up: SES Connects Azure Cloud, Cruise Ships"
     excerpt: "O3b mPOWER network as a “goldilocks” broadband satellite solution, offering advantages over geosynchronous Earth orbit (GEO) and low Earth orbit (LEO) constellations from SpaceX, OneWeb, and Telesat."
     publishedDateTime: 2021-08-18T13:59:00Z
@@ -392,6 +378,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES ( News - Alert) today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft ( News - Alert) plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-18T06:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Quorum set to deploy XSellerator dealerships on Microsoft Azure"
     excerpt: "Leveraging the Microsoft Azure cloud platform eliminates the need for on-premise servers or a Quorum-hosted solution. “Quorum is now actively marketing and selling the Microsoft Azure cloud platform to existing and prospective XSellerator DMS customers ..."
     publishedDateTime: 2021-08-19T18:24:00Z
@@ -452,6 +447,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "Tsx7KgTZQqWUbzcnhBOi1KQQZE8oMlFsvWIo5pE8MDUupWYmrd6lTR1SstunYAn6cOUeh+Vzszw/gmKj//VqsokcIuzEogCW+2lajhiLWx5mWF6jkobNZX/3u6dLpOd7TpE/mrfki6nhdR/UGp4vD1sB7kvjkyR50hOo1SlwVCo2izRGoyINxpv17/ouX4nu3BkyCiU4XOt1m90vgTdY6EueZcG+gcXwyDKOSZf360ZlUNMMWKtsZMYpaUcezqpLnF0VEXtFk22KdftRzu0PDjMNgn/diGFvevfYwTop9BwnZhRFma0hn5mUpvLSklE3OYbz+xOJRg/KZZZisM47ph0XEV3WB1AsJcuzFRGX5os=;4w5Hw1bN2f7WA1J/esLIUA=="
+secured: "F6ZLwrOlqofEMNDsxn7xgtM9ZukIy1Z6CRJY5yXTt49fcDuLqf9ZwVqv63bflI1Onjl44pQDKBB/SjV8WIXZTcombX8dW0fEoRvvL608zoSfxb4B9SUF/bo7ZAm/dFTD2F/+KsW0ypcaD/OWU6xOvH6J5dFfBJMWGpOSRzlyn4yR7TfoWJ7S6BZW2xADxJBJimOv1wu2AiUXAWtNNNQSRrFdP58vgzVNMxy/b4QYSm8ey4341hSp56qUu2/jc4NW9LXL5bjwepghsjmbRZVOW4F4JI3TaUGIa+tlXllwQAd4i+rGvCZIjTO2QzSQIEXzWrRBsmDyZkAXMryMFGfygUv8Nn358Gy98o8oX/lH9sk=;jJYsoztvF5S3oiPZsOikdA=="
 ---
 

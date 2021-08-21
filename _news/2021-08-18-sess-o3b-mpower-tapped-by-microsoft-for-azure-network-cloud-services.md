@@ -1,27 +1,21 @@
 ---
 category: news
-title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-publishedDateTime: 2021-08-18T06:51:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
-webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+excerpt: "SES ( News - Alert) today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft ( News - Alert) plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+publishedDateTime: 2021-08-18T06:52:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -392,14 +386,14 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
-  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
-    excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-    publishedDateTime: 2021-08-17T12:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
+  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
+    excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
+    publishedDateTime: 2021-08-17T12:00:00Z
+    webUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 15
   - title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
     excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"
@@ -452,6 +446,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "3NNWT2tj4BoV4q7AlHUh0HU0jl15H43CapowVcaHKXWk4AVIDpUyeMaR6RkFi+Wywz8HuIhK7BmsoQs+wCRiu8Q5qP8u/cS9pkeA4QYBRkRUfdr2e6cJB8L1lD01nTmHbUo6Dok+LdmDhIje7eJMsvFInMNb82T//F+btw8HLbC7QoHHP1IZbvtDqOBdiPmYAQq6YVb9CP2a3hctooB8r9hmU60rkGefnOOn6UgZtfYG/sW//BW1NqWqfvhViBZ+LhsJU2PmRf8IXY0LABu4dDKTQYl11BHfFViTVASTRf5PG4AvX/guFdfBBdBp7r4BuYaiXTlXAEQoNNY5QwhI3B652jN5dz5Paom+9dasJic=;2GXLl/JGz0wNBssbEWTrpw=="
+secured: "EpkkXtuamBx8IcXfgPx5oAD7PDsEbzOQlhbtxKBwEqMAdLyJ3kxCo3AUUhhk/E3RnALKl8LIn3fiZoQ0+FyXizmnyPaKDs8lvKUbzgZRC3a5VzmCIIyX0E9uBNiqUcrH+oqfn2Gz57Pq/lGGyqAQ/IoeQioYb49is0mnIolx3R87JoVGXNZ4i5eJGX2FaX3cTc40sOF9J5k9ZO01U4NwNsBCWYEAA/KeovMP0U5QEeYnWuZWrmm2/9Q8Ln7nHgdNBMc4hf1n+rdi6ylG2NV8oPwswZ9Vsd9LSk0eY3p+7/JLEpIqI+jrtbTgOviF8jy3okHM8/QRALwxql+mIukugKPCLUPMgPGDZnx2HgEGHNKffx2P5a0PXQSx4TNVrlhvpGl/APTQ0Y4UT8Dek/UjCrhTtwhMos4Ms3X8qz5aGSBVLtmzAwD1qQu8lK7zhgNwvn4Ya1DzdGmtHmOSr5ox8TZ/qBOh+VTnGjMIyxljT2gqgOe2Sk86zSsYc9o+3EtGeXvSjZLNO6TTNlfXZ4jMkQ==;htCPXa9v/uAM9qEP4oJWfw=="
 ---
 
