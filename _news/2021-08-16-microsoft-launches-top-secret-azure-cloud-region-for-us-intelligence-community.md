@@ -306,6 +306,17 @@ related:
         width: 740
         height: 449
         isCached: true
+  - title: "Microsoft Azure first cloud to gain orbit with O3b mPOWER"
+    excerpt: "Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital systems, which integrate satellite connectivity with Azure services. Microsoft will use SES ..."
+    publishedDateTime: 2021-08-19T14:14:00Z
+    webUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER"
+    ampWebUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 37
   - title: "Rubrik teams with Microsoft to develop Zero Trust anti-ransomware Azure services"
     excerpt: "Microsoft has made an investment in Rubrik as part of a strategic deal involving co-development of Zero Trust anti-ransomware services in the Azure public cloud with joint go-to-market activities. The two companies will provide Microsoft 365 and hybrid cloud data protection and integrated cloud services on Azure."
     publishedDateTime: 2021-08-17T16:06:00Z

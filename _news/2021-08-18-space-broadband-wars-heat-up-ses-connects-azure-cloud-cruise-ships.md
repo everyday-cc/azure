@@ -296,6 +296,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft Azure first cloud to gain orbit with O3b mPOWER"
+    excerpt: "Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital systems, which integrate satellite connectivity with Azure services. Microsoft will use SES ..."
+    publishedDateTime: 2021-08-19T14:14:00Z
+    webUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER"
+    ampWebUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 37
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z

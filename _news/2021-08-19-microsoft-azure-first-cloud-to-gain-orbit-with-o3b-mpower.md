@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
-excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"
-publishedDateTime: 2021-08-19T13:42:00Z
-originalUrl: "https://www.indianweb2.com/2021/08/microsoft-azure-powered-climate-tech.html"
-webUrl: "https://www.indianweb2.com/2021/08/microsoft-azure-powered-climate-tech.html"
+title: "Microsoft Azure first cloud to gain orbit with O3b mPOWER"
+excerpt: "Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital systems, which integrate satellite connectivity with Azure services. Microsoft will use SES ..."
+publishedDateTime: 2021-08-19T14:14:00Z
+originalUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER"
+webUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER"
+ampWebUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
 type: article
-quality: 5
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: indianweb2.com
-  domain: indianweb2.com
+  name: Computer Weekly
+  domain: computerweekly.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://1.bp.blogspot.com/-QBOkxmsOyzk/YR5fdHLy4vI/AAAAAAAAEgM/kVBA0w3Nno8kViq-DBWTW9SweLCBtSq4QCLcBGAsYHQ/s16000/atmos-device.jpeg"
-    width: 1065
-    height: 588
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -310,17 +306,6 @@ related:
         width: 740
         height: 449
         isCached: true
-  - title: "Microsoft Azure first cloud to gain orbit with O3b mPOWER"
-    excerpt: "Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital systems, which integrate satellite connectivity with Azure services. Microsoft will use SES ..."
-    publishedDateTime: 2021-08-19T14:14:00Z
-    webUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER"
-    ampWebUrl: "https://www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505511/Microsoft-Azure-first-cloud-to-gain-orbit-with-O3b-mPOWER?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 37
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -401,6 +386,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
+    excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"
+    publishedDateTime: 2021-08-19T13:42:00Z
+    webUrl: "https://www.indianweb2.com/2021/08/microsoft-azure-powered-climate-tech.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 5
+    images:
+      - url: "https://1.bp.blogspot.com/-QBOkxmsOyzk/YR5fdHLy4vI/AAAAAAAAEgM/kVBA0w3Nno8kViq-DBWTW9SweLCBtSq4QCLcBGAsYHQ/s16000/atmos-device.jpeg"
+        width: 1065
+        height: 588
+        isCached: true
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
     publishedDateTime: 2021-08-18T14:34:00Z
@@ -438,6 +437,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "errMH+i2N8sNYDk/MUSHGl2GlAivZXefzPo8HjqHDWOXmWFzL7s/0ZL5GTq9En0rwuhkC6dpBYzhChLLFSFuKgx92mtFH4rYDAau1vMy1goqiSsFvV44spQETDqDNos7RaE5LugHl/TIt28bahba+D1hNdBmv/17Ag1uCaFZndvE5sS0zUik8nvE/iRpCv8qwQ5sOPPGWkH3Av1UP98WKU9fG+sGiiYAexgw/dn5H2pdnDRaNbvv4noV+DevaoSCmWur3Fco7tkSI/LUEfxGwC8K8UbnDPcseaNQWW1VNM4YjiasbLlV4rrAgWUTqH8PeOGMXCh9Mac5DiemM68N6K7HMthWgWi+G1DIjEfo4a8=;xURTmhxeEvBRLiu5qkKxlw=="
+secured: "Xj6b29w3b0uzUmibQFwVvqeqorsnUmFes+wRR+q+ZzWmNo2S5n5ob811ol7PdIIOP3bwOLyRY+/Ve1gqEMp0fuvN/ev64798AYSGov3ouyzMhbR14Z9oG5rVLLcAAonENaxMvrIFsE+6HNRWXe9O6CM9Kbfdo5VZMoAv+iaqyzUWBRoiK3Hj72WkM+MgzBm/lHu1egfsMUL1Nx8HCQxZXwBrKAl3IPdUz/d7PORQK/tPV8aSwj7R/HGCJ0WN/G6OOlcbSXX6VZ2NdTWYOItYDhuX2NpN6o5TUPTqnoua+ZH2W7tTa2tdxzJYf7d39P8G1krubhsARdpcSsezeyt+crw1EtQIUohs7QT2s3gFmuA=;/9rXKYAhSWRjDWFaq+p2Ng=="
 ---
 
