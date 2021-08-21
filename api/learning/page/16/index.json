@@ -585,8 +585,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11226,
-            "average": 4.683235
+            "count": 11227,
+            "average": 4.683264
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -909,8 +909,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 1893,
-        "average": 4.7517166
+        "count": 1894,
+        "average": 4.7518477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1044,8 +1044,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
       "length": "PT49M",
       "ratings": {
-        "count": 1325,
-        "average": 4.7449055
+        "count": 1326,
+        "average": 4.745098
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1208,6 +1208,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-configure-app-service-plans.md",
+      "title": "Configure app service plans",
+      "excerpt": "You will learn how to configure the App Service Plan including pricing and scaling.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-app-service-plans/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-app-service-plans/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 36,
+        "average": 4.861111
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-azure-application-gateway.md",
       "title": "Configure Azure Application Gateway",
       "excerpt": "You will learn how to configure an Azure Application Gateway.",
@@ -1301,8 +1345,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-expressroute-virtual-wan/",
       "length": "PT24M",
       "ratings": {
-        "count": 25,
-        "average": 4.88
+        "count": 26,
+        "average": 4.8846154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1685,48 +1729,6 @@
         "Networking",
         "Web",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-custom-roles-rbac.md",
-      "title": "Create custom roles for Azure resources with role-based access control (RBAC)",
-      "excerpt": "Learn how to create custom roles for Azure resources with role-based access control (RBAC).",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-custom-roles-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 3940,
-        "average": 4.732995
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-custom-azure-roles-with-rbac-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
