@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-f
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-streaming-analytics-q2-2021/"
 type: article
 quality: 88
-heat: 150
+heat: 148
 published: true
 
 provider:

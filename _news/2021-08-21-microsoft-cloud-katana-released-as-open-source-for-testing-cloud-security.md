@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS"
-excerpt: "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform"
-publishedDateTime: 2021-08-17T13:25:00Z
-originalUrl: "https://seekingalpha.com/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
-webUrl: "https://seekingalpha.com/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
-ampWebUrl: "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
-cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+title: "Microsoft Cloud Katana Released as Open Source for Testing Cloud Security"
+excerpt: "Microsoft announced on Thursday that it is releasing Cloud Katana as an open source code project for assessing 'security controls in the cloud and hybrid cloud environments.'"
+publishedDateTime: 2021-08-20T22:55:00Z
+originalUrl: "https://redmondmag.com/articles/2021/08/20/microsoft-cloud-katana-open-source.aspx"
+webUrl: "https://redmondmag.com/articles/2021/08/20/microsoft-cloud-katana-open-source.aspx"
 type: article
-quality: 57
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
+  - Security
 
 images:
-  - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-    width: 1200
-    height: 1200
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130822REDMackieCloudSecurity2.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -99,6 +98,22 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS"
+    excerpt: "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform"
+    publishedDateTime: 2021-08-17T13:25:00Z
+    webUrl: "https://seekingalpha.com/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 57
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Avaya, Microsoft announce integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "The companies have announced the integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS."
     publishedDateTime: 2021-08-18T06:39:00Z
@@ -155,20 +170,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft Cloud Katana Released as Open Source for Testing Cloud Security"
-    excerpt: "Microsoft announced on Thursday that it is releasing Cloud Katana as an open source code project for assessing 'security controls in the cloud and hybrid cloud environments.'"
-    publishedDateTime: 2021-08-20T22:55:00Z
-    webUrl: "https://redmondmag.com/articles/2021/08/20/microsoft-cloud-katana-open-source.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 38
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130822REDMackieCloudSecurity2.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
     excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
@@ -427,6 +428,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "j7y4ZGGD/lZ1vhm/1KxndS/+7MVTbVQZVA9zTVNoT7A+qp80ThQnoY080Hi2JDGwcuda6iegWUkMGshRXAvrQy35MqFS4/6wlzNrSuLaZnvWzj/v+YUoNKndGXASD5SEN+FNrKXsFWnJftKmoo1mQui0BlEp37tK+IDlRAIeh7ZbhHTYzTREQh+bTc+VRnrGsqHfoKZmx3onNafPKMFruvvladMFpk463chcY4jE/S9KNPyFOs3vN+qXguasaX4n2hH2LLT9+t4VRLoexr86AT58kdAuNSZqz025I+EjooU2pP8Yw8EFNhsco33XMZc7A0PIdGMvrjPacn88WHCE4ao96cAl/CRVyA/nfTJwamw=;QHvnXspkpb3tMrXoM7lHxQ=="
+secured: "eJLxyCYw6I8woxPCXErI4WL2+Lkum+pw+9CN33swqjxhFnq7iwtHNvYH9a4JXTNafQbLdWGHp6I2B0CpXCp+Jv4n/InzQVcMHW+W/cAqJ/d1/YEef4P0Dou97SHFom2ZEVNuQudDRQadnluyKkTvlr5Ate39+IOrZT9waBqjnDm4wgk4T5rOkJ0nRYlbfz+AbLUv4C+aiw4rAxv1lPTyp/Svb40t6p79cEJcfARNu+agdAP562pl4lowvLK10PRCaQteqFxXMIPyGgETpKqYOYPMM/9/sx8xUc1miyYx7XcH4pLcM4xwcneHcZnAokj+PDl8l88qSXyO6a2yxoO1Eof9EqL9ZW4SDG9wxxRuRd4=;U5d+WhNtnBTpD0MeeR+mpA=="
 ---
 

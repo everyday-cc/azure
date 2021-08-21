@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microso
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
 type: article
 quality: 97
-heat: 699
+heat: 717
 published: true
 
 provider:
@@ -159,6 +159,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Cloud Katana Released as Open Source for Testing Cloud Security"
+    excerpt: "Microsoft announced on Thursday that it is releasing Cloud Katana as an open source code project for assessing 'security controls in the cloud and hybrid cloud environments.'"
+    publishedDateTime: 2021-08-20T22:55:00Z
+    webUrl: "https://redmondmag.com/articles/2021/08/20/microsoft-cloud-katana-open-source.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 38
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130822REDMackieCloudSecurity2.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
     excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."

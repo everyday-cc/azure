@@ -170,6 +170,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Cloud Katana Released as Open Source for Testing Cloud Security"
+    excerpt: "Microsoft announced on Thursday that it is releasing Cloud Katana as an open source code project for assessing 'security controls in the cloud and hybrid cloud environments.'"
+    publishedDateTime: 2021-08-20T22:55:00Z
+    webUrl: "https://redmondmag.com/articles/2021/08/20/microsoft-cloud-katana-open-source.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 38
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130822REDMackieCloudSecurity2.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "As Microsoft Azure Evolves, Channel Opportunities Expand"
     excerpt: "Fueled by its Azure business, Microsoft is poised to be well positioned in the office productivity space for years to come, and channel partners are going to benefit as a result. This was a clear ..."
     publishedDateTime: 2021-02-18T00:00:00Z
