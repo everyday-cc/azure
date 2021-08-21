@@ -7,7 +7,7 @@ price: Free
 length: PT18M
 ratings:
   count: 120
-  average: 4.7833333
+  average: 4.7916665
 heat: 50
 
 provider:
