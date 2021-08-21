@@ -4,6 +4,93 @@
   "page": 32,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-dlp-policy-to-protect-documents.md",
+      "title": "Create a DLP policy to protect documents",
+      "excerpt": "Create a DLP policy to protect documents",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-dlp-policy-to-protect-documents/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dlp-policy-to-protect-documents/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 6,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-image-recognition-with-azure-iot-edge.md",
+      "title": "Create an image recognition solution with Azure IoT Edge and Azure Cognitive Services",
+      "excerpt": "This is a computer vision solution using Azure IoT Edge",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-image-recognition-with-azure-iot-edge/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-image-recognition-solution-iot-edge-cognitive-services/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 6,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/create-image-recognition-solution-iot-edge-cognitive-services-social.png",
+          "width": 1280,
+          "height": 640,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-implement-application-allowlists-with-adaptive-application-control.md",
       "title": "Create and implement application allowlists with adaptive application control",
       "excerpt": "You'll be able to implement Adaptive application controls within your organization to protect your Windows Server IaaS VMs.",
@@ -357,8 +444,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-nodejs-project-dependencies/",
       "length": "PT25M",
       "ratings": {
-        "count": 478,
-        "average": 4.759414
+        "count": 479,
+        "average": 4.7578287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -785,8 +872,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-clusters-azure-cyclecloud/",
       "length": "PT2H2M",
       "ratings": {
-        "count": 6,
-        "average": 4.1666665
+        "count": 7,
+        "average": 4.285714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1201,94 +1288,6 @@
         "Azure",
         "DevOps",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-azure-databricks-models-azure-machine-learning.md",
-      "title": "Deploy Azure Databricks models in Azure Machine Learning",
-      "excerpt": "Deploy Azure Databricks models in Azure Machine Learning",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-azure-databricks-models-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-databricks-models-azure-machine-learning/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-azure-functions.md",
-      "title": "Automate Azure Functions deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for Azure Functions.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 439,
-        "average": 4.66287
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-azure-functions-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Serverless"
       ]
     }
   ],
