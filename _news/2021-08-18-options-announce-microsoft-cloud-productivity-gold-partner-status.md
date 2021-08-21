@@ -377,8 +377,8 @@ related:
     quality: 17
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-    publishedDateTime: 2021-08-17T15:02:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/08/17/9431959.htm"
+    publishedDateTime: 2021-08-17T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
     type: article
     provider:
       name: TMCnet

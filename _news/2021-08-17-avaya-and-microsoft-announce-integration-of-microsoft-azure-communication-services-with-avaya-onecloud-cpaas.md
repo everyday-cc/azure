@@ -2,9 +2,9 @@
 category: news
 title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
 excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-publishedDateTime: 2021-08-17T15:02:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2021/08/17/9431959.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2021/08/17/9431959.htm"
+publishedDateTime: 2021-08-17T12:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
 type: article
 quality: 15
 heat: -1
@@ -427,6 +427,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "CHYNjCTUbZTctn7JFWkQ+xNXsYVcUymZP5ltOM3W0FcYCFGApI38X/sXF3ZVYG+EcSerbzVEGyG9pggrRYjZI5/idTaK9pE4Miw4kEamCWIs9n9puytFMvZwY49klMDCNx1tudT6Plvo1yyBhjm4mH0GAzaqN6WRCvXLj4hd3dVZYvHgXyCJiJCzs4DmHBxe4lgfKHmFFheRBbmPCOrXXf5jWbvRdCxnV8DdUiq64mxDQzHjuLrNeVDqxaAVPdLvy1d6VaY969Vn3wxz3QcUbQGW9j+Y3AdQ0S+gfgVxMH1COUq0ZpEp+PHxmAD94HJFOQ48OXoL/ay+gslnabcFP0RSuenKECxgAEf8uKmb+Kc=;AY1XYpDjBKM4asBir285Ug=="
+secured: "Tsx7KgTZQqWUbzcnhBOi1KQQZE8oMlFsvWIo5pE8MDUupWYmrd6lTR1SstunYAn6cOUeh+Vzszw/gmKj//VqsokcIuzEogCW+2lajhiLWx5mWF6jkobNZX/3u6dLpOd7TpE/mrfki6nhdR/UGp4vD1sB7kvjkyR50hOo1SlwVCo2izRGoyINxpv17/ouX4nu3BkyCiU4XOt1m90vgTdY6EueZcG+gcXwyDKOSZf360ZlUNMMWKtsZMYpaUcezqpLnF0VEXtFk22KdftRzu0PDjMNgn/diGFvevfYwTop9BwnZhRFma0hn5mUpvLSklE3OYbz+xOJRg/KZZZisM47ph0XEV3WB1AsJcuzFRGX5os=;4w5Hw1bN2f7WA1J/esLIUA=="
 ---
 
