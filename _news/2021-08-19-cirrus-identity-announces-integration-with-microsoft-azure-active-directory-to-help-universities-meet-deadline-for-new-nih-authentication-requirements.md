@@ -2,26 +2,28 @@
 category: news
 title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
 excerpt: "Aug. 18, 2021 /PRNewswire/ -- On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active ..."
-publishedDateTime: 2021-08-18T19:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
-webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
+publishedDateTime: 2021-08-18T18:53:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
+webUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
 type: article
-quality: 66
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Identity
   - Integration
+
+images:
+  - url: "https://mma.prnewswire.com/media/1597470/Cirrus_Identity_Logo.jpg?p=facebook"
+    width: 868
+    height: 454
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -87,6 +89,22 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
         width: 1800
         height: 900
+        isCached: true
+  - title: "Microsoft: Azure Is The Ace In The Hole"
+    excerpt: "This shows how crucial cloud computing is becoming to Microsoft. The biggest winners in the fourth quarter by far were cloud services ((Azure, Office 365 and Dynamics 365)), along with LinkedIn."
+    publishedDateTime: 2021-08-15T11:21:00Z
+    webUrl: "https://seekingalpha.com/article/4449557-microsoft-stock-azure-likely-power-future-growth"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4449557-microsoft-stock-azure-likely-power-future-growth"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4449557-microsoft-stock-azure-likely-power-future-growth"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 57
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/84216309/medium_image_84216309.jpg"
+        width: 768
+        height: 551
         isCached: true
   - title: "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS"
     excerpt: "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform"
@@ -452,6 +470,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "cM0ozyk7Zlg+mH0S2i/fzIKOCVYNa5Dx7Er3ole9U9q4H3WSvFW+Aki6482+pNGWeOmbNUB8x7J2xL35AmyKoSGaku6w9eRwaouvB08/lDUtLe15JCWZ4MubzTj9Rr9seiK4Uls9cvBvu0A4pXIIM1psZTE07K1VlhUmSLtttsQn01Y2uP6GH70K6dBPaJedGkXEiTDxHWbvSWqx0zddO13L1CSPog1uzOj+3HOZ5cRpK02V+orAU2bJlekKRYi3pTUTxzclrhwdnOTxHC9la8ZFLK+DiONmIUPcmEe44FOrFHr7HXETOc9PYUbufR2jpXR3NV/3Q8E2h+qao99BSuSQ46fFKKyq4cFTxLsOYNE=;/UYoRlicMXDYxFohxJexFw=="
+secured: "feLvCOJcOIzBoZzdwFJps6eGyI1C/9F3Gc24mYtXnCuB97acQmXHmEC15mn2F7rm8UyvjZIjsFIR6moRQQiidbZe3oK2rDcaBOokUvgRSmU6NOMHQCcgHheSOyXJrYXj6SmfiwQ6y23CuMk9UkYfgd/uenhhoFmZu5FjxFgj1+osXBAYnQak+OFheM2Sb+skcvoU+CgxfO20fCDKl9WNqzGQkDrNQXOHih6zhEXUF1HJ/H8Fdj1+IVdVneCXofFAj/a+SW1ENGAfjFaVAD04Z8pYobOjEYevyBFq96rsP7UEZ6ksxwtidwbqrC1c8XMH57/gh25Yji4apxBtcVVCQPVcTxVT9XRprsPM7rcdR+Y=;fRU6L6HhNxX0AWDVyy2B6A=="
 ---
 

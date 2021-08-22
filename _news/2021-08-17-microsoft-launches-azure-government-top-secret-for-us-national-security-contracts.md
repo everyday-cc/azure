@@ -41,15 +41,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-    excerpt: "Aug. 18, 2021 /PRNewswire/ -- On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active ..."
-    publishedDateTime: 2021-08-18T19:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
     excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
     publishedDateTime: 2021-08-19T20:59:00Z
@@ -97,6 +88,22 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
         width: 1800
         height: 900
+        isCached: true
+  - title: "Microsoft: Azure Is The Ace In The Hole"
+    excerpt: "This shows how crucial cloud computing is becoming to Microsoft. The biggest winners in the fourth quarter by far were cloud services ((Azure, Office 365 and Dynamics 365)), along with LinkedIn."
+    publishedDateTime: 2021-08-15T11:21:00Z
+    webUrl: "https://seekingalpha.com/article/4449557-microsoft-stock-azure-likely-power-future-growth"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4449557-microsoft-stock-azure-likely-power-future-growth"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4449557-microsoft-stock-azure-likely-power-future-growth"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 57
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/84216309/medium_image_84216309.jpg"
+        width: 768
+        height: 551
         isCached: true
   - title: "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS"
     excerpt: "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform"
@@ -157,6 +164,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 54
+  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
+    excerpt: "Aug. 18, 2021 /PRNewswire/ -- On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active ..."
+    publishedDateTime: 2021-08-18T18:53:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/1597470/Cirrus_Identity_Logo.jpg?p=facebook"
+        width: 868
+        height: 454
+        isCached: true
   - title: "Microsoft Cloud Katana Released as Open Source for Testing Cloud Security"
     excerpt: "Microsoft announced on Thursday that it is releasing Cloud Katana as an open source code project for assessing 'security controls in the cloud and hybrid cloud environments.'"
     publishedDateTime: 2021-08-20T22:55:00Z

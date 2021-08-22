@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
-excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2021-08-17T13:07:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
+title: "Microsoft: Azure Is The Ace In The Hole"
+excerpt: "This shows how crucial cloud computing is becoming to Microsoft. The biggest winners in the fourth quarter by far were cloud services ((Azure, Office 365 and Dynamics 365)), along with LinkedIn."
+publishedDateTime: 2021-08-15T11:21:00Z
+originalUrl: "https://seekingalpha.com/article/4449557-microsoft-stock-azure-likely-power-future-growth"
+webUrl: "https://seekingalpha.com/article/4449557-microsoft-stock-azure-likely-power-future-growth"
+ampWebUrl: "https://seekingalpha.com/amp/article/4449557-microsoft-stock-azure-likely-power-future-growth"
+cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4449557-microsoft-stock-azure-likely-power-future-growth"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/84216309/medium_image_84216309.jpg"
+    width: 768
+    height: 551
     isCached: true
 
 related:
@@ -87,22 +89,6 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender_(1).jpg"
         width: 1800
         height: 900
-        isCached: true
-  - title: "Microsoft: Azure Is The Ace In The Hole"
-    excerpt: "This shows how crucial cloud computing is becoming to Microsoft. The biggest winners in the fourth quarter by far were cloud services ((Azure, Office 365 and Dynamics 365)), along with LinkedIn."
-    publishedDateTime: 2021-08-15T11:21:00Z
-    webUrl: "https://seekingalpha.com/article/4449557-microsoft-stock-azure-likely-power-future-growth"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4449557-microsoft-stock-azure-likely-power-future-growth"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4449557-microsoft-stock-azure-likely-power-future-growth"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 57
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/84216309/medium_image_84216309.jpg"
-        width: 768
-        height: 551
         isCached: true
   - title: "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS"
     excerpt: "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform"
@@ -246,6 +232,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Datawiza AMaaS Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced availability of Datawiza AMaaS in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-08-17T13:07:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-e0d3fe3b0a6a269d8560bbefd80df9f6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft to commercialize Azure datacenter in Taiwan in 2H22"
     excerpt: "Microsoft is scheduled to kick off operations at its new Azure datacenter in Taiwan in the second half of 2022, which may prompt other web service giants including Amazon Web Services (AWS) to accelerate building similar facilities in the country,"
@@ -468,6 +468,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "lQrg8pfzKkoMM7KltsYzeru3R2nh4yyAROR0Ew1erXrK6LHEP5V8bLILvuuboga4k8KKSRRJfAPgslxPPB+YxnS3voh/c8Pu6fc76ZO4RFKVMYbVdNYmpxdlvtZlGJXZenHUfi7jYQIkfkaSbKKFTuTWp/rO5S0BCKLxqm1koNmRpHwosDwoZ5ixkRyugCt22PAbVfdm2TO77Q8U6Dz8vmRlhkPnCWhk0KvkURaTLOzynGpDYTH8fCynu2SshT8t06jPf5zpDhaO8X5vD0vx5yjOFVL/qV55CTe3YjCZoaRZrgY5wropxGYRVo6fyQ/Eg+XuF2RKxUXiGy7sN053dW08Ro3Pvi/A1arDm2rXFeY=;ARLjjHdJ55qzTlvziOD7cQ=="
+secured: "GathvTtQdFvF/tlxFR8B2Cwe1aH0r7FlkcEJtq8S9eGB5C0L1oeXj8VQj48jj8mAnMER3yQwR7EfGE+ZL1yGEO4PDRwyGejrwHRgoZbfhXP5wu/HwNcLYrX+Oc4I8S95d1/yoACYecaLWAJ/XbXWXv0MAVqvoElqLELSKnXlw6StV9gwQ+fSebRb3/coNGQhixPoyX+/boeHMpHaSHBb74V6MgW0Lo2yfzXRAu6zKpJ703GUeMmr2H/bM2a21/P9rUyVHtxrshJfJhe5/dEiG70jpRdWuqDS+MyBx1bjvjbS4vJQb2g8A6mokgfHu5pTOftO1dsLiQh3n5Q9nzyqYdUiLhWeMet1IdmBg7hcMp0=;hLYvR7XgSiur6pvtEbES7A=="
 ---
 
