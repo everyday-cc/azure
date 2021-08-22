@@ -3,8 +3,8 @@ category: news
 title: "Edible Arrangements grows business with Microsoft Azure"
 excerpt: "Edible Arrangements is using Microsoft Azure Synapse Analytics to grow its business by getting insights into its retail operations, supply chain and inventory demands, helping it to make more informed business decisions."
 publishedDateTime: 2021-08-17T11:36:00Z
-originalUrl: "https://www.technologyrecord.com/Article/edible-arrangements-grows-business-with-microsoft-azure-125408"
-webUrl: "https://www.technologyrecord.com/Article/edible-arrangements-grows-business-with-microsoft-azure-125408"
+originalUrl: "https://www.technologyrecord.com/Home/edible-arrangements-grows-business-with-microsoft-azure-125409"
+webUrl: "https://www.technologyrecord.com/Home/edible-arrangements-grows-business-with-microsoft-azure-125409"
 type: article
 quality: 37
 heat: -1
@@ -1998,6 +1998,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "AxRhtX4LGdJ5oNcDO1KqeKzmqvXxjfCGSrMsjj7rvTxxTdsm2TW04ek2ifSC4DmTOpv3froQhn7ia4HQxa7g2S3SompBJEM494zy4npfjMJ92Voeoug7bL+/KMDUP/1eHmXPrTajJO7a0BX0+4wiMXrSJGu/LqghaYSJMZeanR1P8ZdwqySphzTwY14woGexDuWO0Nx51RJVOSIHpYgk8FPj6vfHtfsnZA+gfk8HcCrrUbxy3j+0+HHr7nRIdFutt9IedpM9Hlnz+QOMbsWc146PRmjIsSywOSaZf6kVpAPdWgk6mil/9wOFYBIHwJ3hABjBJDN8uBsrzIPCj3cCb1XWDM7vMnyiVmFIXk2TcUZUNQQ2ACo7VCIjRXUfXNZfBLH3yodZ2ywHHAiziXroh/L2DHIeZgt6PEMKgeRzKSuNDCUpVK4ooGj4iEwHO5VAdn1IABHZTWzmdocgxKFEDU3W7CL52eaqoO6y4Q4/fXfcmuNeTXiNSQRkWmq889xtJUlMXKEPCPeOHDg1QvYwDw==;AqR+JOxuj8NldpGp98/h+w=="
+secured: "tHs2ivoGkCdoC2f0ajp6KA6iVW3UaPl2pV9G20WIVCH8bUlSVwgNpaAe34ZiuRcfMBuMpdLPEfVytv1TGAGFatYAwLhm4lRO3lw572bHCW3Cnsoffa6jIJ1OBP9nzkIqHHVnAlJDmx8RRYLeFB9bzTf+0ILnH2i/oRMFucwsYFt3Hl1CFcrwhwfE3m6CtYkFaSj/6Ad6kEuULQecub5ZPwBZGyoNYQJ2kqp/8/HTYtLyfZIUx652tDC4uUmWCtwDoEdk0cvuC0pcU2F0/c78KlVjEKEDGk09bkYynJ02eAilOBHJbUkoyvqKJH+5vgkpR76M01R+4C79bqaHUAx8I8zoFYLZnACwGeB02cUbxEI=;pwsG1qD96gCWgiLDslwguw=="
 ---
 
