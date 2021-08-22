@@ -8,7 +8,7 @@ length: PT30M
 ratings:
   count: 47
   average: 4.893617
-heat: 54
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "v9Ze8LyoxZDmUNhVVyyNsHb0U8i5XdRuooeg+TpRU2NYamgzNQ74bIM5l626dcE/xDEuKigtVrc9AXOelhYCMCuqvnl3NJRDzSbAGYKSSmxfrlfMMy3WrxxM6jlEoEafe2TStq+soVqoBv5iX31sA3bjLPXZmOH4+MyTOUZ7kWDqjsmLHT9Vdj4y8ir9PVCCQsTLsjq2PLuUjTMsbJmvz+cDNFqvrLhMuZeA2Hwo0rzRhvrSSFKc/wPhoX8zhwu19fdYvsHK6nzIzfNylZYTnq70kvKuyirjG6m3qRcmyGHQb/deGm1hlydU/KPyudP+72PzvlzMP3WSjS4aRoRiwET2ItSvP0EEcAj285PTcFzhbYCs8tb01Ei8Gf17axIBTz4mw6xmXUUQ5twh29AQ8rneBzIpJ2GT3fJye4K44nk=;9lXgsPwTafpaNB9VC4zV4Q=="
+secured: "A1ewR81n2QhiUpcrNmuUIL8zUDeiKTcCJlhzkmUzoW4HwFo4SQqvPhv21iX+yULtKdlQ+/Ih1XQZd3H/WBm5wq4xQxAnoEeT60DNAsA9h1FNU7sNZmTSrbMVOxgoU/pn6fVNiyq0SbJ0bTVutWsr4/ReNZYfN/ZPEXS/eg+CTAM3KA/nLs4DcobtESCGLDrErS2daiSkJDJ0v/3OcXzJ9yEZGDtVi+rBKwUO5/0gGW7K1b4LOeTpn9UzN0wM+teD60nF6A9L6KsM+FTF5gq+wBRHG39fufE5/ti+g6PW+uLDiG3CfuIp6WCcIGA1YWA3yzAQYUsF1gW+z2Dp/TjBOu5jgamwEULYzkWGh+sVfg/KHgEIZZ6jWuQdnZHqJYMIO16zxu01fdmg+1JCLaYRc9q545XwiFpBTuQJ2CA1qy0=;gFSDpxdg7tcqp71uc6ssUw=="
 ---
 
