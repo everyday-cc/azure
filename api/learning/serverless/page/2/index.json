@@ -4,84 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/microsoft-azure-friday-serverless-apis-with-azure-function-proxies.md",
-      "title": "Azure Friday | Serverless APIs with Azure Function Proxies",
-      "excerpt": "Alex Karcher joins Donovan Brown to discuss Azure Function Proxies, the serverless API toolbox. Proxies give you a truly serverless experience to manage your APIs with dynamic billing and scaling, and a super simple setup process.  For more information, see:  Azure Functions Proxies is now Generally",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-azure-friday-serverless-apis-with-azure-function-proxies/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-azure-friday-serverless-apis-with-azure-function-proxies/",
-      "originalUrl": "https://youtube.com/watch?v=k9SgpP14-K8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k9SgpP14-K8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M54S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-03-08T10:35:55-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/k9SgpP14-K8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday.md",
-      "title": "Durable functions in Python for Azure Functions | Azure Friday",
-      "excerpt": "David Justo joins Scott Hanselman to discuss durable functions in Python, which is an extension of Azure Functions for writing stateful functions in a serverless compute environment. The extension is already available for C# and JavaScript and is now available for Python.  0:00 – Introduction 1:38 –",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=HZgjmb9Y_IM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HZgjmb9Y_IM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M19S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-12T01:36:57-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HZgjmb9Y_IM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-go-serverless-big-data-processing-with-azure-event-hubs-for-apache-kafka-azure-friday.md",
       "title": "Go serverless: Big data processing with Azure Event Hubs for Apache Kafka | Azure Friday",
       "excerpt": "Working with Apache Kafka and want to simplify management of your infrastructure? Lena Hall joins Scott Hanselman to show you can keep using Apache Kafka libraries for hundreds of projects, and try Azure Event Hubs behind the scenes to focus on code instead of maintaining infrastructure.  4:44 - Demo",
@@ -437,15 +359,214 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
-      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
-      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
-      "length": "PT55M",
+      "path": "_learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure.md",
+      "title": "Build serverless, full stack applications in Azure",
+      "excerpt": "Learn how to create, build, and deploy modern full stack applications in Azure by using the language of your choice (Python, Node.js, or .NET) and with a Vue.js frontend. Topics covered include modern database capabilities, CI/CD and DevOps, backend API development, REST, and more. Using a real-world scenario of trying to catch the bus, you will learn how to build a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure/",
+      "length": "PT2H55M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-foundation-modern-apps.md",
+          "title": "Architect modern applications using Azure SQL Database",
+          "excerpt": "Break down a scenario for an application and build a multi-service solution based on the microservices approach. Learn how to use modern database capabilities to build a foundation for applications.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-foundation-modern-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-foundation-modern-apps/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 43,
+            "average": 4.7674417
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate",
+            "Beginner",
+            "Advanced"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-foundation-modern-apps-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Storage",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-backend-apis.md",
+          "title": "Deploy serverless APIs with Azure Functions, Logic Apps, and Azure SQL Database",
+          "excerpt": "In the language of your choice (Node.js, Python, or .NET), learn how to deploy an Azure Function that adds real-time data to an Azure SQL Database and triggers an Azure Logic App for notifications, all with GitHub Actions for CI/CD.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-backend-apis/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-backend-apis/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 25,
+            "average": 4.52
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/deploy-backend-apis-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Compute",
+            "Serverless",
+            "IoT",
+            "Blockchain",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
+          "title": "Architect full-stack applications and automate deployments with GitHub",
+          "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 26,
+            "average": 4.8076925
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/automate-deployments-github-actions-azure-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Compute",
+            "Serverless",
+            "IoT",
+            "Blockchain",
+            "Integration",
+            "Web",
+            "Containers",
+            "Mobile",
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-foundation-modern-apps-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "Web",
+        "Containers",
+        "Mobile",
+        "IoT",
+        "Blockchain",
+        "Integration",
+        "DevOps",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
+      "title": "Architect full-stack applications and automate deployments with GitHub",
+      "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
+      "length": "PT44M",
       "ratings": {
-        "count": 2257,
-        "average": 4.264067
+        "count": 26,
+        "average": 4.8076925
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -460,18 +581,32 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/automate-deployments-github-actions-azure-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage",
+        "Databases",
         "Compute",
         "Serverless",
-        "Databases"
+        "IoT",
+        "Blockchain",
+        "Integration",
+        "Web",
+        "Containers",
+        "Mobile",
+        "DevOps"
       ]
     },
     {
@@ -523,15 +658,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management.md",
-      "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
-      "excerpt": "In this module, you will learn how to assemble multiple Azure Functions into a single API using Azure API Management.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
-      "length": "PT41M",
+      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
+      "title": "Build Serverless APIs with Azure Functions",
+      "excerpt": "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
+      "length": "PT53M",
       "ratings": {
-        "count": 2250,
-        "average": 4.6315556
+        "count": 299,
+        "average": 4.6923075
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -551,7 +686,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/build-serverless-api-with-functions-api-management-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -562,8 +697,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Integration",
-        "Web",
         "Compute",
         "Serverless"
       ]
@@ -707,6 +840,53 @@
         "Analytics",
         "Compute",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search.md",
+      "title": "Create an enrichment pipeline with Azure Cognitive Search",
+      "excerpt": "Use the power of artificial intelligence to enrich your data and find new insights.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 101,
+        "average": 4.6633663
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-an-enrichment-pipeline-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Compute",
+        "Serverless",
+        "Storage",
+        "Web"
       ]
     },
     {
@@ -1113,6 +1293,52 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
+      "title": "Choose an Azure service for deploying your Java application",
+      "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-java-target-destinations/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 96,
+        "average": 4.8229165
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-microservices-architecture.md",
       "title": "Decompose a monolithic application into a microservices architecture",
       "excerpt": "Improve development agility, deployment, fault tolerance, and scalability by modernizing your application with a microservices architecture.",
@@ -1144,51 +1370,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/microservices-architecture-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet.md",
-      "title": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
-      "excerpt": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api-dotnet/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 199,
-        "average": 4.758794
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-and-api-dotnet-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],

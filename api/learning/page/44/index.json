@@ -4,610 +4,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-migrate-app-service-migration-assistant.md",
-      "title": "Migrate an on-premises web application to Azure App Service",
-      "excerpt": "Use the Azure App Service Migration Assistant to assess the readiness of a web app to be deployed on App Service, and perform the migration.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-app-service-migration-assistant/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-app-service-migration-assistant/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 135,
-        "average": 4.762963
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Migration",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db.md",
-      "title": "Migrate Cassandra workloads to Cosmos DB",
-      "excerpt": "Migrate Cassandra workloads to Cosmos DB",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-cassandra-workloads-cosmos-db/",
-      "length": "PT14M",
-      "ratings": {
-        "count": 65,
-        "average": 4.769231
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb.md",
-      "title": "Migrate on-premises MongoDB databases to Cosmos DB",
-      "excerpt": "Migrate MongoDB workloads to Cosmos DB",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mongodb-databases-azure-database-mongodb/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 82,
-        "average": 4.804878
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-mongodb-databases-to-cosmos-db-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-premises-mysql-databases-azure-database-mysql.md",
-      "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
-      "excerpt": "&quot;Migrate on-premises MySQL to Azure Database for MySQL&quot;",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-premises-mysql-databases-azure-database-mysql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mysql-databases/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 136,
-        "average": 4.7941175
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql.md",
-      "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
-      "excerpt": "Migrate on-premises PostgreSQL to Azure Database for PostgreSQL",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 112,
-        "average": 4.883929
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms.md",
-      "title": "Migrate on-premises Windows Server instances to Azure IaaS virtual machines",
-      "excerpt": "You'll be able to plan a migration and select appropriate server migration tools. You will also learn how to use Azure Migrate, how to assess physical servers, and how to migrate those servers.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-premises-windows-server-instances-azure-iaas-virtual-machines/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 35,
-        "average": 4.7714286
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-windows-server-instances-to-azure-iaas-vms-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-repository-github.md",
-      "title": "Migrate your repository by using GitHub best practices",
-      "excerpt": "Learn to move your existing project to GitHub from a legacy version control system.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-repository-github/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 569,
-        "average": 4.782074
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/migrate-repository-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-sap-workloads-azure.md",
-      "title": "Migrate SAP workloads to Azure",
-      "excerpt": "Migrate SAP workloads to Azure",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-sap-workloads-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sap-workloads-azure/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 246,
-        "average": 4.760163
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrating-sap-workloads-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances.md",
-      "title": "Migrate SQL Workloads to Azure Managed Instances",
-      "excerpt": "Migrate SQL Workloads to Azure Managed Instances",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-managed-instances/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 133,
-        "average": 4.706767
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-managed-instances-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-sql-databases.md",
-      "title": "Migrate SQL Workloads to Azure SQL Databases",
-      "excerpt": "Migrate SQL Workloads to Azure SQL Databases",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-sql-databases/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-sql-databases/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 158,
-        "average": 4.64557
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-sql-databases-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-virtual-machines.md",
-      "title": "Migrate SQL workloads to Azure virtual machines",
-      "excerpt": "Migrate SQL workloads to Azure virtual machines",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-virtual-machines/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 123,
-        "average": 4.634146
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-virtual-machines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-vmware-workloads-on-premises-azure-vmware-solution.md",
-      "title": "Migrate VMware workloads on-premises to Azure VMware Solution",
-      "excerpt": "Learn how to migrate virtual machines from an on-premises VMware environment to Azure VMware Solution by using VMware HCX.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-vmware-workloads-on-premises-azure-vmware-solution/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-vmware-workloads-on-premises-azure-vmware-solution/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 14,
-        "average": 4.928571
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-vmware-workloads-on-premises-azure-vmware-solution-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-model-partition-data-azure-cosmos-db.md",
-      "title": "Model and partition your data in Azure Cosmos DB",
-      "excerpt": "Learn how to identify access patterns. Using those patterns then you can learn to apply modeling and partition strategies to ensure an efficient and scalable deployment of your Azure Cosmos DB instance.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-model-partition-data-azure-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-partition-data-azure-cosmos-db/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 8,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/model-partition-data-azure-cosmos-db-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-models-data.md",
-      "title": "Work with models and data in Django",
-      "excerpt": "Explore models and data in Django. Learn about the object-relational mapper, create your own models, and set up a database.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-models-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/django-models-data/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 46,
-        "average": 4.8913045
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-monitor-azure-cosmos-db.md",
       "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
       "excerpt": "Learn how to measure the performance of your NoSQL Azure Cosmos DB database, by monitoring, partitioning, and indexing",
@@ -682,6 +78,50 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning.md",
+      "title": "Monitor data drift with Azure Machine Learning",
+      "excerpt": "Changing trends in data over time can reduce the accuracy of the predictions made by a model. Monitoring for this data drift is an important way to ensure your model continues to predict accurately.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 1002,
+        "average": 4.792415
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-data-drift-with-azure-machine-learning-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
         "AI"
       ]
     },
@@ -897,6 +337,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms.md",
+      "title": "Monitor performance of virtual machines by using Azure Monitor for VMs",
+      "excerpt": "Learn how to use Azure Monitor for VMs to monitor your organization's Azure virtual machines.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 517,
+        "average": 4.762089
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-performance-using-azure-monitor-for-vms-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances.md",
       "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
       "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
@@ -1106,6 +590,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-operationalize-your-azure-data-factory-pipelines.md",
+      "title": "Operationalize your Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Operationalize your Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-operationalize-your-azure-data-factory-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/operationalize-azure-data-factory-pipelines/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 191,
+        "average": 4.4712043
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/operationalize-your-azure-data-factory-pipelines-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-optimize-basketball-player-rest-breaks.md",
       "title": "Create a web app that uses data to make decisions on the basketball court",
       "excerpt": "Create a web app by using JavaScript, Azure, GitHub, and Visual Studio Code to help the Tune Squad coach use data to make decisions on the basketball court, inspired by SPACE JAM: A NEW LEGACY.",
@@ -1274,6 +801,468 @@
       "topics": [
         "Azure",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-optimize-hpc-application-azure-virtual-machines-series.md",
+      "title": "Optimizing tightly coupled HPC applications on HBv2, HC, and HB series virtual machines",
+      "excerpt": "Learn how to build, run, and tune tightly coupled HPC applications in Azure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-hpc-application-azure-virtual-machines-series/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-tightly-coupled-hpc-apps/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 8,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-optimize-model-performance-roc-auc-dropout.md",
+      "title": "Measure and optimize model performance with ROC and AUC",
+      "excerpt": "Receiver operator characteristic curves are a powerful way to assess and fine-tune trained classification models. We introduce and explain the utility of these curves through learning content and practical exercises.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-model-performance-roc-auc-dropout/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-performance-roc-auc/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 20,
+        "average": 4.55
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-optimize-performance-and-costs-using-azure-disk-storage.md",
+      "title": "Optimize performance and costs using Azure Disk Storage",
+      "excerpt": "Microsoft Azure Disk Storage offers a range of disk types and capabilities that enable you to optimize application performance and costs in specific scenarios. In this module, you'll learn more about how disk performance works, identify Azure Disk Storage capabilities, and performance-scaling options.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-performance-and-costs-using-azure-disk-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-performance-and-costs-using-azure-disk-storage/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 7,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-optimize-web-app-with-redis.md",
+      "title": "Optimize your web applications by caching read-only data with Redis",
+      "excerpt": "Use Redis caching in Azure to reduce the load on databases. Apply different caching architectures to support larger loads in distributed and high-volume environments.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-web-app-with-redis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 476,
+        "average": 4.752101
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-optimize-wvd.md",
+      "title": "Optimize Windows Virtual Desktop in Microsoft Azure",
+      "excerpt": "Learn the steps to optimize Windows Virtual Desktop, including how to take advantage of new storage, file management, and automated scaling options.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-optimize-wvd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-optimize-wvd/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 889,
+        "average": 4.7795277
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/optimize-windows-virtual-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-orchestrate-data-movement-transformation-azure-data-factory.md",
+      "title": "Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-orchestrate-data-movement-transformation-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/orchestrate-data-movement-transformation-azure-data-factory/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 252,
+        "average": 4.361111
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/orchestrate-data-movement-transformation-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-organize-blobs-properties-metadata.md",
+      "title": "Organize Azure storage blobs with properties and metadata",
+      "excerpt": "Find out about Azure storage blob properties and metadata, how to organize blob data, and create an app with ASP.NET to retrieve metadata.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-organize-blobs-properties-metadata/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/organize-blobs-properties-metadata/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 73,
+        "average": 4.452055
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/organize-blobs-with-properties-and-metadata-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-output-from-adt-to-downstream-services.md",
+      "title": "Output from Azure Digital Twins to downstream services",
+      "excerpt": "In this module, you'll learn about how Azure Digital Twins uses event routes to send data to consumers outside the service.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-output-from-adt-to-downstream-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-output-from-azure-digital-twins-to-downstream-services/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 61,
+        "average": 4.7377048
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/output-from-adt-to-downstream-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-perform-advanced-streaming-data-transformations-with-spark-kafka.md",
+      "title": "Perform advanced streaming data transformations with Apache Spark and Kafka in Azure HDInsight",
+      "excerpt": "Perform advanced streaming data transformations with Apache Spark and Kafka in Azure HDInsight",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-perform-advanced-streaming-data-transformations-with-spark-kafka/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-advanced-streaming-data-transformations-with-spark-kafka/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 98,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-advanced-streaming-data-transformations-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory.md",
+      "title": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/code-free-transformation-scale/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 352,
+        "average": 4.2926135
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-code-free-transformation-scale-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks.md",
+      "title": "Perform machine learning with Azure Databricks",
+      "excerpt": "Perform machine learning with Azure Databricks",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-machine-learning-with-azure-databricks/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 129,
+        "average": 4.627907
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-machine-learning-with-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
       ]
     }
   ],

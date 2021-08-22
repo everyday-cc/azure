@@ -4,14 +4,57 @@
   "page": 40,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-database-for-mariadb.md",
-      "title": "Introduction to Azure Database for MariaDB",
-      "excerpt": "Describe how Azure Database for MariaDB supports mission-critical workloads with predictable performance and dynamic scalability. Evaluate whether you can implement Azure Database for MariaDB to address your relational database needs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-database-for-mariadb/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-database-for-mariadb/",
-      "length": "PT35M",
+      "path": "_learning/courses/microsoft-learn-intro-to-speech-to-text.md",
+      "title": "Introduction to Speech-to-text",
+      "excerpt": "Speech-to-text enables the real-time transcription of audio streams into text in more than 90 languages and dialects. Speech-to-text service can be tailored to your voice or vocabulary to build custom recognition models, further enhancing accuracy.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-speech-to-text/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-speech-to-text/",
+      "length": "PT21M",
       "ratings": {
-        "count": 6,
+        "count": 30,
+        "average": 4.766667
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-text-to-speech.md",
+      "title": "Introduction to Text-to-speech",
+      "excerpt": "Text-to-speech converts text into human-like speech, along with the ability to create a unique, custom voice to use in your applications. We introduce the different types of voices, how to use them, and review situations when they are appropriate to use.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-text-to-speech/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-text-to-speech/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 19,
         "average": 5.0
       },
       "provider": {
@@ -30,24 +73,32 @@
         "Beginner"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-text-to-speech-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "AI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-database-for-mysql.md",
-      "title": "Introduction to Azure Database for MySQL",
-      "excerpt": "Describe how Azure Database for MySQL supports mission-critical workloads with predictable performance and dynamic scalability. Determine whether you should implement Azure Database for MySQL to address your relational database needs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-database-for-mysql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-database-for-mysql/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-intro-to-transact-sql.md",
+      "title": "Introduction to Transact-SQL",
+      "excerpt": "Introduction to Transact-SQL",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-transact-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
+      "length": "PT56M",
       "ratings": {
-        "count": 8,
-        "average": 4.875
+        "count": 299,
+        "average": 4.7892976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -65,6 +116,14 @@
         "Beginner"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-sql-server-and-query-tools-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -74,15 +133,58 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-devtest-labs.md",
-      "title": "Introduction to Azure DevTest Labs",
-      "excerpt": "Evaluate whether Azure DevTest Labs is appropriate for setting up virtual machine environments for your team.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-devtest-labs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-devtest-labs/",
-      "length": "PT47M",
+      "path": "_learning/courses/microsoft-learn-intro-to-translator.md",
+      "title": "Introduction to Translator",
+      "excerpt": "Translator is a cloud-based service that uses Artificial Intelligence to reliably translate text and documents between languages in near real time. You can add multi-language user experiences to your apps in 90 languages and dialects, along with free text translation with any operating system. Translator also has customizable translation models that can better understand industry-specific terminology or pronouns.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-translator/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-translator/",
+      "length": "PT31M",
       "ratings": {
-        "count": 11,
-        "average": 4.818182
+        "count": 27,
+        "average": 4.851852
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-translator-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
+      "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+      "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduce-foundation-pillars-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 3680,
+        "average": 4.6980977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -109,507 +211,11 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-dsvm.md",
-      "title": "Introduction to the Azure Data Science Virtual Machine",
-      "excerpt": "Azure provides some pre-configured virtual machine images specifically designed for data science.  Learn how you can use these to get a jump start on your data science work.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-dsvm/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dsvm/",
-      "length": "25 mins",
-      "ratings": {
-        "count": 963,
-        "average": 4.593977
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/intro-to-azure-dsvm-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to the Azure Data Science Virtual Machine",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-firewall-manager.md",
-      "title": "Introduction to Azure Firewall Manager",
-      "excerpt": "Describe how Azure Firewall Manager provides central security policy and route management for your cloud-based security perimeters. Determine whether Azure Firewall Manager can help you secure your cloud perimeters.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-firewall-manager/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-firewall-manager/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 20,
-        "average": 4.85
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-front-door.md",
-      "title": "Introduction to Azure Front Door",
-      "excerpt": "Azure Front Door provides a fast, reliable, and secure modern cloud content delivery network, integrated with intelligent threat protection.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-front-door/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-front-door/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 26,
-        "average": 4.6923075
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-government.md",
-      "title": "Introduction to Azure Government",
-      "excerpt": "Learn how to use Azure Update Management to update virtual machines, verify agent connectivity, and use Azure log analytics in your cloud environment.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-government/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-government/",
-      "length": "PT1H20M",
-      "ratings": {
-        "count": 331,
-        "average": 4.7854986
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-government-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-hdinsight.md",
-      "title": "Introduction to Azure HDInsight",
-      "excerpt": "Evaluate whether Azure HDInsight can help your organization process big data. Describe how Azure HDInsight uses popular open-source frameworks that support many scenarios including extract, transform, data-warehousing, and others.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-hdinsight/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-hdinsight/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 27,
-        "average": 4.851852
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-hybrid-services.md",
-      "title": "Introduction to Azure hybrid cloud services",
-      "excerpt": "Get an introductory overview of hybrid cloud technologies and how you can connect an on-premises environment to Azure in a way that works best for your organization.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-hybrid-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-hybrid-services/",
-      "length": "PT1H14M",
-      "ratings": {
-        "count": 32,
-        "average": 4.84375
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-lighthouse.md",
-      "title": "Use Azure Lighthouse with your managed service business",
-      "excerpt": "Learn about and adopt Azure Lighthouse for your managed service business to manage your customers at scale.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-lighthouse/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-lighthouse/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 77,
-        "average": 4.714286
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-ml.md",
-      "title": "Introduction to Azure Machine Learning",
-      "excerpt": "Azure Machine Learning provides your software with automated data identification and extraction from your documents. Using an SDK or REST, the AI-powered service decreases, or can completely eliminate, time spent on and errors in data entry, while also making it easier to utilize your data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-ml/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ml/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 22,
-        "average": 4.909091
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-remote-rendering.md",
-      "title": "Introduction to Azure Remote Rendering",
-      "excerpt": "Azure Remote Rendering enables you to render high-quality, interactive 3D content in the cloud. You can stream this content in real time to devices, such as the HoloLens 2.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-remote-rendering/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-remote-rendering/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 10,
-        "average": 4.9
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
-      "title": "Introduction to Azure Sentinel",
-      "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 871,
-        "average": 4.7967854
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-sql-edge.md",
-      "title": "Introduction to Azure SQL Edge",
-      "excerpt": "Azure SQL Edge is an optimized relational database engine geared for IoT and IoT Edge deployments. It provides capabilities to create a high-performance data storage and processing layer for IoT applications and solutions.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-sql-edge/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sql-edge/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 9,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-batch-stt.md",
-      "title": "Transcribe large amounts of audio data with Batch Transcription",
-      "excerpt": "Batch Transcription is an Azure cognitive service that enables you to transcribe large amounts of pre-recorded audio data asynchronously. Batch Transcription’s high throughput makes it ideal for call centers that have to transcribe hundreds or thousands of calls every day to ensure they meet regulations and compliance standards. Batch Transcription also enables better data analyses, which can let call centers ensure that customer feedback is taken into account, staff are treated fairly, and to ensure problems are dealt with quickly and properly.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-batch-stt/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-batch-transcription/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-bot-service-bot-framework-composer.md",
-      "title": "Introduction to Azure Bot Service and Bot Framework Composer",
-      "excerpt": "Introduction to Azure Bot Service and Bot Framework Composer",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-bot-service-bot-framework-composer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-bot-service-bot-framework-composer/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 8,
-        "average": 4.875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-cloud-native-apps.md",
-      "title": "Introduction to cloud-native apps on Azure",
-      "excerpt": "This module teaches concepts and ideas associated with cloud-native apps. We cover selecting Open-Source Software (OSS) components like Kubernetes and PostgreSQL, as well as unique Azure tools like Cosmos DB. We’ll also identify situations that call for building cloud-native apps, and review selecting components in an example scenario.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-cloud-native-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-cloud-native-apps/",
+      "path": "_learning/courses/microsoft-learn-introduction-azure-hpc-cache.md",
+      "title": "Introduction to Azure HPC Cache",
+      "excerpt": "Evaluate whether Azure HPC Cache is appropriate for improving the productivity of your high-performance computing applications.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-azure-hpc-cache/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-hpc-cache/",
       "length": "PT27M",
       "ratings": {
         "count": 4,
@@ -633,9 +239,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-cloud-native-apps-social.png",
-          "width": 1280,
-          "height": 641,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -647,15 +253,57 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-content-moderator.md",
-      "title": "Introduction to Content Moderator",
-      "excerpt": "Discover how Content Moderator can evaluate text, images, and video, for appropriateness.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-content-moderator/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-content-moderator/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-introduction-azure-sap-workloads.md",
+      "title": "Introduction to Azure for SAP workloads",
+      "excerpt": "With the recently expanded partnership between Microsoft and SAP, you can run SAP applications across development, test, and production scenarios in Azure, taking advantage of the scalability, flexibility, and cost savings of Microsoft Azure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-azure-sap-workloads/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-sap-workloads/",
+      "length": "PT50M",
       "ratings": {
-        "count": 24,
-        "average": 4.75
+        "count": 780,
+        "average": 4.8064103
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-sap-workloads-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-data-platform-modernization.md",
+      "title": "Introduction to data platform modernization",
+      "excerpt": "Introduction to data platform modernization",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-data-platform-modernization/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-data-platform-modernization/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 80,
+        "average": 4.7875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -686,18 +334,479 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "Databases",
+        "Analytics"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-custom-commands.md",
-      "title": "Introduction to Custom Commands",
-      "excerpt": "Custom Commands makes it easy to build voice commanding apps optimized for voice-first interaction experiences. It provides a straightforward authoring and hosting experience on a single interface, helping you to focus on building the best solution for your voice-commanding scenarios.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-custom-commands/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-custom-commands/",
-      "length": "PT21M",
+      "path": "_learning/courses/microsoft-learn-introduction-data-protection-privacy.md",
+      "title": "Intro to data protection and privacy regulations",
+      "excerpt": "Learn and understand the key terms and concepts of data protection, privacy regulation, and data processing. Describe, at a high level, the key Azure technologies that pertain to data protection and compliance.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-data-protection-privacy/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-protection-privacy/",
+      "length": "PT49M",
       "ratings": {
-        "count": 3,
+        "count": 16,
+        "average": 4.875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-lambda-architecture-iot-solutions.md",
+      "title": "Introduction to implementing lambda architecture for IoT solutions",
+      "excerpt": "An overview of the concepts and resources behind storage technologies used in IoT applications on Azure. After completing the module, you can determine when to use Blob storage, Data Lake storage, Azure Cosmos DB, and Time Series Insights.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-lambda-architecture-iot-solutions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 634,
+        "average": 4.66877
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Storage",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-analytics-offering.md",
+      "title": "Introduction to the Open source Analytics Offering",
+      "excerpt": "Introduction to the Open source Analytics Offering",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-open-source-analytics-offering/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-open-source-analytics-offering/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 271,
+        "average": 4.6605167
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-the-open-source-analytics-offering-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db.md",
+      "title": "Introduction to open source database migration to Azure Cosmos DB",
+      "excerpt": "An introduction to migrating an open-source database to Azure Cosmos DB",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 92,
+        "average": 4.7391305
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-probability.md",
+      "title": "Introduction to probability",
+      "excerpt": "Learn",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-probability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-probability/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 121,
+        "average": 4.710744
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-probability-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-python-nasa.md",
+      "title": "Introduction to Python for space exploration",
+      "excerpt": "Get an introduction to the types of space exploration problems that Python and data science can influence.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-python-nasa/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 1217,
+        "average": 4.769926
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-nasa-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-python-using-datascience-library.md",
+      "title": "Introduction to Python using the datascience library",
+      "excerpt": "Learn about Python expressions, functions, basic data types(numbers, strings), and comparisons",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-python-using-datascience-library/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-using-datascience-library/",
+      "length": "PT1H28M",
+      "ratings": {
+        "count": 293,
+        "average": 4.648464
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-using-datascience-library-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-api-management.md",
+      "title": "Introduction to Azure API Management",
+      "excerpt": "Evaluate whether Azure API Management is appropriate for managing and exposing your organization's APIs",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-api-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-api-management/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 29,
+        "average": 4.827586
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-backup.md",
+      "title": "Introduction to Azure Backup",
+      "excerpt": "Evaluate whether Azure Backup is appropriate to use for your backup needs and describe how the features of Azure Backup work to provide backup solutions for your needs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-backup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-backup/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 15,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage.md",
+      "title": "Introduction to Azure Data Lake storage",
+      "excerpt": "Discover how Data Lake Storage provides a repository where you can upload and store unstructured data bringing new efficiencies to processing big data analytics.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 2190,
+        "average": 4.708219
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-digital-twins.md",
+      "title": "Introduction to Azure Digital Twins",
+      "excerpt": "This module provides an overview of Azure Digital Twins and describes Microsoft tools, services, and infrastructure. This knowledge can help bring digital twins to life for your organization and customers.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-digital-twins/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-digital-twins/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 105,
+        "average": 4.7904763
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/introduction-to-azure-digital-twins-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-identity-protection.md",
+      "title": "Examine Azure Identity Protection",
+      "excerpt": "Examine Azure Identity Protection",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-identity-protection/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-identity-protection/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 8,
         "average": 5.0
       },
       "provider": {
@@ -713,14 +822,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/identity-management-protection-social.png",
+          "width": 1280,
+          "height": 641,
           "isCached": true
         }
       ],
@@ -729,16 +838,16 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "Identity"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-endpoint-manager.md",
-      "title": "Introduction to Microsoft Endpoint Manager",
-      "excerpt": "In this module, you'll learn about the basics of Microsoft Endpoint Manager.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-endpoint-manager/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-endpoint-manager/",
-      "length": "PT25M",
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-iot-central.md",
+      "title": "Introduction to Azure IoT Central",
+      "excerpt": "Evaluate whether Azure IoT Central is appropriate to manage your IoT devices.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-iot-central/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-iot-central/",
+      "length": "PT31M",
       "ratings": {
         "count": 4,
         "average": 5.0
@@ -761,265 +870,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-endpoint-manager-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-event-hubs.md",
-      "title": "Introduction to Event Hubs",
-      "excerpt": "Azure Event Hubs connects events from any source to your software systems. This acts as a buffer to provide modular solutions that avoid overwhelming your system during traffic spikes, while still enabling near real-time data pipelines. Event Hubs is fast to set up and designed to allow you to focus on drawing insights from data instead of managing infrastructure. Able to process millions of events per second with low latency, Event Hubs is a modern big data message and event ingestion service that can be seamlessly integrated with other Azure and Microsoft services, such as Stream Analytics, Power BI, and Event Grids, along with outside services like Apache Spark.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-event-hubs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-event-hubs/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 10,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-form-recognizer.md",
-      "title": "Introduction to Form Recognizer",
-      "excerpt": "Form Recognizer provides your software with automated data identification and extraction from your documents. Using an SDK or REST, the AI-powered service decreases, or can completely eliminate, time spent on and errors in data entry, while also making it easier to utilize your data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-form-recognizer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-form-recognizer/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 40,
-        "average": 4.875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-form-recognizer-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-hpc.md",
-      "title": "Introduction to high-performance computing (HPC) on Azure",
-      "excerpt": "Discover the services available on Azure for your high-performance computing workloads.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-hpc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 1506,
-        "average": 4.619522
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-hpc-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-hyperscale.md",
-      "title": "Introduction to Hyperscale (Citus) on Azure Database for PostgreSQL",
-      "excerpt": "When your database is small, it’s easy to throw more hardware at the problem and scale up. As these tables grow, you need to think about other ways to scale your database. Azure Database for PostgreSQL Hyperscale (Citus) transforms open-source PostgreSQL into a distributed database solution, reliably and securely managed on Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-hyperscale/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hyperscale/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 35,
-        "average": 4.6857142
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-hyperscale-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-immersive-reader.md",
-      "title": "Introduction to Immersive Reader",
-      "excerpt": "Immersive Reader embeds text reading and comprehension capabilities into applications, along with functionality for math. Immersive Reader is an inclusively designed tool that implements proven techniques to improve reading comprehension for new readers, language learners, and people with learning differences such as dyslexia. No knowledge of machine learning is required.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-immersive-reader/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-immersive-reader/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 26,
-        "average": 4.8846154
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-iot.md",
-      "title": "Introduction to Azure IoT",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-iot/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 803,
-        "average": 4.73599
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],
@@ -1032,15 +885,273 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-java-azure.md",
-      "title": "Introduction to Java on Azure",
-      "excerpt": "Goal of this module is to welcome you as Java Developers on Azure. In this module, you'll begin to discover the opportunities for Java developers on Azure.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-java-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/",
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics.md",
+      "title": "Introduction to Azure Synapse Analytics",
+      "excerpt": "Introduction to Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 374,
+        "average": 4.786096
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-virtual-networks.md",
+      "title": "Introduction to Azure virtual networks",
+      "excerpt": "In this module, you will learn how to design and implement fundamental Azure Networking resources such as virtual networks, public and private IPs, DNS, virtual network peering, routing, and Azure Virtual NAT.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-azure-virtual-networks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-virtual-networks/",
+      "length": "PT1H18M",
+      "ratings": {
+        "count": 88,
+        "average": 4.818182
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-classical-machine-learning.md",
+      "title": "Build classical machine learning models with supervised learning",
+      "excerpt": "Supervised learning is a form of machine learning where an algorithm learns from examples of data. We progressively paint a picture of how supervised learning automatically generates a model that can make predictions about the real world. We also touch on how these models are tested, and difficulties that can arise when training them.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-classical-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-classical-machine-learning/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 64,
+        "average": 4.859375
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-co-management-of-windows-10-devices.md",
+      "title": "Explore Co-management of Windows 10 devices",
+      "excerpt": "Explore Co-management of Windows 10 devices",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-co-management-of-windows-10-devices/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-co-management-of-windows-10-devices/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 12,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-data-for-machine-learning.md",
+      "title": "Introduction to data for machine learning",
+      "excerpt": "The power of machine learning models comes from the data that is used to train them. Through content and exercises, we explore how to understand your data, how to encode it so that the computer can interpret it properly, how to clean it of errors, and tips that will help you create models that perform well.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-data-for-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-for-machine-learning/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 42,
+        "average": 4.6904764
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-data-streaming.md",
+      "title": "Work with data streams by using Azure Stream Analytics",
+      "excerpt": "Explore how Azure Stream Analytics integrates with your applications or Internet of Things devices to gain insights with real-time streaming data.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-data-streaming/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 1607,
+        "average": 4.665837
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-desktop-analytics.md",
+      "title": "Analyze Windows 10 diagnostic data using Desktop Analytics",
+      "excerpt": "Analyze Windows 10 diagnostic data using Desktop Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-desktop-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-desktop-analytics/",
       "length": "PT37M",
       "ratings": {
-        "count": 151,
-        "average": 4.701987
+        "count": 12,
+        "average": 4.9166665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1055,91 +1166,7 @@
         ]
       },
       "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure.md",
-      "title": "Introduction to migrating ASP.NET apps to Azure",
-      "excerpt": "Migrating an ASP.NET application from on-premises to Azure, along with a supporting Azure SQL database, can provide many advantages, but also challenges. Learn how to evaluate the migration process to determine if it’s right for your application.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-migrating-aspnet-apps-azure/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 65,
-        "average": 4.8923078
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-mixed-reality.md",
-      "title": "Introduction to Mixed Reality",
-      "excerpt": "Mixed Reality is transforming the nature of on-the-job training, game development, and consumer application development. Build a foundation in the core concepts, terminology, and design processes unique to the augmented reality, virtual reality, and Mixed Reality development space. Get familiar with HoloLens, Windows Mixed Reality immersive headsets, bodystorming prototypes, and the most common use-cases for Mixed Reality content.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-mixed-reality/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-mixed-reality/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 350,
-        "average": 4.7514286
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
       "images": [
@@ -1155,19 +1182,20 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "Identity",
+        "Analytics"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-personalizer.md",
-      "title": "Introduction to Personalizer",
-      "excerpt": "Discover the Personalizer service that is part of the Azure Decision services offerings.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-personalizer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-personalizer/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-introduction-to-distributed-programming.md",
+      "title": "What is distributed programming?",
+      "excerpt": "Learn about distributed programming and why it's useful for the cloud, including programming models, types of parallelism, and symmetrical vs. asymmetrical architecture.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-distributed-programming/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-distributed-programming-introduction/",
+      "length": "117 mins",
       "ratings": {
-        "count": 43,
-        "average": 4.883721
+        "count": 21,
+        "average": 4.7619047
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1187,6 +1215,49 @@
       "heat": 50,
       "images": [
         {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/distributed-programming-introduction-social.png",
+          "width": 320,
+          "height": 160,
+          "title": "What is distributed programming?",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-exchange-online-protection.md",
+      "title": "Examine Exchange Online Protection",
+      "excerpt": "Examine Exchange Online Protection",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-exchange-online-protection/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-exchange-online-protection/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 17,
+        "average": 4.7058825
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
@@ -1198,7 +1269,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "Identity"
       ]
     }
   ],

@@ -8,7 +8,7 @@ length: PT25M
 ratings:
   count: 479
   average: 4.7578287
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "u6FLcU2QWXScHQ22wZ7PLj0oOfAYJy0ErD9i0J0yRuqu7GAXAVWqKNlA+pcA6ldIQGn3t+9G885T3pBilsocDPlVrsSVaAHRcc127m7yEyVf076X+r7e2M+PIgfAyQ5ZHVP6LmJX6uV2hseO4uyCxIngvH5wzLpM+mTJNxEBUtWAMP41a75LzBLz8PGoq4Ivw2k9F8svwQhwut5LELTSqBjzoAnl5WyWWyZhNTveqj1YCzcqzQ/+mmZTXZWBQQy7WICntLTAl15oU06NXOC2Ova7KpUb/chuUWk7e9wBCgjuGQgiAKHcFoSa4bID3CxHraEMEUttVHxN2XBN8YMEv4qCeNvjYTTKAgF4Hn/j2Y2y9F7tQDUi5JU4Pc9RQEhU9etS6b28O0b/6M2P+fQjOATvkZgWZwkpdJb6KeAwcJU=;zakhlX+BaQ6dqqqxvYqY6Q=="
+secured: "QI2FWxBHGIYj5YZbBzAGYAM61r0qgTeNnOAKyzYc5Hz2XNPyfMAkgr54bsRi+DwLwp4c5618LRpmRsCIDoDwQ5G4KmwjZ9jOLQKTJZntkBgGH/Ky0xIJF5D+KGzSiLc/ekr72Pd/ALY4ru+h8weQbie88CyatAQK7fLwkMhyoWKQzNANCMJZCjAzBTxVBq12cWim8JrRbrO8BFKP24WF/PchzKL+p2ma1RIbIVIy54ju+Iy6EYUc9kp9BUEg+5bU+Ebndoshmvc4WqWib+xFRRPJvSXwlvd8Ndl5Zh+OYq75PXgiTJXrEN6r28JPN/h1is4CWHEDsoJYmmEPuEh+fKDKz2AiZo0QQQjpXPWt1Be6/0B9ZbbSTFrYo5WDdOnJ1iuDwt9WRG3tSefAeRgsBvoZ1VT2x4u8qNy3P+Gzq2M=;+1kY3/uu8vDXCh/bIBLevQ=="
 ---
 

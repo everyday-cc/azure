@@ -4,49 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-sql-databases.md",
-      "title": "Migrate SQL Workloads to Azure SQL Databases",
-      "excerpt": "Migrate SQL Workloads to Azure SQL Databases",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-sql-databases/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-sql-databases/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 158,
-        "average": 4.64557
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-sql-databases-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-model-partition-data-azure-cosmos-db.md",
       "title": "Model and partition your data in Azure Cosmos DB",
       "excerpt": "Learn how to identify access patterns. Using those patterns then you can learn to apply modeling and partition strategies to ensure an efficient and scalable deployment of your Azure Cosmos DB instance.",
@@ -300,6 +257,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-query-multiple-tables-with-joins.md",
+      "title": "Combine multiple tables with JOINs in T-SQL",
+      "excerpt": "Combine multiple tables with JOINs in T-SQL",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-query-multiple-tables-with-joins/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-multiple-tables-with-joins/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 143,
+        "average": 4.7972026
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-schedule-tasks-using-sql-server-agent.md",
       "title": "Schedule tasks using SQL Server Agent",
       "excerpt": "Explore SQL automation for scheduled tasks and automatic alerts for SQL Server and Managed Instance. Configure extended event sessions for tracing activities.",
@@ -388,42 +388,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
-      "title": "Secure your Azure SQL Database",
-      "excerpt": "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-your-azure-sql-database/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 4937,
-        "average": 4.542232
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-graph-api.md",
       "title": "Store and access graph data in Azure Cosmos DB with the Graph API",
       "excerpt": "Find out about creating an application with Azure Cosmos DB as a graph database, then retrieve, manipulate, and visualize graph data using Data Explorer.",
@@ -507,6 +471,49 @@
       "topics": [
         "Azure",
         "Storage",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-built-functions-transact-sql.md",
+      "title": "Use built-in functions and GROUP BY in Transact-SQL",
+      "excerpt": "Use built-in functions and GROUP BY in Transact-SQL",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-use-built-functions-transact-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-built-functions-transact-sql/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 86,
+        "average": 4.8488374
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Databases"
       ]
     },

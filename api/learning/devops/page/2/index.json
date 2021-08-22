@@ -4,15 +4,15 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
-      "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-      "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
-      "length": "PT51M",
+      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
+      "title": "Design a holistic monitoring strategy on Azure",
+      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
+      "length": "PT57M",
       "ratings": {
-        "count": 1896,
-        "average": 4.7521095
+        "count": 3141,
+        "average": 4.6510663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,9 +32,9 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -43,20 +43,21 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "DevOps",
         "Management Tools",
-        "DevOps"
+        "Security"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-choose-an-agile-approach.md",
-      "title": "Choose an Agile approach to software development",
-      "excerpt": "Learn with the Space Game web team how to use Azure Boards to implement Agile software practices along with DevOps transparency and collaboration.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-choose-an-agile-approach/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-configure-azure-alerts.md",
+      "title": "Configure Azure alerts",
+      "excerpt": "You will learn how to configure Azure alerts including action groups.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-alerts/",
+      "length": "PT18M",
       "ratings": {
-        "count": 6456,
-        "average": 4.752943
+        "count": 18,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,14 +72,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 53,
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -86,6 +87,55 @@
       "type": "course",
       "price": "Free",
       "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-foundation-modern-apps.md",
+      "title": "Architect modern applications using Azure SQL Database",
+      "excerpt": "Break down a scenario for an application and build a multi-service solution based on the microservices approach. Learn how to use modern database capabilities to build a foundation for applications.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-foundation-modern-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-foundation-modern-apps/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 43,
+        "average": 4.7674417
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate",
+        "Beginner",
+        "Advanced"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-foundation-modern-apps-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Storage",
         "DevOps"
       ]
     },
@@ -115,7 +165,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 53,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
@@ -131,85 +181,6 @@
         "Azure",
         "DevOps",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-characterize-devops-continous-collaboration-improvement.md",
-      "title": "Characterize DevOps Continuous Collaboration and Continuous Improvement",
-      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Collaboration and Continuous Improvement.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-characterize-devops-continous-collaboration-improvement/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
-      "length": "PT17M",
-      "ratings": {
-        "count": 1566,
-        "average": 4.718391
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-instrument-web-app-code-with-application-insights.md",
-      "title": "Instrument server-side web application code with Application Insights",
-      "excerpt": "Get full information and custom telemetry about a web app in Application Insights by installing the Application Insights SDK.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-instrument-web-app-code-with-application-insights/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 662,
-        "average": 4.5120845
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/instrument-web-app-code-with-application-insights-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps"
       ]
     },
     {
@@ -255,51 +226,6 @@
         "Compute",
         "DevOps",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-persist-data-ef-core.md",
-      "title": "Persist and retrieve relational data with Entity Framework Core",
-      "excerpt": "This module guides you through creating a data access project, connecting to a relational database, and writing CRUD queries.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-persist-data-ef-core/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 1245,
-        "average": 4.648193
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/persist-data-ef-core-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Databases"
       ]
     },
     {
@@ -378,205 +304,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure.md",
-      "title": "Build serverless, full stack applications in Azure",
-      "excerpt": "Learn how to create, build, and deploy modern full stack applications in Azure by using the language of your choice (Python, Node.js, or .NET) and with a Vue.js frontend. Topics covered include modern database capabilities, CI/CD and DevOps, backend API development, REST, and more. Using a real-world scenario of trying to catch the bus, you will learn how to build a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure/",
-      "length": "PT2H55M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-foundation-modern-apps.md",
-          "title": "Architect modern applications using Azure SQL Database",
-          "excerpt": "Break down a scenario for an application and build a multi-service solution based on the microservices approach. Learn how to use modern database capabilities to build a foundation for applications.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-foundation-modern-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-foundation-modern-apps/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 43,
-            "average": 4.7674417
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate",
-            "Beginner",
-            "Advanced"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-foundation-modern-apps-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Storage",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-deploy-backend-apis.md",
-          "title": "Deploy serverless APIs with Azure Functions, Logic Apps, and Azure SQL Database",
-          "excerpt": "In the language of your choice (Node.js, Python, or .NET), learn how to deploy an Azure Function that adds real-time data to an Azure SQL Database and triggers an Azure Logic App for notifications, all with GitHub Actions for CI/CD.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-backend-apis/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-backend-apis/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 25,
-            "average": 4.52
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/deploy-backend-apis-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Compute",
-            "Serverless",
-            "IoT",
-            "Blockchain",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
-          "title": "Architect full-stack applications and automate deployments with GitHub",
-          "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 26,
-            "average": 4.8076925
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/automate-deployments-github-actions-azure-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Compute",
-            "Serverless",
-            "IoT",
-            "Blockchain",
-            "Integration",
-            "Web",
-            "Containers",
-            "Mobile",
-            "DevOps"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-foundation-modern-apps-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "Web",
-        "Containers",
-        "Mobile",
-        "IoT",
-        "Blockchain",
-        "Integration",
-        "DevOps",
-        "Storage"
       ]
     },
     {
@@ -748,15 +475,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
-      "title": "Architect full-stack applications and automate deployments with GitHub",
-      "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
+      "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+      "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
+      "length": "PT22M",
       "ratings": {
-        "count": 26,
-        "average": 4.8076925
+        "count": 2253,
+        "average": 4.7332444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -771,76 +498,16 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/automate-deployments-github-actions-azure-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration",
-        "Web",
-        "Containers",
-        "Mobile",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-azure-alerts.md",
-      "title": "Configure Azure alerts",
-      "excerpt": "You will learn how to configure Azure alerts including action groups.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-alerts/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-alerts/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 17,
-        "average": 4.7647057
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
         "DevOps",
-        "Management Tools"
+        "Integration"
       ]
     },
     {
@@ -931,53 +598,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-foundation-modern-apps.md",
-      "title": "Architect modern applications using Azure SQL Database",
-      "excerpt": "Break down a scenario for an application and build a multi-service solution based on the microservices approach. Learn how to use modern database capabilities to build a foundation for applications.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-foundation-modern-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-foundation-modern-apps/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 43,
-        "average": 4.7674417
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate",
-        "Beginner",
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-foundation-modern-apps-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Storage",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explain-devops-continous-delivery-quality.md",
       "title": "Explain DevOps Continuous Delivery and Continuous Quality",
       "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
@@ -987,85 +607,6 @@
       "ratings": {
         "count": 1779,
         "average": 4.743676
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-monitor.md",
-      "title": "Introduction to Azure Monitor",
-      "excerpt": "Learn what Azure Monitor is and where you would use it.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-monitor/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-monitor/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 39,
-        "average": 4.8461537
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-monitor-social.png",
-          "width": 1282,
-          "height": 642,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
-      "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
-      "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduce-foundation-pillars-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 3680,
-        "average": 4.6980977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1178,15 +719,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms.md",
-      "title": "Monitor performance of virtual machines by using Azure Monitor for VMs",
-      "excerpt": "Learn how to use Azure Monitor for VMs to monitor your organization's Azure virtual machines.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
-      "length": "PT48M",
+      "path": "_learning/courses/microsoft-learn-persist-data-ef-core.md",
+      "title": "Persist and retrieve relational data with Entity Framework Core",
+      "excerpt": "This module guides you through creating a data access project, connecting to a relational database, and writing CRUD queries.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-persist-data-ef-core/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/",
+      "length": "PT1H4M",
       "ratings": {
-        "count": 517,
-        "average": 4.762089
+        "count": 1245,
+        "average": 4.648193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1201,14 +742,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-performance-using-azure-monitor-for-vms-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/persist-data-ef-core-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -1218,7 +759,8 @@
       "topics": [
         "Azure",
         "DevOps",
-        "Management Tools"
+        "Management Tools",
+        "Databases"
       ]
     },
     {
@@ -1261,51 +803,6 @@
       "price": "Free",
       "topics": [
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
-      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
-      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
-      "length": "PT1H38M",
-      "ratings": {
-        "count": 1835,
-        "average": 4.745504
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking"
       ]
     },
     {
@@ -1552,6 +1049,205 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure.md",
+      "title": "Build serverless, full stack applications in Azure",
+      "excerpt": "Learn how to create, build, and deploy modern full stack applications in Azure by using the language of your choice (Python, Node.js, or .NET) and with a Vue.js frontend. Topics covered include modern database capabilities, CI/CD and DevOps, backend API development, REST, and more. Using a real-world scenario of trying to catch the bus, you will learn how to build a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-build-serverless-full-stack-applications-in-azure/",
+      "length": "PT2H55M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-foundation-modern-apps.md",
+          "title": "Architect modern applications using Azure SQL Database",
+          "excerpt": "Break down a scenario for an application and build a multi-service solution based on the microservices approach. Learn how to use modern database capabilities to build a foundation for applications.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-foundation-modern-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-foundation-modern-apps/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 43,
+            "average": 4.7674417
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate",
+            "Beginner",
+            "Advanced"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-foundation-modern-apps-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Storage",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-backend-apis.md",
+          "title": "Deploy serverless APIs with Azure Functions, Logic Apps, and Azure SQL Database",
+          "excerpt": "In the language of your choice (Node.js, Python, or .NET), learn how to deploy an Azure Function that adds real-time data to an Azure SQL Database and triggers an Azure Logic App for notifications, all with GitHub Actions for CI/CD.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-backend-apis/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-backend-apis/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 25,
+            "average": 4.52
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/deploy-backend-apis-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Compute",
+            "Serverless",
+            "IoT",
+            "Blockchain",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
+          "title": "Architect full-stack applications and automate deployments with GitHub",
+          "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 26,
+            "average": 4.8076925
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/automate-deployments-github-actions-azure-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Compute",
+            "Serverless",
+            "IoT",
+            "Blockchain",
+            "Integration",
+            "Web",
+            "Containers",
+            "Mobile",
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-foundation-modern-apps-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "Web",
+        "Containers",
+        "Mobile",
+        "IoT",
+        "Blockchain",
+        "Integration",
+        "DevOps",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-protect-public-sector-data-in-azure.md",
       "title": "Protect public sector data in Azure",
       "excerpt": "Learn to design conceptual architecture for data classifications using data residency for Microsoft 365 and Dynamics 365 services while utilizing Azure regions and Customer lockbox. Manage breach notifications in Service Trust Portal and Azure Security Center. And encrypt data throughout its lifecycle.",
@@ -1775,6 +1471,312 @@
       "topics": [
         "Azure",
         "Identity",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
+      "title": "Architect full-stack applications and automate deployments with GitHub",
+      "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 26,
+        "average": 4.8076925
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/automate-deployments-github-actions-azure-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration",
+        "Web",
+        "Containers",
+        "Mobile",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-automate-devops-github-apps.md",
+      "title": "Automate DevOps processes by using GitHub Apps",
+      "excerpt": "Learn to automate DevOps processes by using GitHub Apps that handle repetitive tasks, enforce team policies, and maintain a tidy repository.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-devops-github-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-devops-github-apps/",
+      "length": "PT1H8M",
+      "ratings": {
+        "count": 624,
+        "average": 4.8108974
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/automate-devops-github-apps-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-first-bicep-deployment-pipeline-using-azure-pipelines.md",
+      "title": "Build your first Bicep deployment pipeline by using Azure Pipelines",
+      "excerpt": "Build a basic deployment pipeline for Bicep infrastructure as code templates by using Azure DevOps and Azure Pipelines. Learn how to use service connections to authenticate your deployment pipeline to Azure. Add triggers to configure the Bicep deployment pipeline to run whenever your main branch is updated.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-first-bicep-deployment-pipeline-using-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-first-bicep-deployment-pipeline-using-azure-pipelines/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 7,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-capture-page-load-times-application-insights.md",
+      "title": "Capture and view page load times in your Azure web app with Application Insights",
+      "excerpt": "In this module, you'll configure Application Insights and use it to study page load data for an Azure web app.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-capture-page-load-times-application-insights/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 1258,
+        "average": 4.6414943
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/capture-page-load-times-application-insights-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-characterize-devops-continous-collaboration-improvement.md",
+      "title": "Characterize DevOps Continuous Collaboration and Continuous Improvement",
+      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Collaboration and Continuous Improvement.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-characterize-devops-continous-collaboration-improvement/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
+      "length": "PT17M",
+      "ratings": {
+        "count": 1566,
+        "average": 4.718391
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-manage.md",
+      "title": "Ensure stable operations and optimization across all supported workloads deployed to the cloud.",
+      "excerpt": "As workloads are deployed to the cloud, operations is critical to success.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-manage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-manage/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 19,
+        "average": 4.9473686
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-manage-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-strategy.md",
+      "title": "Prepare for successful cloud adoption with a well-defined strategy",
+      "excerpt": "Success in cloud adoption is predicated by a clear strategy that helps the team understand executive direction and regularly measure progress. This module will help capture the cloud adoption strategy needed to drive your success.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-strategy/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-strategy/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 25,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-strategy-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "DevOps",
         "Management Tools"
       ]

@@ -4,15 +4,15 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet.md",
-      "title": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
-      "excerpt": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api-dotnet/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-eclipse.md",
+      "title": "Publish a web app to Azure by using Azure Toolkit for Eclipse",
+      "excerpt": "Create a web app in Eclipse and deploy the app to Azure by using Azure Toolkit for Eclipse.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-eclipse/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-azure-toolkit-eclipse/",
+      "length": "PT49M",
       "ratings": {
-        "count": 199,
-        "average": 4.758794
+        "count": 15,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,9 +32,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-and-api-dotnet-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/publish-azure-web-app-with-azure-toolkit-eclipse-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -43,9 +43,87 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-intellij.md",
+      "title": "Publish a web app to Azure by using Azure Toolkit for IntelliJ",
+      "excerpt": "In this module, you will learn how to use Azure to host your Java web apps, built by using IntelliJ IDEA.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-intellij/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-azure-toolkit-intellij/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 23,
+        "average": 4.7391305
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-a-web-app-to-azure-by-using-azure-toolkit-for-intellij-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-express-node-app-service-vscode.md",
+      "title": "Create and publish a web application with Azure App Service and Visual Studio Code",
+      "excerpt": "In this module, you'll learn how to create and publish webapps to Azure App Service from Visual Studio Code.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-express-node-app-service-vscode/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-publish-webapp-app-service-vs-code/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 44,
+        "average": 4.818182
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Compute",
-        "Serverless",
-        "Web"
+        "Web",
+        "Developer tools"
       ]
     },
     {
@@ -180,49 +258,6 @@
         "Compute",
         "Serverless",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli.md",
-      "title": "Run parallel tasks in Azure Batch with the Azure CLI",
-      "excerpt": "Find out about the Azure Batch capabilities designed to help you efficiently run large-scale parallel and high-performance computing applications in the cloud.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 1574,
-        "average": 4.633418
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/run-parallel-tasks-in-azure-batch-with-the-azure-cli-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     },
     {
@@ -391,49 +426,6 @@
         "Azure",
         "Compute",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots.md",
-      "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
-      "excerpt": "Discover the benefits of creating deployment slots to streamline deployment and roll back a web app in Azure App Service.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 2373,
-        "average": 4.5318165
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     },
     {

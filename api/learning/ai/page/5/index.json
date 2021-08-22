@@ -4,332 +4,50 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-configure-3d-assets-mixed-reality-unity.md",
-      "title": "Configure 3D assets for mixed reality in Unity",
-      "excerpt": "Get step-by-step instructions on how to place Prefab 3D assets and models into a Unity scene. Learn about Unity Scriptable Objects and mixed reality design considerations before deploying to a HoloLens 2.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-3d-assets-mixed-reality-unity/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-3d-assets-mixed-reality-unity/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 23,
-        "average": 4.9565215
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-3d-assets-mixed-reality-unity-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "IoT",
-        "Integration",
-        "Analytics",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-connect-iot-hololens-azure-digital-twins-unity.md",
-      "title": "Connect IoT data to HoloLens 2 with Azure Digital Twin and Unity",
-      "excerpt": "Stream simulated operational telemetry data from physical assets to Azure Digital Twin and visualize data in Unity and the HoloLens.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-connect-iot-hololens-azure-digital-twins-unity/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-iot-hololens-azure-digital-twins-unity/",
-      "length": "PT1H52M",
-      "ratings": {
-        "count": 18,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-iot-hololens-azure-digital-twins-unity-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "IoT",
-        "Integration",
-        "Analytics",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-convert-speech-to-text.md",
-      "title": "Transcribe speech in real time with Azure Cognitive Services",
-      "excerpt": "Learn how to transcribe speech and convert it to text through real-time transcription with the Speech Service in Azure Cognitive Services.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-convert-speech-to-text/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
-      "length": "52 mins",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Transcribe speech in real time with Azure Cognitive Services",
-          "isCached": true
-        },
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Transcribe speech in real time with Azure Cognitive Services",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-bot-with-bot-framework-composer.md",
-      "title": "Create a Bot with the Bot Framework Composer",
-      "excerpt": "User the Bot Framework Composer to quickly and easily build sophisticated conversational bots without writing code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-bot-with-bot-framework-composer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 164,
-        "average": 4.768293
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-computer-vision-service.md",
-      "title": "Process images with the Computer Vision service",
-      "excerpt": "Use the Computer Vision API to analyze images for insights, extract text from images, and generate high-quality thumbnails.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-computer-vision-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 1563,
-        "average": 4.662828
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-image-recognition-with-azure-iot-edge.md",
-      "title": "Create an image recognition solution with Azure IoT Edge and Azure Cognitive Services",
-      "excerpt": "This is a computer vision solution using Azure IoT Edge",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-image-recognition-with-azure-iot-edge/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-image-recognition-solution-iot-edge-cognitive-services/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 6,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/create-image-recognition-solution-iot-edge-cognitive-services-social.png",
-          "width": 1280,
-          "height": 640,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-language-translator-mixed-reality-application-unity-azure-cognitive-services.md",
-      "title": "Create a language translator application with Unity and Azure Cognitive Services",
-      "excerpt": "Create a language translator application for your Mixed Reality device (Windows Mixed Reality, HoloLens 2, etc.) by using Cognitive Services.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-language-translator-mixed-reality-application-unity-azure-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-translator-mixed-reality-application-unity-azure-cognitive-services/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 34,
-        "average": 4.617647
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-language-understanding-app.md",
-      "title": "Create a Language Understanding app",
-      "excerpt": "Create a Language Understanding app",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-language-understanding-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-understanding-app/",
+      "path": "_learning/courses/microsoft-learn-create-pipelines-in-aml.md",
+      "title": "Orchestrate machine learning with pipelines",
+      "excerpt": "Create pipelines in Azure Machine Learning",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-pipelines-in-aml/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/",
       "length": "PT55M",
       "ratings": {
-        "count": 16,
-        "average": 4.9375
+        "count": 992,
+        "average": 4.675403
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory.md",
+      "title": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "excerpt": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 253,
+        "average": 4.541502
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -349,7 +67,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/create-production-workloads-azure-databricks-azure-data-factory-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -360,51 +78,8 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Analytics",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-manage-cognitive-services.md",
-      "title": "Create and manage Cognitive Services",
-      "excerpt": "Azure Cognitive Services enable developers to easily add cognitive features into their applications. Learn how to configure and manage these services for your AI application needs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-manage-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 118,
-        "average": 4.754237
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Containers"
       ]
     },
     {
@@ -622,6 +297,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning.md",
+      "title": "Deploy batch inference pipelines with Azure Machine Learning",
+      "excerpt": "Machine learning models are often used to generate predictions from large numbers of observations in a batch process. To accomplish this, you can use Azure Machine Learning to publish a batch inference pipeline.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 695,
+        "average": 4.7021585
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-batch-inference-pipelines-with-azure-machine-learning-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-cognitive-service-iot-edge-azure-func.md",
       "title": "Connecting IoT devices to Cognitive Services using Azure Functions",
       "excerpt": "University of Oxford",
@@ -711,15 +430,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
-      "title": "Describe Azure Databricks",
-      "excerpt": "Describe Azure Databricks",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
-      "length": "PT53M",
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture.md",
+      "title": "Describe Azure Databricks Delta Lake architecture",
+      "excerpt": "Describe Azure Databricks Delta Lake architecture",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
+      "length": "PT33M",
       "ratings": {
-        "count": 1129,
-        "average": 4.5456157
+        "count": 226,
+        "average": 4.5707965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -739,7 +458,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-delta-lake-architecture-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -926,6 +645,50 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explain-machine-learning-models-with-azure-machine-learning.md",
+      "title": "Explain machine learning models with Azure Machine Learning",
+      "excerpt": "Many decisions made by organizations and automated systems today are based on predictions made by machine learning models. It's increasingly important to be able to understand the factors that influence the predictions models make.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explain-machine-learning-models-with-azure-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 630,
+        "average": 4.7396827
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explain-machine-learning-models-with-azure-machine-learning-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
         "AI"
       ]
     },
@@ -1300,6 +1063,225 @@
           "url": "https://docs.microsoft.com/learn/achievements/implement-ai-organization-social.png",
           "width": 800,
           "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-ci-cd-azure-devops.md",
+      "title": "Implement CI/CD with Azure DevOps",
+      "excerpt": "Implement CI/CD with Azure DevOps",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-ci-cd-azure-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 223,
+        "average": 4.650224
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-ci-cd-azure-devops-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services.md",
+      "title": "Integrate Azure Databricks with other Azure services",
+      "excerpt": "Integrate Azure Databricks with other Azure services",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-azure-databricks-other-azure-services/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 193,
+        "average": 4.5025907
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-azure-databricks-other-azure-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-integrate-machine-learning-within-azure-synapse-analytics.md",
+      "title": "Integrate machine learning within Azure Synapse Analytics",
+      "excerpt": "Integrate machine learning within Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-integrate-machine-learning-within-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-machine-learning-azure-synapse-analytics/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 14,
+        "average": 4.928571
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-integrate-machine-learning-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-anomaly-detector.md",
+      "title": "Introduction to Anomaly Detector",
+      "excerpt": "Discover the Anomaly Detector service that is part of the Azure Decision services offerings.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-anomaly-detector/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-anomaly-detector/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 22,
+        "average": 4.909091
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/anomaly-detector-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-ml.md",
+      "title": "Introduction to Azure Machine Learning",
+      "excerpt": "Azure Machine Learning provides your software with automated data identification and extraction from your documents. Using an SDK or REST, the AI-powered service decreases, or can completely eliminate, time spent on and errors in data entry, while also making it easier to utilize your data.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-ml/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ml/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 22,
+        "average": 4.909091
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],

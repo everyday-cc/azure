@@ -4,520 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db.md",
-      "title": "Migrating Cassandra and MongoDB workloads to Cosmos DB",
-      "excerpt": "The focus of this learning path is to migrate MongoDB and Cassandra databases to Azure Cosmos DB.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db/",
-      "length": "PT1H13M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db.md",
-          "title": "Introduction to open source database migration to Azure Cosmos DB",
-          "excerpt": "An introduction to migrating an open-source database to Azure Cosmos DB",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 92,
-            "average": 4.7391305
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Migration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db.md",
-          "title": "Migrate Cassandra workloads to Cosmos DB",
-          "excerpt": "Migrate Cassandra workloads to Cosmos DB",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-cassandra-workloads-cosmos-db/",
-          "length": "PT14M",
-          "ratings": {
-            "count": 65,
-            "average": 4.769231
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb.md",
-          "title": "Migrate on-premises MongoDB databases to Cosmos DB",
-          "excerpt": "Migrate MongoDB workloads to Cosmos DB",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mongodb-databases-azure-database-mongodb/",
-          "length": "PT19M",
-          "ratings": {
-            "count": 82,
-            "average": 4.804878
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-mongodb-databases-to-cosmos-db-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-optimize-query-performance-in-sql-server.md",
-      "title": "Optimize query performance in SQL Server",
-      "excerpt": "Analyze individual query performance and determine where improvements can be made. Explore performance-related Dynamic Management Objects. Investigate how indexes and database design affect queries.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-optimize-query-performance-in-sql-server/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-optimize-query-performance-in-sql-server/",
-      "length": "PT2H14M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-describe-sql-server-query-plans.md",
-          "title": "Describe SQL Server query plans",
-          "excerpt": "Read and understand various forms of execution plans. Compare estimated vs actual plans. Learn how and why plans are generated.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-sql-server-query-plans/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-sql-server-query-plans/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 776,
-            "average": 4.748711
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-sql-server-query-plans-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-evaluate-performance-improvements.md",
-          "title": "Evaluate performance improvements",
-          "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-evaluate-performance-improvements/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evaluate-performance-improvements/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 683,
-            "average": 4.7789164
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/evaluate-performance-improvements-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-explore-performance-based-design.md",
-          "title": "Explore performance-based design",
-          "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-performance-based-design/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-performance-based-design/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 1597,
-            "average": 4.772699
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-performance-based-design-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-sql-server-query-plans-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-plan-and-implement-a-high-availability-and-disaster-recovery-environment.md",
-      "title": "Plan and implement a high availability and disaster recovery environment",
-      "excerpt": "Data must be available when needed. Configure, test and manage a solution for high availability and disaster recovery using Azure tools and SQL Server tools.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-plan-and-implement-a-high-availability-and-disaster-recovery-environment/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-plan-and-implement-a-high-availability-and-disaster-recovery-environment/",
-      "length": "PT2H13M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies.md",
-          "title": "Describe high availability and disaster recovery strategies",
-          "excerpt": "Plan appropriate HA/DR strategy based on RTO and RPO. Choose best solution for IaaS or PaaS deployments or hybrid workloads.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-high-availability-disaster-recovery-strategies/",
-          "length": "PT59M",
-          "ratings": {
-            "count": 143,
-            "average": 4.79021
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-high-availability-and-disaster-recovery-strategies-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr.md",
-          "title": "Explore IaaS and PaaS platform tools for high availability and disaster recovery",
-          "excerpt": "Deploy Windows Server Failover Cluster and AGs in Azure and hybrid environments. Configure temporal tables, geo-replication and auto failover groups.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-iaas-paas-platform-tools-for-high-availability-disaster-recovery/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 123,
-            "average": 4.6666665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-iaas-and-paas-platform-tools-for-ha-dr-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-backup-restore-databases.md",
-          "title": "Back up and restore databases",
-          "excerpt": "Plan and implement policy for recovering data in case of user error or failure of technology. Explore various options for how and where to backup and restore databases.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-backup-restore-databases/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-databases/",
-          "length": "PT31M",
-          "ratings": {
-            "count": 188,
-            "average": 4.68617
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/backup-and-restore-databases-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-high-availability-and-disaster-recovery-strategies-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis.md",
       "title": "Accelerate and scale a Spring Boot application with Azure Cache for Redis",
       "excerpt": "In this module, you'll learn what Azure Cache for Redis is, and how to use it with a Java and Spring Boot application. You'll use it to cache some business data using Spring Data Redis, and also to store HTTP session data using Spring Session.",
@@ -725,15 +211,67 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
-      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
-      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
-      "length": "PT55M",
+      "path": "_learning/courses/microsoft-learn-automate-deployments-github-actions-azure.md",
+      "title": "Architect full-stack applications and automate deployments with GitHub",
+      "excerpt": "In the language of your choice (Node.js, Python, or .NET), deploy an end-to-end solution to solve the real-world scenario of catching the bus. You'll learn how to architect a solution that uses Azure SQL Database, Azure Functions, Azure Static Web Apps, Logic Apps, Visual Studio Code, and GitHub Actions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-deployments-github-actions-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-deployments-github-actions-azure/",
+      "length": "PT44M",
       "ratings": {
-        "count": 2257,
-        "average": 4.264067
+        "count": 26,
+        "average": 4.8076925
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/automate-deployments-github-actions-azure-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration",
+        "Web",
+        "Containers",
+        "Mobile",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-in-action.md",
+      "title": "See Azure in action",
+      "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-in-action/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 2238,
+        "average": 4.698838
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -751,15 +289,22 @@
         "Beginner"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-in-action-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage",
-        "Compute",
-        "Serverless",
-        "Databases"
+        "Management Tools",
+        "Databases",
+        "Compute"
       ]
     },
     {
@@ -793,6 +338,49 @@
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-sql-case-studies-social.png",
           "width": 643,
+          "height": 324,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-sql-deploy-configure.md",
+      "title": "Deploy and configure servers, instances, and databases for Azure SQL",
+      "excerpt": "Deploy and configure servers, instances, and databases for Azure SQL",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-sql-deploy-configure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/",
+      "length": "PT1H14M",
+      "ratings": {
+        "count": 786,
+        "average": 4.6997457
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-deploy-configure-social.png",
+          "width": 642,
           "height": 324,
           "isCached": true
         }
@@ -849,15 +437,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-sql-performance.md",
-      "title": "Deliver consistent performance with Azure SQL",
-      "excerpt": "Deliver consistent performance with Azure SQL",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-sql-performance/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-performance/",
-      "length": "PT1H24M",
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
+      "title": "Microsoft Azure Well-Architected Framework - Reliability",
+      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
+      "length": "PT59M",
       "ratings": {
-        "count": 337,
-        "average": 4.783383
+        "count": 1289,
+        "average": 4.7579517
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -872,14 +460,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-performance-social.png",
-          "width": 642,
-          "height": 324,
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -888,50 +476,13 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-sql-secure-data.md",
-      "title": "Secure your data with Azure SQL",
-      "excerpt": "Secure your data with Azure SQL",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-sql-secure-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
-      "length": "PT1H24M",
-      "ratings": {
-        "count": 452,
-        "average": 4.7544246
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
-          "width": 642,
-          "height": 325,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
+        "Storage",
+        "Databases",
+        "Management Tools",
+        "Migration",
+        "Networking",
+        "Compute",
+        "Web"
       ]
     },
     {
@@ -1019,6 +570,49 @@
         "Azure",
         "Databases",
         "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage.md",
+      "title": "Choose the appropriate API for Azure Cosmos DB",
+      "excerpt": "Compare the different APIs that are available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 2607,
+        "average": 4.6900654
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     },
     {
@@ -1145,6 +739,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-configure-database-authentication-authorization.md",
+      "title": "Configure database authentication and authorization",
+      "excerpt": "Contrast authentication using Azure Active Directory vs Windows Active Directory vs SQL Server authentication. Implement various security principals and configure permissions.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-database-authentication-authorization/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-database-authentication-authorization/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 1170,
+        "average": 4.8102565
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-database-authentication-and-authorization-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-databases-for-performance.md",
       "title": "Configure databases for performance",
       "excerpt": "Control database-level configuration options. Explore Intelligent Query Processing. Configure Open Source databases for optimum performance.",
@@ -1176,49 +813,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/configure-databases-for-performance-social.png",
           "width": 643,
           "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance.md",
-      "title": "Configure SQL Server resources for optimal performance",
-      "excerpt": "Choose the appropriate size and storage options for your Azure SQL databases. Configure server resources such as tempdb. Understand the usage of Resource Governor.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-sql-server-resources-optimal-performance/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 1497,
-        "average": 4.762191
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-sql-server-resources-for-optimal-performance-social.png",
-          "width": 643,
-          "height": 322,
           "isCached": true
         }
       ],
@@ -1433,6 +1027,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
+      "title": "Deploy Azure SQL Database",
+      "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 2277,
+        "average": 4.788318
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-azure-sql-database-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-backend-apis.md",
       "title": "Deploy serverless APIs with Azure Functions, Logic Apps, and Azure SQL Database",
       "excerpt": "In the language of your choice (Node.js, Python, or .NET), learn how to deploy an Azure Function that adds real-time data to an Azure SQL Database and triggers an Azure Logic App for notifications, all with GitHub Actions for CI/CD.",
@@ -1528,6 +1165,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure.md",
+      "title": "Deploy MariaDB, MySQL, and PostgreSQL on Azure",
+      "excerpt": "Compare Open Source Azure Database offerings with Azure SQL Server offerings. Configure an Open Source database and configure high availability and security options.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 2566,
+        "average": 4.767342
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-mariadb-mysql-and-postgresql-on-azure-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
       "title": "Deploy SQL Server in a virtual machine",
       "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
@@ -1603,49 +1283,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/describe-high-availability-and-disaster-recovery-strategies-social.png",
           "width": 643,
           "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-performance-monitoring.md",
-      "title": "Describe performance monitoring",
-      "excerpt": "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-describe-performance-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 686,
-        "average": 4.798834
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-performance-monitoring-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
