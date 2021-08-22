@@ -101,16 +101,16 @@ related:
   - title: "Chris Hines Joins Helient As Managing Director, Microsoft Cloud Services Leading Digital Transformation, Office 365 & Azure Solutions"
     excerpt: "Helient Systems LLC (Helient) is pleased to announce Chris Hines has joined the company as Managing Director, Microsoft Cloud Services."
     publishedDateTime: 2021-08-17T19:00:00Z
-    webUrl: "https://www.indianagazette.com/news/state/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_eb908073-a34e-517d-9fa8-6f666ee66ac3.html"
+    webUrl: "https://www.tiogapublishing.com/news/state/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_923a6ffd-e600-5adc-b064-06c172309734.html"
     type: article
     provider:
-      name: Indiana Gazette
-      domain: indianagazette.com
+      name: TiogaPublishing.com
+      domain: tiogapublishing.com
     quality: 6
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/indianagazette.com/content/tncms/custom/image/c7a2337e-54f6-11e7-a069-27b302f33e37.jpg"
+      - url: "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/custom/image/d29c7e94-810a-11e6-9e0b-7f79a010bf0f.jpg"
         width: 1200
-        height: 630
+        height: 684
         isCached: true
   - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
     excerpt: "Through a bi-directional integration between IronNet’s network detection and response (NDR) solution, IronDefense, and Microsoft Azure Sentinel (SIEM), customers can create investigations and/or ..."

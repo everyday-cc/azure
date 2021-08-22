@@ -3,24 +3,24 @@ category: news
 title: "Chris Hines Joins Helient As Managing Director, Microsoft Cloud Services Leading Digital Transformation, Office 365 & Azure Solutions"
 excerpt: "Helient Systems LLC (Helient) is pleased to announce Chris Hines has joined the company as Managing Director, Microsoft Cloud Services."
 publishedDateTime: 2021-08-17T19:00:00Z
-originalUrl: "https://www.indianagazette.com/news/state/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_eb908073-a34e-517d-9fa8-6f666ee66ac3.html"
-webUrl: "https://www.indianagazette.com/news/state/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_eb908073-a34e-517d-9fa8-6f666ee66ac3.html"
+originalUrl: "https://www.tiogapublishing.com/news/state/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_923a6ffd-e600-5adc-b064-06c172309734.html"
+webUrl: "https://www.tiogapublishing.com/news/state/chris-hines-joins-helient-as-managing-director-microsoft-cloud-services-leading-digital-transformation-office-365/article_923a6ffd-e600-5adc-b064-06c172309734.html"
 type: article
 quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Indiana Gazette
-  domain: indianagazette.com
+  name: TiogaPublishing.com
+  domain: tiogapublishing.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/indianagazette.com/content/tncms/custom/image/c7a2337e-54f6-11e7-a069-27b302f33e37.jpg"
+  - url: "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/custom/image/d29c7e94-810a-11e6-9e0b-7f79a010bf0f.jpg"
     width: 1200
-    height: 630
+    height: 684
     isCached: true
 
 related:
@@ -122,6 +122,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Re4hlTNSkBkpcHK4kwQ8405Pns2VhggOniu057eD5sk+T6TcleeiDy6awgaQbhybR8MAnnqzBGIYkCEZia26/dEoINEHXIwP0YbFgRgn/9HRGjK9yyMw43WXZNHs+zfHBPGrHGMuImj9tPpJ2IeFp9EwH9UkS7p9LgIHft735zpl5H57HaxZOfcp+IPHPq71LZjyKs+hEcJ/0RhdSq/tTq5duKi4GYtB4pzWB6RqeT9TUG7M1UrDcoadWQXVoWSnabiuGj1vYjVY78yBKB5bgtZVi7Ly+Yh2FM//llPBvIzCUhRYPT/cEdIoRZZAIyx9MdPKfeEej6TvBJ7XK51dKdwlHTSG7gbsz6XZ+YPFzWI=;/e699LYgJS0OprGlLYlXpw=="
+secured: "zR6lKUPV8IB4nhgM7VRtK4JmsG29axYeT2qlyYY576ok7dcxk16Yc4rISHuoN95En/Jp3A0jyBnoY5SGtqM3xdqBkMqqOoVX625iaZn7mxDPA34Lhe3+YzOkRCyXnKjZaS3UyV7Om65L0wBL23RsTopxH1skeCEHsDJ9FRVWx7WPH0DSA7cvUy0smi+J4xy9/xMPCnvX0zP8sB85suVXp7W9ywlV2wvn0Ve4P0Ilyq9hPInsBudmFJ6FlRt6R0Md2HOgqDmdB5pBOg9x0l40TiV1X7xozFQIAC7GCaR3EfjhZY83YRsXDvKP9MG73qbBmLqym7+E45vYw28N73cdQjM5AvTTxGLp9A7KEWANzCA=;yBXGXIDUuC2S/3W71H6JEA=="
 ---
 
