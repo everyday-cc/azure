@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 99
+heat: 108
 
 provider:
   name: Microsoft
