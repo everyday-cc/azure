@@ -378,6 +378,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-explore-exchange-online.md",
+      "title": "Explore Exchange Online",
+      "excerpt": "Explore Exchange Online",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-exchange-online/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-exchange-online/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 88,
+        "average": 4.7727275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/exchange-online-explore-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr.md",
       "title": "Explore IaaS and PaaS platform tools for high availability and disaster recovery",
       "excerpt": "Deploy Windows Server Failover Cluster and AGs in Azure and hybrid environments. Configure temporal tables, geo-replication and auto failover groups.",
@@ -1237,49 +1280,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-extend-share-capacity-with-azure-file-sync.md",
-      "title": "Extend your on-premises file share capacity using Azure File Sync",
-      "excerpt": "Evaluate and deploy Azure File Sync to extend the capacity of your on-premises file share.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-extend-share-capacity-with-azure-file-sync/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extend-share-capacity-with-azure-file-sync/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/extend-share-capacity-with-azure-file-sync-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

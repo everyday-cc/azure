@@ -4,6 +4,48 @@
   "page": 19,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-data-factory.md",
+      "title": "Introduction to Azure Data Factory",
+      "excerpt": "Evaluate whether Azure Data Factory can help you integrate your data sources. Describe how Azure Data Factory can ingest data from on-premises, multiple-cloud and SaaS data sources.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-data-factory/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 158,
+        "average": 4.753165
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-data-factory-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
       "title": "Introduction to Azure Kubernetes Service",
       "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
@@ -791,8 +833,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 5704,
-        "average": 4.668829
+        "count": 5705,
+        "average": 4.668887
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1189,49 +1231,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-save-money-with-azure-reserved-instances.md",
-      "title": "Save money with Azure Reserved Instances",
-      "excerpt": "Learn how to use plan for, buy, and manage Azure reservations to save money.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-save-money-with-azure-reserved-instances/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/save-money-with-azure-reserved-instances/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 187,
-        "average": 4.7433157
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/save-money-with-azure-reservations-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
       ]
     }
   ],

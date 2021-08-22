@@ -4,6 +4,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-innovate-applications-azure-cloud-technologies.md",
+      "title": "Innovate applications with Azure cloud technologies.",
+      "excerpt": "Innovation is a complex topic that encompasses many disciplines. The agility of public cloud allows to quicker innovation cycles and quicker hypothesis verification. Learn how to use Azure cloud technologies to sustain your organization's innovation requirements.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-innovate-applications-azure-cloud-technologies/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/innovate-applications-with-azure-cloud-technologies/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 16,
+        "average": 4.9375
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/innovate-applications-azure-cloud-technologies-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-instrument-web-app-code-with-application-insights.md",
       "title": "Instrument server-side web application code with Application Insights",
       "excerpt": "Get full information and custom telemetry about a web app in Application Insights by installing the Application Insights SDK.",
@@ -641,6 +684,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-iot-funtions-iot.md",
+      "title": "Introduction to Azure Functions for IoT",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-iot-funtions-iot/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 308,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-functions-iot-edge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-machine-learning-keras.md",
       "title": "Introduction to TensorFlow using Keras",
       "excerpt": "Learn how to build a machine learning model using Keras",
@@ -1143,76 +1230,6 @@
       "ratings": {
         "count": 18,
         "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-database-for-mariadb.md",
-      "title": "Introduction to Azure Database for MariaDB",
-      "excerpt": "Describe how Azure Database for MariaDB supports mission-critical workloads with predictable performance and dynamic scalability. Evaluate whether you can implement Azure Database for MariaDB to address your relational database needs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-database-for-mariadb/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-database-for-mariadb/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 6,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-database-for-mysql.md",
-      "title": "Introduction to Azure Database for MySQL",
-      "excerpt": "Describe how Azure Database for MySQL supports mission-critical workloads with predictable performance and dynamic scalability. Determine whether you should implement Azure Database for MySQL to address your relational database needs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-database-for-mysql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-database-for-mysql/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 8,
-        "average": 4.875
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,6 +4,136 @@
   "page": 23,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-integrate-azure-synapse-analytics-with-azure-data-and-ai-services.md",
+      "title": "Integrate Azure Synapse Analytics with Azure Data and AI services",
+      "excerpt": "Integrate Azure Synapse Analytics with Azure Data and AI services",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-integrate-azure-synapse-analytics-with-azure-data-and-ai-services/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-integrate-azure-synapse-analytics-with-azure-data-and-ai-services/",
+      "length": "PT1H46M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-build-reports-using-power-bi-within-azure-synapse-analytics.md",
+          "title": "Build reports using Power BI within Azure Synapse Analytics",
+          "excerpt": "Build reports using Power BI within Azure Synapse Analytics",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-reports-using-power-bi-within-azure-synapse-analytics/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-reports-using-power-bi-azure-synapse-analytics/",
+          "length": "PT53M",
+          "ratings": {
+            "count": 12,
+            "average": 4.4166665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-reports-with-pbi-social.png",
+              "width": 1280,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-integrate-machine-learning-within-azure-synapse-analytics.md",
+          "title": "Integrate machine learning within Azure Synapse Analytics",
+          "excerpt": "Integrate machine learning within Azure Synapse Analytics",
+          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-integrate-machine-learning-within-azure-synapse-analytics/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-machine-learning-azure-synapse-analytics/",
+          "length": "PT53M",
+          "ratings": {
+            "count": 14,
+            "average": 4.928571
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-integrate-machine-learning-social.png",
+              "width": 1280,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics",
+            "AI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-reports-with-pbi-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2.md",
       "title": "Large-Scale Data Processing with Azure Data Lake Storage Gen2",
       "excerpt": "With this learning path, you'll use Azure Data Lake Storage to process your Big Data efficiently and easily while also being protected by Azure’s host of security features.",
@@ -120,8 +250,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 11231,
-            "average": 4.68302
+            "count": 11232,
+            "average": 4.6829596
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2885,7 +3015,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-5g-technologies/",
       "length": "PT35M",
       "ratings": {
-        "count": 2,
+        "count": 3,
         "average": 5.0
       },
       "provider": {
@@ -3262,42 +3392,6 @@
         "Azure",
         "Storage",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
-      "title": "Insert and query data in your Azure Cosmos DB database",
-      "excerpt": "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data. Create stored procedures in JavaScript.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 3042,
-        "average": 4.647929
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
       ]
     }
   ],

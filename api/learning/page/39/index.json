@@ -4,6 +4,76 @@
   "page": 39,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-database-for-mariadb.md",
+      "title": "Introduction to Azure Database for MariaDB",
+      "excerpt": "Describe how Azure Database for MariaDB supports mission-critical workloads with predictable performance and dynamic scalability. Evaluate whether you can implement Azure Database for MariaDB to address your relational database needs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-database-for-mariadb/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-database-for-mariadb/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 6,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-database-for-mysql.md",
+      "title": "Introduction to Azure Database for MySQL",
+      "excerpt": "Describe how Azure Database for MySQL supports mission-critical workloads with predictable performance and dynamic scalability. Determine whether you should implement Azure Database for MySQL to address your relational database needs.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-azure-database-for-mysql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-database-for-mysql/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 8,
+        "average": 4.875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-devtest-labs.md",
       "title": "Introduction to Azure DevTest Labs",
       "excerpt": "Evaluate whether Azure DevTest Labs is appropriate for setting up virtual machine environments for your team.",
@@ -507,40 +577,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-batch-stt.md",
-      "title": "Transcribe large amounts of audio data with Batch Transcription",
-      "excerpt": "Batch Transcription is an Azure cognitive service that enables you to transcribe large amounts of pre-recorded audio data asynchronously. Batch Transcription’s high throughput makes it ideal for call centers that have to transcribe hundreds or thousands of calls every day to ensure they meet regulations and compliance standards. Batch Transcription also enables better data analyses, which can let call centers ensure that customer feedback is taken into account, staff are treated fairly, and to ensure problems are dealt with quickly and properly.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-batch-stt/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-batch-transcription/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -1142,49 +1178,6 @@
       "ratings": {
         "count": 43,
         "average": 4.883721
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-speech-to-text.md",
-      "title": "Introduction to Speech-to-text",
-      "excerpt": "Speech-to-text enables the real-time transcription of audio streams into text in more than 90 languages and dialects. Speech-to-text service can be tailored to your voice or vocabulary to build custom recognition models, further enhancing accuracy.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-speech-to-text/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-speech-to-text/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 30,
-        "average": 4.766667
       },
       "provider": {
         "name": "Microsoft Learn",
