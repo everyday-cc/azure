@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
-excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
-publishedDateTime: 2021-08-18T15:16:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-hpe-complete-genomics-workload-on-international-space-station-with-spaceborne-computer-2/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-hpe-complete-genomics-workload-on-international-space-station-with-spaceborne-computer-2/"
+title: "New Microsoft Azure partnership will accelerate research 'from months to minutes' on ISS"
+excerpt: "Using the Spaceborne Computer-2 and Azure has reduced the time of some work \"from months to minutes.\" Microsoft and Hewlett Packard Enterprise (HPE) worked together to help astronauts on the ..."
+publishedDateTime: 2021-08-20T17:12:00Z
+originalUrl: "https://www.windowscentral.com/microsoft-azure-international-space-station"
+webUrl: "https://www.windowscentral.com/microsoft-azure-international-space-station"
+ampWebUrl: "https://www.windowscentral.com/microsoft-azure-international-space-station?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-international-space-station?amp"
 type: article
-quality: 18
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/08/spaceborne-computer-2.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -176,22 +178,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "New Microsoft Azure partnership will accelerate research 'from months to minutes' on ISS"
-    excerpt: "Using the Spaceborne Computer-2 and Azure has reduced the time of some work \"from months to minutes.\" Microsoft and Hewlett Packard Enterprise (HPE) worked together to help astronauts on the ..."
-    publishedDateTime: 2021-08-20T17:12:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-international-space-station"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-international-space-station?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-international-space-station?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 48
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/08/spaceborne-computer-2.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "Aug. 18, 2021 /PRNewswire/ -- On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active ..."
@@ -397,6 +383,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
+    excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
+    publishedDateTime: 2021-08-18T15:16:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-hpe-complete-genomics-workload-on-international-space-station-with-spaceborne-computer-2/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 18
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
     excerpt: "Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and verification of IC, package and system becomes more and more complex with advanced process nodes and advanced packaging,"
     publishedDateTime: 2021-08-17T12:16:00Z
@@ -484,6 +484,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "PtvC+ZRbek29qLcXVdn9I2OtpIfWGCnd6tsbxj89qOO6CUpxL+MKMB3aAWZ8MmRRzmmIfnv12pv+tFAf1ikgkMiAYHWIev2GiqrJHxItOjXteywh1M4qSjC/b7MLwl3cZMaAMbL+pI7sjS5l0/3Ro/36rr/qvSr5j+yMVVRBTOCEI4dFmYLl+ilthMysP9rodD//jHNjOosfgGof2F2Wl8sZW79nNAuSNQD3l+uzu/IIfm7S3f45K9Nf6HAKZIaMnk18+c6kBK9LamWb1JUBiWaMasHV6jURbMKqvBTD0BYMV8yjaOISMtloIGTYPgTjiXjgVTyzx6f64MEsPZ23puCj7lF1ijj704vYeIeaMRS1f4E1fOVgeuPHnGoOG5ZPPZLE1Fd3dMPDKawJk8DGzg+nP44oDJ+KwEADU0yYSzQtT71Rq+yNwXOggrfY2UzmsjKWR07AOBjLnNpsSXP+1RlQrVvXeq5io1tlzTaJh365HzaudPIzhBzDP46hFbD13mNge6pntxDlMnZ7S9oNZw==;mWqb2qON926tXGMlWB3h4Q=="
+secured: "5B9p6XyQ2bOjfOz8uUbfP06B4geK9ePcv13xo3xCEoe1ryBKh1VPJOZuEqYS3IGzdNKc7Af2D73GLazps1Al1h7w/XMg5FJb7VUwEPSMeY3fXpSUToeHiYETAyKIWUJtsALrSZeoVagqLJyPbsDGtyBNMPhVBBRlpnvVuS4J0o9ltGqWZKVsuzHhVhga8K8fRQqvJlwE63Al92oax3wclHc9ho6toy34GakB9MWrrK446qQ/R9MCTsHt2l/30BXYJkMKvPvQOeoqErX8bG8ERVzQwZK6TQhJzrQ5OvPXr3M6M+9eKLgwpgvazqmiqaJo7aa9ikzHWHEn0iY+oBvBeqwHpsKUVA3leG+gd7NM/yc=;2lRmYPZvSBVsN4geZ2tgew=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microso
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
 type: article
 quality: 97
-heat: 781
+heat: 801
 published: true
 
 provider:
@@ -166,6 +166,22 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "New Microsoft Azure partnership will accelerate research 'from months to minutes' on ISS"
+    excerpt: "Using the Spaceborne Computer-2 and Azure has reduced the time of some work \"from months to minutes.\" Microsoft and Hewlett Packard Enterprise (HPE) worked together to help astronauts on the ..."
+    publishedDateTime: 2021-08-20T17:12:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-international-space-station"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-international-space-station?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-international-space-station?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 48
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/08/spaceborne-computer-2.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "Aug. 18, 2021 /PRNewswire/ -- On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active ..."

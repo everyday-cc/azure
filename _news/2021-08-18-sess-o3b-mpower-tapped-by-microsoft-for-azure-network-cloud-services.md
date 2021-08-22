@@ -171,6 +171,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New Microsoft Azure partnership will accelerate research 'from months to minutes' on ISS"
+    excerpt: "Using the Spaceborne Computer-2 and Azure has reduced the time of some work \"from months to minutes.\" Microsoft and Hewlett Packard Enterprise (HPE) worked together to help astronauts on the ..."
+    publishedDateTime: 2021-08-20T17:12:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-international-space-station"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-international-space-station?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-international-space-station?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 48
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/08/spaceborne-computer-2.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "Aug. 18, 2021 /PRNewswire/ -- On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active ..."
     publishedDateTime: 2021-08-18T18:53:00Z
@@ -467,6 +483,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "EpkkXtuamBx8IcXfgPx5oAD7PDsEbzOQlhbtxKBwEqMAdLyJ3kxCo3AUUhhk/E3RnALKl8LIn3fiZoQ0+FyXizmnyPaKDs8lvKUbzgZRC3a5VzmCIIyX0E9uBNiqUcrH+oqfn2Gz57Pq/lGGyqAQ/IoeQioYb49is0mnIolx3R87JoVGXNZ4i5eJGX2FaX3cTc40sOF9J5k9ZO01U4NwNsBCWYEAA/KeovMP0U5QEeYnWuZWrmm2/9Q8Ln7nHgdNBMc4hf1n+rdi6ylG2NV8oPwswZ9Vsd9LSk0eY3p+7/JLEpIqI+jrtbTgOviF8jy3okHM8/QRALwxql+mIukugKPCLUPMgPGDZnx2HgEGHNKffx2P5a0PXQSx4TNVrlhvpGl/APTQ0Y4UT8Dek/UjCrhTtwhMos4Ms3X8qz5aGSBVLtmzAwD1qQu8lK7zhgNwvn4Ya1DzdGmtHmOSr5ox8TZ/qBOh+VTnGjMIyxljT2gqgOe2Sk86zSsYc9o+3EtGeXvSjZLNO6TTNlfXZ4jMkQ==;htCPXa9v/uAM9qEP4oJWfw=="
+secured: "iqlqOiCaCcLNqnZK9bZoE4Uh4ycJTETlcFHNM6iaaZ1oALx9jjTWte8WjDUxid2qVy3AGuLiG06O/iR2HgSytZ7Ewm5jWYjSHFgxG8eNk5EKJOM9PIV+a4xOpbXeXQqmXbI86foN2GNvy1RDpk7COVcMQWR8TCOEFNAYnu4JUDVrRe99ScU56yymSkGojtpHroywwNQnn3Fde7gPAMnowEfCej1tosYVcziOp/pHt+QkrFkJE6ABNlqfRuO9cRQZSQ2ZU5tjQJII8ExHGGtqBajL/nDvaFgwaHEATq7nPd8swq70aoAg55LAB229V39BJLiFLYrsXWIZgbiRHtAseyh5vlLG3IuCVVdzLqA8626nuZ05/hnHgfC5Yp04XcL6n1ZeI6b6FPEyeApV2c80XlJ9xZi7YtXFYJERyVN4YegiAwE7ZHoCR4GECXNR1vm6r8SU/Pk9DHihc9Na7Y34AIvCmko/XAJS91jADfImPFSoUSl/xTWfVFGYE+G02qZS3uWkTMiRZODl7c0bnMsHzg==;Fpq6JrGv34CV5jg2+sc2Ew=="
 ---
 
