@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/bring-cloud-experiences-to-data-w
 webUrl: "https://azure.microsoft.com/blog/bring-cloud-experiences-to-data-workloads-anywhere-with-azure-sql-enabled-by-azure-arc/"
 type: article
 quality: 96
-heat: 97
+heat: 96
 published: true
 
 provider:
