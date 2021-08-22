@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-aks-cluster-autoscaling.md",
+      "title": "Cluster autoscaling with AKS",
+      "excerpt": "Learn how to scale your AKS cluster automatically using the cluster autoscaler",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-cluster-autoscaling/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-cluster-autoscaling/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 5,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aks-cluster-autoscaling-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 22539,
-            "average": 4.76991
+            "count": 22541,
+            "average": 4.7699304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -79,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 17121,
-            "average": 4.63647
+            "count": 17122,
+            "average": 4.6364913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 20321,
-            "average": 4.731608
+            "count": 20323,
+            "average": 4.731634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 22539,
-        "average": 4.76991
+        "count": 22541,
+        "average": 4.7699304
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -348,8 +391,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 22028,
-            "average": 4.709007
+            "count": 22029,
+            "average": 4.7089744
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -748,8 +791,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 11185,
-            "average": 4.7048726
+            "count": 11187,
+            "average": 4.7049255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -784,8 +827,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 16505,
-            "average": 4.7240834
+            "count": 16506,
+            "average": 4.7241
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1048,8 +1091,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6992,
-            "average": 4.646453
+            "count": 6993,
+            "average": 4.6465034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3847,49 +3890,6 @@
         "Containers",
         "Mobile",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-azure-container-instances.md",
-      "title": "Configure Azure Container Instances",
-      "excerpt": "You will learn how to configure Azure Container Instances including container groups.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-container-instances/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-container-instances/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 31,
-        "average": 4.870968
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],

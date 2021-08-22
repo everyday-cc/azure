@@ -4,42 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
-      "title": "Analyze DevOps Continuous Planning and Continuous Integration",
-      "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 2253,
-        "average": 4.7332444
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
       "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
       "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
@@ -887,8 +851,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-monitor/",
       "length": "PT27M",
       "ratings": {
-        "count": 18,
-        "average": 4.888889
+        "count": 19,
+        "average": 4.894737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1768,6 +1732,51 @@
         "Mobile",
         "Management Tools",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-authenticate-azure-deployment-pipeline-service-principals.md",
+      "title": "Authenticate your Azure deployment pipeline by using service principals",
+      "excerpt": "Learn how to create, manage, and grant permissions to service principals, which enable your deployment pipelines to securely authenticate to Azure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-authenticate-azure-deployment-pipeline-service-principals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-azure-deployment-pipeline-service-principals/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 6,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "DevOps",
+        "Management Tools"
       ]
     }
   ],
