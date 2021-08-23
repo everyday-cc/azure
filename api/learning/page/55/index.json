@@ -4,6 +4,44 @@
   "page": 55,
   "value": [
     {
+      "path": "_learning/videos/microsoft-batch-geocoding-and-polygons-for-administrative-areas-with-azure-maps-azure-friday.md",
+      "title": "Batch geocoding and polygons for administrative areas with Azure Maps | Azure Friday",
+      "excerpt": "Julie Kohler joins Scott Hanselman and shows you how to execute batch geocoding calls using Azure Maps as well as how to get the polygon for a administrative area on a map. Batch geocoding enables a developer to pass up to 10k geocoding or reverse geocoding calls in a single call while Azure Maps handles",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-batch-geocoding-and-polygons-for-administrative-areas-with-azure-maps-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-batch-geocoding-and-polygons-for-administrative-areas-with-azure-maps-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=o-j0Tgfaj2A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o-j0Tgfaj2A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M35S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T16:55:02-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/o-j0Tgfaj2A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-best-practices-for-azure-container-instances-aci-with-github-actions-azure-friday.md",
       "title": "Best practices for Azure Container Instances (ACI) with GitHub Actions | Azure Friday",
       "excerpt": "Azure Container Instances (ACI) allow for a quick, simple, and cost effective way to run serverless containers in production. ACI is generally available and is for hosting serverless containerized workloads, including ETL pipelines, serverless batch jobs, and API microservices. Come hang out with Scott",
@@ -1118,44 +1156,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-deploy-to-azure-using-github-actions-azure-friday.md",
-      "title": "Deploy to Azure using GitHub Actions | Azure Friday",
-      "excerpt": "Gopi joins Donavan to discuss how to deploy to Azure using GitHub Actions, which helps you to configure CI/CD from the GitHub UI. [01:10] Demo Start   GitHub Actions for Azure services https://aka.ms/azfr/535/01  GitHub Actions overview https://aka.ms/azfr/535/02  GitHub Actions docs https://aka.ms/azfr/535/03",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-deploy-to-azure-using-github-actions-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-deploy-to-azure-using-github-actions-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=p5l_gg-Spz8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p5l_gg-Spz8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M2S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-24T16:01:31-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p5l_gg-Spz8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

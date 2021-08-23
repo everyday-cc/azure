@@ -4,6 +4,41 @@
   "page": 23,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-5g-business-models.md",
+      "title": "5G business models for Azure cloud technologies in enterprise",
+      "excerpt": "This module introduces 5G business models for Azure cloud technologies.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-5g-business-models/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/5g-business-models/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 6,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-5g-tech-azure-cloud.md",
       "title": "Enterprise 5G technologies for Azure Cloud Services",
       "excerpt": "We introduce Enterprise 5G technologies for Azure",
@@ -1230,41 +1265,6 @@
         "Azure",
         "Containers",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aks-secrets-configure-app.md",
-      "title": "Manage Application Configuration and Secrets in Azure Kubernetes Service (AKS)",
-      "excerpt": "Learn how to securely store application secrets and configurations using native Kubernetes resources in Azure Kubernetes Service (AKS).",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-aks-secrets-configure-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-secrets-configure-app/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 51,
-        "average": 4.745098
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],
