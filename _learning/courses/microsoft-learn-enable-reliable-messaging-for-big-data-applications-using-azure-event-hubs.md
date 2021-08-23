@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT56M
 ratings:
-  count: 2890
-  average: 4.4802766
+  count: 2891
+  average: 4.4804564
 heat: 51
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Analytics
 
-secured: "ObUyE04cQYqHnc29XHqIbz8fp/MQNf6W014jog2FjJXpxC5FYqBq1skHlATIDs4uxrwzwOGZzeUOq768WZaWQL0NQbRVryy31gJLSGaIalmBbCo24RcCHgn2CoxoIaCzNC73IEdx+KXYWXR8awmxagHMONNgPIf4DfIfj9nj6TjmuCTrIsmE8makOqgTDk3oJ552DYt0PTvyTq8yTY8b9oU6GlJLc/vADGF69fWoNbz030ZNA+/h2jNGuNS1z0P/G2lkFDHVszhvTreJjdI96cayT+BiRB3nh3ih5w58N6wY9lokScm0rjN3Dck2wKOURaiVX3mEm3iSerLkB3FXxeA7ffd0+fqWWGm86EX82Nabj4NHO8RJIyIQ2kXmfaHomRyLvqGrHu88BZlHjduCw2mZ74KwYSPI0SN9sIZB6dI=;+qneMwyvAfnMQBUUVLOLmg=="
+secured: "gvXYenLAzpS9zVM3aUwmMkMFCxM9fCRU0GJfbTrAE+c0eOCTgyxNnI9FUFM4X7xkm+O0l6PjDBTSzLCpTYDylxXm1pCFIO5z3np0m66HcStm2+nFau2K4rBGYCOrWRnFnYootgPpGnSCsLITkhwTpjUgSMAOf0pgw+itj2TSpQGkmnha7wqVxJNVDU6IRiMk2nKtUJvlETmtR7g71S1stDZOAeQtCvxU+pz/tCNZ66Jo/ag8BlKzZYl304kSqmVRyTyw0bb9rQ1W0eOfh3qOabuZCLa2jAi59hZRerBdyhOfPDxosS5uFbzdLoSicWheMEL37DUZGr2/A1LCYGOLmyhtfha8LXF+LzfABA3VmHf/t8XetSlt0ZU0RW0AqLJbbVf+LiesZN+e2gIBNfXEyCqrESOSlGh44XuqKYCtwOg=;FNQOEpdtUE10QE4n2ZzzTQ=="
 ---
 

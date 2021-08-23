@@ -4,6 +4,44 @@
   "page": 66,
   "value": [
     {
+      "path": "_learning/videos/microsoft-run-your-vmware-workloads-natively-on-azure-with-azure-vmware-solution-azure-friday.md",
+      "title": "Run your VMware workloads natively on Azure with Azure VMware Solution | Azure Friday",
+      "excerpt": "Azure VMware Solution delivers a VMware environment as a service, which enables you to run native VMware workloads on Azure.  Shannon Kuehn shows Scott Hanselman the seamless experience to migrate VMs directly from on-premises to Azure.  0:23 – Introduction 1:44 – Background 5:18 – Demo 15:02 – Wrap-up",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-run-your-vmware-workloads-natively-on-azure-with-azure-vmware-solution-azure-friday/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-run-your-vmware-workloads-natively-on-azure-with-azure-vmware-solution-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=Zcmbj0KHkaY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zcmbj0KHkaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M29S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-06-11T00:57:34-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Zcmbj0KHkaY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-sap-hana-infrastructure-automation-with-terraform-and-ansible-azure-friday.md",
       "title": "SAP HANA infrastructure automation with Terraform and Ansible | Azure Friday",
       "excerpt": "Page Bowers and Donovan Brown discuss how SAP customers are moving to Azure to take advantage of SAP-certified HANA virtual machines such as Azure M-series. Learn how you can use Terraform and Ansible to speed up SAP HANA deployments on Azure in 30 minutes as opposed to hours or days. [01:48] Demo Start",
@@ -1125,45 +1163,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-using-hashicorp-consul-to-connect-kubernetes-clusters-on-azure-azure-friday.md",
-      "title": "Using HashiCorp Consul to connect Kubernetes clusters on Azure | Azure Friday",
-      "excerpt": "HashiCorp Consul is a distributed service mesh to connect, secure, and configure services across any runtime platform and public or private cloud. In this episode, Scott Hanselman is joined by HashiCorp's Geoffrey Grossenbach who uses Helm to install a Consul server to Azure Kubernetes Service (AKS)",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-using-hashicorp-consul-to-connect-kubernetes-clusters-on-azure-azure-friday/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-using-hashicorp-consul-to-connect-kubernetes-clusters-on-azure-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=Y6mXqn1faFo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y6mXqn1faFo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M5S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:59:20-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y6mXqn1faFo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],
