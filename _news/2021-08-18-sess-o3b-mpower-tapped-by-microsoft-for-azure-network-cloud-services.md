@@ -1,21 +1,27 @@
 ---
 category: news
-title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-excerpt: "SES ( News - Alert) today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft ( News - Alert) plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-publishedDateTime: 2021-08-18T06:52:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
+title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+publishedDateTime: 2021-08-18T06:51:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/1/2c/12cc956c-564a-5f8e-8ea2-2373e9bf96d7/611cb0dc9f383.image.jpg?resize=1200%2C480"
+    width: 1200
+    height: 480
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -188,18 +194,18 @@ related:
         height: 533
         isCached: true
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-    excerpt: "Aug. 18, 2021 /PRNewswire/ -- On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active ..."
-    publishedDateTime: 2021-08-18T18:53:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-301358325.html"
+    excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
+    publishedDateTime: 2021-08-18T18:50:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 46
     images:
-      - url: "https://mma.prnewswire.com/media/1597470/Cirrus_Identity_Logo.jpg?p=facebook"
-        width: 868
-        height: 454
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft Cloud Katana Released as Open Source for Testing Cloud Security"
     excerpt: "Microsoft announced on Thursday that it is releasing Cloud Katana as an open source code project for assessing 'security controls in the cloud and hybrid cloud environments.'"
@@ -492,6 +498,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "e+sOxRW8Y1rG/PVUlCkXijNBmAhrJuwxJqW3hvBPpYVsEqAALfEuALXGPy/0mqR5FW9bvBXNVmLesPxiuQ4SkUmjrXLpMYwnAE7PjHfVOftA35bPLg2LJ6V3SuB6LuKLfTaIvT0RfRZGv3q/ui1fd0p1hvhK3DjvXOoCPvp/2zJ6JJW4CXSJ+0IxiodfVIWxg+wRQ8GrJVvZ9WxxBzpV3WhCxvi6yNi6NjG9u6uK6CksapAMjbGpr7kclPwoSrnSyk7Yi8DdXosL6Yyd9SwV1AC8LCmC8CpS4BXLde8G9klfnq/Zn3zTUObhbwGA6wyQpTcejzHZqzzaoviN5ZS9ZCOJx9dp1vKvLewOODDeHTJIyZOYiAT8mWSsLaLLcwTFt8YVH59DQPQzpGft4MLwZYAosLX38GamZRHw7HPGeyw/Sx1TIvlSe3Y6J5Fan06pWWidCscA9tLSks55fZQCO4kKMt0rYIyOLR02ldBSZZ00E2l+67QPoLat6Fo+I5i0h6XaC4HZrFiT5MwYIFYfeA==;HK3KXkrNhLyU5xybPclHHg=="
+secured: "83GEumiMa5KofEUcQF6mp959IoP711UuyhHuWbj2C7MNQJqF6n6jhLe26jec6zA2vTHUac156gk8PNN3f03vRHWtD9mxPccmcV69VcZg7q2eYC7zzfwyb8iGNT44eZ7umEkCebrLM7r1nzhB6Mh1ugVKfIqmG74V34/JKQevaMAv/+5JVgkccmH5LUIzdgP0KpwL7HxyTn3j/j6TgW7sYn80xny3uL7zUszr4zw8wCwVss8pbrPrlWckvERqbLu42ikR/o/goNOCpUTcacPR2kPZoTBOetBdVlZih47GwEUD8KZvnWLGGCLapknnZIoBrkmTsMNERQbSSEeQInKMf/97sWCuVZmy06JeOzYVkHQ=;ybzjmpFmk/pfNEljoNkNdQ=="
 ---
 
