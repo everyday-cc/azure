@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 100
+heat: 184
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-use-azure-api-management-from-vs-code-azure-tips-and-tricks
   - videos/microsoft-azure-portal-productivity-tips-azure-tips-and-tricks
   - videos/microsoft-how-to-use-azure-service-bus-topics-azure-tips-and-tricks
   - videos/microsoft-how-to-use-azure-service-bus-queues-azure-tips-and-tricks
@@ -186,7 +187,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/L5dWy-sxg4w/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/cgHVoiloRME/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

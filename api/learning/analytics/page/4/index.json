@@ -4,6 +4,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-analytics-offering.md",
+      "title": "Introduction to the Open source Analytics Offering",
+      "excerpt": "Introduction to the Open source Analytics Offering",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-open-source-analytics-offering/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-open-source-analytics-offering/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 271,
+        "average": 4.6605167
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-the-open-source-analytics-offering-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-desktop-analytics.md",
+      "title": "Analyze Windows 10 diagnostic data using Desktop Analytics",
+      "excerpt": "Analyze Windows 10 diagnostic data using Desktop Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-desktop-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-desktop-analytics/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 12,
+        "average": 4.9166665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight.md",
       "title": "Manage enterprise security in HDInsight",
       "excerpt": "Manage enterprise security in HDInsight",
@@ -141,7 +228,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/object-detection-iot-edge-live-video-analytics/",
       "length": "PT27M",
       "ratings": {
-        "count": 5,
+        "count": 6,
         "average": 5.0
       },
       "provider": {
@@ -220,8 +307,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-data-warehouse-query-performance-azure-synapse-analytics/",
       "length": "PT36M",
       "ratings": {
-        "count": 124,
-        "average": 4.701613
+        "count": 125,
+        "average": 4.704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -349,8 +436,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/code-free-transformation-scale/",
       "length": "PT58M",
       "ratings": {
-        "count": 355,
-        "average": 4.292958
+        "count": 356,
+        "average": 4.294944
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -504,49 +591,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/perform-zero-etl-analytics-with-hdinsights-interactive-query-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory.md",
-      "title": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
-      "excerpt": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 439,
-        "average": 4.592255
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/petabyte-scale-ingestion-azure-data-factory-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
@@ -1129,50 +1173,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-train-machine-learning-model.md",
-      "title": "Train a machine learning model",
-      "excerpt": "Train a machine learning model",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-train-machine-learning-model/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-machine-learning-model/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 113,
-        "average": 4.654867
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/train-machine-learning-model-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     },
     {
