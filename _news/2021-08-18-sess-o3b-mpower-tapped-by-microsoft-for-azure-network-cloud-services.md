@@ -1,27 +1,21 @@
 ---
 category: news
-title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-publishedDateTime: 2021-08-18T06:51:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
+title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+excerpt: "SES ( News - Alert) today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft ( News - Alert) plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+publishedDateTime: 2021-08-18T06:52:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/1/2c/12cc956c-564a-5f8e-8ea2-2373e9bf96d7/611cb0dc9f383.image.jpg?resize=1200%2C480"
-    width: 1200
-    height: 480
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -498,6 +492,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "pGU34b7/GHGMW1RdgImwXi81B95mCkMX8UOp4wJTpBFutffBnc93rl4B8RWnL/wKsLZ9NvbHB1FBvqxZ2NcY8cnUgMuFS5vgqe1/UDdM0qHow5cuIu3TFf6LIeboJLQ7TW+kQNEus0YK+hYGSFtpp5Kseg7pTpxdu5O+/3e2r7/xW6b/cJGmRPYFz2krtEfL2fcY8cAb5+W5pEmc6BlZYkGNVq/o5fiGwbUSa53rRfq7Lf/r4rfFjUXdvVdmHPeXuFBlCkYMHzG65S//tS2PDKTIsHEQolHqqdch7duP9Z5Ae/CWGoRrIbJA0MG2P1CXqVfrPVJDj9HwWj16/VCIKHNTBKQb2DzQnUDF6KcDrq0=;1wsSPeZmF04pP6WSOGvwVw=="
+secured: "e+sOxRW8Y1rG/PVUlCkXijNBmAhrJuwxJqW3hvBPpYVsEqAALfEuALXGPy/0mqR5FW9bvBXNVmLesPxiuQ4SkUmjrXLpMYwnAE7PjHfVOftA35bPLg2LJ6V3SuB6LuKLfTaIvT0RfRZGv3q/ui1fd0p1hvhK3DjvXOoCPvp/2zJ6JJW4CXSJ+0IxiodfVIWxg+wRQ8GrJVvZ9WxxBzpV3WhCxvi6yNi6NjG9u6uK6CksapAMjbGpr7kclPwoSrnSyk7Yi8DdXosL6Yyd9SwV1AC8LCmC8CpS4BXLde8G9klfnq/Zn3zTUObhbwGA6wyQpTcejzHZqzzaoviN5ZS9ZCOJx9dp1vKvLewOODDeHTJIyZOYiAT8mWSsLaLLcwTFt8YVH59DQPQzpGft4MLwZYAosLX38GamZRHw7HPGeyw/Sx1TIvlSe3Y6J5Fan06pWWidCscA9tLSks55fZQCO4kKMt0rYIyOLR02ldBSZZ00E2l+67QPoLat6Fo+I5i0h6XaC4HZrFiT5MwYIFYfeA==;HK3KXkrNhLyU5xybPclHHg=="
 ---
 
