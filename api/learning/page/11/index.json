@@ -4,6 +4,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
+      "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+      "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 3080,
+        "average": 4.7185063
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
       "title": "Choose a messaging model in Azure to loosely connect your services",
       "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 4488,
-        "average": 4.6252227
+        "count": 4489,
+        "average": 4.625306
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -125,8 +168,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-resources-arm-templates/",
       "length": "PT21M",
       "ratings": {
-        "count": 144,
-        "average": 4.8333335
+        "count": 146,
+        "average": 4.8356166
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -167,8 +210,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 6378,
-        "average": 4.7447476
+        "count": 6379,
+        "average": 4.7447877
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -295,8 +338,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
       "length": "PT57M",
       "ratings": {
-        "count": 4014,
-        "average": 4.6370206
+        "count": 4016,
+        "average": 4.6372013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -638,8 +681,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-develop-ai-solutions-azure/",
           "length": "PT31M",
           "ratings": {
-            "count": 134,
-            "average": 4.7985077
+            "count": 135,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -781,8 +824,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-subscriptions/",
       "length": "PT30M",
       "ratings": {
-        "count": 76,
-        "average": 4.7894735
+        "count": 77,
+        "average": 4.7922077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -823,8 +866,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 142866,
-        "average": 4.7032113
+        "count": 142867,
+        "average": 4.7032137
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1075,8 +1118,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 3560,
-        "average": 4.741573
+        "count": 3561,
+        "average": 4.741646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1187,8 +1230,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-develop-ai-solutions-azure/",
       "length": "PT31M",
       "ratings": {
-        "count": 134,
-        "average": 4.7985077
+        "count": 135,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1299,42 +1342,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
-      "title": "Secure your Azure resources with role-based access control (RBAC)",
-      "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 7639,
-        "average": 4.6919756
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
