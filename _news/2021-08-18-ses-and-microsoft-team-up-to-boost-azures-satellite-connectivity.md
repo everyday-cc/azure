@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microso
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
 type: article
 quality: 97
-heat: 797
+heat: 800
 published: true
 
 provider:

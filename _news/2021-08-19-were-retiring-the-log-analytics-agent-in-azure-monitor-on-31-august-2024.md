@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/were-retiring-the-log-an
 webUrl: "https://azure.microsoft.com/en-us/updates/were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024/"
 type: article
 quality: 100
-heat: 161
+heat: 162
 published: true
 
 provider:
