@@ -318,14 +318,14 @@ related:
   - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
     excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
     publishedDateTime: 2021-08-18T06:51:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_8e3b1eb8-28b6-5526-8634-aca5f3e63c7f.html"
+    webUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
     quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/6/16/61600fbf-ffd8-5e7b-a133-2d9fa3769339/611cb1651e58a.image.jpg?resize=1200%2C480"
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/1/2c/12cc956c-564a-5f8e-8ea2-2373e9bf96d7/611cb0dc9f383.image.jpg?resize=1200%2C480"
         width: 1200
         height: 480
         isCached: true
