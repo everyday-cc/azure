@@ -1,27 +1,22 @@
 ---
 category: news
-title: "Microsoft Taps SES' Next-Gen MEO Satellite for Azure Cloud Services"
-excerpt: "SES announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
-publishedDateTime: 2021-08-18T00:49:00Z
-originalUrl: "https://www.thefastmode.com/technology-solutions/20544-microsoft-taps-ses-next-gen-meo-satellite-for-azure-cloud-services"
-webUrl: "https://www.thefastmode.com/technology-solutions/20544-microsoft-taps-ses-next-gen-meo-satellite-for-azure-cloud-services"
+title: "Telia Company to become Microsoft Azure Networking MSP partner"
+excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
+publishedDateTime: 2021-08-23T14:14:00Z
+originalUrl: "https://www.telecompaper.com/news/telia-company-to-become-microsoft-azure-networking-msp-partner--1394570"
+webUrl: "https://www.telecompaper.com/news/telia-company-to-become-microsoft-azure-networking-msp-partner--1394570"
 type: article
-quality: 37
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Deep
-  domain: thefastmode.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.thefastmode.com/media/k2/items/src/554597a1e4eae85d3c93ce1ca6d40d2f.jpg?t=20210818_004732"
-    width: 752
-    height: 408
-    isCached: true
+  - Networking
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -305,6 +300,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft Taps SES' Next-Gen MEO Satellite for Azure Cloud Services"
+    excerpt: "SES announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
+    publishedDateTime: 2021-08-18T00:49:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20544-microsoft-taps-ses-next-gen-meo-satellite-for-azure-cloud-services"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/554597a1e4eae85d3c93ce1ca6d40d2f.jpg?t=20210818_004732"
+        width: 752
+        height: 408
+        isCached: true
   - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
     excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
     publishedDateTime: 2021-08-18T06:51:00Z
@@ -344,15 +353,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
-  - title: "Telia Company to become Microsoft Azure Networking MSP partner"
-    excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
-    publishedDateTime: 2021-08-23T14:14:00Z
-    webUrl: "https://www.telecompaper.com/news/telia-company-to-become-microsoft-azure-networking-msp-partner--1394570"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -498,6 +498,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "ZTdT3vO7PpXxYQu8C/mOfNwO7ak2S/HBIOydS5GVp2copDMhJ8nswMQ7i9lR34OfbP0nYcIjFozd7B9VlxYBRin6pLzvVAqOOr/gytVACAb4c1nla/kl3zN2efOb19ZDFQn7UVemF0uMi/2Xjy0JR6Yz0hdTnx4ar5gVDYaIs6/gGYkdfD1yPx5oOEFsyET7RfkpU/We01Oj0O7d0gpDIbsbNJ+bgOiynz9T41ZOGlX0prUNfIRZ3DPP+ftPWKDXw44+y5fATwcew01QQcl8Y9Iu2GKNcW93RgqniWDgdZ+/F4rM9Yij9zgp0TpfbkTyF7X9w/SdIG8kfZBEHrMHf2b8CG6Gkd/wRuFyy6AmzOKKa3C03O9hJnn6s3wsgYe+uwGv+Mojq27N84C7DPiHi4xW+XGf0OwWNVG1PTcZXdakonL+IFK95xgmw6di6kzzFR7+blvVEFD/vV89V6QsFEzpMMo2hQzZr8S4c2JyfijuxTyEOLdcDrQMM99ytqxhEVBYQqMmfGBFGAGDnGzQZA==;rXFdGorTymbRPt/bBTHi5w=="
+secured: "y1J91K5X+tKPbtuAOZgOvYY8e9dSE4p9wQGxETfm8cWnhHWQ94qPEdzk1zP3jSCcAKQYzpY2LwH/BqtDCQ6yoEu6d5/mvi8NpY662rt9Rd9KIA3pCcfQb0jyEfWuKxbIO4v126wnAGnEt6+ah/lmpWc4wJDamzbWLl0S75JSYCaDMmkpOzS72sT/NcN240HeHrOQ/4v8BEWr3hI7zPJygHJ/oWfy8Do7xD0dxe7Ar5F5wrBuXBH2W7rVASlrZMXWOea4kIqWslb69fOmGBA/L02Hqgouroc5iNclFrn1Lxy08zaRb9avO0GJZAvI2gvhUs6Y29o9kxjcfGJZMFA2VPXDUd4x+oWSfOb1IBCYMVc=;hd+EXXwv7ejhIGsnWI6rmQ=="
 ---
 

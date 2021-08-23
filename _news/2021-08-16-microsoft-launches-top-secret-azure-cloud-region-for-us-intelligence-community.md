@@ -354,6 +354,15 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
+  - title: "Telia Company to become Microsoft Azure Networking MSP partner"
+    excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
+    publishedDateTime: 2021-08-23T14:14:00Z
+    webUrl: "https://www.telecompaper.com/news/telia-company-to-become-microsoft-azure-networking-msp-partner--1394570"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "Rubrik teams with Microsoft to develop Zero Trust anti-ransomware Azure services"
     excerpt: "Microsoft has made an investment in Rubrik as part of a strategic deal involving co-development of Zero Trust anti-ransomware services in the Azure public cloud with joint go-to-market activities. The two companies will provide Microsoft 365 and hybrid cloud data protection and integrated cloud services on Azure."
     publishedDateTime: 2021-08-17T16:06:00Z

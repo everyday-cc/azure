@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microso
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
 type: article
 quality: 97
-heat: 800
+heat: 820
 published: true
 
 provider:
@@ -348,6 +348,15 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
+  - title: "Telia Company to become Microsoft Azure Networking MSP partner"
+    excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
+    publishedDateTime: 2021-08-23T14:14:00Z
+    webUrl: "https://www.telecompaper.com/news/telia-company-to-become-microsoft-azure-networking-msp-partner--1394570"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
