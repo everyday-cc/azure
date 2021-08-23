@@ -3,8 +3,8 @@ category: news
 title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
 excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
 publishedDateTime: 2021-08-18T18:50:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
-webUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
+originalUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
+webUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
 type: article
 quality: 46
 heat: -1
@@ -307,20 +307,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T06:51:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/1/2c/12cc956c-564a-5f8e-8ea2-2373e9bf96d7/611cb0dc9f383.image.jpg?resize=1200%2C480"
-        width: 1200
-        height: 480
-        isCached: true
   - title: "Space Broadband Wars Heat Up: SES Connects Azure Cloud, Cruise Ships"
     excerpt: "O3b mPOWER network as a “goldilocks” broadband satellite solution, offering advantages over geosynchronous Earth orbit (GEO) and low Earth orbit (LEO) constellations from SpaceX, OneWeb, and Telesat."
     publishedDateTime: 2021-08-18T13:59:00Z
@@ -431,6 +417,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES ( News - Alert) today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft ( News - Alert) plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-18T06:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Quorum set to deploy XSellerator dealerships on Microsoft Azure"
     excerpt: "Leveraging the Microsoft Azure cloud platform eliminates the need for on-premise servers or a Quorum-hosted solution. “Quorum is now actively marketing and selling the Microsoft Azure cloud platform to existing and prospective XSellerator DMS customers ..."
     publishedDateTime: 2021-08-19T18:24:00Z
@@ -500,6 +495,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "93GsIfcZ+5DFu+O8MW0hKds3BNfoid1rkVEWt0nc6+n45m/2ZtajV3ws2MgXKztHWCTH7JAfL1P6Qwu/FTvAB6OrJF+BG4/me0Yjn6mIe5AS6pFKphOF/YzmD+4FljIRh0XbNutrfy1CDETuIk5ymRjd2AvJL0OOC0fCODxKbywY7jTAPnuWuV7/8PAY4TRU8AxqWJgpKY/q+UTDZNl5OrsDJy8Ykvg3LLIv6gC3dtyBbEXEQp9E8R1+7hzpfVYhMynMZXeVxTUEp4TegEIBXwkQsVwqfpLuZM3yKEX5Q0/nF9WbyBNJZ6Mfr0orL7WrApbcTa3Ii8g1oN+P6fFIkcqHxcB6TamUBkV6XbcxohE=;11AtDw8liKbfWLCAR6y9LA=="
+secured: "psobxufJr4KqlZ0S+7spu+xyb/c1CXnc1KbMVV6kkKQkhcwTlXAiFWAB/JsarmgyAvsxAruvQoKd1FXj+sReBNduTg7XF+yCrEWyI41ClXwdq1f3o26KJLWTWeHUTsWn2GNwO4vDNa26sna/KTGt9cHFUjz3G1CMekRA7rNPovQZVyGRPv5eeDf18K9602LbZWFV6OZLbkIMwPWYxwwkEaTqceVZVIImegl57pKnIG6GboIePNJbSyDq1tbvwA0U/Nk3qY+DOR2aj3+1BwK5x+BZNr8JDfDk4JNm+quYCNnE4geGsKODOYfsVIFXJwG9t5n77twMKzhDKgXujwoflb1dRNdraNIPfS41zxcrqYU=;rQw1T276pM34YsqfVw1Qqg=="
 ---
 

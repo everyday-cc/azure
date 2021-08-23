@@ -1,27 +1,21 @@
 ---
 category: news
-title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-publishedDateTime: 2021-08-18T06:51:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
+title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+excerpt: "SES ( News - Alert) today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft ( News - Alert) plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+publishedDateTime: 2021-08-18T06:52:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/1/2c/12cc956c-564a-5f8e-8ea2-2373e9bf96d7/611cb0dc9f383.image.jpg?resize=1200%2C480"
-    width: 1200
-    height: 480
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -196,7 +190,7 @@ related:
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
     publishedDateTime: 2021-08-18T18:50:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
+    webUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
     type: article
     provider:
       name: Associated Press
@@ -498,6 +492,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "83GEumiMa5KofEUcQF6mp959IoP711UuyhHuWbj2C7MNQJqF6n6jhLe26jec6zA2vTHUac156gk8PNN3f03vRHWtD9mxPccmcV69VcZg7q2eYC7zzfwyb8iGNT44eZ7umEkCebrLM7r1nzhB6Mh1ugVKfIqmG74V34/JKQevaMAv/+5JVgkccmH5LUIzdgP0KpwL7HxyTn3j/j6TgW7sYn80xny3uL7zUszr4zw8wCwVss8pbrPrlWckvERqbLu42ikR/o/goNOCpUTcacPR2kPZoTBOetBdVlZih47GwEUD8KZvnWLGGCLapknnZIoBrkmTsMNERQbSSEeQInKMf/97sWCuVZmy06JeOzYVkHQ=;ybzjmpFmk/pfNEljoNkNdQ=="
+secured: "W+HlyvdSySfXJv0CoMrEdffu4kxK9eGbV05KLP7chAIgGntsEG+/coBXb7tSAGomd6tPSqnS1TnUg5O7jQupDOobMX+Lq5mSlPsdZqBWzGwBBxuE/lXSsMiZoN9OUp+VIw4360dqONxvLg7MoCwY1kxV7wemzP9xh4C2BZYDpJH82HXzOvo/0eLBi8Wji0Lp/bY8cIy4Ntre2DyAxEgdDxJ+v/LiAvC8btqJbaIzOmSsQ1+G2XBHwdnOKO6HwhJS671f/hnRLqYbvGu2rjVaxK2eFvleS8YfzJS4+eo6pvEhfKg/GwHIhkkWRfd7cE13WW1kEtgLTyJmzgsy1kHs/xdtCfHDQPpsDRNQNgDbffji6RNlCgNyOhpkCOSlk8xAqPUdigsEXGroRxXeGEtzzVC7g1WnDjZ5oLr4KhbWlAoW9VhRd7brcMyX8tdZrcQ90ngHhJBED+cvJt4Ie11E01wP4B2Zxw4cw2EvA4cKbtcmR19MDpqSa5q9bfY5/tIzYQqejAPGg8K/1RuHcE/+ag==;A3GNSplxBpSrn2hZFFrDBA=="
 ---
 
