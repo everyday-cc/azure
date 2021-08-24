@@ -36,6 +36,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+    publishedDateTime: 2021-08-24T12:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
     excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
     publishedDateTime: 2021-08-19T20:59:00Z
@@ -315,6 +329,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-18T06:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Space Broadband Wars Heat Up: SES Connects Azure Cloud, Cruise Ships"
     excerpt: "O3b mPOWER network as a “goldilocks” broadband satellite solution, offering advantages over geosynchronous Earth orbit (GEO) and low Earth orbit (LEO) constellations from SpaceX, OneWeb, and Telesat."
     publishedDateTime: 2021-08-18T13:59:00Z
@@ -428,15 +456,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "SES's O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES ( News - Alert) today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft ( News - Alert) plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-    publishedDateTime: 2021-08-18T06:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sess-o3b-mpower-tapped-microsoft-azure-network-cloud-/2021/08/18/9432857.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Quorum set to deploy XSellerator dealerships on Microsoft Azure"
     excerpt: "Leveraging the Microsoft Azure cloud platform eliminates the need for on-premise servers or a Quorum-hosted solution. “Quorum is now actively marketing and selling the Microsoft Azure cloud platform to existing and prospective XSellerator DMS customers ..."
     publishedDateTime: 2021-08-19T18:24:00Z
@@ -474,13 +493,13 @@ related:
       domain: financialbuzz.com
     quality: 15
   - title: "TCS MasterCraft™ Products are Now Available on the Microsoft Azure Marketplace"
-    excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, announced that TCS MasterCraft™, a suite of intelligent automat"
-    publishedDateTime: 2021-08-24T07:10:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297667"
+    excerpt: "Tata Consultancy Services’ Suite of Intelligent Automation Products Will Help Enterprises Speed-up their Application Modernization and Accelerate their Movement to the Cloud. MU"
+    publishedDateTime: 2021-08-24T12:50:00Z
+    webUrl: "https://www.tcs.com/mastercraft-products-available-microsoft-azure-marketplace"
     type: article
     provider:
-      name: Equity Bulls
-      domain: equitybulls.com
+      name: Tata Consultancy Services
+      domain: tcs.com
     quality: 13
   - title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
     excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"

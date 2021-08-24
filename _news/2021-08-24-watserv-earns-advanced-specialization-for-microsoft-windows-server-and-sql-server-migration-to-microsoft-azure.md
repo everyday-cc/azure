@@ -1,21 +1,32 @@
 ---
 category: news
-title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
-publishedDateTime: 2021-08-18T18:34:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
-webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
+title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
+excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+publishedDateTime: 2021-08-24T12:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
 type: article
-quality: 2
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - Migration
+
+images:
+  - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+    width: 400
+    height: 225
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -33,20 +44,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629303595/itpro/SES_Banner_With_Lines_4k_High.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-    excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
-    publishedDateTime: 2021-08-24T12:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
     excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
@@ -533,6 +530,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 2
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
+    publishedDateTime: 2021-08-18T18:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
   - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
     excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
     publishedDateTime: 2021-06-30T06:50:00Z
@@ -561,6 +567,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "saN2YMsmPVYca58Yu086gIl/6EsD5dHrHYl4nd6XJCwbOVX5er3Y1TVAZoN92q3gaRYiHGg4NwKkJz8u2owBIGW1zqGW8Nwn8JqJE4dOzkCD1x9y52ko73qcqfuJWVQnFve1V/gx0jyGR1QLdPJdmiRRsQxm2OQNUZU/cMMpQ5/nUkbpGSbLqwCgVdVdFm3RCW6LyWm1HIsaIRQjcnerFDxV1uzVfFCVBhLfFZEHgR/A9zC+gAICco4/cyusIZBUjRBStc3gEWxZ0M8/yz1WruLRy+DRhj/KqysUVIhAZq0ILHS/kVrdhic27vxgtDZ4P9+sj1W6z9Qa6CVGNe1QxfQTvueOKp9Yf/q/xt7rH+U=;/5TBNquHhEpBEe3WJcxfUQ=="
+secured: "jFxHXll7izCtj7DkdCSArt3+3GAq1nLheo4OYl1vU5jDuBB1jIyqv5XlY7YVMVpC6XNdgtP2NpDCbRT0ahOrUjFJYAJZMR2spHh2K8jemn6n/JmdpsCZ5t4/A0W9lCV8LRiQPTOI63cND8qqz86+KbMbPDO5YShQMkPrDf+pmoAxO2PdHcc8Q/DOQOiS+Iq6WFXsN+45TQBqJ00/O+sURG7Z+q9H2Z6YU21vVw3oUgOH7y20gpL1UDQINgQ3MOrXcH6SA+38wg/uNHgvzUW4OObu3fHuwlpjmx8dx9HqNj5tCw9IVUKIxykT7+In9lxpnBGanUzd8R+gz/eHE4rwZaFn+eaPwJ29AaAjgDr3aCI=;2E/FSEOcUNMXgR3e1+D7KA=="
 ---
 
