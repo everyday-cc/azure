@@ -1,35 +1,39 @@
 ---
 category: news
-title: "SES and Microsoft team up to boost Azure's satellite connectivity"
-excerpt: "Microsoft has teamed with SES Satellites to enhance its Azure Orbital solutions. Microsoft will leverage SES’s medium Earth orbit (MEO) system, O3b mPOWER, as part of their partnership to boost Azure’s satellite connectivity."
-publishedDateTime: 2021-08-18T16:18:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity"
-webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity"
-ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
+title: "Sunshine Holdings drives business value and transformation with Microsoft cloud services"
+excerpt: "Sunshine Holdings, a diversified holding company with interests in healthcare, agribusiness, fast-moving consumer goods and renewable energy, is driving business value and innovation with its new analytics platform based on Microsoft Azure technologies,"
+publishedDateTime: 2021-08-24T03:17:00Z
+originalUrl: "https://island.lk/sunshine-holdings-drives-business-value-and-transformation-with-microsoft-cloud-services/"
+webUrl: "https://island.lk/sunshine-holdings-drives-business-value-and-transformation-with-microsoft-cloud-services/"
 type: article
-quality: 97
-heat: 860
-published: true
+quality: 0
+heat: -1
+published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Island
+  domain: island.lk
 
 topics:
   - Azure
 
-images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629303595/itpro/SES_Banner_With_Lines_4k_High.jpg"
-    width: 1260
-    height: 710
-    isCached: true
-
 related:
+  - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
+    excerpt: "Microsoft has teamed with SES Satellites to enhance its Azure Orbital solutions. Microsoft will leverage SES’s medium Earth orbit (MEO) system, O3b mPOWER, as part of their partnership to boost Azure’s satellite connectivity."
+    publishedDateTime: 2021-08-18T16:18:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 97
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629303595/itpro/SES_Banner_With_Lines_4k_High.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
     excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
     publishedDateTime: 2021-08-19T20:59:00Z
@@ -510,16 +514,7 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 0
-  - title: "Sunshine Holdings drives business value and transformation with Microsoft cloud services"
-    excerpt: "Sunshine Holdings, a diversified holding company with interests in healthcare, agribusiness, fast-moving consumer goods and renewable energy, is driving business value and innovation with its new analytics platform based on Microsoft Azure technologies,"
-    publishedDateTime: 2021-08-24T03:17:00Z
-    webUrl: "https://island.lk/sunshine-holdings-drives-business-value-and-transformation-with-microsoft-cloud-services/"
-    type: article
-    provider:
-      name: Island
-      domain: island.lk
-    quality: 0
 
-secured: "eYWS5VDl9nV7vl57O0wy/OmbqR42+Y45vbu9d+GHLKhuNXhaLAKC2HyuyCHOQXlA/JzixwPv90x3kXBAR7iX55bwndS3QDi1MXifqtPan/8v304NXYVvbyyspphevfMm+aw7L+eF/gr4TDDBanH5uQPqUFAenmrptwTLtR1gNSWdMeHC6CAaEcLKeUxZwUIucp6pUiXXzpwbFz8wa27qXoTjvk/ie3RPyLl01OhD/1Oe4sp2S0PFAiFK+ItOPG/zhhJz4xgtNC8GxRC+403bKc62rKWfsb7kdtMQyuIU6Z2SbiQDebVnCQTl+I0xaFr2mSWEloclHtv8tYNKhcQPSiV4b2aIqTysF91MBuhFOY9PDqIG1looX9hTz0ZFDqduzOEgGEAzeFieH1arEbmUV/pYQTAIq5vcPPL/VmZbgXNtSNdz9tqZs8+OuR045enbStgS3mC7vbbwBhdC6nmnru3aiuK2U8c7KONk6b45Lacey6R/rr6wH4pzjvpet1dsL3CoIWwcfaPl58rXsx3Gig==;zWaNX5rgtGqsfHm5oOIXgg=="
+secured: "9X5sgBiKnVK+kpgRMJRRkiTvY4pqxJg5yvn4DM1nWUwyyGOZ+L0ijzWdgTb96neRPfVxL0zsaMHN73VhClW0l4pgMjjTOPxBdfC2KHA6/NC9nGwEN9NZoaT1a3Vl6NhVNZ+oD3HVVkiQmuS+Q2zrr8IXq429FT+Nshbr67kzAOWEAVQ2qC68BpasKJIC17liwH3J5nNT+YSYhG0ajVq5qV1/qyKrU54hMKVkmT+GP/TpLydia4jOggU1dXnJIaz2RyH7yA2zaRVQzSmW+/frVbJiyPIP28ymUpvQn8/+wj4bC6kaYSFG5ShlHgYuK5SguaukioieNvtujpkte756B/4k5uPvLXZ0QDvcLzdJeYg=;kSBfYVIrlORIcfRhkjzCSw=="
 ---
 

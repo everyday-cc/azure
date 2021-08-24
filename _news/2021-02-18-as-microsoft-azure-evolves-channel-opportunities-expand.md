@@ -506,6 +506,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 0
+  - title: "Sunshine Holdings drives business value and transformation with Microsoft cloud services"
+    excerpt: "Sunshine Holdings, a diversified holding company with interests in healthcare, agribusiness, fast-moving consumer goods and renewable energy, is driving business value and innovation with its new analytics platform based on Microsoft Azure technologies,"
+    publishedDateTime: 2021-08-24T03:17:00Z
+    webUrl: "https://island.lk/sunshine-holdings-drives-business-value-and-transformation-with-microsoft-cloud-services/"
+    type: article
+    provider:
+      name: Island
+      domain: island.lk
+    quality: 0
 
 secured: "PfOAkcI7vYLRoVK/tbJswQkWeHVycLS/0NN9VcBodnCSKbG6Wg3re/QTj+d2gQTOm9MUyAjIFcSjjkAxEQYRyayk3tsNcemsc7N61AC/MElY6SyENBGPF7fWOLTovcVwd60PZ24JS8jbjvdDPMAwm8QS6fzYuS32GsP5kj+7SN5Tl7S41XrzE5tgjCzX6nM/cinmLXtmgvzNMV+Dl0hAjcdKJv7SE7f2W8z2hAL8+3IGLoyBtCdb1WJeQM+jSMR2kwtUnnUANnWcygih9QTPU4zSRZjpOwfDASZf7PIXtLtKVNWftjKH54saowkU2tE1thcCZPyV2eNiZ8mih2x9sU211Bk0B9ELmuKfz6p3UUw=;/GlSP7XXP19GLKkQcEpuIQ=="
 ---

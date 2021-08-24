@@ -505,6 +505,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 1
+  - title: "Sunshine Holdings drives business value and transformation with Microsoft cloud services"
+    excerpt: "Sunshine Holdings, a diversified holding company with interests in healthcare, agribusiness, fast-moving consumer goods and renewable energy, is driving business value and innovation with its new analytics platform based on Microsoft Azure technologies,"
+    publishedDateTime: 2021-08-24T03:17:00Z
+    webUrl: "https://island.lk/sunshine-holdings-drives-business-value-and-transformation-with-microsoft-cloud-services/"
+    type: article
+    provider:
+      name: Island
+      domain: island.lk
+    quality: 0
 
 secured: "0LOOocHCyP5hZMyUiXxa7pY5NAV3+TmnWGHKz8pLWBW4vtKQyVVkCBdEEi2DJhm2mtTGtEGuWi/OFz7usDlwxacW5WbL4743/m7Bu//wn0epqAOXYmKGmCaxsRxfeirEN2AdmPFxeC9rSt8PtSFK3FzE43J5xYRbATxi7mXTIcph7fWD9zjfhX07xWSOp4vbUju1ABlbxytZJZG258ew52O0J2uta4OSIrag1YRW0zx6+0SHxS2zsWplQ5GoOZIqqMpOMimmpYYLsdJxsYG2xJITvFD3zQ/SJdW3EhOiJ3hIMxrHYCJfCE0nCgJI0w6EjbC31mvIKDOtY3z9vFIBT2TL580cvwUz3mAECIoTPYo=;fAj1h9WTA3uuA6/REmGxVQ=="
 ---
