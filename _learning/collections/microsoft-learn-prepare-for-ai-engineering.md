@@ -4,7 +4,7 @@ excerpt: "Prepare for AI engineering"
 type: collection
 price: Free
 length: PT31M
-heat: 54
+heat: 57
 
 provider:
   name: Microsoft Learn
