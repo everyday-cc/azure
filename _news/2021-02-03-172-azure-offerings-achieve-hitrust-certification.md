@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/172-azure-offerings-achi
 webUrl: "https://azure.microsoft.com/en-us/updates/172-azure-offerings-achieve-hitrust-certification/"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,15 @@ related:
     excerpt: "Azure’s PCI 3DS Attestation of Compliance, PCI 3DS Shared Responsibility Matrix, and PCI 3DS whitepaper are now available."
     publishedDateTime: 2021-02-03T22:24:26Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-achieves-its-first-pci-3ds-certification/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure expands HITRUST certification across 51 Azure regions"
+    excerpt: "Azure expands offering and region coverage to Azure customers with its 2021 HITRUST validated assessment."
+    publishedDateTime: 2021-08-23T21:38:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/2021-azure-hitrust/"
     type: article
     provider:
       name: Microsoft

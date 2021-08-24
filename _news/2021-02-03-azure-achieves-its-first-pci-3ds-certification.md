@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure expands HITRUST certification across 51 Azure regions"
+    excerpt: "Azure expands offering and region coverage to Azure customers with its 2021 HITRUST validated assessment."
+    publishedDateTime: 2021-08-23T21:38:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/2021-azure-hitrust/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "l+XfBPoIKwyQmEvkzXG8BNREyi/sZH3xfHIA8XX+zMIOlFNNANEMIf1VrdkVoI5DbROxuvcPgJj1EcQhxAFPKslOtrCPsIWpQ+/S+AizJxaY9CcH9iSFxz2Ui+2WvwXzVUQHbvB37VyJKH/27ZGrcaIOEmGuskwlbq4OUR1UVKPs2pH932iPTzZTzYi9zVj3/tLadex8IYgfYmJz8YVU09dc5eUM27bQfTnW/2cplRBeze48UVfeIfXNpjeAslZkwuzKMp34ApnNcg+DD8WWMbhqBmeL8B8NMNSnoWqvqi+nxmxbrahOdNT/YbeXRivuVAcPQkZtmsjNkvZyknjfP19v44FjyMqqVqKZkP7E6do=;ob/UaM5WP7bAcXA6X7iQbw=="
 ---
