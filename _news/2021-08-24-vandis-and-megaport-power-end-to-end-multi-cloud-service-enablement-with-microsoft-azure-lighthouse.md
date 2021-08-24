@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Vandis and Megaport power end-to-end multi-cloud service enablement with Microsoft Azure Lighthouse"
-excerpt: "Vandis Inc., today announced their collaboration with Megaport, a leading global Network as a Service provider, to simplify and expedite"
-publishedDateTime: 2021-08-24T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vandis-and-megaport-power-end-to-end-multi-cloud-service-enablement-with-microsoft-azure-lighthouse-301360197.html"
-webUrl: "https://www.prnewswire.com/news-releases/vandis-and-megaport-power-end-to-end-multi-cloud-service-enablement-with-microsoft-azure-lighthouse-301360197.html"
+excerpt: "Combining Vandis's expertise in professional services for managing Microsoft Azure and multi-cloud environments with Megaport's global, on-demand Network as a Service (NaaS) and Megaport Cloud Router (MCR)'s advanced virtual routing capabilities,"
+publishedDateTime: 2021-08-24T14:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-vandis-megaport-power-end-to-end-multi-cloud-/2021/08/24/9436425.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-vandis-megaport-power-end-to-end-multi-cloud-/2021/08/24/9436425.htm"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -33,6 +33,20 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629303595/itpro/SES_Banner_With_Lines_4k_High.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+    publishedDateTime: 2021-08-24T12:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
     excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
@@ -389,20 +403,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-    excerpt: "PRNewswire/ - WatServ announced today that it has earned the “Microsoft Windows Server and SQL Server Migration to Microsoft Azure” advanced specialization, demonstrating the company’s extensive experience and knowledge in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure."
-    publishedDateTime: 2021-08-24T12:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-178d1e548099bc1cb5d924fb707a9d2f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -575,6 +575,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "/CHkp+IDRyWFKSWDj0GfRQuyIy1GBhbR1tubfV42Uh7Ih8RuriuX5sw6yRVdzg8uyI2tg111Diu4JC8Lq/0BX6DTjAGSOx0iRUr8LgcXUzvijOZV5gduwRJKZOj6FddjMJzKtmNxnPaHRwSutgpqaKs1bsRBy3MKLVAUFvJ1Ki3SMU0sefmyleaVj8qNIlgNwOUfJ+UrIvr3XTH6Ve/cp4dqqXLHcj/1IVbx/Oft2wyJA940KjZjurySNmEf+dEy1kTsXckTmHxG/co9dDFsU8i1HtvV+eFYoXaFUQx08Ov7HKyHObWgiq1335c+6/2zL66nWuYHjPbifdRd6KdsNvVcQR1NHlmjl3P87gJ7ios=;DPtjOjLszQR9FJcsU+Rx+w=="
+secured: "Hsh9MhMTKfmw/NbO6w3X7cEapMGgjiPOWPwIVMFWF/+12Evq9+OfNAz5lXz0XoPX2rXF6px32VNavgMGf6KBJQyZFkY0Hu/XNykicMpyh7oGap2CSuGo3g/M2pba/XI/Uiy/Hs0a9/YPP3w7JhawhK1KBNDauPt/NLUQDetO2pCt9jUryF+3tpBlBeY8mv88O+ofhSOw3UiPhdCvaqh/V9bh5Xcsfr0L6rY8SAqVnZaaDpVVE9jK9adR3B5/oGwrXdfeLkatj5UujG9IQU65jaUDVg6d3fq5jpujuYNZXpV8fFxW7zbmmIyrrcmQQl0EW0gip/1yn3LT/tjPEv2u6hdE1y3i+dAVYVoGUlSCshQ=;yP/GSaNIlboz0uzmlNJABg=="
 ---
 

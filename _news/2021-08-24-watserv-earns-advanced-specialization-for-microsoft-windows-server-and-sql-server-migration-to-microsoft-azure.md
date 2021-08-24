@@ -1,27 +1,31 @@
 ---
 category: news
 title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-excerpt: "PRNewswire/ - WatServ announced today that it has earned the “Microsoft Windows Server and SQL Server Migration to Microsoft Azure” advanced specialization, demonstrating the company’s extensive experience and knowledge in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure."
-publishedDateTime: 2021-08-24T12:27:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-178d1e548099bc1cb5d924fb707a9d2f"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-178d1e548099bc1cb5d924fb707a9d2f"
+excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+publishedDateTime: 2021-08-24T12:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -523,13 +527,13 @@ related:
         height: 588
         isCached: true
   - title: "Vandis and Megaport power end-to-end multi-cloud service enablement with Microsoft Azure Lighthouse"
-    excerpt: "Vandis Inc., today announced their collaboration with Megaport, a leading global Network as a Service provider, to simplify and expedite"
-    publishedDateTime: 2021-08-24T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vandis-and-megaport-power-end-to-end-multi-cloud-service-enablement-with-microsoft-azure-lighthouse-301360197.html"
+    excerpt: "Combining Vandis's expertise in professional services for managing Microsoft Azure and multi-cloud environments with Megaport's global, on-demand Network as a Service (NaaS) and Megaport Cloud Router (MCR)'s advanced virtual routing capabilities,"
+    publishedDateTime: 2021-08-24T14:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vandis-megaport-power-end-to-end-multi-cloud-/2021/08/24/9436425.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 3
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
@@ -577,6 +581,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "HQLHSe2jRlkCWW4rU/r+zN5hItOTRsexZ6VcBJ6rVwW+PDafLgan03OH3LKOcdOr3PN/FAgWId+M75U24CjuekWGngcPigtAXPk1HyC1R3IDXh2ynvpnwwOmxkrHQVFfnlST1BrVhZR9AK5y5n5TDnHAEl15vpyAzTD/ZDJ9FSoETeHzhPYeWBoyrceL+HhYMd6jcQuowsK9Z0ddwzv4V5cUDbZWkzD+RE3JNiA/q6aH2ZYLnIqy59pSfBTDHTCikfJgMN5bSEB42k4htRsCh6gynhVEC7tbw6xoUyrwaKTmzVgP6QS0kqpFb8EAY0WvyOebd8IlEmHHzDP9U26PsK0oRFRQghVLLcCKz+o6VaY=;fV6OHk9FI/YeA8XRNi0eyQ=="
+secured: "BKW7PBM/sqcDVif5HESU2jWA6TjUzlewjoD1VH2Z+IC9hNPliLQotlLhtRlINTBzU9k0eyN9L1KEvApHN6WOZ+MRe8fbXRWARsVa+mYxowNdblqLsaG3WxkFLJp9qiFitnY/SVkcIk/0ghY1X1ikH2XA8aidAeAt2LfwRyHAJL+B4Gs/Io7WkHmDkOrK0PPmH0m+h/ZjSXHdXqpxd9JhXBxCKqW3qSfBLASLop6ZvEzEHl6P0gYMPE7s+rCwqXylDQvQV+0qYPgTgNS++VOQPEq/BB9Gkz+1owhEfBYFv9WBOdVU4+WgYT4ijjiWb3hOkBpckPBqF6/y/uQRj/ZcbN1Q915R8ZHXG5liDgau2kc=;uSGbEgnXiUAptbLtW38uSg=="
 ---
 
