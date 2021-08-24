@@ -3,8 +3,8 @@ category: news
 title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
 excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
 publishedDateTime: 2021-08-18T18:50:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
-webUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
+originalUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
+webUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
 type: article
 quality: 46
 heat: -1
@@ -435,6 +435,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
+  - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
+    excerpt: "CUPERTINO, Calif.-- August 17, 2021 --Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and ..."
+    publishedDateTime: 2021-08-23T02:02:00Z
+    webUrl: "https://www.design-reuse.com/news/50459/xpeedic-eda-cloud-platform-microsoft-azure.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 17
   - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
     excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
     publishedDateTime: 2021-08-23T12:09:00Z
@@ -522,6 +531,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "psobxufJr4KqlZ0S+7spu+xyb/c1CXnc1KbMVV6kkKQkhcwTlXAiFWAB/JsarmgyAvsxAruvQoKd1FXj+sReBNduTg7XF+yCrEWyI41ClXwdq1f3o26KJLWTWeHUTsWn2GNwO4vDNa26sna/KTGt9cHFUjz3G1CMekRA7rNPovQZVyGRPv5eeDf18K9602LbZWFV6OZLbkIMwPWYxwwkEaTqceVZVIImegl57pKnIG6GboIePNJbSyDq1tbvwA0U/Nk3qY+DOR2aj3+1BwK5x+BZNr8JDfDk4JNm+quYCNnE4geGsKODOYfsVIFXJwG9t5n77twMKzhDKgXujwoflb1dRNdraNIPfS41zxcrqYU=;rQw1T276pM34YsqfVw1Qqg=="
+secured: "yCmZR6hdBnkv4dOLSbpEBx41+FOr0NxNyecP/2eWAcX6Y3ybhms5UpQZWVshs2Q+V5Rnf1W1iGJVVuAp4HAVuWfBr+24Djq+HyRpIiRIhg979FDwRfLD5UMpIsq0eR2BYWkyy07WCyfWT/PSQblRF1nFyRU+P4VZCEdKYmAraW2P4jU+vxwkkh6EDXmW16oEmTXLT3BoWLRJFuWbswOhuix7R8SHIUmTkpSLOmVp2LWqBcPDnhskBU2zNTkkA1A2RGQjQv/ds7O+18hJcD0TAbObMlFldFrDnkRF8TrtaziU7/XCXZ0emxi0kQeR/G+Tk30G5w9bG2/+wRTKJR1MCi0QivttboC/1/6SPOga0UA=;Qj/wnKJzXDLgpXsM0MtOCA=="
 ---
 

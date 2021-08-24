@@ -197,7 +197,7 @@ related:
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
     publishedDateTime: 2021-08-18T18:50:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/a2c1464aed12bf13a14eb6fccb0fe415"
+    webUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
     type: article
     provider:
       name: Associated Press
@@ -433,6 +433,15 @@ related:
     provider:
       name: Stockhouse
       domain: stockhouse.com
+    quality: 17
+  - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
+    excerpt: "CUPERTINO, Calif.-- August 17, 2021 --Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and ..."
+    publishedDateTime: 2021-08-23T02:02:00Z
+    webUrl: "https://www.design-reuse.com/news/50459/xpeedic-eda-cloud-platform-microsoft-azure.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
     quality: 17
   - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
     excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"

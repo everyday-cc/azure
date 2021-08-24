@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Microsoft 'Azure Government Top Secret' Goes GA"
-excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
-publishedDateTime: 2021-08-17T20:16:00Z
-originalUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
-webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
+title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
+excerpt: "CUPERTINO, Calif.-- August 17, 2021 --Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and ..."
+publishedDateTime: 2021-08-23T02:02:00Z
+originalUrl: "https://www.design-reuse.com/news/50459/xpeedic-eda-cloud-platform-microsoft-azure.html"
+webUrl: "https://www.design-reuse.com/news/50459/xpeedic-eda-cloud-platform-microsoft-azure.html"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
-    width: 647
-    height: 450
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -291,6 +285,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Microsoft 'Azure Government Top Secret' Goes GA"
+    excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
+    publishedDateTime: 2021-08-17T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Taps SES' Next-Gen MEO Satellite for Azure Cloud Services"
     excerpt: "SES announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
     publishedDateTime: 2021-08-18T00:49:00Z
@@ -433,15 +441,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
-  - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
-    excerpt: "CUPERTINO, Calif.-- August 17, 2021 --Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and ..."
-    publishedDateTime: 2021-08-23T02:02:00Z
-    webUrl: "https://www.design-reuse.com/news/50459/xpeedic-eda-cloud-platform-microsoft-azure.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 17
   - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
     excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
     publishedDateTime: 2021-08-23T12:09:00Z
@@ -529,6 +528,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "1ViO9u50/Xp527T1DVsWUuNkseg4tZ/vRKYNJHUiqU8BkGDQoBGh61QJo9teTa6D81rY5kC4RukvHYeccdX0ZpEySId7atkamM0MrC77GzkQ5IdVru4QbzqCnU/gWz7a6Gz/X7gS1PsPxIKkiZxSsuLcQmEQdLtiBAB/Tto3qQDrd1wiQXn0lVRewKbvOZb9MMCApt9KyERDl7EkYbKeklaWwwNiLc7v8K52B9EvdMyz4NJwWoBTR+HYoBcR5T5LjT433U080qS4zk4dZFCczixI/01YEtTN4EaJam1Guc0aWJxxSB5aDus9BMeGqomgbvM3GpC7czzuzSS5DAer7cgojH4nZW8TXYaYpsxPlVxxgEzaQsO5edxTpxR2R1FnM+vsQyV04LZrl5ToqxBbE3HuQNxLFUy0osOaYZk5a7Zqxc4FRIN6MiG8dX8Hn/zBxJ4v6Vyd0IrEO1BK8Vv8VNlo9t/AvSj+wPe0LL/D/JUwOW89QyLxc0ryxoY/k0rNVveOn86DGEyd8jg0tbPq/A==;i51UiMzwKvyAdM3Y70cEMw=="
+secured: "WHturBjzDtGfmBtqBXhEaccz8aFKeA2Kzr39XfPlUV2FOtst2sH87qJiS7haL4Gth0AjNv8GnGCsPzkGQmOg1m/tbo3kHkgxq+vQ2b02uQw8D+N5qEhSCM5s1Z2Xc+zFL3W5RGgjTmKjkg1Lv/e2mpjNkMt+r9J4qc3fw/PTsumpzk2t6XzDaQKNW7B779PGzxKfthDshkoyrK9F5FilBvet48HDVXgu7oNItAA6ZLLOArzjPCMrxsLxfPWxWA9lZR8uxmwYgKt1KPVcKVtQpuJGbQPBcAJIk0np//3bZbyZBz5EqIA3YwTkrrdaW9gJKPgjkh+crn5OzhRnoTNHlEU2D0PnK+/tsQTAaLzNNgk=;5u6Hc6a46WrONK1yQCqlxw=="
 ---
 
