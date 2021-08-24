@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Cognitive Services- Anomaly Detector now supports multivariate anomaly detection​ "
-excerpt: "Enable organizations to identify anomalies across multiple variables with multivariate Anomaly Detector."
-publishedDateTime: 2021-04-14T16:01:46Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-cognitive-services-anomaly-detector-now-supports-multivariate-anomaly-detection/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-cognitive-services-anomaly-detector-now-supports-multivariate-anomaly-detection/"
+title: "Public preview: Apply settings inside machines using Azure Policy's guest configuration"
+excerpt: "Azure Policy can audit or configure settings inside a machine, both for machines running in Azure and Arc-enabled hybrid machines."
+publishedDateTime: 2021-08-24T15:00:21Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-apply-settings-inside-machines-using-azure-policys-guest-configuration/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-apply-settings-inside-machines-using-azure-policys-guest-configuration/"
 type: article
-quality: 55
+quality: 59
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - AI
 
 related:
   - title: "Public preview: Azure Machine Learning VS Code Integration "
@@ -145,15 +144,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
-  - title: "Public preview: Apply settings inside machines using Azure Policy's guest configuration"
-    excerpt: "Azure Policy can audit or configure settings inside a machine, both for machines running in Azure and Arc-enabled hybrid machines."
-    publishedDateTime: 2021-08-24T15:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-apply-settings-inside-machines-using-azure-policys-guest-configuration/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
   - title: "Public preview: Announcing Azure STIG solution templates to accelerate compliance for DoD"
     excerpt: "Announcing the availability of Security Technical Implementation Guide (STIG) solution templates for both Windows and Linux on the Azure Marketplace (commercial) and Azure Government Marketplace."
     publishedDateTime: 2021-04-09T17:14:51Z
@@ -172,6 +162,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 58
+  - title: "Public preview: Cognitive Services- Anomaly Detector now supports multivariate anomaly detection​ "
+    excerpt: "Enable organizations to identify anomalies across multiple variables with multivariate Anomaly Detector."
+    publishedDateTime: 2021-04-14T16:01:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-cognitive-services-anomaly-detector-now-supports-multivariate-anomaly-detection/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
   - title: "Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government"
     excerpt: "Simplify your cost reporting in Azure government using Azure Cost Management + Billing’s cost allocation. "
     publishedDateTime: 2021-02-12T16:43:50Z
@@ -200,6 +199,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "zTzcpvhhD9Cyj3JYFksa5yPKdpO0wspsmlVarMEVP6F/1ZXJGX5A0H7hliRu3btDhaNZI0uh4+hkUxgABXTBKEJ3YeQQuFJZNF92KE6/0+VaHhcnpN1qNQFYaj0nwealXlppX9jpsIb2U6dvm8LhPZh0GTvgK8VdYYNTD95WHDz2s2KOFIiTK8SZU12F5ffWej9vtj8c43NTNKlXz53I4l6HRYGLHopptanJ1HvuhByCtgKqQ2Z6YlnJWEwoDxZGunW2t/Whkj2Oe2Obzp9Rs9puq4K5WLe90M6OO8OukLzuMGxf+ZhJo+hwJR2Os90lfUGD743mHx4Susf0yO1Ucl6ldm0hBIMftgSkW9QyGRQ=;khhz6Mo6awlcJrRqyEui1w=="
+secured: "yvtBxRjDmiyh5d2HzTZM3xObLVS9ae3ZxWi4/3tn6BrD4hWE6sPsgF0Pn91/cTPBblsxc+jz+z6i1Dz5GuQ2KChfEv52Y+lb29wh8ItomPHQrq+GYxHA3saqW7XnRueZB6pg7O57bBAQj9MkzfmxJ16r6LLiU6ULV3y9Rr3pT5b9axkU/YLzNppD9G/KVGcXBLxCPVcFtZ6FGr14RzHyXRt8vyKUQj/EHLERYWSqFRTHpWKF7nb1xouIVG/KEYTOnzFOYVNeHBdsjjWfItZeeqpmIaxuo4qgLevugtkRg07iFCskpNhV0qr+clpMkrXwPoElLCNEjexNdRbxljj6DiR3BAcK4lHr4SPFaVDSCms=;EYh6X6DiOvAX3hnB9c941w=="
 ---
 

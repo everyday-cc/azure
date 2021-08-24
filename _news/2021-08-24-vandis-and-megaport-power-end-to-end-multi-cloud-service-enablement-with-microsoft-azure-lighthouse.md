@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Rubrik teams with Microsoft to develop Zero Trust anti-ransomware Azure services"
-excerpt: "Microsoft has made an investment in Rubrik as part of a strategic deal involving co-development of Zero Trust anti-ransomware services in the Azure public cloud with joint go-to-market activities. The two companies will provide Microsoft 365 and hybrid cloud data protection and integrated cloud services on Azure."
-publishedDateTime: 2021-08-17T16:06:00Z
-originalUrl: "https://blocksandfiles.com/2021/08/17/rubrik-gets-microsoft-equity-investment-as-two-build-zero-trust-anti-ransomware-azure-services/"
-webUrl: "https://blocksandfiles.com/2021/08/17/rubrik-gets-microsoft-equity-investment-as-two-build-zero-trust-anti-ransomware-azure-services/"
+title: "Vandis and Megaport power end-to-end multi-cloud service enablement with Microsoft Azure Lighthouse"
+excerpt: "Vandis Inc., today announced their collaboration with Megaport, a leading global Network as a Service provider, to simplify and expedite"
+publishedDateTime: 2021-08-24T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/vandis-and-megaport-power-end-to-end-multi-cloud-service-enablement-with-microsoft-azure-lighthouse-301360197.html"
+webUrl: "https://www.prnewswire.com/news-releases/vandis-and-megaport-power-end-to-end-multi-cloud-service-enablement-with-microsoft-azure-lighthouse-301360197.html"
 type: article
-quality: 32
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: blocksandfiles
-  domain: blocksandfiles.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://blocksandfiles.com/wp-content/uploads/2021/02/Microsoft-365.jpg"
-    width: 950
-    height: 633
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -406,6 +400,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 32
+  - title: "Rubrik teams with Microsoft to develop Zero Trust anti-ransomware Azure services"
+    excerpt: "Microsoft has made an investment in Rubrik as part of a strategic deal involving co-development of Zero Trust anti-ransomware services in the Azure public cloud with joint go-to-market activities. The two companies will provide Microsoft 365 and hybrid cloud data protection and integrated cloud services on Azure."
+    publishedDateTime: 2021-08-17T16:06:00Z
+    webUrl: "https://blocksandfiles.com/2021/08/17/rubrik-gets-microsoft-equity-investment-as-two-build-zero-trust-anti-ransomware-azure-services/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 32
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/02/Microsoft-365.jpg"
+        width: 950
+        height: 633
+        isCached: true
   - title: "Microsoft Goes Live with ‘Top Secret’ Azure Cloud for Feds — Redmond Channel Partner"
     excerpt: "Azure Government Top Secret, Microsoft ‘s cloud offering for U.S. government agencies and their solution providers, is now generally available. Microsoft designed Azure Government to be a physically isolated instance of its Azure cloud platform that’s available only to U."
     publishedDateTime: 2021-08-17T20:15:00Z
@@ -516,15 +524,6 @@ related:
         width: 1065
         height: 588
         isCached: true
-  - title: "Vandis and Megaport power end-to-end multi-cloud service enablement with Microsoft Azure Lighthouse"
-    excerpt: "Vandis Inc., today announced their collaboration with Megaport, a leading global Network as a Service provider, to simplify and expedite"
-    publishedDateTime: 2021-08-24T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vandis-and-megaport-power-end-to-end-multi-cloud-service-enablement-with-microsoft-azure-lighthouse-301360197.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 3
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
     publishedDateTime: 2021-08-18T14:34:00Z
@@ -571,6 +570,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "swl26oTheuRzQmUhC7TIG3zXbiPYCEGuo3t4ZN1PGWolF+RmXLbKJoMiVFd+UTgoRAoNN0FW381/ZR1AWgr2m3tW0Hab2wwY3RiiRZJY/2yDrq67Sts3a0WEKApqlaVpNyGEBf2F92+6k9DDXtDYhBl/crDVA7NCAslxJG6q/khBTSvjJZPSHLuK7CiSU1wEmGEk5aHvKGGRfgu4nBotBbSfOtfnFr4KMhfSR1mKXXRRu0meNZS6kWXXU4aMGwZfR6cc0zR1FQb9F1FyXd4BE19QapSuWYNzRrfsVWuf8ldhqJgsaDvXT1ThwEI8pKDEdEsMJ7Z354XosptTrsie1jy16h4hN1TF8CVQy10WxzkOgYvMWqxkzeXBYkJasb2uqvZAsVvA1mYqLb+UlXYRX8R9sLOFiNx/CqhG7hu3jJwzicKjuieRogQMFR9w8hmF+i3RHDiqloiyOJjcUNpUA45mbwMz5ESZsfMySwiu0GDLA4mp2Hpz3k0GgWbLET/BZ0CjwBRIlJx6j3rTSus5vg==;EwRzz8/fyy9m9xj8AUiVTA=="
+secured: "/CHkp+IDRyWFKSWDj0GfRQuyIy1GBhbR1tubfV42Uh7Ih8RuriuX5sw6yRVdzg8uyI2tg111Diu4JC8Lq/0BX6DTjAGSOx0iRUr8LgcXUzvijOZV5gduwRJKZOj6FddjMJzKtmNxnPaHRwSutgpqaKs1bsRBy3MKLVAUFvJ1Ki3SMU0sefmyleaVj8qNIlgNwOUfJ+UrIvr3XTH6Ve/cp4dqqXLHcj/1IVbx/Oft2wyJA940KjZjurySNmEf+dEy1kTsXckTmHxG/co9dDFsU8i1HtvV+eFYoXaFUQx08Ov7HKyHObWgiq1335c+6/2zL66nWuYHjPbifdRd6KdsNvVcQR1NHlmjl3P87gJ7ios=;DPtjOjLszQR9FJcsU+Rx+w=="
 ---
 

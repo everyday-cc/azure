@@ -521,6 +521,15 @@ related:
         width: 1065
         height: 588
         isCached: true
+  - title: "Vandis and Megaport power end-to-end multi-cloud service enablement with Microsoft Azure Lighthouse"
+    excerpt: "Vandis Inc., today announced their collaboration with Megaport, a leading global Network as a Service provider, to simplify and expedite"
+    publishedDateTime: 2021-08-24T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vandis-and-megaport-power-end-to-end-multi-cloud-service-enablement-with-microsoft-azure-lighthouse-301360197.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 3
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
     publishedDateTime: 2021-08-18T14:34:00Z
@@ -567,6 +576,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "jFxHXll7izCtj7DkdCSArt3+3GAq1nLheo4OYl1vU5jDuBB1jIyqv5XlY7YVMVpC6XNdgtP2NpDCbRT0ahOrUjFJYAJZMR2spHh2K8jemn6n/JmdpsCZ5t4/A0W9lCV8LRiQPTOI63cND8qqz86+KbMbPDO5YShQMkPrDf+pmoAxO2PdHcc8Q/DOQOiS+Iq6WFXsN+45TQBqJ00/O+sURG7Z+q9H2Z6YU21vVw3oUgOH7y20gpL1UDQINgQ3MOrXcH6SA+38wg/uNHgvzUW4OObu3fHuwlpjmx8dx9HqNj5tCw9IVUKIxykT7+In9lxpnBGanUzd8R+gz/eHE4rwZaFn+eaPwJ29AaAjgDr3aCI=;2E/FSEOcUNMXgR3e1+D7KA=="
+secured: "4YVyBpqsZh8aZcg2MqCf9069TH009uOK3o5wvJwiMx9oKLWr//CPbbDsTD2UFATRRQKrsGkkyEg0YH3vsUWME9/K/j+xmZfOwRIdYQLfO5ofQAY96C7pwsuVb9tOr0L5Gd/5q28ZRZQko3cpNKOH0I6FjhGnHOtTq3Fs7xvHn4dURsU5vzVRusdTWSNLCj2Ck+qD2guxakuJKPwmuReVh2eDewit7TslsRO6jx5w47ikBk3lHLmipI9pC38VYaTQtLzuWwg7fSC2IGBs95ndc7OpvM63MkWtimJan3AEw8XQUCePtszFmkV8Vm/+kMGJVL9OxkI9RUn8of38hQO4nAFRMUEMvTcDp/XoO00QkdtOyKDHsLjD2TBV2hXaTxeeACulaWoEH9gvchRV7oiayz6ccIhfFhi9kp5+LXcRwW/JPjBhGvlsELTDldLRepnkm+p3vFtH1RHx1/5YaKQ20MVVNvn8IJzXrRLyP1UNCkHRiUrFxxUYzYWrhgS6a8sPA16CHbMa2r7rbFSFLWRoeQ==;GUgCC29uTN8iiqw8lIbBuA=="
 ---
 

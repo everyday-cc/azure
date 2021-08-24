@@ -76,6 +76,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Azure AD B2C redirect URL login.microsoftonline.com will be retired on 31 August 2022"
+    excerpt: "Update apps using Azure AD B2C to new redirect b2clogin.com. "
+    publishedDateTime: 2021-08-24T15:35:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/update-apps-using-azure-ad-b2c-to-new-redirect-b2clogincom/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 60
 
 secured: "f3a56Z+ok/0KxYjqPxbjkndW2keGH7UJ1tAUV8TfpHm81ECZjiEulf1aYeB9uG7qgdwvXLqW5akx6HdjYWpeOSPlOWTorx6Ql/kA/byneglOB7UW+6lkoPj03Bqn0uhQbmmR/OoyNmNBAylIm5ft43Z+0z+pAM7nVHF20m9ixE6vG7cWOUpgbsu+tRS9S2+chmL43bMQzGToqiDeyDtP/uMkMRvH2gcoyRpw/LK7gy2FF7LCsyeWfdDEqiaAYk/5nII1PoY+eyHqp3xiI6Zf/RXiQK0hBA5PnxsSPzgzROfZdtZwEkQEHMZd8BfYk56zb3CUB1jgxUwkgrueH6flWv3TREIPptme5tLoCab74qg=;mvgeY6eUjxgLU/8D4Dch5A=="
 ---

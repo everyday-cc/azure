@@ -144,6 +144,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
+  - title: "Public preview: Apply settings inside machines using Azure Policy's guest configuration"
+    excerpt: "Azure Policy can audit or configure settings inside a machine, both for machines running in Azure and Arc-enabled hybrid machines."
+    publishedDateTime: 2021-08-24T15:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-apply-settings-inside-machines-using-azure-policys-guest-configuration/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "Public preview: Azure Purview is now available in the UK South and Australia East region"
     excerpt: "Azure Purview is now available in public preview in the Australia East and UK South region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
     publishedDateTime: 2021-04-21T21:00:06Z

@@ -524,6 +524,15 @@ related:
         width: 1065
         height: 588
         isCached: true
+  - title: "Vandis and Megaport power end-to-end multi-cloud service enablement with Microsoft Azure Lighthouse"
+    excerpt: "Vandis Inc., today announced their collaboration with Megaport, a leading global Network as a Service provider, to simplify and expedite"
+    publishedDateTime: 2021-08-24T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vandis-and-megaport-power-end-to-end-multi-cloud-service-enablement-with-microsoft-azure-lighthouse-301360197.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 3
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
     publishedDateTime: 2021-08-18T18:34:00Z

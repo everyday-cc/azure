@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-mac
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-vs-code-integration/"
 type: article
 quality: 101
-heat: 461
+heat: 481
 published: true
 
 provider:
@@ -137,6 +137,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
+  - title: "Public preview: Apply settings inside machines using Azure Policy's guest configuration"
+    excerpt: "Azure Policy can audit or configure settings inside a machine, both for machines running in Azure and Arc-enabled hybrid machines."
+    publishedDateTime: 2021-08-24T15:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-apply-settings-inside-machines-using-azure-policys-guest-configuration/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "Public preview: Announcing Azure STIG solution templates to accelerate compliance for DoD"
     excerpt: "Announcing the availability of Security Technical Implementation Guide (STIG) solution templates for both Windows and Linux on the Azure Marketplace (commercial) and Azure Government Marketplace."
     publishedDateTime: 2021-04-09T17:14:51Z

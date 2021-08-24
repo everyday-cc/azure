@@ -67,6 +67,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Azure AD B2C redirect URL login.microsoftonline.com will be retired on 31 August 2022"
+    excerpt: "Update apps using Azure AD B2C to new redirect b2clogin.com. "
+    publishedDateTime: 2021-08-24T15:35:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/update-apps-using-azure-ad-b2c-to-new-redirect-b2clogincom/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 60
   - title: "Release annotations using API keys will be retired on 31 August 2024"
     excerpt: "Transition to new release annotations without using API keys in Application Insights."
     publishedDateTime: 2021-08-20T16:41:48Z

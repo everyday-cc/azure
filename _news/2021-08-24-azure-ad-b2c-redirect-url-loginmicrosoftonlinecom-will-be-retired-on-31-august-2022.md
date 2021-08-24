@@ -1,12 +1,12 @@
 ---
 category: news
-title: "HB-series Azure Virtual Machines will be retired by 31 August 2024"
-excerpt: "Transition to new HPC virtual machines by 31 August 2024."
-publishedDateTime: 2021-08-18T15:24:37Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/hbseries-azure-virtual-machines-will-be-retired-by-31-august-2024/"
-webUrl: "https://azure.microsoft.com/en-us/updates/hbseries-azure-virtual-machines-will-be-retired-by-31-august-2024/"
+title: "Azure AD B2C redirect URL login.microsoftonline.com will be retired on 31 August 2022"
+excerpt: "Update apps using Azure AD B2C to new redirect b2clogin.com. "
+publishedDateTime: 2021-08-24T15:35:57Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/update-apps-using-azure-ad-b2c-to-new-redirect-b2clogincom/"
+webUrl: "https://azure.microsoft.com/en-us/updates/update-apps-using-azure-ad-b2c-to-new-redirect-b2clogincom/"
 type: article
-quality: 67
+quality: 60
 heat: -1
 published: false
 
@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "HB-series Azure Virtual Machines will be retired by 31 August 2024"
+    excerpt: "Transition to new HPC virtual machines by 31 August 2024."
+    publishedDateTime: 2021-08-18T15:24:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hbseries-azure-virtual-machines-will-be-retired-by-31-august-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "NC-series Azure Virtual Machines will be retired by 31 August 2022"
     excerpt: "Transition to new HPC virtual machines by 31 August 2022."
     publishedDateTime: 2021-08-18T15:27:38Z
@@ -67,15 +76,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
-  - title: "Azure AD B2C redirect URL login.microsoftonline.com will be retired on 31 August 2022"
-    excerpt: "Update apps using Azure AD B2C to new redirect b2clogin.com. "
-    publishedDateTime: 2021-08-24T15:35:57Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/update-apps-using-azure-ad-b2c-to-new-redirect-b2clogincom/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 60
   - title: "Release annotations using API keys will be retired on 31 August 2024"
     excerpt: "Transition to new release annotations without using API keys in Application Insights."
     publishedDateTime: 2021-08-20T16:41:48Z
@@ -86,6 +86,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "My6rQvZdL/p4HiPeL2e9QR2Bbxmescq/RBpgQpyGZo8G8s6eUvhx/A1WzyO372PbKLwNdQxUj5rIghujqK7PCs5D92vzr5le4krXj2FvbLFU1nnDN3D8JOCKrD98i0d2gWw5Y5wuHDOyw9tbKBOIykrVxol0nvOvrdz4InBiNYNENk7dZsFDi0w2sRIEuX2up6lpHm+r43yXX4B/GbugSQ33RaDM5FnqxCWp4cf7Fn6L9SN2ANCcRzTbOCqD6BdNFjI4eTu506VhFJ+ffvUXSFJ762tjn8H9H3ducYmX9BftUBJHTAtFdT6g4/UYboSlFVYjb9lk3q7miCl2s1Q1YeX7Dv6xDRfbCA5ylEQ1FXM=;7Ds6OIObPhguWpxRfVZPZg=="
+secured: "oG+w1Ytp3kxcIxAJCtJLLYD0JgSVyzR0caMX1e6P9Z+t3ocA7hgyq+jYitXB63avM8wMEZ6yFk2Q04+dJigKYFvE7eJpJSaflyMjOcvB+iPTxMA6xNU9RZ8aRsboQEa+v0dKEzbeJ96AY9wBb50yMkGKEVWxoSNnjbmffDXYJJD+xna7DjE4K19wfyGVC3lP7DErIG4+1bDqoodmDeF0N7Wsjno0DzZWlx2K4eZgsK5di/5QHG1wC/3quGpuOFHNGX2ayq9+YHQ0ZZYOjAn/nhNhVr6N5zzooZ0PkKjH4nvrUkUoFyDJOlV51nbEV2XrAvzCTWKb8iIHSWqVsok6rlZA4o+ytI92tu8Z9GHurvI=;UvzMXNOy2lAnkeaZWgSGMQ=="
 ---
 
