@@ -1,12 +1,12 @@
 ---
 category: news
-title: "H-series Azure Virtual Machines will be retired by 31 August 2022"
-excerpt: "Migrate to HPC, GP, or RAM optimized VMs by 31 August 2022"
-publishedDateTime: 2021-08-20T16:45:12Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/hseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
-webUrl: "https://azure.microsoft.com/en-us/updates/hseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+title: "Azure Data Factory Compute Optimized data flows will be retired on 31 August 2024"
+excerpt: "Transition from Compute Optimized data flows to General Purpose data flows by 31 August 2024. "
+publishedDateTime: 2021-08-24T15:46:44Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/compute-optimized-data-flows-will-be-retired-on-31-august-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/compute-optimized-data-flows-will-be-retired-on-31-august-2024/"
 type: article
-quality: 67
+quality: 62
 heat: -1
 published: false
 
@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "H-series Azure Virtual Machines will be retired by 31 August 2022"
+    excerpt: "Migrate to HPC, GP, or RAM optimized VMs by 31 August 2022"
+    publishedDateTime: 2021-08-20T16:45:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "NC v2-series Azure Virtual Machines will be retired by 31 August 2022 "
     excerpt: "Transition to new HPC virtual machines by 31 August 2022."
     publishedDateTime: 2021-08-20T17:00:02Z
@@ -76,15 +85,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
-  - title: "Azure Data Factory Compute Optimized data flows will be retired on 31 August 2024"
-    excerpt: "Transition from Compute Optimized data flows to General Purpose data flows by 31 August 2024. "
-    publishedDateTime: 2021-08-24T15:46:44Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/compute-optimized-data-flows-will-be-retired-on-31-august-2024/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "Azure AD B2C redirect URL login.microsoftonline.com will be retired on 31 August 2022"
     excerpt: "Update apps using Azure AD B2C to new redirect b2clogin.com. "
     publishedDateTime: 2021-08-24T15:35:57Z
@@ -113,6 +113,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "kBIuXgt+RlBT9SU9cAx9Vxutkuc6LA36dg/zEol4wqBYf41LLEaXUWziJuQaUGVSIkEhU8S2oLql9Xkb67HtPRWy/HE0xuHf3k06m33+lX3spV8NEYsexKOLYmFXTnSXOCW5668D+Cs7+VspSs+fMZ83mIqmpOfldighX0mvmZMbZrSzzVixanS//X8fWkSDDa3bHRFbCtsuAq+Itct5NXPgtwiDVu/lNsvU1mP8woxYj9V/aoH/Q82iNXHZOjhApKEb31NKv/d/TsxHDZdrBeKh7DyieUonulkuPOEBpaWZWpaNoMNZ2rbJ+p5HC9uO6O0OBAQgy0MyeyU6jYpFMF+C4UvQWj6DLUQFhZhIo9g=;8X2b6BaYv7DSJwBEGLDF2Q=="
+secured: "3aEkjtQmrRfDyJhL8a/odIeXym8uy7gj5uIRY4xlkqY4qeRjOMLl57FtpwB/aKAhRGXoEJVEYKzWMf/BLwjB6ZLHiqSo5cBLlPWel4K/l035nqfmzqHVem7rHGN57MRePhCTB7RS9aWuEjGbH8GiwPhldmQjACcz/mY7NryHUv/kv1wtzL+62Dx8WcJx3RfgegmKafGJG8s9vhUO47egdHMeE3kGDb8dXoI/d4IloOvCCXsbh6dVZk4UZEo+0BqiWAv41xmr8eBO/aJ9qcoa1Bggjgxmidh3DfNpvzXJjln4D+Zgj1xpQAAThO6YVfO/xvOSOTW4F0Uv1q9jHw13pqGls1nQ5LZgY3eka8n1ni0=;vEJzowWI73FTLaKIaq6z6w=="
 ---
 

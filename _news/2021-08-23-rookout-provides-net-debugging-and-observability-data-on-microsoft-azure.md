@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
-excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
-publishedDateTime: 2021-08-23T07:05:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8313071/rookout-provides-net-debugging-and-observability-data-on-microsoft-azure"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8313071/rookout-provides-net-debugging-and-observability-data-on-microsoft-azure"
+excerpt: "Rookout Live debugging is now available across the Azure ecosystem, to both enterprises and early-stage entrepreneurs through the Azure marketplace. SAN FRANCISCO, Aug. 23, 2021 ("
+publishedDateTime: 2021-08-23T12:07:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -33,20 +39,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629303595/itpro/SES_Banner_With_Lines_4k_High.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-    excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
-    publishedDateTime: 2021-08-24T12:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
     excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
@@ -389,6 +381,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "PRNewswire/ - WatServ announced today that it has earned the “Microsoft Windows Server and SQL Server Migration to Microsoft Azure” advanced specialization, demonstrating the company’s extensive experience and knowledge in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure."
+    publishedDateTime: 2021-08-24T12:27:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-178d1e548099bc1cb5d924fb707a9d2f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -570,6 +576,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "MxaV8k4n/Tebxi9KHlw9cZ8BvGOWrx0Tj5KOXyL1sa0QWO5OpSTqK6WwBeGYNxrkpZ3S9Wi3JNQaaGbz82h7nDggd8zat6S/gu8bLRtIFu2S5pKn7TsubymZzafLhKfsruJVqQwOGycAbDTCx5HFajlOZlGnTM38JhLMf2BHhe4t8LV1k5xyfHqr2RLG7EZ5gb4pxEE4QJWrsrLbeqX0wnnnDta0rGLJseZz8EfMlERXUJ55iSbZil+kS2l+8BbXvtx5iLAAKGqMFDqM/d6DKCYuaMXejPhn41ENLMCoEskHB6FcYzFyvoRLZjtSMAWy8cEmD1WtLzEGW7p3vG0Hd3z1FpdEQxtxeQ9oRvQixUs=;vGe9+UHPvWfmTqOvBuJu+A=="
+secured: "HPtU1WI+lJ4Axe9yOOfhWfV6SEcKRB+zmDCnMgTSdyOtUQSUf/okG0sLQNbVwASrHKQFpoeYyHPWtEIpyKo+Bnldye5Yb+Zkb9sOOgYj9ie2F4IXzHIXvfvOaCMxWhYQrLoDstQgRv6rw4I4exP2gmHVuXb3x2C0tITEs+Ha7MQoxtYb7ix3S1YuYtW0D8rdf4fPueAzBc7iIJapLwEqeEh+yKHiMmMrxGbDm4xTWM+Lb97G4YRWZ3rQbVIL9OuP+KQFeEbHm191Vx2qqTKt7QQLVdtB70OAq8RaZGtQrPrxLffERIPVzfbwVStW5wje1ZMaIIBUQkPUh5SwenD00ShFNdFL0QSCeur2Uk9OpRw=;i/S1pDM9h3DKv5bsoP0pkQ=="
 ---
 

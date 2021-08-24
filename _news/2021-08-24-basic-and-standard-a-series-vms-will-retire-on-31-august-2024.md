@@ -1,12 +1,12 @@
 ---
 category: news
-title: "H-series Azure Virtual Machines will be retired by 31 August 2022"
-excerpt: "Migrate to HPC, GP, or RAM optimized VMs by 31 August 2022"
-publishedDateTime: 2021-08-20T16:45:12Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/hseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
-webUrl: "https://azure.microsoft.com/en-us/updates/hseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+title: " Basic and Standard A-series VMs will retire on 31 August 2024"
+excerpt: "Migrate your Azure workloads to Av2-series VMs before 31 August 2024."
+publishedDateTime: 2021-08-24T15:43:30Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/action-required-migrate-your-azure-workloads-to-av2series-vms-before-31-august-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/action-required-migrate-your-azure-workloads-to-av2series-vms-before-31-august-2024/"
 type: article
-quality: 67
+quality: 52
 heat: -1
 published: false
 
@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "H-series Azure Virtual Machines will be retired by 31 August 2022"
+    excerpt: "Migrate to HPC, GP, or RAM optimized VMs by 31 August 2022"
+    publishedDateTime: 2021-08-20T16:45:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hseries-azure-virtual-machines-will-be-retired-by-31-august-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "NC v2-series Azure Virtual Machines will be retired by 31 August 2022 "
     excerpt: "Transition to new HPC virtual machines by 31 August 2022."
     publishedDateTime: 2021-08-20T17:00:02Z
@@ -103,16 +112,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: " Basic and Standard A-series VMs will retire on 31 August 2024"
-    excerpt: "Migrate your Azure workloads to Av2-series VMs before 31 August 2024."
-    publishedDateTime: 2021-08-24T15:43:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/action-required-migrate-your-azure-workloads-to-av2series-vms-before-31-august-2024/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
-secured: "kBIuXgt+RlBT9SU9cAx9Vxutkuc6LA36dg/zEol4wqBYf41LLEaXUWziJuQaUGVSIkEhU8S2oLql9Xkb67HtPRWy/HE0xuHf3k06m33+lX3spV8NEYsexKOLYmFXTnSXOCW5668D+Cs7+VspSs+fMZ83mIqmpOfldighX0mvmZMbZrSzzVixanS//X8fWkSDDa3bHRFbCtsuAq+Itct5NXPgtwiDVu/lNsvU1mP8woxYj9V/aoH/Q82iNXHZOjhApKEb31NKv/d/TsxHDZdrBeKh7DyieUonulkuPOEBpaWZWpaNoMNZ2rbJ+p5HC9uO6O0OBAQgy0MyeyU6jYpFMF+C4UvQWj6DLUQFhZhIo9g=;8X2b6BaYv7DSJwBEGLDF2Q=="
+secured: "2dt/PI6e/NnRA1Ip1XhHkyZSF0O2m0GEYjUqsARSxCuw9niI/9VEMzZPBxyupc6L2ZdfA3xH3sFpaR3hr9dBWKDBcqzO8cApCOg+bV/ilDF9q3BGGxHIJBCx1b02O5vDtmVBWZfTPAqCFBttSlgrZcz0TcwwTkEUqAgac2MdhT5RxsjHePdamdv9/oU6YnUAm9x0q5JSWvVTz3PB7k3X1yKDJUAagyY1/A9iNDnL9ASmyLbOISW0gS16UNsbd9g0D9RDsarWC+jZ+s6+qAr1cWrbEiPksJ3ujdy3yC7i9sENzpVw8SM2HMPqqLMywmj6l0MCIf6Ie1ECaIwAv25VuAlVa9VTjgBuktR0MEWO6gQ=;yzX2Lpeg+tErrEA8+3SY/g=="
 ---
 

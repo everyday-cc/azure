@@ -1,31 +1,27 @@
 ---
 category: news
 title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
-publishedDateTime: 2021-08-24T12:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
-webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+excerpt: "PRNewswire/ - WatServ announced today that it has earned the “Microsoft Windows Server and SQL Server Migration to Microsoft Azure” advanced specialization, demonstrating the company’s extensive experience and knowledge in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure."
+publishedDateTime: 2021-08-24T12:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-178d1e548099bc1cb5d924fb707a9d2f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-178d1e548099bc1cb5d924fb707a9d2f"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
-    width: 400
-    height: 225
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -377,6 +373,20 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
+    excerpt: "Rookout Live debugging is now available across the Azure ecosystem, to both enterprises and early-stage entrepreneurs through the Azure marketplace. SAN FRANCISCO, Aug. 23, 2021 ("
+    publishedDateTime: 2021-08-23T12:07:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Telia Company to become Microsoft Azure Networking MSP partner"
     excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
     publishedDateTime: 2021-08-23T14:14:00Z
@@ -480,15 +490,6 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 17
-  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
-    excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
-    publishedDateTime: 2021-08-23T07:05:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8313071/rookout-provides-net-debugging-and-observability-data-on-microsoft-azure"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 16
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
     publishedDateTime: 2021-08-17T12:00:00Z
@@ -576,6 +577,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "4YVyBpqsZh8aZcg2MqCf9069TH009uOK3o5wvJwiMx9oKLWr//CPbbDsTD2UFATRRQKrsGkkyEg0YH3vsUWME9/K/j+xmZfOwRIdYQLfO5ofQAY96C7pwsuVb9tOr0L5Gd/5q28ZRZQko3cpNKOH0I6FjhGnHOtTq3Fs7xvHn4dURsU5vzVRusdTWSNLCj2Ck+qD2guxakuJKPwmuReVh2eDewit7TslsRO6jx5w47ikBk3lHLmipI9pC38VYaTQtLzuWwg7fSC2IGBs95ndc7OpvM63MkWtimJan3AEw8XQUCePtszFmkV8Vm/+kMGJVL9OxkI9RUn8of38hQO4nAFRMUEMvTcDp/XoO00QkdtOyKDHsLjD2TBV2hXaTxeeACulaWoEH9gvchRV7oiayz6ccIhfFhi9kp5+LXcRwW/JPjBhGvlsELTDldLRepnkm+p3vFtH1RHx1/5YaKQ20MVVNvn8IJzXrRLyP1UNCkHRiUrFxxUYzYWrhgS6a8sPA16CHbMa2r7rbFSFLWRoeQ==;GUgCC29uTN8iiqw8lIbBuA=="
+secured: "HQLHSe2jRlkCWW4rU/r+zN5hItOTRsexZ6VcBJ6rVwW+PDafLgan03OH3LKOcdOr3PN/FAgWId+M75U24CjuekWGngcPigtAXPk1HyC1R3IDXh2ynvpnwwOmxkrHQVFfnlST1BrVhZR9AK5y5n5TDnHAEl15vpyAzTD/ZDJ9FSoETeHzhPYeWBoyrceL+HhYMd6jcQuowsK9Z0ddwzv4V5cUDbZWkzD+RE3JNiA/q6aH2ZYLnIqy59pSfBTDHTCikfJgMN5bSEB42k4htRsCh6gynhVEC7tbw6xoUyrwaKTmzVgP6QS0kqpFb8EAY0WvyOebd8IlEmHHzDP9U26PsK0oRFRQghVLLcCKz+o6VaY=;fV6OHk9FI/YeA8XRNi0eyQ=="
 ---
 
