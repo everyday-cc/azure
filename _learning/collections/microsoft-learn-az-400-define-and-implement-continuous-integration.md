@@ -26,6 +26,7 @@ items:
   - courses/microsoft-learn-create-multi-stage-pipeline
   - courses/microsoft-learn-run-functional-tests-azure-pipelines
   - courses/microsoft-learn-run-non-functional-tests-azure-pipelines
+  - courses/microsoft-learn-manage-release-cadence
   - courses/microsoft-learn-protect-vm-settings-with-dsc
   - courses/microsoft-learn-github-actions-ci
 
