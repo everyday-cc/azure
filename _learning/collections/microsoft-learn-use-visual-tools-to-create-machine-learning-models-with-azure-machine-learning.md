@@ -4,7 +4,7 @@ excerpt: "Use visual tools to create machine learning models with Azure Machine 
 type: collection
 price: Free
 length: PT3H29M
-heat: 163
+heat: 69
 
 provider:
   name: Microsoft Learn
