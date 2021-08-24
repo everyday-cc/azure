@@ -465,6 +465,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 15
+  - title: "TCS MasterCraft™ Products are Now Available on the Microsoft Azure Marketplace"
+    excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, announced that TCS MasterCraft™, a suite of intelligent automat"
+    publishedDateTime: 2021-08-24T07:10:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297667"
+    type: article
+    provider:
+      name: Equity Bulls
+      domain: equitybulls.com
+    quality: 13
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
     publishedDateTime: 2021-08-18T14:34:00Z

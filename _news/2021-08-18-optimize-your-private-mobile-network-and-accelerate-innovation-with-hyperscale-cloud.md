@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/optimize-your-private-mobile-netw
 webUrl: "https://azure.microsoft.com/blog/optimize-your-private-mobile-network-and-accelerate-innovation-with-hyperscale-cloud/"
 type: article
 quality: 82
-heat: 83
+heat: 84
 published: true
 
 provider:

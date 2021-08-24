@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Microsoft 'Azure Government Top Secret' Goes GA"
-excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
-publishedDateTime: 2021-08-17T20:16:00Z
-originalUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
-webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
+title: "TCS MasterCraft™ Products are Now Available on the Microsoft Azure Marketplace"
+excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, announced that TCS MasterCraft™, a suite of intelligent automat"
+publishedDateTime: 2021-08-24T07:10:00Z
+originalUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297667"
+webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297667"
 type: article
-quality: 37
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: Equity Bulls
+  domain: equitybulls.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
-    width: 647
-    height: 450
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -291,6 +285,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Microsoft 'Azure Government Top Secret' Goes GA"
+    excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
+    publishedDateTime: 2021-08-17T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Taps SES' Next-Gen MEO Satellite for Azure Cloud Services"
     excerpt: "SES announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
     publishedDateTime: 2021-08-18T00:49:00Z
@@ -451,15 +459,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 15
-  - title: "TCS MasterCraft™ Products are Now Available on the Microsoft Azure Marketplace"
-    excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, announced that TCS MasterCraft™, a suite of intelligent automat"
-    publishedDateTime: 2021-08-24T07:10:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297667"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 13
   - title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
     excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"
     publishedDateTime: 2021-08-19T13:42:00Z
@@ -520,6 +519,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "1ViO9u50/Xp527T1DVsWUuNkseg4tZ/vRKYNJHUiqU8BkGDQoBGh61QJo9teTa6D81rY5kC4RukvHYeccdX0ZpEySId7atkamM0MrC77GzkQ5IdVru4QbzqCnU/gWz7a6Gz/X7gS1PsPxIKkiZxSsuLcQmEQdLtiBAB/Tto3qQDrd1wiQXn0lVRewKbvOZb9MMCApt9KyERDl7EkYbKeklaWwwNiLc7v8K52B9EvdMyz4NJwWoBTR+HYoBcR5T5LjT433U080qS4zk4dZFCczixI/01YEtTN4EaJam1Guc0aWJxxSB5aDus9BMeGqomgbvM3GpC7czzuzSS5DAer7cgojH4nZW8TXYaYpsxPlVxxgEzaQsO5edxTpxR2R1FnM+vsQyV04LZrl5ToqxBbE3HuQNxLFUy0osOaYZk5a7Zqxc4FRIN6MiG8dX8Hn/zBxJ4v6Vyd0IrEO1BK8Vv8VNlo9t/AvSj+wPe0LL/D/JUwOW89QyLxc0ryxoY/k0rNVveOn86DGEyd8jg0tbPq/A==;i51UiMzwKvyAdM3Y70cEMw=="
+secured: "Hq4LVp8Dc241zlaC3RyLWNdM7bj5yx3wQdF7bDEX2Th/S2VUBfwE7FJEgnPGB5mw7KGz3LGDmDyW3t+MNIiksHfZaXnQYnGxrj015R3R8QPeGcr3qghBSpw4vajmbMd+n22zQXr8228pYseZ4z3zAu7z4NJG804Y/132wLkU22rZe0otberIMVRA3k1DxJx5+sJl3cUO+5ekPrWoJY9B7w6QBlfWofIeAEhade1p7DBd4r50vNQ5yeUpC2DqwNIguh38s5cCxKoibLESmrolHaXdKDxMq1qqSeKg80GMPirnZt6WJC6iy7DqXbh4DNLoA5qvzT4DbDzdKbD6GhT5ZadVI1IRSib179UXqV61o/w=;wCqbm8Z+66Q2wm7SePIK8g=="
 ---
 

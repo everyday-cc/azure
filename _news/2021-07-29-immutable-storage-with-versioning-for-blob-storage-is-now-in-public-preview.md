@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-with-v
 webUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-with-versioning-for-blob-storage-is-now-in-public-preview/"
 type: article
 quality: 82
-heat: 102
+heat: 103
 published: true
 
 provider:
