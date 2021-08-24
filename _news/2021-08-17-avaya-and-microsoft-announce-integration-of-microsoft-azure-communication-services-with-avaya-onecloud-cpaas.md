@@ -339,6 +339,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
+  - title: "Walgreens uses Microsoft Azure to gain insights from dispensing data"
+    excerpt: "US pharmacy chain Walgreens has completed a project with Microsoft and Tata Consultancy Services to build a platform to gain insights from prescription dispensing data, freeing up pharmacists to spend more time helping patients."
+    publishedDateTime: 2021-08-24T11:11:00Z
+    webUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 37
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10475/img-Walgreens_pharmacy_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "Telia Company to become Microsoft Azure Networking MSP partner"
     excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
     publishedDateTime: 2021-08-23T14:14:00Z
@@ -453,12 +467,12 @@ related:
     quality: 17
   - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
     excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
-    publishedDateTime: 2021-08-23T12:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
+    publishedDateTime: 2021-08-23T07:05:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8313071/rookout-provides-net-debugging-and-observability-data-on-microsoft-azure"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 16
   - title: "TCS MasterCraft™ Products are Now Available on the Microsoft Azure Marketplace"
     excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, announced that TCS MasterCraft™, a suite of intelligent automat"

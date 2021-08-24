@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
-publishedDateTime: 2021-08-18T18:34:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
-webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
+title: "Walgreens uses Microsoft Azure to gain insights from dispensing data"
+excerpt: "US pharmacy chain Walgreens has completed a project with Microsoft and Tata Consultancy Services to build a platform to gain insights from prescription dispensing data, freeing up pharmacists to spend more time helping patients."
+publishedDateTime: 2021-08-24T11:11:00Z
+originalUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
+webUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
 type: article
-quality: 2
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: technologyrecord.com
+  domain: technologyrecord.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10475/img-Walgreens_pharmacy_web.jpg"
+    width: 940
+    height: 443
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -338,20 +344,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
-  - title: "Walgreens uses Microsoft Azure to gain insights from dispensing data"
-    excerpt: "US pharmacy chain Walgreens has completed a project with Microsoft and Tata Consultancy Services to build a platform to gain insights from prescription dispensing data, freeing up pharmacists to spend more time helping patients."
-    publishedDateTime: 2021-08-24T11:11:00Z
-    webUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 37
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10475/img-Walgreens_pharmacy_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Telia Company to become Microsoft Azure Networking MSP partner"
     excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
     publishedDateTime: 2021-08-23T14:14:00Z
@@ -514,6 +506,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 2
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
+    publishedDateTime: 2021-08-18T18:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
   - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
     excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
     publishedDateTime: 2021-06-30T06:50:00Z
@@ -542,6 +543,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "saN2YMsmPVYca58Yu086gIl/6EsD5dHrHYl4nd6XJCwbOVX5er3Y1TVAZoN92q3gaRYiHGg4NwKkJz8u2owBIGW1zqGW8Nwn8JqJE4dOzkCD1x9y52ko73qcqfuJWVQnFve1V/gx0jyGR1QLdPJdmiRRsQxm2OQNUZU/cMMpQ5/nUkbpGSbLqwCgVdVdFm3RCW6LyWm1HIsaIRQjcnerFDxV1uzVfFCVBhLfFZEHgR/A9zC+gAICco4/cyusIZBUjRBStc3gEWxZ0M8/yz1WruLRy+DRhj/KqysUVIhAZq0ILHS/kVrdhic27vxgtDZ4P9+sj1W6z9Qa6CVGNe1QxfQTvueOKp9Yf/q/xt7rH+U=;/5TBNquHhEpBEe3WJcxfUQ=="
+secured: "MRh9Zzmriseip7JPCD19kgLO14doCYU4W/rNXMc+jZX5W9vzZGSTFIHUUwNpNVOzA7WBc+xnxgYv+WGyxOM50P0ArXz7FB12rRpVzRIRRvkDEy/RvIHr3alGnAYqhOwJa3lc1r9LLFosJnZbAwm/5+ZoBVO7kzXtPjScN07Ro2TSR/D32qxN19ZBzZzs0aELyxJEUD8+mpcCtLHlXOdlH3X+/5utep0qHXZ878dAA7eTryvlQLVFVyvbJEz63g0lZWZ/ZrXwxZ0itYZcroXwW3cjQXeqNXeT3CGIKKhrSRqg6kTNKxxcsE6ppSd7beZCsrmolS2TirJfOzJrKQlVQjbCYPzpIzLU+mJWoaBfh6s=;VXUMl2tWqFx9/jZa8hXdeQ=="
 ---
 

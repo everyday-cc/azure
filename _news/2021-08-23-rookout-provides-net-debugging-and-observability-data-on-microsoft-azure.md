@@ -2,17 +2,17 @@
 category: news
 title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
 excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
-publishedDateTime: 2021-08-23T12:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
+publishedDateTime: 2021-08-23T07:05:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8313071/rookout-provides-net-debugging-and-observability-data-on-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8313071/rookout-provides-net-debugging-and-observability-data-on-microsoft-azure"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -338,6 +338,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
+  - title: "Walgreens uses Microsoft Azure to gain insights from dispensing data"
+    excerpt: "US pharmacy chain Walgreens has completed a project with Microsoft and Tata Consultancy Services to build a platform to gain insights from prescription dispensing data, freeing up pharmacists to spend more time helping patients."
+    publishedDateTime: 2021-08-24T11:11:00Z
+    webUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 37
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10475/img-Walgreens_pharmacy_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "Telia Company to become Microsoft Azure Networking MSP partner"
     excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
     publishedDateTime: 2021-08-23T14:14:00Z
@@ -528,6 +542,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "Pil4g7QFAUCfVt6vqXqY2nCTfsrAg/dGfchOQONnpQht3C4WL+B2pXgDunOh2qmsmvZr894XDG1gZ6/sSRjShDT1OI1GtJQCLjm/KtseUVxq9r6QPKDxbnzmYWNMh64+tKpdLQJXlYYoFoOxHVVx/6b1pmAdiACiMRXHg9QZcFuJQ51g8bA8Ubg3UI7ls5EUvKyoaIJF7scF4qQijmfKBbdmb/xzh9qGAl47AAjcAofkNP8NRWwaDykgJKiKYhKnUTyfJ+a/xSexIDTEGwRNqzSzG4tGJ6HjTsHYTzxy2mnoDahDWP91BLmbOWpuYRcZVXvdnioM0bnOede4h0y7u4ve2SoP23qhc0tqc89nAh4=;hw3XIK9B3nw14I7EqYe6wA=="
+secured: "MxaV8k4n/Tebxi9KHlw9cZ8BvGOWrx0Tj5KOXyL1sa0QWO5OpSTqK6WwBeGYNxrkpZ3S9Wi3JNQaaGbz82h7nDggd8zat6S/gu8bLRtIFu2S5pKn7TsubymZzafLhKfsruJVqQwOGycAbDTCx5HFajlOZlGnTM38JhLMf2BHhe4t8LV1k5xyfHqr2RLG7EZ5gb4pxEE4QJWrsrLbeqX0wnnnDta0rGLJseZz8EfMlERXUJ55iSbZil+kS2l+8BbXvtx5iLAAKGqMFDqM/d6DKCYuaMXejPhn41ENLMCoEskHB6FcYzFyvoRLZjtSMAWy8cEmD1WtLzEGW7p3vG0Hd3z1FpdEQxtxeQ9oRvQixUs=;vGe9+UHPvWfmTqOvBuJu+A=="
 ---
 
