@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
-publishedDateTime: 2021-08-18T18:34:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
-webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
+title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
+excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
+publishedDateTime: 2021-08-23T12:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
 type: article
-quality: 2
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -446,15 +446,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
-  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
-    excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
-    publishedDateTime: 2021-08-23T12:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
     publishedDateTime: 2021-08-17T12:00:00Z
@@ -487,6 +478,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 2
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
+    publishedDateTime: 2021-08-18T18:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210818005532/en/Options-Announce-Microsoft-Cloud-Productivity-Gold-Partner-Status"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
   - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
     excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
     publishedDateTime: 2021-06-30T06:50:00Z
@@ -506,6 +506,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "saN2YMsmPVYca58Yu086gIl/6EsD5dHrHYl4nd6XJCwbOVX5er3Y1TVAZoN92q3gaRYiHGg4NwKkJz8u2owBIGW1zqGW8Nwn8JqJE4dOzkCD1x9y52ko73qcqfuJWVQnFve1V/gx0jyGR1QLdPJdmiRRsQxm2OQNUZU/cMMpQ5/nUkbpGSbLqwCgVdVdFm3RCW6LyWm1HIsaIRQjcnerFDxV1uzVfFCVBhLfFZEHgR/A9zC+gAICco4/cyusIZBUjRBStc3gEWxZ0M8/yz1WruLRy+DRhj/KqysUVIhAZq0ILHS/kVrdhic27vxgtDZ4P9+sj1W6z9Qa6CVGNe1QxfQTvueOKp9Yf/q/xt7rH+U=;/5TBNquHhEpBEe3WJcxfUQ=="
+secured: "Pil4g7QFAUCfVt6vqXqY2nCTfsrAg/dGfchOQONnpQht3C4WL+B2pXgDunOh2qmsmvZr894XDG1gZ6/sSRjShDT1OI1GtJQCLjm/KtseUVxq9r6QPKDxbnzmYWNMh64+tKpdLQJXlYYoFoOxHVVx/6b1pmAdiACiMRXHg9QZcFuJQ51g8bA8Ubg3UI7ls5EUvKyoaIJF7scF4qQijmfKBbdmb/xzh9qGAl47AAjcAofkNP8NRWwaDykgJKiKYhKnUTyfJ+a/xSexIDTEGwRNqzSzG4tGJ6HjTsHYTzxy2mnoDahDWP91BLmbOWpuYRcZVXvdnioM0bnOede4h0y7u4ve2SoP23qhc0tqc89nAh4=;hw3XIK9B3nw14I7EqYe6wA=="
 ---
 

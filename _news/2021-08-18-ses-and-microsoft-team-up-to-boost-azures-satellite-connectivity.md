@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microso
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360619/ses-and-microsoft-team-up-to-boost-azures-satellite-connectivity?amp"
 type: article
 quality: 97
-heat: 820
+heat: 840
 published: true
 
 provider:
@@ -442,6 +442,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
+  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
+    excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
+    publishedDateTime: 2021-08-23T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
     publishedDateTime: 2021-08-17T12:00:00Z

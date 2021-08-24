@@ -447,6 +447,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
+  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
+    excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
+    publishedDateTime: 2021-08-23T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
   - title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
     excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"
     publishedDateTime: 2021-08-19T13:42:00Z
