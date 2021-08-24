@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
-      "title": "Design a geographically distributed application",
-      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-send-crop-weather-alerts.md",
+      "title": "Help remote farmers protect their crops with text message weather alerts using Azure Functions",
+      "excerpt": "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-send-crop-weather-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-crop-weather-alerts/",
+      "length": "PT35M",
       "ratings": {
-        "count": 1062,
-        "average": 4.705273
+        "count": 17,
+        "average": 4.352941
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,18 +27,27 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Beginner"
       ],
       "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking",
+        "IoT",
+        "Mobile",
         "Web",
-        "Compute",
-        "Databases"
+        "Serverless",
+        "Compute"
       ]
     },
     {
@@ -72,8 +81,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 22807,
-            "average": 4.7705092
+            "count": 22815,
+            "average": 4.770458
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -117,8 +126,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 17298,
-            "average": 4.6360273
+            "count": 17305,
+            "average": 4.6361165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -160,8 +169,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 15313,
-            "average": 4.7738523
+            "count": 15318,
+            "average": 4.773861
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -203,8 +212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 20498,
-            "average": 4.7307053
+            "count": 20503,
+            "average": 4.7307224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -275,8 +284,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 22807,
-        "average": 4.7705092
+        "count": 22815,
+        "average": 4.770458
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -384,8 +393,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 4019,
-            "average": 4.6372232
+            "count": 4020,
+            "average": 4.6373134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -562,8 +571,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 3085,
-            "average": 4.7179904
+            "count": 3086,
+            "average": 4.7180815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -605,8 +614,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 43912,
-            "average": 4.720304
+            "count": 43913,
+            "average": 4.7203107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -831,8 +840,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 8263,
-            "average": 4.678567
+            "count": 8264,
+            "average": 4.678606
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -909,8 +918,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 2052,
-            "average": 4.596004
+            "count": 2053,
+            "average": 4.5957136
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1071,8 +1080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5728,
-            "average": 4.7589035
+            "count": 5729,
+            "average": 4.758771
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1114,8 +1123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 9522,
-            "average": 4.673493
+            "count": 9524,
+            "average": 4.6735616
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1397,8 +1406,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 14532,
-            "average": 4.765139
+            "count": 14534,
+            "average": 4.764965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1747,8 +1756,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2575,
-            "average": 4.666796
+            "count": 2576,
+            "average": 4.6669254
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1834,8 +1843,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 8013,
-            "average": 4.725072
+            "count": 8014,
+            "average": 4.7248564
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3897,8 +3906,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 2254,
-        "average": 4.6322093
+        "count": 2255,
+        "average": 4.6323724
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3943,8 +3952,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 2575,
-        "average": 4.666796
+        "count": 2576,
+        "average": 4.6669254
       },
       "provider": {
         "name": "Microsoft Learn",
