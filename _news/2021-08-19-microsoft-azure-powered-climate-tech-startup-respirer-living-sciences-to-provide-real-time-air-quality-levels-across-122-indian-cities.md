@@ -513,13 +513,13 @@ related:
       domain: financialbuzz.com
     quality: 15
   - title: "TCS MasterCraft™ Products are Now Available on the Microsoft Azure Marketplace"
-    excerpt: "Tata Consultancy Services’ Suite of Intelligent Automation Products Will Help Enterprises Speed-up their Application Modernization and Accelerate their Movement to the Cloud. MU"
-    publishedDateTime: 2021-08-24T12:50:00Z
-    webUrl: "https://www.tcs.com/mastercraft-products-available-microsoft-azure-marketplace"
+    excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, announced that TCS MasterCraft™, a suite of intelligent automat"
+    publishedDateTime: 2021-08-24T14:10:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297667"
     type: article
     provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
+      name: Equity Bulls
+      domain: equitybulls.com
     quality: 13
   - title: "Vandis and Megaport power end-to-end multi-cloud service enablement with Microsoft Azure Lighthouse"
     excerpt: "Combining Vandis's expertise in professional services for managing Microsoft Azure and multi-cloud environments with Megaport's global, on-demand Network as a Service (NaaS) and Megaport Cloud Router (MCR)'s advanced virtual routing capabilities,"

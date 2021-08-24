@@ -504,13 +504,13 @@ related:
       domain: financialbuzz.com
     quality: 15
   - title: "TCS MasterCraft™ Products are Now Available on the Microsoft Azure Marketplace"
-    excerpt: "Tata Consultancy Services’ Suite of Intelligent Automation Products Will Help Enterprises Speed-up their Application Modernization and Accelerate their Movement to the Cloud. MU"
-    publishedDateTime: 2021-08-24T12:50:00Z
-    webUrl: "https://www.tcs.com/mastercraft-products-available-microsoft-azure-marketplace"
+    excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, announced that TCS MasterCraft™, a suite of intelligent automat"
+    publishedDateTime: 2021-08-24T14:10:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297667"
     type: article
     provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
+      name: Equity Bulls
+      domain: equitybulls.com
     quality: 13
   - title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
     excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"
@@ -581,6 +581,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "BKW7PBM/sqcDVif5HESU2jWA6TjUzlewjoD1VH2Z+IC9hNPliLQotlLhtRlINTBzU9k0eyN9L1KEvApHN6WOZ+MRe8fbXRWARsVa+mYxowNdblqLsaG3WxkFLJp9qiFitnY/SVkcIk/0ghY1X1ikH2XA8aidAeAt2LfwRyHAJL+B4Gs/Io7WkHmDkOrK0PPmH0m+h/ZjSXHdXqpxd9JhXBxCKqW3qSfBLASLop6ZvEzEHl6P0gYMPE7s+rCwqXylDQvQV+0qYPgTgNS++VOQPEq/BB9Gkz+1owhEfBYFv9WBOdVU4+WgYT4ijjiWb3hOkBpckPBqF6/y/uQRj/ZcbN1Q915R8ZHXG5liDgau2kc=;uSGbEgnXiUAptbLtW38uSg=="
+secured: "IW75gnWzTzMu1n82t1OWO1pVkWnP1EUD/evyKYc0EXdbiY0qMyqxINuFzmtz02gCGNiz+NjuV6QWO8B+xXCtSVI71efhvDBrdX+Oxvz9id1tdWjWITAIlHKQguQDllJ0sfPtMxiQXxNdc5Zb/6Zor/LeQfL7TGTw1sn8+AvwTzyqllFBBJkbm6jOIwzldxdWWV+YrautvZYmwLXTFancyHY5YPGg+uCfESVPa7iVGTDvnraBeBIkWXcTKkk7Niow/lVo6EH8QT/NCyqxhIMyUG6NazvtL9l0NApJRfnGoxAYtrrKUzpLETuA1bU93k9iVnFue3Ue3J6JxZQyCqeHlqou3WspX2tMYsJe4uqQXEXk597gFMlzj8wHPdmZ+vpvg4DMWVD8KjDH1yccguUvR4hJXZofJzlU7EmiyNbK7yqukp/mPR2beI/uQFYSbFu4EusJauzXReZxwmlLVRZGSXg/oAU/mVjcPfu1Bw+N0paSvfFOSZ/HyBVxU5ZAk+KIznvaM3Hm+V3YKKiWkYeE+w==;CnLFRYYAKI2qSDq6nkFU8g=="
 ---
 

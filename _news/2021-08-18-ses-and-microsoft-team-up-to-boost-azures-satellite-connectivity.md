@@ -503,13 +503,13 @@ related:
       domain: financialbuzz.com
     quality: 15
   - title: "TCS MasterCraft™ Products are Now Available on the Microsoft Azure Marketplace"
-    excerpt: "Tata Consultancy Services’ Suite of Intelligent Automation Products Will Help Enterprises Speed-up their Application Modernization and Accelerate their Movement to the Cloud. MU"
-    publishedDateTime: 2021-08-24T12:50:00Z
-    webUrl: "https://www.tcs.com/mastercraft-products-available-microsoft-azure-marketplace"
+    excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, announced that TCS MasterCraft™, a suite of intelligent automat"
+    publishedDateTime: 2021-08-24T14:10:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297667"
     type: article
     provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
+      name: Equity Bulls
+      domain: equitybulls.com
     quality: 13
   - title: "Microsoft Azure Powered Climate-Tech Startup Respirer Living Sciences to Provide Real Time Air Quality Levels Across 122 Indian Cities"
     excerpt: "Powered by Microsoft Azure, Respirer Living Sciences is simplifying air quality monitoring in India Provides insights on critical air quality levels across 122 Indian cities To he"

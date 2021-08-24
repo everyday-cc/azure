@@ -1,18 +1,18 @@
 ---
 category: news
 title: "TCS MasterCraft™ Products are Now Available on the Microsoft Azure Marketplace"
-excerpt: "Tata Consultancy Services’ Suite of Intelligent Automation Products Will Help Enterprises Speed-up their Application Modernization and Accelerate their Movement to the Cloud. MU"
-publishedDateTime: 2021-08-24T12:50:00Z
-originalUrl: "https://www.tcs.com/mastercraft-products-available-microsoft-azure-marketplace"
-webUrl: "https://www.tcs.com/mastercraft-products-available-microsoft-azure-marketplace"
+excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, announced that TCS MasterCraft™, a suite of intelligent automat"
+publishedDateTime: 2021-08-24T14:10:00Z
+originalUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297667"
+webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297667"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Tata Consultancy Services
-  domain: tcs.com
+  name: Equity Bulls
+  domain: equitybulls.com
 
 topics:
   - Azure
@@ -575,6 +575,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "WmOXGENonMW/UEY0mdtyfKOYBtZiiCy5bvcN28kqEZupC07fSrDqWN45Xb/rxsfK3Id3ZPD7gGsSzMJnF8WGouo5wdNx3kZzoV5q3BPSj/RrCXoL0wHUfj8/ZzaQiYwYK8Tjyha0q9WkcKrQCpliFWf5xS8Rp1c+Mlyz/lx9xs+W2KjtjXOle18xN0vpNXlfyPZ4SQCIUl5nc/a7tr5yTGIz3BJkx0qyN+lQGWn0iIv4tUT6/hW/6ESaXrRLEv1FMt4xsOuE9sDZswuD3y5nSxzJjnPh+1zK5g3I82GF7ys/m2Od+1hryHv3N4tArnePInL8W0+N3Sh/1rA6KyTWlXN2YCWNBAPVAgfGXat2Ibk=;Vbk5fGeCB4sD44GBnOAo9g=="
+secured: "dzhWpWvPH1K4/XXRs6n1nUNKDHNzL5Wh+blSPBPDeXNhHMY0761/WB9kVT7qp3IJpFQ29Z5XoEreduqC1Filx+9WNqB3T42NycSpTvbHuk+f5ZXtvanXbhJtHsansurAJLblO5YblYnF7jJrrMb4U4gjwVPjSprfJRuszcliBsQZDEGysZdsBsJpU2Z6KkrVUcjyNYwoi0Pyg0n85NgJnImwv0l01lzS6o18zToEnTd3gD/wcfmFBkq3wxo+8+R0iQ4clzD+AZ+vRQo0zhIigq2Gl9HAnSopiA36TM36jeO5ObBofsfGJbKmsWg/1qsFxnjOUPxR9SpedZg2pucBPm1LUVpNsNr8LM2VaaLc0FM=;Y3WcIQLQAygZ2n9b5mcBTA=="
 ---
 
