@@ -4,7 +4,7 @@ excerpt: "Artificial Intelligence (AI) empowers amazing new solutions and experi
 type: collection
 price: Free
 length: PT27M
-heat: 149
+heat: 145
 
 provider:
   name: Microsoft Learn
