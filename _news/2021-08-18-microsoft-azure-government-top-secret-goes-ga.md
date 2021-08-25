@@ -40,6 +40,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+    publishedDateTime: 2021-08-24T12:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
     publishedDateTime: 2021-08-18T19:30:00Z
@@ -358,7 +372,7 @@ related:
   - title: "Walgreens uses Microsoft Azure to gain insights from dispensing data"
     excerpt: "US pharmacy chain Walgreens has completed a project with Microsoft and Tata Consultancy Services to build a platform to gain insights from prescription dispensing data, freeing up pharmacists to spend more time helping patients."
     publishedDateTime: 2021-08-24T11:11:00Z
-    webUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
+    webUrl: "https://www.technologyrecord.com/Home/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125502"
     type: article
     provider:
       name: technologyrecord.com
@@ -392,20 +406,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-    excerpt: "PRNewswire/ - WatServ announced today that it has earned the “Microsoft Windows Server and SQL Server Migration to Microsoft Azure” advanced specialization, demonstrating the company’s extensive experience and knowledge in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure."
-    publishedDateTime: 2021-08-24T12:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-178d1e548099bc1cb5d924fb707a9d2f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z

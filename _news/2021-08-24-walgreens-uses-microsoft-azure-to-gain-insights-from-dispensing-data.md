@@ -3,8 +3,8 @@ category: news
 title: "Walgreens uses Microsoft Azure to gain insights from dispensing data"
 excerpt: "US pharmacy chain Walgreens has completed a project with Microsoft and Tata Consultancy Services to build a platform to gain insights from prescription dispensing data, freeing up pharmacists to spend more time helping patients."
 publishedDateTime: 2021-08-24T11:11:00Z
-originalUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
-webUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
+originalUrl: "https://www.technologyrecord.com/Home/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125502"
+webUrl: "https://www.technologyrecord.com/Home/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125502"
 type: article
 quality: 37
 heat: -1
@@ -39,6 +39,20 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629303595/itpro/SES_Banner_With_Lines_4k_High.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+    publishedDateTime: 2021-08-24T12:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
@@ -392,20 +406,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-    excerpt: "PRNewswire/ - WatServ announced today that it has earned the “Microsoft Windows Server and SQL Server Migration to Microsoft Azure” advanced specialization, demonstrating the company’s extensive experience and knowledge in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure."
-    publishedDateTime: 2021-08-24T12:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-178d1e548099bc1cb5d924fb707a9d2f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -601,6 +601,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "q0nvzCwyffGGL9CTWL2DZlT1RIW3Uu5zXk5choUKVQzNyeXqcxV3gz+u2tRmnU0PzTIDU63h3pPWq6YYoCo04RDT+IP5/shvbZOqN2agEVWa5okJH5Fn+4DQgM+Tu4e572+Zfllt9mLkS3Q6R2jtPzOmrMz0iM2AXyMTbOMBJg8r5FSyMfb7PoeZXRhJw6o5BW8yqVHLX+/zFUMNKDK+Vg0YR58x84r77aOF83/0381xtE4lZR8LD2Ooe+kT2lQn4YX+PCHR03jFFdLLPYc5KU97s5/21EJsfsOnPnJsutAw47Q/TeDRK1gd8zWxkOmg3Z+AYscrdSqKBPsavQe5nHLr4+s43t6yQD3ihDhE1fU=;N1s3RGxI/OFY+TU/WcVHDA=="
+secured: "4T+wyt4rpDvZ/mcmqLwewe1b8GhaRsWWAjObZpmyQdLFpS6aGnTxIcpQxMdlXbc3BJRzqFD2fP4S49ki495NR5NqvOGeFzMMTZihgmFDevAO/7C8TeNsxFsECtVXMVD5Cn+DxIQJh4+TGDjzpxhzIEwciSZPGbW2NZsq9SFA17ktuGo6Uw1Heb1w/z38cbQaQA0qGghlQ6i0TbEhkOBEsXdZ7D5DKUe9CmUxQF/IpdObB5dmZzuuht6WfKgv38TLpvk0azqz65w1cwcZaad2Ygj1i6UQIi9vh60CSQ06Irhp/q+z62YGeLeiZrXGsKLaJaaflwGsxbiuV7trQjkVdrJv8nnCtwd2GSZwn1x0rSw=;GMmaeGwtq1QFhvSurcOJgA=="
 ---
 

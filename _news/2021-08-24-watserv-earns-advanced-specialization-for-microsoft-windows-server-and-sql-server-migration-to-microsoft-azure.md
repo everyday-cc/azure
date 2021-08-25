@@ -1,27 +1,31 @@
 ---
 category: news
 title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-excerpt: "PRNewswire/ - WatServ announced today that it has earned the “Microsoft Windows Server and SQL Server Migration to Microsoft Azure” advanced specialization, demonstrating the company’s extensive experience and knowledge in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure."
-publishedDateTime: 2021-08-24T12:27:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-178d1e548099bc1cb5d924fb707a9d2f"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-178d1e548099bc1cb5d924fb707a9d2f"
+excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+publishedDateTime: 2021-08-24T12:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -373,7 +377,7 @@ related:
   - title: "Walgreens uses Microsoft Azure to gain insights from dispensing data"
     excerpt: "US pharmacy chain Walgreens has completed a project with Microsoft and Tata Consultancy Services to build a platform to gain insights from prescription dispensing data, freeing up pharmacists to spend more time helping patients."
     publishedDateTime: 2021-08-24T11:11:00Z
-    webUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
+    webUrl: "https://www.technologyrecord.com/Home/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125502"
     type: article
     provider:
       name: technologyrecord.com
@@ -602,6 +606,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "EHE/ozO0xP+e1QzL4uxSSGLOLhtONB9IhO5eUIrX42IEV2tJE42+bnWRjNWJZ1LMX30Ma3zk5AiFSFiZl2/8yLxv8Vdhxewu5DFuujeyzmNkfmtsmOuC2DEqyWBIn03TTSB+F3OEaRttDShHLNStlArpgWV6Q9/RwiYg5l5lSapeL/9zzuyNtfK4NSqHtYyGa6g2QSP1gfNk788dPt+N2ULwORAan8ok21xX21NNXe6F43sjbu/vW5HeKSryOD6x4jolhlGZe2Eg1S3duR+Pj5CCL9xmV3iqd5+NF/4WJPETcbT/fLzL8yanGL7khmNGo53Y1Ibp35+bTj4Pb84LOQgEGkRHjp6+yUs1MCV8eQ8=;ulZ0qi92o/QTkrAnUoXu1A=="
+secured: "jZOxINdwtkLSqlmjwAp2vMX2p/JO++/Y0O1PHRJjqK8IG9kcq6GQpVVzSIoPIAr33QTQ1ggz2lHcmmNBFYmvSJUdinqYkGboaOZYZIs3mhphDEhrMNkl2z9G4OHDFA7QzGhprh8BXqLFfLtVIlp+FjJUylZtbfLUSBxuvtb733mMXUvsHPnR2JVwjtC2cYhEMFCeSAU46aVNgrX7NO2dgqR7JB2eVzEJ5D6ZEyvKXXLs8Mi30NBnHEgqn4y4HX2sSGM3mgd9uOny1rvH5n0HeQ4dv7l/u8Kqa1AzIPqoAjZjoXwXZdVJ7yuc3ZLnTrxj+4SS+TYa0rwnIGgkct5rdNjBHu+iS5PEZ2AHJScp5p4=;OioQQ4qhKHOsy8mYKuTVnA=="
 ---
 
