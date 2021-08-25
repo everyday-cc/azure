@@ -2,28 +2,26 @@
 category: news
 title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
 excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
-publishedDateTime: 2021-08-18T18:50:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
-webUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
+publishedDateTime: 2021-08-18T19:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
+webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
 type: article
-quality: 46
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Identity
   - Integration
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -340,16 +338,16 @@ related:
   - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
     excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
     publishedDateTime: 2021-08-18T06:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+    webUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/1/2c/12cc956c-564a-5f8e-8ea2-2373e9bf96d7/611cb0dc9f383.image.jpg?resize=1200%2C480"
+        width: 1200
+        height: 480
         isCached: true
   - title: "Space Broadband Wars Heat Up: SES Connects Azure Cloud, Cruise Ships"
     excerpt: "O3b mPOWER network as a “goldilocks” broadband satellite solution, offering advantages over geosynchronous Earth orbit (GEO) and low Earth orbit (LEO) constellations from SpaceX, OneWeb, and Telesat."
@@ -594,6 +592,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "yCmZR6hdBnkv4dOLSbpEBx41+FOr0NxNyecP/2eWAcX6Y3ybhms5UpQZWVshs2Q+V5Rnf1W1iGJVVuAp4HAVuWfBr+24Djq+HyRpIiRIhg979FDwRfLD5UMpIsq0eR2BYWkyy07WCyfWT/PSQblRF1nFyRU+P4VZCEdKYmAraW2P4jU+vxwkkh6EDXmW16oEmTXLT3BoWLRJFuWbswOhuix7R8SHIUmTkpSLOmVp2LWqBcPDnhskBU2zNTkkA1A2RGQjQv/ds7O+18hJcD0TAbObMlFldFrDnkRF8TrtaziU7/XCXZ0emxi0kQeR/G+Tk30G5w9bG2/+wRTKJR1MCi0QivttboC/1/6SPOga0UA=;Qj/wnKJzXDLgpXsM0MtOCA=="
+secured: "Ul8YPxd1+tEmLsPWiMOT8A6KQz64SkQ+du0Y1+t7fDNQeCbcCLpZumAc8aFfLdDUz/RnzpZBAsslcomlpJPsbbL0BsMepwBI9gxgRM5wVUyHSsS0UC+ZbpO32NIcQ1AyElTNZEg+tnkWcde6NO5kIHX7SQQkDnWTHxNHDJ3z6s44igpPNe4EOjUS7+tg6HVOCIEBnGc6VGpkLSmy3x+BUWaSQsJLQU6ac2jmtd+TW2O7bV25+Gf7HwsVslHInKry41subsptfK5wXyOkZ8SilG/oxjIiMtZh0OLEZSrnC542nH0xNVToJQIxGq/jDhPuLIs2FoCjIO2FGSjnpanuaNsm1DzmlnP16s2gVMPqA4E=;SDWrutEMBNRnNhR+E04rFw=="
 ---
 

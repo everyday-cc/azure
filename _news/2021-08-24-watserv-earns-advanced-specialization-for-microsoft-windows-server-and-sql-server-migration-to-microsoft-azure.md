@@ -45,6 +45,15 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
+    excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
+    publishedDateTime: 2021-08-18T19:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
     excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
     publishedDateTime: 2021-08-19T20:59:00Z
@@ -214,20 +223,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-    excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
-    publishedDateTime: 2021-08-18T18:50:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Cloud Katana Released as Open Source for Testing Cloud Security"
     excerpt: "Microsoft announced on Thursday that it is releasing Cloud Katana as an open source code project for assessing 'security controls in the cloud and hybrid cloud environments.'"
     publishedDateTime: 2021-08-20T22:55:00Z
@@ -343,16 +338,16 @@ related:
   - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
     excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
     publishedDateTime: 2021-08-18T06:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+    webUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/1/2c/12cc956c-564a-5f8e-8ea2-2373e9bf96d7/611cb0dc9f383.image.jpg?resize=1200%2C480"
+        width: 1200
+        height: 480
         isCached: true
   - title: "Space Broadband Wars Heat Up: SES Connects Azure Cloud, Cruise Ships"
     excerpt: "O3b mPOWER network as a “goldilocks” broadband satellite solution, offering advantages over geosynchronous Earth orbit (GEO) and low Earth orbit (LEO) constellations from SpaceX, OneWeb, and Telesat."

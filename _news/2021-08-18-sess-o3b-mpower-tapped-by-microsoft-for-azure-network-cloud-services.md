@@ -3,24 +3,24 @@ category: news
 title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
 excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
 publishedDateTime: 2021-08-18T06:51:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
-webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+originalUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/ses-s-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/article_c52ae8fb-0594-5d25-adcb-81ddc2a8275c.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/1/2c/12cc956c-564a-5f8e-8ea2-2373e9bf96d7/611cb0dc9f383.image.jpg?resize=1200%2C480"
+    width: 1200
+    height: 480
     isCached: true
 
 related:
@@ -54,6 +54,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
+    excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
+    publishedDateTime: 2021-08-18T19:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cirrus-identity-announces-integration-with-microsoft-azure-active-directory-to-help-universities-meet-deadline-for-new-nih-authentication-requirements-1030743263"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "How to Get Cloud-Ready With Microsoft Cloud App Security"
     excerpt: "Have you heard about Microsoft Cloud App Security but aren't sure what it entails? If so, click here to learn how to best leverage it."
     publishedDateTime: 2021-08-19T20:59:00Z
@@ -222,20 +231,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/08/spaceborne-computer-2.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
-    excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
-    publishedDateTime: 2021-08-18T18:50:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/a2c1464aed12bf13a14eb6fccb0fe415"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Microsoft Cloud Katana Released as Open Source for Testing Cloud Security"
     excerpt: "Microsoft announced on Thursday that it is releasing Cloud Katana as an open source code project for assessing 'security controls in the cloud and hybrid cloud environments.'"
@@ -592,6 +587,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "ZngN1JSeHsPQ6aqIJxz4/inXVCyJ9cD7l8EL2kBChfyMzD7KXCy9dAhI63ox+q7wM0bX3n+Dd76oEdaWEW17GaIFTUjgEn94gaRQoDYk+0qmc8Nf7eJxMwsffbSVRfkqS0SiPAuPgiKM6SC5Z8sNKSe1nOo44HVQGEQljr8jtlpEM68UYrTS9ofi3B3UYOao5i4jqFJXOnp5UF5QVvU81YPIL1zAxpEVyLzcLeL8TjgtWsHEDDwUbwiRzWex4RLNmPgCl0hoclYb+NC9j8fyDHvVF/M7jtGEpPQUDR1/NB1nVm8TZWy3pAhE7PVAba5vIb9N45CGnf3cEnHSE+ska5bYS3gbZo3Xog6bACt6uyU=;u/OPMKVs0EYmC57pt1svHg=="
+secured: "w7hcckYnZhm+ZBNcg+dsoKCbphE3x+grExcHWB10kUcQ5LAj4UmcUu7PnkcampFFk5ieeQGM5Cq0BGvPnFPNvLYOdYcjpGeh3C8n0uMM4x3JnCPE43vggfbm4UoBOirBR7Iv6EzCRTBMoXsf8VtZoaByTT90B5Nb4Z+ZiD8915VHg2ZeptJuhIBLo3LBCjQ9fPX6gdb4gizsMJ3JxPXtYez2YRXA8XEXmhvjeWWGFP/qxjkpLiJxliP6DZVzeUERTaOzBh8llz0HTWfKHFW8zXxWJDYPiwqYWdJql5QEfRz4lyo++q2MbyIoG5zljRH9rVQQQ57gfsBIyiRLOde385lr9HauNuf2YYvnbH+4CkQ=;m/xkEeswnd7EpI6LaZZFkA=="
 ---
 
