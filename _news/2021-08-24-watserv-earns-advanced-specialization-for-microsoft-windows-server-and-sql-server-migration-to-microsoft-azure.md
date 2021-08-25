@@ -1,22 +1,18 @@
 ---
 category: news
 title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
-publishedDateTime: 2021-08-24T12:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
-webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+excerpt: "CNW/ - WatServ announced today that it has earned the \"Microsoft Windows Server and SQL Server Migration to Microsoft Azure\" advanced specialization, demonstrating the company's extensive experience and knowledge in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure."
+publishedDateTime: 2021-08-24T12:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-watserv-earns-advanced-specialization-microsoft-windows-server-sql-/2021/08/24/9435988.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-watserv-earns-advanced-specialization-microsoft-windows-server-sql-/2021/08/24/9435988.htm"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -606,6 +602,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "IW75gnWzTzMu1n82t1OWO1pVkWnP1EUD/evyKYc0EXdbiY0qMyqxINuFzmtz02gCGNiz+NjuV6QWO8B+xXCtSVI71efhvDBrdX+Oxvz9id1tdWjWITAIlHKQguQDllJ0sfPtMxiQXxNdc5Zb/6Zor/LeQfL7TGTw1sn8+AvwTzyqllFBBJkbm6jOIwzldxdWWV+YrautvZYmwLXTFancyHY5YPGg+uCfESVPa7iVGTDvnraBeBIkWXcTKkk7Niow/lVo6EH8QT/NCyqxhIMyUG6NazvtL9l0NApJRfnGoxAYtrrKUzpLETuA1bU93k9iVnFue3Ue3J6JxZQyCqeHlqou3WspX2tMYsJe4uqQXEXk597gFMlzj8wHPdmZ+vpvg4DMWVD8KjDH1yccguUvR4hJXZofJzlU7EmiyNbK7yqukp/mPR2beI/uQFYSbFu4EusJauzXReZxwmlLVRZGSXg/oAU/mVjcPfu1Bw+N0paSvfFOSZ/HyBVxU5ZAk+KIznvaM3Hm+V3YKKiWkYeE+w==;CnLFRYYAKI2qSDq6nkFU8g=="
+secured: "WzFx+zY4gTDaG7wSWNPtkY2tivtTRTMZ9iHrKOTcqC8ZggJKzMiB9ZH42m7o1qQhym2Fav85opdhH9xSqmkTBp2ypEnDAlSeag1hdyHJefWPEkwiDoKuOUSRMlWfQwNsIHvY94dEx0fLFmeiAll5GFXfxUxY/8Azog6h0jAncqXYU/AXeqBnq1kIYfwRwELOCN6TSMANVaL+Y/VDUiefZbBwyH3s7H25HePiRTmJ0/nCeT76H8i+RRnLWywVfIJ4dFQtP0MkbqULlJ37IgDDj78ffmri0JpO3++zMyvheEAI0Iew+HgSCNpiINPSCmo0ZVpQyOVvESE5O5SPoPQBmD9JntUg3lDKtyiFN5eGMug=;TCWiyo2IlMpnGkeTTiIHQw=="
 ---
 

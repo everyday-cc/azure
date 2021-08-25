@@ -40,20 +40,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-    excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
-    publishedDateTime: 2021-08-24T12:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
     publishedDateTime: 2021-08-18T19:30:00Z
@@ -406,6 +392,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "CNW/ - WatServ announced today that it has earned the \"Microsoft Windows Server and SQL Server Migration to Microsoft Azure\" advanced specialization, demonstrating the company's extensive experience and knowledge in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure."
+    publishedDateTime: 2021-08-24T12:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-watserv-earns-advanced-specialization-microsoft-windows-server-sql-/2021/08/24/9435988.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -601,6 +601,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "w7hcckYnZhm+ZBNcg+dsoKCbphE3x+grExcHWB10kUcQ5LAj4UmcUu7PnkcampFFk5ieeQGM5Cq0BGvPnFPNvLYOdYcjpGeh3C8n0uMM4x3JnCPE43vggfbm4UoBOirBR7Iv6EzCRTBMoXsf8VtZoaByTT90B5Nb4Z+ZiD8915VHg2ZeptJuhIBLo3LBCjQ9fPX6gdb4gizsMJ3JxPXtYez2YRXA8XEXmhvjeWWGFP/qxjkpLiJxliP6DZVzeUERTaOzBh8llz0HTWfKHFW8zXxWJDYPiwqYWdJql5QEfRz4lyo++q2MbyIoG5zljRH9rVQQQ57gfsBIyiRLOde385lr9HauNuf2YYvnbH+4CkQ=;m/xkEeswnd7EpI6LaZZFkA=="
+secured: "/v6B28CrQiho8OWUIwUoqPbrDW+2G13NM+AE3nzw53WfBzjz3pUx6ZCQWf1p3OfrGj99BkfX+iXzNlza75JXLY4zjeEvYNMySquH73lR4KVTAS3Ta7HRYwI3JGO9v8ENKVIWDKIF15YEVsDMRTckfe2w0Pda4MZ8HXO6KwCwApWUuieg2o5h9EFmszt84K6c451Ji6IfjT6aTqMRWB4/GHd7H6qKbOaYq2Ravp6eYOV0iaesu5+stLF5NLxzY7RYfldy40Rsu+KyhKBnpbg+XmMrapBpkEauL97wWvRYEC6Z/bBMGnIdlMFcxEnKMRf+ssSuCuInM1d396WDmktZnFylBimbuDGJ4WC+fmRtGK8aIsw0kM+o8XkBjKPvfFYWM/14fjpoKcuuARvEtwD+P21FkgN8MpFE3zoNXaMhv/Vkx2IeexO3mr2IU/o8RjFeZ7g0/EH7TvZZCyges9pmIUQUcGlAZ9SW59FAYFxFXoQ60w7WgDmgVBwSCKLrWqgdHz+t7338/gifRzmvJT6Fgw==;aQoW3SFBW5lG3/BRqSgyAg=="
 ---
 
