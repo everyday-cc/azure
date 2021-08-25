@@ -4,6 +4,92 @@
   "page": 50,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-plan-your-supporting-infrastructure-for-microsoft-365.md",
+      "title": "Plan your supporting infrastructure for Microsoft 365",
+      "excerpt": "Plan your supporting infrastructure for Microsoft 365",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-your-supporting-infrastructure-for-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-supporting-infrastructure-for-microsoft-36/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 20,
+        "average": 4.9
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-plan-your-tenant-microsoft-365.md",
+      "title": "Plan your tenant in Microsoft 365",
+      "excerpt": "Plan your tenant in Microsoft 365",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-plan-your-tenant-microsoft-365/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-tenant-microsoft-365/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 28,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-plan-your-windows-10-subscription-activation-strategy.md",
       "title": "Plan your Windows 10 Subscription Activation strategy",
       "excerpt": "Plan your Windows 10 Subscription Activation strategy",
@@ -396,8 +482,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
       "length": "PT43M",
       "ratings": {
-        "count": 1160,
-        "average": 4.7439656
+        "count": 1161,
+        "average": 4.744186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -784,8 +870,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 5709,
-        "average": 4.669119
+        "count": 5710,
+        "average": 4.669177
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1189,94 +1275,6 @@
         "Compute",
         "Serverless",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-static-web-app-authentication.md",
-      "title": "Authenticate users with Azure Static Web Apps",
-      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with API and authentication using Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-static-web-app-authentication/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-authentication/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 49,
-        "average": 4.571429
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-authentication-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-use-language-understanding-app.md",
-      "title": "Publish and use a Language Understanding app",
-      "excerpt": "Publish and use a Language Understanding app",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-publish-use-language-understanding-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-use-language-understanding-app/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 18,
-        "average": 4.888889
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

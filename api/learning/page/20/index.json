@@ -90,6 +90,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-authenticate-apps-with-managed-identities.md",
+      "title": "Authenticate apps to Azure services by using service principals and managed identities for Azure resources",
+      "excerpt": "Securely authenticate apps to Azure to manage and access Azure services. Service principals and managed identities give your app an Azure AD identity.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-authenticate-apps-with-managed-identities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 372,
+        "average": 4.669355
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/authenticate-apps-with-managed-identities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-automate-model-selection-with-azure-automl.md",
       "title": "Automate machine learning model selection with Azure Machine Learning",
       "excerpt": "Learn how to use automated machine learning in Azure Machine Learning to find the best model for your data.",
@@ -345,8 +387,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-case-studies/",
       "length": "PT54M",
       "ratings": {
-        "count": 407,
-        "average": 4.766585
+        "count": 408,
+        "average": 4.767157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -720,8 +762,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-compute-provisioning/",
       "length": "PT50M",
       "ratings": {
-        "count": 1138,
-        "average": 4.6862917
+        "count": 1139,
+        "average": 4.6865673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -805,8 +847,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-build-apps-cloud/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 394,
-        "average": 4.6319795
+        "count": 395,
+        "average": 4.632911
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1227,49 +1269,6 @@
         "Azure",
         "Management Tools",
         "Storage",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-virtual-machine-extensions.md",
-      "title": "Configure virtual machine extensions",
-      "excerpt": "You will learn how to use virtual machine extensions to automate virtual machine deployments.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-virtual-machine-extensions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machine-extensions/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 40,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Compute"
       ]
     }

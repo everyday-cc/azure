@@ -4,49 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
-      "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
-      "excerpt": "Discover how Azure Traffic Manager provides DNS load balancing for your application to improve the performance and availability of your application.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-distribute-load-with-traffic-manager/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 3241,
-        "average": 4.6356063
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/distribute-load-with-traffic-manager-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
       "title": "Encrypt network traffic end to end with Azure Application Gateway",
       "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
@@ -183,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 5730,
-        "average": 4.7588134
+        "count": 5731,
+        "average": 4.7588553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -312,8 +269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 5929,
-        "average": 4.6807218
+        "count": 5930,
+        "average": 4.6807756
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -854,8 +811,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
       "length": "PT35M",
       "ratings": {
-        "count": 524,
-        "average": 4.6660304
+        "count": 525,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1248,6 +1205,49 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure.md",
+      "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
+      "excerpt": "Learn how to investigate and diagnose problems in your Azure virtual networks by using Network Watcher and other tools.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 4355,
+        "average": 4.627325
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-azure-network-infrastructure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
       ]
     }
   ],

@@ -4,6 +4,93 @@
   "page": 46,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-microsoft-store-for-business.md",
+      "title": "Examine the Microsoft Store for Business",
+      "excerpt": "Examine the Microsoft Store for Business",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-microsoft-store-for-business/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-microsoft-store-for-business/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 7,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-mobile-device-management.md",
+      "title": "Explore Mobile Device Management",
+      "excerpt": "Explore Mobile Device Management",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-introduction-to-mobile-device-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-mobile-device-management/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 9,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Mobile"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-privileged-identity-management.md",
       "title": "Examine Privileged Identity Management",
       "excerpt": "Examine Privileged Identity Management",
@@ -828,8 +915,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2384,
-        "average": 4.8309565
+        "count": 2385,
+        "average": 4.8301888
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1200,93 +1287,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-azure-stack-hci-virtual-machine-workloads.md",
-      "title": "Manage Azure Stack HCI virtual machine workloads",
-      "excerpt": "Manage Azure Stack HCI virtual machine workloads",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-azure-stack-hci-virtual-machine-workloads/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-stack-hci-virtual-machine-workloads/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 10,
-        "average": 4.9
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-azure-updates.md",
-      "title": "Manage Azure updates",
-      "excerpt": "You'll be able to enable Azure Update Management, deploy updates, review an update assessment, and manage updates for your Azure VMs.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-manage-azure-updates/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-updates/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 53,
-        "average": 4.6037736
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-azure-updates-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
       ]
     }
   ],

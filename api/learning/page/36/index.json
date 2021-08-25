@@ -4,6 +4,92 @@
   "page": 36,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-configure-manage-identities.md",
+      "title": "Create, configure, and manage identities",
+      "excerpt": "Create, configure, and manage identities",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-configure-manage-identities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 535,
+        "average": 4.8093457
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-custom-dlp-policy.md",
+      "title": "Create a custom DLP policy",
+      "excerpt": "Create a custom DLP policy",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-custom-dlp-policy/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-dlp-policy/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 10,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-dlp-policy-from-built-template.md",
       "title": "Create a DLP policy from a built-in template",
       "excerpt": "Create a DLP policy from a built-in template",
@@ -833,48 +919,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-saas-offer-commercial-marketplace.md",
-      "title": "Create a SaaS offer for the commercial marketplace",
-      "excerpt": "This module provides a high-level overview of SaaS offers in the commercial marketplace",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-saas-offer-commercial-marketplace/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-saas-offer-commercial-marketplace/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 51,
-        "average": 4.8627453
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-vm-offer-commercial-marketplace.md",
       "title": "Create a virtual machine offer for the commercial marketplace",
       "excerpt": "This module provides a high-level overview of VM offers in the commercial marketplace",
@@ -1260,49 +1304,6 @@
         "Azure",
         "Management Tools",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cv-classify-bird-species.md",
-      "title": "Classify endangered bird species with Custom Vision",
-      "excerpt": "Learn how to use Azure Cognitive Services Custom Vision to build a machine learning model that identifies the species of a bird in an image, to help with gathering data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cv-classify-bird-species/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cv-classify-bird-species/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 192,
-        "average": 4.5885415
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/advocates/cv-classify-bird-species-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

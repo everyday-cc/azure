@@ -4,6 +4,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-configure-virtual-machine-extensions.md",
+      "title": "Configure virtual machine extensions",
+      "excerpt": "You will learn how to use virtual machine extensions to automate virtual machine deployments.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-virtual-machine-extensions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machine-extensions/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 40,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-virtual-machines.md",
       "title": "Configure virtual machines",
       "excerpt": "You will learn to configure virtual machines including sizing, storage, and connections.",
@@ -516,8 +559,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "PT42M",
       "ratings": {
-        "count": 2855,
-        "average": 4.730648
+        "count": 2856,
+        "average": 4.7307425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1199,15 +1242,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-extract-key-phrases-text-analytics-api.md",
-      "title": "Extract key phrases from text with the text analytics API",
-      "excerpt": "Automatically extract key phrases to quickly identify the main points in documents or text.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-extract-key-phrases-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-key-phrases-text-analytics-api/",
-      "length": "PT18M",
+      "path": "_learning/courses/microsoft-learn-extract-insights-text-with-text-analytics-service.md",
+      "title": "Extract insights from text with the Text Analytics service",
+      "excerpt": "Extract insights from text with the Text Analytics service",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-extract-insights-text-with-text-analytics-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-insights-text-with-text-analytics-service/",
+      "length": "PT57M",
       "ratings": {
-        "count": 352,
-        "average": 4.775568
+        "count": 29,
+        "average": 4.862069
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1227,9 +1270,9 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/extract-key-phrases-from-text-with-the-text-analytics-api-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -1240,48 +1283,6 @@
         "Azure",
         "AI",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-go-concurrency.md",
-      "title": "Learn how concurrency works in Go",
-      "excerpt": "Understand more about concurrency, one of the most unique features in Go.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-go-concurrency/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-concurrency/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 13,
-        "average": 4.8461537
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/go-concurrency-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

@@ -4,210 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-work-with-relational-data-in-azure.md",
-      "title": "Work with relational data in Azure",
-      "excerpt": "This learning path introduces you to Azure-supported SQL-based enterprise data solutions enabling you to store and retrieve your app's data in the cloud.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/collections/microsoft-learn-work-with-relational-data-in-azure/index.json",
-      "webUrl": "https://everyday.cc/azure/learning/collections/microsoft-learn-work-with-relational-data-in-azure/",
-      "length": "PT5H34M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-provision-azure-sql-db.md",
-          "title": "Provision an Azure SQL database to store application data",
-          "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-provision-azure-sql-db/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 5709,
-            "average": 4.669119
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
-          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
-          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
-          "length": "PT1H24M",
-          "ratings": {
-            "count": 1647,
-            "average": 4.4972677
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Migration",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
-          "title": "Introduction to Azure Database for PostgreSQL",
-          "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
-          "length": "PT20M",
-          "ratings": {
-            "count": 2344,
-            "average": 4.6548634
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
-          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
-          "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
-          "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 4130,
-            "average": 4.604358
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot.md",
       "title": "Working with Connected Field Service for Dynamics 365 and Azure IoT",
       "excerpt": "This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.",
@@ -423,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 5199,
-        "average": 4.7638006
+        "count": 5201,
+        "average": 4.7638917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -510,8 +306,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-subscriptions/",
       "length": "PT30M",
       "ratings": {
-        "count": 96,
-        "average": 4.7604165
+        "count": 97,
+        "average": 4.7628865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -594,8 +390,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 9681,
-        "average": 4.7822537
+        "count": 9683,
+        "average": 4.782299
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -630,8 +426,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/",
       "length": "PT43M",
       "ratings": {
-        "count": 404,
-        "average": 4.712871
+        "count": 405,
+        "average": 4.71358
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -673,8 +469,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 6398,
-        "average": 4.745233
+        "count": 6399,
+        "average": 4.7452726
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -802,8 +598,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-azure-resource-manager/",
       "length": "PT30M",
       "ratings": {
-        "count": 215,
-        "average": 4.823256
+        "count": 218,
+        "average": 4.8211007
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -984,8 +780,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 2788,
-            "average": 4.795911
+            "count": 2789,
+            "average": 4.7959843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1026,8 +822,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 2111,
-            "average": 4.7906203
+            "count": 2112,
+            "average": 4.7907195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1068,8 +864,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 2195,
-            "average": 4.735763
+            "count": 2196,
+            "average": 4.735883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1130,8 +926,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 7496,
-        "average": 4.741195
+        "count": 7498,
+        "average": 4.741131
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1206,8 +1002,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-resources-arm-templates/",
       "length": "PT21M",
       "ratings": {
-        "count": 167,
-        "average": 4.8502994
+        "count": 168,
+        "average": 4.8511906
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1248,8 +1044,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-role-based-access-control/",
       "length": "PT27M",
       "ratings": {
-        "count": 94,
-        "average": 4.6702127
+        "count": 95,
+        "average": 4.673684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1290,8 +1086,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 6841,
-        "average": 4.6371875
+        "count": 6842,
+        "average": 4.6370945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1404,8 +1200,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 2111,
-        "average": 4.7906203
+        "count": 2112,
+        "average": 4.7907195
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1446,8 +1242,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
       "length": "PT24M",
       "ratings": {
-        "count": 2195,
-        "average": 4.735763
+        "count": 2196,
+        "average": 4.735883
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1489,8 +1285,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 1255,
-        "average": 4.7784863
+        "count": 1256,
+        "average": 4.778662
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1621,8 +1417,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 2682,
-        "average": 4.8117075
+        "count": 2683,
+        "average": 4.811778
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1653,6 +1449,45 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-create-host-and-share-packages-with-azure-artifacts-azure-tips-and-tricks.md",
+      "title": "How to create, host, and share packages with Azure Artifacts | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Azure Artifacts, an Azure DevOps service, to set up a feed for sharing packages with your team.    For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD in credit. Create your free account",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/videos/microsoft-how-to-create-host-and-share-packages-with-azure-artifacts-azure-tips-and-tricks/index.json",
+      "webUrl": "https://everyday.cc/azure/learning/videos/microsoft-how-to-create-host-and-share-packages-with-azure-artifacts-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=xHNXwqxV7Uc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xHNXwqxV7Uc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M33S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-02T08:52:59-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xHNXwqxV7Uc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
       ]
     }
   ],

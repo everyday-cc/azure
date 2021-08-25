@@ -4,6 +4,82 @@
   "page": 34,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-cmu-virtualize-memory.md",
+      "title": "Virtualize memory",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cmu-virtualize-memory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-memory/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 96,
+        "average": 4.4375
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-memory-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cna-build-basic-service.md",
+      "title": "Build a basic cloud native service using PostgreSQL and node",
+      "excerpt": "Build a basic service consisting of an Express.js-based web service with Microsoft Azure Database for PostgreSQL providing its persistent data store, and managed by a front-end Next.js management web app.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-cna-build-basic-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-native-build-basic-service/",
+      "length": "PT1H40M",
+      "ratings": {
+        "count": 4,
+        "average": 4.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-cna-build-iot-service.md",
       "title": "Build an IoT service for your cloud-native apps by using IoT Central",
       "excerpt": "This module describes how to build an IoT service.",
@@ -163,7 +239,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cna-stream-iot-data/",
       "length": "PT47M",
       "ratings": {
-        "count": 5,
+        "count": 6,
         "average": 5.0
       },
       "provider": {
@@ -1182,92 +1258,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
-      "title": "Configure security policies to manage data",
-      "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 2468,
-        "average": 4.6162887
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance.md",
-      "title": "Configure SQL Server resources for optimal performance",
-      "excerpt": "Choose the appropriate size and storage options for your Azure SQL databases. Configure server resources such as tempdb. Understand the usage of Resource Governor.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-sql-server-resources-optimal-performance/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 1498,
-        "average": 4.7623496
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-sql-server-resources-for-optimal-performance-social.png",
-          "width": 643,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],
