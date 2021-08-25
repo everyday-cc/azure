@@ -937,6 +937,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Shell uses Microsoft Azure computing to reduce carbon footprint"
+    excerpt: "Global energy provider Shell is using Microsoft Azure-based high-performance computing (HPC) to reduce its carbon footprint and explore alternative fuels. The technology enables the global energy provider to run the massive calculations required for a project of this size,"
+    publishedDateTime: 2021-08-25T11:07:00Z
+    webUrl: "https://www.technologyrecord.com/Article/shell-uses-microsoft-azure-computing-to-reduce-carbon-footprint-125524"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 37
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10476/img-Unsplash_What-Is-Picture-Perfect_car_petrol-station_refuel_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z

@@ -948,6 +948,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Shell uses Microsoft Azure computing to reduce carbon footprint"
+    excerpt: "Global energy provider Shell is using Microsoft Azure-based high-performance computing (HPC) to reduce its carbon footprint and explore alternative fuels. The technology enables the global energy provider to run the massive calculations required for a project of this size,"
+    publishedDateTime: 2021-08-25T11:07:00Z
+    webUrl: "https://www.technologyrecord.com/Article/shell-uses-microsoft-azure-computing-to-reduce-carbon-footprint-125524"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 37
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10476/img-Unsplash_What-Is-Picture-Perfect_car_petrol-station_refuel_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "AT&T, Microsoft Azure Cloud Scale IoT Device Management"
     excerpt: "AT&T and Microsoft are teaming up on a new ‘guardian device’ that will help customers deploy and manage IoT devices at scale. The new IoT solution will allow customers to connect devices and machines to their own cloud environment without the need to ..."
     publishedDateTime: 2020-09-23T18:03:00Z

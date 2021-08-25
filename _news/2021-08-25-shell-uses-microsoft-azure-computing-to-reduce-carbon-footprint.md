@@ -1,30 +1,26 @@
 ---
 category: news
-title: "CyberArk Now Available on the Microsoft Azure Marketplace"
-excerpt: "CyberArk (NASDAQ: CYBR), the global leader in privileged access management, today announced availability of the CyberArk Privileged Access Security Solution on the Microsoft Azure Marketplace ..."
-publishedDateTime: 2020-09-22T08:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
-webUrl: "https://www.marketwatch.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
+title: "Shell uses Microsoft Azure computing to reduce carbon footprint"
+excerpt: "Global energy provider Shell is using Microsoft Azure-based high-performance computing (HPC) to reduce its carbon footprint and explore alternative fuels. The technology enables the global energy provider to run the massive calculations required for a project of this size,"
+publishedDateTime: 2021-08-25T11:07:00Z
+originalUrl: "https://www.technologyrecord.com/Article/shell-uses-microsoft-azure-computing-to-reduce-carbon-footprint-125524"
+webUrl: "https://www.technologyrecord.com/Article/shell-uses-microsoft-azure-computing-to-reduce-carbon-footprint-125524"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: technologyrecord.com
+  domain: technologyrecord.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10476/img-Unsplash_What-Is-Picture-Perfect_car_petrol-station_refuel_web.jpg"
+    width: 940
+    height: 443
     isCached: true
 
 related:
@@ -314,6 +310,20 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1594375394/itpro/2020/07/shutterstock_nokia%20data%20centre.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "CyberArk Now Available on the Microsoft Azure Marketplace"
+    excerpt: "CyberArk (NASDAQ: CYBR), the global leader in privileged access management, today announced availability of the CyberArk Privileged Access Security Solution on the Microsoft Azure Marketplace ..."
+    publishedDateTime: 2020-09-22T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft at Ignite: Additions to Azure, Teams App and More"
     excerpt: "Microsoft MSFT announced major developments to its Teams app, Azure cloud computing and Office productivity suite at its Ignite conference. Ignite conference 2020 is a three-day virtual event that commenced on Sep 22 and will culminate on Sep 24."
@@ -938,20 +948,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Shell uses Microsoft Azure computing to reduce carbon footprint"
-    excerpt: "Global energy provider Shell is using Microsoft Azure-based high-performance computing (HPC) to reduce its carbon footprint and explore alternative fuels. The technology enables the global energy provider to run the massive calculations required for a project of this size,"
-    publishedDateTime: 2021-08-25T11:07:00Z
-    webUrl: "https://www.technologyrecord.com/Article/shell-uses-microsoft-azure-computing-to-reduce-carbon-footprint-125524"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 37
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10476/img-Unsplash_What-Is-Picture-Perfect_car_petrol-station_refuel_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1276,6 +1272,6 @@ related:
         height: 450
         isCached: true
 
-secured: "BliFeIP64ylc4iQiqz6rt0PLFf6xeLwqMTujF2aYWaz6GUr76yceZMZiD2NZe1P9MLgor73bVZDZq6najR8uLBfuYnDVfvAyzzo8n7ksLQKxWL68Xl0ngNjsFXu6c0FyxLYBO77BLwHgIulr8pOf6C2tCoUcofUEpOHcF9EPiqX9LEAoy+Yf7Vf7/SlVWnEywyHUgq7etJy1Nw8bGQghn4iOv5Qn3fTe9CqlNwHsZl6mPBxoZMTxRI6QWzkR8MofWYvX2pbTiNDZnAXceeA+ejOkaWayDUfmE/DpVv9VsaRIc6AQk31yVsGRrfPuBfsTSoXiSqypT+zGRIS6OVJ6LTw5YD3YqnAiUFtim/iUt48=;08fSTFKNGLszp/K5d8T0Kg=="
+secured: "9npLSRCQFQAVIZmGd71R/uDZmRVLGEsCl85ASiWmZ7Pdd2TgXUe4SgFDhNRcFP74+LyVoV/FUcwNvEVWM+cxhn3RB61VuFxvtUy6BeNJROONW5zClZ7ZOtN9ubhOd4DGXXIK4ZV3XLcL1VOMpc0BmM+Sw7gWX50Zq0ie7O4Lcm9NfRWC8xqZgx4tBINHJZ9smfK5TMShUc2WyQF4e5CLlPWHVzNSN4TG7TN9jvVK4H1OaK3lLRGvViGx2rkOQO/jFDHWCJgUt/OJc2m47C9nw8NKyiHgRhOHhsNgoTeFpRHD7sZBkra5BwOwMJvddpft6LMwxZx3BKsqLrIZl+pHprxGNRIRnPRZCkK5uhMbCYo=;yovaWzZFNQwi3p5cUUcNeQ=="
 ---
 

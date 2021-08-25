@@ -1,24 +1,27 @@
 ---
 category: news
-title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
-excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
-publishedDateTime: 2021-08-13T15:07:00Z
-originalUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+title: "Microsoft Cloud Gaming headed to Xbox Series X|S and Xbox One Consoles"
+excerpt: "Microsoft has revealed that it will be expanding its cloud gaming to its Xbox Series X|S and Xbox One consoles. The Microsoft Cloud Gaming is currently"
+publishedDateTime: 2021-08-25T10:35:00Z
+originalUrl: "https://www.geeky-gadgets.com/microsoft-cloud-gaming-headed-to-xbox-series-xs-and-xbox-one-consoles-25-08-2021/"
+webUrl: "https://www.geeky-gadgets.com/microsoft-cloud-gaming-headed-to-xbox-series-xs-and-xbox-one-consoles-25-08-2021/"
 type: article
-quality: 54
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: Geeky Gadgets
+  domain: geeky-gadgets.com
 
 topics:
   - Azure
-  - AI
+
+images:
+  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/Xbox-Series-S-1.jpg"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -188,6 +191,17 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
+    publishedDateTime: 2021-08-13T15:07:00Z
+    webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
   - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
     excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
     publishedDateTime: 2021-08-17T12:29:00Z
@@ -459,20 +473,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Microsoft Cloud Gaming headed to Xbox Series X|S and Xbox One Consoles"
-    excerpt: "Microsoft has revealed that it will be expanding its cloud gaming to its Xbox Series X|S and Xbox One consoles. The Microsoft Cloud Gaming is currently"
-    publishedDateTime: 2021-08-25T10:35:00Z
-    webUrl: "https://www.geeky-gadgets.com/microsoft-cloud-gaming-headed-to-xbox-series-xs-and-xbox-one-consoles-25-08-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 22
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/Xbox-Series-S-1.jpg"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
     excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
     publishedDateTime: 2021-08-18T15:16:00Z
@@ -601,6 +601,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "fjEHeJv+zURkf3nFDqgCh6IXpzXoeoJNYqEuvhROh2PyGA0ipBDM/lkBLu+pAfZnNOs9S8f3q0bbMP5TlcrT5YKEUi3Lf0mzbt4LSrxxjmVXFMkTaPeg0ZjiEwuIwmFVrfh5vPXLZaQ2/ruOE0VZoP/lFzoF9XTcdVJD/YgiBWs9RWvUkgfN86byCCSU4At6bSK/JfVGNsn16rItnmyQOUdSAIE73uBPQaca+AmYeDg/kVVt985t7873/jdvCemg8fOeonHTi1QlpqV53lk+P492dSK6hTLSVzfzeb06r7eDBico2ME+BqsE2eZZTyhKJX2DhwHdAVubrjWQxXrkBiof5le8jmKb66lOo79E7pk=;cOTX7Ydn9MIMlJfVJYmU7w=="
+secured: "y1rR2dlxKZCu93r7bxo/m6vCM4yIueLJyAnLyV+wHe2c0FYyorCDOG1p4eowfrTUtnx2OqXmY09dAeBFxYWXebIOZX5/+H66qKZUHhE4YhkDsZGRFiAsLYQbCGjlQJCz9FRuuTkh3A/27Am3z5t+bPsSNSu2Dv1+Lwa4BMCouCgZHpc1ZGPqp86CUrTaIPQKQKMD30vMMsXvPRYFCfdhAJdpkqk3PEue9LiOcZFAzKdfXaoOHX/RhlCsWUU8XDRjsaGosxRlUO7SlnBr6T9E8AC0zsUcWKf/pzLJDLjzJG7fI/rUiLt2WL0Hh2i4cOgEysTdSaNBN6qIM8gX8AIPmWXzGplWlZm8URtf8gl70Rw=;ceCI0TeYQ9STurWbU8p+pA=="
 ---
 

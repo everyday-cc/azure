@@ -3,8 +3,8 @@ category: news
 title: "Walgreens uses Microsoft Azure to gain insights from dispensing data"
 excerpt: "US pharmacy chain Walgreens has completed a project with Microsoft and Tata Consultancy Services to build a platform to gain insights from prescription dispensing data, freeing up pharmacists to spend more time helping patients."
 publishedDateTime: 2021-08-24T11:11:00Z
-originalUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
-webUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
+originalUrl: "https://www.technologyrecord.com/Home/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125502"
+webUrl: "https://www.technologyrecord.com/Home/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125502"
 type: article
 quality: 37
 heat: -1
@@ -459,6 +459,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Microsoft Cloud Gaming headed to Xbox Series X|S and Xbox One Consoles"
+    excerpt: "Microsoft has revealed that it will be expanding its cloud gaming to its Xbox Series X|S and Xbox One consoles. The Microsoft Cloud Gaming is currently"
+    publishedDateTime: 2021-08-25T10:35:00Z
+    webUrl: "https://www.geeky-gadgets.com/microsoft-cloud-gaming-headed-to-xbox-series-xs-and-xbox-one-consoles-25-08-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 22
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/Xbox-Series-S-1.jpg"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Azure and HPE complete genomics workload on International Space Station with Spaceborne Computer-2"
     excerpt: "After Microsoft and HPE sent a computer to the International Space Station this February, the two companies have said that they have completed their first set of workloads on the Spaceborne Computer-2."
     publishedDateTime: 2021-08-18T15:16:00Z
@@ -587,6 +601,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "FHi9uExbusec+ChT+FP74VsfDNFD9V3dvC1KqzylQ/gsmv03mrk1uQKMdEI5/lfA990K7a4cRlsraTmkPofaJ/h+l6OzvNn9mRahGB3BlJKP1wYMVNFo7dGP1PZ9qjLNVXlsSu5vXCw/iADPmSrpjuC1OB+jBd374EVTCp1nq4YqamXEEaIkMP9MMYOWRWHO5urcVqqDaNfhjZNEAB3E/L2N+uZscCDDS+n3ddH/hGkdcAzKS5kLbLwQ4woXxbXz+02huWUCS9vKDu1hidapSnRnOVpCRUv0OpZvIiASJXzPS2XlBpyX1qleL/lGuXPPT0kYWpH3xHkp5W2p68/0pzV76iTL326UvSVnhbiUidToWX2h4THU4uzQwWOOY8L/u1VHCtJe25aDscPfZrP/lJ3ltPxhsyvaHOl4Qs5c6Nvn8+auebFA1JflqRDWMmBUYR5GVHj8gdW3X3JH4+szpIiK9OVrT3WfRovOIt194M3BA6RwVwbNGd53DZdiVweB+0h9rCsatOJzQw1cmjK82g==;HOW7Ciu1qNY0XG7t/x3tww=="
+secured: "2yUtnikQ4H4FkrYNi25IpMlqLmMs8962cOOoSq0V627BZoISPEyySh8R7/kxwM/LTKk4PY4nN8zsKMRpm/i3C/CQ+bFzmK36fJqktzNc4g/GiDioYAssU9dpL/yNjrmVHF4118JIJJSIR+duUH+EHuQWfaJOTBqdizqe5qQJN/03CjOFN+IM8E32ZkYifQjByJzkwvV4ZI3AlMNwJPXiIEw180JZcnj0RWjGbnFry+dTmOWs4978KkUHx2pUvC/M2oj8JNmqlJiHLaFmyvG/a2EVPO4hIHr9shwOJgGv6TeZtVjzOeZQFqQGni9YS1GtyTH/wR+qzO4G6xIuDVWdEOM9zNSNKN1OhO8mU5lCaZk=;u/BDsKtNvDomvO+t/52ZDg=="
 ---
 
