@@ -1,18 +1,22 @@
 ---
 category: news
 title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-excerpt: "CNW/ - WatServ announced today that it has earned the \"Microsoft Windows Server and SQL Server Migration to Microsoft Azure\" advanced specialization, demonstrating the company's extensive experience and knowledge in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure."
-publishedDateTime: 2021-08-24T12:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-watserv-earns-advanced-specialization-microsoft-windows-server-sql-/2021/08/24/9435988.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-watserv-earns-advanced-specialization-microsoft-windows-server-sql-/2021/08/24/9435988.htm"
+excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+publishedDateTime: 2021-08-24T12:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -384,20 +388,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
-    excerpt: "Rookout Live debugging is now available across the Azure ecosystem, to both enterprises and early-stage entrepreneurs through the Azure marketplace. SAN FRANCISCO, Aug. 23, 2021 ("
-    publishedDateTime: 2021-08-23T12:07:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Telia Company to become Microsoft Azure Networking MSP partner"
     excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
     publishedDateTime: 2021-08-23T14:14:00Z
@@ -515,6 +505,15 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 17
+  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
+    excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
+    publishedDateTime: 2021-08-23T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
     publishedDateTime: 2021-08-17T12:00:00Z
@@ -602,6 +601,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "WzFx+zY4gTDaG7wSWNPtkY2tivtTRTMZ9iHrKOTcqC8ZggJKzMiB9ZH42m7o1qQhym2Fav85opdhH9xSqmkTBp2ypEnDAlSeag1hdyHJefWPEkwiDoKuOUSRMlWfQwNsIHvY94dEx0fLFmeiAll5GFXfxUxY/8Azog6h0jAncqXYU/AXeqBnq1kIYfwRwELOCN6TSMANVaL+Y/VDUiefZbBwyH3s7H25HePiRTmJ0/nCeT76H8i+RRnLWywVfIJ4dFQtP0MkbqULlJ37IgDDj78ffmri0JpO3++zMyvheEAI0Iew+HgSCNpiINPSCmo0ZVpQyOVvESE5O5SPoPQBmD9JntUg3lDKtyiFN5eGMug=;TCWiyo2IlMpnGkeTTiIHQw=="
+secured: "tXUJaZQkN3nUPl+w3apJEzS1LHF9rj2Eu8mSpiK648mtLeBMgPuOWsxAwnfpPNcsSkad8Eg46cNkgHbymQcDsvtGykyZxCZ+Xd55nzGPX9M6YTqEa7ZrpfOZeTkHn/PMxo4OJh6PXlaK2R931MAYRBuVHflziQuhwXMCP7k4inBs4hkj6bz0D2jg/KPZ4eHheyHlVDJfySRvDs35Ibx7qC1aPsOr9YEMCkGpDqO6MZidZf0vg2O5odRvAwXDKunpJzYGU2NgatKg847RKDkzahx9LCU1B5gV4dDcVRzoar1M/JZWbvt4GE/lKt4jtLNBeGP7I+xYEcNxCUK0syNy1rwwo/mxGR/veXzVii5WmMo=;eXcTT7QFraZajEAxcraSww=="
 ---
 

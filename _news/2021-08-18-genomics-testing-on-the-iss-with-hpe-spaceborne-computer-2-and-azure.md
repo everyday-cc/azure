@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/genomics-testing-on-the-iss-with-
 webUrl: "https://azure.microsoft.com/blog/genomics-testing-on-the-iss-with-hpe-spaceborne-computer2-and-azure/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

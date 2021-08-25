@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
-excerpt: "Rookout Live debugging is now available across the Azure ecosystem, to both enterprises and early-stage entrepreneurs through the Azure marketplace. SAN FRANCISCO, Aug. 23, 2021 ("
-publishedDateTime: 2021-08-23T12:07:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
+excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
+publishedDateTime: 2021-08-23T12:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -39,6 +33,20 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629303595/itpro/SES_Banner_With_Lines_4k_High.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+    publishedDateTime: 2021-08-24T12:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
@@ -392,20 +400,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-    excerpt: "CNW/ - WatServ announced today that it has earned the \"Microsoft Windows Server and SQL Server Migration to Microsoft Azure\" advanced specialization, demonstrating the company's extensive experience and knowledge in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure."
-    publishedDateTime: 2021-08-24T12:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-watserv-earns-advanced-specialization-microsoft-windows-server-sql-/2021/08/24/9435988.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -601,6 +595,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "HPtU1WI+lJ4Axe9yOOfhWfV6SEcKRB+zmDCnMgTSdyOtUQSUf/okG0sLQNbVwASrHKQFpoeYyHPWtEIpyKo+Bnldye5Yb+Zkb9sOOgYj9ie2F4IXzHIXvfvOaCMxWhYQrLoDstQgRv6rw4I4exP2gmHVuXb3x2C0tITEs+Ha7MQoxtYb7ix3S1YuYtW0D8rdf4fPueAzBc7iIJapLwEqeEh+yKHiMmMrxGbDm4xTWM+Lb97G4YRWZ3rQbVIL9OuP+KQFeEbHm191Vx2qqTKt7QQLVdtB70OAq8RaZGtQrPrxLffERIPVzfbwVStW5wje1ZMaIIBUQkPUh5SwenD00ShFNdFL0QSCeur2Uk9OpRw=;i/S1pDM9h3DKv5bsoP0pkQ=="
+secured: "3/9PpkeCssSnl9fqtluLc22rRlr8HHbZnOegeybRnt5S3+gQGPB8s6tInsbu4pOPw9koxaUbY7EHZgHayj11uDF8ViEn8K87EuBpxtBG9hVIUIHLTMb91GObcAgdb6RPFFsWr3nvE2zXMvY6opTOaWQ40YdCte83y3qGZgVw4MHndp61Dr21TTn1yo5J+6t582Nhb7aaQX8czoCquLM6Bv97sW1X+vT57aYdJvAe6L/zl7IyFqjNOxzh9UGmZjFklnIa/h5IrPjh698YaJUzic8dnPv2zCR6rCeHI6oeDZHv15FTKxkemV4DOVijWDSIqYthcotZz9J8VVTlg6gmGXHJl8BI+bpVlPqiQyFXcbY=;fmaeJyX4d2j1Hrp6DhZEZg=="
 ---
 
