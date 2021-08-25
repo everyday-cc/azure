@@ -4,6 +4,48 @@
   "page": 42,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-code-workflow.md",
+      "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
+      "excerpt": "Learn along with the Space Game web team the benefits of collaboration through Visual Studio Code and GitHub.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-code-workflow/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
+      "length": "PT1H27M",
+      "ratings": {
+        "count": 4182,
+        "average": 4.7659016
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-compliance-controls-for-sensitive-data.md",
       "title": "Implement compliance controls for sensitive data",
       "excerpt": "Explore data classification capabilities and degrees of confidentiality. Explore and configure advanced threat protection options, including SQL Injection.",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-compliance-controls-sensitive-data/",
       "length": "PT20M",
       "ratings": {
-        "count": 1003,
-        "average": 4.808574
+        "count": 1004,
+        "average": 4.808765
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -142,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-backup-recovery-windows-server-iaas/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 44,
-        "average": 4.659091
+        "count": 45,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -186,8 +228,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-file-server-infrastructure/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 40,
-        "average": 4.675
+        "count": 41,
+        "average": 4.6829267
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1258,49 +1300,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
-      "title": "Security incident management in Azure Sentinel",
-      "excerpt": "Security incident management in Azure Sentinel",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
-      "length": "PT1H5M",
-      "ratings": {
-        "count": 142,
-        "average": 4.7887325
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

@@ -4,6 +4,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-analyze-climate-data-with-azure-notebooks.md",
+      "title": "Analyze climate data with Azure Notebooks",
+      "excerpt": "Create an Azure Notebook and use three popular Python libraries to analyze climate data collected by NASA, then share it.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analyze-climate-data-with-azure-notebooks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-climate-data-with-azure-notebooks/",
+      "length": "45 mins",
+      "ratings": {
+        "count": 1912,
+        "average": 4.714958
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/analyze-climate-data-with-azure-notebooks-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Analyze climate data with Azure Notebooks",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-analyze-images.md",
       "title": "Analyze images",
       "excerpt": "Analyze images",
@@ -97,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 370,
-        "average": 4.6675677
+        "count": 371,
+        "average": 4.6684637
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1226,49 +1269,6 @@
         "Azure",
         "Management Tools",
         "Storage",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-virtual-machine-extensions.md",
-      "title": "Configure virtual machine extensions",
-      "excerpt": "You will learn how to use virtual machine extensions to automate virtual machine deployments.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-virtual-machine-extensions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machine-extensions/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 40,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Compute"
       ]
     }
