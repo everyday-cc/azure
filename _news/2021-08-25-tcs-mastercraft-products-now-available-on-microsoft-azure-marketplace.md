@@ -1,26 +1,28 @@
 ---
 category: news
-title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
-publishedDateTime: 2021-08-18T06:51:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
-webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+title: "TCS MasterCraft Products now available on Microsoft Azure Marketplace"
+excerpt: "TCS’ suite of intelligent automation products will help enterprises speed-up their application modernization and accelerate their movement to the cloud."
+publishedDateTime: 2021-08-25T03:38:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg"
+    width: 350
+    height: 233
     isCached: true
 
 related:
@@ -165,22 +167,6 @@ related:
       - url: "https://www.hellenicshippingnews.com/wp-content/uploads/2021/08/c0df7c52-7418-1c7b-d6ca-65d3bc75528a.jpg"
         width: 700
         height: 300
-        isCached: true
-  - title: "TCS MasterCraft Products now available on Microsoft Azure Marketplace"
-    excerpt: "TCS’ suite of intelligent automation products will help enterprises speed-up their application modernization and accelerate their movement to the cloud."
-    publishedDateTime: 2021-08-25T03:38:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 57
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg"
-        width: 350
-        height: 233
         isCached: true
   - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
     excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
@@ -348,6 +334,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/554597a1e4eae85d3c93ce1ca6d40d2f.jpg?t=20210818_004732"
         width: 752
         height: 408
+        isCached: true
+  - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
+    excerpt: "SES today announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER. Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services."
+    publishedDateTime: 2021-08-18T06:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-92a0bc898c084974b1258187b8c50b58"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Space Broadband Wars Heat Up: SES Connects Azure Cloud, Cruise Ships"
     excerpt: "O3b mPOWER network as a “goldilocks” broadband satellite solution, offering advantages over geosynchronous Earth orbit (GEO) and low Earth orbit (LEO) constellations from SpaceX, OneWeb, and Telesat."
@@ -592,6 +592,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "ZngN1JSeHsPQ6aqIJxz4/inXVCyJ9cD7l8EL2kBChfyMzD7KXCy9dAhI63ox+q7wM0bX3n+Dd76oEdaWEW17GaIFTUjgEn94gaRQoDYk+0qmc8Nf7eJxMwsffbSVRfkqS0SiPAuPgiKM6SC5Z8sNKSe1nOo44HVQGEQljr8jtlpEM68UYrTS9ofi3B3UYOao5i4jqFJXOnp5UF5QVvU81YPIL1zAxpEVyLzcLeL8TjgtWsHEDDwUbwiRzWex4RLNmPgCl0hoclYb+NC9j8fyDHvVF/M7jtGEpPQUDR1/NB1nVm8TZWy3pAhE7PVAba5vIb9N45CGnf3cEnHSE+ska5bYS3gbZo3Xog6bACt6uyU=;u/OPMKVs0EYmC57pt1svHg=="
+secured: "hzBbl4Vy05eR9uQ9efMZ3xVPn7XGl1eh9CP9xdiJyE3eLK1V25yWoHk6tueO32TPGUmeTU+Uzx4yYa5OdQ62hDlecNIcZvLajMeFjzFM3HmbYZ24HJ9CvfRy3UEMh/GmVDTBFYOa24H7om3DpiowsYqMXUjfGTbeAabQDUiw1ILnMfQRweL0LGybq4R0z41IadIwWpymC8ghVF1AvogikYP5gXQxWyT7s4ZUQqu0VvUa/hOT8wPxNlnFBaxgdMgaPmLy7xylXiDTs+y2xnYn8/eCyQa2u7agWBSBqFwQ6VxHWPwS1IHMahCOdZzYNkaFS/4wJAY/l8OcjbZdnqNi9+NS8WsqPHVRo+EfyPj0uWc=;GiHOxlqwO35GJKSkjh7nBg=="
 ---
 

@@ -167,6 +167,22 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "TCS MasterCraft Products now available on Microsoft Azure Marketplace"
+    excerpt: "TCS’ suite of intelligent automation products will help enterprises speed-up their application modernization and accelerate their movement to the cloud."
+    publishedDateTime: 2021-08-25T03:38:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 57
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
     excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
     publishedDateTime: 2021-08-13T15:07:00Z
