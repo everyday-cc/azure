@@ -3,8 +3,8 @@ category: news
 title: "Walgreens uses Microsoft Azure to gain insights from dispensing data"
 excerpt: "US pharmacy chain Walgreens has completed a project with Microsoft and Tata Consultancy Services to build a platform to gain insights from prescription dispensing data, freeing up pharmacists to spend more time helping patients."
 publishedDateTime: 2021-08-24T11:11:00Z
-originalUrl: "https://www.technologyrecord.com/Home/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125502"
-webUrl: "https://www.technologyrecord.com/Home/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125502"
+originalUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
+webUrl: "https://www.technologyrecord.com/Article/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125501"
 type: article
 quality: 37
 heat: -1
@@ -601,6 +601,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "GUJbNUifbxd2BZeNneFO1REEduOUGRKgSXvSdUe6OT3a4iDQGlqeAdHFTztyTv7AuXoEc9kuw18tIh6iRSOnxwYtiomWXr8yiPcGhP237gxsERKx5k9+43dO7g1qsTOxDVgc5i8t4/OkQ41RelEH57U3GjL4u9kkolxdEiv5di/kVAsZOphhkrMKV9jAUOzdLzMwnKSykyIYWaan3VdYlsmITHZG0CiHJUfz81JeAV0q5dS/UHfyOmyicq5d7CKtU51Awph3jI7Sb2n4eG/owPw6AxwY1ZRy5CphfGsifxG8F6N0mdMxl3a2C1+cPCjaHuqcg72yTS6wlTtZ8l1A4MUBb2UJizYtljqlxV82zOlyrYT647XEfB5kFOaCVLuHNe7GxrUvJXWKz69dNDSXEg2bgdEn5Gpwi11/56SCBq1I2xuE2oKzUBW1bgQfdkDHlMVp8zM7sT///AOu73SDzsrHXW5oDWyLEDWCWubIL4xN1Tnr8X+HH0z5vpqXVj2GgzkGyebH3SW+0PvEXYvHIQ==;wGHuKy14oXmb9KHnoBajJQ=="
+secured: "q0nvzCwyffGGL9CTWL2DZlT1RIW3Uu5zXk5choUKVQzNyeXqcxV3gz+u2tRmnU0PzTIDU63h3pPWq6YYoCo04RDT+IP5/shvbZOqN2agEVWa5okJH5Fn+4DQgM+Tu4e572+Zfllt9mLkS3Q6R2jtPzOmrMz0iM2AXyMTbOMBJg8r5FSyMfb7PoeZXRhJw6o5BW8yqVHLX+/zFUMNKDK+Vg0YR58x84r77aOF83/0381xtE4lZR8LD2Ooe+kT2lQn4YX+PCHR03jFFdLLPYc5KU97s5/21EJsfsOnPnJsutAw47Q/TeDRK1gd8zWxkOmg3Z+AYscrdSqKBPsavQe5nHLr4+s43t6yQD3ihDhE1fU=;N1s3RGxI/OFY+TU/WcVHDA=="
 ---
 
