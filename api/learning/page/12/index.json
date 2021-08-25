@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 2771,
-        "average": 4.7297006
+        "count": 2773,
+        "average": 4.7298956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
       "length": "PT29M",
       "ratings": {
-        "count": 882,
-        "average": 4.7959185
+        "count": 883,
+        "average": 4.7961493
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -199,8 +199,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 5579,
-        "average": 4.7433233
+        "count": 5580,
+        "average": 4.743369
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -694,8 +694,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2927,
-            "average": 4.742057
+            "count": 2928,
+            "average": 4.7421446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -799,8 +799,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 3860,
-        "average": 4.7556996
+        "count": 3863,
+        "average": 4.7558894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -842,8 +842,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 2266,
-        "average": 4.2643423
+        "count": 2267,
+        "average": 4.264667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -923,8 +923,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-subscriptions/",
       "length": "PT30M",
       "ratings": {
-        "count": 93,
-        "average": 4.763441
+        "count": 94,
+        "average": 4.7659574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1010,8 +1010,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 4482,
-        "average": 4.8032126
+        "count": 4483,
+        "average": 4.8032565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1053,8 +1053,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/",
       "length": "PT56M",
       "ratings": {
-        "count": 315,
-        "average": 4.7968254
+        "count": 316,
+        "average": 4.797468
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1139,8 +1139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 3570,
-        "average": 4.7411766
+        "count": 3571,
+        "average": 4.741249
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1210,8 +1210,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 13110,
-        "average": 4.767658
+        "count": 13112,
+        "average": 4.7676935
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1238,15 +1238,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
-      "title": "Fundamentals of network security",
-      "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-network-fundamentals-2/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
-      "length": "PT36M",
+      "path": "_learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory.md",
+      "title": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
+      "length": "PT43M",
       "ratings": {
-        "count": 4948,
-        "average": 4.7405014
+        "count": 442,
+        "average": 4.59276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1264,12 +1264,20 @@
         "Beginner"
       ],
       "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/petabyte-scale-ingestion-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Security"
+        "Analytics"
       ]
     }
   ],
