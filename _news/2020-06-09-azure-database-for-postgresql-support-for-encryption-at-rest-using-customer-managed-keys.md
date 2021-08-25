@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 88
+  - title: "Community support for Azure Database PostgreSQL version 10 ends on 10 November 2022"
+    excerpt: "Upgrade your Azure Database for PostgreSQL from version 10 to 11."
+    publishedDateTime: 2021-08-25T16:16:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/action-required-upgrade-your-azure-database-for-postgresql-from-version-10-to-11/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
   - title: "Community support for Python 3.6 is ending on 23 December 2021 "
     excerpt: "App Service support for Python 3.6 is ending on 23 December 2021. "
     publishedDateTime: 2021-02-22T19:00:02Z

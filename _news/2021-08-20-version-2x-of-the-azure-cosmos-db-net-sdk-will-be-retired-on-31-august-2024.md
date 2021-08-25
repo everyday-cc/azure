@@ -33,6 +33,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 100
+  - title: "Retiring version Async 2.x of the Azure Cosmos DB Java SDK on 31 August 2024"
+    excerpt: "Update to Java Async 2.x to Java SDK 4.x by 31 August 2024."
+    publishedDateTime: 2021-08-25T16:21:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-update-java-async-2x-to-java-sdk-4x-by-31-august-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
   - title: "Log Analytics Agent for Windows August 2020 release is now available"
     excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
     publishedDateTime: 2020-09-02T16:00:03Z

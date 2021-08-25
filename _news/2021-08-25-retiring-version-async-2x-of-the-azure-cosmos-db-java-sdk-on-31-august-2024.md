@@ -1,14 +1,14 @@
 ---
 category: news
-title: "We're retiring the Log Analytics agent in Azure Monitor on 31 August 2024"
-excerpt: "Start using the Azure Monitor agent instead of the Log Analytics agent before 31 August 2024. "
-publishedDateTime: 2021-08-19T15:40:32Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024/"
-webUrl: "https://azure.microsoft.com/en-us/updates/were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024/"
+title: "Retiring version Async 2.x of the Azure Cosmos DB Java SDK on 31 August 2024"
+excerpt: "Update to Java Async 2.x to Java SDK 4.x by 31 August 2024."
+publishedDateTime: 2021-08-25T16:21:50Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-update-java-async-2x-to-java-sdk-4x-by-31-august-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-update-java-async-2x-to-java-sdk-4x-by-31-august-2024/"
 type: article
-quality: 100
-heat: 184
-published: true
+quality: 98
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,19 +20,19 @@ provider:
 
 topics:
   - Azure
-  - Analytics
-  - DevOps
+  - Databases
+  - Developer tools
 
 related:
-  - title: "Retiring version Async 2.x of the Azure Cosmos DB Java SDK on 31 August 2024"
-    excerpt: "Update to Java Async 2.x to Java SDK 4.x by 31 August 2024."
-    publishedDateTime: 2021-08-25T16:21:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-update-java-async-2x-to-java-sdk-4x-by-31-august-2024/"
+  - title: "We're retiring the Log Analytics agent in Azure Monitor on 31 August 2024"
+    excerpt: "Start using the Azure Monitor agent instead of the Log Analytics agent before 31 August 2024. "
+    publishedDateTime: 2021-08-19T15:40:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 98
+    quality: 100
   - title: "Version 2.x of the Azure Cosmos DB .NET SDK will be retired on 31 August 2024 "
     excerpt: "Update your Azure Cosmos DB .NET SDK to version 3 by 31 August 2024. "
     publishedDateTime: 2021-08-20T16:49:08Z
@@ -66,6 +66,6 @@ related:
         height: 371
         isCached: true
 
-secured: "PqC7HFw3L8L0kqXx4rHvyfpCa+AsH+dvAOhWWUP3BCUTm+F2lYztRLV86UWc6erRN+MJpbJxSAccYrS94dR7/wr8oCCSv1bI58PE7vRRV5X8F2KELjC2jDfryqJHJwtH7B/zlz1o5P2/FyaQduUj9XHFfUYRDBOo3mLiqlTelO1mHyX0BRI6ZnCwPpcSKswTH5sk+aPclO0nICRHV/Se2wRT05zeTPs5j7KI+zCG/CobWRNG6mhHvX9tABgA15beiNzGXD/sChEqbKgjNX5wVMZ3HNsoH3skI6FpQyerk/vyargxyG9TTxhyjDDbHvXGFG2hOQQNR0xdKfBlisgBbSJi3RoSnPvzIu6Y83HIbts=;DEH4N4Deo+qazjVb0CsXxQ=="
+secured: "HWmGdnOv2UC5f7UZiS7bJ3yorpCGWPMTEuzfggEf78XnWLX/gbs4U3HPFwQ4kFZp2u9m/xqJ2aT8vRKMvvKbOGu8Qt+C93BMqqR0vlGUs/Z3QDQzeo9H+cWEt6A94G3gsmlTmNxwcxD5oVXyc6P1sSALkoRNya5htYF1dqTZES8XWdK+/eT8TQhcrkIP6rhgGDK2PXRxfjWt9varOeCLrJaL0NQJOx34CBN2PogESpeL4aZ4Yfug4g2qWc3r5qrXM/E87GPl8sXr9u3/FL2ACIf9BKv4yNaPNI3D6xbuDQKFWQieL0IPZGWv1OeM3AkUM2dgqgXJBryQFJwKgAR1aF+aN6HzX2w4iABin6Quxds=;oj+t8RiJKq/9f5qmGkc9GA=="
 ---
 

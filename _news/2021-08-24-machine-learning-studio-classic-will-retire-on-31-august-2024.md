@@ -113,6 +113,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Multi-step web tests will be retired on 31 August 2024"
+    excerpt: "Transition to custom availability tests in Application Insights by 31 August 2024."
+    publishedDateTime: 2021-08-25T16:20:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-transition-to-custom-availability-tests-in-application-insights/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "FZlPO9tpyOqwYz02mCJ/wXUwnvkAWn5s2cG4t4tIxH7J71iVyacJ3ZQe+0MTe7fZ/4QPw3DdOwLC8KK4cAtAt84PrzW3aJ2EyPz30ybu3nMBwoCeSVCPPeQh8WAlC0Y+kFDIvbQJEP/lP9JZlgmYnvTCC4E96mVxSHit/08K9OX4TOw2jxCop13Oz9cZLzEpklKl5PQXj+nsvl+E4wHBeSLJCeop6FKxM/nUWOM87ZInR6Mc7QbLN0o1xbbHPePpU1V4NY6YuHN3jv3oiIOHGujQ2+Puc9fYzQPVxSckWWziV/42BE/2xP721NvxPgNwr89aydiCUpT3baVo5OHXUonwqE+4yc8+xE6c8HMbzNw=;SVY1poEBHWlt9Fcmr7vYMA=="
 ---

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Azure Database for PostgreSQL ending support for PostgreSQL version 9.6 on 11 November 2021 "
-excerpt: "Community support for Azure Database PostgreSQL version 9.6 ends on 11 November 2021  "
-publishedDateTime: 2021-02-22T19:00:01Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-ending-support-for-postgresql-version-96-on-11-november-2021/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-ending-support-for-postgresql-version-96-on-11-november-2021/"
+title: "Community support for Azure Database PostgreSQL version 10 ends on 10 November 2022"
+excerpt: "Upgrade your Azure Database for PostgreSQL from version 10 to 11."
+publishedDateTime: 2021-08-25T16:16:25Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/action-required-upgrade-your-azure-database-for-postgresql-from-version-10-to-11/"
+webUrl: "https://azure.microsoft.com/en-us/updates/action-required-upgrade-your-azure-database-for-postgresql-from-version-10-to-11/"
 type: article
-quality: 88
-heat: 168
-published: true
+quality: 78
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -23,15 +23,15 @@ topics:
   - Databases
 
 related:
-  - title: "Community support for Azure Database PostgreSQL version 10 ends on 10 November 2022"
-    excerpt: "Upgrade your Azure Database for PostgreSQL from version 10 to 11."
-    publishedDateTime: 2021-08-25T16:16:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/action-required-upgrade-your-azure-database-for-postgresql-from-version-10-to-11/"
+  - title: "Azure Database for PostgreSQL ending support for PostgreSQL version 9.6 on 11 November 2021 "
+    excerpt: "Community support for Azure Database PostgreSQL version 9.6 ends on 11 November 2021  "
+    publishedDateTime: 2021-02-22T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-ending-support-for-postgresql-version-96-on-11-november-2021/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 78
+    quality: 88
   - title: "Community support for Python 3.6 is ending on 23 December 2021 "
     excerpt: "App Service support for Python 3.6 is ending on 23 December 2021. "
     publishedDateTime: 2021-02-22T19:00:02Z
@@ -60,6 +60,6 @@ related:
       domain: microsoft.com
     quality: 8
 
-secured: "5VYtjvvAMCci0Oj5tCZnfR3FwzQSBGBjQtPAN7DW+LB+lRtAqo7ncd90COLk95SzmMz3mO67FsOv6CcLN6CmUQ6k47sIvwwP1PhkakS+BETr4DGForub7l1EKTbJesV0jtyQK71kycCuDvU4SwyADksphJ4Ty/7vGi5quP8aYixiBo83ka6t1JjZXEgHp47kBiv0Eq7Lf0Uf3b7Ck6hqBVgZm4wJBf/pbEz12X7NpU/AH9DbfU6h3KWpnBBGWCnO8ma6pyCxrUq7v5YOSy7KIh55ocpnzPVMU1wImfgJzNtcWF+MI9Zm/9APEKSa0XM0iYh7PuRSArl+UhndpbVRb7H6pSahpFurx9iVdpPVnwo=;XOBxcDh61n/5D670+RFrow=="
+secured: "wxa7A0p5e3PakxR1Qa6GHmhYRx6ohXJDDNLU041AQF5u3GA64ki3iErp/RwFd9K1KnL7l/+nxaxvEDpwONa9WlOXLwyizPjKcve5Ep6xN4JCMHmc7yotgg1yBVgXWFYYijrwfqVc/aqH/cqWljt9FJiWq9Nuc7f/02uIh7Aq8IBaT8Lq7ICNLbsr6wxPad42eI2G2XgcwzvbMK77nVzEJyo6DmfvFkOdLUvKUgTWtEeaSp56H+73DxgVMXwiXBfk13FucAAjIoSCG5hc9DNengUYr6vv720LLa9zoeGQVdhBpONJ9rpzDoEDLiqToYHWcypSPHvo9L2quMP9zpOZw17zMATQ+lTlLcTqACwVha8=;/cht52hr7zCmf2a6Ief6sw=="
 ---
 

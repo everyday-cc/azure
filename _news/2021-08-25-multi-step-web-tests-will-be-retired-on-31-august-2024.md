@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Select Azure Cognitive Search skills will be retired on 31 August 2024"
-excerpt: "Upgrade your skills to version 3 of Azure Cognitive Search sentiment analysis and entity recognition skills."
-publishedDateTime: 2021-08-17T17:15:42Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-select-azure-cognitive-search-skills-will-be-retired-on-31-august-2024/"
-webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-select-azure-cognitive-search-skills-will-be-retired-on-31-august-2024/"
+title: "Multi-step web tests will be retired on 31 August 2024"
+excerpt: "Transition to custom availability tests in Application Insights by 31 August 2024."
+publishedDateTime: 2021-08-25T16:20:07Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-transition-to-custom-availability-tests-in-application-insights/"
+webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-transition-to-custom-availability-tests-in-application-insights/"
 type: article
-quality: 84
-heat: 304
-published: true
+quality: 52
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,9 +20,17 @@ provider:
 
 topics:
   - Azure
-  - AI
 
 related:
+  - title: "Select Azure Cognitive Search skills will be retired on 31 August 2024"
+    excerpt: "Upgrade your skills to version 3 of Azure Cognitive Search sentiment analysis and entity recognition skills."
+    publishedDateTime: 2021-08-17T17:15:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-select-azure-cognitive-search-skills-will-be-retired-on-31-august-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Machine Learning Studio (classic) will retire on 31 August 2024 "
     excerpt: "Machine Learning Studio (classic) will be retired by 31 August 2024 – transition to Azure Machine Learning."
     publishedDateTime: 2021-08-24T15:50:33Z
@@ -113,16 +121,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Multi-step web tests will be retired on 31 August 2024"
-    excerpt: "Transition to custom availability tests in Application Insights by 31 August 2024."
-    publishedDateTime: 2021-08-25T16:20:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/retirement-notice-transition-to-custom-availability-tests-in-application-insights/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
-secured: "1hEy9UXapBoMT6PtOHzXUHaSmHkOPtcnUbbvzDgYdTjSKxkHQNFeLuxQp1oOjTPUCbsIotTdEzvF/9B8wpRGZ7i/yqaDtSiny54Hzx+UNtZCuL8aFRFLexTkix3whmv7diGOtNiq4Rl3KDY/6cMD/QRSIDgRvFj/JRDRc4Wj3iPObRQnUwj9jHPTetMGKQT6hYaQV8bM3qmMalCw9SohfnQHctRAKsSLhq9OvJvq10noQHbC3MkKaxRpHWZMdxZp5pIR5KuunVlHRXnocgy037GQygnQFQe/3OC87m8i1g1cn4ld+KreJ+ZHb9ERNY3Q/QQlhmPhVwGCTWrIFYx4PHwKzGo7l/NeEEUyVhzw1kg=;FbOj0ArXYW9pjlTBZZbFjw=="
+secured: "4KFre9up5g1tZwPgRJcN4RwRZA4oczayPl0utNZ87ykczx5b7W/5II01WOQgjXszyF3B//SEUHLPV7jydBG3wi2a5/K1oT2onh1vFLfu9dqq4axjuEV422I55hoBphPlp0ansL0sJtgv0fxIiTXBU3K3MKvQ49NHMfe5ePN0fme8QI9E4ZBQdT1UwPgTTz74jzV+/pQi/VFSLaXiNO1syehNkC6xC2VIO1W/xtRaJmYbMBSDFcaK25jxGHGQqsoj+KuckPMM3cCJjiiqIxNMMtV1EzLylYWTxV+sJ0N9yPbeMu63/w0lax9JdpH8F3rxsadPh8jLyrzq5D21gELuc6oCmEXp8bdeGkUfq9ynQsM=;PUFPAnPehQCAFHDiDAbMbg=="
 ---
 
