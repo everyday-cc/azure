@@ -393,8 +393,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-existing-ssis-packages-azure-data-factory/",
       "length": "PT24M",
       "ratings": {
-        "count": 221,
-        "average": 4.547511
+        "count": 222,
+        "average": 4.5315313
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -539,49 +539,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-data-storage-processing-azure.md",
-      "title": "Explore data storage and processing in Azure",
-      "excerpt": "Explore data storage and processing in Azure",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-explore-data-storage-processing-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 2190,
-        "average": 4.735616
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-data-storage-processing-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     },
     {
@@ -1230,8 +1187,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
       "length": "PT38M",
       "ratings": {
-        "count": 216,
-        "average": 4.8055553
+        "count": 217,
+        "average": 4.806452
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1264,6 +1221,48 @@
         "Azure",
         "Identity",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-improve-reliability-failure.md",
+      "title": "Improve your reliability with modern operations practices: Learning from failure",
+      "excerpt": "Learn about post-incident reviews, a practice necessary to help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-improve-reliability-failure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-failure/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 382,
+        "average": 4.7146597
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-failure-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

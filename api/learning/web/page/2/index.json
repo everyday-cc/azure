@@ -4,50 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
-      "title": "Protect your APIs on Azure API Management",
-      "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 1159,
-        "average": 4.7437444
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
       "title": "Publish and manage your APIs with Azure API Management",
       "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
@@ -418,7 +374,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-an-azure-cognitive-search-solution-social.png",
@@ -1280,6 +1236,51 @@
         "Azure",
         "Containers",
         "Compute",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-azure-cognitive-search-solution.md",
+      "title": "Create an Azure Cognitive Search solution",
+      "excerpt": "Unlock the hidden insights in your data with Azure Cognitive Search.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-azure-cognitive-search-solution/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 124,
+        "average": 4.766129
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-an-azure-cognitive-search-solution-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "AI",
         "Web"
       ]
     },
