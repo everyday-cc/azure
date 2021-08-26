@@ -523,14 +523,14 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
-    excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-    publishedDateTime: 2021-08-17T12:00:00Z
-    webUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
+  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
+    excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
+    publishedDateTime: 2021-08-17T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 15
   - title: "TCS MasterCraft™ Products are Now Available on the Microsoft Azure Marketplace"
     excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, announced that TCS MasterCraft™, a suite of intelligent automat"
@@ -610,6 +610,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "JDOjijVeVPZhVZ1Y+VSoYltvzKSj8+8npsPeszf15BXWN72MQfSWame1F6D/HSsKUZINvxAi/W81ElHCMonYl12LSs3WH18AbRHGfBsGq2ebseeTWsMrYJdOaPsIctQ5R/jqhi7+18Csmz3IPiDM2/wM5H0S0hVB/BSQt8KqEAAh7UqETF6mkfgU8ItIoNqpPOLQCv33/9O4bEkWjpGDKWnRx+0cU61+bHu8I8T3AQZ4xip7ryOOMcR0r73lqRw/hyCPItu3dD2GYb9QlnXmkT/ZRUOMVqDNpURzDP2TDFTUkcHnn73IYtZD4VRsbdYIHYml/4hIsBv0fJjQ5cQLh185ABUbODZbb6XGkced+ms=;flXLI3bmKv8YdSsZXS/2UQ=="
+secured: "kwLpioT5TMQJR0RsOc2Zs1u4VD5Uno4+1KFK9BYRAfzhDoq2JBqWkeuBR/fTT+0+HDozQj1gNJnTGMUBZZxzArvWO8l4lE3+F+muTfP5qMT6Y/DaLbuJkTAdgnxFnOoapDtBeMJRiNdsrA9Qvvm7uFJzdf5dQrsQxmTHBG5K65DYn4p/vXZYCUz/urxnUoQZ6EAl0s5IUVnSUTVCfNvxU78HNVywQPz8WLz0xul/pBdRe+QH6KbWaTZRrshJLTL/bZvhVKwagSUkukBJ2qcUSC6QnIG0o7jPoH4gpta0gD5A01naa8KdIjQc1ZW2drWZ2m5ui2qsUrLyHTz2s8Cn/7NlsX9QOqmKJHJfSUf7Zj0AVgiiGa2m+3rpqQAvhsQ9O9k5Zcq1ceXkb78gPm4bZpN0G3Mi2gJ/tiLsRPFjUFKAXX3RIAMcztPMSBu9u3bgctiopOxdX6TThV4if7RsgKhyIv6ORxqKmF9nJ3TUb/Vcz2w56hsjy+uWanTAQbLILx0WmGPsBqi+1G90R23EnQ==;3RMtPOtkI0a0B9X9xmx7gg=="
 ---
 

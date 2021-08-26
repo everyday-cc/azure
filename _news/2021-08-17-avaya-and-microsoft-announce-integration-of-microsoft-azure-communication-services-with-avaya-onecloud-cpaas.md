@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
-excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
-publishedDateTime: 2021-08-17T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
-webUrl: "https://www.financialbuzz.com/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas/"
+title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud™ CPaaS"
+excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya's ( News - Alert) award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
+publishedDateTime: 2021-08-17T12:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-avaya-microsoft-announce-integration-microsoft-azure-communication-services-/2021/08/17/9431959.htm"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -610,6 +610,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "F6ZLwrOlqofEMNDsxn7xgtM9ZukIy1Z6CRJY5yXTt49fcDuLqf9ZwVqv63bflI1Onjl44pQDKBB/SjV8WIXZTcombX8dW0fEoRvvL608zoSfxb4B9SUF/bo7ZAm/dFTD2F/+KsW0ypcaD/OWU6xOvH6J5dFfBJMWGpOSRzlyn4yR7TfoWJ7S6BZW2xADxJBJimOv1wu2AiUXAWtNNNQSRrFdP58vgzVNMxy/b4QYSm8ey4341hSp56qUu2/jc4NW9LXL5bjwepghsjmbRZVOW4F4JI3TaUGIa+tlXllwQAd4i+rGvCZIjTO2QzSQIEXzWrRBsmDyZkAXMryMFGfygUv8Nn358Gy98o8oX/lH9sk=;jJYsoztvF5S3oiPZsOikdA=="
+secured: "a+95yA9Qlts4IOfvYztKMyuUBa6nTp21AHRYf6JV6b1Ti3cK0/YuivUmzYQ7iyAbh1Tde/N6MTYPpfTNh25MbxCwHS1H4JzAYNvVriuE3zkcgx44lo4rehiJw6iLi/Qvnx5YE8AKH4ot6SfCbYB7vpvSeNz1sidDDAxiplMC1CHyhZWSmxjF0Udtmb66p89h1WH63zI7FckaxrNHGauXtwnuOhTUg8xAr5Lefdx0eMt0GO6T/nfPzyQ8pCR/qtX6aSur+OCv+vt2TtHJndtt9vzf4roV+gwPkbPNgs4uWfdrJUsJhPOKM4QrUuBt25Zv8+e4QrJEqhd25m1bmAVNuzTkklH5sci+0D54m+v4sfI=;raMDOmcgqtzizqAwVZa+Sg=="
 ---
 
