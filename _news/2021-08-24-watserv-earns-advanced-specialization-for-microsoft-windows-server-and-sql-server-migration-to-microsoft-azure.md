@@ -1,31 +1,27 @@
 ---
 category: news
 title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
-publishedDateTime: 2021-08-24T12:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
-webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+excerpt: "PRNewswire/ - WatServ announced today that it has earned the \"Microsoft Windows Server and SQL Server Migration to Microsoft Azure\" advanced specialization, demonstrating the company's extensive"
+publishedDateTime: 2021-08-24T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure/article_847eff9b-0291-53e2-82b2-197484451d85.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure/article_847eff9b-0291-53e2-82b2-197484451d85.html"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/e1/ae1dee16-dc1e-572b-9857-2975ab7946ae/6124e07617cab.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -615,6 +611,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "40NcnSDoL6zf6F9C0LDSpr0hFC09ZI3pN6YL34MJexPt3O86BbWS5pe6kMcQgAsgcb+VlMBvrseEZsUK/acXoJG92LzAhVnjrJaw3P6nJgZ8o6XD+zwGlfX48eAy2K1iIjCp2d+e92dvIqxU/33qBZCXZcGIB766pHsxZZnDMzOTzGryVB5VqkNVMUQ/YPGMjtTsnhdzmSkgODfR55HkSICitMQw8ZP6RJh6njoJDaH3C6vPT/We5SZV2qDkt0WAqMZwhZhIAMmb6GOiJmpccjugor0/N0uj8X/mp5oLLRBN9C60L2UPM8TapfVWKq6lpHnpDsgU3S9wf2Vjuf6zHQCHqWHgmXYkQLVFsXXO83Z35zOh6CcL3sYx/2IYnvEhtzHnd7HHRN9yUl/Waqq58V3kA/ZOFmg0f28lX1u3IAyY2Ozz1cM/0/pKxfAuBrY9uBcXzZu0Dbf93RdA84HTfdeYrVO1sNJLYaENBsIqZTNf6G5Y5mdxPV9KoZWMCOROe4udiuqb7jLd3ngf11stlg==;0DBfYDZsOFAXtSAfNYS5qg=="
+secured: "Oxute3ixmIUMYRG2tkiEC6PmyL1uApBq+sso7gH9SjF+IhsDx/X5GGbV6wbQqVMtWrKEZmQAqJJ8354ef4+7fW9Kn0fhftqrd8vEFQVjk2CH6RG774W+R90KPpKVwSHlt9MtxdmDpDGyNh3yzgtNM97wugFggqpXpP26W1G2YaPQyr6duwX4UuHzO7c0x3g2PLwSY9aSzejnsUosUbWDq0zQ/2dhsq6AFBgZ+FgCNFsSGPsOF9nbOkEJvKMduE9CNgUORdwUTn832I5h4tXAYsQks5W0cBf7G5pFmGeIJ7NtlSlLxIfLgupfqL9UIsfAdQdkB/sAtOmlbxxu3Ku+fV04AbQSRajN+NGUtyFD2TA=;VD/a2BZV/aERcFZVJxX1Hw=="
 ---
 
