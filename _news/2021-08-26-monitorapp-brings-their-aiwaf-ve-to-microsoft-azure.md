@@ -1,18 +1,18 @@
 ---
 category: news
 title: "MONITORAPP Brings Their AIWAF-VE to Microsoft Azure"
-excerpt: "MONITORAPP, Inc., a leading cybersecurity vendor ,is not only expanding their security solutions to the cloud, but to the market as well"
-publishedDateTime: 2021-08-25T22:17:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/monitorapp-brings-their-aiwaf-ve-to-microsoft-azure-301363071.html"
-webUrl: "https://www.prnewswire.com/news-releases/monitorapp-brings-their-aiwaf-ve-to-microsoft-azure-301363071.html"
+excerpt: "MONITORAPP, Inc., a leading cybersecurity vendor ,is not only expanding their security solutions to the cloud, but to the market as well with listings on AWS and Microsoft Azure. MONITORAPP is bringing competitive pricing and various payment options,"
+publishedDateTime: 2021-08-25T22:21:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-monitorapp-brings-their-aiwaf-ve-microsoft-azure-/2021/08/25/9437622.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-monitorapp-brings-their-aiwaf-ve-microsoft-azure-/2021/08/25/9437622.htm"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
@@ -33,6 +33,20 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1629303595/itpro/SES_Banner_With_Lines_4k_High.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+    publishedDateTime: 2021-08-24T12:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
@@ -400,20 +414,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-    excerpt: "PRNewswire/ - WatServ announced today that it has earned the \"Microsoft Windows Server and SQL Server Migration to Microsoft Azure\" advanced specialization, demonstrating the company's extensive"
-    publishedDateTime: 2021-08-24T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure/article_847eff9b-0291-53e2-82b2-197484451d85.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/e1/ae1dee16-dc1e-572b-9857-2975ab7946ae/6124e07617cab.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -609,6 +609,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "z7n0bQhd+IQONbBifQKWwrLWttSrUpwOmjIpUxOdi161fTx1ZiRryesw41nbqsB24X67P3Wb1zZ719blph971REMULtVp7EfSarq1RzjpIj3A5LVRm61HcdZUcp0ZlHaF0l8evjAKSbLX2fbi4zKYmWJ3IItIIVZcCznpZPgwvi4XzWdWgu2dEwHbm4XpWbmV0aKTIyVsvxkh6MchG7yrrwr8meP9t15+mfI79rSeI0W+urp6MbHtyvv4hdrDz0ucyx64CkZ6Z3ItQ+dIec1tjdy+XI6oZd8HUstEGIrfR0QKLovBYoYx6fZ/3Y6kggxOps25NhvqD/ubiZIxOW2lo1iHncIXNsywF1JL2SCMCs=;yQQ1kY+341rUS595F17V9Q=="
+secured: "wTqHI8vekOiCccadFxOPo/vTQRGTEHmMdx3zHypK71TtzPPH8Rp/21rMfX6DFrjs/B1eBt6OeR988f7IXe7NCp66cRKcXXnglGF9GVwO4QnegPwFjrOOsL5R1pLWxHc0DTeI9/r8fyoqFq+X2CamtH2+4ubA5Opnv2KXsNEl73IpA0ihv+rvJF30RlaCtsLSzhSFJkbOgMN5SV33ibE26JXpCN6ObdbxO8DfuIgqULmexTWNB8nXXqH2iEbQIH5CEGyk1F328YtJJZSMdMX99SKObfS1ZUvIb9Ffiv3sGioIvdqL0gsaKIedGM2vNUO/9b8cJWrep4hI8p5ma4RF5KpGmi4Xb1IWQDceAXvMK/U=;hH1I3Asap4wdhQ/0afgsCg=="
 ---
 

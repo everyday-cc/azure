@@ -3,8 +3,8 @@ category: news
 title: "Shell uses Microsoft Azure computing to reduce carbon footprint"
 excerpt: "Global energy provider Shell is using Microsoft Azure-based high-performance computing (HPC) to reduce its carbon footprint and explore alternative fuels. The technology enables the global energy provider to run the massive calculations required for a project of this size,"
 publishedDateTime: 2021-08-25T11:07:00Z
-originalUrl: "https://www.technologyrecord.com/Home/shell-uses-microsoft-azure-computing-to-reduce-carbon-footprint-125525"
-webUrl: "https://www.technologyrecord.com/Home/shell-uses-microsoft-azure-computing-to-reduce-carbon-footprint-125525"
+originalUrl: "https://www.technologyrecord.com/Article/shell-uses-microsoft-azure-computing-to-reduce-carbon-footprint-125524"
+webUrl: "https://www.technologyrecord.com/Article/shell-uses-microsoft-azure-computing-to-reduce-carbon-footprint-125524"
 type: article
 quality: 37
 heat: -1
@@ -1272,6 +1272,6 @@ related:
         height: 450
         isCached: true
 
-secured: "nRDTaOWDiH8VQo7l1fFo39Vy11OUrhICsqjRnrwhydS9aEIUskSASyok2rbT6Tlm5o7qpz+cKd/IzYBw7olwpacdSXI+zxRFk4xWXfBI7bAF2C79N1qUFx4eTcZAWblh9sx85lHgmR/qE0HYRvxIN42z9quZiY892mAAOX7KCyaSAvA84wr6J72rjCUCu0wJeqw1NMvYFMHx04TbDXfxEZQ4BGwNxV0yFMbCp0DKv2o3reB+5ih07JkI1j/XbGVXZNLH/Sm7gcNN8rEdG+bUded4AQ6bnWx4tWAgrXuu2Yyq3/NJ1WhRhsPYWC8NYl19PWUiGkOL9S2BMBT9axwcjtLCaJh8rCmU4VV072/PR/4=;CmC3KkCaXZDQs+LoivWCsw=="
+secured: "WDM5RB7LaKJUrumH5UXX2qDGmxVU7ehP0xA9WCpfDHy0mLgTYlt+6b4lWq76XolrpPWN7FyMFFMnr57BZjSy/g1g1hzio0ayuwe9uwzHdmzZfgp6hjdnw8Lw4oYmZd2/yz+mCYy+7a4y7LTIStqS2xICT04OKXlvvDtbS7CyttMNhazovP79iWY8s8LU9OUxTZFLDvwDqb3aEfhJHPii45wc+l7PRVSuQi8QQby0kDR+C7/dbEXsf+Ka+Q3pMGe7CxJLWalSIdA9wpAMaRBFsk7LbEJb35zROEIPkqCBpXsPKgQDUt/f8aWG4dRVgVzkc7O0FDCGAsOgTL4L3n9HO1C/NzgLkFjPvKICA8hAckg=;1CZAXCYDZNCq5aEaNEm0eg=="
 ---
 
