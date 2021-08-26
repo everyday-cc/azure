@@ -98,6 +98,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 2
+  - title: "Birlasoft has earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "BSOFT], part of the USD 2.4 billion diversified CK Birla Group; a global enterprise digital and IT Services company, today announced it has earned the Modernization of Web Applications to Microsoft Az"
+    publishedDateTime: 2021-08-26T17:48:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297750"
+    type: article
+    provider:
+      name: Equity Bulls
+      domain: equitybulls.com
+    quality: 2
   - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "Another remarkable achievement for Nous Infosystems. This specialization reflects Nous' depth of expertise in the modernization of applications to"
     publishedDateTime: 2021-07-18T07:00:00Z

@@ -1,22 +1,21 @@
 ---
 category: news
-title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
-publishedDateTime: 2021-01-29T14:36:00Z
-originalUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
-webUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
+title: "Birlasoft has earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+excerpt: "BSOFT], part of the USD 2.4 billion diversified CK Birla Group; a global enterprise digital and IT Services company, today announced it has earned the Modernization of Web Applications to Microsoft Az"
+publishedDateTime: 2021-08-26T17:48:00Z
+originalUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297750"
+webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297750"
 type: article
-quality: 16
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: Equity Bulls
+  domain: equitybulls.com
 
 topics:
   - Azure
-  - Migration
 
 related:
   - title: "Quisitive Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
@@ -88,6 +87,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
+    publishedDateTime: 2021-01-29T14:36:00Z
+    webUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 16
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "SEATTLE, June 16, 2021 /PRNewswire/ -- MSRcosmos (www.msrcosmos.com) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation ..."
     publishedDateTime: 2021-06-24T18:38:00Z
@@ -96,15 +104,6 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
-    quality: 2
-  - title: "Birlasoft has earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "BSOFT], part of the USD 2.4 billion diversified CK Birla Group; a global enterprise digital and IT Services company, today announced it has earned the Modernization of Web Applications to Microsoft Az"
-    publishedDateTime: 2021-08-26T17:48:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=297750"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
     quality: 2
   - title: "Nous Infosystems Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "Another remarkable achievement for Nous Infosystems. This specialization reflects Nous' depth of expertise in the modernization of applications to"
@@ -116,6 +115,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "GPFn/f/roNGlM19xwTAyBWr9H3UlqLBYJSKEXVQuHf6LW/w9KWVmNPJkzosSHPXf78i9r/U8lBj2mWHHPQzQIbtlvve9R6pSTgWMkhX4XqnDPl5esxcHBjGVj6ruqkt+fM778pBviiHCEvd7B1EVnABIHFkTn8em2GbYIefNOt4kmHkfmuns3f69+Lz8DPz8eTB8CTCaxKr+tIp1r4CcFZTH1TF4YD84WhdcSkLfQB/4ZC9/IRuvEOvbJJQ0CBeQ4ehpZAGJ8zYlOR8WKihPTGUsrhcWSVBPMDnG3bLrvJrmirvfZct9z4QppiqIJ2L3zpq/v5Uf0RJ8YBoohemyBP5eJzHtqkdCH/5KghjREUc=;wVq2YX9mbSZHmIRKEpCnrA=="
+secured: "wE79QYnXesWx73OWoGmd/yEu2iK9Fzl2f55WuLLsFXSjRGFGNALCYYo37MJ7Qd3bNd0f9CyL6tsdb+Q/S05MQsQ/F1QMd/ziHPNzLW/yZFfzYb5KqGkmi9lRSueCwhUyQ/oNIeK4hKAK/2vZMlMWBfjq071PJeMHL56mQAvqzjgeIeLVe5ifx9ab7WUeypJkh5FzDUXyYAdy6vo1v4OZPe4hbb+1nkxAE3pO8dHNIi1IvML4j3BVmyIGBdgDzum42lgyq3igIP8+o6Gw/txXMbJtOTpaiUr/DHYF7zVtHh/o5Nh1A4Igr5W57FO+8KMps5Kkfn6ytRId5X8NbG/Ws1iujoXqxNwaLZCTsVHAKes=;jiWvoym7Of+pxujJln3MLg=="
 ---
 
