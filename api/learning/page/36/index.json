@@ -4,6 +4,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-language-translator-mixed-reality-application-unity-azure-cognitive-services.md",
+      "title": "Create a language translator application with Unity and Azure Cognitive Services",
+      "excerpt": "Create a language translator application for your Mixed Reality device (Windows Mixed Reality, HoloLens 2, etc.) by using Cognitive Services.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-create-language-translator-mixed-reality-application-unity-azure-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-translator-mixed-reality-application-unity-azure-cognitive-services/",
+      "length": "PT1H10M",
+      "ratings": {
+        "count": 34,
+        "average": 4.617647
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-language-understanding-app.md",
       "title": "Create a Language Understanding app",
       "excerpt": "Create a Language Understanding app",
@@ -441,8 +484,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-vm-offer-commercial-marketplace/",
       "length": "PT34M",
       "ratings": {
-        "count": 18,
-        "average": 4.9444447
+        "count": 19,
+        "average": 4.9473686
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1247,54 +1290,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-backend-apis.md",
-      "title": "Deploy serverless APIs with Azure Functions, Logic Apps, and Azure SQL Database",
-      "excerpt": "In the language of your choice (Node.js, Python, or .NET), learn how to deploy an Azure Function that adds real-time data to an Azure SQL Database and triggers an Azure Logic App for notifications, all with GitHub Actions for CI/CD.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-deploy-backend-apis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-backend-apis/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 25,
-        "average": 4.52
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-backend-apis-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration"
       ]
     }
   ],
