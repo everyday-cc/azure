@@ -1,27 +1,31 @@
 ---
 category: news
 title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-excerpt: "PRNewswire/ - WatServ announced today that it has earned the \"Microsoft Windows Server and SQL Server Migration to Microsoft Azure\" advanced specialization, demonstrating the company's extensive"
-publishedDateTime: 2021-08-24T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure/article_847eff9b-0291-53e2-82b2-197484451d85.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure/article_847eff9b-0291-53e2-82b2-197484451d85.html"
+excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+publishedDateTime: 2021-08-24T12:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/e1/ae1dee16-dc1e-572b-9857-2975ab7946ae/6124e07617cab.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -611,6 +615,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "Oxute3ixmIUMYRG2tkiEC6PmyL1uApBq+sso7gH9SjF+IhsDx/X5GGbV6wbQqVMtWrKEZmQAqJJ8354ef4+7fW9Kn0fhftqrd8vEFQVjk2CH6RG774W+R90KPpKVwSHlt9MtxdmDpDGyNh3yzgtNM97wugFggqpXpP26W1G2YaPQyr6duwX4UuHzO7c0x3g2PLwSY9aSzejnsUosUbWDq0zQ/2dhsq6AFBgZ+FgCNFsSGPsOF9nbOkEJvKMduE9CNgUORdwUTn832I5h4tXAYsQks5W0cBf7G5pFmGeIJ7NtlSlLxIfLgupfqL9UIsfAdQdkB/sAtOmlbxxu3Ku+fV04AbQSRajN+NGUtyFD2TA=;VD/a2BZV/aERcFZVJxX1Hw=="
+secured: "IXrxbbP5mQyxm/lKus5uHSbOX8VAXtaek6LY2p//0TsRnI3/AU1dlLCRsBz0lHd1okDSLKzGAsAHbEyiXgkK0+7RZe8FOWnhdfX347cudsTIUe2OPUg3KkBxirfdiINLAmAFw1GyxLVJdyfa17HT3uA+OX+Rz/0/U3S/GrtxN5Hy4axGwBpv5yUz0wJIMh3xzsuY7J5TkeDPQ7Hao613rzNqeJlwyu9DWXURG+QED0UMaTcZV10tWHbiqlUIkyMzqSzgO2uCVESsGTYI6lKWopZs0PLksF6Yo39GQt4jHu3IeFdFQJ/kfkT+wED89vqlf+x26/StMRGKkm7pagdVjt/6MUZvvfK6P1kJFDcXRxo=;Zd1/JfXL+qkZO+sQOJxK7w=="
 ---
 
