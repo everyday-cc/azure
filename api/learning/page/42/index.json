@@ -4,6 +4,50 @@
   "page": 42,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm.md",
+      "title": "Implement scale and high availability with Windows Server VM",
+      "excerpt": "You'll learn how to implement scaling for virtual machine scale sets and load-balanced VMs. You'll also learn how to implement Azure Site Recovery.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-scale-high-availability-windows-server-virtual-machine/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 44,
+        "average": 4.818182
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-scale-and-high-availability-with-windows-server-vm-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-sensitivity-labels.md",
       "title": "Implement sensitivity labels",
       "excerpt": "Implement sensitivity labels",
@@ -487,8 +531,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-incidents/",
       "length": "PT33M",
       "ratings": {
-        "count": 361,
-        "average": 4.703601
+        "count": 362,
+        "average": 4.70442
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -529,8 +573,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-introduction/",
       "length": "PT10M",
       "ratings": {
-        "count": 158,
-        "average": 4.740506
+        "count": 159,
+        "average": 4.7421384
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -571,8 +615,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-monitoring/",
       "length": "PT43M",
       "ratings": {
-        "count": 143,
-        "average": 4.804196
+        "count": 144,
+        "average": 4.8055553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -613,8 +657,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-scaling/",
       "length": "PT32M",
       "ratings": {
-        "count": 153,
-        "average": 4.7843137
+        "count": 154,
+        "average": 4.785714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1247,49 +1291,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-azure-sphere.md",
-      "title": "Introduction to Azure Sphere",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-azure-sphere/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-sphere/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 251,
-        "average": 4.7968125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-sphere-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],
