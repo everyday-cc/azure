@@ -392,6 +392,20 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
+    excerpt: "Rookout Live debugging is now available across the Azure ecosystem, to both enterprises and early-stage entrepreneurs through the Azure marketplace. SAN FRANCISCO, Aug. 23, 2021 ("
+    publishedDateTime: 2021-08-23T12:07:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Telia Company to become Microsoft Azure Networking MSP partner"
     excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
     publishedDateTime: 2021-08-23T14:14:00Z
@@ -509,15 +523,15 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 17
-  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
-    excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
-    publishedDateTime: 2021-08-23T12:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
+  - title: "MONITORAPP Brings Their AIWAF-VE to Microsoft Azure"
+    excerpt: "MONITORAPP, Inc., a leading cybersecurity vendor ,is not only expanding their security solutions to the cloud, but to the market as well"
+    publishedDateTime: 2021-08-25T22:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/monitorapp-brings-their-aiwaf-ve-to-microsoft-azure-301363071.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
   - title: "TCS MasterCraft™ Products are Now Available on the Microsoft Azure Marketplace"
     excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, announced that TCS MasterCraft™, a suite of intelligent automat"
     publishedDateTime: 2021-08-24T14:10:00Z

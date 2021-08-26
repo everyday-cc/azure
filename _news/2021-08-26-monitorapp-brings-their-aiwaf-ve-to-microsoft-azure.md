@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Microsoft 'Azure Government Top Secret' Goes GA"
-excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
-publishedDateTime: 2021-08-17T20:16:00Z
-originalUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
-webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
+title: "MONITORAPP Brings Their AIWAF-VE to Microsoft Azure"
+excerpt: "MONITORAPP, Inc., a leading cybersecurity vendor ,is not only expanding their security solutions to the cloud, but to the market as well"
+publishedDateTime: 2021-08-25T22:17:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/monitorapp-brings-their-aiwaf-ve-to-microsoft-azure-301363071.html"
+webUrl: "https://www.prnewswire.com/news-releases/monitorapp-brings-their-aiwaf-ve-to-microsoft-azure-301363071.html"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
-    width: 647
-    height: 450
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -316,6 +310,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Microsoft 'Azure Government Top Secret' Goes GA"
+    excerpt: "Microsoft's unique cloud instance for U.S. government agencies and their solution providers known as Azure Government Top Secret became generally available this week, the company announced."
+    publishedDateTime: 2021-08-17T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2021/08/17/microsoft-azure-government-top-secret.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130910REDMackieEyeWatch.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Taps SES' Next-Gen MEO Satellite for Azure Cloud Services"
     excerpt: "SES announced Microsoft as the first cloud provider customer for its next-generation medium earth orbit (MEO) system - O3b mPOWER."
     publishedDateTime: 2021-08-18T00:49:00Z
@@ -514,15 +522,6 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 17
-  - title: "MONITORAPP Brings Their AIWAF-VE to Microsoft Azure"
-    excerpt: "MONITORAPP, Inc., a leading cybersecurity vendor ,is not only expanding their security solutions to the cloud, but to the market as well"
-    publishedDateTime: 2021-08-25T22:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/monitorapp-brings-their-aiwaf-ve-to-microsoft-azure-301363071.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
     publishedDateTime: 2021-08-17T12:00:00Z
@@ -610,6 +609,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "1ViO9u50/Xp527T1DVsWUuNkseg4tZ/vRKYNJHUiqU8BkGDQoBGh61QJo9teTa6D81rY5kC4RukvHYeccdX0ZpEySId7atkamM0MrC77GzkQ5IdVru4QbzqCnU/gWz7a6Gz/X7gS1PsPxIKkiZxSsuLcQmEQdLtiBAB/Tto3qQDrd1wiQXn0lVRewKbvOZb9MMCApt9KyERDl7EkYbKeklaWwwNiLc7v8K52B9EvdMyz4NJwWoBTR+HYoBcR5T5LjT433U080qS4zk4dZFCczixI/01YEtTN4EaJam1Guc0aWJxxSB5aDus9BMeGqomgbvM3GpC7czzuzSS5DAer7cgojH4nZW8TXYaYpsxPlVxxgEzaQsO5edxTpxR2R1FnM+vsQyV04LZrl5ToqxBbE3HuQNxLFUy0osOaYZk5a7Zqxc4FRIN6MiG8dX8Hn/zBxJ4v6Vyd0IrEO1BK8Vv8VNlo9t/AvSj+wPe0LL/D/JUwOW89QyLxc0ryxoY/k0rNVveOn86DGEyd8jg0tbPq/A==;i51UiMzwKvyAdM3Y70cEMw=="
+secured: "z7n0bQhd+IQONbBifQKWwrLWttSrUpwOmjIpUxOdi161fTx1ZiRryesw41nbqsB24X67P3Wb1zZ719blph971REMULtVp7EfSarq1RzjpIj3A5LVRm61HcdZUcp0ZlHaF0l8evjAKSbLX2fbi4zKYmWJ3IItIIVZcCznpZPgwvi4XzWdWgu2dEwHbm4XpWbmV0aKTIyVsvxkh6MchG7yrrwr8meP9t15+mfI79rSeI0W+urp6MbHtyvv4hdrDz0ucyx64CkZ6Z3ItQ+dIec1tjdy+XI6oZd8HUstEGIrfR0QKLovBYoYx6fZ/3Y6kggxOps25NhvqD/ubiZIxOW2lo1iHncIXNsywF1JL2SCMCs=;yQQ1kY+341rUS595F17V9Q=="
 ---
 

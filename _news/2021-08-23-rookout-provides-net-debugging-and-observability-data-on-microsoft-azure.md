@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
-excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
-publishedDateTime: 2021-08-23T12:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
+excerpt: "Rookout Live debugging is now available across the Azure ecosystem, to both enterprises and early-stage entrepreneurs through the Azure marketplace. SAN FRANCISCO, Aug. 23, 2021 ("
+publishedDateTime: 2021-08-23T12:07:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -508,6 +514,15 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 17
+  - title: "MONITORAPP Brings Their AIWAF-VE to Microsoft Azure"
+    excerpt: "MONITORAPP, Inc., a leading cybersecurity vendor ,is not only expanding their security solutions to the cloud, but to the market as well"
+    publishedDateTime: 2021-08-25T22:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/monitorapp-brings-their-aiwaf-ve-to-microsoft-azure-301363071.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
     publishedDateTime: 2021-08-17T12:00:00Z
@@ -595,6 +610,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "M57TH0W8XhhVgTJ7XeZGKzCrFI+/EisPTiFsctWjJMOMqqucjxd/jbKRXHtL4xJtPa7Wsy6fwk3BTGjc2VBDp8w5kvIZ8b5BgeQBBP2FwjflcEF0I/TijJTFvmLahGN98O7E7gDqAs75C0r3/traSfZvDm+a9Y67ia6ufiqYrnPzW0qQ6XZyeHqAV28yxFEXu2AcbQlZQ1B+UoB8Vm1z9g+dusgxfD3rB9d/mTEqaZZoVQb80/bZWNookIy4T+AtFYM8NQf+CIBdwg6emh0ks8popf3K6pOGc7NnBZwd7MsOQQnYC2Wx0g42XGGqfpTsIE3VXnehByylgVbrlToN3tDgzjDzfn+3sZ6IMhxf7Vc=;h8LPORz+hjN7mz17rGMUrw=="
+secured: "2ZHLsj15tzEU5zrGLGJX9Hu3zVIuookE4KaiS5GfvhVKDZ02bXpE2RpFLMPSGfyD8y6PANrgTYxAtIOwOojX3JRr1ARUvtAjo2++io1JN9Ax4hucS4AMwfuCXgFD9jtPhTNzToMo2uDWjJYmKXI8LBuxll3agLwgAzm3ZGPP9HzAOque60h9Bv8NNCkbE8IVzrZHOpt3VRdT3x6Pp4LLq/QHSnzEXkri2Qwc0TzdFezRH5m8P4ajy6hPZ3aACpBV87DKx2GB8nb9S0kbv1V68kutiULu8vd3KteF9KSi+IIxDItTw4OaCxKdREFKUpQZvrAta9x4Pq5yCmXTPPw4E//AVdiT2WtfbiFEJeXIwcU=;b/XGlkVjX8u4EcKRp2qU3w=="
 ---
 
