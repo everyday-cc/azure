@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Stream Analytics Dedicated now generally available"
-excerpt: "Azure Stream Analytics Dedicated offers a single-tenant clustered deployment of Stream Analytics for complex and demanding streaming scenarios."
-publishedDateTime: 2021-03-02T17:00:21Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-dedicated-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-dedicated-now-generally-available/"
+title: "Azure Synapse Analytics Compute Optimized data flows will be retired on 31 August 2024"
+excerpt: "Transition from Compute Optimized data flows to General Purpose data flows by 31 August 2024. "
+publishedDateTime: 2021-08-26T15:35:43Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-analytics-compute-optimized-data-flows-will-be-retired-on-31-august-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-analytics-compute-optimized-data-flows-will-be-retired-on-31-august-2024/"
 type: article
-quality: 84
+quality: 91
 heat: -1
 published: false
 
@@ -189,15 +189,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
-  - title: "Azure Synapse Analytics Compute Optimized data flows will be retired on 31 August 2024"
-    excerpt: "Transition from Compute Optimized data flows to General Purpose data flows by 31 August 2024. "
-    publishedDateTime: 2021-08-26T15:35:43Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-analytics-compute-optimized-data-flows-will-be-retired-on-31-august-2024/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 91
   - title: "4 common analytics scenarios to build business agility"
     excerpt: "Azure Synapse Analytics is a limitless analytics service that is designed to bring the two worlds of big data and data warehousing into a unified, enterprise-grade, powerful platform."
     publishedDateTime: 2021-01-04T09:00:07Z
@@ -235,6 +226,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Azure Stream Analytics Dedicated now generally available"
+    excerpt: "Azure Stream Analytics Dedicated offers a single-tenant clustered deployment of Stream Analytics for complex and demanding streaming scenarios."
+    publishedDateTime: 2021-03-02T17:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-dedicated-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Power your business applications data with analytical and predictive insights"
     excerpt: "Over the past two years, customer feedback has made it clear that when data barriers are dissolved the impact of analytics grows exponentially. Today, we’re announcing the next step in bringing data insights to all by eliminating the barrier between business applications and analytical systems with Azure"
     publishedDateTime: 2021-05-26T08:00:29Z
@@ -496,6 +496,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "zt5yyMboKxBcbSauz+0FXxdU5HoEQExL9uBNHFkBiqAED0oQycVdBkEdvUYg2xCC1/cQGgcTEJIt/2sAvUKTRVCrrWG4ZuWB/jN+n4nC5so952fZrzIEFqdLmE4NSe/2FJgyCAxZ8a/dRMeosIPcNH0XeHX7LELfAZMOr9lVTXIvwYdCPQ6/aORPRNRvjqHbuyR0DblW+SMttMQgdM0XsMRRnz557ZGA4gTM6vF8OZvfPRYuPCDPcfRpfEg25+FCTCFGHy4pN4BsCuBcJUrbXTMbGg8cUlHE1UaUXYkHXUzCQIioB2K/w2+BEklIMnYCqoFufCsUY+O6NcgYr+6euNnLuXx3jn2niT/0aOHhFaY=;jZnpHdIYsbsRuoohh/4CFg=="
+secured: "XfgWb5lbRbcOyeHwhRL/+nqAr1ePlyXDJPGQLgydK3BRliO5KQ2s9YRep5Fo728Vx14uL1U7Slb4LXViRoZwRCpUCX7exnia62V4Bc9twbUhVdfQK1T62fnUNO4iLF3DhxN+XP+f72Bh3IpFgLiNx+wku4wEtn/wyyvFWQNB+cczHjpIqnEsEkdinAwJj+rHfmimDF0CowBqnSLuIjf5xUOYnaZ1DlX+7EYUkpYWN8dyfsHaDap2mGyK/cRp9ycQttxjBdQA+IMf9+YwyVvjIet8JMef0VoQEn5K/7POIhSvkGuSiliqkatAAJzWXhDIUy8WwSDS20KMbEx6QMpDYL39pUp78AbxP/1t1yevFhQ=;xTcenUil6yZPDzfWxBCY3A=="
 ---
 

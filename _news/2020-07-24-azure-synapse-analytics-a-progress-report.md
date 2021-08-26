@@ -179,6 +179,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
+  - title: "Azure Synapse Analytics Compute Optimized data flows will be retired on 31 August 2024"
+    excerpt: "Transition from Compute Optimized data flows to General Purpose data flows by 31 August 2024. "
+    publishedDateTime: 2021-08-26T15:35:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-analytics-compute-optimized-data-flows-will-be-retired-on-31-august-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "4 common analytics scenarios to build business agility"
     excerpt: "Azure Synapse Analytics is a limitless analytics service that is designed to bring the two worlds of big data and data warehousing into a unified, enterprise-grade, powerful platform."
     publishedDateTime: 2021-01-04T09:00:07Z

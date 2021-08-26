@@ -22,15 +22,24 @@ topics:
   - Azure
 
 related:
-  - title: "Community support for PHP 7.4 is ending on 28 November 2022"
-    excerpt: "App Service support for PHP 7.4 on Windows is ending on 28 November 2022."
-    publishedDateTime: 2020-10-28T00:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/community-support-for-php-74-is-ending-on-28-november-2022/"
+  - title: "Azure Functions support for Node 8 is ending on 28 February 2022"
+    excerpt: " Functions App support for Node 8 apps is ending on 28 February 2022, we recommend you upgrade to Node 14. "
+    publishedDateTime: 2021-08-26T15:40:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-support-for-node-8-is-ending-on-28-february-2022/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 84
+  - title: "Azure Functions support for Python 3.6 is ending on 30 September 2022"
+    excerpt: " Functions App support for Python 3.6 is ending on 30 September 2022, we recommend you upgrade to Python 3.8. "
+    publishedDateTime: 2021-08-26T15:38:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-support-for-python-36-is-ending-on-30-september-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "+N25LnIDAD3qHIGYfpmbNMmb5tCMAD0OUrFrm/lbW8cNgYDDMC3zwKkJYgTQPsDVG8a0AAz18SE+aSx417/O9sOw0DDjEDHatTuEe6vhH9kz+Qi78eKdvcZP58rY23ErDvivT/JdTpvtf6jVZwok110KV7rFplyy3nLcK2tnSV8K+ZSXaPdhloFw14KrRTneNOTanNko+ndGnIwcb2HgPM5JojcNDzz/U+9HSn00eV5/i1eX8CsR1p26nVt51cmWP03j7S7Edp7oFteQhyL6jhvvBUqw7BELbE3ak6YnemEhqtH/RbiW/oClQcae2DVgvtxC1bpXaTEI99qYCtHHlUqY/zBUli9E5mT6sze1Wng=;HDMBWidMeskZWrQX/HAJaQ=="
 ---

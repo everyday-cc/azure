@@ -195,6 +195,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
+  - title: "Azure Synapse Analytics Compute Optimized data flows will be retired on 31 August 2024"
+    excerpt: "Transition from Compute Optimized data flows to General Purpose data flows by 31 August 2024. "
+    publishedDateTime: 2021-08-26T15:35:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-analytics-compute-optimized-data-flows-will-be-retired-on-31-august-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "Authenticate Azure Stream Analytics to Azure Synapse Analytics using managed identities (preview)"
     excerpt: "To support Azure customers' need for a more secure streaming data pipelines, Azure Stream Analytics now supports managed identity authentication with SQL pool tables Azure Synapse Analytics."
     publishedDateTime: 2020-09-30T17:00:20Z
