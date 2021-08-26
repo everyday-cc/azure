@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-net
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/"
 type: article
 quality: 119
-heat: 1379
+heat: 1399
 published: true
 
 provider:
@@ -463,6 +463,15 @@ related:
     excerpt: "Take advantage of VM sizes that are now available when creating your Batch pools."
     publishedDateTime: 2021-08-19T17:00:02Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-august2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Sphere OS version 21.08"
+    excerpt: "This quality release includes bug fixes and security updates of the Azure Sphere OS."
+    publishedDateTime: 2021-08-25T23:09:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2108/"
     type: article
     provider:
       name: Microsoft

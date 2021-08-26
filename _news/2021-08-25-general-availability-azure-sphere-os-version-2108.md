@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Application Insights work item integration in Azure Monitor"
-excerpt: "You can now create work items in Azure DevOps or GitHub based on Application Insights telemetry. "
-publishedDateTime: 2021-04-28T16:02:08Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insights-work-item-integration-in-azure-monitor/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insights-work-item-integration-in-azure-monitor/"
+title: "General availability: Azure Sphere OS version 21.08"
+excerpt: "This quality release includes bug fixes and security updates of the Azure Sphere OS."
+publishedDateTime: 2021-08-25T23:09:51Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2108/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2108/"
 type: article
-quality: 96
+quality: 67
 heat: -1
 published: false
 
@@ -20,8 +20,6 @@ provider:
 
 topics:
   - Azure
-  - DevOps
-  - Integration
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -92,6 +90,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "General availability: Application Insights work item integration in Azure Monitor"
+    excerpt: "You can now create work items in Azure DevOps or GitHub based on Application Insights telemetry. "
+    publishedDateTime: 2021-04-28T16:02:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insights-work-item-integration-in-azure-monitor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
   - title: "General availability: Azure Cognitive Services Translator releases nine new languages"
     excerpt: "Azure Cognitive Services Translator is releasing nine new languages for text translation: Albanian, Amharic, Armenian, Azeri, Khmer, Lao, Myanmar, Nepali, and Tigrinya."
     publishedDateTime: 2021-02-22T15:00:04Z
@@ -466,15 +473,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Sphere OS version 21.08"
-    excerpt: "This quality release includes bug fixes and security updates of the Azure Sphere OS."
-    publishedDateTime: 2021-08-25T23:09:51Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2108/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "General availability: Azure Digital Twins plugin for Azure Data Explorer "
     excerpt: "Adding context to IoT data just became easier. Azure Digital Twins and Azure Data Explorer now seamlessly integrate, allowing you to allow you to contextualize time-series IoT data."
     publishedDateTime: 2021-06-24T18:46:54Z
@@ -611,6 +609,6 @@ related:
       domain: microsoft.com
     quality: 42
 
-secured: "pp2wiibIGryGEjUfKfprzl25Z1/A4D3flMv8t1+GOPwR80lwaQyDTY6WDmk+KRE6Rb31+uuXJihD2qcP7udqJf8tbYqpZ0lc1zmYxkGpJTbJTUPFISg6LS8tUyiORbQxWN3Ase3m9g9WLrSujAGuhavVLKYvK6ydBF8HZ20zRT04zzUbu7WAnfOIep4DyUyDbjumubr/WMvNLmQoLc6KTnVGv/1VelU++YP3Mnno6BKUyd6vuWvOACHigdxgWL02N2NSFxZm61CTY1gM6URkzRccttZgKSQIHFdnMcDKNPtsiRm2YJBHW06qDf9pzIROrlg1DrldCER3F/UqPwu25ljexgCCXM7sNXzHVgrbE1g=;XEoRhbmKTs0bCZJTbcGkeg=="
+secured: "PXlWpTDR2Yfk6Mxff70zD54Tg8Bt/xDa7EkN9Gdm5m12j/esCqtPrWWxRhzPE0JUBboNrPR1fKarBNTVIkIQEcObkiQi/Z5cSDa15ii5v+A+SxcMfibMy76RsqJhMp0hWaUWqrwSYgqNWCbyXE8ViH+uRM1iYjIQyapK7akqkWuYbBcaPyW+tJh49DnfNbk5ZGmTvTrM1OPDOXftpzScaCiWJVE07xqHozN8eH67L8WAZ+SCFyDweA6oD1t/lmwD1NezeP2IhTixPdfZ1X3ZUH0bR8nkfJu6q/5KD7/o6AU064ekqMr5iGB0BETUUELah2x21ZxnQS8ghRuUjesGoAa65+ubvQMpBCdkZX2Kxtc=;UTj/BL/6/GP39CxilUiLvA=="
 ---
 

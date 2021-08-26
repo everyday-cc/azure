@@ -383,20 +383,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
-  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
-    excerpt: "Rookout Live debugging is now available across the Azure ecosystem, to both enterprises and early-stage entrepreneurs through the Azure marketplace. SAN FRANCISCO, Aug. 23, 2021 ("
-    publishedDateTime: 2021-08-23T12:07:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Telia Company to become Microsoft Azure Networking MSP partner"
     excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
     publishedDateTime: 2021-08-23T14:14:00Z
@@ -514,6 +500,15 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 17
+  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
+    excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
+    publishedDateTime: 2021-08-23T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
     excerpt: "Benefiting from the complementary strengths of both companies, the joint solutions include Avaya’s award-winning 1 Avaya OneCloud CPaaS (Communications Platform as a Service) now integrated with voice,"
     publishedDateTime: 2021-08-17T12:00:00Z
@@ -601,6 +596,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "4T+wyt4rpDvZ/mcmqLwewe1b8GhaRsWWAjObZpmyQdLFpS6aGnTxIcpQxMdlXbc3BJRzqFD2fP4S49ki495NR5NqvOGeFzMMTZihgmFDevAO/7C8TeNsxFsECtVXMVD5Cn+DxIQJh4+TGDjzpxhzIEwciSZPGbW2NZsq9SFA17ktuGo6Uw1Heb1w/z38cbQaQA0qGghlQ6i0TbEhkOBEsXdZ7D5DKUe9CmUxQF/IpdObB5dmZzuuht6WfKgv38TLpvk0azqz65w1cwcZaad2Ygj1i6UQIi9vh60CSQ06Irhp/q+z62YGeLeiZrXGsKLaJaaflwGsxbiuV7trQjkVdrJv8nnCtwd2GSZwn1x0rSw=;GMmaeGwtq1QFhvSurcOJgA=="
+secured: "7H2W2zNOPqlgKM64A64jk5PnKBuaZIVIGvGQxpP0xTBrqMv5ErCRLhf7u3cGZMOjkgKXCucfyJetyjCEsEJ1Gp58rYsMxK4quJtK65uSPi8va8WwVT+p6BE5ET3sci68cbBmEWpSR2BMLH/fr+oZrwkdm/dGSgF/kOgxNqrF7BouTmY1qZECXFEpRN2FkgbOQRIgA4+NEzsPLbF1yzGZerBUCsWt3aAfLpB3hvXE/VDKE9pS3pzR+XKasPmhYtat6sw1miCl1vid74Z9pkrJ8vAz+LuhO+hTltDSpLXkWaWRsPT6BMkm5RhG15vUxTZqptL0iuUc8ffPeVZDxd6HxoPOO3Vg3zButJLzQRBnfjDy8aPbptpbJNIkjpMiF0zG9BqH9sX1kC2k7yTGyzw4HqJ/vHAyfHzL2mP9TrlrxSK90z3KUhdbJBEBjGkpJEKNvd6N4p4JlyV6V8AH/E+NVsvwxc1oa0nU4HXT0hD603b4IHfMVSglJM1dLOsBP0DSipLl9pD7O2IQ2c7oobChYQ==;Y0zoomdSJ3mtJUZDVQX81Q=="
 ---
 

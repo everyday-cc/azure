@@ -473,6 +473,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Sphere OS version 21.08"
+    excerpt: "This quality release includes bug fixes and security updates of the Azure Sphere OS."
+    publishedDateTime: 2021-08-25T23:09:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2108/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Azure Digital Twins plugin for Azure Data Explorer "
     excerpt: "Adding context to IoT data just became easier. Azure Digital Twins and Azure Data Explorer now seamlessly integrate, allowing you to allow you to contextualize time-series IoT data."
     publishedDateTime: 2021-06-24T18:46:54Z

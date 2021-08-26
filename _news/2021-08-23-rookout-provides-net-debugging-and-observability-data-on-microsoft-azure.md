@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
-excerpt: "Rookout Live debugging is now available across the Azure ecosystem, to both enterprises and early-stage entrepreneurs through the Azure marketplace. SAN FRANCISCO, Aug. 23, 2021 ("
-publishedDateTime: 2021-08-23T12:07:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
+excerpt: "Rookout, the modern debugging platform, today announces its availability in the Azure Marketplace, providing support for startups and enterprises alike. By integrating throughout the Microsoft stack,"
+publishedDateTime: 2021-08-23T12:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-rookout-provides-net-debugging-observability-data-microsoft-azure-/2021/08/23/9435313.htm"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -601,6 +595,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "Ce8wx4KMbMDgFarm48GwE15op7VVMWGqEMqqcJMJ6Bv/4NyRkdeOx+V184+5wEWx52h9cAq9ubPIex/qOag8tXq1UWWUIRZsUH6PwMZbctdzvIbr7v1yL3Rm+C+9wYTsBHplGHbv0ezUGINX/hR125ZuZstIZsMVRL/fHP+RP52fD8HCEIUgU/gfrC15r5zmVGzv5d0F/SjFlUjy0uqLWKWFaffgAua2RVqldWOo54pkVcBEy/na1nUj/othRIXakUjNN/hTiSvb2l8GsqMdjNTQrXOgJhc5TSvYffDdeQyj4UKeX0l32QqjNCTXlT9CTvwwkPvc3n89ZZWMFLvutQ9w777UFvkNErY0ZHPRT0g=;aAhmmBUWFea7AylmHp0H+w=="
+secured: "M57TH0W8XhhVgTJ7XeZGKzCrFI+/EisPTiFsctWjJMOMqqucjxd/jbKRXHtL4xJtPa7Wsy6fwk3BTGjc2VBDp8w5kvIZ8b5BgeQBBP2FwjflcEF0I/TijJTFvmLahGN98O7E7gDqAs75C0r3/traSfZvDm+a9Y67ia6ufiqYrnPzW0qQ6XZyeHqAV28yxFEXu2AcbQlZQ1B+UoB8Vm1z9g+dusgxfD3rB9d/mTEqaZZoVQb80/bZWNookIy4T+AtFYM8NQf+CIBdwg6emh0ks8popf3K6pOGc7NnBZwd7MsOQQnYC2Wx0g42XGGqfpTsIE3VXnehByylgVbrlToN3tDgzjDzfn+3sZ6IMhxf7Vc=;h8LPORz+hjN7mz17rGMUrw=="
 ---
 
