@@ -4,6 +4,48 @@
   "page": 43,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-audio-classification.md",
+      "title": "Introduction to Audio Classification with PyTorch",
+      "excerpt": "Learn how to do audio classification with PyTorch.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-audio-classification/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-audio-classification-pytorch/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 38,
+        "average": 4.868421
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-azure-sphere.md",
       "title": "Introduction to Azure Sphere",
       "excerpt": "University of Oxford",
@@ -632,8 +674,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-cosmos-db-core-api/",
       "length": "PT32M",
       "ratings": {
-        "count": 19,
-        "average": 4.6842103
+        "count": 20,
+        "average": 4.7
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -968,8 +1010,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-lighthouse/",
       "length": "PT46M",
       "ratings": {
-        "count": 77,
-        "average": 4.714286
+        "count": 78,
+        "average": 4.717949
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1164,40 +1206,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-batch-stt.md",
-      "title": "Transcribe large amounts of audio data with Batch Transcription",
-      "excerpt": "Batch Transcription is an Azure cognitive service that enables you to transcribe large amounts of pre-recorded audio data asynchronously. Batch Transcription’s high throughput makes it ideal for call centers that have to transcribe hundreds or thousands of calls every day to ensure they meet regulations and compliance standards. Batch Transcription also enables better data analyses, which can let call centers ensure that customer feedback is taken into account, staff are treated fairly, and to ensure problems are dealt with quickly and properly.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-intro-to-batch-stt/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-batch-transcription/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
