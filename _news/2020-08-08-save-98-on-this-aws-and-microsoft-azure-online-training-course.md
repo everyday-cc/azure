@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/uk/shopping/aug-8-cloud-certification-training.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-8-cloud-certification-training.amp"
 type: article
 quality: 97
-heat: 797
+heat: 817
 published: true
 
 provider:
@@ -244,6 +244,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Bento_Rodrigues_Mariana_Minas_Ger.2e16d0ba.fill-1200x630.jpg"
         width: 1080
         height: 568
+        isCached: true
+  - title: "Charlie Bell Leaves AWS for Rival Microsoft Azure"
+    excerpt: "Charlie Bell has left Amazon Web Services for rival Microsoft Azure. DigitalOcean is an up-and-comer in the SMB cloud sector. And JWCC is moving along."
+    publishedDateTime: 2021-08-26T21:42:00Z
+    webUrl: "https://www.channelfutures.com/cloud-2/charlie-bell-leaves-aws-for-rival-microsoft-azure"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 37
+    images:
+      - url: "https://www.channelfutures.com/files/2019/01/Goodbye.jpg"
+        width: 1000
+        height: 692
         isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."

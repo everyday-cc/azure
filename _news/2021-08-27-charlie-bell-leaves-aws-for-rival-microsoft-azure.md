@@ -1,25 +1,26 @@
 ---
 category: news
-title: "Telit's Comprehensive IoT Portfolio is Microsoft Azure Certified for IoT Device Catalog"
-excerpt: "Telit, a global enabler of the Internet of Things (IoT), today announced that several of its module families have been certified by Microsoft as"
-publishedDateTime: 2020-08-12T13:37:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog/article_0a2f2a9c-4e2d-573c-a5ce-abfefb58b1bd.html"
+title: "Charlie Bell Leaves AWS for Rival Microsoft Azure"
+excerpt: "Charlie Bell has left Amazon Web Services for rival Microsoft Azure. DigitalOcean is an up-and-comer in the SMB cloud sector. And JWCC is moving along."
+publishedDateTime: 2021-08-26T21:42:00Z
+originalUrl: "https://www.channelfutures.com/cloud-2/charlie-bell-leaves-aws-for-rival-microsoft-azure"
+webUrl: "https://www.channelfutures.com/cloud-2/charlie-bell-leaves-aws-for-rival-microsoft-azure"
 type: article
-quality: 29
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: channelfutures
+  domain: channelfutures.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/d1/2d13a01e-75f6-58d5-9811-61261eb5fa94/5f33ef747e9d5.image.jpg?resize=400%2C232"
-    width: 400
-    height: 232
+  - url: "https://www.channelfutures.com/files/2019/01/Goodbye.jpg"
+    width: 1000
+    height: 692
     isCached: true
 
 related:
@@ -259,20 +260,6 @@ related:
         width: 1080
         height: 568
         isCached: true
-  - title: "Charlie Bell Leaves AWS for Rival Microsoft Azure"
-    excerpt: "Charlie Bell has left Amazon Web Services for rival Microsoft Azure. DigitalOcean is an up-and-comer in the SMB cloud sector. And JWCC is moving along."
-    publishedDateTime: 2021-08-26T21:42:00Z
-    webUrl: "https://www.channelfutures.com/cloud-2/charlie-bell-leaves-aws-for-rival-microsoft-azure"
-    type: article
-    provider:
-      name: channelfutures
-      domain: channelfutures.com
-    quality: 37
-    images:
-      - url: "https://www.channelfutures.com/files/2019/01/Goodbye.jpg"
-        width: 1000
-        height: 692
-        isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."
     publishedDateTime: 2020-08-03T19:19:00Z
@@ -384,6 +371,20 @@ related:
       - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
         width: 576
         height: 288
+        isCached: true
+  - title: "Telit's Comprehensive IoT Portfolio is Microsoft Azure Certified for IoT Device Catalog"
+    excerpt: "Telit, a global enabler of the Internet of Things (IoT), today announced that several of its module families have been certified by Microsoft as"
+    publishedDateTime: 2020-08-12T13:37:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog/article_0a2f2a9c-4e2d-573c-a5ce-abfefb58b1bd.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/d1/2d13a01e-75f6-58d5-9811-61261eb5fa94/5f33ef747e9d5.image.jpg?resize=400%2C232"
+        width: 400
+        height: 232
         isCached: true
   - title: "Telit's Comprehensive IoT Portfolio is Microsoft Azure Certified for IoT Device Catalog"
     excerpt: "\"The new Azure IoT capabilities in Telit's industry-leading modules for 4G LTE, Bluetooth and Wi-Fi enables customers to rapidly integrate their devices with the Microsoft Azure ecosystem,\" said ..."
@@ -514,6 +515,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "ERQM/srKt/a26HNd8pgCooLb4A1ghQxxLNPEO/1J1BHELpc5ulSXWnOU2ol1Rb7EkS0isuJAEDQk5HZkn5pDssa05fKty4qTKn4VEl4zJotBsiLstVmIc0xlZs1DMmGu/razZ29n+NPBiOLd+VwuUB1e0rPqqp9jnYo7dg4CboiUNVlMLY/SR7cwOzhbtuYXj96hrA17BQs7GJi29L5P8EnpydFN4fz8zUrDtNnHynGaMSK9jIbtcinZ04ngA3/PUh1JPH1MImZIwhNQ/4mnkHxapUXD2rAvyvhWxPEMyaKOzaDxdoewnKw//3wTHV32u2Cv8CoJZCqXxe/Br007/A==;Vmz768O41EVX0p8G7mrxuw=="
+secured: "x0EPTr5JQcUtwWM4PLCGGeHk34RCKUjycEiV3oMtzRCvWsfoCIqHPJM22fk4PAewIfUM0ocfpwfqZ60RL82sRPSraalWk/J2ZzthsIgZyW9zetY+whbT5M0ZpVMWW+VR/k8RHfHkldQzddEzFjzJbQRZjTHfRWpKDT22GYP9i9RkbxyYHwdCoRWgu7IywTtgg77NKKcv2lPm4tVWagX0qMWD8iOWm7/nvpMvL85K9mUMNwo5ZMmBCSgGG6tFp/bycQ7g4P/Nd2HnvlkY7ftxOwx1sJAgyo4GEBNWWJ7pg88sIjCMdlfek2uWaJ9HEfEkp6i1C1/lTvOqrsCKneq61kan2jbuihsJl8KN/RmDn6o=;9OWepRL0pvdcLMrQZLOkSA=="
 ---
 

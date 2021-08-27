@@ -264,6 +264,20 @@ related:
         width: 1080
         height: 568
         isCached: true
+  - title: "Charlie Bell Leaves AWS for Rival Microsoft Azure"
+    excerpt: "Charlie Bell has left Amazon Web Services for rival Microsoft Azure. DigitalOcean is an up-and-comer in the SMB cloud sector. And JWCC is moving along."
+    publishedDateTime: 2021-08-26T21:42:00Z
+    webUrl: "https://www.channelfutures.com/cloud-2/charlie-bell-leaves-aws-for-rival-microsoft-azure"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 37
+    images:
+      - url: "https://www.channelfutures.com/files/2019/01/Goodbye.jpg"
+        width: 1000
+        height: 692
+        isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."
     publishedDateTime: 2020-08-03T19:19:00Z
