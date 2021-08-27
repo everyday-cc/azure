@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/how-cloud-computing-can-improve-5
 webUrl: "https://azure.microsoft.com/blog/how-cloud-computing-can-improve-5g-wireless-networks/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

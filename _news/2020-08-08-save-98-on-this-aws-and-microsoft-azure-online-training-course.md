@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/uk/shopping/aug-8-cloud-certification-training.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-8-cloud-certification-training.amp"
 type: article
 quality: 97
-heat: 817
+heat: 837
 published: true
 
 provider:
@@ -258,6 +258,20 @@ related:
       - url: "https://www.channelfutures.com/files/2019/01/Goodbye.jpg"
         width: 1000
         height: 692
+        isCached: true
+  - title: "Long-time AWS exec Charlie Bell joins Microsoft Azure"
+    excerpt: "One of the key people behind Amazon Web Services has left the company to work at rival Microsoft Azure. Charlie Bell spent 15 years at AWS (and 23 overall at Amazon), and was long considered a likely replacement to the cloud division's head,"
+    publishedDateTime: 2021-08-27T11:47:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/long-time-aws-exec-charlie-bell-joins-microsoft-azure/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."

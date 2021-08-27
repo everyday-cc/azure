@@ -1,25 +1,26 @@
 ---
 category: news
-title: "Telit’s Modules Certified by Microsoft Azure for IoT Device Catalog"
-excerpt: "Telit announced a collection of its module families are now certified by Microsoft as part of its Azure Certified for IoT device catalog."
-publishedDateTime: 2020-08-12T21:13:00Z
-webUrl: "https://www.embedded-computing.com/news/telit-s-modules-certified-by-microsoft-azure-for-iot-device-catalog"
+title: "Long-time AWS exec Charlie Bell joins Microsoft Azure"
+excerpt: "One of the key people behind Amazon Web Services has left the company to work at rival Microsoft Azure. Charlie Bell spent 15 years at AWS (and 23 overall at Amazon), and was long considered a likely replacement to the cloud division's head,"
+publishedDateTime: 2021-08-27T11:47:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/long-time-aws-exec-charlie-bell-joins-microsoft-azure/"
+webUrl: "https://www.datacenterdynamics.com/en/news/long-time-aws-exec-charlie-bell-joins-microsoft-azure/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Embedded Computing Design
-  domain: embedded-computing.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
 
 images:
-  - url: "http://share.opsy.st/5f3459587a6d9-19b62c4b-54c0-4648-9572-9c9e39e319b8_786a7002-65d7-4ec7-8b7e-4f3ea869f726_productImage.png"
-    width: 687
-    height: 473
+  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -217,6 +218,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Telit’s Modules Certified by Microsoft Azure for IoT Device Catalog"
+    excerpt: "Telit announced a collection of its module families are now certified by Microsoft as part of its Azure Certified for IoT device catalog."
+    publishedDateTime: 2020-08-12T21:13:00Z
+    webUrl: "https://www.embedded-computing.com/news/telit-s-modules-certified-by-microsoft-azure-for-iot-device-catalog"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 37
+    images:
+      - url: "http://share.opsy.st/5f3459587a6d9-19b62c4b-54c0-4648-9572-9c9e39e319b8_786a7002-65d7-4ec7-8b7e-4f3ea869f726_productImage.png"
+        width: 687
+        height: 473
+        isCached: true
   - title: "Microsoft's Azure revenue quietly passes AWS and Google Cloud, again"
     excerpt: "With all the quarterly earnings reported and accounted for, it appears Microsoft's Azure cloud revenue has once again outperformed AWS and Google Cloud combined. Despite the simulated perception of Amazon's AWS goliath like stature,"
     publishedDateTime: 2021-05-05T18:14:00Z
@@ -258,20 +273,6 @@ related:
       - url: "https://www.channelfutures.com/files/2019/01/Goodbye.jpg"
         width: 1000
         height: 692
-        isCached: true
-  - title: "Long-time AWS exec Charlie Bell joins Microsoft Azure"
-    excerpt: "One of the key people behind Amazon Web Services has left the company to work at rival Microsoft Azure. Charlie Bell spent 15 years at AWS (and 23 overall at Amazon), and was long considered a likely replacement to the cloud division's head,"
-    publishedDateTime: 2021-08-27T11:47:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/long-time-aws-exec-charlie-bell-joins-microsoft-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."
@@ -528,6 +529,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "s2wbC1zY6B4SPARgtuysjIp3tdE0Jlh92HMNx8HT+fTqe1j5iPjV15OnT8FOZOaOiNV3yCcW0LLF+pwEyX5vCMz+vx5UomcM0Nf7LWVFgm+AONunkFYlblBs4bU+tx0/+BZCE6KGkV9ItrGyUckKe1JW+bux1M3aYYnhOUCtYgQaaKH+xND3vmpi9TcqgUpUSnaDAkWe2kaDjqpmgGDyTto+0dgTGo/Sr2i53lF/+HXkDd1kpArwwe3agE3WKDCOD2bRiHFBd+/klqAQUc+s40C3Wq3HfwcMZo4YTDFw9f2Jiva1tBNqCejD/1UbjwRJNGPDsq9oCHod28LGtzCfOkqBxvbvRX7Psfu8+Jw5+EpazpyxRwq4tiLXLbkO3aBhtf2YlKZCS4HxRdaEj2a4u4bF6XR/DlRZ6vAzRhCpWJDZzRPeoy/yPigFbXKYcnYsP7fBaxKP987S6WLOCNWNcKc5na+WfVu5AZ9Gu8IwatjbQNP0LN1YvRwHJC6Tk70iIcfwjPwf5Xx5dtkoe6ZHJA==;LHC/7dLw3H8D2VgtHraRZQ=="
+secured: "Ax3P4lXYJW6OglJa0/lCMqnHaXdmTSeqYE3Tx/AJakdmq4oN+zmxHJ2Au+aV6o/+gAukUf2xJRPhFDv7bbI0ijtf478H16vvo01LKi+ngnE81e7cmTY9AH2PMjTubfeHWej56vdUocJZa8g+fk/MYpq7mB/4DJoxI6b0RfW20QBtXJcki3ClEu7WVkV/c6hYYYyYWn+17zzjUYauWP6gtS8XGcOF9vbEnMIOiUVa7P0BB18E9BbNIEyKwkdkeBGN+2KD1+TEMXKBELfb9qxyMVz9WQLHQsG43zcayAL/hSHi12JvrHnV19Cv7Tildz+u+WFgoERUPFlkZSVF5ym18Cv7BsD4zgYvjY8oH6zIQGk=;ALbU0y/LDrbjYcPNXTy6zA=="
 ---
 
