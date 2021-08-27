@@ -8,7 +8,7 @@ length: PT40M
 ratings:
   count: 6180
   average: 4.72233
-heat: 53
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "mOoQSMWFzLsBNQvmYw2gZDL3xTyWP1dLkqZjRhqHZPcVrcaev58XBTDz+wM9yU9rWP2cMWnKMDfvnW2aKcFR8S0B+F3JemFUU7NXSrdgCsA++loNsAvmTTsiWmsHz5XNVFPmRNtYs+Zqf0uGS0lsiTUkT8tTO/JJ0TCB7B2aKrIlEkcIND4A7t78cyQHboOjKz66MMnJYHX+OGebWr2TXI5thjXZ8z3U4furOs19R+oQxpFdLP6k8HzPghtxn8p2y6euCw8SK2qsSaNxl5ZtKaRpCJFA+qFEnnwkEUZBlndk0mrsZOUTFZcjBOzO9sae7c2fu6FK/2CDwX6JvXPjGDFMHf1ZhBj2S9V0zqS8dUPLXANmRzqINWBcJpdQVuytOluILAB0xGfjWgxxm2071Fyyfpqts67CnUpSv2fBtPA=;C2pKKgCXWbMbJkkJjvGIrA=="
+secured: "CFx6/PfuhBfR31p7kRmPQAaLXodAYfyRMMReZCMYwP3J1zMGZfWmZAp2MyYYtOmuiG0VD9skF4jLMf9exYPj1ZMAzPlsMb2eoPijf6QKkpV8Z6jcWk7XIz/7aXZOp7LdtURSe0/FamKAByb59y4oe8mzjMr2q9AcXz8DNjGUbdW2z91/PRzo79TlikeEX0ludK9czWhBmON0o2I7AeBhRD9vVGCQ6jCKpAgGTVavLDN6Z5JtQFsOc4Ijc/Fvw3NfSel92YBmzyIpblCnKUqKjQDP0uwHafQx3O7ZINfWhrIj4W2LbisyMugtPeMHG6AGZjvywekHfm0Gr1q9DJhOyJQoazEh9Q52r3EMChEGixOhf/blWgx0UZZTS+svNGI2ERmM5+dLb7ZwMZ9FGPMdgWqhaNEj+qL5IDEjEHiPo6E=;IfMA5qYTIB6LpOSCfj7oew=="
 ---
 

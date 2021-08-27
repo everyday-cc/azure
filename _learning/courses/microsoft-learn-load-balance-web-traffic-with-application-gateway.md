@@ -8,7 +8,7 @@ length: PT1H32M
 ratings:
   count: 3921
   average: 4.6508546
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "u9ugZRUD/n9j3VZNpbqvs4maYP3/7Lg44wn+yR3YLYetMo8l1NFq2aGHMLy8e/j8qO8zc3bAyMMCBla+RDP5YIw88ksbQ7UKgt3ZGqZ+iSwcUeiWs/WlivX3qDHhuaG8uME+z9hUcpM1QHXs8M3wv6ue+DagHVNNlgvUB23neKIHZTTi9w10JrUX/H1ZR3iri/3ujsjSN/WLdhHJ2Tjer71n59jPrgZdKcrjfSbo4KGNFj5+8/FzvGntO54190hg+GvxEg4tW5lXvjHJ4oIihtZF3DzQcMM61f/lOsHs9ehAXsN7gs9KHvNpA5D9QQbhN7YNOX4Qdxep0nDg6x1b+V17O4f89oNlwKA/CRlbVp2Kg3VIL2QhX7xnUG2eDG7VUnnWeWq0Nr7G6OKvAIkDBKmAxUagMFCRh/gv8QE1YkE=;agmCWbUk3eIVlY0+6qHmeg=="
+secured: "tDdhP3Zq1ElG5JV07uB7Qvx0DCx6slbAPJTRxX9RVkbTGlJ0dpMr5KG+V9HxQ2a2Ssp3NMjBTOdyy4lS/ZrYqkCWfVBibRtR+/El1w8aw3EDWAZepVpe6eQl2TO17gF8yc4AsoRCO9F5aof0kD2XQCBnPPbE6GH2pD98R/xavi+CiQ8YOQjUbL1ChulF4bMrq0ygaAjapJ1qu8phn5i5eVaS2RfFzt7ySccvbgazokFFadsB/QabeuhyCby8Hz4Yci5Lvo2ZivwPq0WVzufv/fraqPhsy50lnZh0yrrBfDMWzq/ZaDVtYc9HO8DPnv8XKsc7zgAWgHD1MpNWUNDMvBlBvoeTKQzTkH0umHCZQ9iuvkcU0sID+IK8FdMEnzR9XHLjvMjAiFvJf+vQPCTJxJvLuuMLrTt65Q3JNp/MKjA=;8p5pdaDAHlO3iJ7Q4BtOEQ=="
 ---
 

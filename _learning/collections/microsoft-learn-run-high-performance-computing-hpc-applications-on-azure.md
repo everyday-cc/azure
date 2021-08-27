@@ -4,7 +4,7 @@ excerpt: "Azure HPC is a purpose-built cloud capability for HPC & AI workload, u
 type: collection
 price: Free
 length: PT10H32M
-heat: 60
+heat: 63
 
 provider:
   name: Microsoft Learn
