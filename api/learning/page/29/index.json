@@ -4,6 +4,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-5g-tech-azure-cloud.md",
+      "title": "Enterprise 5G technologies for Azure Cloud Services",
+      "excerpt": "We introduce Enterprise 5G technologies for Azure",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-5g-tech-azure-cloud/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-5g-technologies/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/5g-technologies-for-azure-cloud-services-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-academic-program-certifications-define-requirements.md",
       "title": "Define academic and industry requirements for implementing certifications in degree programs",
       "excerpt": "Identify the main processes involved in planning to implement certifications and to define academic and industry requirements in a new program proposal document.",
@@ -347,8 +390,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "PT36M",
       "ratings": {
-        "count": 342,
-        "average": 4.7836256
+        "count": 343,
+        "average": 4.7842565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1222,40 +1265,6 @@
       "topics": [
         "Azure",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analytics-engines-graphlab.md",
-      "title": "Distributed computing on the cloud: GraphLab",
-      "excerpt": "Carnegie Mellon University's cloud developer course. GraphLab is a big data tool developed by Carnegie Mellon University to help with data mining. Learn about how GraphLab works and why it's useful.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-analytics-engines-graphlab/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-graphlab/",
-      "length": "PT1H3M",
-      "ratings": {
-        "count": 36,
-        "average": 4.888889
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
