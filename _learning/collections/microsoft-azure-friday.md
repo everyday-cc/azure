@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 67
+heat: 171
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-quantum-inspired-algorithms-and-the-azure-quantum-optimization-service-azure-friday
   - videos/microsoft-accelerate-time-to-insights-with-azure-synapse-link-for-dataverse-azure-friday
   - videos/microsoft-enable-zero-trust-with-azure-ad-pim-and-azure-lighthouse-azure-friday
   - videos/microsoft-getting-started-with-azure-static-web-apps-azure-friday
@@ -287,7 +288,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/8pcdas0zH2g/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/ggwKsoR8m08/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
