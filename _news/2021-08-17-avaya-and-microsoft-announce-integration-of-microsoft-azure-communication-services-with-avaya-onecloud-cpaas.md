@@ -170,22 +170,6 @@ related:
         width: 700
         height: 300
         isCached: true
-  - title: "TCS MasterCraft Products now available on Microsoft Azure Marketplace"
-    excerpt: "TCS’ suite of intelligent automation products will help enterprises speed-up their application modernization and accelerate their movement to the cloud."
-    publishedDateTime: 2021-08-25T03:38:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-mastercraft-products-now-available-on-microsoft-azure-marketplace-121082500406_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 57
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
     excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
     publishedDateTime: 2021-08-13T15:07:00Z
@@ -226,20 +210,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/08/spaceborne-computer-2.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Microsoft Cloud Katana Released as Open Source for Testing Cloud Security"
-    excerpt: "Microsoft announced on Thursday that it is releasing Cloud Katana as an open source code project for assessing 'security controls in the cloud and hybrid cloud environments.'"
-    publishedDateTime: 2021-08-20T22:55:00Z
-    webUrl: "https://redmondmag.com/articles/2021/08/20/microsoft-cloud-katana-open-source.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 38
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/130822REDMackieCloudSecurity2.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
     excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
@@ -378,43 +348,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
-  - title: "Walgreens uses Microsoft Azure to gain insights from dispensing data"
-    excerpt: "US pharmacy chain Walgreens has completed a project with Microsoft and Tata Consultancy Services to build a platform to gain insights from prescription dispensing data, freeing up pharmacists to spend more time helping patients."
-    publishedDateTime: 2021-08-24T11:11:00Z
-    webUrl: "https://www.technologyrecord.com/Home/walgreens-uses-microsoft-azure-to-gain-insights-from-dispensing-data-125502"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 37
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10475/img-Walgreens_pharmacy_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
-  - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
-    excerpt: "Rookout Live debugging is now available across the Azure ecosystem, to both enterprises and early-stage entrepreneurs through the Azure marketplace. SAN FRANCISCO, Aug. 23, 2021 ("
-    publishedDateTime: 2021-08-23T12:07:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-ab3b59fa00eefdca96a008d943f306de"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Telia Company to become Microsoft Azure Networking MSP partner"
-    excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
-    publishedDateTime: 2021-08-23T14:14:00Z
-    webUrl: "https://www.telecompaper.com/news/telia-company-to-become-microsoft-azure-networking-msp-partner--1394570"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -468,20 +401,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
-    publishedDateTime: 2021-08-18T14:34:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Cloud Gaming headed to Xbox Series X|S and Xbox One Consoles"
     excerpt: "Microsoft has revealed that it will be expanding its cloud gaming to its Xbox Series X|S and Xbox One consoles. The Microsoft Cloud Gaming is currently"
     publishedDateTime: 2021-08-25T10:35:00Z
@@ -528,15 +447,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
-  - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
-    excerpt: "CUPERTINO, Calif.-- August 17, 2021 --Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and ..."
-    publishedDateTime: 2021-08-23T02:02:00Z
-    webUrl: "https://www.design-reuse.com/news/50459/xpeedic-eda-cloud-platform-microsoft-azure.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 17
   - title: "MONITORAPP Brings Their AIWAF-VE to Microsoft Azure"
     excerpt: "MONITORAPP, Inc., a leading cybersecurity vendor ,is not only expanding their security solutions to the cloud, but to the market as well with listings on AWS and Microsoft Azure. MONITORAPP is bringing competitive pricing and various payment options,"
     publishedDateTime: 2021-08-25T22:21:00Z
@@ -578,6 +488,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 3
+  - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
+    excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft (News - Alert) Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+    publishedDateTime: 2021-08-18T14:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-options-announce-microsoft-cloud-productivity-gold-partner-status-/2021/08/18/9433476.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
   - title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
     excerpt: "Options, the leading provider of cloud-enabled managed services to global capital markets, announce Microsoft Cloud Productivity Gold Partner Status."
     publishedDateTime: 2021-08-18T18:34:00Z

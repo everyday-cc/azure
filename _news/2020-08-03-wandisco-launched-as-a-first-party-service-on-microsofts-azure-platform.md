@@ -259,34 +259,6 @@ related:
         width: 1080
         height: 568
         isCached: true
-  - title: "Charlie Bell Leaves AWS for Rival Microsoft Azure"
-    excerpt: "Charlie Bell has left Amazon Web Services for rival Microsoft Azure. DigitalOcean is an up-and-comer in the SMB cloud sector. And JWCC is moving along."
-    publishedDateTime: 2021-08-26T21:42:00Z
-    webUrl: "https://www.channelfutures.com/cloud-2/charlie-bell-leaves-aws-for-rival-microsoft-azure"
-    type: article
-    provider:
-      name: channelfutures
-      domain: channelfutures.com
-    quality: 37
-    images:
-      - url: "https://www.channelfutures.com/files/2019/01/Goodbye.jpg"
-        width: 1000
-        height: 692
-        isCached: true
-  - title: "Long-time AWS exec Charlie Bell joins Microsoft Azure"
-    excerpt: "One of the key people behind Amazon Web Services has left the company to work at rival Microsoft Azure. Charlie Bell spent 15 years at AWS (and 23 overall at Amazon), and was long considered a likely replacement to the cloud division's head,"
-    publishedDateTime: 2021-08-27T11:47:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/long-time-aws-exec-charlie-bell-joins-microsoft-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "SimCorp launches Dimension platform as a service on Microsoft Azure cloud"
     excerpt: "With Microsoft Azure, SimCorp has rolled out its Dimension platform for buy-side firms as a service in latest cloud technology development."
     publishedDateTime: 2020-08-12T11:57:00Z

@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Critical Cosmos Database Flaw Affected Thousands Microsoft Azure Customers"
-    excerpt: "Cloud infrastructure security company Wiz on Thursday revealed details of a now-fixed Azure Cosmos database vulnerability that could have been potentially exploited to grant any Azure user full admin access to other customers' database instances without any authorization."
-    publishedDateTime: 2021-08-27T07:50:00Z
-    webUrl: "https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html"
-    ampWebUrl: "https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 72
-    images:
-      - url: "https://thehackernews.com/images/-N2OwLBCLOmc/YSiWMSy-BYI/AAAAAAAADqM/0zxVGaFpfZwoi1vIBxCvUzAFBIoi4Fd9wCLcBGAsYHQ/s0/ms-azure-database-security.gif"
-        width: 728
-        height: 380
-        isCached: true
   - title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
     excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
     publishedDateTime: 2020-12-25T10:28:00Z
@@ -145,36 +129,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Azure vulnerability exposed data of thousands of companies, potentially for years"
-    excerpt: "A vulnerability in Microsoft Azure left the data of thousands of companies exposed to attacks. Researchers were able to gain full access to data utilizing the vulnerability."
-    publishedDateTime: 2021-08-27T11:07:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-vulnerability-exposed-data-thousands-companies-potentially-years"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-vulnerability-exposed-data-thousands-companies-potentially-years?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-vulnerability-exposed-data-thousands-companies-potentially-years?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 47
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/08/microsoft-azure-hero-4-3.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Vulnerability in Microsoft Azure Cosmos DB may have exposed customer data to hackers"
-    excerpt: "Microsoft Corp. has warned cloud customers that hackers may have potentially accessed their data via an exploitable vulnerability in its Azure cloud service. Reuters first reported the news today ..."
-    publishedDateTime: 2021-08-27T02:01:00Z
-    webUrl: "https://siliconangle.com/2021/08/26/vulnerability-microsoft-azure-cosmos-db-may-exposed-customer-data-hackers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 47
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/cosmosdb.png"
-        width: 691
-        height: 416
-        isCached: true
   - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
     excerpt: "JetStream Software Inc., an innovator in cloud-native disaster recovery (DR), today announced the availability of its disaster recovery software, JetStream DR, which will support Microsoft Azure VMware Solution."
     publishedDateTime: 2020-12-17T14:15:00Z
@@ -247,20 +201,6 @@ related:
         width: 1019
         height: 630
         isCached: true
-  - title: "Microsoft Azure flaw exposed 'thousands' of customer databases"
-    excerpt: "Microsoft has warned thousands of its Azure cloud customers that their main databases have been compromised. The impacted customers included some of the world's largest companies, according to cyber security researcher Wiz ."
-    publishedDateTime: 2021-08-27T09:28:00Z
-    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9217/microsoft-azure-flaw-exposed-thousands-of-customer-databases"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 37
-    images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Adds Azure Stack HCI Features to Catch Up with Nutanix, VMware"
     excerpt: "Microsoft has introduced a new version of its Azure Stack HCI software as it tries to make inroads into a hyperconverged infrastructure market now dominated by VMware and Nutanix. Azure Stack HCI, a solution that features Microsoft’s Hyper-V ..."
     publishedDateTime: 2020-12-17T19:49:00Z
@@ -314,20 +254,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 26
-  - title: "Thousands of Microsoft cloud customers’ databases exposed"
-    excerpt: "On Thursdaay, thousands of Microsoft’s cloud computing customers, including some of the world’s largest companies, were compromised."
-    publishedDateTime: 2021-08-27T07:50:00Z
-    webUrl: "https://techhq.com/2021/08/thousands-of-microsoft-cloud-customers-databases-exposed/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 22
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/08/063_675949746-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
     excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
     publishedDateTime: 2020-12-25T18:23:00Z

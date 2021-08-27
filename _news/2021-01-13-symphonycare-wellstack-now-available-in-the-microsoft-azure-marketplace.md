@@ -42,15 +42,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 7
-  - title: "Oneview Healthcare’s Cloud-Based Care Experience Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "“The cloud enablement of Oneview’s patient experience platform is a game-changer,” said Dr. Simon Kos, Healthcare Industry Executive, Microsoft. “It means that health organizations can deploy more quickly, with greater predictability and less ..."
-    publishedDateTime: 2021-08-26T10:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210826005559/oneview-healthcares-cloud-based-care-experience-platform-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "7lqrZYzwbdnwCJWRESkTNSwhunbikOfVBJwIcGaCfFFHEkqeOH2wtIBAU5fDA1tQXNWFZPgDKiERKCFTDMiWWqXR19x+ZTDP/OSwTtahkCrt/ii+TpFipKK1PKoLCYN6r+3KNKLbcGWhTqzQuiPthLZFHU3RK/MMCSb0ottkZQnSg7zDgxYgLdYUlBfxaziqV6LSsH4w1Faf0MLK0kuwF/tc/zB/FGCNQ0DqwX0nSChzV+xx+/xeRn+DB7S7mOCKI1VZRGRDdThLhjqYrGLK3vc6jyCgF2xqdVIM9+qiD18OtXhLgR4PYvFxyNIoLO1XrnJPZKXayG6HnX3w0cQv6t1u95jbx03E9yH1NaKmGlI=;XIoKfc5BNpEx31+PkaFvzw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
 type: article
 quality: 97
-heat: 1157
+heat: 1137
 published: true
 
 provider:
@@ -283,20 +283,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Microsoft Azure Front Door Gets a Security Upgrade"
-    excerpt: "New SKUs in Standard and Premium preview beef up the security of the content delivery network platform. Microsoft today is launching Azure Front Door Standard and Premium in preview with two new SKUs that add threat detection,"
-    publishedDateTime: 2021-02-18T19:57:00Z
-    webUrl: "https://www.darkreading.com/cloud/microsoft-azure-front-door-gets-a-security-upgrade/d/d-id/1340197"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://img.deusm.com/darkreading/Cartoon/Feb2021_DR_toon_sm.jpg"
-        width: 800
-        height: 412
         isCached: true
   - title: "Microsoft to establish its first datacenter region in Sweden"
     excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365, and Power Platform to follow."
