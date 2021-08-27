@@ -2285,6 +2285,15 @@ related:
       name: Advanced Television
       domain: advanced-television.com
     quality: 17
+  - title: "Microsoft Azure Cloud Vulnerability Exposed Thousands of Databases"
+    excerpt: "Microsoft's Azure cloud platform exposed the database keys of 3,300 customers, including Fortune 500 enterprises, that had used a data-science feature available on the platform since 2019, cloud security firm Wiz said this week."
+    publishedDateTime: 2021-08-27T20:30:00Z
+    webUrl: "https://www.darkreading.com/cloud/microsoft-azure-cloud-vulnerability-exposed-thousands-of-databases"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 17
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
     publishedDateTime: 2021-03-12T13:05:00Z

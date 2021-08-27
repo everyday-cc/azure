@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "“Worst cloud vulnerability you can imagine” discovered in Microsoft Azure"
+    excerpt: "Cloud security vendor Wiz announced yesterday that it found a vulnerability in Microsoft Azure's, Cosmos DB, that granted read/write access for every data"
+    publishedDateTime: 2021-08-27T21:00:00Z
+    webUrl: "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 76
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cosmos-db-logo-760x344.png"
+        width: 760
+        height: 344
+        isCached: true
   - title: "Microsoft warns of vulnerability in central database of Azure"
     excerpt: "Microsoft has warned thousands of its cloud-computing customers — including some of the world's largest companies — that intruders could have the ability to read, change or even delete their main databases."
     publishedDateTime: 2021-08-27T06:31:00Z

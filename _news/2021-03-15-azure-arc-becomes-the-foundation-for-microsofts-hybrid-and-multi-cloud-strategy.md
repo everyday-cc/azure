@@ -2275,6 +2275,15 @@ related:
       name: Advanced Television
       domain: advanced-television.com
     quality: 17
+  - title: "Microsoft Azure Cloud Vulnerability Exposed Thousands of Databases"
+    excerpt: "Microsoft's Azure cloud platform exposed the database keys of 3,300 customers, including Fortune 500 enterprises, that had used a data-science feature available on the platform since 2019, cloud security firm Wiz said this week."
+    publishedDateTime: 2021-08-27T20:30:00Z
+    webUrl: "https://www.darkreading.com/cloud/microsoft-azure-cloud-vulnerability-exposed-thousands-of-databases"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z
