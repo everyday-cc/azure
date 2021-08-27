@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-03-public-preview-identity-based-connections-in-azure-functions-with-latest-azure-sdk-triggers-and-bindings.md",
+      "title": "Public preview: Identity-based connections in Azure Functions with latest Azure SDK triggers and bindings",
+      "excerpt": "Azure functions can now connect using an identity instead of a secret. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-identitybased-connections-in-azure-functions-with-latest-azure-sdk-triggers-and-bindings/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-identitybased-connections-in-azure-functions-with-latest-azure-sdk-triggers-and-bindings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T09:00:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Identity",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-microsoft-azure-launches-new-nvidia-a100-powered-supercomputing-instances.md",
       "title": "Microsoft Azure launches new Nvidia A100-powered supercomputing instances",
       "excerpt": "Microsoft’s cloud computing service Azure has launched what it claims is the fastest public cloud supercomputer. The new service named Azure ND A100 v4 Cloud GPU instances is powered by Nvidia ...",
@@ -1130,49 +1175,6 @@
         "Azure",
         "Storage",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-azure-storage-attribute-based-access-control-abac-now-available-for-preview.md",
-      "title": "Azure Storage — Attribute-based Access Control (ABAC) now available for preview ",
-      "excerpt": "Attribute-based Access Control (ABAC) is an authorization mechanism that defines access levels based on attributes associated with security principals, resources, requests or the environment. You can now use ABAC in Azure Storage for Blobs and ADLS Gen2 by defining conditions on role-assignments based",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-storage-abac-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-storage-abac-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T09:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

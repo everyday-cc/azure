@@ -284,6 +284,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 26
+  - title: "Thousands of Microsoft cloud customers’ databases exposed"
+    excerpt: "On Thursdaay, thousands of Microsoft’s cloud computing customers, including some of the world’s largest companies, were compromised."
+    publishedDateTime: 2021-08-27T07:50:00Z
+    webUrl: "https://techhq.com/2021/08/thousands-of-microsoft-cloud-customers-databases-exposed/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 22
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/08/063_675949746-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
     excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP),"
     publishedDateTime: 2020-12-22T13:50:00Z

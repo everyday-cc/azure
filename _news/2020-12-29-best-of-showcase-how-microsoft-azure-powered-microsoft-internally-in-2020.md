@@ -272,6 +272,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 26
+  - title: "Thousands of Microsoft cloud customers’ databases exposed"
+    excerpt: "On Thursdaay, thousands of Microsoft’s cloud computing customers, including some of the world’s largest companies, were compromised."
+    publishedDateTime: 2021-08-27T07:50:00Z
+    webUrl: "https://techhq.com/2021/08/thousands-of-microsoft-cloud-customers-databases-exposed/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 22
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/08/063_675949746-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
     excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
     publishedDateTime: 2020-12-25T18:23:00Z

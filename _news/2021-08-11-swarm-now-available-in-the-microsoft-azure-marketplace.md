@@ -94,6 +94,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft warns of vulnerability in central database of Azure"
+    excerpt: "Microsoft has warned thousands of its cloud-computing customers — including some of the world's largest companies — that intruders could have the ability to read, change or even delete their main databases."
+    publishedDateTime: 2021-08-27T06:31:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-warns-of-vulnerability-in-central-database-of-azure/articleshow/85680274.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/microsoft-warns-of-vulnerability-in-central-database-of-azure/amp_articleshow/85680274.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/microsoft-warns-of-vulnerability-in-central-database-of-azure/amp_articleshow/85680274.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-48928,msid-85680229/microsoft-logo.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
     excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
     publishedDateTime: 2020-12-07T16:04:00Z

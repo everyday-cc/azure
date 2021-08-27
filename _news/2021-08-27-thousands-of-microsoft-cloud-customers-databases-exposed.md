@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
-excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
-publishedDateTime: 2020-12-14T09:04:00Z
-originalUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-webUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-ampWebUrl: "https://amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+title: "Thousands of Microsoft cloud customers’ databases exposed"
+excerpt: "On Thursdaay, thousands of Microsoft’s cloud computing customers, including some of the world’s largest companies, were compromised."
+publishedDateTime: 2021-08-27T07:50:00Z
+originalUrl: "https://techhq.com/2021/08/thousands-of-microsoft-cloud-customers-databases-exposed/"
+webUrl: "https://techhq.com/2021/08/thousands-of-microsoft-cloud-customers-databases-exposed/"
 type: article
-quality: 40
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: ITWeb
-  domain: itweb.co.za
+  name: TechHQ
+  domain: techhq.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
-    width: 400
-    height: 328
+  - url: "https://cdn.techhq.com/wp-content/uploads/2021/08/063_675949746-scaled.jpg"
+    width: 2560
+    height: 1707
     isCached: true
 
 related:
@@ -159,6 +157,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
+    excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
+    publishedDateTime: 2020-12-14T09:04:00Z
+    webUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+    ampWebUrl: "https://amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 40
+    images:
+      - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
+        width: 400
+        height: 328
+        isCached: true
   - title: "ACTS Secures the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "ACTS Secures the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization By CIOReview - ACTS secures the Windows Server, and SQL Server Migration to Microsoft Azure advanced specialization for its"
     publishedDateTime: 2020-12-23T13:00:00Z
@@ -268,20 +282,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 26
-  - title: "Thousands of Microsoft cloud customers’ databases exposed"
-    excerpt: "On Thursdaay, thousands of Microsoft’s cloud computing customers, including some of the world’s largest companies, were compromised."
-    publishedDateTime: 2021-08-27T07:50:00Z
-    webUrl: "https://techhq.com/2021/08/thousands-of-microsoft-cloud-customers-databases-exposed/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 22
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/08/063_675949746-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
     excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
     publishedDateTime: 2020-12-25T18:23:00Z
@@ -317,6 +317,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "Q6kMH7z0zclz+nmkY+lVdMRkJaJ5G5aluibsXZbxPNrlCed7d7lbbVFLj+zm08TuYNNJs3XzreeJYc+3hcfYqil2fuK0n1IX2+UyfQyfO0zcMS9JbF5Xs3JCMZlS3qOuPtQYZVLYhhD4rpvpR3aHQbEKL8vvYaIemflwbzK8F0mngJ2Y3Gz21DgKnWPJSP8FmyyIRycy7SYH04BT2RWxSu0LTiy+/F2l554IaKwBHb9f1o4wK5s8FRFFjtwkYIAVIscsnGViVBxQfEgqZTPzAARTig36KCcFTV+ze63Yr5Ylvw6NadgGMlr8rgFT5CRIqla6TKHslTsysHLoglgEN8vGLZlSO4t9sKC/W2tSIl0=;r0zBT+BtU5h6VKwujelLqA=="
+secured: "eNY094fD/tJ/lZpv4PPqJaszij1qyRfq6xi/ZycwyFzQNmeMDKPkX4dBR8DohVwbW8LsnAvG2PHi8PUI9x6dmtjTt0YYhWSAFV+AvFjBKD7uNsOZY5o61FMcgN3O8T2IA4isLJTOhBFh3vIM/M0fW/dZKtcQrVtQuEquDPENWuUdam6P5aEM8AsIKK+1ynm/YfvOdol7d0BO16YNHwXhP407IzCQp5l3+wmDqwH/4pHbHe+nNhJVSlCWijsz4JSBBRzsaAWrL7ZeNWuQuldr0Ee3Vnu8pJ+syshUM5Lf0HnvRn1jfisLfmVoI8TV+7AO2/L60Pa5V3pCmrOMXSlRObipkP7PtZaY3AoM5HfuIJA=;gqGg1gwOWe6Dvsr2FFQA8A=="
 ---
 
