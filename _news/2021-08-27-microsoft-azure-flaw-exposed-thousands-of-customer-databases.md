@@ -1,27 +1,26 @@
 ---
 category: news
-title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
-excerpt: "JetStream Software Inc., an innovator in cloud-native disaster recovery (DR), today announced the availability of its disaster recovery software, JetStream DR, which will support Microsoft Azure VMware Solution."
-publishedDateTime: 2020-12-17T14:15:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-e56d01bc83d745c1b5917f79d5045f53"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-e56d01bc83d745c1b5917f79d5045f53"
+title: "Microsoft Azure flaw exposed 'thousands' of customer databases"
+excerpt: "Microsoft has warned thousands of its Azure cloud customers that their main databases have been compromised. The impacted customers included some of the world's largest companies, according to cyber security researcher Wiz ."
+publishedDateTime: 2021-08-27T09:28:00Z
+originalUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9217/microsoft-azure-flaw-exposed-thousands-of-customer-databases"
+webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9217/microsoft-azure-flaw-exposed-thousands-of-customer-databases"
 type: article
-quality: 46
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - Azure
-  - Storage
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -160,6 +159,20 @@ related:
         width: 691
         height: 416
         isCached: true
+  - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
+    excerpt: "JetStream Software Inc., an innovator in cloud-native disaster recovery (DR), today announced the availability of its disaster recovery software, JetStream DR, which will support Microsoft Azure VMware Solution."
+    publishedDateTime: 2020-12-17T14:15:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-e56d01bc83d745c1b5917f79d5045f53"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
     excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
     publishedDateTime: 2020-12-14T09:04:00Z
@@ -217,20 +230,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/d/d4/dd485450-49a9-11eb-8289-0bae536421e9/5feadecb7b998.image.png?resize=1019%2C630"
         width: 1019
         height: 630
-        isCached: true
-  - title: "Microsoft Azure flaw exposed 'thousands' of customer databases"
-    excerpt: "Microsoft has warned thousands of its Azure cloud customers that their main databases have been compromised. The impacted customers included some of the world's largest companies, according to cyber security researcher Wiz ."
-    publishedDateTime: 2021-08-27T09:28:00Z
-    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9217/microsoft-azure-flaw-exposed-thousands-of-customer-databases"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 37
-    images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft Adds Azure Stack HCI Features to Catch Up with Nutanix, VMware"
     excerpt: "Microsoft has introduced a new version of its Azure Stack HCI software as it tries to make inroads into a hyperconverged infrastructure market now dominated by VMware and Nutanix. Azure Stack HCI, a solution that features Microsoft’s Hyper-V ..."
@@ -348,6 +347,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "/Sc3hyOs0+xhyXuZ0vLZpkg9PRrdL5mJRoJGb8zKQlPSTAWsRLP3pK/Jmdc10l+aP12ti71WXSCn27LxOOUigJypJZnGWtVMCu5TqORnaaCwSBYAOBzQqeQCAkQ2sZMtf98+BaRL1de0PaGR2n2iEIAAb6fYepLz+cOMH7wCE7CZlI8yalu8RGSR0jjexGzmc8WMvIJXMRWWvh8Nz5WguFvlE9hRJROIAdmFxjO8S7L4GfnYHIouMayfS7MpXUJRKkMFHL8VVm+ifbSVzuWxR0rIxZH3cUgPb+ZcNUd0lho4WfeuNGdthA+QbaryTmFjacvhuU1wWIOFaNjicWOQpKd957LYGAnfHnVnX1iw7z8=;IkOGrJbZ+jbdZ0kAO+shtQ=="
+secured: "sXb33+s8oXqdPzFbyQRYQk7afsmBku7VAfTukBP13Co6nShZvztsQ658WMboXXNb3pncpxbbvFALNBLGDia//LwAwQDwRso/4Hsc/Tj0urqbWb9is8SuUDvKzi/ZGA4fvC7wPPCqV0XAPporNUOFKdPkEppkqBcCQuihkFz3a66e/r5wDBhF1pkfVKNWE5qE2CBvQtejr6BlvNPO7S0Fz1oZHhQ6JYOFwVzEmjTdJAE2pPfa1alrGWlFVQqJV07vIWKKAh6otBuzWWZYrpo+Aib/arCLSvAoim/AnSnMySO9Bi0SBjWR+Izm6Axavcawddcxx/+mekZ0GXOpMt+bqxUugB9iC8ZzmfG+ZiyEZKI=;xuJViKDkkD/tZwnZo1Zr4w=="
 ---
 

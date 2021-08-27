@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Critical Cosmos Database Flaw Affected Thousands Microsoft Azure Customers"
+    excerpt: "Cloud infrastructure security company Wiz on Thursday revealed details of a now-fixed Azure Cosmos database vulnerability that could have been potentially exploited to grant any Azure user full admin access to other customers' database instances without any authorization."
+    publishedDateTime: 2021-08-27T07:50:00Z
+    webUrl: "https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html"
+    ampWebUrl: "https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html?amp=1"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 72
+    images:
+      - url: "https://thehackernews.com/images/-N2OwLBCLOmc/YSiWMSy-BYI/AAAAAAAADqM/0zxVGaFpfZwoi1vIBxCvUzAFBIoi4Fd9wCLcBGAsYHQ/s0/ms-azure-database-security.gif"
+        width: 728
+        height: 380
+        isCached: true
   - title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
     excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
     publishedDateTime: 2020-12-25T10:28:00Z
@@ -215,6 +231,20 @@ related:
         width: 1019
         height: 630
         isCached: true
+  - title: "Microsoft Azure flaw exposed 'thousands' of customer databases"
+    excerpt: "Microsoft has warned thousands of its Azure cloud customers that their main databases have been compromised. The impacted customers included some of the world's largest companies, according to cyber security researcher Wiz ."
+    publishedDateTime: 2021-08-27T09:28:00Z
+    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9217/microsoft-azure-flaw-exposed-thousands-of-customer-databases"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 37
+    images:
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Adds Azure Stack HCI Features to Catch Up with Nutanix, VMware"
     excerpt: "Microsoft has introduced a new version of its Azure Stack HCI software as it tries to make inroads into a hyperconverged infrastructure market now dominated by VMware and Nutanix. Azure Stack HCI, a solution that features Microsoft’s Hyper-V ..."
     publishedDateTime: 2020-12-17T19:49:00Z
@@ -317,6 +347,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "eNY094fD/tJ/lZpv4PPqJaszij1qyRfq6xi/ZycwyFzQNmeMDKPkX4dBR8DohVwbW8LsnAvG2PHi8PUI9x6dmtjTt0YYhWSAFV+AvFjBKD7uNsOZY5o61FMcgN3O8T2IA4isLJTOhBFh3vIM/M0fW/dZKtcQrVtQuEquDPENWuUdam6P5aEM8AsIKK+1ynm/YfvOdol7d0BO16YNHwXhP407IzCQp5l3+wmDqwH/4pHbHe+nNhJVSlCWijsz4JSBBRzsaAWrL7ZeNWuQuldr0Ee3Vnu8pJ+syshUM5Lf0HnvRn1jfisLfmVoI8TV+7AO2/L60Pa5V3pCmrOMXSlRObipkP7PtZaY3AoM5HfuIJA=;gqGg1gwOWe6Dvsr2FFQA8A=="
+secured: "UECpyVpydebC9XFN2WCKb+n/X+FaXWotxtAwmkFKqDsRPklMigLN3wp7Cft5HfGekfvxfnHIhIP2akJaAG28YHS3S7zr3VlKIpu9dYxLixkQ0unyVjsuKxaKyRYx8IElG28NvSuKweVqfyRzru5Iq0IXXD+kea2cXKphwQKctvVSz3MxZWNZKaXi4nyNwPRvg8zYfPYCI/IPObas1dQtwudST9dNo6CdCkWdaUlh3LRd0SHQdmU/OTnzeFDS7yVI2JVHDM6iztzM7c55wz84nExG3ZJc4VpTCTSADCMMQA9+ZIWb5eAFu8nPPhpXoeV24NEIOSsJE8EurUO74THZTWz3UCel1ybPRpAQSXcXqfKS6HeY6xn1F0s8YFFThCdmOE46WsVG7RvyiheTCUrU5TeKXVVxjFzbDyKpRvfbs8peIZlDPyqFvfCoBSOIVVz7nBfEg6YlFLi371qitPYhcsym8CZpGr5O1XA8kZ9d+EHCg1udt2raVMrxuFnNbIAMYsHNvX92vCI23g93WaeF9A==;JpUWItWBzDQ7vDcCWISTuw=="
 ---
 

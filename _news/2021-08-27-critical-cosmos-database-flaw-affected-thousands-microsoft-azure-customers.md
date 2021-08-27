@@ -1,27 +1,29 @@
 ---
 category: news
-title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
-excerpt: "JetStream Software Inc., an innovator in cloud-native disaster recovery (DR), today announced the availability of its disaster recovery software, JetStream DR, which will support Microsoft Azure VMware Solution."
-publishedDateTime: 2020-12-17T14:15:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-e56d01bc83d745c1b5917f79d5045f53"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-e56d01bc83d745c1b5917f79d5045f53"
+title: "Critical Cosmos Database Flaw Affected Thousands Microsoft Azure Customers"
+excerpt: "Cloud infrastructure security company Wiz on Thursday revealed details of a now-fixed Azure Cosmos database vulnerability that could have been potentially exploited to grant any Azure user full admin access to other customers' database instances without any authorization."
+publishedDateTime: 2021-08-27T07:50:00Z
+originalUrl: "https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html"
+webUrl: "https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html"
+ampWebUrl: "https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html?amp=1"
+cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html?amp=1"
 type: article
-quality: 46
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Hacker News
+  domain: thehackernews.com
 
 topics:
   - Azure
-  - Storage
+  - Databases
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://thehackernews.com/images/-N2OwLBCLOmc/YSiWMSy-BYI/AAAAAAAADqM/0zxVGaFpfZwoi1vIBxCvUzAFBIoi4Fd9wCLcBGAsYHQ/s0/ms-azure-database-security.gif"
+    width: 728
+    height: 380
     isCached: true
 
 related:
@@ -56,22 +58,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Critical Cosmos Database Flaw Affected Thousands Microsoft Azure Customers"
-    excerpt: "Cloud infrastructure security company Wiz on Thursday revealed details of a now-fixed Azure Cosmos database vulnerability that could have been potentially exploited to grant any Azure user full admin access to other customers' database instances without any authorization."
-    publishedDateTime: 2021-08-27T07:50:00Z
-    webUrl: "https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html"
-    ampWebUrl: "https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 72
-    images:
-      - url: "https://thehackernews.com/images/-N2OwLBCLOmc/YSiWMSy-BYI/AAAAAAAADqM/0zxVGaFpfZwoi1vIBxCvUzAFBIoi4Fd9wCLcBGAsYHQ/s0/ms-azure-database-security.gif"
-        width: 728
-        height: 380
         isCached: true
   - title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
     excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
@@ -159,6 +145,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/cosmosdb.png"
         width: 691
         height: 416
+        isCached: true
+  - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
+    excerpt: "JetStream Software Inc., an innovator in cloud-native disaster recovery (DR), today announced the availability of its disaster recovery software, JetStream DR, which will support Microsoft Azure VMware Solution."
+    publishedDateTime: 2020-12-17T14:15:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-e56d01bc83d745c1b5917f79d5045f53"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
     excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
@@ -348,6 +348,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "/Sc3hyOs0+xhyXuZ0vLZpkg9PRrdL5mJRoJGb8zKQlPSTAWsRLP3pK/Jmdc10l+aP12ti71WXSCn27LxOOUigJypJZnGWtVMCu5TqORnaaCwSBYAOBzQqeQCAkQ2sZMtf98+BaRL1de0PaGR2n2iEIAAb6fYepLz+cOMH7wCE7CZlI8yalu8RGSR0jjexGzmc8WMvIJXMRWWvh8Nz5WguFvlE9hRJROIAdmFxjO8S7L4GfnYHIouMayfS7MpXUJRKkMFHL8VVm+ifbSVzuWxR0rIxZH3cUgPb+ZcNUd0lho4WfeuNGdthA+QbaryTmFjacvhuU1wWIOFaNjicWOQpKd957LYGAnfHnVnX1iw7z8=;IkOGrJbZ+jbdZ0kAO+shtQ=="
+secured: "7pG5mN4suT0jS6HYEBJVQZG/PhSyT+wyyev6ESONK9VQnWsYK1RvNPP6d/K0Mv927QRGOWF4LYbaH5vve4pTra7Z7lNywQrE/GzI85S/Swsx48cwZV7lxxI2BmY1hO/+s+Gh+MY7wcQXQ9l1zmDLl+3TaxJkFy3SuuFMsj98Ef71VF6APNhIpxF4D3OjnOir0tBtj3+mT/vrK4LhHR3jswVLUKpcWp9knyBlVuFtu/e6nbw68NwwtgTAMcm5F/0EYDxasPdHsU2fS8SSzS0Igqk4kNVTECkx+DsmaWPXDcpkUhnSGYfJfEcIlS/9RMLdHX4yiFp4C7A5kn9NWs0Fa4dN8G3t0xlwPzp0o8OTwwA=;0LEJ7D+4h+7vUrgmIbXzSg=="
 ---
 

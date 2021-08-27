@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Critical Cosmos Database Flaw Affected Thousands Microsoft Azure Customers"
+    excerpt: "Cloud infrastructure security company Wiz on Thursday revealed details of a now-fixed Azure Cosmos database vulnerability that could have been potentially exploited to grant any Azure user full admin access to other customers' database instances without any authorization."
+    publishedDateTime: 2021-08-27T07:50:00Z
+    webUrl: "https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html"
+    ampWebUrl: "https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html?amp=1"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 72
+    images:
+      - url: "https://thehackernews.com/images/-N2OwLBCLOmc/YSiWMSy-BYI/AAAAAAAADqM/0zxVGaFpfZwoi1vIBxCvUzAFBIoi4Fd9wCLcBGAsYHQ/s0/ms-azure-database-security.gif"
+        width: 728
+        height: 380
+        isCached: true
   - title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
     excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
     publishedDateTime: 2020-12-25T10:28:00Z
@@ -214,6 +230,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/d/d4/dd485450-49a9-11eb-8289-0bae536421e9/5feadecb7b998.image.png?resize=1019%2C630"
         width: 1019
         height: 630
+        isCached: true
+  - title: "Microsoft Azure flaw exposed 'thousands' of customer databases"
+    excerpt: "Microsoft has warned thousands of its Azure cloud customers that their main databases have been compromised. The impacted customers included some of the world's largest companies, according to cyber security researcher Wiz ."
+    publishedDateTime: 2021-08-27T09:28:00Z
+    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9217/microsoft-azure-flaw-exposed-thousands-of-customer-databases"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 37
+    images:
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/03/shutterstock_1621610047.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Best of Showcase: How Microsoft Azure powered Microsoft internally in 2020"
     excerpt: "Microsoft’s shift to working remotely in 2020 opened the door for the company to double down on using Microsoft Azure to drive its internal transformation. Well past moving its workloads to the cloud,"
