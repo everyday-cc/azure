@@ -3,19 +3,25 @@ category: news
 title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
 excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
 publishedDateTime: 2021-08-18T14:34:00Z
-originalUrl: "https://www.financialbuzz.com/options-announce-microsoft-cloud-productivity-gold-partner-status/"
-webUrl: "https://www.financialbuzz.com/options-announce-microsoft-cloud-productivity-gold-partner-status/"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
+webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -609,6 +615,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "fPktwwjoFXhz8n4l7w7YcOSf0arBLT/ljvKj1Lq1fTzh3JJYECzGgN5T/zrxhcRclDCSTteHuIPCaiHcuBqq6JcBzH8Txp2n5Dcrb+tNet4jYVx6gcRdAVjM+0rQ2FJHZrenECFSSy/kx4hNu/cmqwsEtDlQawvwD7uphIH/z19Wl759p0F7KOgDGjo9IRurpZe+ELh+tk/yMkdon7eyubdYkxtLAS/Uqsc0ntzI8OaPGV93zTtGLny2mjwbVXr1EVpQc9pCfvVVmIADQBf3yOZWYeg1zfrzr8BjaJeFx+wTkyZS0MDZZ/pr5joUFrj2wHjiQqLEpSM9QCMWwYCnbOR1pQqPZnmpey3Z3akWhCQ=;w9CufrUdK+kOfGKAPXY17w=="
+secured: "lJ82TS8yacX/UN6+oZ/eqI8UZBYfLF2W0XMpDeU+apOaXay2W0Z1xf+WD4khXM39e/hH4uey2/xNNadFsTPKSrZASqlchqf0idDHfNnwSAaN20CYPpQlPGhBfqhxJaUyvSo8wOLtdmBqYLXUQLNe0K6qXv2MsqylHUv3H7PJsuh0CaPx4Bchc1HE0I7SY159FY3BEL0o2Jphw/rYaHveahgr8KghF5mdKbh8Io6MF1fWa1VQNQrtOjCK6pm3nSeSojLwdjmhXPPg1MIiLPNs6f7kuZN66F+WzqkBC8dBSLY19HOg5Cd3+SmOGdchcOZTvfkSyDFdI+kjnrYtxvo5edlye0q9cfgl3P3+fhsuEz8=;tb5h1rPLMPrTDL1sHSEymQ=="
 ---
 

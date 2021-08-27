@@ -149,6 +149,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Azure vulnerability exposed data of thousands of companies, potentially for years"
+    excerpt: "A vulnerability in Microsoft Azure left the data of thousands of companies exposed to attacks. Researchers were able to gain full access to data utilizing the vulnerability."
+    publishedDateTime: 2021-08-27T11:07:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-vulnerability-exposed-data-thousands-companies-potentially-years"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-vulnerability-exposed-data-thousands-companies-potentially-years?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-vulnerability-exposed-data-thousands-companies-potentially-years?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 47
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/08/microsoft-azure-hero-4-3.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Vulnerability in Microsoft Azure Cosmos DB may have exposed customer data to hackers"
     excerpt: "Microsoft Corp. has warned cloud customers that hackers may have potentially accessed their data via an exploitable vulnerability in its Azure cloud service. Reuters first reported the news today ..."
     publishedDateTime: 2021-08-27T02:01:00Z

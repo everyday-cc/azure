@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/windows-11-public-previe
 webUrl: "https://azure.microsoft.com/en-us/updates/windows-11-public-preview-is-now-available-on-azure-virtual-desktop/"
 type: article
 quality: 67
-heat: 107
+heat: 115
 published: true
 
 provider:
