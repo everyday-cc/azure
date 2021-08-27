@@ -4,6 +4,41 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-control-azure-services-with-cli.md",
+      "title": "Control Azure services with the CLI",
+      "excerpt": "Learn the steps to install the Azure CLI locally, create a website, and manage Azure resources using the CLI.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-control-azure-services-with-cli/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 6329,
+        "average": 4.77374
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365.md",
       "title": "Describe the identity and access management capabilities of Microsoft 365",
       "excerpt": "Describe the identity and access management capabilities of Microsoft 365",
@@ -11,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 565,
-        "average": 4.80708
+        "count": 566,
+        "average": 4.8056536
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -91,8 +126,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
       "length": "PT30M",
       "ratings": {
-        "count": 466,
-        "average": 4.839056
+        "count": 467,
+        "average": 4.8394003
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -214,8 +249,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 6979,
-        "average": 4.721307
+        "count": 6980,
+        "average": 4.721347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -326,8 +361,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 6470,
-        "average": 4.704946
+        "count": 6472,
+        "average": 4.705037
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -369,8 +404,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 8279,
-        "average": 4.678826
+        "count": 8281,
+        "average": 4.678783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1044,8 +1079,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 8328,
-        "average": 4.7558837
+        "count": 8329,
+        "average": 4.7559133
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1209,8 +1244,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 505,
-        "average": 4.8039603
+        "count": 506,
+        "average": 4.804348
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1291,49 +1326,6 @@
         "Containers",
         "DevOps",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode.md",
-      "title": "Build a web app with Blazor WebAssembly and Visual Studio Code",
-      "excerpt": "Learn how to set up your development environment and build your first WebAssembly app with Blazor, Visual Studio Code, and C#.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 2060,
-        "average": 4.7097087
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-blazor-webassembly-and-vs-code-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Developer tools"
       ]
     }
   ],

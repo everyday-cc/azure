@@ -4,49 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-configure-virtual-machine-extensions.md",
-      "title": "Configure virtual machine extensions",
-      "excerpt": "You will learn how to use virtual machine extensions to automate virtual machine deployments.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-virtual-machine-extensions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machine-extensions/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 43,
-        "average": 4.7674417
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
       "title": "Introduction to Azure Database for PostgreSQL",
       "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
@@ -2195,6 +2152,50 @@
         "Management Tools",
         "Compute",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-automate-configuration-of-windows-server-iaas-vms.md",
+      "title": "Automate the configuration of Windows Server IaaS Virtual Machines",
+      "excerpt": "You'll be able to deploy Desired State Configuration (DSC) extensions, implement those extensions to remediate noncompliant servers, and use custom script extension.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-automate-configuration-of-windows-server-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-configuration-of-windows-server-iaas-virtual-machines/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 29,
+        "average": 4.724138
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/automate-the-configuration-of-windows-server-iaaa-vms-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
       ]
     }
   ],
