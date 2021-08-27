@@ -1,28 +1,26 @@
 ---
 category: news
-title: "SolarWinds Hackers Stole Some Source Code for Microsoft Azure, Exchange, Intune"
-excerpt: "Microsoft, on Thursday, said it concluded its probe into the SolarWinds hack, finding that the attackers stole some source code but confirmed there's no evidence that they abused its internal systems to target other companies or gained access to production services or customer data."
-publishedDateTime: 2021-02-19T07:27:00Z
-originalUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html"
-webUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html"
-ampWebUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
-cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
+title: "How Difficult Are Microsoft Azure Certifications?"
+excerpt: "Lately, an increasing number of IT professionals have been opting for the Azure certification examinations as these certificates are valuable. Azure has gained significant popularity as a major cloud platform across various industries."
+publishedDateTime: 2021-08-26T21:23:00Z
+originalUrl: "https://dailyiowan.com/2021/08/26/how-difficult-are-microsoft-azure-certifications/"
+webUrl: "https://dailyiowan.com/2021/08/26/how-difficult-are-microsoft-azure-certifications/"
 type: article
-quality: 53
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Hacker News
-  domain: thehackernews.com
+  name: Univeristy of Iowa Daily Iowan
+  domain: dailyiowan.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://thehackernews.com/images/-c5NzoKqPoJk/YC9n7qavPOI/AAAAAAAAB0Y/96i0fUBlWn4xXZnE7h-mI-ykAYERF3jCQCLcBGAsYHQ/s0/microsoft.jpg"
-    width: 728
-    height: 380
+  - url: "https://dailyiowan.com/wp-content/uploads/2021/03/book-600x500-1.jpg"
+    width: 600
+    height: 500
     isCached: true
 
 related:
@@ -123,6 +121,22 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-and-Canonical-Ubuntu-Linux-have-a-privacy-concern.jpg"
         width: 770
         height: 578
+        isCached: true
+  - title: "SolarWinds Hackers Stole Some Source Code for Microsoft Azure, Exchange, Intune"
+    excerpt: "Microsoft, on Thursday, said it concluded its probe into the SolarWinds hack, finding that the attackers stole some source code but confirmed there's no evidence that they abused its internal systems to target other companies or gained access to production services or customer data."
+    publishedDateTime: 2021-02-19T07:27:00Z
+    webUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html"
+    ampWebUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 53
+    images:
+      - url: "https://thehackernews.com/images/-c5NzoKqPoJk/YC9n7qavPOI/AAAAAAAAB0Y/96i0fUBlWn4xXZnE7h-mI-ykAYERF3jCQCLcBGAsYHQ/s0/microsoft.jpg"
+        width: 728
+        height: 380
         isCached: true
   - title: "This $1,194 Microsoft Azure certification prep bundle is $30 for President’s Day"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
@@ -274,20 +288,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "How Difficult Are Microsoft Azure Certifications?"
-    excerpt: "Lately, an increasing number of IT professionals have been opting for the Azure certification examinations as these certificates are valuable. Azure has gained significant popularity as a major cloud platform across various industries."
-    publishedDateTime: 2021-08-26T21:23:00Z
-    webUrl: "https://dailyiowan.com/2021/08/26/how-difficult-are-microsoft-azure-certifications/"
-    type: article
-    provider:
-      name: Univeristy of Iowa Daily Iowan
-      domain: dailyiowan.com
-    quality: 37
-    images:
-      - url: "https://dailyiowan.com/wp-content/uploads/2021/03/book-600x500-1.jpg"
-        width: 600
-        height: 500
-        isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
     publishedDateTime: 2021-02-18T00:00:00Z
@@ -349,6 +349,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "PHALrBKO/+nsgBV3adiabJcA6zvZfY5dc8cy0Hjc1LvMs1B8w36ovoLzJ3WsKxNqIRbMamPv8fFOevgzAyWSquVsMcpGTrwCJAN41bFrGq7DWPdIY1qzH4r+W/0hVE+gPuG9fNn6eALpLRUM+eUvobbYebzggnL+CZ6vpus9Jv5Gkgp+z4yYQES5/Yc+cuca10eAFikD81hLv3DY6eVfXCTGL85vmr0uRl2Yp/+bFkwwH7gVdC2vHN2WT31v9Byl1NFDs+lkbbIMOfOXaRW1tKzcBIxc9BYSh7i1eS5Y5vHCZPtU4KCDw4XuH5vN+PoZo4ez3xglsMe9+MLPrqAjLgcgqb5qLXShIEEX092QXRu3P4R2WU5w7WROH2brGMjtFhMII2l65BH0IVFDbDVUHx0JPreRVj4gQThJVs9tH28J4QqMLbO3RIWvE4Zp2+860VhhJnt3Y6zeb7X/xZy1dQOMtuOeqPwXIcJGccQMWwyxvRnESuTrUM4XHhzUuQMgPC/LXEPcqyowzKxDISidLw==;oSfmrfUNCHWzRtPKnglTvQ=="
+secured: "yBPgKQ4JWXsTnsSg77PY/cjqxwvASdFd7rmSCiBQAICYWWbJhlSLN7tvdEKxxNH12SIWUz2zHZ3q1hpmtLpLeKDhjeo3QeLnNPyOaVdKkfMOYlhcMxaPing/NNjZiP4HmxLxymzyKovVUsVFW1zeX4Uakn9Wld9ozgZN/HAOqUnNkap5/OU0dUQK+1l5II1g5mSPHGQmWyq91JDiB7K/CDGklaUft5CF9d+0OjD8V2v4dYlNfJuaqmHvHNqlW1w8alIKLijvnJAKEmPJ0noqym0Emfqy25esZL/Jyli8MYwrcRMs/QdojFQD4J7JvhsnHRJvzb+c1AVDJPy4rtTJLlI3u2gyQpyMkpbUyhJZ+Ws=;yVzRjEewg6sz3B4UWXkXWg=="
 ---
 

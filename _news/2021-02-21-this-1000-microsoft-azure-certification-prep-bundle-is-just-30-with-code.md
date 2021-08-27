@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-c
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
 type: article
 quality: 95
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -277,6 +277,20 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/g9SLd8vD.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "How Difficult Are Microsoft Azure Certifications?"
+    excerpt: "Lately, an increasing number of IT professionals have been opting for the Azure certification examinations as these certificates are valuable. Azure has gained significant popularity as a major cloud platform across various industries."
+    publishedDateTime: 2021-08-26T21:23:00Z
+    webUrl: "https://dailyiowan.com/2021/08/26/how-difficult-are-microsoft-azure-certifications/"
+    type: article
+    provider:
+      name: Univeristy of Iowa Daily Iowan
+      domain: dailyiowan.com
+    quality: 37
+    images:
+      - url: "https://dailyiowan.com/wp-content/uploads/2021/03/book-600x500-1.jpg"
+        width: 600
+        height: 500
         isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."

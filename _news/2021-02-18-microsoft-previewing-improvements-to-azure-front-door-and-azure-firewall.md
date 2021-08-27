@@ -288,6 +288,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "How Difficult Are Microsoft Azure Certifications?"
+    excerpt: "Lately, an increasing number of IT professionals have been opting for the Azure certification examinations as these certificates are valuable. Azure has gained significant popularity as a major cloud platform across various industries."
+    publishedDateTime: 2021-08-26T21:23:00Z
+    webUrl: "https://dailyiowan.com/2021/08/26/how-difficult-are-microsoft-azure-certifications/"
+    type: article
+    provider:
+      name: Univeristy of Iowa Daily Iowan
+      domain: dailyiowan.com
+    quality: 37
+    images:
+      - url: "https://dailyiowan.com/wp-content/uploads/2021/03/book-600x500-1.jpg"
+        width: 600
+        height: 500
+        isCached: true
   - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
     excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
     publishedDateTime: 2021-02-17T12:05:00Z
