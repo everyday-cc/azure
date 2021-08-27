@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Oneview Healthcare’s Cloud-Based Care Experience Platform Now Available in the Microsoft Azure Marketplace"
-excerpt: "“The cloud enablement of Oneview’s patient experience platform is a game-changer,” said Dr. Simon Kos, Healthcare Industry Executive, Microsoft. “It means that health organizations can deploy more quickly, with greater predictability and less ..."
-publishedDateTime: 2021-08-26T10:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210826005559/oneview-healthcares-cloud-based-care-experience-platform-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.morningstar.com/news/business-wire/20210826005559/oneview-healthcares-cloud-based-care-experience-platform-now-available-in-the-microsoft-azure-marketplace"
+excerpt: "Following the launch of the cloud-based CXP earlier this year, Oneview Healthcare today announced the availability of CXP Cloud Enterprise in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-08-26T15:01:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-23efbb2849c741968f3da89d92562c7b"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-23efbb2849c741968f3da89d92562c7b"
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft Azure Cosmos DB Database Security Flaw Exposed Client Data For Years"
@@ -33,6 +39,36 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/56091/content/Cloud.jpg"
         width: 708
         height: 400
+        isCached: true
+  - title: "‘Unprecedented’ Microsoft Azure database vulnerability impacts thousands of customers, researchers warn"
+    excerpt: "A series of flaws in Microsoft Azure’s Cosmos DB exposed the accounts and databases of thousands of the company’s corporate customers to “complete [and] unrestricted access,” researchers with security firm Wiz reported on Thursday, two weeks after ..."
+    publishedDateTime: 2021-08-27T17:36:00Z
+    webUrl: "https://www.geekwire.com/2021/unprecedented-microsoft-azure-database-vulnerability-impacts-thousands-customers-researchers-warn/"
+    ampWebUrl: "https://www.geekwire.com/2021/unprecedented-microsoft-azure-database-vulnerability-impacts-thousands-customers-researchers-warn/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/unprecedented-microsoft-azure-database-vulnerability-impacts-thousands-customers-researchers-warn/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 98
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2015/03/microsoft-logo-620x411.jpg"
+        width: 620
+        height: 411
+        isCached: true
+  - title: "ChaosDB Vulnerability Exposes Thousands of Microsoft Azure Databases"
+    excerpt: "A vulnerability in Cosmos DB reportedly endangered the data of thousands of companies that use Microsoft's cloud platform."
+    publishedDateTime: 2021-08-27T19:33:00Z
+    webUrl: "https://in.pcmag.com/security/144571/chaosdb-vulnerability-exposes-thousands-of-microsoft-azure-databases"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 77
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/c/chaosdb-vu/chaosdb-vulnerability-exposes-thousands-of-microsoft-azure-d_jdjb.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft warns of vulnerability in central database of Azure"
     excerpt: "Microsoft has warned thousands of its cloud-computing customers — including some of the world's largest companies — that intruders could have the ability to read, change or even delete their main databases."
@@ -131,9 +167,9 @@ related:
         height: 233
         isCached: true
   - title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-    excerpt: "SES’s O3b mPOWER medium earth orbit satellite system to provide additional network diversity, service resiliency and gigabit connectivity as more critical workloads move to cloud"
-    publishedDateTime: 2021-08-27T15:31:00Z
-    webUrl: "https://www.pulse.ng/entertainment/music/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/mydrznv"
+    excerpt: "Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services. Microsoft will use SES’s current MEO to provide connectivity now before ..."
+    publishedDateTime: 2021-08-27T15:36:00Z
+    webUrl: "https://www.pulse.ng/news/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/htmzn5j"
     ampWebUrl: "https://www.pulse.ng/news/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/htmzn5j.amp"
     cdnAmpWebUrl: "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/news/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/htmzn5j.amp"
     type: article
@@ -173,6 +209,20 @@ related:
       - url: "https://img.deusm.com/darkreading/Cartoon/Feb2021_DR_toon_sm.jpg"
         width: 800
         height: 412
+        isCached: true
+  - title: "Azure Database Service Flaw Could Affect Thousands of Firms"
+    excerpt: "A vulnerability in Microsoft Azure's database service Cosmos DB has potentially put at risk thousands of Azure customers, including many Fortune 500 companies,"
+    publishedDateTime: 2021-08-27T18:10:00Z
+    webUrl: "https://www.healthcareinfosecurity.com/azure-database-service-flaw-could-affect-thousands-firms-a-17392"
+    type: article
+    provider:
+      name: healthcareinfosecurity.com
+      domain: healthcareinfosecurity.com
+    quality: 54
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/azure-database-service-flaw-could-affect-thousands-firms-showcase_image-4-a-17392.jpg"
+        width: 860
+        height: 520
         isCached: true
   - title: "Microsoft Azure vulnerability exposed data of thousands of companies, potentially for years"
     excerpt: "A vulnerability in Microsoft Azure left the data of thousands of companies exposed to attacks. Researchers were able to gain full access to data utilizing the vulnerability."
@@ -400,6 +450,6 @@ related:
       domain: equitybulls.com
     quality: 2
 
-secured: "ub3lQMqRIpZ39ciP0MvbibU3EyGf/JynyRA6lvMyV+p7oUdFIebgDtvtdX/ACY8IZzRD7wq1bfxdriZqerwNduqDG7hfYPK67Anyv5EKSaVGDqhc9VTYVLdXsHrg+byOaGkMDl2FW2azultkP/sBGWR/s6Rl2sEvG4PCjUw9uXKQItL2EtHo5/XOrPd7R4i34+u3J/ncM5ZXvqOOPHZG+1tQn5sn5yhvSait9MWKwsIfWsUuUQf3R/hvSZuVebTgtHY+grY5oy3M/S7uW760yUolfxrA8ujR4F6mFt4TZCg8/iOGyOVaB+jWioboB9dkRmFzeWurr/f9vSHcBTbPoMUBENMU6WlswTT2SiWok4I=;hAjrmgNiQ1b0PmrSQfc8PQ=="
+secured: "NocTgkO9rWvVM6JF02L5OcNzZ2T9Aucbv1WlRbKsoCmFJsjgFZU2WIQQl/EqNwh2h/M/j0/scUaZcx7CTKxNzRsAgdN1wFU9U5h2Wm8s4qCgOFb5D+E/qkfrXzHcGFcb/USK5VDMIQw8LdTIAnvSAGaDcQLKoL+aQvDd9gnZwfPACNRy8YHhqmQzpkywNYTtbWb0NVC6XhXGvfeRqFR+IzRpS3V9/KfvNjuUndRkSfXHXYGSjCEZz6qiZOAuXclnii94clQ9iCHVjmXaEc038JUeERcGCDO9bW1P5d5QudIaJkCnoUQ5c+LEVz/sNin7WncVe4QdSnDKykeeLkHqxmM9fvUkg5JiV4flA6P6n68=;cXiDiaTDae7huuGXVodf7w=="
 ---
 

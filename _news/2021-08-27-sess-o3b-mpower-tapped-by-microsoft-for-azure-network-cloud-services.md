@@ -1,10 +1,10 @@
 ---
 category: news
 title: "SES’s O3b mPOWER Tapped by Microsoft for Azure Network Cloud Services"
-excerpt: "SES’s O3b mPOWER medium earth orbit satellite system to provide additional network diversity, service resiliency and gigabit connectivity as more critical workloads move to cloud"
-publishedDateTime: 2021-08-27T15:31:00Z
-originalUrl: "https://www.pulse.ng/entertainment/music/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/mydrznv"
-webUrl: "https://www.pulse.ng/entertainment/music/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/mydrznv"
+excerpt: "Microsoft plans to leverage the MEO high-performance connectivity services to showcase its Azure Orbital solutions that integrate satellite connectivity with Azure services. Microsoft will use SES’s current MEO to provide connectivity now before ..."
+publishedDateTime: 2021-08-27T15:36:00Z
+originalUrl: "https://www.pulse.ng/news/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/htmzn5j"
+webUrl: "https://www.pulse.ng/news/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/htmzn5j"
 ampWebUrl: "https://www.pulse.ng/news/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/htmzn5j.amp"
 cdnAmpWebUrl: "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/news/sess-o3b-mpower-tapped-by-microsoft-for-azure-network-cloud-services/htmzn5j.amp"
 type: article
@@ -41,6 +41,36 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/56091/content/Cloud.jpg"
         width: 708
         height: 400
+        isCached: true
+  - title: "‘Unprecedented’ Microsoft Azure database vulnerability impacts thousands of customers, researchers warn"
+    excerpt: "A series of flaws in Microsoft Azure’s Cosmos DB exposed the accounts and databases of thousands of the company’s corporate customers to “complete [and] unrestricted access,” researchers with security firm Wiz reported on Thursday, two weeks after ..."
+    publishedDateTime: 2021-08-27T17:36:00Z
+    webUrl: "https://www.geekwire.com/2021/unprecedented-microsoft-azure-database-vulnerability-impacts-thousands-customers-researchers-warn/"
+    ampWebUrl: "https://www.geekwire.com/2021/unprecedented-microsoft-azure-database-vulnerability-impacts-thousands-customers-researchers-warn/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/unprecedented-microsoft-azure-database-vulnerability-impacts-thousands-customers-researchers-warn/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 98
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2015/03/microsoft-logo-620x411.jpg"
+        width: 620
+        height: 411
+        isCached: true
+  - title: "ChaosDB Vulnerability Exposes Thousands of Microsoft Azure Databases"
+    excerpt: "A vulnerability in Cosmos DB reportedly endangered the data of thousands of companies that use Microsoft's cloud platform."
+    publishedDateTime: 2021-08-27T19:33:00Z
+    webUrl: "https://in.pcmag.com/security/144571/chaosdb-vulnerability-exposes-thousands-of-microsoft-azure-databases"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 77
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/c/chaosdb-vu/chaosdb-vulnerability-exposes-thousands-of-microsoft-azure-d_jdjb.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft warns of vulnerability in central database of Azure"
     excerpt: "Microsoft has warned thousands of its cloud-computing customers — including some of the world's largest companies — that intruders could have the ability to read, change or even delete their main databases."
@@ -165,6 +195,20 @@ related:
       - url: "https://img.deusm.com/darkreading/Cartoon/Feb2021_DR_toon_sm.jpg"
         width: 800
         height: 412
+        isCached: true
+  - title: "Azure Database Service Flaw Could Affect Thousands of Firms"
+    excerpt: "A vulnerability in Microsoft Azure's database service Cosmos DB has potentially put at risk thousands of Azure customers, including many Fortune 500 companies,"
+    publishedDateTime: 2021-08-27T18:10:00Z
+    webUrl: "https://www.healthcareinfosecurity.com/azure-database-service-flaw-could-affect-thousands-firms-a-17392"
+    type: article
+    provider:
+      name: healthcareinfosecurity.com
+      domain: healthcareinfosecurity.com
+    quality: 54
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/azure-database-service-flaw-could-affect-thousands-firms-showcase_image-4-a-17392.jpg"
+        width: 860
+        height: 520
         isCached: true
   - title: "Microsoft Azure vulnerability exposed data of thousands of companies, potentially for years"
     excerpt: "A vulnerability in Microsoft Azure left the data of thousands of companies exposed to attacks. Researchers were able to gain full access to data utilizing the vulnerability."
@@ -373,6 +417,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Oneview Healthcare’s Cloud-Based Care Experience Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Following the launch of the cloud-based CXP earlier this year, Oneview Healthcare today announced the availability of CXP Cloud Enterprise in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-08-26T15:01:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-23efbb2849c741968f3da89d92562c7b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Xpeedic EDA Cloud Platform on Microsoft Azure"
     excerpt: "CUPERTINO, Calif.-- August 17, 2021 --Xpeedic today released its EDA Cloud Platform on Microsoft Azure at DesignCon 2021. DesignCon 2021 is taking place August 16-18 at the San Jose McEnery Convention Center in San Jose, CA. EDA flow for design and ..."
     publishedDateTime: 2021-08-23T02:02:00Z
@@ -391,16 +449,7 @@ related:
       name: Equity Bulls
       domain: equitybulls.com
     quality: 2
-  - title: "Oneview Healthcare’s Cloud-Based Care Experience Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "“The cloud enablement of Oneview’s patient experience platform is a game-changer,” said Dr. Simon Kos, Healthcare Industry Executive, Microsoft. “It means that health organizations can deploy more quickly, with greater predictability and less ..."
-    publishedDateTime: 2021-08-26T10:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210826005559/oneview-healthcares-cloud-based-care-experience-platform-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
 
-secured: "blF5GEYuWIryYlM9QeRF/mbXACAoUnwovs+i4UzOtSsqDJyyXO1NcLmtLKSJwnWjKcpLwKnMQ0vKGb0h/aGmY23CQRv746/K1g5pW0vxDF1uQooj49U9VyXfQBqORnAAG+EllT41kplaujFBJXXcbl30ihaHKGXVYLFjQSGjTdKkVydPB/pfE1PVn33YX4C6u+H4JGjnLyw2RclB1tCCMeN/huPZ3Vv6FuEbS/ifNVti8lepF7ttFwXN2P6Tg8E4d62A4lp4/m4VCh1S3R4ad+OXXqjNcKhC/9XMGJJPcdyUqR6OIEEx5G/SyTdghHvDYxEhzVxpEPsgCGyunu/DqTFvFeAPsvtup4fk6ouKh3+lJeQX72q+GJAy1lgV4Tbbei9saVSjHey0M6rh0EYw2SPCZWwLLUReNNwQVQIO6a/cDT7gz4r9bVcWN+2HJUeYkaK9vJoEHDhuTE1O9sWdYsmeY0i1sSDx3BEANIqfeGSQYfx7KwCKZAkefUi4O8Qm9unAW7OArR1XAcyjYcbm0g==;XcysV2mi+C+/QCisceDHEA=="
+secured: "FzzWe7nBlA1S/JHRqhYUDdsqrJ3fEIlqC7Sx1cGeXpbyLQKJjbozzRSGHUiRp6gmKi+pbZ4I9PFPy6BJPWkcd+cvQ5hVYkv0a5yeXjJDropVACR08Vd09fRnm5k8L3Fij5e9fhKimYFewsZMAXO2Xy0RdjwtTLizOiH+TUkttU2TPDo1KWLjwMOFU8tekP0JLN9CT3FiJoCoIK+DXJD74Pm3rKPyzdmVT9ObkNAeP1pQQIT65DC8uGZFlU55SPW2EkGPd5d2Cm/vBUbMifdpyqPH1belWItXDgIvcVC7bFG9l8RG83++EyuXQ35rk85BDZCwfwv0HCXE/kWaUVzZCeImy4VMLyt59YaoD2u/v9w=;/M3CeZ3j8tM2wDITxTo2xw=="
 ---
 

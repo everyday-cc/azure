@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Vulnerability in Microsoft Azure Cosmos DB may have exposed customer data to hackers"
-excerpt: "Microsoft Corp. has warned cloud customers that hackers may have potentially accessed their data via an exploitable vulnerability in its Azure cloud service. Reuters first reported the news today ..."
-publishedDateTime: 2021-08-27T02:01:00Z
-originalUrl: "https://siliconangle.com/2021/08/26/vulnerability-microsoft-azure-cosmos-db-may-exposed-customer-data-hackers/"
-webUrl: "https://siliconangle.com/2021/08/26/vulnerability-microsoft-azure-cosmos-db-may-exposed-customer-data-hackers/"
+title: "Azure Database Service Flaw Could Affect Thousands of Firms"
+excerpt: "A vulnerability in Microsoft Azure's database service Cosmos DB has potentially put at risk thousands of Azure customers, including many Fortune 500 companies,"
+publishedDateTime: 2021-08-27T18:10:00Z
+originalUrl: "https://www.healthcareinfosecurity.com/azure-database-service-flaw-could-affect-thousands-firms-a-17392"
+webUrl: "https://www.healthcareinfosecurity.com/azure-database-service-flaw-could-affect-thousands-firms-a-17392"
 type: article
-quality: 47
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: healthcareinfosecurity.com
+  domain: healthcareinfosecurity.com
 
 topics:
   - Azure
   - Databases
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/cosmosdb.png"
-    width: 691
-    height: 416
+  - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/azure-database-service-flaw-could-affect-thousands-firms-showcase_image-4-a-17392.jpg"
+    width: 860
+    height: 520
     isCached: true
 
 related:
@@ -211,20 +211,6 @@ related:
         width: 800
         height: 412
         isCached: true
-  - title: "Azure Database Service Flaw Could Affect Thousands of Firms"
-    excerpt: "A vulnerability in Microsoft Azure's database service Cosmos DB has potentially put at risk thousands of Azure customers, including many Fortune 500 companies,"
-    publishedDateTime: 2021-08-27T18:10:00Z
-    webUrl: "https://www.healthcareinfosecurity.com/azure-database-service-flaw-could-affect-thousands-firms-a-17392"
-    type: article
-    provider:
-      name: healthcareinfosecurity.com
-      domain: healthcareinfosecurity.com
-    quality: 54
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/azure-database-service-flaw-could-affect-thousands-firms-showcase_image-4-a-17392.jpg"
-        width: 860
-        height: 520
-        isCached: true
   - title: "Microsoft Azure vulnerability exposed data of thousands of companies, potentially for years"
     excerpt: "A vulnerability in Microsoft Azure left the data of thousands of companies exposed to attacks. Researchers were able to gain full access to data utilizing the vulnerability."
     publishedDateTime: 2021-08-27T11:07:00Z
@@ -240,6 +226,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/08/microsoft-azure-hero-4-3.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Vulnerability in Microsoft Azure Cosmos DB may have exposed customer data to hackers"
+    excerpt: "Microsoft Corp. has warned cloud customers that hackers may have potentially accessed their data via an exploitable vulnerability in its Azure cloud service. Reuters first reported the news today ..."
+    publishedDateTime: 2021-08-27T02:01:00Z
+    webUrl: "https://siliconangle.com/2021/08/26/vulnerability-microsoft-azure-cosmos-db-may-exposed-customer-data-hackers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/cosmosdb.png"
+        width: 691
+        height: 416
         isCached: true
   - title: "Cloud security company claims Microsoft Azure flaw left thousands of customers exposed"
     excerpt: "Cybersecurity firm Wiz claims it was able to gain access to the accounts and databases of thousands of Microsoft Azure customers, which includes some of the world's biggest companies. In a detailed blog post,"
@@ -451,6 +451,6 @@ related:
       domain: equitybulls.com
     quality: 2
 
-secured: "8IyNBu69eaSzdHLcIgmOj2f4tM5vywbX0qYFpzH2RiWDZqfWrMC1amgoGPSmFPOQ5+59sgPDYZITR8fgo7udOIsQtewV7dnxs3Q2DkUpjLWe+kGKAJ06DLE6X3QiSavxfUCtdAiOGOWBiLMCRtjlXYQgvdu9Nf9t3T3ZTqXVO2GyBSxQJAbSfXzpcyifKauLhEQRQNdCB0bIJ5tHZhzPTzhdtdxfsYcicOO2JDwa/NXZEEgcI3EXkGE0mZLc176cYHVkyYBkAM6BWy8xzivUdA2MwfDG58/I75ISyMZfDu8FbcURlRMiB/eDbSI+RNWn/iOYR7eoF/B/XX6yHka0SEaPFKYQ6LzPTkxnPFRwDY28UBI8qmb+Tn8K5wnQbF9YCLsANyhlYnq7ceko2fGjWC5wE8XydDMYZMoQuOft/Nch4JozADfqGozdJ9Y4uqkbDDE4iaY/QDqjzAVLfLv5m3XD1+9GigvVKlKiuC65VIZl8k2/95iDanFMvspfOKq+2nhIRFMixSkNnWCwOMjPMg==;CnNU6PdDm1InGdaxZgkkfg=="
+secured: "tWig/WFMBKcW9/VbwL+FRd6qEWZgCfHS/nB0Wch304VjEaaO8h4o0y0YCDnCwA4UugvrjCSq7gi0zkFrJH90HSp9+hynK9krTsOdo73izUrGJQvAfrDFh1ZPNhD50sGwsLmBK49pkvR4nd/7AwQ8rXro7QTPUU2UTMMHsViI+2auZQxtYHh2U90Ij6ZskoFL1OL/TLMkYEsmxzJC37qxozbBlqjcPQJUp1dmiBF7+Q58uFZARc5KuHAJDfvE0Vi309Oq0ssNXdvA7BN3EVXRz19pwKA5xq5GUVYrQbicXXboW1nN7iSOHQ5LMpzbbYn4Wf0jYIn362zz0dl407ia3PPfrasxoY6FVak3ACN7Dds=;6BwRVk4QSzySLItzNyENMw=="
 ---
 
