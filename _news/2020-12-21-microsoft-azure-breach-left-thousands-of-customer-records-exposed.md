@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-breach-left-th
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
 type: article
 quality: 97
-heat: 477
+heat: 497
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Vulnerability in Microsoft Azure Cosmos DB may have exposed customer data to hackers"
+    excerpt: "Microsoft Corp. has warned cloud customers that hackers may have potentially accessed their data via an exploitable vulnerability in its Azure cloud service. Reuters first reported the news today ..."
+    publishedDateTime: 2021-08-27T02:01:00Z
+    webUrl: "https://siliconangle.com/2021/08/26/vulnerability-microsoft-azure-cosmos-db-may-exposed-customer-data-hackers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/cosmosdb.png"
+        width: 691
+        height: 416
         isCached: true
   - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
     excerpt: "JetStream Software Inc., an innovator in cloud-native disaster recovery (DR), today announced the availability of its disaster recovery software, JetStream DR, which will support Microsoft Azure VMware Solution."

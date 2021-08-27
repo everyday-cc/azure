@@ -1,27 +1,31 @@
 ---
 category: news
 title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-excerpt: "TORONTO, Aug. 24, 2021 /PRNewswire/ - WatServ announced today that it has earned the \"Microsoft Windows Server and SQL Server Migration to Microsoft Azure\" advanced specialization ..."
-publishedDateTime: 2021-08-24T12:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-301360992.html"
-webUrl: "https://www.prnewswire.com/news-releases/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-301360992.html"
+excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+publishedDateTime: 2021-08-24T12:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg?p=facebook"
-    width: 1920
-    height: 1005
+  - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -611,6 +615,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "PUojXFCcCchwsVxMghH03VzP4Nec31i2CF7euf/jQMgasLyPSrm91oGnBway9nOByApldx8HBkI6Xc+Gcho90/S6Dc6cViSbZ7zo23mPTKQT0fS0qUeJkYl+xqaZONpI7Ov9EvXx8etht91Q2VPNIt78Rg6ckZe/khNanV7AmO8Pz1KsY3lK+NZ1rVJmYsAn+gcVRDLSABG6uMM7PfyHE3g8V+YIA0mQ4HLWkEQxHsCmPyRKkjDCA/bOJ7LKztIlkM9p8rveEe/hYy4cwq3ca6o46kiqqpSDyl4+Tia6ceC2Eu7uAUVgNbp0NChY2sFxQo94+dAJ1Tpnfh/8SUvmlP5gTosX3+R+O54Y6h8/5Po=;80zDa+9PzPyWN8hXBhWG2w=="
+secured: "jITuvOl5rh1nzE54YLSCA+VXoJg2PrQoVoWsPrZdxBipp37agrlp98IUkO+wyhmqu7vdNQsLrc3t49IFwa9zz9XqaVqivpVmRS9ctjDzjwFSy/eoQEScY1VcjHAwUgd7Ade1J/P9hOzRmDqrNj+ekDsQwOxw66cEnrk1e8uAL1LHSy+veoC3qWYPPiJdWmiSgLDX399ds/Jy7orad9z9nJdoOuAbLtkuQd7857DAbGlmlp978xNpB/mmKHvpq8091/CFlUnQwPiAeOUrp/N3QZTOKR9HwP+co8uUmYRNo1CXZy/MwaxwmN9MqA9Lv9YXRs3zOkzF4dKnmrVA6WCZAATCHpNv8bSwgY+w8MRwKRM=;GWdXiTDBDT+Z6ZpEvmjZrw=="
 ---
 

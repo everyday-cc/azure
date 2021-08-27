@@ -36,6 +36,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "PRNewswire/ - WatServ announced today that it has earned the 'Microsoft Windows Server and SQL Server Migration to"
+    publishedDateTime: 2021-08-24T12:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-1030754757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Cirrus Identity announces integration with Microsoft Azure Active Directory to help universities meet deadline for new NIH authentication requirements"
     excerpt: "On Wednesday, Cirrus Identity announced a collaboration to improve single sign-on (SSO) for higher education institutions that utilize Microsoft Azure Active Directory (Azure AD). The Cirrus Identity Bridge will make it easier for higher education institutions to meet new National Institutes for Health authentication requirements by the September 15,"
     publishedDateTime: 2021-08-18T19:30:00Z
@@ -402,20 +416,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "WatServ Earns Advanced Specialization for Microsoft Windows Server and SQL Server Migration to Microsoft Azure"
-    excerpt: "TORONTO, Aug. 24, 2021 /PRNewswire/ - WatServ announced today that it has earned the \"Microsoft Windows Server and SQL Server Migration to Microsoft Azure\" advanced specialization ..."
-    publishedDateTime: 2021-08-24T12:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/watserv-earns-advanced-specialization-for-microsoft-windows-server-and-sql-server-migration-to-microsoft-azure-301360992.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1600032/WatServ_Inc__WatServ_Earns_Advanced_Specialization_for_Microsoft.jpg?p=facebook"
-        width: 1920
-        height: 1005
-        isCached: true
   - title: "Rubrik teams with Microsoft to develop Zero Trust anti-ransomware Azure services"
     excerpt: "Microsoft has made an investment in Rubrik as part of a strategic deal involving co-development of Zero Trust anti-ransomware services in the Azure public cloud with joint go-to-market activities. The two companies will provide Microsoft 365 and hybrid cloud data protection and integrated cloud services on Azure."
     publishedDateTime: 2021-08-17T16:06:00Z

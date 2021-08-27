@@ -130,6 +130,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vulnerability in Microsoft Azure Cosmos DB may have exposed customer data to hackers"
+    excerpt: "Microsoft Corp. has warned cloud customers that hackers may have potentially accessed their data via an exploitable vulnerability in its Azure cloud service. Reuters first reported the news today ..."
+    publishedDateTime: 2021-08-27T02:01:00Z
+    webUrl: "https://siliconangle.com/2021/08/26/vulnerability-microsoft-azure-cosmos-db-may-exposed-customer-data-hackers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/cosmosdb.png"
+        width: 691
+        height: 416
+        isCached: true
   - title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
     excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
     publishedDateTime: 2020-12-14T09:04:00Z
