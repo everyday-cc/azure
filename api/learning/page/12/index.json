@@ -4,6 +4,43 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
+      "title": "Execute an Azure Function with triggers",
+      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
+      "length": "PT1H23M",
+      "ratings": {
+        "count": 5415,
+        "average": 4.7331486
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad.md",
       "title": "Explore the authentication capabilities of Azure AD",
       "excerpt": "Explore the authentication capabilities of Azure AD",
@@ -54,8 +91,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 7052,
-        "average": 4.648185
+        "count": 7053,
+        "average": 4.648235
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -210,8 +247,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 7670,
-        "average": 4.6923075
+        "count": 7671,
+        "average": 4.6922174
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -913,8 +950,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/",
       "length": "PT45M",
       "ratings": {
-        "count": 2063,
-        "average": 4.7101307
+        "count": 2064,
+        "average": 4.7102714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1000,8 +1037,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-storage-tools/",
       "length": "PT18M",
       "ratings": {
-        "count": 58,
-        "average": 4.8448277
+        "count": 59,
+        "average": 4.8474574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1128,8 +1165,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 2841,
-        "average": 4.616332
+        "count": 2842,
+        "average": 4.6164675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1173,8 +1210,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-data-factory/",
       "length": "PT35M",
       "ratings": {
-        "count": 168,
-        "average": 4.767857
+        "count": 169,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1334,49 +1371,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-m365-identity-overview.md",
-      "title": "Define identity and access management in Azure Active Directory",
-      "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-m365-identity-overview/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
-      "length": "PT15M",
-      "ratings": {
-        "count": 638,
-        "average": 4.7523513
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],
