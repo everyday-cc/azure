@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/microsoft-azure-cosmos-db-database-
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-azure-cosmos-db-database-security-flaw"
 type: article
 quality: 102
-heat: 764
+heat: 765
 published: true
 
 provider:
