@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure Cloud Vulnerability Exposed Thousands of Databases"
-excerpt: "Microsoft's Azure cloud platform exposed the database keys of 3,300 customers, including Fortune 500 enterprises, that had used a data-science feature available on the platform since 2019, cloud security firm Wiz said this week."
-publishedDateTime: 2021-08-27T20:30:00Z
-originalUrl: "https://www.darkreading.com/cloud/microsoft-azure-cloud-vulnerability-exposed-thousands-of-databases"
-webUrl: "https://www.darkreading.com/cloud/microsoft-azure-cloud-vulnerability-exposed-thousands-of-databases"
+title: "Microsoft Azure allowed unrestricted access to thousands of cloud users"
+excerpt: "Microsoft’s Azure cloud computing service has left sensitive data of thousands of customers vulnerable and susceptible to cyberattacks."
+publishedDateTime: 2021-08-28T16:16:00Z
+originalUrl: "https://techstory.in/microsoft-azure-allowed-unrestricted-access-to-thousands-of-cloud-users/"
+webUrl: "https://techstory.in/microsoft-azure-allowed-unrestricted-access-to-thousands-of-cloud-users/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Dark Reading
-  domain: darkreading.com
+  name: tech
+  domain: techstory.in
 
 topics:
   - Azure
+
+images:
+  - url: "https://techstory.in/wp-content/uploads/2021/08/10-reasons-why-choose-azure-for-your-enterprise.png"
+    width: 600
+    height: 311
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1787,20 +1793,6 @@ related:
         width: 375
         height: 226
         isCached: true
-  - title: "Microsoft Azure allowed unrestricted access to thousands of cloud users"
-    excerpt: "Microsoft’s Azure cloud computing service has left sensitive data of thousands of customers vulnerable and susceptible to cyberattacks."
-    publishedDateTime: 2021-08-28T16:16:00Z
-    webUrl: "https://techstory.in/microsoft-azure-allowed-unrestricted-access-to-thousands-of-cloud-users/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/10-reasons-why-choose-azure-for-your-enterprise.png"
-        width: 600
-        height: 311
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -2293,6 +2285,15 @@ related:
       name: Advanced Television
       domain: advanced-television.com
     quality: 17
+  - title: "Microsoft Azure Cloud Vulnerability Exposed Thousands of Databases"
+    excerpt: "Microsoft's Azure cloud platform exposed the database keys of 3,300 customers, including Fortune 500 enterprises, that had used a data-science feature available on the platform since 2019, cloud security firm Wiz said this week."
+    publishedDateTime: 2021-08-27T20:30:00Z
+    webUrl: "https://www.darkreading.com/cloud/microsoft-azure-cloud-vulnerability-exposed-thousands-of-databases"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z
@@ -2408,6 +2409,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "yoVGE/axb7882qhCixi7AOn6HmXrNoTEVavw/GI2qXAiO06kHepMUc1+xk/iiIgWUGECaS/dzkf4ksIXyRNMWYuz5+B/dNgQxXXvgJV7lCiGPxd0RAUjyXLSkLCmRZoohIvuOsAxa1gNxLQaBDnE3PYY0G44PfqyQ2QgXhr+8oD7Qas03jjZLKoaPPxwZElgewB32xbJW0uFXs9zLsmqb4Wwxh07cu8JkKO+fm4HidWOG4GPISr41XjB7DUi4IwCJkQ4+dGMNlOzVDKvKo8SvF3DZvLYEui2r8xMIQ0+quyKiYkefPdfIl41jkNLNa1Q93mjeaLYMJBvDRcMDAAb2zVwR8BxqVrcXaQk29+RYkA=;7cDF3/2q8TWLwC1vr/nZ4Q=="
+secured: "WAg2qB2R6fEmdCSzX7lNuE7aIA6bpTwTY9/xipNR1jtsJr/u1C7U6unOAdiIZ1EDdlrJkexBwRiUbrbyBptPbO5Tj3KaXoBZ06mZJHiKDrRSp/GAEcb9TTl7PqlDDmKtmCLq/ecMX2bFNX0qG10VEjRb6ljxaQMoP+4GyCdDH+5M2pOIOU1IIfGxqI15Nped6vDrp8ABAxqlpO9JGEHugGjlyEMN6DRUaRJ8BhZuxku3HM7PB4BcS9d1+hK/KZvL08OJAtEJzl8UbD5xENsgj8kbB5n0Th3VafFh+14Dfxt0593vnNYgskCzGC3BJL+2TITYDTwG45x2sA4C/hcSNqh6vUH+Up0S33HmiLTw03w=;XlYh0hb7BblKdGR+w/SVMw=="
 ---
 

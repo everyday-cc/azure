@@ -1782,6 +1782,20 @@ related:
         width: 375
         height: 226
         isCached: true
+  - title: "Microsoft Azure allowed unrestricted access to thousands of cloud users"
+    excerpt: "Microsoft’s Azure cloud computing service has left sensitive data of thousands of customers vulnerable and susceptible to cyberattacks."
+    publishedDateTime: 2021-08-28T16:16:00Z
+    webUrl: "https://techstory.in/microsoft-azure-allowed-unrestricted-access-to-thousands-of-cloud-users/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/08/10-reasons-why-choose-azure-for-your-enterprise.png"
+        width: 600
+        height: 311
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
