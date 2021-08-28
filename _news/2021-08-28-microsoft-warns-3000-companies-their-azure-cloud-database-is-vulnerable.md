@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Microsoft Azure Cosmos database vulnerability may have exposed customers data: Report"
-excerpt: "According to Reuters, the vulnerability is in Microsoft Azure’s flagship Cosmos DB database. A research team at security company Wiz discovered it was able to access keys that control access to databases held by thousands of companies. Jethaa Lal becomes ..."
-publishedDateTime: 2021-08-27T06:12:00Z
-originalUrl: "https://www.freepressjournal.in/business/microsoft-azure-cosmos-database-vulnerability-may-have-exposed-customers-data-report"
-webUrl: "https://www.freepressjournal.in/business/microsoft-azure-cosmos-database-vulnerability-may-have-exposed-customers-data-report"
-ampWebUrl: "https://www.freepressjournal.in/amp/business/microsoft-azure-cosmos-database-vulnerability-may-have-exposed-customers-data-report"
-cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/microsoft-azure-cosmos-database-vulnerability-may-have-exposed-customers-data-report"
+title: "Microsoft Warns 3000 Companies Their Azure Cloud Database Is Vulnerable"
+excerpt: "Microsoft sent an email to over 3000 companies saying that their Azure database is vulnerable. Companies use Microsoft Azure’s flagship Cosmos DB database to secure their data, but that doesn’t seem to be the case here."
+publishedDateTime: 2021-08-28T11:50:00Z
+originalUrl: "https://fossbytes.com/microsoft-warns-3000-companies-their-azure-cloud-database-is-vulnerable/"
+webUrl: "https://fossbytes.com/microsoft-warns-3000-companies-their-azure-cloud-database-is-vulnerable/"
+ampWebUrl: "https://fossbytes.com/microsoft-warns-3000-companies-their-azure-cloud-database-is-vulnerable/amp/"
+cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/microsoft-warns-3000-companies-their-azure-cloud-database-is-vulnerable/amp/"
 type: article
-quality: 67
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Free Press Journal
-  domain: freepressjournal.in
+  name: Foss Bytes
+  domain: fossbytes.com
 
 topics:
   - Azure
   - Databases
 
 images:
-  - url: "https://images.assettype.com/freepressjournal/2020-02/ca577c14-46c4-4b1f-b22d-1fc3f8823950/it_sec.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://fossbytes.com/wp-content/uploads/2021/08/microsoft-azure-vulnerability.jpg"
     width: 1200
-    height: 500
+    height: 675
     isCached: true
 
 related:
@@ -119,22 +119,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Microsoft Warns 3000 Companies Their Azure Cloud Database Is Vulnerable"
-    excerpt: "Microsoft sent an email to over 3000 companies saying that their Azure database is vulnerable. Companies use Microsoft Azure’s flagship Cosmos DB database to secure their data, but that doesn’t seem to be the case here."
-    publishedDateTime: 2021-08-28T11:50:00Z
-    webUrl: "https://fossbytes.com/microsoft-warns-3000-companies-their-azure-cloud-database-is-vulnerable/"
-    ampWebUrl: "https://fossbytes.com/microsoft-warns-3000-companies-their-azure-cloud-database-is-vulnerable/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/microsoft-warns-3000-companies-their-azure-cloud-database-is-vulnerable/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 74
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/08/microsoft-azure-vulnerability.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Critical Cosmos Database Flaw Affected Thousands Microsoft Azure Customers"
     excerpt: "Cloud infrastructure security company Wiz on Thursday revealed details of a now-fixed Azure Cosmos database vulnerability that could have been potentially exploited to grant any Azure user full admin access to other customers' database instances without any authorization."
     publishedDateTime: 2021-08-27T07:50:00Z
@@ -166,6 +150,22 @@ related:
       - url: "https://portswigger.net/cms/images/58/47/10d7-twittercard-210827-azure-main.jpg"
         width: 506
         height: 254
+        isCached: true
+  - title: "Microsoft Azure Cosmos database vulnerability may have exposed customers data: Report"
+    excerpt: "According to Reuters, the vulnerability is in Microsoft Azure’s flagship Cosmos DB database. A research team at security company Wiz discovered it was able to access keys that control access to databases held by thousands of companies. Jethaa Lal becomes ..."
+    publishedDateTime: 2021-08-27T06:12:00Z
+    webUrl: "https://www.freepressjournal.in/business/microsoft-azure-cosmos-database-vulnerability-may-have-exposed-customers-data-report"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/microsoft-azure-cosmos-database-vulnerability-may-have-exposed-customers-data-report"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/microsoft-azure-cosmos-database-vulnerability-may-have-exposed-customers-data-report"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 67
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2020-02/ca577c14-46c4-4b1f-b22d-1fc3f8823950/it_sec.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 500
         isCached: true
   - title: "Microsoft now offers Windows 11 preview on Azure Virtual Desktop"
     excerpt: "Microsoft customers can use the Azure Virtual Desktop (formerly Windows Virtual Desktop) to virtualize a Windows 11 preview desktop on Azure virtual machines."
@@ -497,6 +497,6 @@ related:
       domain: equitybulls.com
     quality: 2
 
-secured: "bEnmGkdemX1hq8EdWHzAolZKhBaDkAm7bVNXIu+uRNjXUCt3iThh8zOR6BGePNtVovt1V4MHX+fauVJPU0XPV4z+EolmQk6wrxwb0xpgwhe39VzRdLB3EHjbLOoSBiOM/4JTRSnx9WaHOKe2aEiK4QS1l7AqXS9lBt+73OduPpYXOuGjG2IEpI9aj0Xc8mBWjp6BRtha0qg+g7PTLJW/FzJIQO/oLLlCykVHmFiJM2/FXts8ZNNGAqhQod7NiLktxE+KxaeIrB1+Etg/9xUuWNEM4WPCz8b1u6q18RQ2b+CcFNfT1SK4wCcMbg5phwarm/qU+dufOMgzJsYxJaCSDwIPGCWRs2zuZR7fquHm+FU=;D+Y/ttdVuX8ibxmmRASvCA=="
+secured: "ZhA/d5csHF8B+OfjNopnP/F6v1xl83XL6/dDgrd9qTIuVyHvve0gjQZZw8i7Eraf/Jtot/utwfaf4T2MUW23lo5SOrV7NyphjPUoDpyQicjJjVkM4X2w4N3GLedpw0J5KeVOvf/C2z9IEyM3jRCbPX6PLRAj0z1rXLd2mWU3bY1tzKo3ShuxM47GLwjFwSdRa2/ufjcNKdAR6wrtiaAqamwK3IE9puS7mRK1ajHApONXxX47nnrPJtJbyFLFX4L+gA3TNxmn1xPKrDyoX1E33GALilAIllHI/3kgEVagLFulmcgyqqYerOfuBCAFu9gwiowYR/ErjG4vPTCoZMth+wPzTyfMnCTszJMU+df3AD0=;kW6v4NyWiB9wmvA8TFqS4g=="
 ---
 
