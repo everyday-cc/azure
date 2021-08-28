@@ -4,50 +4,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-move-data-with-azure-data-box.md",
-      "title": "Move large amounts of data to the cloud by using Azure Data Box family",
-      "excerpt": "Learn how to move large amounts of data to the cloud by using Azure Data Box devices.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-move-data-with-azure-data-box/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 1829,
-        "average": 4.7441225
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/move-data-with-azure-data-box-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Migration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-n-tier-architecture.md",
       "title": "Tour the N-tier architecture style for your application",
       "excerpt": "Discover the benefits of a Resource Manager template to deploy an application in an N-tier architecture and review best practices for deployments of this style.",
@@ -87,6 +43,41 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
+      "title": "Fundamentals of network security",
+      "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-network-fundamentals-2/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 4953,
+        "average": 4.7401576
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
       ]
     },
     {

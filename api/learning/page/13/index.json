@@ -4,85 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
-      "title": "Secure your application by using OpenID Connect and Azure AD",
-      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 2774,
-        "average": 4.6791635
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
-      "title": "Core Cloud Services - Manage services with the Azure portal",
-      "excerpt": "Get acquainted with the Azure cloud platform through the Azure portal, where you create and manage all of your Azure resources.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-tour-azure-portal-features/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
-      "length": "PT1H13M",
-      "ratings": {
-        "count": 450,
-        "average": 4.7422223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Management tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure.md",
       "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
       "excerpt": "Learn how to investigate and diagnose problems in your Azure virtual networks by using Network Watcher and other tools.",
@@ -90,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 4362,
-        "average": 4.625401
+        "count": 4363,
+        "average": 4.625487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -769,8 +690,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "PT18M",
       "ratings": {
-        "count": 2124,
-        "average": 4.7636533
+        "count": 2125,
+        "average": 4.763765
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1199,8 +1120,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 9091,
-        "average": 4.661093
+        "count": 9093,
+        "average": 4.661168
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1399,6 +1320,86 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
+      "title": "Design a holistic monitoring strategy on Azure",
+      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 3162,
+        "average": 4.6521187
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs.md",
+      "title": "Enable reliable messaging for Big Data applications using Azure Event Hubs",
+      "excerpt": "Learn to use Azure Event Hubs to reliably process high-volume data streams to enable you to code applications to send and receive messages through the hub.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 2909,
+        "average": 4.4819527
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],
