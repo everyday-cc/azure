@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Options Announce Microsoft Cloud Productivity Gold Partner Status"
-excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft (News - Alert) Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
-publishedDateTime: 2021-08-18T14:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-options-announce-microsoft-cloud-productivity-gold-partner-status-/2021/08/18/9433476.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-options-announce-microsoft-cloud-productivity-gold-partner-status-/2021/08/18/9433476.htm"
+excerpt: "Options, the leading provider of cloud-enabled managed services to the global capital markets, today announced it has achieved the Microsoft Cloud Productivity Gold Partner Status. The prestigious accolade is awarded to only the top 1% of Microsoft partners worldwide and is a recognised mark of the highest standards for technology and business performance worldwide."
+publishedDateTime: 2021-08-18T14:34:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
+webUrl: "https://apnews.com/press-release/business-wire/technology-europe-business-b6263a3283d84f46b7d4cd3180b09a32"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "SES and Microsoft team up to boost Azure's satellite connectivity"
@@ -533,6 +539,6 @@ related:
       domain: island.lk
     quality: 0
 
-secured: "bhNjv+1qU35zC7fcMoAT9Dqnzgd3v4LHca8VHDxtX6zx32LuoOG/xFfC2qOO1EtTz0ALUqrpWGgxc7jTfYsNuqLnFqRWGtfiIp1YjuTEpthKdAb6aPaYij6JK7LMo57/Q9h4Z6sK1BfuJPqiy19txvPOqxC4SqIF7ZnO4YEeD1EH8XqLUcKYkQw1IqqklKrn/7Sw+3h33LZA6EJH+FrezOdJGp4uy2x0EpvYfI7z+cu1G5OKU2TQzlvTIJNXokBTKKnc1zppjiGB9pZthnt/r3wvWxA4C2rD8prJqSjqaxIgMmFoHJpIXDQmwbJd1Hdf7FbWmIahg/UtIpwRrDeX8sZPFrXmKBRYMDZMtUxLv7s=;BTExmBgEcQ15tWs6OH99qQ=="
+secured: "dkhFczSCBbEPt2as/yYKRE2g6eDCkHLCk6Xl2I/cdTx7SNt8MXFDoIC+BnfhGFI/7j9y9uNg308mh8ZKUnqyv18UDkpOhq3Che0vTfBRj7aNn23P5znuyiXxfPtBx+aQMWYIQ03W3ufDY5A1I89/dIHcycQNKTaqwhfgPNMayTiAF3d9NXJAj0pA/4i0j0WHhPUY4I77FzqqnTlxxJKibbBvdQgNgJj2lD6r8gq30XaOR0OvHA/QnS8RcLpj9CP9qy08sqKf0bHJEb+DeoT5l/Ot2WrtqWh+5Qc0wBOtTTmCVlulcYcG4dBAYO3/lFWjMDhCkULa36djskDsxLi7vdDVR3+edYPH4G9e9HFOpHs=;m7viR2GauMNxN9meh72UaA=="
 ---
 

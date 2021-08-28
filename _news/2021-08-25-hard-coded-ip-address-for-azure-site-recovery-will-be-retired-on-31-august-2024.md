@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/transition-to-using-serv
 webUrl: "https://azure.microsoft.com/en-us/updates/transition-to-using-service-tags-by-31-august-2024/"
 type: article
 quality: 80
-heat: 123
+heat: 120
 published: true
 
 provider:
