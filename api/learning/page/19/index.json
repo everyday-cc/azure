@@ -1236,6 +1236,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-configure-azure-application-gateway.md",
+      "title": "Configure Azure Application Gateway",
+      "excerpt": "You will learn how to configure an Azure Application Gateway.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-application-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-application-gateway/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 27,
+        "average": 4.962963
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-azure-dns.md",
       "title": "Configure Azure DNS",
       "excerpt": "You will learn how to configure Azure DNS including custom domain names and record sets.",
@@ -1279,15 +1322,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-expressroute-virtual-wan.md",
-      "title": "Configure ExpressRoute and Virtual WAN",
-      "excerpt": "You will learn how to configure ExpressRoute and Virtual WAN to provide connection services.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-expressroute-virtual-wan/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-expressroute-virtual-wan/",
-      "length": "PT24M",
+      "path": "_learning/courses/microsoft-learn-configure-azure-load-balancer.md",
+      "title": "Configure Azure Load Balancer",
+      "excerpt": "You will learn how to configure an internal or public load balancer.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-configure-azure-load-balancer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-load-balancer/",
+      "length": "PT33M",
       "ratings": {
-        "count": 31,
-        "average": 4.83871
+        "count": 28,
+        "average": 4.928571
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1492,50 +1535,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
-      "title": "Control authentication for your APIs with Azure API Management",
-      "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-control-authentication-with-apim/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 2581,
-        "average": 4.6671834
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
       ]
     }
   ],
