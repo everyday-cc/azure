@@ -169,8 +169,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 3877,
-        "average": 4.7559967
+        "count": 3878,
+        "average": 4.755802
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -256,8 +256,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 3617,
-        "average": 4.647498
+        "count": 3618,
+        "average": 4.646766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -371,8 +371,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
       "length": "PT29M",
       "ratings": {
-        "count": 554,
-        "average": 4.8249097
+        "count": 555,
+        "average": 4.8252254
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -407,6 +407,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
+      "title": "Get started with Azure DevOps",
+      "excerpt": "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers.",
+      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-get-started-with-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 8752,
+        "average": 4.735489
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
       "title": "Introduction to GitHub",
       "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
@@ -414,8 +449,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 2215,
-        "average": 4.7715573
+        "count": 2216,
+        "average": 4.771661
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -860,8 +895,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-active-directory/",
       "length": "PT27M",
       "ratings": {
-        "count": 137,
-        "average": 4.70073
+        "count": 138,
+        "average": 4.7028985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -903,8 +938,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-azure-policy/",
       "length": "PT30M",
       "ratings": {
-        "count": 86,
-        "average": 4.7093024
+        "count": 87,
+        "average": 4.7126436
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -945,8 +980,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-role-based-access-control/",
       "length": "PT27M",
       "ratings": {
-        "count": 104,
-        "average": 4.644231
+        "count": 105,
+        "average": 4.6476192
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -987,8 +1022,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-user-group-accounts/",
       "length": "PT24M",
       "ratings": {
-        "count": 120,
-        "average": 4.7166667
+        "count": 121,
+        "average": 4.7190084
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1184,43 +1219,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-      "title": "Execute an Azure Function with triggers",
-      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-      "sourceUrl": "https://everyday-cc.github.io/azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-      "length": "PT1H23M",
-      "ratings": {
-        "count": 5415,
-        "average": 4.7331486
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
       ]
     }
   ],
