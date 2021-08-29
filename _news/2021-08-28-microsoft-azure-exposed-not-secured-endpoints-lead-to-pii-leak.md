@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure flaw exposed ‘thousands’ of customer databases"
-excerpt: "Microsoft has warned thousands of its Azure cloud customers that their main databases have been compromised. The impacted customers included some of the world’s largest companies, according to cyber security researcher Wiz."
-publishedDateTime: 2021-08-27T13:47:00Z
-originalUrl: "https://www.techcentral.ie/microsoft-azure-flaw-exposed-thousands-of-customer-databases/"
-webUrl: "https://www.techcentral.ie/microsoft-azure-flaw-exposed-thousands-of-customer-databases/"
+title: "Microsoft Azure Exposed & Not Secured Endpoints Lead To PII LEAK"
+excerpt: "Microsoft Azure Told Me This Was No Big Deal, and by default users data from an organization you are part of is leaking in aad.portal.azure.com, the access in my report is not disabled by default"
+publishedDateTime: 2021-08-28T05:20:00Z
+originalUrl: "https://github.com/jonathandata1/microsoft_azure_personally_identifiable_info_leak/blob/master/README.md"
+webUrl: "https://github.com/jonathandata1/microsoft_azure_personally_identifiable_info_leak/blob/master/README.md"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Mozilla
-  domain: techcentral.ie
+  name: GitHub
+  domain: github.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.techcentral.ie/wp-content/uploads/2020/04/azure-1.jpg"
-    width: 620
-    height: 350
+  - url: "https://opengraph.githubassets.com/1ae7609d48b52b49d94db3d455f82cc4662d3c27e65a6d94fb5a7a39bf8a6cfc/jonathandata1/microsoft_azure_personally_identifiable_info_leak"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -414,6 +414,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Azure flaw exposed ‘thousands’ of customer databases"
+    excerpt: "Microsoft has warned thousands of its Azure cloud customers that their main databases have been compromised. The impacted customers included some of the world’s largest companies, according to cyber security researcher Wiz."
+    publishedDateTime: 2021-08-27T13:47:00Z
+    webUrl: "https://www.techcentral.ie/microsoft-azure-flaw-exposed-thousands-of-customer-databases/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 37
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2020/04/azure-1.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Sunshine Holdings transforms data management with Microsoft Azure"
     excerpt: "Sri Lankan healthcare and retail firm Sunshine Holdings is driving its digital transformation with a new analytics platform based on Microsoft Azure technologies, which it uses to consolidate data and provide analytics across its group of companies."
     publishedDateTime: 2021-08-26T23:06:00Z
@@ -427,20 +441,6 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10477/img-Microsoft_datacentre_data_web.jpg"
         width: 940
         height: 443
-        isCached: true
-  - title: "Microsoft Azure Exposed & Not Secured Endpoints Lead To PII LEAK"
-    excerpt: "Microsoft Azure Told Me This Was No Big Deal, and by default users data from an organization you are part of is leaking in aad.portal.azure.com, the access in my report is not disabled by default"
-    publishedDateTime: 2021-08-28T05:20:00Z
-    webUrl: "https://github.com/jonathandata1/microsoft_azure_personally_identifiable_info_leak/blob/master/README.md"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 37
-    images:
-      - url: "https://opengraph.githubassets.com/1ae7609d48b52b49d94db3d455f82cc4662d3c27e65a6d94fb5a7a39bf8a6cfc/jonathandata1/microsoft_azure_personally_identifiable_info_leak"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
     excerpt: "Rookout Live debugging is now available across the Azure ecosystem, to both enterprises and early-stage entrepreneurs through the Azure marketplace. SAN FRANCISCO, Aug. 23, 2021 ("
@@ -526,6 +526,6 @@ related:
       domain: equitybulls.com
     quality: 2
 
-secured: "AB8Ve58UfgdAigQGpKcleZWSjvgxh+0ahF6pSFRaIL1SMM5ajuEQmFvfmhnpooN1oyp19mFfMn9bOc2zSWfKd9ZS7jYExRfp/K09yWJiPQ9F3ycWTOVvQVaY9iKMrKF33F0a8MwS9qpgz8v23ob6q1f6oImNqpYl/k65B6F6UuzYczVXxrnP5rNR+WIbHa5DAUN40goY4iWrfX5AqTmHUcTVs/sDZl+BlComQsI+KfFw5mslIwqNnp1473zddjd0SXvfmw9PCwd9bO3GAfYqJAs259+cG7rPV0PrrVffpyO9Lqd185jgDn+xydnYfSpGGeUig+IM2iPN+k+yqGciwfaCCvRWnXlk6Ax5ZyOjOGY=;ujUBStJvcCgoHZ4s+VIdjA=="
+secured: "qBCBgtfblF5AwDOn9LdzvA18p/36xh6hDIAq0+K0ZNZz/XIkbsChIFpYUp/MB8BFBs7Gd5xOHwUYC2Uu1lZxvJHXTy5s59vG3ZS+Mo6q5xh0JfdKJTvaG71DaG995P4wc9ZlIwR5+IWsSLpGs3117GOBSIy3gSR7MlIWp4K8nBt/1lTOdMhu3dfwxEJFChujadr6wwO5ngGc987s0HB86OpOjM+xDXRMKd0t8X6RkJeBpX3hUEETgGMs/6284wC/Pz45mobhL1qpkiO5gr98yjbA38sTu/SWio8moWLzZ2W0000kN0llY8xpK2H3mBQ45JIbHeldf4cFb3FitczRXQKfHsDF4MMPdGLzAbj79K0=;LwtC0bKmTnyUJ3Ip7BvYyA=="
 ---
 

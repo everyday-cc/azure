@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/microsoft-azure-cosmos-db-database-
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-azure-cosmos-db-database-security-flaw"
 type: article
 quality: 102
-heat: 785
+heat: 805
 published: true
 
 provider:
@@ -429,6 +429,20 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10477/img-Microsoft_datacentre_data_web.jpg"
         width: 940
         height: 443
+        isCached: true
+  - title: "Microsoft Azure Exposed & Not Secured Endpoints Lead To PII LEAK"
+    excerpt: "Microsoft Azure Told Me This Was No Big Deal, and by default users data from an organization you are part of is leaking in aad.portal.azure.com, the access in my report is not disabled by default"
+    publishedDateTime: 2021-08-28T05:20:00Z
+    webUrl: "https://github.com/jonathandata1/microsoft_azure_personally_identifiable_info_leak/blob/master/README.md"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 37
+    images:
+      - url: "https://opengraph.githubassets.com/1ae7609d48b52b49d94db3d455f82cc4662d3c27e65a6d94fb5a7a39bf8a6cfc/jonathandata1/microsoft_azure_personally_identifiable_info_leak"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Rookout provides .NET debugging and observability data on Microsoft Azure"
     excerpt: "Rookout Live debugging is now available across the Azure ecosystem, to both enterprises and early-stage entrepreneurs through the Azure marketplace. SAN FRANCISCO, Aug. 23, 2021 ("

@@ -442,6 +442,20 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "Microsoft Azure Exposed & Not Secured Endpoints Lead To PII LEAK"
+    excerpt: "Microsoft Azure Told Me This Was No Big Deal, and by default users data from an organization you are part of is leaking in aad.portal.azure.com, the access in my report is not disabled by default"
+    publishedDateTime: 2021-08-28T05:20:00Z
+    webUrl: "https://github.com/jonathandata1/microsoft_azure_personally_identifiable_info_leak/blob/master/README.md"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 37
+    images:
+      - url: "https://opengraph.githubassets.com/1ae7609d48b52b49d94db3d455f82cc4662d3c27e65a6d94fb5a7a39bf8a6cfc/jonathandata1/microsoft_azure_personally_identifiable_info_leak"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Telia Company to become Microsoft Azure Networking MSP partner"
     excerpt: "Telia Company has become a Microsoft Azure Networking Managed Service Provider (MSP), as part of the Microsoft Partner programme. This means Telia can now supply managed network services for Microsoft Azure,"
     publishedDateTime: 2021-08-23T14:14:00Z
