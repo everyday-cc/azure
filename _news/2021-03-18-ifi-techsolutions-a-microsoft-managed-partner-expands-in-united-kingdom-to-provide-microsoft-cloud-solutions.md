@@ -841,6 +841,17 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 54
+  - title: "Thousands of Microsoft Azure Cosmos DB customers at risk"
+    excerpt: "Microsoft warned thousands of its cloud computing customers ... and two weeks ago we discovered an unprecedented breach that affects Azure’s flagship database service, Cosmos DB. “Some of the world’s biggest businesses use Cosmos DB to manage ..."
+    publishedDateTime: 2021-08-29T05:09:00Z
+    webUrl: "https://www.itp.net/security/99701-thousands-of-microsoft-azure-cosmos-db-customers-at-risk"
+    ampWebUrl: "https://www.itp.net/security/99701-thousands-of-microsoft-azure-cosmos-db-customers-at-risk?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/99701-thousands-of-microsoft-azure-cosmos-db-customers-at-risk?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 54
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z

@@ -1,27 +1,24 @@
 ---
 category: news
-title: "Introducing EMQ X Cloud on Microsoft Azure"
-excerpt: "is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker - EMQ X, which has ..."
-publishedDateTime: 2021-07-26T19:41:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
+title: "Thousands of Microsoft Azure Cosmos DB customers at risk"
+excerpt: "Microsoft warned thousands of its cloud computing customers ... and two weeks ago we discovered an unprecedented breach that affects Azure’s flagship database service, Cosmos DB. “Some of the world’s biggest businesses use Cosmos DB to manage ..."
+publishedDateTime: 2021-08-29T05:09:00Z
+originalUrl: "https://www.itp.net/security/99701-thousands-of-microsoft-azure-cosmos-db-customers-at-risk"
+webUrl: "https://www.itp.net/security/99701-thousands-of-microsoft-azure-cosmos-db-customers-at-risk"
+ampWebUrl: "https://www.itp.net/security/99701-thousands-of-microsoft-azure-cosmos-db-customers-at-risk?amp"
+cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/99701-thousands-of-microsoft-azure-cosmos-db-customers-at-risk?amp"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: GDPR fines
+  domain: itp.net
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1581139/image_1.jpg?p=facebook"
-    width: 2472
-    height: 1294
-    isCached: true
+  - Databases
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -838,17 +835,6 @@ related:
     webUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
     ampWebUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
     cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 54
-  - title: "Thousands of Microsoft Azure Cosmos DB customers at risk"
-    excerpt: "Microsoft warned thousands of its cloud computing customers ... and two weeks ago we discovered an unprecedented breach that affects Azure’s flagship database service, Cosmos DB. “Some of the world’s biggest businesses use Cosmos DB to manage ..."
-    publishedDateTime: 2021-08-29T05:09:00Z
-    webUrl: "https://www.itp.net/security/99701-thousands-of-microsoft-azure-cosmos-db-customers-at-risk"
-    ampWebUrl: "https://www.itp.net/security/99701-thousands-of-microsoft-azure-cosmos-db-customers-at-risk?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/99701-thousands-of-microsoft-azure-cosmos-db-customers-at-risk?amp"
     type: article
     provider:
       name: GDPR fines
@@ -1736,6 +1722,20 @@ related:
         width: 1300
         height: 1300
         isCached: true
+  - title: "Introducing EMQ X Cloud on Microsoft Azure"
+    excerpt: "is pleased to announce that EMQ X Cloud is now available on Microsoft Azure. EMQ X Cloud is a fully managed MQTT service built on the worldwide used open-source MQTT broker - EMQ X, which has ..."
+    publishedDateTime: 2021-07-26T19:41:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/introducing-emq-x-cloud-on-microsoft-azure-872241820.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1581139/image_1.jpg?p=facebook"
+        width: 2472
+        height: 1294
+        isCached: true
   - title: "Microsoft expands Azure Gaming team to UK"
     excerpt: "Xbox veteran Harvey Eagle will lead the Azure Gaming effort in the UK. Microsoft has been investing heavily in its games enterprise business as it wants more developers making use of cloud technology (Azure) and cross-play."
     publishedDateTime: 2021-08-03T09:01:00Z
@@ -2436,6 +2436,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "DF1QkkiQG0Vw2YOVzVaPLjQFgIKY5MjeH/ri+dv49oLdpkfmUt7ljMT7j4YYcJYHyobD/m/DLTPepSD8KqBD3wYGkA9Qs80vv1vcEYaTw4Yze6mWSQeaagaZ5vwJcIFns3mDA8x2sZM9KqKhFC+ABXDBcuL3f4L0YbxnxRu6wadfgU+cJ7y9VEVVG7+0j/wpguenws5mw4gnrbvGgucdJIh6wgpjY1T2zyG+LW4Kk1GR7O1t39Xu5hCM2IjdlshDcq69UHa2LkzPfcTLY+Le0i2sdGgEKdi0f7AOxpNU0EztX6kvZeuRsBYk2Vo/J8MlkZxEVRd0n6D/L1W0O7E0UxfOFwbxYzgoFF/Y+gquIaw=;EYaOKeNhQB5okHT1wOEpjw=="
+secured: "UTuX9bSyN7gnRw5SXAyOEdmILDRRYaV3gN1vuq/4onXsSCd67cpjfKVjQdWpoZI2mLKD7pmRjomGHkOU7BylbFotATKAk0BqjRRiWwdWdVdElibYDZyZYLCvEaYCNkVrBicAUCqF8X1rD2CdkLBw01GH/Zk7p4Ct98C/7h5ndb36jUEG/J7/P6SHjyzCbYczSurwERYxgE0pfhvzTs7BI4RjHKxr7rw1e3GiNRf6ITOqIUybbLgVLSJlpgDoR4HAvDugNFqJcXKZCxEYzZyYhxywGUIdnXNz2C5FWR6B9qF8TJdMdHwGPFNePNR9W8aw7/C4FhohP+a9pq4OCF76KEUS5nAY36mglXYI7zApBHo=;Db5BHL3Fvlg1cJeh3XGsnQ=="
 ---
 

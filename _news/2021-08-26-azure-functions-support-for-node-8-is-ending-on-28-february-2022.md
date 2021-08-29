@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-support-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-support-for-node-8-is-ending-on-28-february-2022/"
 type: article
 quality: 84
-heat: 124
+heat: 126
 published: true
 
 provider:
