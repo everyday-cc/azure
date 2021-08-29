@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
 type: article
 quality: 114
-heat: 3654
+heat: 3674
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
       - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/12/eb2e4ada-71dc-4dcf-8630-6e7faa8868c3/resize/1200x/10e7166cee61b6f851ebc77ab9623583/developer-workload-devops-team-tech-worker-it-staff.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Thousands of Microsoft Azure cloud databases possibly exposed online"
+    excerpt: "Microsoft is notifying customers that a loophole in its Azure Cosmos DB database could have enabled intruders to read and modify their data. Cosmos DB is Microsoft’s database service that runs ..."
+    publishedDateTime: 2021-08-27T11:45:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AEKyJbeULZwrwZA9XcM8vb-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy"
     excerpt: "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning."

@@ -1,25 +1,32 @@
 ---
 category: news
-title: "Microsoft Azure Stack HCI"
-excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
-publishedDateTime: 2020-07-29T19:17:00Z
-webUrl: "https://www.crn.com/2020/07/29/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+title: "Thousands of Microsoft Azure cloud databases possibly exposed online"
+excerpt: "Microsoft is notifying customers that a loophole in its Azure Cosmos DB database could have enabled intruders to read and modify their data. Cosmos DB is Microsoft’s database service that runs ..."
+publishedDateTime: 2021-08-27T11:45:00Z
+originalUrl: "https://www.techradar.com/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
+webUrl: "https://www.techradar.com/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
 type: article
-quality: 37
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://everyday-cc.github.io/azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
-    width: 515
-    height: 305
+  - url: "https://cdn.mos.cms.futurecdn.net/AEKyJbeULZwrwZA9XcM8vb-1200-80.jpg"
+    width: 970
+    height: 545
     isCached: true
 
 related:
@@ -276,22 +283,6 @@ related:
       - url: "https://www.techrepublic.com/a/hub/i/r/2021/07/12/eb2e4ada-71dc-4dcf-8630-6e7faa8868c3/resize/1200x/10e7166cee61b6f851ebc77ab9623583/developer-workload-devops-team-tech-worker-it-staff.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Thousands of Microsoft Azure cloud databases possibly exposed online"
-    excerpt: "Microsoft is notifying customers that a loophole in its Azure Cosmos DB database could have enabled intruders to read and modify their data. Cosmos DB is Microsoft’s database service that runs ..."
-    publishedDateTime: 2021-08-27T11:45:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 97
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/AEKyJbeULZwrwZA9XcM8vb-1200-80.jpg"
-        width: 970
-        height: 545
         isCached: true
   - title: "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy"
     excerpt: "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning."
@@ -1157,6 +1148,20 @@ related:
     excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
     publishedDateTime: 2020-07-28T23:28:00Z
     webUrl: "https://www.crn.com/2020/07/28/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
+        width: 515
+        height: 305
+        isCached: true
+  - title: "Microsoft Azure Stack HCI"
+    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
+    publishedDateTime: 2020-07-29T19:17:00Z
+    webUrl: "https://www.crn.com/2020/07/29/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
     type: article
     provider:
       name: CRN
@@ -2424,6 +2429,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "wB1ZajcOxPYBj7wW91Ja02SolBQUBWXsgTSQOaxi9V2ASi93FTeas9R1HkaqLGP5EzbjbSmSP4p5gMIuz7z0T8kkdI6f2qPuKkH3o5pUVz3nhuADchEIiHgilEqIxHA3xCPU6pMf52sWUWEAPvJcK2Rli4j3Tnf/zoP1eWJGn0QwznvFHDxeFC5iJP/ZyhNnIFPprDCyHCtY+RClMXXJB777IcS8k2Wfg0pT+hc0nqQR97t9TpY5mPfTQOvwNVpnitWCW08NDBi0eKoNGz8QVeCDgMdEfjrOQLgW1nGHNs2EWpdDnLFigWgrIdRZgwUvHdGxavOpXOzRFPt4YOo8hA==;G1a81bcaiLRAe4+MMrUlGw=="
+secured: "yTcJZN8wLqZ1nj7TqXk2MbpNNskFpA36C82kKGMUsR0sXZlSPQGIREonb5ktdh6eYGIPhMJ9y8/O3mUqnLvaNYYxhUKscV+MFhjkjVz3mTPKf793DeBiv03j2X1exiUBbsHQfGiFKQJtz6PTsb56kCKIqLbzVULOKtYwZkkqnIXi1zrVy2VbQqI0GMXv6qmRTHZZy3vUbKn272Fwthk+VW+Q7z5/ZsEqhDtt4XwdKGsYNxO7bx6WL4kYV8vYyWwn7zA7l1aZSYA0QTO23dQZY14IlAEo9SybA/B+VAHzm8vQIo1hk41tYXjmL2g9BGlVORSJYhPI2rG2coHOglQ+n9svCW1oa7X7+lc5LqJS3eo=;/fQvK2MycyY6NqXnA8SYQw=="
 ---
 

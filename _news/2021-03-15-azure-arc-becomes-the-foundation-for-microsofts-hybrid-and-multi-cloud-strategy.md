@@ -284,6 +284,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Thousands of Microsoft Azure cloud databases possibly exposed online"
+    excerpt: "Microsoft is notifying customers that a loophole in its Azure Cosmos DB database could have enabled intruders to read and modify their data. Cosmos DB is Microsoft’s database service that runs ..."
+    publishedDateTime: 2021-08-27T11:45:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-warns-thousands-of-azure-cloud-databases-may-have-been-exposed"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AEKyJbeULZwrwZA9XcM8vb-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Retrospect adds support for Microsoft Azure Blob Storage"
     excerpt: "Retrospect, a StorCentric company, has announced the general availability of Microsoft Azure Blob Storage support for Retrospect Backup and Retrospect Virtual. The software updates enable organisations to leverage Azure as a backup destination,"
     publishedDateTime: 2021-06-24T08:18:00Z
